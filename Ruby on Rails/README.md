@@ -4,6 +4,8 @@ Included is sample code from my latest project [VIN Vault](http://www.vinvault.c
 
 The site is a subscription site that allows users to sign up for access to the VIN decoding API that I use for my iOS apps.  The site uses [Stripe](http://www.stripe.com) for payment and Devise and CanCan for authentication and authorization.
 
+The documentation for the API is available in the `VINVault API Documentation.md` file.
+
 ### App directory
 I've tried to include a variety of code from each of the categories of Rails files.  The site is divided into a front end presentation for signing up for the service as well as accessing the API.
 
