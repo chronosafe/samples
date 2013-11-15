@@ -1,0 +1,17 @@
+<div class='alert alert-info'>
+
+  </a>
+
+  <h4>
+    <i class='icon-info-sign'></i>
+    The <%= plan.name %> Plan
+  </h4>
+  You're signing up for the <strong><%= plan.name %></strong> plan, at a cost of
+  <strong>$<%= plan.price %></strong> per month.  This plan gives you access to the
+  <%= plan.decode_type %> service with <span style='text-decoration: underline'><%= pricing(plan.per_day) %></span> daily
+  and <span style='text-decoration: underline'><%= pricing(plan.per_month) %></span> monthly decodes.
+</div>
+
+<p>
+  Please note that this service automatically rebills on the monthly anniversary <strong>after</strong> the trial period has expired.
+</p>

@@ -1,0 +1,989 @@
+cls 928, G0([\dX]{6})
+clv 4026, 1970, Cadillac, Calais, Coupe
+ci axle Semifloating
+ci make Cadillac
+ci msrp $5637.00
+ci prod 4724
+ci series Calais
+ci year 1970
+ci origin United States
+ci doors 2
+ci weight 4555
+ci maker Fisher
+ci model 68247
+ci svc Power front disc rear self-adjusting drum
+ci bsize 12
+ci fbsize 11.9
+ci ebrake Rear wheels
+ci rdiff 5
+ci trans 7
+ci tcase -NA-
+ci fuel 26
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.93
+ci wbase 129.5
+ci rtred 63
+ci height 54.4
+ci width 79.9
+ci length 225
+ci engno Same as VIN Serial Number.
+ci bhp 375@4400
+ci etype Turbo Hydra-matic
+ci block Cast Iron
+ci b&s 4.3 & 4.06
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 59.2
+ci etype V8 Overhead valve
+ci comp 10.0
+ci trq 525@3000
+ci disp 472
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Bayberry Metallic
+co Briarwood Firemist Metallic
+co Byzantine Gold Metallic
+co Chateau Mauve Firemist Metallic
+co Cinnamon Firemist Metallic
+co Condor Blue Metallic
+co Corinthian Blue Metallic
+co Cotillion White
+co Dark Walnute Metallic
+co Glenmore Green Metallic
+co Lucerne Aqua Firemist Metallic
+co Monarch Burgandy Metallic
+co Nottingham Green Firemist Metallic
+co Patina Silver Metallic
+co Phantom Gray Metallic
+co Regency Bronze Firemist Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sauterne Metallic
+co Spartacus Blue Firemist Metallic
+co Two Tone Colors Available
+ci cool Centrifugal water  pump
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 21 3/10 Quarts
+ci exha Single
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15
+ci sloc Trunk
+cls 929, N0([\dX]{6})
+clv 4027, 1970, Cadillac, Calais, Hardtop
+ci axle Semifloating
+ci series Calais
+ci make Cadillac
+ci msrp $5813.00
+ci year 1970
+ci origin United States
+ci prod 5187
+ci weight 4624
+ci maker Fisher
+ci model 68249
+ci doors 4
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.9
+ci bsize 12
+ci ebrake Rear wheels
+ci tcase -NA-
+ci trans 7
+ci fuel 26
+ci oil 5
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.93
+ci wbase 129.5
+ci rtred 63
+ci height 54.4
+ci width 79.9
+ci length 225
+ci engno Same as VIN Serial Number.
+ci bhp 375@4400
+ci etype Turbo Hydra-matic
+ci block Cast Iron
+ci b&s 4.3 & 4.06
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 59.2
+ci etype V8 Overhead valve
+ci comp 10.0
+ci trq 525@3000
+ci disp 472
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Bayberry Metallic
+co Briarwood Firemist Metallic
+co Byzantine Gold Metallic
+co Chateau Mauve Firemist Metallic
+co Cinnamon Firemist Metallic
+co Condor Blue Metallic
+co Corinthian Blue Metallic
+co Cotillion White
+co Dark Walnute Metallic
+co Glenmore Green Metallic
+co Lucerne Aqua Firemist Metallic
+co Monarch Burgandy Metallic
+co Nottingham Green Firemist Metallic
+co Patina Silver Metallic
+co Phantom Gray Metallic
+co Regency Bronze Firemist Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sauterne Metallic
+co Spartacus Blue Firemist Metallic
+co Two Tone Colors Available
+ci cool Centrifugal water  pump
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 21 3/10 Quarts
+ci exha Single
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15
+ci sloc Trunk
+cls 930, F0([\dX]{6})
+clv 4028, 1970, Cadillac, De Ville, Convertible
+ci axle Semifloating
+ci series De Ville
+ci year 1970
+ci msrp $6068.00
+ci make Cadillac
+ci prod 15172
+ci origin United States
+ci maker Fisher
+ci doors 2
+ci weight 4591
+ci model 68367
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci fbsize 11.9
+ci fuel 26
+ci tcase -NA-
+ci rdiff 5
+ci trans 7
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci length 225
+ci height 54.4
+ci rtred 63
+ci width 79.9
+ci wbase 129.5
+ci block Cast Iron
+ci rhp 59.2
+ci cyl 8
+ci trq 525@3000
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Overhead valve
+ci etype Downdraft 4-barrel
+ci engno Same as VIN Serial Number.
+ci mbear 5
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci bhp 375@4400
+ci comp 10.0
+ci b&s 4.3 & 4.06
+ci disp 472
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Bayberry Metallic
+co Briarwood Firemist Metallic
+co Byzantine Gold Metallic
+co Chateau Mauve Firemist Metallic
+co Cinnamon Firemist Metallic
+co Condor Blue Metallic
+co Corinthian Blue Metallic
+co Cotillion White
+co Dark Walnute Metallic
+co Glenmore Green Metallic
+co Lucerne Aqua Firemist Metallic
+co Monarch Burgandy Metallic
+co Nottingham Green Firemist Metallic
+co Patina Silver Metallic
+co Phantom Gray Metallic
+co Regency Bronze Firemist Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sauterne Metallic
+co Spartacus Blue Firemist Metallic
+co Two Tone Colors Available
+ci exha Single
+ci rad Tube and center
+ci cool 21 3/10 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15
+ci sloc Trunk
+cls 931, J0([\dX]{6})
+clv 4029, 1970, Cadillac, De Ville, Coupe de Ville
+ci axle Semifloating
+ci msrp $5884.00
+ci origin United States
+ci prod 76043
+ci make Cadillac
+ci year 1970
+ci series De Ville
+ci doors 2
+ci maker Fisher
+ci model 68347
+ci weight 4581
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.9
+ci fuel 26
+ci oil 5
+ci tcase -NA-
+ci rdiff 5
+ci trans 7
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci wbase 129.5
+ci rtred 63
+ci height 54.4
+ci width 79.9
+ci length 225
+ci etype Downdraft 4-barrel
+ci etype V8 Overhead valve
+ci block Cast Iron
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 525@3000
+ci bhp 375@4400
+ci engno Same as VIN Serial Number.
+ci b&s 4.3 & 4.06
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci comp 10.0
+ci mbear 5
+ci rhp 59.2
+ci disp 472
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Bayberry Metallic
+co Briarwood Firemist Metallic
+co Byzantine Gold Metallic
+co Chateau Mauve Firemist Metallic
+co Cinnamon Firemist Metallic
+co Condor Blue Metallic
+co Corinthian Blue Metallic
+co Cotillion White
+co Dark Walnute Metallic
+co Glenmore Green Metallic
+co Lucerne Aqua Firemist Metallic
+co Monarch Burgandy Metallic
+co Nottingham Green Firemist Metallic
+co Patina Silver Metallic
+co Phantom Gray Metallic
+co Regency Bronze Firemist Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sauterne Metallic
+co Spartacus Blue Firemist Metallic
+co Two Tone Colors Available
+ci exha Single
+ci rad Tube and center
+ci batt 12
+ci ign Distributor and coil
+ci cool 21 3/10 Quarts
+ci cool Centrifugal water  pump
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15
+ci sloc Trunk
+cls 932, B0([\dX]{6})
+clv 4030, 1970, Cadillac, De Ville, Hardtop Sedan De Ville
+ci axle Semifloating
+ci msrp $6118.00
+ci make Cadillac
+ci origin United States
+ci prod 7230
+ci series De Ville
+ci year 1970
+ci maker Fisher
+ci model 68369
+ci weight 4653
+ci doors 4
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.9
+ci ebrake Rear wheels
+ci fuel 26
+ci oil 5
+ci tcase -NA-
+ci rdiff 5
+ci trans 7
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci wbase 129.5
+ci rtred 63
+ci height 54.4
+ci width 79.9
+ci length 225
+ci etype Downdraft 4-barrel
+ci etype V8 Overhead valve
+ci block Cast Iron
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 525@3000
+ci bhp 375@4400
+ci engno Same as VIN Serial Number.
+ci b&s 4.3 & 4.06
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci comp 10.0
+ci mbear 5
+ci rhp 59.2
+ci disp 472
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Bayberry Metallic
+co Briarwood Firemist Metallic
+co Byzantine Gold Metallic
+co Chateau Mauve Firemist Metallic
+co Cinnamon Firemist Metallic
+co Condor Blue Metallic
+co Corinthian Blue Metallic
+co Cotillion White
+co Dark Walnute Metallic
+co Glenmore Green Metallic
+co Lucerne Aqua Firemist Metallic
+co Monarch Burgandy Metallic
+co Nottingham Green Firemist Metallic
+co Patina Silver Metallic
+co Phantom Gray Metallic
+co Regency Bronze Firemist Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sauterne Metallic
+co Spartacus Blue Firemist Metallic
+co Two Tone Colors Available
+ci exha Single
+ci rad Tube and center
+ci batt 12
+ci ign Distributor and coil
+ci cool 21 3/10 Quarts
+ci cool Centrifugal water  pump
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15
+ci sloc Trunk
+cls 933, L0([\dX]{6})
+clv 4031, 1970, Cadillac, De Ville, Sedan de Ville
+ci axle Semifloating
+ci msrp $6118.00
+ci make Cadillac
+ci origin United States
+ci prod 83274
+ci series De Ville
+ci year 1970
+ci maker Fisher
+ci model 68349
+ci weight 4651
+ci doors 4
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.9
+ci ebrake Rear wheels
+ci fuel 26
+ci oil 5
+ci tcase -NA-
+ci rdiff 5
+ci trans 7
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci wbase 129.5
+ci rtred 63
+ci width 79.9
+ci height 54.4
+ci length 225
+ci etype Downdraft 4-barrel
+ci etype V8 Overhead valve
+ci block Cast Iron
+ci b&s 4.3 & 4.06
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 525@3000
+ci bhp 375@4400
+ci engno Same as VIN Serial Number.
+ci cyl 8
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci comp 10.0
+ci mbear 5
+ci rhp 59.2
+ci disp 472
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Bayberry Metallic
+co Briarwood Firemist Metallic
+co Byzantine Gold Metallic
+co Chateau Mauve Firemist Metallic
+co Cinnamon Firemist Metallic
+co Condor Blue Metallic
+co Corinthian Blue Metallic
+co Cotillion White
+co Dark Walnute Metallic
+co Glenmore Green Metallic
+co Lucerne Aqua Firemist Metallic
+co Monarch Burgandy Metallic
+co Nottingham Green Firemist Metallic
+co Patina Silver Metallic
+co Phantom Gray Metallic
+co Regency Bronze Firemist Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sauterne Metallic
+co Spartacus Blue Firemist Metallic
+co Two Tone Colors Available
+ci exha Single
+ci rad Tube and center
+ci batt 12
+ci ign Distributor and coil
+ci cool 21 3/10 Quarts
+ci cool Centrifugal water  pump
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15
+ci sloc Trunk
+cls 934, E0([\dX]{6})
+clv 4032, 1970, Cadillac, Eldorado, Coupe
+ci msrp $6903.00
+ci make Cadillac
+ci series Eldorado
+ci origin United States
+ci year 1970
+ci prod 23842
+ci model 69347
+ci doors 2
+ci weight 4530
+ci maker Fleetwood
+ci ebrake Rear wheels
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fuel 25
+ci trans 11
+ci fdiff 4.5
+ci tcase -NA-
+ci oil 5
+ci carb Rochester
+ci diffr 3.07
+ci diff Not applicable
+ci height 53.7
+ci wbase 120
+ci length 221
+ci rtred 63
+ci ftred 63.7
+ci width 79.9
+ci block Cast Iron
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci b&s 4.3 & 4.3
+ci mbear 5
+ci etype Turbo Hydra-matic
+ci rhp 59.17
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 550@3000
+ci etype V8 Overhead valve
+ci comp 10.0
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci vlift Hydraulic
+ci disp 500
+ci bhp 400@4400
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Bayberry Metallic
+co Briarwood Firemist Metallic
+co Byzantine Gold Metallic
+co Chateau Mauve Firemist Metallic
+co Cinnamon Firemist Metallic
+co Condor Blue Metallic
+co Corinthian Blue Metallic
+co Cotillion White
+co Dark Walnute Metallic
+co Glenmore Green Metallic
+co Lucerne Aqua Firemist Metallic
+co Monarch Burgandy Metallic
+co Nottingham Green Firemist Metallic
+co Patina Silver Metallic
+co Phantom Gray Metallic
+co Regency Bronze Firemist Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sauterne Metallic
+co Spartacus Blue Firemist Metallic
+co Two Tone Colors Available
+ci rad Tube and center
+ci cool 21 3/10 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci exha Dual
+ci equip Power seats
+ci equip Power windows
+ci equip Radio
+ci equip Speed control device
+ci equip Power antenna
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci rsus Single leaf
+ci fsus Independent torsion bar
+ci drive Front wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15
+cls 935, P0([\dX]{6})
+clv 4033, 1970, Cadillac, Fleetwood, Brougham
+ci axle Semifloating
+ci series Fleetwood
+ci year 1970
+ci msrp $7284.00
+ci make Cadillac
+ci prod 16913
+ci origin United States
+ci maker Fleetwood
+ci doors 4
+ci weight 4775
+ci model 68169
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.9
+ci fuel 26
+ci tcase -NA-
+ci trans 7
+ci oil 6
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci height 53.6
+ci rtred 63
+ci length 228.5
+ci width 79.9
+ci wbase 133
+ci block Cast Iron
+ci rhp 59.2
+ci cyl 8
+ci trq 525@3000
+ci etype V8 Overhead valve
+ci etype Downdraft 4-barrel
+ci engno Same as VIN Serial Number.
+ci bhp 375@4400
+ci mbear 5
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci comp 10.0
+ci disp 472
+ci b&s 4.3 & 4.06
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Bayberry Metallic
+co Briarwood Firemist Metallic
+co Byzantine Gold Metallic
+co Chateau Mauve Firemist Metallic
+co Cinnamon Firemist Metallic
+co Condor Blue Metallic
+co Corinthian Blue Metallic
+co Cotillion White
+co Dark Walnute Metallic
+co Glenmore Green Metallic
+co Lucerne Aqua Firemist Metallic
+co Monarch Burgandy Metallic
+co Nottingham Green Firemist Metallic
+co Patina Silver Metallic
+co Phantom Gray Metallic
+co Regency Bronze Firemist Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sauterne Metallic
+co Spartacus Blue Firemist Metallic
+co Two Tone Colors Available
+ci exha Single
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 21 3/10 Quarts
+ci cool Centrifugal water  pump
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15
+ci sloc Trunk
+cls 936, M0([\dX]{6})
+clv 4034, 1970, Cadillac, Fleetwood, Sedan
+ci axle Semifloating
+ci series Fleetwood
+ci year 1970
+ci msrp $6953.00
+ci make Cadillac
+ci prod 1738
+ci origin United States
+ci maker Fleetwood
+ci doors 4
+ci weight 4730
+ci model 68069
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.9
+ci fuel 26
+ci tcase -NA-
+ci trans 7
+ci oil 6
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci height 53.6
+ci rtred 63
+ci length 228.5
+ci width 79.9
+ci wbase 133
+ci block Cast Iron
+ci rhp 59.2
+ci cyl 8
+ci trq 525@3000
+ci etype V8 Overhead valve
+ci etype Downdraft 4-barrel
+ci engno Same as VIN Serial Number.
+ci bhp 375@4400
+ci mbear 5
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci comp 10.0
+ci disp 472
+ci b&s 4.3 & 4.06
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Bayberry Metallic
+co Briarwood Firemist Metallic
+co Byzantine Gold Metallic
+co Chateau Mauve Firemist Metallic
+co Cinnamon Firemist Metallic
+co Condor Blue Metallic
+co Corinthian Blue Metallic
+co Cotillion White
+co Dark Walnute Metallic
+co Glenmore Green Metallic
+co Lucerne Aqua Firemist Metallic
+co Monarch Burgandy Metallic
+co Nottingham Green Firemist Metallic
+co Patina Silver Metallic
+co Phantom Gray Metallic
+co Regency Bronze Firemist Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sauterne Metallic
+co Spartacus Blue Firemist Metallic
+co Two Tone Colors Available
+ci exha Single
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 21 3/10 Quarts
+ci cool Centrifugal water  pump
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15
+ci sloc Trunk
+cls 937, S0([\dX]{6})
+clv 4035, 1970, Cadillac, 75 (69700), Limousine
+ci axle Semifloating
+ci msrp $11178.00
+ci series 75 (69700)
+ci origin United States
+ci year 1970
+ci make Cadillac
+ci prod 1240
+ci model 69733
+ci weight 5568
+ci maker Fleetwood
+ci doors 4
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.9
+ci trans 7
+ci tcase -NA-
+ci fuel 26
+ci rdiff 5
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci rtred 63
+ci wbase 149.8
+ci height 58.1
+ci length 245.2
+ci width 79.9
+ci block Cast Iron
+ci etype V8 Overhead valve
+ci rhp 59.2
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Same as VIN Serial Number.
+ci etype Downdraft 4-barrel
+ci bhp 375@4400
+ci trq 525@3000
+ci comp 10.0
+ci vlift Hydraulic
+ci etype Turbo Hydra-matic
+ci b&s 4.3 & 4.06
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci disp 472
+ci mbear 5
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Bayberry Metallic
+co Briarwood Firemist Metallic
+co Byzantine Gold Metallic
+co Chateau Mauve Firemist Metallic
+co Cinnamon Firemist Metallic
+co Condor Blue Metallic
+co Corinthian Blue Metallic
+co Cotillion White
+co Dark Walnute Metallic
+co Glenmore Green Metallic
+co Lucerne Aqua Firemist Metallic
+co Monarch Burgandy Metallic
+co Nottingham Green Firemist Metallic
+co Patina Silver Metallic
+co Phantom Gray Metallic
+co Regency Bronze Firemist Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sauterne Metallic
+co Spartacus Blue Firemist Metallic
+co Two Tone Colors Available
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci cool 21 3/10 Quarts
+ci cool Centrifugal water  pump
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Speed control device
+ci sgear Hydraulic power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15
+cls 938, R0([\dX]{6})
+clv 4036, 1970, Cadillac, 75 (69700), Sedan
+ci axle Semifloating
+ci msrp $11039.00
+ci series 75 (69700)
+ci origin United States
+ci make Cadillac
+ci year 1970
+ci prod 8769
+ci weight 5450
+ci maker Fleetwood
+ci doors 4
+ci model 69723
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.9
+ci ebrake Rear wheels
+ci trans 7
+ci tcase -NA-
+ci rdiff 5
+ci oil 5
+ci fuel 26
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci wbase 149.8
+ci rtred 63
+ci length 245.2
+ci width 79.9
+ci height 58.1
+ci block Cast Iron
+ci etype V8 Overhead valve
+ci rhp 59.2
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Same as VIN Serial Number.
+ci etype Downdraft 4-barrel
+ci bhp 375@4400
+ci trq 525@3000
+ci comp 10.0
+ci vlift Hydraulic
+ci etype Turbo Hydra-matic
+ci b&s 4.3 & 4.06
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci disp 472
+ci mbear 5
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Bayberry Metallic
+co Briarwood Firemist Metallic
+co Byzantine Gold Metallic
+co Chateau Mauve Firemist Metallic
+co Cinnamon Firemist Metallic
+co Condor Blue Metallic
+co Corinthian Blue Metallic
+co Cotillion White
+co Dark Walnute Metallic
+co Glenmore Green Metallic
+co Lucerne Aqua Firemist Metallic
+co Monarch Burgandy Metallic
+co Nottingham Green Firemist Metallic
+co Patina Silver Metallic
+co Phantom Gray Metallic
+co Regency Bronze Firemist Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sauterne Metallic
+co Spartacus Blue Firemist Metallic
+co Two Tone Colors Available
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci cool 21 3/10 Quarts
+ci cool Centrifugal water  pump
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Speed control device
+ci sgear Hydraulic power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title><%= site_name %> - <%= yield(:title) || 'VIN decoding services' %></title>
+  <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+  <meta content='text/html;charset=utf-8' http-equiv='content-type'>
+  <meta content='VIN Decoder' name='description'>
+  <link href='assets/images/meta_icons/favicon.ico' rel='shortcut icon' type='image/x-icon'>
+  <link href='assets/images/meta_icons/apple-touch-icon.png' rel='apple-touch-icon-precomposed'>
+  <link href='assets/images/meta_icons/apple-touch-icon-57x57.png' rel='apple-touch-icon-precomposed' sizes='57x57'>
+  <link href='assets/images/meta_icons/apple-touch-icon-72x72.png' rel='apple-touch-icon-precomposed' sizes='72x72'>
+  <link href='assets/images/meta_icons/apple-touch-icon-114x114.png' rel='apple-touch-icon-precomposed' sizes='114x114'>
+  <link href='assets/images/meta_icons/apple-touch-icon-144x144.png' rel='apple-touch-icon-precomposed' sizes='144x144'>
+  <meta name="description" content="<%= content_for?(:description) ? yield(:description) : ENV['Site_Name'] %>">
+  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+  <%= csrf_meta_tags %>
+  <%= yield(:head) %>
+</head>
+<body class='<%= ENV['SITE_COLOR'] %> <%= controller_name %> <%= action_name %> <%= yield(:optional_class) %>'>
+<%= render 'layouts/messages' %>
+<%= yield %>
+</body>
+</html>

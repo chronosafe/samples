@@ -1,0 +1,82 @@
+cls 4276, 1(\w)18(\w)([\dX]{6})
+clv 18655, 1956, Mercury, Medalist, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 14004
+ci msrp $2282.00
+ci origin United States
+ci year 1956
+ci series Medalist
+ci make Mercury
+ci maker Mercury
+ci doors 2
+ci model 62C
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci oil 5
+ci tcase -NA-
+ci trans 3.25
+ci rdiff 3.5
+ci fuel 18
+ci ctype Single plate dry disc
+ci csize 10.3 inches
+ci diffr 3.73
+ci diff Hypoid
+ci rtred 59
+ci length 194.8
+ci wbase 119
+ci width 70.4
+ci ftred 58
+ci height 56.3
+ci bhp 210@4600
+ci trq 312@2600
+ci b&s 3 51/64 & 3 7/16
+ci disp 311.37
+ci mbear 5
+ci cyl 8
+ci comp 8.0
+ci rhp 46.13
+ci vlift Mechanical
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On left front door hinge post below upper hinge opening.
+ci etype Helical
+ci etype V8 overhead valve
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co Cambridge Green
+co Carousel Red
+co Classic White
+co Delta Blue Metallic
+co Glamour Tan
+co Grove Green
+co Heath Green
+co Lauderdale Blue
+co London Gray Metallic
+co Niagara Blue
+co Persimmon
+co Pinewood Green Metallic
+co Saffron Yellow
+co Spring Valley Green
+co Tyrolean Blue
+co Verona Green
+ci ftype Regular
+ci ign Distributor and coil
+ci exha Dual
+ci rad Cellular or fin and tube
+ci cool 19 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci equip Data not yet collected
+ci sgear Worm & two tooth roller with needle bearing
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci rev 3.15
+ci 5gear Not applicable
+ci 2gear 1.49
+ci 3gear 1
+ci 1gear 2.49
+ci gears 3
+ci sloc Trunk
+ci tsize 6 x 13

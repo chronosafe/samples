@@ -1,0 +1,68 @@
+def ford_plants_72_76
+ci plant Atlanta, GA
+if 1:1 A
+ci plant Chicago, IL
+if 1:1 G
+ci plant Kansas, MO
+if 1:1 K
+ci plant Lorain, OH
+if 1:1 H
+ci plant Los Angeles, CA
+if 1:1 J
+ci plant Louisville, KY
+if 1:1 U
+ci plant St. Thomas, Ont. Can.
+if 1:1 X
+ci plant Mahwah, NJ
+if 1:1 E
+ci plant Dearborn, MI
+if 1:1 F
+ci plant Metuchen, NJ
+if 1:1 T
+ci plant Norfolk, VA
+if 1:1 N
+ci plant San Jose, CA
+if 1:1 R
+ci plant Pilot Plant
+if 1:1 S
+ci plant Twin Cities, MN
+if 1:1 P
+ci plant Wayne, MI
+if 1:1 W
+ci plant Wixom, MI
+if 1:1 Y
+ci plant Michigan Truck
+if 1:1 L
+ci plant Oakville, Ont. Can.
+if 1:1 B
+ci plant St. Louis, MO
+if 1:1 Z
+end
+
+def colors
+ci color Exterior colors
+co Black code: 1C
+co Silver code: 1G
+co Bright Red (Vermilion) code: 2R
+co Bright Blue code: 3E
+co Silver Blue Glow code: 3M
+co Medium Ivy Bronze code: 4T
+co Dark Yellow Green code: 4V
+co Light Green code: 47
+co Medium Chestnut code: 5M
+co Dark Brown code: 5Q
+co Tan Glow code: 5U
+co Bright Yellow code: 6E
+co Cream code: 6P
+co Medium Gold code: 6V
+co Polar White code: 9D
+end
+
+def engines
+ci engine 139 CID 2V 4-Cyl
+if 4:4 Y
+ci engine 169 CID 2V 6-Cyl
+if 4:4 Z
+ci engine 302 CID 2V 8-Cyl
+if 4:4 F
+end

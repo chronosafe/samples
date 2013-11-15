@@ -1,0 +1,1674 @@
+cls 96, 4B8([\dX]{6})
+clv 1971, 1955, Buick, Special, Estate Wagon
+ci axle Semifloating
+ci series Special
+ci make Buick
+ci prod 2952
+ci year 1955
+ci origin United States
+ci msrp $2726.00
+ci pass 6
+ci weight 3920
+ci maker Fisher
+ci model 49
+ci doors 4
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 12
+ci trans 1.75
+ci tcase -NA-
+ci oil 6
+ci rdiff 4.5
+ci fuel 19
+ci carb Scoe
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.90
+ci diff Hypoid
+ci height 62
+ci width 76.2
+ci length 206.7
+ci wbase 122
+ci rtred 59
+ci mbear 5
+ci rhp 42.05
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 7.5
+ci b&s 3 5/8 & 3 13/64
+ci cyl 8
+ci englo On left cylinder bank, just below head.
+ci bhp 188@4800
+ci engno Starting V720080-4
+ci disp 264
+ci trq 256@2400
+ci vlift Hydraulic
+ci etype Helical
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci cool 16.5 Quarts
+ci rad Cellular
+ci equip Heater and Defroster
+ci equip Air conditioning
+ci equip Dynaflow automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Radio
+ci equip Power windows
+ci sgear Ball bearing worm and nut
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.67
+ci 2gear 1.66
+ci rev 3.02
+ci gears 3
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 97, 4B8([\dX]{6})
+clv 1972, 1955, Buick, Special, Riviera
+ci axle Semifloating
+ci msrp $2128.00
+ci make Buick
+ci origin United States
+ci prod 155818
+ci year 1955
+ci series Special
+ci maker Fisher
+ci model 46R
+ci pass 6
+ci doors 2
+ci weight 3700
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 6
+ci fuel 19
+ci trans 1.75
+ci carb Scoe
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.90
+ci diff Hypoid
+ci length 206.7
+ci height 62
+ci width 76.2
+ci wbase 122
+ci rtred 59
+ci mbear 5
+ci rhp 42.05
+ci b&s 3 5/8 & 3 13/64
+ci comp 7.5
+ci disp 264
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On left cylinder bank, just below head.
+ci engno Starting V720080-4
+ci trq 256@2400
+ci bhp 188@4800
+ci vlift Hydraulic
+ci etype Helical
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci cool 16.5 Quarts
+ci rad Cellular
+ci equip Heater and Defroster
+ci equip Dynaflow automatic transmission
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Air conditioning
+ci equip Power windows
+ci sgear Ball bearing worm and nut
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci rev 3.02
+ci drive Rear wheel drive
+ci 1gear 2.67
+ci 2gear 1.66
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci tsize 7.1 x 15
+ci sloc Trunk
+cls 98, 4B8([\dX]{6})
+clv 1973, 1955, Buick, Special, Riviera Sedan
+ci axle Semifloating
+ci msrp $2409.00
+ci make Buick
+ci origin United States
+ci prod 66409
+ci series Special
+ci year 1955
+ci pass 6
+ci model 43
+ci maker Fisher
+ci doors 4
+ci weight 3820
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci oil 6
+ci rdiff 4.5
+ci fuel 19
+ci tcase -NA-
+ci trans 1.75
+ci carb Scoe
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.90
+ci width 76.2
+ci length 206.7
+ci rtred 59
+ci wbase 122
+ci height 62
+ci disp 264
+ci mbear 5
+ci rhp 42.05
+ci comp 7.5
+ci bhp 188@4800
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On left cylinder bank, just below head.
+ci engno Starting V720080-4
+ci trq 256@2400
+ci b&s 3 5/8 & 3 13/64
+ci vlift Hydraulic
+ci etype Helical
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci cool 16.5 Quarts
+ci rad Cellular
+ci equip Heater and Defroster
+ci equip Dynaflow automatic transmission
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Air conditioning
+ci equip Power windows
+ci sgear Ball bearing worm and nut
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 2.67
+ci 2gear 1.66
+ci 3gear 1
+ci rev 3.02
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci tsize 7.1 x 15
+ci sloc Trunk
+cls 99, 4B8([\dX]{6})
+clv 1974, 1955, Buick, Special, Sedan
+ci axle Semifloating
+ci prod 84182
+ci make Buick
+ci origin United States
+ci msrp $2090.00
+ci series Special
+ci year 1955
+ci pass 6
+ci model 41
+ci maker Fisher
+ci doors 4
+ci weight 3725
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci oil 6
+ci rdiff 4.5
+ci fuel 19
+ci tcase -NA-
+ci trans 1.75
+ci carb Scoe
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.90
+ci width 76.2
+ci length 206.7
+ci rtred 59
+ci wbase 122
+ci height 62
+ci disp 264
+ci mbear 5
+ci comp 7.5
+ci rhp 42.05
+ci cyl 8
+ci bhp 188@4800
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On left cylinder bank, just below head.
+ci engno Starting V720080-4
+ci trq 256@2400
+ci b&s 3 5/8 & 3 13/64
+ci vlift Hydraulic
+ci etype Helical
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci cool 16.5 Quarts
+ci rad Cellular
+ci equip Heater and Defroster
+ci equip Dynaflow automatic transmission
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Air conditioning
+ci equip Power windows
+ci sgear Ball bearing worm and nut
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 2.67
+ci 2gear 1.66
+ci 3gear 1
+ci rev 3.02
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci tsize 7.1 x 15
+ci sloc Trunk
+cls 100, 4B8([\dX]{6})
+clv 1975, 1955, Buick, Special, Sedan
+ci axle Semifloating
+ci origin United States
+ci make Buick
+ci year 1955
+ci prod 61879
+ci series Special
+ci msrp $2035.00
+ci pass 6
+ci model 48
+ci doors 2
+ci maker Fisher
+ci weight 3695
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci oil 6
+ci rdiff 4.5
+ci fuel 19
+ci tcase -NA-
+ci trans 1.75
+ci carb Scoe
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.90
+ci length 206.7
+ci width 76.2
+ci rtred 59
+ci wbase 122
+ci height 62
+ci trq 256@2400
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 7.5
+ci rhp 42.05
+ci cyl 8
+ci englo On left cylinder bank, just below head.
+ci bhp 188@4800
+ci engno Starting V720080-4
+ci b&s 3 5/8 & 3 13/64
+ci disp 264
+ci vlift Hydraulic
+ci etype Helical
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci cool 16.5 Quarts
+ci rad Cellular
+ci equip Heater and Defroster
+ci equip Air conditioning
+ci equip Dynaflow automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Radio
+ci equip Power windows
+ci sgear Ball bearing worm and nut
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.67
+ci 2gear 1.66
+ci rev 3.02
+ci gears 3
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 101, 5B8([\dX]{6})
+clv 1976, 1955, Buick, Super, Convertible Coupe
+ci axle Semifloating
+ci prod 3527
+ci series Super
+ci origin United States
+ci make Buick
+ci msrp $2945.00
+ci year 1955
+ci weight 4280
+ci maker Fisher
+ci model 56C
+ci doors 2
+ci pass 6
+ci bsize 12
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci trans 2.5
+ci fuel 19
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 6
+ci carb Carter or Rochester
+ci csize 10.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.90
+ci diff Hypoid
+ci wbase 127
+ci rtred 62.2
+ci length 216
+ci ftred 59
+ci width 80
+ci height 64.1
+ci disp 322
+ci mbear 5
+ci engno Starting V720080-5
+ci cyl 8
+ci comp 8.4
+ci b&s 4 & 3 13/64
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 330@3000
+ci rhp 51.20
+ci englo On left cylinder bank, just below head.
+ci etype Helical
+ci bhp 236@4600
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci batt 12
+ci ftype Premium
+ci rad Cellular
+ci ign Distributor and coil
+ci exha Single
+ci cool 16.5 Quarts
+ci cool Centrifugal pump with thermostat
+ci equip Radio
+ci equip Dynaflow automatic transmission
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Heater and Defroster
+ci equip Power seats
+ci equip Power windows
+ci equip Power steering
+ci sgear Power hydraulic
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci 1gear 2.39
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci 2gear 1.53
+ci rev 2.53
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 7.6 x 15
+cls 102, 5B8([\dX]{6})
+clv 1977, 1955, Buick, Super, Riviera
+ci axle Semifloating
+ci prod 85656
+ci series Super
+ci origin United States
+ci make Buick
+ci year 1955
+ci msrp $2578.00
+ci maker Fisher
+ci pass 6
+ci model 56R
+ci doors 2
+ci weight 4075
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci fuel 19
+ci tcase -NA-
+ci rdiff 4.5
+ci oil 6
+ci trans 2.5
+ci carb Carter or Rochester
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diffr 3.90
+ci diff Hypoid
+ci height 64.1
+ci width 80
+ci ftred 59
+ci length 216
+ci wbase 127
+ci rtred 62.2
+ci disp 322
+ci etype V8 Valve-in-head
+ci cyl 8
+ci comp 8.4
+ci mbear 5
+ci b&s 4 & 3 13/64
+ci engno Starting V720080-5
+ci trq 330@3000
+ci rhp 51.20
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On left cylinder bank, just below head.
+ci etype Helical
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci bhp 236@4600
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci exha Single
+ci cool 16.5 Quarts
+ci rad Cellular
+ci equip Radio
+ci equip Dynaflow automatic transmission
+ci equip Heater and Defroster
+ci equip Power brakes
+ci equip Power windows
+ci equip Power seats
+ci equip Power steering
+ci equip Air conditioning
+ci sgear Power hydraulic
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci 1gear 2.39
+ci 2gear 1.53
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci rev 2.53
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 7.6 x 15
+cls 103, 5B8([\dX]{6})
+clv 1978, 1955, Buick, Super, Riviera Sedan
+ci axle Semifloating
+ci make Buick
+ci series Super
+ci origin United States
+ci year 1955
+ci msrp $2621.00
+ci prod 43280
+ci weight 4140
+ci doors 4
+ci model 52
+ci pass 6
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci bsize 12
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci oil 6
+ci trans 2.5
+ci fuel 19
+ci rdiff 4.5
+ci carb Carter or Rochester
+ci csize 10.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.90
+ci height 64.1
+ci rtred 62.2
+ci length 216
+ci ftred 59
+ci width 80
+ci wbase 127
+ci trq 330@3000
+ci mbear 5
+ci engno Starting V720080-5
+ci cyl 8
+ci comp 8.4
+ci b&s 4 & 3 13/64
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.20
+ci disp 322
+ci englo On left cylinder bank, just below head.
+ci etype Helical
+ci bhp 236@4600
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci batt 12
+ci ftype Premium
+ci rad Cellular
+ci ign Distributor and coil
+ci exha Single
+ci cool 16.5 Quarts
+ci cool Centrifugal pump with thermostat
+ci equip Radio
+ci equip Dynaflow automatic transmission
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Heater and Defroster
+ci equip Power seats
+ci equip Power windows
+ci equip Power steering
+ci sgear Power hydraulic
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci 1gear 2.39
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci 2gear 1.53
+ci rev 2.53
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 7.6 x 15
+cls 86, 6B8([\dX]{6})
+clv 1961, 1955, Buick, Century, Convertible Coupe
+ci axle Semifloating
+ci prod 5588
+ci year 1955
+ci origin United States
+ci msrp $2727.00
+ci series Century
+ci make Buick
+ci model 66C
+ci weight 3950
+ci pass 6
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci fuel 19
+ci rdiff 4.5
+ci trans 2.5
+ci oil 6
+ci carb Carter or Rochester
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diffr 3.90
+ci diff Hypoid
+ci height 62.2
+ci length 206.7
+ci rtred 59
+ci wbase 122
+ci width 76.2
+ci englo On left cylinder bank, just below head.
+ci mbear 5
+ci engno Starting V720080-6
+ci b&s 4 & 3 13/64
+ci cyl 8
+ci comp 8.4
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 330@3000
+ci disp 322
+ci rhp 51.20
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci etype Helical
+ci bhp 236@4600
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci exha Single
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci cool 16.5 Quarts
+ci rad Cellular
+ci equip Dynaflow automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Heater and Defroster
+ci equip Power brakes
+ci equip Power windows
+ci equip Power steering
+ci equip Power seats
+ci sgear Power hydraulic
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 1gear 2.39
+ci rev 2.53
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.53
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci tsize 7.6 x 15
+ci sloc Trunk
+cls 87, 6B8([\dX]{6})
+clv 1962, 1955, Buick, Century, Estate Wagon
+ci axle Semifloating
+ci make Buick
+ci prod 4243
+ci origin United States
+ci msrp $2899.00
+ci year 1955
+ci series Century
+ci weight 3995
+ci doors 4
+ci pass 6
+ci model 69
+ci maker Fisher
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2.5
+ci tcase -NA-
+ci fuel 19
+ci rdiff 4.5
+ci oil 6
+ci carb Carter or Rochester
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 3.90
+ci height 62.2
+ci width 76.2
+ci rtred 59
+ci wbase 122
+ci length 206.7
+ci englo On left cylinder bank, just below head.
+ci mbear 5
+ci engno Starting V720080-6
+ci b&s 4 & 3 13/64
+ci cyl 8
+ci comp 8.4
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 330@3000
+ci disp 322
+ci rhp 51.20
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci etype Helical
+ci bhp 236@4600
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci exha Single
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci cool 16.5 Quarts
+ci rad Cellular
+ci equip Dynaflow automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Heater and Defroster
+ci equip Power brakes
+ci equip Power windows
+ci equip Power steering
+ci equip Power seats
+ci sgear Power hydraulic
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 1gear 2.39
+ci rev 2.53
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.53
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci tsize 7.6 x 15
+ci sloc Trunk
+cls 88, 6B8([\dX]{6})
+clv 1963, 1955, Buick, Century, Riviera
+ci axle Semifloating
+ci series Century
+ci year 1955
+ci origin United States
+ci msrp $2364.00
+ci make Buick
+ci prod 80338
+ci weight 3805
+ci model 66R
+ci pass 6
+ci doors 2
+ci maker Fisher
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2.5
+ci fuel 19
+ci oil 6
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Carter or Rochester
+ci csize 10.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.90
+ci diff Hypoid
+ci wbase 122
+ci rtred 59
+ci width 76.2
+ci length 206.7
+ci height 62.2
+ci englo On left cylinder bank, just below head.
+ci etype V8 Valve-in-head
+ci mbear 5
+ci cyl 8
+ci comp 8.4
+ci b&s 4 & 3 13/64
+ci rhp 51.20
+ci trq 330@3000
+ci disp 322
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci engno Starting V720080-6
+ci etype Helical
+ci etype Downdraft 4-barrel
+ci bhp 236@4600
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci rad Cellular
+ci ign Distributor and coil
+ci ftype Premium
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci cool 16.5 Quarts
+ci equip Dynaflow automatic transmission
+ci equip Heater and Defroster
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Power windows
+ci equip Power seats
+ci equip Power steering
+ci sgear Power hydraulic
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 2gear 1.53
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.39
+ci rev 2.53
+ci 3gear 1
+ci gears 3
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 7.6 x 15
+cls 89, 6B8([\dX]{6})
+clv 1964, 1955, Buick, Century, Riviera Sedan
+ci axle Semifloating
+ci make Buick
+ci prod 55088
+ci origin United States
+ci msrp $2733.00
+ci year 1955
+ci series Century
+ci weight 3900
+ci doors 4
+ci pass 6
+ci model 63
+ci maker Fisher
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2.5
+ci tcase -NA-
+ci fuel 19
+ci rdiff 4.5
+ci oil 6
+ci carb Carter or Rochester
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 3.90
+ci width 76.2
+ci length 206.7
+ci rtred 59
+ci wbase 122
+ci height 62.2
+ci englo On left cylinder bank, just below head.
+ci mbear 5
+ci engno Starting V720080-6
+ci b&s 4 & 3 13/64
+ci cyl 8
+ci comp 8.4
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 330@3000
+ci disp 322
+ci rhp 51.20
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci etype Helical
+ci bhp 236@4600
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci exha Single
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci cool 16.5 Quarts
+ci rad Cellular
+ci equip Dynaflow automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Heater and Defroster
+ci equip Power brakes
+ci equip Power windows
+ci equip Power steering
+ci equip Power seats
+ci sgear Power hydraulic
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 1gear 2.39
+ci rev 2.53
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.53
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci tsize 7.6 x 15
+ci sloc Trunk
+cls 90, 6B8([\dX]{6})
+clv 1965, 1955, Buick, Century, Sedan
+ci axle Semifloating
+ci make Buick
+ci series Century
+ci origin United States
+ci msrp $2315.00
+ci prod 13269
+ci year 1955
+ci weight 3825
+ci model 61
+ci pass 6
+ci doors 4
+ci maker Fisher
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2.5
+ci fuel 19
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 6
+ci carb Carter or Rochester
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 3.90
+ci height 62.2
+ci width 76.2
+ci rtred 59
+ci length 206.7
+ci wbase 122
+ci englo On left cylinder bank, just below head.
+ci mbear 5
+ci engno Starting V720080-6
+ci b&s 4 & 3 13/64
+ci cyl 8
+ci comp 8.4
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 330@3000
+ci disp 322
+ci rhp 51.20
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci etype Helical
+ci bhp 236@4600
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci exha Single
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci cool 16.5 Quarts
+ci rad Cellular
+ci equip Dynaflow automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Heater and Defroster
+ci equip Power brakes
+ci equip Power windows
+ci equip Power steering
+ci equip Power seats
+ci sgear Power hydraulic
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 1gear 2.39
+ci rev 2.53
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.53
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci tsize 7.6 x 15
+ci sloc Trunk
+cls 91, 6B8([\dX]{6})
+clv 1966, 1955, Buick, Century, Sedan
+ci axle Semifloating
+ci make Buick
+ci series Century
+ci origin United States
+ci prod 270
+ci year 1955
+ci pass 6
+ci maker Fisher
+ci model 68
+ci doors 2
+ci bsize 12
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci oil 6
+ci fuel 19
+ci trans 2.5
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Carter or Rochester
+ci csize 10.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.90
+ci length 206.7
+ci rtred 59
+ci width 76.2
+ci wbase 122
+ci height 62.2
+ci comp 8.4
+ci b&s 4 & 3 13/64
+ci englo On left cylinder bank, just below head.
+ci rhp 51.20
+ci cyl 8
+ci mbear 5
+ci trq 330@3000
+ci engno Starting V720080-6
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci bhp 236@4600
+ci etype Helical
+ci etype V8 Valve-in-head
+ci disp 322
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci batt 12
+ci ign Distributor and coil
+ci ftype Premium
+ci cool 16.5 Quarts
+ci cool Centrifugal pump with thermostat
+ci rad Cellular
+ci exha Single
+ci equip Dynaflow automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Heater and Defroster
+ci equip Power brakes
+ci equip Power windows
+ci equip Power steering
+ci equip Power seats
+ci sgear Power hydraulic
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 1gear 2.39
+ci rev 2.53
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.53
+ci gears 3
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 7.6 x 15
+cls 92, 7B8([\dX]{6})
+clv 1967, 1955, Buick, Roadmaster, Convertible Coupe
+ci axle Semifloating
+ci year 1955
+ci origin United States
+ci make Buick
+ci msrp $3234.00
+ci series Roadmaster
+ci prod 4739
+ci doors 2
+ci weight 4415
+ci model 76C
+ci pass 6
+ci maker Fisher
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 10
+ci oil 6
+ci rdiff 4.5
+ci fuel 19
+ci tcase -NA-
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.40
+ci diff Hypoid
+ci rtred 62.2
+ci ftred 59
+ci height 64.3
+ci length 216
+ci wbase 127
+ci width 80
+ci vlift Hydraulic
+ci comp 9.0
+ci etype V8 Valve-in-head
+ci trq 330@3000
+ci disp 322
+ci engno Starting V720080-7
+ci rhp 51.20
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci etype Dynaflow automatic
+ci bhp 236@4600
+ci cyl 8
+ci b&s 4 & 3 13/64
+ci englo On left cylinder bank, just below head.
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci ign Distributor and coil
+ci rad Cellular
+ci batt 12
+ci ftype Premium
+ci exha Single
+ci cool 18.5 Quarts
+ci cool Centrifugal pump with thermostat
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Power brakes
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Air conditioning
+ci sgear Power hydraulic
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 93, 7B8([\dX]{6})
+clv 1968, 1955, Buick, Roadmaster, Riviera
+ci axle Semifloating
+ci make Buick
+ci origin United States
+ci prod 28071
+ci msrp $3144.00
+ci year 1955
+ci series Roadmaster
+ci pass 6
+ci doors 2
+ci maker Fisher
+ci model 76R
+ci weight 4270
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 12
+ci oil 6
+ci trans 10
+ci fuel 19
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.40
+ci diff Hypoid
+ci rtred 62.2
+ci ftred 59
+ci height 64.3
+ci length 216
+ci wbase 127
+ci width 80
+ci vlift Hydraulic
+ci comp 9.0
+ci etype V8 Valve-in-head
+ci trq 330@3000
+ci disp 322
+ci engno Starting V720080-7
+ci rhp 51.20
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci etype Dynaflow automatic
+ci bhp 236@4600
+ci cyl 8
+ci b&s 4 & 3 13/64
+ci englo On left cylinder bank, just below head.
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci ign Distributor and coil
+ci rad Cellular
+ci batt 12
+ci ftype Premium
+ci exha Single
+ci cool 18.5 Quarts
+ci cool Centrifugal pump with thermostat
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Power brakes
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Air conditioning
+ci sgear Power hydraulic
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 94, 7B8([\dX]{6})
+clv 1969, 1955, Buick, Roadmaster, Riviera Sedan
+ci axle Semifloating
+ci make Buick
+ci origin United States
+ci prod 31717
+ci msrp $3047.00
+ci year 1955
+ci series Roadmaster
+ci pass 6
+ci model 72
+ci maker Fisher
+ci weight 4300
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 12
+ci oil 6
+ci trans 10
+ci fuel 19
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.40
+ci diff Hypoid
+ci rtred 62.2
+ci ftred 59
+ci height 64.3
+ci length 216
+ci wbase 127
+ci width 80
+ci vlift Hydraulic
+ci comp 9.0
+ci etype V8 Valve-in-head
+ci trq 330@3000
+ci disp 322
+ci engno Starting V720080-7
+ci rhp 51.20
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci etype Dynaflow automatic
+ci bhp 236@4600
+ci cyl 8
+ci b&s 4 & 3 13/64
+ci englo On left cylinder bank, just below head.
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci ign Distributor and coil
+ci rad Cellular
+ci batt 12
+ci ftype Premium
+ci exha Single
+ci cool 18.5 Quarts
+ci cool Centrifugal pump with thermostat
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Power brakes
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Air conditioning
+ci sgear Power hydraulic
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 95, 4B8([\dX]{6})
+clv 1970, 1955, Buick, Special, Convertible Coupe
+ci axle Semifloating
+ci msrp $2369.00
+ci make Buick
+ci origin United States
+ci year 1955
+ci series Special
+ci prod 10009
+ci model 46C
+ci maker Fisher
+ci pass 6
+ci doors 2
+ci weight 3805
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 6
+ci fuel 19
+ci trans 1.75
+ci carb Scoe
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.90
+ci diff Hypoid
+ci length 206.7
+ci height 62
+ci width 76.2
+ci wbase 122
+ci rtred 59
+ci mbear 5
+ci rhp 42.05
+ci b&s 3 5/8 & 3 13/64
+ci comp 7.5
+ci disp 264
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On left cylinder bank, just below head.
+ci engno Starting V720080-4
+ci trq 256@2400
+ci bhp 188@4800
+ci vlift Hydraulic
+ci etype Helical
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Belfast Green Poly.
+co Cameo Beige
+co Carlsbad Black
+co Cascade Blue
+co Cherokee Red
+co Condor Yellow
+co Dover White
+co Galway Green
+co Gulf Turquoise
+co Lacquer
+co Stafford Blue Poly
+co Temple Gray
+co Three Tone Colors Available
+co Titian Red Poly
+co Two Tone Colors Available
+co Victoria Blue Poly.
+co Willow Green
+co Windsor Gray Poly
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci cool 16.5 Quarts
+ci rad Cellular
+ci equip Heater and Defroster
+ci equip Dynaflow automatic transmission
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Air conditioning
+ci equip Power windows
+ci sgear Ball bearing worm and nut
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci rev 3.02
+ci drive Rear wheel drive
+ci 1gear 2.67
+ci 2gear 1.66
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci tsize 7.1 x 15
+ci sloc Trunk

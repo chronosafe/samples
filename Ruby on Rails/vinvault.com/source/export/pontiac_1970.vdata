@@ -1,0 +1,3546 @@
+cls 6912, 262670(\w)([\dX]{6})
+clv 26569, 1970, Pontiac, Bonneville, Convertible
+ci axle Semifloating
+ci series Bonneville
+ci origin United States
+ci year 1970
+ci make Pontiac
+ci prod 3537
+ci msrp $4040.00
+ci model 6267
+ci maker Fisher
+ci doors 2
+ci weight 4161
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 26
+ci oil 5
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 2.8
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 125
+ci width 79.8
+ci length 224.6
+ci rtred 64
+ci height 54.8
+ci rhp 55.2
+ci etype Synchro-mesh
+ci trq 500@2700
+ci mbear 5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.0
+ci bhp 360@4300
+ci disp 455
+ci etype Downdraft 4-barrel
+ci b&s 4.15 & 4.21
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci exha Dual
+ci rad Tube and center
+ci batt 12
+ci cool 17.2 Quarts
+ci ftype Premium
+ci equip Radio
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip 455 cu. in. V8 engine
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci rev 2.33
+ci 3gear 1
+ci gears 3
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 6913, 262390(\w)([\dX]{6})
+clv 26570, 1970, Pontiac, Bonneville, Hardtop
+ci axle Semifloating
+ci make Pontiac
+ci origin United States
+ci series Bonneville
+ci year 1970
+ci msrp $3900.00
+ci prod 44241
+ci doors 4
+ci weight 4226
+ci maker Fisher
+ci model 6239
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 26
+ci tcase -NA-
+ci trans 2.8
+ci oil 5
+ci rdiff 4.5
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 224.6
+ci wbase 125
+ci width 79.8
+ci rtred 64
+ci height 54.8
+ci cyl 8
+ci bhp 360@4300
+ci trq 500@2700
+ci b&s 4.15 & 4.21
+ci rhp 55.2
+ci comp 10.0
+ci etype V8 overhead valve
+ci englo On pad at front of right side of block.
+ci disp 455
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Synchro-mesh
+ci mbear 5
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci exha Dual
+ci rad Tube and center
+ci batt 12
+ci cool 17.2 Quarts
+ci ftype Premium
+ci equip Radio
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip 455 cu. in. V8 engine
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci rev 2.33
+ci 3gear 1
+ci gears 3
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 6914, 262370(\w)([\dX]{6})
+clv 26571, 1970, Pontiac, Bonneville, Hardtop Coupe
+ci axle Semifloating
+ci series Bonneville
+ci origin United States
+ci year 1970
+ci make Pontiac
+ci prod 23418
+ci msrp $3832.00
+ci model 6237
+ci maker Fisher
+ci doors 2
+ci weight 4111
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci trans 2.8
+ci fuel 26
+ci oil 5
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 125
+ci width 79.8
+ci length 224.6
+ci rtred 64
+ci height 54.8
+ci rhp 55.2
+ci etype Synchro-mesh
+ci trq 500@2700
+ci mbear 5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.0
+ci bhp 360@4300
+ci disp 455
+ci etype Downdraft 4-barrel
+ci b&s 4.15 & 4.21
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci exha Dual
+ci rad Tube and center
+ci batt 12
+ci cool 17.2 Quarts
+ci ftype Premium
+ci equip Radio
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip 455 cu. in. V8 engine
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci rev 2.33
+ci 3gear 1
+ci gears 3
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 6915, 262690(\w)([\dX]{6})
+clv 26572, 1970, Pontiac, Bonneville, Sedan
+ci axle Semifloating
+ci year 1970
+ci origin United States
+ci series Bonneville
+ci make Pontiac
+ci prod 3802
+ci msrp $3770.00
+ci doors 4
+ci maker Fisher
+ci model 6269
+ci weight 4181
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 26
+ci rdiff 4.5
+ci oil 5
+ci tcase -NA-
+ci trans 2.8
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 125
+ci width 79.8
+ci length 224.6
+ci rtred 64
+ci height 54.8
+ci rhp 55.2
+ci etype Synchro-mesh
+ci trq 500@2700
+ci mbear 5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.0
+ci bhp 360@4300
+ci disp 455
+ci etype Downdraft 4-barrel
+ci b&s 4.15 & 4.21
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci exha Dual
+ci rad Tube and center
+ci batt 12
+ci cool 17.2 Quarts
+ci ftype Premium
+ci equip Radio
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip 455 cu. in. V8 engine
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci rev 2.33
+ci 3gear 1
+ci gears 3
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 6916, 262460(\w)([\dX]{6})
+clv 26573, 1970, Pontiac, Bonneville, Station Wagon 3-seat
+ci axle Semifloating
+ci prod 7033
+ci origin United States
+ci series Bonneville
+ci year 1970
+ci msrp $3247.00
+ci make Pontiac
+ci model 6246
+ci doors 4
+ci maker Fisher
+ci pass 9
+ci weight 4686
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 2.8
+ci rdiff 4.5
+ci tcase -NA-
+ci fuel 26
+ci oil 5
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 220.9
+ci wbase 125
+ci rtred 64
+ci height 56.1
+ci width 79.8
+ci disp 455
+ci comp 10.0
+ci rhp 55.2
+ci cyl 8
+ci bhp 360@4300
+ci mbear 5
+ci etype Synchro-mesh
+ci etype V8 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4.15 & 4.21
+ci etype Downdraft 4-barrel
+ci englo On pad at front of right side of block.
+ci vlift Hydraulic
+ci trq 500@2700
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci ftype Premium
+ci batt 12
+ci rad Tube and center
+ci cool 17.2 Quarts
+ci cool Water pump
+ci equip Power steering
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Speed control device
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip 455 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 1gear 2.42
+ci 2gear 1.61
+ci rev 2.33
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 9.15 x 15
+ci sloc Trunk
+cls 6917, 252670(\w)([\dX]{6})
+clv 26574, 1970, Pontiac, Catalina, Convertible
+ci axle Semifloating
+ci series Catalina
+ci origin United States
+ci msrp $3604.00
+ci year 1970
+ci make Pontiac
+ci prod 3686
+ci doors 2
+ci model 5267
+ci maker Fisher
+ci weight 4027
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 2.8
+ci fuel 26
+ci oil 5
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 64
+ci wbase 121
+ci height 54.8
+ci length 217.9
+ci width 79.8
+ci disp 350
+ci rhp 48
+ci mbear 5
+ci cyl 8
+ci comp 8.8
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 255@4600
+ci englo On pad at front of right side of block.
+ci etype V8 overhead valve
+ci b&s 3.875 & 3 3/4
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 355@2800
+ci etype Synchro-mesh
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci exha Dual
+ci cool 18 Quarts
+ci rad Tube and center
+ci batt 12
+ci ftype Regular
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip 455 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 2.42
+ci rev 2.33
+ci 3gear 1
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 6918, 252370(\w)([\dX]{6})
+clv 26575, 1970, Pontiac, Catalina, Coupe
+ci axle Semifloating
+ci msrp $3249.00
+ci origin United States
+ci prod 70350
+ci year 1970
+ci make Pontiac
+ci series Catalina
+ci doors 2
+ci weight 3952
+ci maker Fisher
+ci model 5237
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci fuel 26
+ci trans 2.8
+ci oil 5
+ci rdiff 4.5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci width 79.8
+ci wbase 121
+ci rtred 64
+ci length 217.9
+ci height 54.8
+ci disp 350
+ci mbear 5
+ci bhp 255@4600
+ci cyl 8
+ci comp 8.8
+ci rhp 48
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci etype V8 overhead valve
+ci b&s 3.875 & 3 3/4
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 355@2800
+ci etype Synchro-mesh
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci exha Dual
+ci cool 18 Quarts
+ci rad Tube and center
+ci batt 12
+ci ftype Regular
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip 455 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 2.42
+ci rev 2.33
+ci 3gear 1
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 6919, 252390(\w)([\dX]{6})
+clv 26576, 1970, Pontiac, Catalina, Hardtop
+ci axle Semifloating
+ci msrp $3319.00
+ci origin United States
+ci prod 35155
+ci year 1970
+ci make Pontiac
+ci series Catalina
+ci model 5239
+ci doors 4
+ci maker Fisher
+ci weight 4042
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 26
+ci tcase -NA-
+ci oil 5
+ci trans 2.8
+ci rdiff 4.5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 64
+ci wbase 121
+ci height 54.8
+ci length 217.9
+ci width 79.8
+ci disp 350
+ci rhp 48
+ci mbear 5
+ci cyl 8
+ci comp 8.8
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 255@4600
+ci englo On pad at front of right side of block.
+ci etype V8 overhead valve
+ci b&s 3.875 & 3 3/4
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 355@2800
+ci etype Synchro-mesh
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci exha Dual
+ci cool 18 Quarts
+ci rad Tube and center
+ci batt 12
+ci ftype Regular
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip 455 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 2.42
+ci rev 2.33
+ci 3gear 1
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 6920, 252690(\w)([\dX]{6})
+clv 26577, 1970, Pontiac, Catalina, Sedan
+ci axle Semifloating
+ci msrp $3164.00
+ci origin United States
+ci series Catalina
+ci year 1970
+ci make Pontiac
+ci prod 84795
+ci doors 4
+ci weight 3997
+ci maker Fisher
+ci model 5269
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 26
+ci oil 5
+ci trans 2.8
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 64
+ci width 79.8
+ci wbase 121
+ci length 217.9
+ci height 54.8
+ci cyl 8
+ci mbear 5
+ci bhp 255@4600
+ci comp 8.8
+ci rhp 48
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 355@2800
+ci englo On pad at front of right side of block.
+ci etype V8 overhead valve
+ci b&s 3.875 & 3 3/4
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 350
+ci etype Synchro-mesh
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci exha Dual
+ci cool 18 Quarts
+ci rad Tube and center
+ci batt 12
+ci ftype Regular
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip 455 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 2.42
+ci rev 2.33
+ci 3gear 1
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 6921, 252360(\w)([\dX]{6})
+clv 26578, 1970, Pontiac, Catalina, Station Wagon 2-seat
+ci axle Semifloating
+ci series Catalina
+ci origin United States
+ci make Pontiac
+ci year 1970
+ci prod 16944
+ci msrp $3646.00
+ci weight 4517
+ci maker Fisher
+ci pass 6
+ci model 5236
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 26
+ci tcase -NA-
+ci trans 2.8
+ci rdiff 4.5
+ci oil 5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 64
+ci width 79.8
+ci wbase 121
+ci length 220.9
+ci height 56.1
+ci trq 355@2800
+ci etype Synchro-mesh
+ci mbear 5
+ci cyl 8
+ci comp 8.8
+ci rhp 48
+ci englo On pad at front of right side of block.
+ci etype V8 overhead valve
+ci bhp 255@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 350
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci b&s 3.875 & 3 3/4
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci rad Tube and center
+ci exha Dual
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci cool 18 Quarts
+ci ftype Regular
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip 455 cu. in. V8 engine
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.33
+ci gears 3
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 9.15 x 15
+cls 6922, 252460(\w)([\dX]{6})
+clv 26579, 1970, Pontiac, Catalina, Station Wagon 3-seat
+ci axle Semifloating
+ci series Catalina
+ci origin United States
+ci make Pontiac
+ci year 1970
+ci prod 12450
+ci msrp $3791.00
+ci weight 4607
+ci maker Fisher
+ci pass 9
+ci model 5246
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 26
+ci tcase -NA-
+ci trans 2.8
+ci rdiff 4.5
+ci oil 5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci width 79.8
+ci wbase 121
+ci length 220.9
+ci rtred 64
+ci height 56.1
+ci trq 355@2800
+ci etype Synchro-mesh
+ci cyl 8
+ci comp 8.8
+ci mbear 5
+ci rhp 48
+ci englo On pad at front of right side of block.
+ci etype V8 overhead valve
+ci bhp 255@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 350
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci b&s 3.875 & 3 3/4
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci rad Tube and center
+ci exha Dual
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci cool 18 Quarts
+ci ftype Regular
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip 455 cu. in. V8 engine
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.33
+ci gears 3
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 9.15 x 15
+cls 6923, 256370(\w)([\dX]{6})
+clv 26580, 1970, Pontiac, Executive, Hardtop
+ci axle Semifloating
+ci prod 5376
+ci origin United States
+ci make Pontiac
+ci year 1970
+ci series Executive
+ci msrp $3669.00
+ci doors 4
+ci model 5639
+ci weight 4132
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 2.8
+ci fuel 26
+ci oil 5
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci width 79.8
+ci rtred 64
+ci wbase 125
+ci length 223.9
+ci height 54.8
+ci etype Synchro-mesh
+ci rhp 54.3
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 10.0
+ci englo On pad at front of right side of block.
+ci trq 428@2500
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci etype V8, overhead valve
+ci bhp 290@4600
+ci disp 400
+ci b&s 4.12 & 3 3/4
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ftype Premium
+ci cool Water pump
+ci exha Dual
+ci cool 18 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci rev 2.33
+ci 2gear 1.61
+ci 1gear 2.42
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 6924, 256390(\w)([\dX]{6})
+clv 26581, 1970, Pontiac, Executive, Hardtop Coupe
+ci axle Semifloating
+ci make Pontiac
+ci origin United States
+ci series Executive
+ci year 1970
+ci prod 3499
+ci msrp $3600.00
+ci weight 4042
+ci model 5637
+ci doors 2
+ci maker Fisher
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 26
+ci tcase -NA-
+ci trans 2.8
+ci rdiff 4.5
+ci oil 5
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci height 54.8
+ci wbase 125
+ci length 223.9
+ci width 79.8
+ci rtred 64
+ci rhp 54.3
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 428@2500
+ci cyl 8
+ci comp 10.0
+ci englo On pad at front of right side of block.
+ci bhp 290@4600
+ci vlift Hydraulic
+ci etype Synchro-mesh
+ci etype V8, overhead valve
+ci disp 400
+ci b&s 4.12 & 3 3/4
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ftype Premium
+ci cool Water pump
+ci exha Dual
+ci cool 18 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci rev 2.33
+ci 2gear 1.61
+ci 1gear 2.42
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 6925, 256360(\w)([\dX]{6})
+clv 26582, 1970, Pontiac, Executive, Safari - 2 seat
+ci axle Semifloating
+ci series Executive
+ci origin United States
+ci make Pontiac
+ci year 1970
+ci msrp $4015.00
+ci prod 4861
+ci weight 4552
+ci model 5636
+ci maker Fisher
+ci pass 6
+ci doors 4
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 26
+ci rdiff 4.5
+ci oil 5
+ci tcase -NA-
+ci trans 2.8
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 64
+ci width 79.8
+ci length 220.9
+ci wbase 125
+ci height 56.1
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci rhp 54.3
+ci trq 428@2500
+ci cyl 8
+ci disp 400
+ci englo On pad at front of right side of block.
+ci b&s 4.12 & 3 3/4
+ci etype V8, overhead valve
+ci etype Downdraft 4-barrel
+ci etype Synchro-mesh
+ci comp 10.0
+ci vlift Hydraulic
+ci bhp 290@4600
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci rad Tube and center
+ci batt 12
+ci cool 18 Quarts
+ci ftype Premium
+ci cool Water pump
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip 455 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 2.33
+ci 1gear 2.42
+ci 2gear 1.61
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 9.15 x 15
+ci sloc Trunk
+cls 6926, 256460(\w)([\dX]{6})
+clv 26583, 1970, Pontiac, Executive, Safari - 3 seat
+ci axle Semifloating
+ci series Executive
+ci origin United States
+ci make Pontiac
+ci year 1970
+ci msrp $4160.00
+ci prod 5629
+ci maker Fisher
+ci model 5646
+ci weight 4632
+ci doors 4
+ci pass 9
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 26
+ci oil 5
+ci trans 2.8
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 220.9
+ci rtred 64
+ci wbase 125
+ci height 56.1
+ci width 79.8
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci rhp 54.3
+ci cyl 8
+ci trq 428@2500
+ci disp 400
+ci englo On pad at front of right side of block.
+ci b&s 4.12 & 3 3/4
+ci etype V8, overhead valve
+ci etype Downdraft 4-barrel
+ci etype Synchro-mesh
+ci comp 10.0
+ci vlift Hydraulic
+ci bhp 290@4600
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci rad Tube and center
+ci batt 12
+ci cool 18 Quarts
+ci ftype Premium
+ci cool Water pump
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip 455 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 2.33
+ci 1gear 2.42
+ci 2gear 1.61
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 9.15 x 15
+ci sloc Trunk
+cls 6927, 256690(\w)([\dX]{6})
+clv 26584, 1970, Pontiac, Executive, Sedan
+ci axle Semifloating
+ci make Pontiac
+ci origin United States
+ci series Executive
+ci prod 13061
+ci msrp $3538.00
+ci year 1970
+ci model 5669
+ci doors 4
+ci weight 4087
+ci maker Fisher
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 26
+ci tcase -NA-
+ci trans 2.8
+ci rdiff 4.5
+ci oil 5
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci height 54.8
+ci wbase 125
+ci length 223.9
+ci width 79.8
+ci rtred 64
+ci rhp 54.3
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 428@2500
+ci cyl 8
+ci comp 10.0
+ci englo On pad at front of right side of block.
+ci bhp 290@4600
+ci vlift Hydraulic
+ci etype Synchro-mesh
+ci etype V8, overhead valve
+ci disp 400
+ci b&s 4.12 & 3 3/4
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ftype Premium
+ci cool Water pump
+ci exha Dual
+ci cool 18 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci rev 2.33
+ci 2gear 1.61
+ci 1gear 2.42
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 6928, 224870[NL]([\dX]{6})
+clv 26585, 1970, Pontiac, Firebird Esprit, Hardtop
+ci axle Semifloating
+ci series Firebird Esprit
+ci year 1970
+ci make Pontiac
+ci origin United States
+ci prod 18961
+ci maker Fisher
+ci doors 2
+ci model 2487
+ci pass 4
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci fbsize 10 15/16
+ci tcase -NA-
+ci oil 4
+ci rdiff 3.5
+ci fuel 19.5
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.36
+ci diff Hypoid
+ci width 73.4
+ci length 191.6
+ci wbase 108
+ci ftred 61.3
+ci rtred 60
+ci height 50.4
+ci trq 355@2800
+ci rhp 48
+ci vlift Hydraulic
+ci mbear 5
+ci cyl 8
+ci comp 8.8
+ci bhp 255@4600
+ci b&s 3.875 & 3 3/4
+ci etype Fully synchronous, column-mounted, 3-speed manual
+ci disp 350
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci englo On pad at front of right side of block.
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci rad Tube and center
+ci exha Dual
+ci batt 12
+ci ftype Regular
+ci cool Water pump
+ci ign Distributor and coil
+ci equip 4-Speed manual transmission
+ci equip 2-speed automatic transmission
+ci equip Turbo Hydramatic automatic transmission
+ci equip 3 Speed automatic transmission
+ci equip Optional Axle Ratios
+ci equip 3-speed heavy duty manual transmission
+ci equip Power antenna
+ci equip Radio
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Power brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci 2gear 1.5
+ci drive Rear wheel drive
+ci rev 2.63
+ci 5gear Not applicable
+ci 1gear 2.54
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 6929, 224870[NL]([\dX]{6})
+clv 26586, 1970, Pontiac, Firebird Esprit, Hardtop
+ci axle SemifLiveoating
+ci year 1970
+ci origin United States
+ci make Pontiac
+ci series Firebird Esprit
+ci prod 18961
+ci pass 4
+ci maker Fisher
+ci model 2487
+ci doors 2
+ci fbsize 10 15/16
+ci svc Front disc, rear self-adjusting drum
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 4
+ci fuel 19.5
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.55
+ci diff Hypoid
+ci length 191.6
+ci wbase 108
+ci ftred 61.3
+ci width 73.4
+ci rtred 60
+ci height 50.4
+ci rhp 54.3
+ci cyl 8
+ci comp 8.8
+ci mbear 5
+ci disp 400
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side
+ci b&s 4.12 & 3 3/4
+ci etype Fully synchronous, heavy duty 3-spd manual w/ Hurst floor shifter
+ci trq 397@2400
+ci bhp 265@4600
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci batt 12 Volt
+ci ign Distributor and coil
+ci exha Dual
+ci ftype Regular
+ci rad Tube and center
+ci cool Water pump
+ci equip Radio
+ci equip 4-Speed manual transmission
+ci equip Optional Axle Ratios
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Heavy duty 4-speed manual transmission
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 2gear 1.58
+ci 3gear 1
+ci gears 3
+ci rev 2.41
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 6930, 226870[NL]([\dX]{6})
+clv 26587, 1970, Pontiac, Firebird Formula 400, Hardtop
+ci axle Semifloating
+ci origin United States
+ci make Pontiac
+ci series Firebird Formula 400
+ci prod 7708
+ci year 1970
+ci maker Fisher
+ci model 2687
+ci pass 4
+ci doors 2
+ci fbsize 10 15/16
+ci bsize 9.5
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fuel 19.5
+ci tcase -NA-
+ci oil 4
+ci rdiff 3.5
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.55
+ci diff Hypoid
+ci wbase 108
+ci width 73.4
+ci length 191.6
+ci rtred 60
+ci height 50.4
+ci ftred 61.3
+ci rhp 54.3
+ci mbear 5
+ci trq 430@3000
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci disp 400
+ci comp 10.25
+ci b&s 4.12 & 3 3/4
+ci vlift Hydraulic
+ci etype Fully synchronous, heavy duty 3-spd manual w/ Hurst floor shifter
+ci englo On pad at front of right side of block.
+ci etype V8, overhead valve
+ci bhp 330@4800
+ci etype Quadrajet
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci batt 12
+ci exha Dual
+ci cool Water pump
+ci ign Distributor and coil
+ci ftype Premium
+ci rad Tube and center
+ci equip 455 cu. in. V8 engine
+ci equip 4-Speed manual transmission
+ci equip 3 Speed automatic transmission
+ci equip Air conditioning
+ci equip Optional Axle Ratios
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Radio
+ci equip Power steering
+ci equip Power windows
+ci equip Speed control device
+ci equip Heavy duty 4-speed manual transmission
+ci equip Formula steering wheel
+ci equip Power seats
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.58
+ci 1gear 2.42
+ci rev 2.41
+ci gears 3
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 6931, 223870[NL]([\dX]{6})
+clv 26588, 1970, Pontiac, Firebird, Hardtop
+ci axle Semifloating
+ci origin United States
+ci make Pontiac
+ci series Firebird
+ci year 1970
+ci prod 18874
+ci msrp $2853.00
+ci weight 3080
+ci model 2387
+ci pass 4
+ci doors 2
+ci maker Fisher
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci fbsize 10 15/16
+ci svc Front disc rear self-adjusting drum
+ci fuel 19.5
+ci oil 4
+ci rdiff 3.5
+ci tcase -NA-
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci length 191.6
+ci wbase 108
+ci width 73.4
+ci height 50.4
+ci ftred 61.3
+ci rtred 60
+ci rhp 36
+ci etype Inline 6, OHC
+ci comp 8.5
+ci cyl 6
+ci b&s 3.875 & 3.53
+ci disp 250
+ci trq 235@1600
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 155@4200
+ci etype Fully synchronous, column-mounted, 3-speed manual
+ci etype Single downdraft
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci rad Tube and center
+ci ftype Regular
+ci cool Water pump
+ci equip 400 cu. in. V8 engine
+ci equip Turbo Hydramatic automatic transmission
+ci equip Optional Axle Ratios
+ci equip 3 Speed automatic transmission
+ci equip Power antenna
+ci equip Power seats
+ci equip 2-speed automatic transmission
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci rev 2.95
+ci 1gear 2.85
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 6932, 228870[NL]([\dX]{6})
+clv 26589, 1970, Pontiac, Firebird Trans Am, Hardtop
+ci axle SemifLiveoating
+ci origin United States
+ci series Firebird Trans Am
+ci make Pontiac
+ci year 1970
+ci prod 88
+ci maker Fisher
+ci doors 2
+ci model 2887
+ci bsize 9.5
+ci fbsize 10 15/16
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fuel 19.5
+ci rdiff 3.5
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.55
+ci length 191.6
+ci wbase 108
+ci width 73.4
+ci height 50.4
+ci ftred 61.3
+ci rtred 60
+ci b&s 4.12 & 3 3/4
+ci mbear 5
+ci trq 430@3700
+ci disp 400
+ci rhp 54.3
+ci englo On pad at front of right side of block.
+ci bhp 345@5400
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.75
+ci vlift Hydraulic
+ci etype V8, overhead valve
+ci etype Fully synchronous, heavy duty 4-spd manual w/ Hurst floor shifter
+ci etype Quadrajet
+ci cyl 8
+ci color Exterior Colors
+co Lucerne Blue Metallic
+co Polar White
+ci exha Dual
+ci cool Water pump
+ci batt 12 volt
+ci ign Distributor and coil
+ci ftype Premium
+ci rad Tube and center
+ci equip Optional Axle Ratios
+ci equip Rally wheels
+ci equip 4-Speed manual transmission
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power seats
+ci equip Radio
+ci equip Shaker (rear opening) hood scoop
+ci equip Fiberglass hood with dual air scoops
+ci equip Formula steering wheel
+ci equip Power windows
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 4gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 4
+ci 3gear 1.46
+ci rev 2.59
+ci 1gear 2.52
+ci 2gear 1.88
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F70 x 14
+ci sloc Trunk
+cls 6933, 228870[NL]([\dX]{6})
+clv 26590, 1970, Pontiac, Firebird Trans Am, Hardtop
+ci axle Semifloating
+ci series Firebird Trans Am
+ci year 1970
+ci origin United States
+ci prod 3108
+ci make Pontiac
+ci doors 2
+ci model 2887
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci fbsize 10 15/16
+ci svc Power front disc rear self-adjusting drum
+ci fuel 19.5
+ci rdiff 3.5
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.55
+ci length 191.6
+ci wbase 108
+ci width 73.4
+ci ftred 61.3
+ci height 50.4
+ci rtred 60
+ci cyl 8
+ci mbear 5
+ci trq 430@3400
+ci rhp 54.3
+ci disp 400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8, overhead valve
+ci comp 10.5
+ci vlift Hydraulic
+ci etype Fully synchronous, heavy duty 4-spd manual w/ Hurst floor shifter
+ci etype Quadrajet
+ci englo On pad at front of right side of block.
+ci bhp 335@5000
+ci b&s 4.12 & 3 3/4
+ci color Exterior Colors
+co Lucerne Blue Metallic
+co Polar White
+ci rad Tube and center
+ci cool Water pump
+ci ftype Premium
+ci exha Dual
+ci batt 12
+ci ign Distributor and coil
+ci equip Fiberglass hood with dual air scoops
+ci equip Shaker (rear opening) hood scoop
+ci equip Optional Axle Ratios
+ci equip Rally wheels
+ci equip Power antenna
+ci equip Radio
+ci equip Power seats
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip 4-Speed manual transmission
+ci equip Formula steering wheel
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 4
+ci 4gear 1
+ci 5gear Not applicable
+ci 3gear 1.46
+ci 2gear 1.88
+ci drive Rear wheel drive
+ci 1gear 2.52
+ci rev 2.59
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F70 x 14
+ci sloc Trunk
+cls 6934, 266570(\w)([\dX]{6})
+clv 26591, 1970, Pontiac, Grand Prix, Hardtop Coupe
+ci axle Semifloating
+ci make Pontiac
+ci series Grand Prix
+ci origin United States
+ci year 1970
+ci prod 65750
+ci msrp $3985.00
+ci model 7657
+ci weight 3784
+ci maker Fisher
+ci doors 2
+ci fbsize 10 15/16
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Power front disc rear self-adjusting drum
+ci fuel 24.5
+ci tcase -NA-
+ci rdiff 3
+ci trans 2.8
+ci oil 5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.23
+ci length 210.2
+ci height 52
+ci wbase 118
+ci width 75.7
+ci rtred 60
+ci ftred 62
+ci mbear 5
+ci rhp 54.3
+ci bhp 350@5000
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci englo On pad at front of right side of block.
+ci comp 10.25
+ci etype V8, overhead valve
+ci etype Unknown at time of publication
+ci disp 400
+ci vlift Hydraulic
+ci trq 445@3000
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4.12 & 3 3/4
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci rad Tube and center
+ci ftype Premium
+ci exha Dual
+ci ign Distributor and coil
+ci cool 18.7 Quarts
+ci batt 12
+ci cool Water pump
+ci equip Power steering
+ci equip Power seats
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power windows
+ci equip Speed control device
+ci equip 455 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.58
+ci 1gear 2.42
+ci 5gear Not applicable
+ci rev 2.33
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 14
+ci sloc Trunk
+cls 6935, 242670(\w)([\dX]{6})
+clv 26592, 1970, Pontiac, GTO, Convertible
+ci axle Semifloating
+ci year 1970
+ci msrp $3492.00
+ci series GTO
+ci prod 3783
+ci make Pontiac
+ci origin United States
+ci model 4267
+ci weight 3688
+ci doors 2
+ci maker Fisher
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 21.5
+ci oil 5
+ci rdiff 3
+ci tcase -NA-
+ci trans 2.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.55
+ci diff Hypoid
+ci wbase 112
+ci width 76.7
+ci length 202.9
+ci height 52
+ci ftred 61
+ci rtred 60
+ci disp 400
+ci mbear 5
+ci cyl 8
+ci trq 445@3000
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 54.3
+ci englo On pad at front of right side of block.
+ci etype Downdraft 4-barrel
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci bhp 350@5000
+ci comp 10.25
+ci etype Unknown at time of publication
+ci b&s 4.12 & 3 3/4
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci exha Dual
+ci rad Tube and center
+ci cool 18.3 Quarts
+ci ftype Premium
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.33
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.58
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G70 x 14
+ci sloc Trunk
+cls 6936, 242370(\w)([\dX]{6})
+clv 26593, 1970, Pontiac, GTO, Hardtop Coupe
+ci axle Semifloating
+ci msrp $3267.00
+ci prod 36366
+ci series GTO
+ci year 1970
+ci make Pontiac
+ci origin United States
+ci weight 3638
+ci model 4237
+ci doors 2
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci fuel 21.5
+ci oil 5
+ci rdiff 3
+ci tcase -NA-
+ci trans 2.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.55
+ci diff Hypoid
+ci wbase 112
+ci width 76.7
+ci length 202.9
+ci height 52
+ci ftred 61
+ci rtred 60
+ci disp 400
+ci mbear 5
+ci cyl 8
+ci trq 445@3000
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 54.3
+ci englo On pad at front of right side of block.
+ci etype Downdraft 4-barrel
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci bhp 350@5000
+ci comp 10.25
+ci etype Unknown at time of publication
+ci b&s 4.12 & 3 3/4
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci exha Dual
+ci rad Tube and center
+ci cool 18.3 Quarts
+ci ftype Premium
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.33
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.58
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G70 x 14
+ci sloc Trunk
+cls 6937, 235270(\w)([\dX]{6})
+clv 26594, 1970, Pontiac, LeMans, Coupe
+ci axle Semifloating
+ci msrp $2735.00
+ci make Pontiac
+ci series LeMans
+ci prod 5656
+ci origin United States
+ci year 1970
+ci maker Fisher
+ci doors 2
+ci weight 3240
+ci model 3527
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci fuel 21.5
+ci rdiff 3
+ci trans 3.5
+ci oil 4
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 202.5
+ci height 52
+ci wbase 116
+ci width 76.7
+ci rtred 60
+ci ftred 61
+ci cyl 6
+ci comp 8.5
+ci etype Single downdraft
+ci bhp 155@4200
+ci rhp 36
+ci b&s 3.875 & 3.53
+ci etype Inline 6, OHC
+ci etype Fully synchronous 3-speed manual
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci trq 235@1600
+ci vlift Hydraulic
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci cool 13 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 1gear 2.85
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci gears 3
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6938, 235390(\w)([\dX]{6})
+clv 26595, 1970, Pontiac, LeMans, Hardtop
+ci axle Semifloating
+ci prod 3872
+ci make Pontiac
+ci origin United States
+ci series LeMans
+ci msrp $2921.00
+ci year 1970
+ci maker Fisher
+ci doors 4
+ci model 3539
+ci weight 3385
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 21.5
+ci oil 4
+ci trans 3.5
+ci rdiff 3
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 116
+ci length 206.5
+ci height 52.6
+ci width 76.7
+ci rtred 60
+ci ftred 61
+ci rhp 36
+ci comp 8.5
+ci cyl 6
+ci b&s 3.875 & 3.53
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci etype Inline 6, OHC
+ci etype Fully synchronous 3-speed manual
+ci trq 235@1600
+ci bhp 155@4200
+ci etype Single downdraft
+ci vlift Hydraulic
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci cool 13 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 1gear 2.85
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci gears 3
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6939, 235370(\w)([\dX]{6})
+clv 26596, 1970, Pontiac, LeMans, Hardtop Coupe
+ci axle Semifloating
+ci msrp $2792.00
+ci make Pontiac
+ci series LeMans
+ci prod 52304
+ci origin United States
+ci year 1970
+ci maker Fisher
+ci doors 2
+ci weight 3265
+ci model 3537
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci fuel 21.5
+ci rdiff 3
+ci trans 3.5
+ci oil 4
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 202.5
+ci height 52
+ci wbase 116
+ci width 76.7
+ci rtred 60
+ci ftred 61
+ci cyl 6
+ci comp 8.5
+ci etype Single downdraft
+ci bhp 155@4200
+ci rhp 36
+ci b&s 3.875 & 3.53
+ci etype Inline 6, OHC
+ci etype Fully synchronous 3-speed manual
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci trq 235@1600
+ci vlift Hydraulic
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci cool 13 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 1gear 2.85
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci gears 3
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6940, 235690(\w)([\dX]{6})
+clv 26597, 1970, Pontiac, LeMans, Sedan
+ci axle Semifloating
+ci msrp $2782.00
+ci prod 15255
+ci series LeMans
+ci make Pontiac
+ci origin United States
+ci year 1970
+ci maker Fisher
+ci doors 4
+ci weight 3315
+ci model 3569
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci oil 4
+ci tcase -NA-
+ci rdiff 3
+ci trans 3.5
+ci fuel 21.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.23
+ci length 206.5
+ci wbase 116
+ci height 52.6
+ci width 76.7
+ci rtred 60
+ci ftred 61
+ci cyl 6
+ci comp 8.5
+ci etype Single downdraft
+ci bhp 155@4200
+ci rhp 36
+ci b&s 3.875 & 3.53
+ci etype Inline 6, OHC
+ci etype Fully synchronous 3-speed manual
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci trq 235@1600
+ci vlift Hydraulic
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci cool 13 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 1gear 2.85
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci gears 3
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6941, 235350(\w)([\dX]{6})
+clv 26598, 1970, Pontiac, LeMans, Station Wagon
+ci axle Semifloating
+ci year 1970
+ci make Pontiac
+ci origin United States
+ci series LeMans
+ci msrp $3092.00
+ci prod 7165
+ci maker Fisher
+ci model 3535
+ci weight 3587
+ci doors 4
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 21.5
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci rdiff 3
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diffr 3.23
+ci diff Hypoid
+ci width 76.7
+ci height 54.5
+ci length 210.6
+ci rtred 60
+ci ftred 61
+ci wbase 116
+ci rhp 36
+ci comp 8.5
+ci cyl 6
+ci b&s 3.875 & 3.53
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci etype Inline 6, OHC
+ci etype Single downdraft
+ci trq 235@1600
+ci bhp 155@4200
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci ftype Regular
+ci rad Tube and center
+ci batt 12
+ci cool 13 Quarts
+ci exha Single
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci rev 2.95
+ci 5gear Not applicable
+ci 1gear 2.85
+ci 2gear 1.68
+ci gears 3
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 14
+ci sloc Trunk
+cls 6942, 237670(\w)([\dX]{6})
+clv 26599, 1970, Pontiac, LeMans Sports, Convertible
+ci axle Semifloating
+ci make Pontiac
+ci prod 4670
+ci origin United States
+ci year 1970
+ci msrp $3182.00
+ci series LeMans Sports
+ci maker Fisher
+ci doors 2
+ci weight 3330
+ci model 3767
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 21.5
+ci trans 3.5
+ci rdiff 3
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 112
+ci length 206.5
+ci height 52.6
+ci width 76.7
+ci rtred 60
+ci ftred 61
+ci rhp 36
+ci comp 8.5
+ci cyl 6
+ci b&s 3.875 & 3.53
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci etype Inline 6, OHC
+ci etype Fully synchronous 3-speed manual
+ci trq 235@1600
+ci bhp 155@4200
+ci etype Single downdraft
+ci vlift Hydraulic
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci cool 13 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 1gear 2.85
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci gears 3
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6943, 237270(\w)([\dX]{6})
+clv 26600, 1970, Pontiac, LeMans Sports, Coupe
+ci axle Semifloating
+ci msrp $2891.00
+ci series LeMans Sports
+ci year 1970
+ci make Pontiac
+ci origin United States
+ci prod 1673
+ci model 3727
+ci maker Fisher
+ci doors 2
+ci weight 3265
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 21.5
+ci rdiff 3
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 112
+ci length 202.5
+ci height 52
+ci width 76.7
+ci rtred 60
+ci ftred 61
+ci cyl 6
+ci comp 8.5
+ci etype Single downdraft
+ci bhp 155@4200
+ci rhp 36
+ci b&s 3.875 & 3.53
+ci etype Inline 6, OHC
+ci etype Fully synchronous 3-speed manual
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci trq 235@1600
+ci vlift Hydraulic
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci cool 13 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 1gear 2.85
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci gears 3
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6944, 237390(\w)([\dX]{6})
+clv 26601, 1970, Pontiac, LeMans Sports, Hardtop
+ci axle Semifloating
+ci make Pontiac
+ci series LeMans Sports
+ci origin United States
+ci year 1970
+ci msrp $3083.00
+ci prod 3657
+ci doors 4
+ci model 3739
+ci weight 3405
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci oil 4
+ci fuel 21.5
+ci trans 3.5
+ci rdiff 3
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 112
+ci length 206.5
+ci height 52.6
+ci width 76.7
+ci rtred 60
+ci ftred 61
+ci bhp 155@4200
+ci comp 8.5
+ci cyl 6
+ci etype Single downdraft
+ci rhp 36
+ci b&s 3.875 & 3.53
+ci etype Inline 6, OHC
+ci etype Fully synchronous 3-speed manual
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci trq 235@1600
+ci vlift Hydraulic
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci cool 13 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 1gear 2.85
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci gears 3
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6945, 237370(\w)([\dX]{6})
+clv 26602, 1970, Pontiac, LeMans Sports, Hardtop Coupe
+ci axle Semifloating
+ci make Pontiac
+ci prod 58356
+ci origin United States
+ci year 1970
+ci msrp $2953.00
+ci series LeMans Sports
+ci maker Fisher
+ci doors 2
+ci weight 3290
+ci model 3737
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 21.5
+ci trans 3.5
+ci rdiff 3
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 112
+ci height 52
+ci length 202.5
+ci width 76.7
+ci rtred 60
+ci ftred 61
+ci rhp 36
+ci comp 8.5
+ci cyl 6
+ci b&s 3.875 & 3.53
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci etype Inline 6, OHC
+ci etype Fully synchronous 3-speed manual
+ci trq 235@1600
+ci bhp 155@4200
+ci etype Single downdraft
+ci vlift Hydraulic
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci cool 13 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 1gear 2.85
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci gears 3
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6946, 237360(\w)([\dX]{6})
+clv 26603, 1970, Pontiac, LeMans Sports, Safari
+ci axle Semifloating
+ci msrp $3328.00
+ci series LeMans Sports
+ci prod 3823
+ci make Pontiac
+ci origin United States
+ci year 1970
+ci doors 4
+ci maker Fisher
+ci model 3736
+ci weight 3775
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci trans 3.5
+ci rdiff 3
+ci fuel 21.5
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.23
+ci length 210.6
+ci wbase 112
+ci height 54.5
+ci width 76.7
+ci rtred 60
+ci ftred 61
+ci cyl 6
+ci comp 8.5
+ci etype Single downdraft
+ci bhp 155@4200
+ci rhp 36
+ci b&s 3.875 & 3.53
+ci etype Inline 6, OHC
+ci trq 235@1600
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci ftype Regular
+ci rad Tube and center
+ci batt 12
+ci cool 13 Quarts
+ci exha Single
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci rev 2.95
+ci 5gear Not applicable
+ci 1gear 2.85
+ci 2gear 1.68
+ci gears 3
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 14
+ci sloc Trunk
+cls 6947, 233270(\w)([\dX]{6})
+clv 26604, 1970, Pontiac, Tempest, Coupe
+ci axle Semifloating
+ci year 1970
+ci series Tempest
+ci origin United States
+ci prod 11977
+ci msrp $2623.00
+ci make Pontiac
+ci model 3327
+ci maker Fisher
+ci doors 2
+ci weight 3240
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci trans 3.5
+ci fuel 21.5
+ci tcase -NA-
+ci rdiff 3
+ci oil 4
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci height 52
+ci length 202.5
+ci wbase 116
+ci rtred 60
+ci ftred 61
+ci width 76.7
+ci b&s 3.875 & 3.53
+ci comp 8.5
+ci trq 235@1600
+ci disp 250
+ci rhp 36
+ci englo On distributor mounting pad on right side of block.
+ci etype Single downdraft
+ci etype Inline 6, OHC
+ci bhp 155@4200
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci rad Tube and center
+ci cool Water pump
+ci exha Single
+ci ign Distributor and coil
+ci cool 13 Quarts
+ci batt 12
+ci ftype Regular
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power seats
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.68
+ci gears 3
+ci 1gear 2.85
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 6948, 233370(\w)([\dX]{6})
+clv 26605, 1970, Pontiac, Tempest, Hardtop Coupe
+ci axle Semifloating
+ci origin United States
+ci series Tempest
+ci year 1970
+ci make Pontiac
+ci prod 20883
+ci msrp $2750.00
+ci maker Fisher
+ci doors 2
+ci weight 3360
+ci model 3337
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci oil 4
+ci tcase -NA-
+ci fuel 21.5
+ci trans 3.5
+ci rdiff 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci height 52
+ci wbase 116
+ci width 76.7
+ci rtred 60
+ci ftred 61
+ci length 202.5
+ci comp 8.5
+ci rhp 36
+ci etype Single downdraft
+ci bhp 155@4200
+ci b&s 3.875 & 3.53
+ci englo On distributor mounting pad on right side of block.
+ci disp 250
+ci etype Inline 6, OHC
+ci trq 235@1600
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci rad Tube and center
+ci cool Water pump
+ci exha Single
+ci ign Distributor and coil
+ci cool 13 Quarts
+ci batt 12
+ci ftype Regular
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power seats
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.68
+ci gears 3
+ci 1gear 2.85
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 6949, 233690(\w)([\dX]{6})
+clv 26606, 1970, Pontiac, Tempest, Sedan
+ci axle Semifloating
+ci msrp $2670.00
+ci series Tempest
+ci origin United States
+ci make Pontiac
+ci year 1970
+ci prod 9187
+ci model 3369
+ci maker Fisher
+ci doors 4
+ci weight 3295
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci fuel 21.5
+ci rdiff 3
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 60
+ci length 206.5
+ci height 52.6
+ci ftred 61
+ci wbase 116
+ci width 76.7
+ci disp 250
+ci bhp 155@4200
+ci etype Single downdraft
+ci comp 8.5
+ci cyl 6
+ci englo On distributor mounting pad on right side of block.
+ci trq 235@1600
+ci etype Inline 6, OHC
+ci b&s 3.875 & 3.53
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci rhp 36
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Atoll Blue Metallic
+co Baja Gold Metallic
+co Bermuda Blue Metallic
+co Burgandy Metallic
+co Cardinal Red
+co Castillian Bronze Metallic
+co Coronado Gold Metallic
+co Granada Gold Metallic
+co Keylime Green Metallic
+co Lucerne Blue Metallic
+co Mint Turquoise Metallic
+co Palisade Green Metallic
+co Palladium Silver Metallic
+co Palomino Copper Metallic
+co Pepper Green Metallic
+co Polar White
+co Sierra Yellow
+co Starlight Black
+co Verdoro Green Metallic
+ci rad Tube and center
+ci cool Water pump
+ci exha Single
+ci ign Distributor and coil
+ci cool 13 Quarts
+ci batt 12
+ci ftype Regular
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power seats
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.68
+ci gears 3
+ci 1gear 2.85
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk

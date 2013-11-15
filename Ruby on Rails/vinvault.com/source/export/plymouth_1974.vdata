@@ -1,0 +1,3707 @@
+cls 6292, BS23(\w)4(\w)([\dX]{6})
+clv 25620, 1974, Plymouth, 'Cuda, Hardtop
+ci axle Semifloating
+ci origin United States
+ci make Plymouth
+ci series 'Cuda
+ci msrp $3252.00
+ci year 1974
+ci prod 4989
+ci maker Plymouth
+ci model BS23
+ci doors 2
+ci weight 3300
+ci ebrake Rear service brakes
+ci fbsize 10.98
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci fuel 16.5
+ci oil 4
+ci tcase -NA-
+ci trans 4.75
+ci rdiff 4.4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 108
+ci width 75.6
+ci length 195.6
+ci rtred 60.7
+ci height 50.9
+ci ftred 60.2
+ci mbear 5
+ci rhp 48.83
+ci cyl 8
+ci disp 317.58
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 29/32 & 3 5/16
+ci trq 265@2000
+ci block Cast Iron
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci englo Stamped on front of block just below left cylinder head.
+ci bhp 150@3600
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci comp 8.6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci ign Electronic
+ci cool Water pump
+ci batt 12
+ci cool 16 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ftype Regular
+ci equip Radio
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci 5gear Not applicable
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci rev 2.9
+ci 3gear 1
+ci 2gear 1.7
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 6293, BH23(\w)4(\w)([\dX]{6})
+clv 25621, 1974, Plymouth, Barracuda V8, Hardtop
+ci axle Semifloating
+ci year 1974
+ci origin United States
+ci msrp $3067.00
+ci prod 6745
+ci series Barracuda V8
+ci make Plymouth
+ci maker Plymouth
+ci model BH23
+ci weight 3210
+ci doors 2
+ci fbsize 10.98
+ci bsize 10
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci trans 4.75
+ci fuel 16.5
+ci rdiff 4.4
+ci tcase -NA-
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci height 50.9
+ci width 75.6
+ci wbase 108
+ci ftred 60.2
+ci rtred 60.7
+ci length 195.6
+ci cyl 8
+ci mbear 5
+ci comp 8.6
+ci rhp 48.83
+ci bhp 150@3600
+ci englo Stamped on front of block just below left cylinder head.
+ci trq 265@2000
+ci block Cast Iron
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 317.58
+ci etype V8 overhead valve
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci ign Electronic
+ci cool Water pump
+ci batt 12
+ci cool 16 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ftype Regular
+ci equip Radio
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci 5gear Not applicable
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci rev 2.9
+ci 3gear 1
+ci 2gear 1.7
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 6294, VS29(\w)4(\w)([\dX]{6})
+clv 25622, 1974, Plymouth, Duster 360, Coupe
+ci axle Semifloating
+ci msrp $3122.00
+ci make Plymouth
+ci origin United States
+ci prod 3969
+ci year 1974
+ci series Duster 360
+ci model VS29
+ci doors 2
+ci maker Plymouth
+ci fbsize 10.98
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci tcase -NA-
+ci fuel 16
+ci oil 4
+ci rdiff 4.4
+ci trans 4.75
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 3.23
+ci length 194.1
+ci wbase 108
+ci ftred 59.1
+ci height 53.1
+ci rtred 55.4
+ci width 71.8
+ci rhp 51.2
+ci cyl 8
+ci comp 8.5
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3 37/64
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci disp 360
+ci etype V8 overhead valve
+ci bhp 240@4800
+ci trq 295@3600
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci englo Stamped on front of block just below left cylinder head.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci ftype Regular
+ci batt 12
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci ign Electronic
+ci exha Dual
+ci cool Water pump
+ci equip Power steering
+ci equip Radio
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 3.34
+ci 2gear 1.49
+ci gears 3
+ci 1gear 2.55
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 6295, VL29(\w)4(\w)([\dX]{6})
+clv 25623, 1974, Plymouth, Duster 6, Coupe
+ci axle Semifloating
+ci msrp $2676.00
+ci origin United States
+ci make Plymouth
+ci prod 277409
+ci year 1974
+ci series Duster 6
+ci model VL29
+ci doors 2
+ci maker Plymouth
+ci bsize 9
+ci fbsize 10
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 2.1
+ci trans 6.5
+ci fuel 16
+ci oil 4
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 194.1
+ci height 53.1
+ci rtred 55.4
+ci wbase 108
+ci width 71.8
+ci ftred 59.1
+ci etype Single downdraft
+ci cyl 6
+ci comp 8.4
+ci bhp 95@4000
+ci disp 198
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 27.74
+ci vlift Mechanical
+ci b&s 3.4 & 3.64
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci etype Inline 6 overhead valve
+ci trq 150@1600
+ci etype Synchro-mesh
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci rad Tube and spacer
+ci ign Electronic
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci cool 13 Quarts
+ci cool Water pump
+ci equip Power brakes
+ci equip 225 cu. in. Inline 6 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.97
+ci 2gear 1.83
+ci gears 3
+ci 3gear 1
+ci 1gear 3.18
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 6296, VL29(\w)4(\w)([\dX]{6})
+clv 25624, 1974, Plymouth, Duster V8, Coupe
+ci axle Semifloating
+ci series Duster V8
+ci origin United States
+ci year 1974
+ci msrp $2823.00
+ci prod 277409
+ci make Plymouth
+ci maker Plymouth
+ci doors 2
+ci model VL29
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci fbsize 10.98
+ci ebrake Rear service brakes
+ci fuel 16
+ci oil 4
+ci tcase -NA-
+ci trans 6.5
+ci rdiff 4.4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci height 53.1
+ci wbase 108
+ci length 194.1
+ci width 71.8
+ci rtred 55.4
+ci ftred 59.1
+ci etype Dual downdraft
+ci b&s 3 29/32 & 3 5/16
+ci cyl 8
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 265@2000
+ci block Cast Iron
+ci englo Stamped on front of block just below left cylinder head.
+ci etype V8 overhead valve
+ci disp 317.58
+ci rhp 48.83
+ci vlift Hydraulic
+ci mbear 5
+ci etype Fully synchronized
+ci bhp 150@3600
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci cool 16 Quarts
+ci batt 12
+ci ftype Regular
+ci ign Electronic
+ci rad Tube and spacer
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci equip 360 cu. in. V8 engine
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.9
+ci 3gear 1
+ci gears 3
+ci 2gear 1.7
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize D78 x 14
+ci sloc Trunk
+cls 6297, PM23(\w)4(\w)([\dX]{6})
+clv 25625, 1974, Plymouth, Fury I V8, Hardtop
+ci axle Semifloating
+ci msrp $4101.00
+ci origin United States
+ci series Fury I V8
+ci make Plymouth
+ci year 1974
+ci maker Plymouth
+ci weight 4185
+ci doors 2
+ci model PL23
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 11.56
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 25
+ci rdiff 4.4
+ci oil 4
+ci trans 16.5
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci length 219.9
+ci rtred 63.7
+ci ftred 64
+ci width 79.9
+ci height 54.2
+ci wbase 122
+ci cyl 8
+ci comp 8.4
+ci etype Dual downdraft
+ci mbear 5
+ci rhp 51.2
+ci etype V8 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci bhp 245@4800
+ci b&s 4 & 3 37/64
+ci disp 360
+ci trq 320@3600
+ci etype Torqueflite automatic
+ci englo Stamped on front of block just below left cylinder head.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci ign Electronic
+ci cool Water pump
+ci batt 12
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci rad Tube and spacer
+ci equip Radio
+ci equip 440 cu. in. V8 engine
+ci equip Speed control device
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 6298, PL41(\w)4(\w)([\dX]{6})
+clv 25626, 1974, Plymouth, Fury I V8, Sedan
+ci axle Semifloating
+ci msrp $3759.00
+ci origin United States
+ci series Fury I V8
+ci make Plymouth
+ci year 1974
+ci prod 8162
+ci maker Plymouth
+ci doors 4
+ci model PL41
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.56
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 4.4
+ci fuel 25
+ci oil 4
+ci trans 16.5
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci ftred 64
+ci rtred 63.7
+ci width 79.9
+ci length 219.9
+ci wbase 122
+ci height 54.1
+ci comp 8.4
+ci cyl 8
+ci etype Dual downdraft
+ci rhp 51.2
+ci bhp 245@4800
+ci etype V8 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Torqueflite automatic
+ci englo Stamped on front of block just below left cylinder head.
+ci b&s 4 & 3 37/64
+ci disp 360
+ci trq 320@3600
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci ign Electronic
+ci cool Water pump
+ci batt 12
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci rad Tube and spacer
+ci equip Radio
+ci equip 440 cu. in. V8 engine
+ci equip Speed control device
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 6299, PM41(\w)4(\w)([\dX]{6})
+clv 25627, 1974, Plymouth, Fury II V8, Sedan
+ci axle Semifloating
+ci prod 11649
+ci year 1974
+ci make Plymouth
+ci origin United States
+ci msrp $3878.00
+ci series Fury II V8
+ci doors 4
+ci maker Plymouth
+ci model PM41
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 11.56
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 25
+ci oil 4
+ci rdiff 4.4
+ci trans 16.5
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci length 219.9
+ci rtred 63.7
+ci ftred 64
+ci width 79.9
+ci height 54.1
+ci wbase 122
+ci cyl 8
+ci comp 8.4
+ci etype Dual downdraft
+ci mbear 5
+ci rhp 51.2
+ci etype V8 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci bhp 245@4800
+ci b&s 4 & 3 37/64
+ci disp 360
+ci trq 320@3600
+ci etype Torqueflite automatic
+ci englo Stamped on front of block just below left cylinder head.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci ign Electronic
+ci cool Water pump
+ci batt 12
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci rad Tube and spacer
+ci equip Radio
+ci equip 440 cu. in. V8 engine
+ci equip Speed control device
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 6300, PH43(\w)4(\w)([\dX]{6})
+clv 25628, 1974, Plymouth, Fury III V8, Hardtop
+ci axle Semifloating
+ci msrp $4067.00
+ci year 1974
+ci series Fury III V8
+ci make Plymouth
+ci prod 18778
+ci origin United States
+ci doors 2
+ci maker Plymouth
+ci model PH43
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 11.56
+ci tcase -NA-
+ci rdiff 4.4
+ci fuel 25
+ci trans 16.5
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.71
+ci diff Hypoid
+ci ftred 64
+ci rtred 63.7
+ci height 54.2
+ci width 79.9
+ci length 219.9
+ci wbase 122
+ci cyl 8
+ci comp 8.4
+ci etype Dual downdraft
+ci mbear 5
+ci rhp 51.2
+ci etype V8 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci bhp 245@4800
+ci b&s 4 & 3 37/64
+ci disp 360
+ci trq 320@3600
+ci etype Torqueflite automatic
+ci englo Stamped on front of block just below left cylinder head.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci ign Electronic
+ci cool Water pump
+ci batt 12
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci rad Tube and spacer
+ci equip Radio
+ci equip 440 cu. in. V8 engine
+ci equip Speed control device
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 6301, PH23(\w)4(\w)([\dX]{6})
+clv 25629, 1974, Plymouth, Fury III V8, Hardtop
+ci axle Semifloating
+ci msrp $4116.00
+ci year 1974
+ci series Fury III V8
+ci make Plymouth
+ci origin United States
+ci prod 14167
+ci doors 4
+ci maker Plymouth
+ci model PH23
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 11.56
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 25
+ci oil 4
+ci rdiff 4.4
+ci trans 16.5
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci length 219.9
+ci rtred 63.7
+ci ftred 64
+ci width 79.9
+ci height 54.1
+ci wbase 122
+ci cyl 8
+ci comp 8.4
+ci etype Dual downdraft
+ci mbear 5
+ci rhp 51.2
+ci etype V8 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci bhp 245@4800
+ci b&s 4 & 3 37/64
+ci disp 360
+ci trq 320@3600
+ci etype Torqueflite automatic
+ci englo Stamped on front of block just below left cylinder head.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci ign Electronic
+ci cool Water pump
+ci batt 12
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci rad Tube and spacer
+ci equip Radio
+ci equip 440 cu. in. V8 engine
+ci equip Speed control device
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 6302, PH41(\w)4(\w)([\dX]{6})
+clv 25630, 1974, Plymouth, Fury III V8, Sedan
+ci axle Semifloating
+ci msrp $4050.00
+ci origin United States
+ci series Fury III V8
+ci make Plymouth
+ci year 1974
+ci prod 27965
+ci maker Plymouth
+ci doors 4
+ci model PH41
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 11.56
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 16.5
+ci oil 4
+ci fuel 25
+ci rdiff 4.4
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci rtred 63.7
+ci height 54.1
+ci ftred 64
+ci width 79.9
+ci length 219.9
+ci wbase 122
+ci cyl 8
+ci comp 8.4
+ci etype Dual downdraft
+ci mbear 5
+ci rhp 51.2
+ci etype V8 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci bhp 245@4800
+ci b&s 4 & 3 37/64
+ci disp 360
+ci trq 320@3600
+ci etype Torqueflite automatic
+ci englo Stamped on front of block just below left cylinder head.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci ign Electronic
+ci cool Water pump
+ci batt 12
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci rad Tube and spacer
+ci equip Radio
+ci equip 440 cu. in. V8 engine
+ci equip Speed control device
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 6303, PP43(\w)4(\w)([\dX]{6})
+clv 25631, 1974, Plymouth, Gran Fury, Hardtop
+ci axle Semifloating
+ci series Gran Fury
+ci msrp $4271.00
+ci make Plymouth
+ci year 1974
+ci origin United States
+ci prod 9617
+ci doors 2
+ci model PP23
+ci maker Plymouth
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.56
+ci ebrake Rear service brakes
+ci oil 4
+ci fuel 25
+ci rdiff 4.4
+ci tcase -NA-
+ci trans Pints
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.23
+ci width 79.9
+ci ftred 64
+ci length 219.9
+ci height 54.2
+ci wbase 122
+ci rtred 63.7
+ci trq 315@2400
+ci etype Dual downdraft
+ci etype Torqueflite automatic
+ci vlift Hydraulic
+ci englo Stamped on block forward of number 2 cylinder bore adjacent to the distributor.
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 400
+ci bhp 185@4000
+ci comp 8.2
+ci cyl 8
+ci etype V8 overhead valve
+ci rhp 60.27
+ci b&s 4.34 & 3 3/4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci batt 12
+ci exha Single
+ci cool Water pump
+ci ftype Regular
+ci ign Electronic
+ci equip Power seats
+ci equip Radio
+ci equip Air conditioning
+ci equip Power windows
+ci equip Speed control device
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 6304, PP23(\w)4(\w)([\dX]{6})
+clv 25632, 1974, Plymouth, Gran Fury, Hardtop
+ci axle Semifloating
+ci series Gran Fury
+ci msrp $4317.00
+ci make Plymouth
+ci year 1974
+ci origin United States
+ci prod 8191
+ci doors 4
+ci maker Plymouth
+ci model PP43
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fbsize 11.56
+ci tcase -NA-
+ci oil 4
+ci rdiff 4.4
+ci fuel 25
+ci trans Pints
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.23
+ci width 79.9
+ci ftred 64
+ci length 219.9
+ci height 54.1
+ci wbase 122
+ci rtred 63.7
+ci trq 315@2400
+ci etype Dual downdraft
+ci etype Torqueflite automatic
+ci vlift Hydraulic
+ci englo Stamped on block forward of number 2 cylinder bore adjacent to the distributor.
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 400
+ci bhp 185@4000
+ci comp 8.2
+ci cyl 8
+ci etype V8 overhead valve
+ci rhp 60.27
+ci b&s 4.34 & 3 3/4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci batt 12
+ci exha Single
+ci cool Water pump
+ci ftype Regular
+ci ign Electronic
+ci equip Power seats
+ci equip Radio
+ci equip Air conditioning
+ci equip Power windows
+ci equip Speed control device
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 6305, RM23(\w)4(\w)([\dX]{6})
+clv 25633, 1974, Plymouth, Road Runner, Coupe
+ci axle Semifloating
+ci year 1974
+ci origin United States
+ci msrp $3349.00
+ci make Plymouth
+ci prod 9656
+ci series Road Runner
+ci maker Plymouth
+ci model RM23
+ci doors 2
+ci svc Front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 10.98
+ci ebrake Rear service brakes
+ci rdiff 4.4
+ci tcase -NA-
+ci fuel 19.5
+ci trans 4.75
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci width 79.1
+ci wbase 115
+ci length 212.4
+ci height 52.5
+ci ftred 61.9
+ci rtred 62
+ci cyl 8
+ci mbear 5
+ci comp 8.6
+ci bhp 150@3600
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 48.83
+ci block Cast Iron
+ci etype Dual downdraft
+ci englo Stamped on front of block just below left cylinder head.
+ci trq 265@2000
+ci disp 317.58
+ci etype Fully synchronized
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci exha Single
+ci cool 16 Quarts
+ci cool Water pump
+ci ign Electronic
+ci ftype Regular
+ci equip Power brakes
+ci equip Power windows
+ci equip Air conditioning
+ci equip 360 cu. in. V8 engine
+ci equip Power steering
+ci equip Speed control device
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci rev 2.9
+ci gears 3
+ci 1gear 3.08
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G70 x 14
+ci sloc Trunk
+cls 6306, RL41(\w)4(\w)([\dX]{6})
+clv 25634, 1974, Plymouth, Satellite 6, Coupe
+ci axle Semifloating
+ci msrp $2970.00
+ci make Plymouth
+ci year 1974
+ci origin United States
+ci series Satellite 6
+ci prod 10634
+ci maker Plymouth
+ci model RL21
+ci doors 2
+ci ebrake Rear service brakes
+ci fbsize 10.98
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci oil 4
+ci tcase -NA-
+ci trans 4.75
+ci fuel 19.5
+ci rdiff 4.4
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.21
+ci width 79.1
+ci length 212.4
+ci height 52.2
+ci wbase 115
+ci ftred 61.9
+ci rtred 62
+ci etype Slant 6  overhead valve
+ci comp 8.4
+ci trq 185@1600
+ci b&s 3 13/32 & 4 1/8
+ci block Cast Iron
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci vlift Mechanical
+ci etype Fully synchronized
+ci rhp 27.85
+ci disp 225.54
+ci bhp 105@4000
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci cyl 6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci ign Electronic
+ci cool Water pump
+ci rad Tube and spacer
+ci batt 12
+ci cool 13 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Power steering
+ci equip Power brakes
+ci equip Radio
+ci equip Air conditioning
+ci equip Power windows
+ci equip Speed control device
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci 5gear Not applicable
+ci rev 2.9
+ci gears 3
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.7
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 6307, RL21(\w)4(\w)([\dX]{6})
+clv 25635, 1974, Plymouth, Satellite 6, Sedan
+ci axle Semifloating
+ci msrp $3039.00
+ci make Plymouth
+ci origin United States
+ci series Satellite 6
+ci prod 12726
+ci year 1974
+ci model RL41
+ci maker Plymouth
+ci fbsize 10.98
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci oil 4
+ci tcase -NA-
+ci trans 4.75
+ci fuel 19.5
+ci rdiff 4.4
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.21
+ci width 79.1
+ci length 212.4
+ci height 52.2
+ci wbase 115
+ci ftred 61.9
+ci rtred 62
+ci etype Slant 6  overhead valve
+ci comp 8.4
+ci trq 185@1600
+ci b&s 3 13/32 & 4 1/8
+ci block Cast Iron
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci vlift Mechanical
+ci etype Fully synchronized
+ci rhp 27.85
+ci disp 225.54
+ci bhp 105@4000
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci cyl 6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci ign Electronic
+ci cool Water pump
+ci rad Tube and spacer
+ci batt 12
+ci cool 13 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Power steering
+ci equip Power brakes
+ci equip Radio
+ci equip Air conditioning
+ci equip Power windows
+ci equip Speed control device
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci 5gear Not applicable
+ci rev 2.9
+ci gears 3
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.7
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 6308, RH41(\w)4(\w)([\dX]{6})
+clv 25636, 1974, Plymouth, Satellite Custom 6, Sedan
+ci axle Semifloating
+ci origin United States
+ci make Plymouth
+ci year 1974
+ci series Satellite Custom 6
+ci prod 45863
+ci msrp $3139.00
+ci model RH41
+ci maker Plymouth
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci bsize 10
+ci fbsize 10.98
+ci oil 4
+ci tcase -NA-
+ci rdiff 4.4
+ci trans 4.75
+ci fuel 19.5
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diffr 3.21
+ci diff Hypoid
+ci length 212.4
+ci wbase 115
+ci height 52.2
+ci width 79.1
+ci ftred 61.9
+ci rtred 62
+ci cyl 6
+ci comp 8.4
+ci trq 185@1600
+ci mbear 4
+ci block Cast Iron
+ci etype Slant 6  overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci bhp 105@4000
+ci etype Fully synchronized
+ci etype Single downdraft
+ci rhp 27.85
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci disp 225.54
+ci b&s 3 13/32 & 4 1/8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci batt 12
+ci exha Single
+ci rad Tube and spacer
+ci cool Water pump
+ci cool 13 Quarts
+ci ign Electronic
+ci ftype Regular
+ci equip Power steering
+ci equip Power brakes
+ci equip Radio
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Power windows
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci 3gear 1
+ci rev 2.9
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.7
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 6309, RH41(\w)4(\w)([\dX]{6})
+clv 25637, 1974, Plymouth, Satellite Custom V8, Sedan
+ci axle Semifloating
+ci msrp $3251.00
+ci origin United States
+ci series Satellite Custom V8
+ci year 1974
+ci prod 45863
+ci make Plymouth
+ci model RH41
+ci doors 4
+ci maker Plymouth
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci bsize 10
+ci fbsize 10.98
+ci tcase -NA-
+ci oil 4
+ci fuel 19.5
+ci trans 4.75
+ci rdiff 4.4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci width 78.6
+ci length 213.3
+ci wbase 115
+ci rtred 62
+ci height 53.7
+ci ftred 61.9
+ci disp 317.58
+ci mbear 5
+ci cyl 8
+ci comp 8.6
+ci rhp 48.83
+ci bhp 150@3600
+ci block Cast Iron
+ci etype Dual downdraft
+ci englo Stamped on front of block just below left cylinder head.
+ci trq 265@2000
+ci b&s 3 29/32 & 3 5/16
+ci etype V8 overhead valve
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci exha Single
+ci cool 16 Quarts
+ci cool Water pump
+ci ign Electronic
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Power windows
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci rev 2.9
+ci gears 3
+ci 1gear 3.08
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 6310, RH45(\w)4(\w)([\dX]{6})
+clv 25638, 1974, Plymouth, Satellite Custom V8, Station Wagon 2-seat
+ci axle Semifloating
+ci msrp $3634.00
+ci origin United States
+ci series Satellite Custom V8
+ci year 1974
+ci prod 4354
+ci make Plymouth
+ci model RH45
+ci doors 4
+ci maker Plymouth
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci fbsize 10.98
+ci fuel 19.5
+ci oil 4
+ci tcase -NA-
+ci trans 4.75
+ci rdiff 4.4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci width 79.1
+ci length 212.4
+ci wbase 115
+ci rtred 62
+ci height 52.2
+ci ftred 61.9
+ci disp 317.58
+ci mbear 5
+ci cyl 8
+ci comp 8.6
+ci rhp 48.83
+ci bhp 150@3600
+ci block Cast Iron
+ci etype Dual downdraft
+ci englo Stamped on front of block just below left cylinder head.
+ci trq 265@2000
+ci b&s 3 29/32 & 3 5/16
+ci etype Fully synchronized
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci exha Single
+ci cool 16 Quarts
+ci cool Water pump
+ci ign Electronic
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Power windows
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci rev 2.9
+ci gears 3
+ci 1gear 3.08
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 6311, RH46(\w)4(\w)([\dX]{6})
+clv 25639, 1974, Plymouth, Satellite Custom V8, Station Wagon 3-seat
+ci axle Semifloating
+ci msrp $3939.00
+ci origin United States
+ci series Satellite Custom V8
+ci year 1974
+ci prod 5591
+ci make Plymouth
+ci model RH46
+ci doors 4
+ci maker Plymouth
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci fbsize 10.98
+ci fuel 19.5
+ci oil 4
+ci tcase -NA-
+ci trans 4.75
+ci rdiff 4.4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci width 79.1
+ci length 212.4
+ci wbase 115
+ci height 52.2
+ci rtred 62
+ci ftred 61.9
+ci disp 317.58
+ci bhp 150@3600
+ci cyl 8
+ci comp 8.6
+ci mbear 5
+ci rhp 48.83
+ci block Cast Iron
+ci etype Dual downdraft
+ci englo Stamped on front of block just below left cylinder head.
+ci trq 265@2000
+ci b&s 3 29/32 & 3 5/16
+ci etype Fully synchronized
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci exha Single
+ci cool 16 Quarts
+ci cool Water pump
+ci ign Electronic
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Power windows
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci rev 2.9
+ci gears 3
+ci 1gear 3.08
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 6312, RH23(\w)4(\w)([\dX]{6})
+clv 25640, 1974, Plymouth, Satellite Sebring 6, Hardtop
+ci axle Semifloating
+ci prod 31980
+ci year 1974
+ci origin United States
+ci series Satellite Sebring 6
+ci msrp $3162.00
+ci make Plymouth
+ci model RH23
+ci maker Plymouth
+ci doors 2
+ci fbsize 10.98
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci fuel 19.5
+ci oil 4
+ci rdiff 4.4
+ci trans 4.75
+ci tcase -NA-
+ci carb Holley
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diffr 3.21
+ci diff Hypoid
+ci length 212.4
+ci wbase 115
+ci height 52.2
+ci width 79.1
+ci ftred 61.9
+ci rtred 62
+ci etype Slant 6  overhead valve
+ci comp 8.4
+ci cyl 6
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci block Cast Iron
+ci bhp 105@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 27.85
+ci disp 225.54
+ci etype Fully synchronized
+ci etype Single downdraft
+ci vlift Hydraulic
+ci trq 185@1600
+ci mbear 4
+ci b&s 3 13/32 & 4 1/8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci batt 12
+ci exha Single
+ci rad Tube and spacer
+ci cool Water pump
+ci cool 13 Quarts
+ci ign Electronic
+ci ftype Regular
+ci equip Power steering
+ci equip Power brakes
+ci equip Radio
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Power windows
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci 3gear 1
+ci rev 2.9
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.7
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 6313, RP23(\w)4(\w)([\dX]{6})
+clv 25641, 1974, Plymouth, Satellite Sebring Plus & Regent, Hardtop
+ci axle Semifloating
+ci year 1974
+ci origin United States
+ci make Plymouth
+ci msrp $3621.00
+ci series Satellite Sebring Plus & Regent
+ci prod 18480
+ci model RP23
+ci doors 2
+ci maker Plymouth
+ci weight 3555
+ci svc Front disc rear self-adjusting drum
+ci fbsize 10.98
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci rdiff 4.4
+ci oil 4
+ci trans 4.75
+ci fuel 19.5
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 2.94
+ci rtred 63.4
+ci length 212.4
+ci wbase 115
+ci width 79.1
+ci ftred 61.9
+ci height 52.2
+ci etype Fully synchronized
+ci mbear 5
+ci bhp 150@3600
+ci cyl 8
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci englo Stamped on front of block just below left cylinder head.
+ci block Cast Iron
+ci etype Dual downdraft
+ci trq 265@2000
+ci disp 317.58
+ci vlift Hydraulic
+ci rhp 48.83
+ci b&s 3 29/32 & 3 5/16
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Yellow Blaze
+ci ftype Regular
+ci batt 12
+ci cool Water pump
+ci ign Electronic
+ci cool 16 Quarts
+ci exha Single
+ci rad Tube and spacer
+ci equip Automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 440 cu. in. V8 engine
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci 3gear 1
+ci rev 2.9
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.7
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6314, RP45(\w)4(\w)([\dX]{6})
+clv 25642, 1974, Plymouth, Satellite Sebring Plus & Regent, Station Wagon 2-seat
+ci axle Semifloating
+ci msrp $4066.00
+ci origin United States
+ci make Plymouth
+ci year 1974
+ci series Satellite Sebring Plus & Regent
+ci prod 2026
+ci model RP45
+ci weight 4065
+ci doors 4
+ci pass 6
+ci maker Plymouth
+ci fbsize 10.98
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci fuel 19.5
+ci rdiff 4.4
+ci trans 4.75
+ci oil 4
+ci tcase -NA-
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci rtred 63.4
+ci width 79.2
+ci length 217.1
+ci ftred 61.9
+ci height 56.4
+ci wbase 115
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci cyl 8
+ci comp 8.6
+ci bhp 150@3600
+ci disp 317.58
+ci b&s 3 29/32 & 3 5/16
+ci block Cast Iron
+ci etype Dual downdraft
+ci englo Stamped on front of block just below left cylinder head.
+ci vlift Hydraulic
+ci trq 265@2000
+ci etype Fully synchronized
+ci rhp 48.83
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Yellow Blaze
+ci batt 12
+ci ftype Regular
+ci ign Electronic
+ci exha Single
+ci cool 16 Quarts
+ci rad Tube and spacer
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip Speed control device
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip 440 cu. in. V8 engine
+ci equip Radio
+ci equip Automatic transmission
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 3.08
+ci rev 2.9
+ci gears 3
+ci 2gear 1.7
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 6315, RP46(\w)4(\w)([\dX]{6})
+clv 25643, 1974, Plymouth, Satellite Sebring Plus & Regent, Station Wagon 3-seat
+ci axle Semifloating
+ci msrp $4381.00
+ci origin United States
+ci make Plymouth
+ci year 1974
+ci series Satellite Sebring Plus & Regent
+ci prod 3132
+ci model RP46
+ci weight 4130
+ci doors 4
+ci pass 9
+ci maker Plymouth
+ci fbsize 10.98
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci trans 4.75
+ci rdiff 4.4
+ci tcase -NA-
+ci oil 4
+ci fuel 19.5
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci width 79.2
+ci wbase 115
+ci length 217.1
+ci rtred 63.4
+ci height 56.4
+ci ftred 61.9
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.6
+ci etype V8 overhead valve
+ci bhp 150@3600
+ci disp 317.58
+ci b&s 3 29/32 & 3 5/16
+ci block Cast Iron
+ci etype Dual downdraft
+ci englo Stamped on front of block just below left cylinder head.
+ci vlift Hydraulic
+ci trq 265@2000
+ci etype Fully synchronized
+ci rhp 48.83
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Yellow Blaze
+ci batt 12
+ci ftype Regular
+ci ign Electronic
+ci exha Single
+ci cool 16 Quarts
+ci rad Tube and spacer
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip Speed control device
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip 440 cu. in. V8 engine
+ci equip Radio
+ci equip Automatic transmission
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 3.08
+ci rev 2.9
+ci gears 3
+ci 2gear 1.7
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 6316, RH23(\w)4(\w)([\dX]{6})
+clv 25644, 1974, Plymouth, Satellite Sebring V8, Hardtop
+ci axle Semifloating
+ci msrp $3423.00
+ci origin United States
+ci prod 31980
+ci year 1974
+ci make Plymouth
+ci series Satellite Sebring V8
+ci maker Plymouth
+ci model RH23
+ci doors 2
+ci fbsize 10.98
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci bsize 10
+ci rdiff 4.4
+ci fuel 19.5
+ci tcase -NA-
+ci trans 4.75
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci ftred 61.9
+ci wbase 115
+ci length 212.4
+ci rtred 62
+ci height 52.2
+ci width 79.1
+ci mbear 5
+ci rhp 48.83
+ci cyl 8
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 150@3600
+ci block Cast Iron
+ci etype Dual downdraft
+ci englo Stamped on front of block just below left cylinder head.
+ci trq 265@2000
+ci disp 317.58
+ci etype V8 overhead valve
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci exha Single
+ci cool 16 Quarts
+ci cool Water pump
+ci ign Electronic
+ci ftype Regular
+ci equip Power brakes
+ci equip Power windows
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Power steering
+ci equip Speed control device
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci rev 2.9
+ci gears 3
+ci 1gear 3.08
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 6317, RL41(\w)4(\w)([\dX]{6})
+clv 25645, 1974, Plymouth, Satellite V8, Coupe
+ci axle Semifloating
+ci msrp $3082.00
+ci origin United States
+ci series Satellite V8
+ci make Plymouth
+ci year 1974
+ci prod 10634
+ci doors 2
+ci maker Plymouth
+ci model RL21
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci fbsize 10.98
+ci bsize 10
+ci tcase -NA-
+ci rdiff 4.4
+ci fuel 19.5
+ci trans 4.75
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci width 79.1
+ci length 212.4
+ci wbase 115
+ci rtred 62
+ci height 52.2
+ci ftred 61.9
+ci b&s 3 29/32 & 3 5/16
+ci mbear 5
+ci cyl 8
+ci comp 8.6
+ci rhp 48.83
+ci bhp 150@3600
+ci block Cast Iron
+ci etype Dual downdraft
+ci englo Stamped on front of block just below left cylinder head.
+ci disp 317.58
+ci trq 265@2000
+ci etype V8 overhead valve
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci exha Single
+ci cool 16 Quarts
+ci cool Water pump
+ci ign Electronic
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Power windows
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci rev 2.9
+ci gears 3
+ci 1gear 3.08
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 6318, RL21(\w)4(\w)([\dX]{6})
+clv 25646, 1974, Plymouth, Satellite V8, Sedan
+ci axle Semifloating
+ci year 1974
+ci origin United States
+ci msrp $3151.00
+ci make Plymouth
+ci prod 12726
+ci series Satellite V8
+ci maker Plymouth
+ci doors 4
+ci model RL41
+ci bsize 10
+ci fbsize 10.98
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci rdiff 4.4
+ci tcase -NA-
+ci fuel 19.5
+ci trans 4.75
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci width 78.6
+ci length 213.3
+ci wbase 115
+ci rtred 62
+ci height 53.7
+ci ftred 61.9
+ci b&s 3 29/32 & 3 5/16
+ci mbear 5
+ci cyl 8
+ci comp 8.6
+ci rhp 48.83
+ci bhp 150@3600
+ci block Cast Iron
+ci etype Dual downdraft
+ci englo Stamped on front of block just below left cylinder head.
+ci trq 265@2000
+ci disp 317.58
+ci etype V8 overhead valve
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci exha Single
+ci cool 16 Quarts
+ci cool Water pump
+ci ign Electronic
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Power windows
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci rev 2.9
+ci gears 3
+ci 1gear 3.08
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 6319, RL45(\w)4(\w)([\dX]{6})
+clv 25647, 1974, Plymouth, Satellite V8, Station Wagon 2-seat
+ci axle Semifloating
+ci msrp $3456.00
+ci origin United States
+ci series Satellite V8
+ci year 1974
+ci prod 4622
+ci make Plymouth
+ci model RL45
+ci doors 4
+ci maker Plymouth
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci fbsize 10.98
+ci fuel 19.5
+ci oil 4
+ci tcase -NA-
+ci trans 4.75
+ci rdiff 4.4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci width 79.2
+ci length 217.1
+ci wbase 115
+ci rtred 62
+ci height 56.4
+ci ftred 61.9
+ci disp 317.58
+ci mbear 5
+ci cyl 8
+ci comp 8.6
+ci rhp 48.83
+ci bhp 150@3600
+ci block Cast Iron
+ci etype Dual downdraft
+ci englo Stamped on front of block just below left cylinder head.
+ci trq 265@2000
+ci b&s 3 29/32 & 3 5/16
+ci etype Fully synchronized
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci exha Single
+ci cool 16 Quarts
+ci cool Water pump
+ci ign Electronic
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Power windows
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci rev 2.9
+ci gears 3
+ci 1gear 3.08
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 6320, PH45(\w)4(\w)([\dX]{6})
+clv 25648, 1974, Plymouth, Suburban, Custom Suburban - 2 seat
+ci axle Semifloating
+ci origin United States
+ci prod 3887
+ci make Plymouth
+ci series Suburban
+ci msrp $4407.00
+ci year 1974
+ci doors 4
+ci pass 6
+ci maker Plymouth
+ci model PH45
+ci bsize 11
+ci fbsize 11.56
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci fuel 24
+ci trans 16.5
+ci rdiff 4.4
+ci oil 4
+ci ctype Not applicable
+ci diffr 2.76
+ci diff Hypoid
+ci length 223.3
+ci rtred 63.7
+ci ftred 64
+ci width 79.4
+ci wbase 124
+ci height 58.5
+ci disp 360
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci etype Torqueflite automatic
+ci vlift Hydraulic
+ci comp 8.4
+ci trq 320@3600
+ci b&s 4 & 3 37/64
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 245@4800
+ci cyl 8
+ci rhp 51.2
+ci mbear 5
+ci color Exterior Colors
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Golden Fawn
+co Golden Haze Metalli
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Sunfire Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci batt 12
+ci ign Electronic
+ci cool Water pump
+ci exha Single
+ci ftype Regular
+ci cool 16 Quarts
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize J78 x 15
+ci sloc Trunk
+cls 6321, PH46(\w)4(\w)([\dX]{6})
+clv 25649, 1974, Plymouth, Suburban, Custom Suburban - 3 seat
+ci axle Semifloating
+ci origin United States
+ci make Plymouth
+ci prod 5628
+ci series Suburban
+ci msrp $4515.00
+ci year 1974
+ci doors 4
+ci pass 9
+ci maker Plymouth
+ci model PH46
+ci fbsize 11.56
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci fuel 24
+ci oil 4
+ci trans 16.5
+ci rdiff 4.4
+ci ctype Not applicable
+ci diffr 2.76
+ci diff Hypoid
+ci rtred 63.7
+ci ftred 64
+ci width 79.4
+ci length 223.3
+ci wbase 124
+ci height 58.5
+ci disp 360
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci etype Torqueflite automatic
+ci vlift Hydraulic
+ci b&s 4 & 3 37/64
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 245@4800
+ci trq 320@3600
+ci comp 8.4
+ci cyl 8
+ci rhp 51.2
+ci color Exterior Colors
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Golden Fawn
+co Golden Haze Metalli
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Sunfire Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci batt 12
+ci ign Electronic
+ci cool Water pump
+ci exha Single
+ci ftype Regular
+ci cool 16 Quarts
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize J78 x 15
+cls 6322, PP46(\w)4(\w)([\dX]{6})
+clv 25650, 1974, Plymouth, Suburban, Sport Suburban - 2 seat
+ci axle Semifloating
+ci origin United States
+ci make Plymouth
+ci prod 6047
+ci series Suburban
+ci msrp $4760.00
+ci year 1974
+ci doors 4
+ci pass 9
+ci maker Plymouth
+ci model PP46
+ci fbsize 11.56
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci fuel 24
+ci oil 4
+ci trans 16.5
+ci rdiff 4.4
+ci ctype Not applicable
+ci diffr 2.76
+ci diff Hypoid
+ci rtred 63.7
+ci ftred 64
+ci width 79.4
+ci height 58.5
+ci wbase 124
+ci length 223.3
+ci disp 360
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci etype Torqueflite automatic
+ci vlift Hydraulic
+ci b&s 4 & 3 37/64
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 245@4800
+ci trq 320@3600
+ci comp 8.4
+ci cyl 8
+ci rhp 51.2
+ci color Exterior Colors
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Golden Fawn
+co Golden Haze Metalli
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Sunfire Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci batt 12
+ci ign Electronic
+ci cool Water pump
+ci exha Single
+ci ftype Regular
+ci cool 16 Quarts
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize J78 x 15
+cls 6323, PM45(\w)4(\w)([\dX]{6})
+clv 25651, 1974, Plymouth, Suburban, Suburban - 2 seat
+ci axle Semifloating
+ci year 1974
+ci series Suburban
+ci msrp $4311.00
+ci prod 2490
+ci origin United States
+ci make Plymouth
+ci model PM45
+ci doors 4
+ci pass 6
+ci maker Plymouth
+ci fbsize 11.56
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci tcase -NA-
+ci fuel 24
+ci rdiff 4.4
+ci oil 4
+ci trans 16.5
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.76
+ci length 223.3
+ci height 58.5
+ci ftred 64
+ci width 79.4
+ci wbase 124
+ci rtred 63.7
+ci comp 8.4
+ci cyl 8
+ci rhp 51.2
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci b&s 4 & 3 37/64
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 360
+ci trq 320@3600
+ci etype Torqueflite automatic
+ci bhp 245@4800
+ci mbear 5
+ci etype Dual downdraft
+ci color Exterior Colors
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Golden Fawn
+co Golden Haze Metalli
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Sunfire Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci ign Electronic
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize J78 x 15
+cls 6324, PP45(\w)4(\w)([\dX]{6})
+clv 25652, 1974, Plymouth, Suburban, Super S. Sedan
+ci axle Semifloating
+ci prod 1712
+ci series Suburban
+ci msrp $4658.00
+ci year 1974
+ci origin United States
+ci make Plymouth
+ci model PP45
+ci maker Plymouth
+ci pass 6
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.56
+ci tcase -NA-
+ci fuel 24
+ci rdiff 4.4
+ci oil 4
+ci trans 16.5
+ci ctype Not applicable
+ci diffr 2.76
+ci diff Hypoid
+ci height 58.5
+ci length 223.3
+ci ftred 64
+ci width 79.4
+ci wbase 124
+ci rtred 63.7
+ci comp 8.4
+ci cyl 8
+ci rhp 51.2
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci b&s 4 & 3 37/64
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 360
+ci trq 320@3600
+ci etype Torqueflite automatic
+ci bhp 245@4800
+ci mbear 5
+ci etype Dual downdraft
+ci color Exterior Colors
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Golden Fawn
+co Golden Haze Metalli
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Sunfire Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci ign Electronic
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize J78 x 15
+cls 6325, VL41(\w)4(\w)([\dX]{6})
+clv 25653, 1974, Plymouth, Valiant 6, Sedan
+ci axle Semifloating
+ci origin United States
+ci year 1974
+ci series Valiant 6
+ci msrp $2786.00
+ci make Plymouth
+ci prod 127430
+ci maker Plymouth
+ci model VL41
+ci doors 4
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci fbsize 10
+ci ebrake Rear service brakes
+ci rdiff 2.1
+ci tcase -NA-
+ci trans 6.5
+ci fuel 16
+ci oil 4
+ci carb Holley
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diff Hypoid
+ci diffr 3.23
+ci ftred 59.1
+ci length 197.6
+ci rtred 55.4
+ci wbase 108
+ci height 54.3
+ci width 71
+ci etype Synchro-mesh
+ci b&s 3.4 & 3.64
+ci comp 8.4
+ci bhp 95@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci vlift Mechanical
+ci rhp 27.74
+ci trq 150@1600
+ci cyl 6
+ci etype Single downdraft
+ci etype Inline 6 overhead valve
+ci disp 198
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci ftype Regular
+ci cool 13 Quarts
+ci rad Tube and spacer
+ci batt 12
+ci ign Electronic
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip Radio
+ci equip Power brakes
+ci equip 225 cu. in. Inline 6 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci rev 3.97
+ci 5gear Not applicable
+ci 1gear 3.18
+ci 3gear 1
+ci 2gear 1.83
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 6326, VP23(\w)4(\w)([\dX]{6})
+clv 25654, 1974, Plymouth, Valiant Brougham 6, Coupe
+ci axle Semifloating
+ci msrp $3794.00
+ci prod 13766
+ci series Valiant Brougham 6
+ci year 1974
+ci make Plymouth
+ci origin United States
+ci maker Plymouth
+ci doors 2
+ci model VP23
+ci weight 3180
+ci bsize 9
+ci fbsize 10
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci trans 6.5
+ci fuel 16
+ci oil 4
+ci rdiff 4.4
+ci carb Holley
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diff Hypoid
+ci diffr 3.23
+ci length 197.6
+ci rtred 55.4
+ci height 52.8
+ci wbase 108
+ci width 71
+ci ftred 59.1
+ci comp 8.4
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci bhp 95@4000
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 150@1600
+ci etype Synchro-mesh
+ci vlift Hydraulic
+ci b&s 3.4 & 3.64
+ci disp 198
+ci rhp 27.74
+ci etype Inline 6 overhead valve
+ci etype Single downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci exha Single
+ci ftype Regular
+ci rad Tube and spacer
+ci cool 13 Quarts
+ci batt 12
+ci ign Electronic
+ci cool Water pump
+ci equip Power brakes
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 3.97
+ci 2gear 1.83
+ci 1gear 3.18
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 6327, VP41(\w)4(\w)([\dX]{6})
+clv 25655, 1974, Plymouth, Valiant Brougham 6, Sedan
+ci axle Semifloating
+ci prod 2545
+ci year 1974
+ci series Valiant Brougham 6
+ci make Plymouth
+ci msrp $3819.00
+ci origin United States
+ci maker Plymouth
+ci weight 3195
+ci model VP41
+ci doors 4
+ci ebrake Rear service brakes
+ci fbsize 10
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci trans 6.5
+ci rdiff 4.4
+ci fuel 16
+ci tcase -NA-
+ci oil 4
+ci carb Holley
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 55.4
+ci height 54.3
+ci wbase 108
+ci length 197.6
+ci width 71
+ci ftred 59.1
+ci rhp 27.74
+ci comp 8.4
+ci disp 198
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 150@1600
+ci cyl 6
+ci vlift Hydraulic
+ci etype Synchro-mesh
+ci etype Single downdraft
+ci b&s 3.4 & 3.64
+ci etype Inline 6 overhead valve
+ci bhp 95@4000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci exha Single
+ci rad Tube and spacer
+ci batt 12
+ci cool Water pump
+ci ftype Regular
+ci cool 13 Quarts
+ci ign Electronic
+ci equip Air conditioning
+ci equip Power brakes
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci rev 3.97
+ci 1gear 3.18
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.83
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 6328, VP23(\w)4(\w)([\dX]{6})
+clv 25656, 1974, Plymouth, Valiant Brougham V8, Coupe
+ci axle Semifloating
+ci msrp $3880.00
+ci year 1974
+ci origin United States
+ci make Plymouth
+ci series Valiant Brougham V8
+ci prod 13766
+ci model VP23
+ci maker Plymouth
+ci weight 3270
+ci doors 2
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci fbsize 10.98
+ci ebrake Rear service brakes
+ci oil 4
+ci trans 4.75
+ci fuel 16
+ci tcase -NA-
+ci rdiff 4.4
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 3.23
+ci length 197.6
+ci wbase 108
+ci width 71
+ci height 52.8
+ci rtred 55.4
+ci ftred 59.1
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.6
+ci mbear 5
+ci rhp 48.83
+ci block Cast Iron
+ci englo Stamped on front of block just below left cylinder head.
+ci etype Dual downdraft
+ci trq 265@2000
+ci etype V8 overhead valve
+ci bhp 150@3600
+ci b&s 3 29/32 & 3 5/16
+ci vlift Hydraulic
+ci disp 317.58
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Yellow Blaze
+ci ftype Regular
+ci batt 12
+ci rad Tube and spacer
+ci exha Single
+ci ign Electronic
+ci cool 16 Quarts
+ci cool Water pump
+ci equip Power brakes
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci drive Rear wheel drive
+ci 2gear 1.7
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.9
+ci gears 3
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize D78 x 14
+cls 6329, VP41(\w)4(\w)([\dX]{6})
+clv 25657, 1974, Plymouth, Valiant Brougham V8, Sedan
+ci axle Semifloating
+ci make Plymouth
+ci year 1974
+ci series Valiant Brougham V8
+ci prod 2545
+ci msrp $3905.00
+ci origin United States
+ci weight 3285
+ci maker Plymouth
+ci model VP41
+ci doors 4
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fbsize 10.98
+ci bsize 10
+ci oil 4
+ci rdiff 4.4
+ci tcase -NA-
+ci fuel 16
+ci trans 4.75
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci height 54.3
+ci length 197.6
+ci width 71
+ci wbase 108
+ci rtred 55.4
+ci ftred 59.1
+ci etype V8 overhead valve
+ci cyl 8
+ci comp 8.6
+ci disp 317.58
+ci mbear 5
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci trq 265@2000
+ci bhp 150@3600
+ci englo Stamped on front of block just below left cylinder head.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci rhp 48.83
+ci b&s 3 29/32 & 3 5/16
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Yellow Blaze
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci batt 12
+ci cool Water pump
+ci ign Electronic
+ci exha Single
+ci ftype Regular
+ci equip Air conditioning
+ci equip Power brakes
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci 1gear 3.08
+ci gears 3
+ci rev 2.9
+ci 3gear 1
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize D78 x 14
+cls 6330, VH23(\w)4(\w)([\dX]{6})
+clv 25658, 1974, Plymouth, Valiant Scamp 6, Hardtop
+ci axle Semifloating
+ci msrp $2917.00
+ci year 1974
+ci prod 51699
+ci origin United States
+ci series Valiant Scamp 6
+ci make Plymouth
+ci maker Plymouth
+ci model VH23
+ci doors 2
+ci bsize 9
+ci fbsize 10
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci rdiff 2.1
+ci tcase -NA-
+ci trans 6.5
+ci fuel 16
+ci oil 4
+ci carb Holley
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diff Hypoid
+ci diffr 3.23
+ci ftred 59.1
+ci length 197.6
+ci rtred 55.4
+ci wbase 108
+ci height 52.8
+ci width 71
+ci etype Synchro-mesh
+ci b&s 3.4 & 3.64
+ci comp 8.4
+ci bhp 95@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci vlift Mechanical
+ci rhp 27.74
+ci trq 150@1600
+ci cyl 6
+ci etype Single downdraft
+ci etype Inline 6 overhead valve
+ci disp 198
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci ftype Regular
+ci cool 13 Quarts
+ci rad Tube and spacer
+ci batt 12
+ci ign Electronic
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip Radio
+ci equip Power brakes
+ci equip 225 cu. in. Inline 6 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci rev 3.97
+ci 5gear Not applicable
+ci 1gear 3.18
+ci 3gear 1
+ci 2gear 1.83
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 6331, VH23(\w)4(\w)([\dX]{6})
+clv 25659, 1974, Plymouth, Valiant Scamp V8, Hardtop
+ci axle Semifloating
+ci msrp $3064.00
+ci year 1974
+ci prod 51699
+ci origin United States
+ci series Valiant Scamp V8
+ci make Plymouth
+ci model VH23
+ci maker Plymouth
+ci doors 2
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci fbsize 10.98
+ci ebrake Rear service brakes
+ci trans 6.5
+ci rdiff 4.4
+ci tcase -NA-
+ci fuel 16
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 197.6
+ci ftred 59.1
+ci wbase 108
+ci height 52.8
+ci rtred 55.4
+ci width 71
+ci englo Stamped on front of block just below left cylinder head.
+ci mbear 5
+ci cyl 8
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 48.83
+ci block Cast Iron
+ci bhp 150@3600
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci trq 265@2000
+ci disp 317.58
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci exha Single
+ci cool Water pump
+ci cool 16 Quarts
+ci rad Tube and spacer
+ci ign Electronic
+ci batt 12
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci equip 360 cu. in. V8 engine
+ci equip Power brakes
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci rev 2.9
+ci gears 3
+ci 3gear 1
+ci 2gear 1.7
+ci 1gear 3.08
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize D78 x 14
+ci sloc Trunk
+cls 6332, VL41(\w)4(\w)([\dX]{6})
+clv 25660, 1974, Plymouth, Valiant V8, Sedan
+ci axle Semifloating
+ci make Plymouth
+ci year 1974
+ci series Valiant V8
+ci msrp $2933.00
+ci origin United States
+ci prod 127430
+ci model VL41
+ci maker Plymouth
+ci doors 4
+ci fbsize 10.98
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci bsize 10
+ci tcase -NA-
+ci trans 6.5
+ci rdiff 4.4
+ci oil 4
+ci fuel 16
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 108
+ci width 71
+ci length 197.6
+ci ftred 59.1
+ci rtred 55.4
+ci height 54.3
+ci mbear 5
+ci rhp 48.83
+ci cyl 8
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 317.58
+ci block Cast Iron
+ci trq 265@2000
+ci etype Dual downdraft
+ci englo Stamped on front of block just below left cylinder head.
+ci etype V8 overhead valve
+ci bhp 150@3600
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Golden Haze Metalli
+co Lucerne Blue
+co Powder Blue
+co Rallye Red
+co Sahara Beige
+co Sienna Metallic
+co Silver Frost Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Sunfire Yellow
+co Tahitian Gold Metalli
+co Two Tone Colors Available
+co Yellow Blaze
+ci exha Single
+ci cool Water pump
+ci cool 16 Quarts
+ci rad Tube and spacer
+ci ign Electronic
+ci batt 12
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci equip 360 cu. in. V8 engine
+ci equip Power brakes
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci rev 2.9
+ci gears 3
+ci 3gear 1
+ci 2gear 1.7
+ci 1gear 3.08
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize D78 x 14
+ci sloc Trunk

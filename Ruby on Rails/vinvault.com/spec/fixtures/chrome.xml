@@ -1,0 +1,797 @@
+<VehicleDescription
+        country="US" language="en" modelYear="2009"
+        bestMakeName="Porsche" bestModelName="Cayenne" bestStyleName="AWD 4dr">
+  <responseStatus responseCode="Successful" description="Successful"/>
+  <vinDescription vin="WP1AA29P59LA01796" modelYear="2009" division="Porsche" modelName="Cayenne" styleName="AWD 4dr" bodyType="Wagon 4 Dr." drivingWheels="AWD">
+    <WorldManufacturerIdentifier>Germany Pkw </WorldManufacturerIdentifier>
+    <restraintTypes>
+      <group id="9">Safety</group>
+      <header id="38">Air Bag - Frontal</header>
+      <category id="1001">Driver Air Bag</category>
+    </restraintTypes>
+    <restraintTypes>
+      <group id="9">Safety</group>
+      <header id="38">Air Bag - Frontal</header>
+      <category id="1002">Passenger Air Bag</category>
+    </restraintTypes>
+    <restraintTypes>
+      <group id="9">Safety</group>
+      <header id="39">Air Bag - Side</header>
+      <category id="1005">Front Side Air Bag</category>
+    </restraintTypes>
+    <marketClass id="18">4WD Sport Utility Vehicles</marketClass>
+  </vinDescription>
+  <style id="307251" modelYear="2009" name="AWD 4dr Man" nameWoTrim="AWD 4dr Man" mfrModelCode="9PAAG7" fleetOnly="false" modelFleet="false" passDoors="4" altBodyType="Sport Utility" drivetrain="All Wheel Drive">
+    <division id="34">Porsche</division>
+    <subdivision id="5890">Porsche</subdivision>
+    <model id="18721">Cayenne</model>
+    <basePrice unknown="false" invoice="37910.0" msrp="44600.0" destination="815.0"/>
+    <bodyType primary="true" id="13">Sport Utility</bodyType>
+    <marketClass id="18">4WD Sport Utility Vehicles</marketClass>
+    <stockImage filename="13505.jpg" url="http://media.carbook.com/autoBuilderData/stockPhotos/13505.jpg" width="400" height="200"/>
+  </style>
+  <style id="307252" modelYear="2009" name="AWD 4dr Tiptronic" nameWoTrim="AWD 4dr Tiptronic" mfrModelCode="9PAAG1" fleetOnly="false" modelFleet="false" passDoors="4" altBodyType="Sport Utility" drivetrain="All Wheel Drive">
+    <division id="34">Porsche</division>
+    <subdivision id="5890">Porsche</subdivision>
+    <model id="18721">Cayenne</model>
+    <basePrice unknown="false" invoice="40460.0" msrp="47600.0" destination="815.0"/>
+    <bodyType primary="true" id="13">Sport Utility</bodyType>
+    <marketClass id="18">4WD Sport Utility Vehicles</marketClass>
+    <stockImage filename="13505.jpg" url="http://media.carbook.com/autoBuilderData/stockPhotos/13505.jpg" width="400" height="200"/>
+  </style>
+  <engine highOutput="false">
+    <engineType id="1051">V6 Cylinder Engine</engineType>
+    <fuelType id="1059">Gasoline Fuel</fuelType>
+    <horsepower value="290.0" rpm="6200"/>
+    <netTorque value="273.0" rpm="3000"/>
+    <cylinders>6</cylinders>
+    <displacement liters="3.6" cubicIn="219"/>
+    <fuelEconomy unit="MPG">
+      <city low="14.0" high="14.0"/>
+      <hwy low="20.0" high="20.0"/>
+    </fuelEconomy>
+    <fuelCapacity unit="gal" low="26.4" high="26.4"/>
+    <installed cause="VIN"/>
+  </engine>
+  <standard>
+    <header id="1236">MECHANICAL</header>
+    <description>3.6L DOHC SMPI 24-valve V6 engine</description>
+    <category id="1051"/>
+    <category id="1059"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="Engine"/>
+  </standard>
+  <standard>
+    <header id="1236">MECHANICAL</header>
+    <description>Variable valve timing</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1236">MECHANICAL</header>
+    <description>All wheel drive</description>
+    <category id="1041"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1236">MECHANICAL</header>
+    <description>Fully galvanized steel body w/integrated frame</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1236">MECHANICAL</header>
+    <description>Front independent double wishbone suspension</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1236">MECHANICAL</header>
+    <description>Rear independent multi-link suspension</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1236">MECHANICAL</header>
+    <description>Front/rear stabilizer bars</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1236">MECHANICAL</header>
+    <description>4-wheel vented disc brakes -inc: 6-piston front/4-piston rear aluminum fixed calipers</description>
+    <category id="1020"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1236">MECHANICAL</header>
+    <description>Black brake calipers</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1236">MECHANICAL</header>
+    <description>Brake pad wear sensors</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1236">MECHANICAL</header>
+    <description>(2) exhaust tailpipes in matte silver finish</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1176">EXTERIOR</header>
+    <description>17&quot; collapsible spare tire</description>
+    <category id="1098"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1176">EXTERIOR</header>
+    <description>Black roof rail mounts</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1176">EXTERIOR</header>
+    <description>Integrated front/rear fog lights</description>
+    <category id="1151"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1176">EXTERIOR</header>
+    <description>Pwr heated retractable mirrors</description>
+    <category id="1064"/>
+    <category id="1065"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1176">EXTERIOR</header>
+    <description>Rear privacy glass</description>
+    <category id="1158"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1176">EXTERIOR</header>
+    <description>Rain-sensing front wipers w/heated washer nozzles</description>
+    <category id="1127"/>
+    <category id="1159"/>
+    <category id="1160"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1176">EXTERIOR</header>
+    <description>Rear window wiper</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1176">EXTERIOR</header>
+    <description>Pwr tailgate latch</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>60/40 split folding rear seats</description>
+    <category id="1076"/>
+    <category id="1304"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>Dual front/rear adjustable cup holders</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>Trip computer</description>
+    <category id="1203"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>Pwr windows</description>
+    <category id="1126"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>Homelink garage door opener</description>
+    <category id="1204"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>Cruise control</description>
+    <category id="1033"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>Alarm system -inc: ultrasonic interior surveillance, inclination sensor</description>
+    <category id="1013"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>Electronic immobilizer w/in-key transponder</description>
+    <category id="1166"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>Rear window defogger</description>
+    <category id="1034"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>(6) auxiliary pwr outlets</description>
+    <category id="1164"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>Metal-look interior trim</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>Iluminated vanity mirrors</description>
+    <category id="1175"/>
+    <category id="1176"/>
+    <category id="1177"/>
+    <category id="1178"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>Front/rear reading lamps</description>
+    <category id="1187"/>
+    <category id="1188"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>Leather-wrapped shift lever</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1220">INTERIOR</header>
+    <description>Retractable luggage compartment cover -inc: detachable storage cassette, pull-out luggage net</description>
+    <category id="1272"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1343">SAFETY</header>
+    <description>4-wheel anti-lock braking system</description>
+    <category id="1018"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1343">SAFETY</header>
+    <description>Porsche stability management (PSM)</description>
+    <category id="1100"/>
+    <category id="1227"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1343">SAFETY</header>
+    <description>Porsche traction management (PTM)</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1343">SAFETY</header>
+    <description>Side-guard door beams</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1343">SAFETY</header>
+    <description>Driver &amp; front passenger frontal airbags</description>
+    <category id="1001"/>
+    <category id="1002"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1343">SAFETY</header>
+    <description>Front side-impact airbags</description>
+    <category id="1005"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1343">SAFETY</header>
+    <description>Front/rear side curtain airbags</description>
+    <category id="1007"/>
+    <category id="1008"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1343">SAFETY</header>
+    <description>Front airbag deactivation</description>
+    <category id="1310"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1343">SAFETY</header>
+    <description>3-point seat belts w/pretensioners -inc: front force limiters</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1343">SAFETY</header>
+    <description>Child seat UCRA anchors on outer rear seats</description>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <standard>
+    <header id="1343">SAFETY</header>
+    <description>Child safety rear door locks</description>
+    <category id="1039"/>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </standard>
+  <genericEquipment>
+    <categoryId>1001</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="VIN"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1002</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="VIN"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1005</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="VIN"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1007</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1008</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1011</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1013</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1014</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1017</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1018</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1020</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1033</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1034</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1039</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1041</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1051</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="Engine"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1059</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="Engine"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1063</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1064</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1065</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1074</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1075</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1076</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1078</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1082</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1084</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1087</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1092</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1097</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1098</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1100</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1123</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1126</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1127</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1136</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1150</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1151</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1158</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1159</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1160</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1161</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1164</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1166</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1175</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1176</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1177</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1178</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1187</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1188</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1189</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1190</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1192</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1203</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1204</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1227</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1272</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1304</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <genericEquipment>
+    <categoryId>1310</categoryId>
+    <styleId>307251</styleId>
+    <styleId>307252</styleId>
+    <installed cause="BaseEquipment"/>
+  </genericEquipment>
+  <technicalSpecification>
+    <titleId>10</titleId>
+    <range min="4762.0" max="4784.0"/>
+    <value value="4784" condition="">
+      <styleId>307252</styleId>
+    </value>
+    <value value="4762" condition="">
+      <styleId>307251</styleId>
+    </value>
+  </technicalSpecification>
+  <technicalSpecification>
+    <titleId>304</titleId>
+    <range min="188.9" max="188.9"/>
+    <value value="188.9" condition="">
+      <styleId>307251</styleId>
+      <styleId>307252</styleId>
+    </value>
+  </technicalSpecification>
+  <technicalSpecification>
+    <titleId>305</titleId>
+    <range min="75.9" max="75.9"/>
+    <value value="75.9" condition="">
+      <styleId>307251</styleId>
+      <styleId>307252</styleId>
+    </value>
+  </technicalSpecification>
+  <technicalSpecification>
+    <titleId>306</titleId>
+    <range min="66.9" max="66.9"/>
+    <value value="66.9" condition="">
+      <styleId>307251</styleId>
+      <styleId>307252</styleId>
+    </value>
+  </technicalSpecification>
+  <basePrice unknown="false">
+    <invoice low="37910.0" high="40460.0"/>
+    <msrp low="44600.0" high="47600.0"/>
+    <destination low="815.0" high="815.0"/>
+  </basePrice>
+</VehicleDescription>

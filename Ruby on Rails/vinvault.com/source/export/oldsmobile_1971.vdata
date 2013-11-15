@@ -1,0 +1,3401 @@
+cls 5385, 344671(\w)([\dX]{6})
+clv 21900, 1971, Oldsmobile, 4-4-2, Convertible
+ci axle Semifloating
+ci series 4-4-2
+ci prod 1304
+ci origin United States
+ci msrp $3742.00
+ci year 1971
+ci make Oldsmobile
+ci weight 3731
+ci model 34467
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci fbsize 11
+ci bsize 9.5
+ci svc Power front disc rear self-adjusting drum
+ci fuel 20
+ci rdiff 4.25
+ci tcase -NA-
+ci trans 4.5
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 112
+ci ftred 59.7
+ci length 203.6
+ci height 52.9
+ci width 76.8
+ci rtred 59
+ci etype Fully synchronized
+ci rhp 54.48
+ci cyl 8
+ci comp 8.5
+ci disp 455.0
+ci etype Rocket V8, valve-in-head
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci b&s 4.125 & 4.25
+ci bhp 340@4600
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci engno TU
+ci trq 460@3200
+ci mbear 5
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ftype Premium
+ci ign Distributor and coil
+ci exha Dual
+ci rad Tubular and fin
+ci batt 12
+ci cool 17 Quarts
+ci cool Water pump
+ci equip Power antenna
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.58
+ci rev 2.41
+ci 3gear 1
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G70 x 14
+cls 5386, 344871(\w)([\dX]{6})
+clv 21901, 1971, Oldsmobile, 4-4-2, Holiday Coupe
+ci axle Semifloating
+ci year 1971
+ci prod 6285
+ci origin United States
+ci series 4-4-2
+ci msrp $3551.00
+ci make Oldsmobile
+ci maker Fisher
+ci doors 2
+ci model 34487
+ci weight 3688
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci rdiff 4.25
+ci fuel 20
+ci trans 4.5
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci height 52.9
+ci wbase 112
+ci length 203.6
+ci width 76.8
+ci rtred 59
+ci ftred 59.7
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 54.48
+ci cyl 8
+ci comp 8.5
+ci mbear 5
+ci etype Rocket V8, valve-in-head
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci trq 460@3200
+ci etype Fully synchronized
+ci etype Downdraft 4-barrel
+ci bhp 340@4600
+ci vlift Hydraulic
+ci disp 455.0
+ci b&s 4.125 & 4.25
+ci engno TU
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci rad Tubular and fin
+ci exha Dual
+ci ftype Premium
+ci batt 12
+ci ign Distributor and coil
+ci cool 17 Quarts
+ci cool Water pump
+ci equip Power antenna
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.58
+ci rev 2.41
+ci 3gear 1
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G70 x 14
+cls 5387, 368551(\w)([\dX]{6})
+clv 21902, 1971, Oldsmobile, Custom Cruiser, Station Wagon 2-seat
+ci axle Semifloating
+ci prod 4049
+ci msrp $4539.00
+ci origin United States
+ci series Custom Cruiser
+ci year 1971
+ci make Oldsmobile
+ci doors 4
+ci maker Fisher
+ci model 36835
+ci weight 4859
+ci pass 6
+ci fbsize 11.88
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci trans 3.5
+ci fuel 22.5
+ci rdiff 5.5
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 11 inches
+ci diffr 2.93
+ci diff Hypoid
+ci length 225.3
+ci wbase 127
+ci width 79.5
+ci height 57.2
+ci ftred 63.8
+ci rtred 63.7
+ci comp 8.5
+ci rhp 54.48
+ci cyl 8
+ci etype V8 valve-in-head
+ci engno UE
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci etype Fully synchronized
+ci mbear 5
+ci bhp 280@4000
+ci etype Dual downdraft
+ci b&s 4.125 & 4 1/4
+ci disp 455
+ci trq 445@2000
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool 17 Quarts
+ci cool Water pump
+ci equip Power seats
+ci equip Power windows
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Radio
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.61
+ci gears 3
+ci rev 2.33
+ci 1gear 2.42
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15
+cls 5388, 368651(\w)([\dX]{6})
+clv 21903, 1971, Oldsmobile, Custom Cruiser, Station Wagon 3-seat
+ci axle Semifloating
+ci prod 9932
+ci msrp $4680.00
+ci origin United States
+ci series Custom Cruiser
+ci year 1971
+ci make Oldsmobile
+ci doors 4
+ci maker Fisher
+ci model 36845
+ci weight 4979
+ci pass 9
+ci ebrake Rear service brakes
+ci fbsize 11.88
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci trans 3.5
+ci rdiff 5.5
+ci oil 4
+ci tcase -NA-
+ci fuel 22.5
+ci carb Rochester
+ci csize 11 inches
+ci ctype Single dry plate
+ci diffr 2.93
+ci diff Hypoid
+ci length 225.3
+ci wbase 127
+ci height 57.2
+ci rtred 63.7
+ci ftred 63.8
+ci width 79.5
+ci etype V8 valve-in-head
+ci comp 8.5
+ci rhp 54.48
+ci cyl 8
+ci engno UE
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci etype Fully synchronized
+ci mbear 5
+ci bhp 280@4000
+ci etype Dual downdraft
+ci b&s 4.125 & 4 1/4
+ci disp 455
+ci trq 445@2000
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool 17 Quarts
+ci cool Water pump
+ci equip Power seats
+ci equip Power windows
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Radio
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.61
+ci gears 3
+ci rev 2.33
+ci 1gear 2.42
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15
+cls 5389, 335871(\w)([\dX]{6})
+clv 21904, 1971, Oldsmobile, Cutlass 6, Hardtop Coupe
+ci axle Semifloating
+ci prod 297
+ci make Oldsmobile
+ci origin United States
+ci year 1971
+ci msrp $2900.00
+ci series Cutlass 6
+ci maker Fisher
+ci doors 2
+ci weight 3235
+ci model 33587
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 20
+ci oil 4
+ci rdiff 4.25
+ci tcase -NA-
+ci trans 3.5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.73
+ci length 203.6
+ci height 52.9
+ci rtred 59
+ci ftred 59.7
+ci wbase 116
+ci width 76.8
+ci rhp 36.04
+ci comp 8.0
+ci cyl 6
+ci mbear 7
+ci b&s 3.875 & 3.53
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci trq 230@2000
+ci englo No unit number, only date code stamped on right side of block, to the rear of distributor.
+ci etype Inline 6 overhead valve
+ci bhp 145@4200
+ci etype Single downdraft
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci engno ZB
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci cool 13 Quarts
+ci cool Water pump
+ci rad Tubular and fin
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Power antenna
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.68
+ci rev 2.95
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 5390, 335361(\w)([\dX]{6})
+clv 21905, 1971, Oldsmobile, Cutlass 6, Station Wagon 2-seat
+ci axle Semifloating
+ci msrp $3453.00
+ci prod 47
+ci make Oldsmobile
+ci series Cutlass 6
+ci origin United States
+ci year 1971
+ci model 33536
+ci doors 4
+ci maker Fisher
+ci weight 3758
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 4.25
+ci trans 3.5
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.73
+ci length 213.3
+ci height 54.4
+ci rtred 59
+ci ftred 59.7
+ci wbase 116
+ci width 76.8
+ci comp 8.0
+ci mbear 7
+ci cyl 6
+ci rhp 36.04
+ci trq 230@2000
+ci bhp 145@4200
+ci etype Single downdraft
+ci disp 250
+ci englo No unit number, only date code stamped on right side of block, to the rear of distributor.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline 6 overhead valve
+ci etype Fully synchronous 3-speed manual
+ci b&s 3.875 & 3.53
+ci vlift Hydraulic
+ci engno ZB
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci cool 13 Quarts
+ci ftype Regular
+ci cool Water pump
+ci rad Tubular and fin
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.85
+ci 2gear 1.68
+ci 3gear 1
+ci gears 3
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 14
+cls 5391, 335691(\w)([\dX]{6})
+clv 21906, 1971, Oldsmobile, Cutlass 6, Town Sedan
+ci axle Semifloating
+ci msrp $2998.00
+ci prod 618
+ci make Oldsmobile
+ci series Cutlass 6
+ci origin United States
+ci year 1971
+ci weight 3292
+ci doors 4
+ci maker Fisher
+ci model 33569
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 4.25
+ci trans 3.5
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.73
+ci height 53.5
+ci rtred 59
+ci ftred 59.7
+ci wbase 116
+ci length 207.6
+ci width 76.8
+ci comp 8.0
+ci mbear 7
+ci cyl 6
+ci b&s 3.875 & 3.53
+ci trq 230@2000
+ci bhp 145@4200
+ci etype Single downdraft
+ci disp 250
+ci englo No unit number, only date code stamped on right side of block, to the rear of distributor.
+ci etype Inline 6 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 36.04
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci engno ZB
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci cool 13 Quarts
+ci cool Water pump
+ci rad Tubular and fin
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Power antenna
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.68
+ci rev 2.95
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 5392, 335871(\w)([\dX]{6})
+clv 21907, 1971, Oldsmobile, Cutlass S 6, Hardtop
+ci axle Semifloating
+ci prod 297
+ci msrp $3020.00
+ci origin United States
+ci make Oldsmobile
+ci series Cutlass S 6
+ci year 1971
+ci maker Fisher
+ci doors 2
+ci model 33587
+ci weight 3236
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci tcase -NA-
+ci fuel 20
+ci rdiff 4.25
+ci trans 3.5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diffr 2.73
+ci diff Hypoid
+ci length 207.6
+ci height 53.5
+ci rtred 59
+ci ftred 59.7
+ci wbase 112
+ci width 76.8
+ci comp 8.0
+ci mbear 7
+ci cyl 6
+ci etype Single downdraft
+ci trq 230@2000
+ci rhp 36.04
+ci lube Pressure to all bearings excluding wrist pin
+ci englo No unit number, only date code stamped on right side of block, to the rear of distributor.
+ci etype Inline 6 overhead valve
+ci disp 250
+ci b&s 3.875 & 3.53
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci bhp 145@4200
+ci engno ZB
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Rosewood Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Viking Blue Metallic
+ci cool Water pump
+ci ign Distributor and coil
+ci cool 13 Quarts
+ci exha Single
+ci batt 12
+ci rad Tubular and fin
+ci ftype Regular
+ci equip Power seats
+ci equip Power windows
+ci equip Air conditioning
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power antenna
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci 1gear 2.85
+ci rev 2.95
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 5393, 335571(\w)([\dX]{6})
+clv 21908, 1971, Oldsmobile, Cutlass S 6, Sport Coupe
+ci axle Semifloating
+ci series Cutlass S 6
+ci msrp $2957.00
+ci origin United States
+ci prod 113
+ci make Oldsmobile
+ci year 1971
+ci doors 2
+ci weight 3230
+ci maker Fisher
+ci model 33577
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci fuel 20
+ci oil 4
+ci rdiff 4.25
+ci tcase -NA-
+ci trans 3.5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diffr 2.73
+ci diff Hypoid
+ci length 207.6
+ci height 53.5
+ci rtred 59
+ci ftred 59.7
+ci wbase 112
+ci width 76.8
+ci comp 8.0
+ci mbear 7
+ci cyl 6
+ci etype Single downdraft
+ci trq 230@2000
+ci rhp 36.04
+ci lube Pressure to all bearings excluding wrist pin
+ci englo No unit number, only date code stamped on right side of block, to the rear of distributor.
+ci etype Inline 6 overhead valve
+ci disp 250
+ci b&s 3.875 & 3.53
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci bhp 145@4200
+ci engno ZB
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Rosewood Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Viking Blue Metallic
+ci cool Water pump
+ci ign Distributor and coil
+ci cool 13 Quarts
+ci exha Single
+ci batt 12
+ci rad Tubular and fin
+ci ftype Regular
+ci equip Power seats
+ci equip Power windows
+ci equip Air conditioning
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power antenna
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci 1gear 2.85
+ci rev 2.95
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 5394, 336871(\w)([\dX]{6})
+clv 21909, 1971, Oldsmobile, Cutlass S V8, Hardtop
+ci axle Semifloating
+ci msrp $3141.00
+ci make Oldsmobile
+ci origin United States
+ci prod 63145
+ci series Cutlass S V8
+ci year 1971
+ci model 33687
+ci doors 2
+ci maker Fisher
+ci weight 3561
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 20
+ci rdiff 4.25
+ci trans 3.5
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.08
+ci length 207.6
+ci width 76.8
+ci wbase 112
+ci rtred 59
+ci ftred 59.7
+ci height 53.5
+ci rhp 52.67
+ci cyl 8
+ci comp 8.5
+ci mbear 5
+ci etype Rocket V8 valve-in-head
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci b&s 4.057 & 3.385
+ci trq 350@2400
+ci engno QI
+ci etype Dual downdraft
+ci bhp 240@4200
+ci vlift Hydraulic
+ci disp 350
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Rosewood Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Viking Blue Metallic
+ci batt 12
+ci cool 16 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci ftype Regular
+ci cool Water pump
+ci equip Power seats
+ci equip Power antenna
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev 2.63
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 1gear 2.54
+ci 2gear 1.5
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 5395, 336571(\w)([\dX]{6})
+clv 21910, 1971, Oldsmobile, Cutlass S V8, Sport Coupe
+ci axle Semifloating
+ci msrp $3078.00
+ci make Oldsmobile
+ci origin United States
+ci prod 4399
+ci year 1971
+ci series Cutlass S V8
+ci model 33677
+ci doors 2
+ci weight 3446
+ci maker Fisher
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 4.25
+ci oil 4
+ci trans 3.5
+ci tcase -NA-
+ci fuel 20
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diff Hypoid
+ci diffr 3.08
+ci length 207.6
+ci wbase 112
+ci width 76.8
+ci height 53.5
+ci rtred 59
+ci ftred 59.7
+ci rhp 52.67
+ci cyl 8
+ci comp 8.5
+ci mbear 5
+ci etype Rocket V8 valve-in-head
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci b&s 4.057 & 3.385
+ci trq 350@2400
+ci engno QI
+ci etype Dual downdraft
+ci bhp 240@4200
+ci vlift Hydraulic
+ci disp 350
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Rosewood Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Viking Blue Metallic
+ci batt 12
+ci cool 16 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci ftype Regular
+ci cool Water pump
+ci equip Power seats
+ci equip Power antenna
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev 2.63
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 1gear 2.54
+ci 2gear 1.5
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 5396, 342671(\w)([\dX]{6})
+clv 21911, 1971, Oldsmobile, Cutlass Supreme, Convertible
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $3506.00
+ci origin United States
+ci prod 10255
+ci year 1971
+ci series Cutlass Supreme
+ci maker Fisher
+ci weight 3527
+ci doors 2
+ci model 34267
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci fuel 20
+ci oil 4
+ci rdiff 4.25
+ci trans 3.5
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 203.6
+ci wbase 116
+ci width 76.8
+ci height 52.9
+ci rtred 59
+ci ftred 59.7
+ci cyl 8
+ci rhp 52.67
+ci comp 8.5
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci etype Rocket V8 valve-in-head
+ci bhp 260@4600
+ci engno QB
+ci etype Downdraft 4-barrel
+ci disp 350
+ci vlift Hydraulic
+ci trq 360@3200
+ci etype Fully synchronized
+ci b&s 4.057 & 3.385
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool 16 Quarts
+ci batt 12
+ci ftype Premium
+ci exha Single
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.5
+ci rev 2.63
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 1gear 2.54
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14
+cls 5397, 342391(\w)([\dX]{6})
+clv 21912, 1971, Oldsmobile, Cutlass Supreme, Hardtop
+ci axle Semifloating
+ci year 1971
+ci msrp $3397.00
+ci origin United States
+ci prod 10458
+ci series Cutlass Supreme
+ci make Oldsmobile
+ci model 34239
+ci maker Fisher
+ci doors 4
+ci weight 3586
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci rdiff 4.25
+ci fuel 20
+ci trans 3.5
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diffr 3.23
+ci diff Hypoid
+ci width 76.8
+ci length 207.6
+ci wbase 116
+ci height 53.5
+ci rtred 59
+ci ftred 59.7
+ci cyl 8
+ci rhp 52.67
+ci comp 8.5
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci bhp 260@4600
+ci etype Rocket V8 valve-in-head
+ci b&s 4.057 & 3.385
+ci etype Downdraft 4-barrel
+ci engno QB
+ci vlift Hydraulic
+ci trq 360@3200
+ci etype Fully synchronized
+ci disp 350
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci batt 12
+ci cool Water pump
+ci exha Single
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci rad Tubular and fin
+ci ftype Premium
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 1gear 2.54
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.5
+ci rev 2.63
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14
+cls 5398, 342571(\w)([\dX]{6})
+clv 21913, 1971, Oldsmobile, Cutlass Supreme, Hardtop Coupe
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $3322.00
+ci origin United States
+ci year 1971
+ci prod 60599
+ci series Cutlass Supreme
+ci maker Fisher
+ci doors 2
+ci model 34257
+ci weight 3458
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci rdiff 4.25
+ci trans 3.5
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diff Hypoid
+ci diffr 3.23
+ci height 52.9
+ci width 76.8
+ci wbase 116
+ci length 203.6
+ci ftred 59.7
+ci rtred 59
+ci rhp 52.67
+ci cyl 8
+ci comp 8.5
+ci mbear 5
+ci engno QB
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci vlift Hydraulic
+ci b&s 4.057 & 3.385
+ci trq 360@3200
+ci etype Downdraft 4-barrel
+ci disp 350
+ci etype Rocket V8 valve-in-head
+ci bhp 260@4600
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci ftype Premium
+ci cool 16 Quarts
+ci rad Tubular and fin
+ci batt 12
+ci exha Single
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.5
+ci rev 2.63
+ci 1gear 2.54
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14
+cls 5399, 336871(\w)([\dX]{6})
+clv 21914, 1971, Oldsmobile, Cutlass V8, Hardtop Coupe
+ci axle Semifloating
+ci series Cutlass V8
+ci msrp $3021.00
+ci make Oldsmobile
+ci year 1971
+ci origin United States
+ci prod 32278
+ci maker Fisher
+ci doors 2
+ci weight 3449
+ci model 33687
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 4.25
+ci oil 4
+ci trans 3.5
+ci tcase -NA-
+ci fuel 20
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 116
+ci length 203.6
+ci width 76.8
+ci ftred 59.7
+ci rtred 59
+ci height 52.9
+ci rhp 52.67
+ci cyl 8
+ci comp 8.5
+ci mbear 5
+ci vlift Hydraulic
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4.057 & 3.385
+ci trq 350@2400
+ci etype Dual downdraft
+ci disp 350
+ci etype Rocket V8 valve-in-head
+ci bhp 240@4200
+ci etype Fully synchronized
+ci engno QI
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci exha Single
+ci cool Water pump
+ci ftype Regular
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 16 Quarts
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.5
+ci rev 2.63
+ci 1gear 2.54
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14
+cls 5400, 336691(\w)([\dX]{6})
+clv 21915, 1971, Oldsmobile, Cutlass V8, Sedan
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $3119.00
+ci origin United States
+ci prod 31904
+ci year 1971
+ci series Cutlass V8
+ci doors 4
+ci maker Fisher
+ci model 33669
+ci weight 3494
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 3.5
+ci fuel 20
+ci oil 4
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 207.6
+ci wbase 116
+ci width 76.8
+ci ftred 59.7
+ci rtred 59
+ci height 53.5
+ci rhp 52.67
+ci cyl 8
+ci comp 8.5
+ci mbear 5
+ci vlift Hydraulic
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4.057 & 3.385
+ci trq 350@2400
+ci etype Dual downdraft
+ci disp 350
+ci etype Rocket V8 valve-in-head
+ci bhp 240@4200
+ci etype Fully synchronized
+ci engno QI
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci exha Single
+ci cool Water pump
+ci ftype Regular
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 16 Quarts
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.5
+ci rev 2.63
+ci 1gear 2.54
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14
+cls 5401, 336361(\w)([\dX]{6})
+clv 21916, 1971, Oldsmobile, Cutlass V8, Station Wagon 2-seat
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $3574.00
+ci origin United States
+ci year 1971
+ci prod 6742
+ci series Cutlass V8
+ci maker Fisher
+ci pass 6
+ci doors 4
+ci model 33636
+ci weight 3950
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci trans 3.5
+ci tcase -NA-
+ci rdiff 4.25
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diff Hypoid
+ci diffr 3.08
+ci rtred 59
+ci height 54.4
+ci length 213.3
+ci width 76.8
+ci wbase 116
+ci ftred 59.7
+ci bhp 240@4200
+ci cyl 8
+ci comp 8.5
+ci rhp 52.67
+ci vlift Hydraulic
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci b&s 4.057 & 3.385
+ci etype Dual downdraft
+ci etype Rocket V8 valve-in-head
+ci trq 350@2400
+ci disp 350
+ci etype Fully synchronized
+ci engno QI
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci exha Single
+ci cool Water pump
+ci ftype Regular
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 16 Quarts
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.5
+ci rev 2.63
+ci 1gear 2.54
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 14
+cls 5402, 364571(\w)([\dX]{6})
+clv 21917, 1971, Oldsmobile, Delta 88 Custom, Hardtop Coupe
+ci axle Semifloating
+ci year 1971
+ci origin United States
+ci make Oldsmobile
+ci prod 14067
+ci msrp $4059.00
+ci series Delta 88 Custom
+ci weight 4151
+ci doors 2
+ci maker Fisher
+ci model 36457
+ci ebrake Rear service brakes
+ci bsize 11
+ci fbsize 11.88
+ci svc Power front disc rear self-adjusting drum
+ci trans 10 Quarts
+ci fuel 25
+ci rdiff 5.5
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diff Hypoid
+ci diffr 3.08
+ci length 220.2
+ci width 79.5
+ci wbase 124
+ci height 53.4
+ci ftred 64.1
+ci rtred 64
+ci comp 8.5
+ci mbear 5
+ci cyl 8
+ci rhp 54.48
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci disp 455
+ci etype V8 valve-in-head
+ci bhp 280@4000
+ci etype Dual downdraft
+ci b&s 4.125 & 4 1/4
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci engno UE
+ci trq 445@2000
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci cool Water pump
+ci equip Power antenna
+ci equip Power windows
+ci equip Power seats
+ci equip Radio
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.42
+ci rev 2.33
+ci 2gear 1.61
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 15
+ci sloc Trunk
+cls 5403, 364391(\w)([\dX]{6})
+clv 21918, 1971, Oldsmobile, Delta 88 Custom, Holiday Sedan
+ci axle Semifloating
+ci prod 24251
+ci origin United States
+ci msrp $4134.00
+ci make Oldsmobile
+ci year 1971
+ci series Delta 88 Custom
+ci maker Fisher
+ci model 36439
+ci doors 4
+ci weight 4245
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.88
+ci bsize 11
+ci fuel 25
+ci tcase -NA-
+ci oil 4
+ci rdiff 5.5
+ci trans 10 Quarts
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci height 53.4
+ci wbase 124
+ci length 220.2
+ci width 79.5
+ci ftred 64.1
+ci rtred 64
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 455
+ci cyl 8
+ci comp 8.5
+ci rhp 54.48
+ci vlift Hydraulic
+ci bhp 280@4000
+ci trq 445@2000
+ci mbear 5
+ci etype Dual downdraft
+ci engno UE
+ci etype V8 valve-in-head
+ci etype Fully synchronized
+ci b&s 4.125 & 4 1/4
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci cool 17 Quarts
+ci cool Water pump
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci equip Power seats
+ci equip Power windows
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Radio
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.61
+ci rev 2.33
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 5404, 364691(\w)([\dX]{6})
+clv 21919, 1971, Oldsmobile, Delta 88 Custom, Town Sedan
+ci axle Semifloating
+ci prod 22209
+ci origin United States
+ci msrp $3966.00
+ci make Oldsmobile
+ci year 1971
+ci series Delta 88 Custom
+ci maker Fisher
+ci model 36469
+ci doors 4
+ci weight 4200
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.88
+ci bsize 11
+ci fuel 25
+ci tcase -NA-
+ci oil 4
+ci rdiff 5.5
+ci trans 10 Quarts
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci height 53.4
+ci wbase 124
+ci length 220.2
+ci width 79.5
+ci ftred 64.1
+ci rtred 64
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 455
+ci cyl 8
+ci comp 8.5
+ci rhp 54.48
+ci vlift Hydraulic
+ci bhp 280@4000
+ci trq 445@2000
+ci mbear 5
+ci etype Dual downdraft
+ci engno UE
+ci etype V8 valve-in-head
+ci etype Fully synchronized
+ci b&s 4.125 & 4 1/4
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci cool 17 Quarts
+ci cool Water pump
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci equip Power seats
+ci equip Power windows
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Radio
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.61
+ci rev 2.33
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 5405, 366671(\w)([\dX]{6})
+clv 21920, 1971, Oldsmobile, Delta 88 Royale, Convertible
+ci axle Semifloating
+ci year 1971
+ci origin United States
+ci make Oldsmobile
+ci prod 2883
+ci msrp $4325.00
+ci series Delta 88 Royale
+ci model 36667
+ci weight 4247
+ci maker Fisher
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 11
+ci fbsize 11.88
+ci svc Power front disc rear self-adjusting drum
+ci fuel 25
+ci rdiff 5.5
+ci trans 10 Quarts
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.08
+ci width 79.5
+ci wbase 124
+ci length 220.2
+ci height 53.4
+ci ftred 64.1
+ci rtred 64
+ci comp 8.5
+ci mbear 5
+ci cyl 8
+ci rhp 54.48
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci disp 455
+ci etype V8 valve-in-head
+ci bhp 280@4000
+ci etype Dual downdraft
+ci b&s 4.125 & 4 1/4
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci engno UE
+ci trq 445@2000
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci cool Water pump
+ci equip Power antenna
+ci equip Power windows
+ci equip Power seats
+ci equip Radio
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.42
+ci rev 2.33
+ci 2gear 1.61
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 15
+ci sloc Trunk
+cls 5406, 366471(\w)([\dX]{6})
+clv 21921, 1971, Oldsmobile, Delta 88 Royale, Hardtop Coupe
+ci axle Semifloating
+ci make Oldsmobile
+ci origin United States
+ci msrp $4317.00
+ci series Delta 88 Royale
+ci year 1971
+ci prod 8397
+ci model 36647
+ci maker Fisher
+ci doors 2
+ci weight 4229
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.88
+ci bsize 11
+ci fuel 25
+ci trans 10 Quarts
+ci tcase -NA-
+ci oil 4
+ci rdiff 5.5
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci height 53.4
+ci wbase 124
+ci length 220.2
+ci width 79.5
+ci rtred 64
+ci ftred 64.1
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.5
+ci b&s 4.125 & 4 1/4
+ci trq 445@2000
+ci vlift Hydraulic
+ci engno UE
+ci bhp 280@4000
+ci mbear 5
+ci etype Dual downdraft
+ci disp 455
+ci etype V8 valve-in-head
+ci etype Fully synchronized
+ci rhp 54.48
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci cool 17 Quarts
+ci cool Water pump
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci equip Power seats
+ci equip Power windows
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Radio
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.61
+ci rev 2.33
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 5407, 354571(\w)([\dX]{6})
+clv 21922, 1971, Oldsmobile, Delta 88, Hardtop Coupe
+ci axle Semifloating
+ci msrp $3826.00
+ci make Oldsmobile
+ci prod 27031
+ci series Delta 88
+ci origin United States
+ci year 1971
+ci model 35457
+ci maker Fisher
+ci doors 2
+ci weight 4037
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fbsize 11.88
+ci bsize 11
+ci tcase -NA-
+ci fuel 25
+ci rdiff 4.25
+ci oil 4
+ci trans 10 Quarts
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci length 220.2
+ci wbase 124
+ci rtred 64
+ci ftred 64.1
+ci height 53.6
+ci width 79.5
+ci rhp 52.67
+ci mbear 5
+ci cyl 8
+ci comp 8.5
+ci b&s 4.057 & 3.385
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci etype Rocket V8 valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci engno TE
+ci etype Dual downdraft
+ci bhp 240@4200
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci disp 350
+ci trq 350@2400
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci rad Tubular and fin
+ci batt 12
+ci cool 16 Quarts
+ci cool Water pump
+ci equip Power antenna
+ci equip Power windows
+ci equip Power seats
+ci equip Radio
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.61
+ci rev 2.33
+ci 3gear 1
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 15
+ci sloc Trunk
+cls 5408, 354391(\w)([\dX]{6})
+clv 21923, 1971, Oldsmobile, Delta 88, Holiday Sedan
+ci axle Semifloating
+ci origin United States
+ci prod 31420
+ci make Oldsmobile
+ci series Delta 88
+ci year 1971
+ci msrp $3888.00
+ci model 35439
+ci maker Fisher
+ci weight 4093
+ci doors 4
+ci fbsize 11.88
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci oil 4
+ci trans 10 Quarts
+ci fuel 25
+ci rdiff 4.25
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.08
+ci width 79.5
+ci length 220.2
+ci wbase 124
+ci ftred 64.1
+ci height 53.6
+ci rtred 64
+ci rhp 52.67
+ci mbear 5
+ci cyl 8
+ci comp 8.5
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci b&s 4.057 & 3.385
+ci trq 350@2400
+ci disp 350
+ci etype Dual downdraft
+ci bhp 240@4200
+ci engno TE
+ci etype Fully synchronized
+ci etype Rocket V8 valve-in-head
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci exha Single
+ci cool Water pump
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci ftype Regular
+ci rad Tubular and fin
+ci equip Power seats
+ci equip Power windows
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Radio
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci rev 2.33
+ci 5gear Not applicable
+ci 1gear 2.42
+ci 2gear 1.61
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 5409, 354691(\w)([\dX]{6})
+clv 21924, 1971, Oldsmobile, Delta 88, Town Sedan
+ci axle Semifloating
+ci origin United States
+ci prod 38298
+ci make Oldsmobile
+ci series Delta 88
+ci year 1971
+ci msrp $3770.00
+ci maker Fisher
+ci model 35469
+ci weight 4070
+ci doors 4
+ci fbsize 11.88
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci oil 4
+ci trans 10 Quarts
+ci fuel 25
+ci rdiff 4.25
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.08
+ci width 79.5
+ci length 220.2
+ci wbase 124
+ci ftred 64.1
+ci height 53.6
+ci rtred 64
+ci rhp 52.67
+ci mbear 5
+ci cyl 8
+ci comp 8.5
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci b&s 4.057 & 3.385
+ci trq 350@2400
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci bhp 240@4200
+ci engno TE
+ci etype Fully synchronized
+ci etype Rocket V8 valve-in-head
+ci disp 350
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci exha Single
+ci cool Water pump
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci ftype Regular
+ci rad Tubular and fin
+ci equip Power seats
+ci equip Power windows
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Radio
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci rev 2.33
+ci 5gear Not applicable
+ci 1gear 2.42
+ci 2gear 1.61
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 5410, 331691(\w)([\dX]{6})
+clv 21925, 1971, Oldsmobile, F-85 6, Town Sedan
+ci axle Semifloating
+ci msrp $2884.00
+ci prod 769
+ci series F-85 6
+ci make Oldsmobile
+ci origin United States
+ci year 1971
+ci weight 3254
+ci doors 4
+ci maker Fisher
+ci model 33169
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 4.25
+ci trans 3.5
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.73
+ci height 53.5
+ci rtred 59
+ci ftred 59.7
+ci wbase 116
+ci length 207.6
+ci width 76.8
+ci comp 8.0
+ci mbear 7
+ci cyl 6
+ci b&s 3.875 & 3.53
+ci trq 230@2000
+ci bhp 145@4200
+ci englo No unit number, only date code stamped on right side of block, to the rear of distributor.
+ci etype Single downdraft
+ci disp 250
+ci etype Inline 6 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 36.04
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci engno ZB
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci cool Water pump
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Power antenna
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.68
+ci rev 2.95
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 5411, 332691(\w)([\dX]{6})
+clv 21926, 1971, Oldsmobile, F-85 V8, Town Sedan
+ci axle Semifloating
+ci msrp $3005.00
+ci series F-85 V8
+ci prod 3650
+ci make Oldsmobile
+ci origin United States
+ci year 1971
+ci maker Fisher
+ci model 33269
+ci doors 4
+ci weight 3465
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 4.25
+ci oil 4
+ci fuel 20
+ci trans 3.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diffr 3.08
+ci diff Hypoid
+ci width 76.8
+ci wbase 116
+ci length 207.6
+ci height 53.5
+ci rtred 59
+ci ftred 59.7
+ci b&s 4.057 & 3.385
+ci cyl 8
+ci comp 8.5
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci rhp 52.67
+ci trq 350@2400
+ci etype Rocket V8 valve-in-head
+ci vlift Hydraulic
+ci disp 350
+ci engno QI
+ci bhp 240@4200
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci ftype Regular
+ci rad Tubular and fin
+ci exha Single
+ci batt 12
+ci cool 16 Quarts
+ci equip Power brakes
+ci equip Power antenna
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci rev 2.63
+ci gears 3
+ci 1gear 2.54
+ci 2gear 1.5
+ci drive Rear wheel drive
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 14
+ci sloc Trunk
+cls 5412, 386371(\w)([\dX]{6})
+clv 21927, 1971, Oldsmobile, Ninety Eight Luxury, Coupe
+ci axle Semifloating
+ci year 1971
+ci msrp $5103.00
+ci make Oldsmobile
+ci series Ninety Eight Luxury
+ci prod 14876
+ci origin United States
+ci weight 4388
+ci model 38637
+ci doors 2
+ci maker Fisher
+ci bsize 11
+ci fbsize 11.86
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci oil 4
+ci trans 10 Quarts
+ci fuel 25
+ci tcase -NA-
+ci rdiff 5.5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.73
+ci diff Hypoid
+ci rtred 64
+ci height 54.6
+ci ftred 64.1
+ci width 79
+ci wbase 127
+ci length 226.1
+ci etype Turbo Hydra-matic
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci comp 8.5
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci rhp 54.48
+ci mbear 5
+ci vlift Hydraulic
+ci bhp 320@4400
+ci disp 455
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 valve-in-head
+ci engno UN
+ci b&s 4.125 & 4 1/4
+ci trq 460@2800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Rosewood Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci cool 17 Quarts
+ci exha Single
+ci ftype Premium
+ci batt 12
+ci rad Tubular and fin
+ci equip Radio
+ci equip Power seats
+ci equip Power antenna
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize J78 x 15
+ci sloc Trunk
+cls 5413, 386391(\w)([\dX]{6})
+clv 21928, 1971, Oldsmobile, Ninety Eight Luxury, Sedan
+ci axle Semifloating
+ci msrp $5197.00
+ci prod 45055
+ci make Oldsmobile
+ci series Ninety Eight Luxury
+ci origin United States
+ci year 1971
+ci model 38639
+ci maker Fisher
+ci weight 4504
+ci doors 4
+ci bsize 11
+ci fbsize 11.86
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci oil 4
+ci trans 10 Quarts
+ci fuel 25
+ci tcase -NA-
+ci rdiff 5.5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.73
+ci diff Hypoid
+ci rtred 64
+ci height 54.6
+ci ftred 64.1
+ci width 79
+ci wbase 127
+ci length 226.1
+ci etype Turbo Hydra-matic
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci comp 8.5
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci rhp 54.48
+ci mbear 5
+ci vlift Hydraulic
+ci b&s 4.125 & 4 1/4
+ci disp 455
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 valve-in-head
+ci engno UN
+ci bhp 320@4400
+ci trq 460@2800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Rosewood Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci cool 17 Quarts
+ci exha Single
+ci ftype Premium
+ci batt 12
+ci rad Tubular and fin
+ci equip Radio
+ci equip Power seats
+ci equip Power antenna
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize J78 x 15
+ci sloc Trunk
+cls 5414, 384371(\w)([\dX]{6})
+clv 21929, 1971, Oldsmobile, Ninety Eight, Hardtop Coupe
+ci axle Semifloating
+ci prod 8335
+ci origin United States
+ci make Oldsmobile
+ci series Ninety Eight
+ci msrp $4828.00
+ci year 1971
+ci doors 2
+ci maker Fisher
+ci weight 4354
+ci model 38437
+ci fbsize 11.88
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci oil 4
+ci fuel 25
+ci trans 10 Quarts
+ci rdiff 5.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.73
+ci diff Hypoid
+ci height 54.6
+ci width 79
+ci ftred 64.1
+ci wbase 127
+ci rtred 64
+ci length 226.1
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci etype Turbo Hydra-matic
+ci engno UN
+ci etype Downdraft 4-barrel
+ci b&s 4.125 & 4 1/4
+ci comp 8.5
+ci vlift Hydraulic
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 valve-in-head
+ci rhp 54.48
+ci mbear 5
+ci trq 460@2800
+ci disp 455
+ci bhp 320@4400
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci cool 17 Quarts
+ci ftype Premium
+ci rad Tubular and fin
+ci exha Single
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power antenna
+ci equip Radio
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize J78 x 15
+cls 5415, 384391(\w)([\dX]{6})
+clv 21930, 1971, Oldsmobile, Ninety Eight, Holiday Sport Sedan
+ci axle Semifloating
+ci msrp $4890.00
+ci origin United States
+ci make Oldsmobile
+ci series Ninety Eight
+ci prod 15025
+ci year 1971
+ci model 38439
+ci maker Fisher
+ci weight 4470
+ci doors 4
+ci bsize 11
+ci fbsize 11.88
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci oil 4
+ci trans 10 Quarts
+ci rdiff 5.5
+ci tcase -NA-
+ci fuel 25
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.73
+ci diff Hypoid
+ci rtred 64
+ci ftred 64.1
+ci width 79
+ci wbase 127
+ci length 226.1
+ci height 54.6
+ci engno UN
+ci etype Turbo Hydra-matic
+ci comp 8.5
+ci etype Downdraft 4-barrel
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci cyl 8
+ci vlift Hydraulic
+ci rhp 54.48
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 valve-in-head
+ci trq 460@2800
+ci disp 455
+ci bhp 320@4400
+ci b&s 4.125 & 4 1/4
+ci mbear 5
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci cool 17 Quarts
+ci ftype Premium
+ci rad Tubular and fin
+ci exha Single
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power antenna
+ci equip Radio
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize J78 x 15
+cls 5416, 396571(\w)([\dX]{6})
+clv 21931, 1971, Oldsmobile, Toronado, Coupe
+ci msrp $5499.00
+ci prod 8796
+ci origin United States
+ci series Toronado
+ci make Oldsmobile
+ci year 1971
+ci doors 2
+ci model 39657
+ci maker Fisher
+ci weight 4519
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci oil 5
+ci fdiff 4
+ci trans 10 Quarts
+ci tcase -NA-
+ci fuel 25
+ci carb Rochester
+ci diffr 3.07
+ci diff Not applicable
+ci height 54.7
+ci wbase 122
+ci ftred 63.5
+ci rtred 63.6
+ci width 79.8
+ci length 219.9
+ci etype Downdraft 4-barrel
+ci trq 465@2800
+ci etype Turbo Hydra-matic
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci disp 455
+ci comp 8.5
+ci b&s 4.125 & 4 1/4
+ci rhp 54.48
+ci etype V8 valve-in-head
+ci engno US
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci cyl 8
+ci mbear 5
+ci bhp 350@4400
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci rad Tubular and fin
+ci exha Dual
+ci cool 20 Quarts
+ci ftype Premium
+ci batt 12
+ci equip Power seats
+ci equip Power antenna
+ci equip Radio
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Hotchkiss
+ci gears 3
+ci drive Front wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize J78 x 15
+ci sloc Trunk
+cls 5417, 398571(\w)([\dX]{6})
+clv 21932, 1971, Oldsmobile, Toronado, Coupe
+ci prod 20184
+ci series Toronado
+ci make Oldsmobile
+ci year 1971
+ci origin United States
+ci model 39857
+ci maker Fisher
+ci doors 2
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 10 Quarts
+ci fuel 25
+ci tcase -NA-
+ci fdiff 4
+ci oil 5
+ci carb Rochester
+ci diff Not applicable
+ci diffr 3.07
+ci length 219.9
+ci wbase 122
+ci height 54.7
+ci ftred 63.5
+ci rtred 63.6
+ci width 79.8
+ci etype Turbo Hydra-matic
+ci comp 8.5
+ci cyl 8
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci bhp 350@4400
+ci rhp 54.48
+ci b&s 4.125 & 4 1/4
+ci engno US
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 465@2800
+ci vlift Hydraulic
+ci etype V8 valve-in-head
+ci disp 455
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci batt 12
+ci cool 20 Quarts
+ci exha Dual
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci ftype Premium
+ci cool Water pump
+ci equip Power windows
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Power seats
+ci equip Radio
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Hotchkiss
+ci drive Front wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize J78 x 15
+cls 5418, 348551(\w)([\dX]{6})
+clv 21933, 1971, Oldsmobile, Vista Cruiser, Station Wagon 2-seat
+ci axle Semifloating
+ci msrp $3865.00
+ci origin United States
+ci series Vista Cruiser
+ci prod 9317
+ci year 1971
+ci make Oldsmobile
+ci model 34856
+ci weight 4171
+ci maker Fisher
+ci pass 6
+ci doors 4
+ci fbsize 11
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Power front disc rear self-adjusting drum
+ci trans 3.5
+ci rdiff 4.25
+ci tcase -NA-
+ci oil 4
+ci fuel 22.5
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci width 76.8
+ci height 58.5
+ci rtred 59
+ci ftred 59.7
+ci wbase 121
+ci length 218.3
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci comp 8.5
+ci bhp 240@4200
+ci b&s 4.057 & 3.385
+ci cyl 8
+ci etype Rocket V8 valve-in-head
+ci trq 350@2400
+ci etype Dual downdraft
+ci engno QI
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 350
+ci mbear 5
+ci vlift Hydraulic
+ci rhp 52.67
+ci etype Fully synchronized
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co These are standard Oldsmobile colors
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci exha Single
+ci cool 16 Quarts
+ci rad Tubular and fin
+ci batt 12
+ci ftype Regular
+ci cool Water pump
+ci ign Distributor and coil
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci rev 2.63
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.5
+ci 1gear 2.54
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 5419, 348651(\w)([\dX]{6})
+clv 21934, 1971, Oldsmobile, Vista Cruiser, Station Wagon 3-seat
+ci axle Semifloating
+ci msrp $4007.00
+ci origin United States
+ci series Vista Cruiser
+ci prod 20566
+ci year 1971
+ci make Oldsmobile
+ci model 34866
+ci weight 4290
+ci maker Fisher
+ci pass 9
+ci doors 4
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci fbsize 11
+ci svc Power front disc rear self-adjusting drum
+ci rdiff 4.25
+ci trans 3.5
+ci fuel 22.5
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci width 76.8
+ci wbase 121
+ci height 58.5
+ci rtred 59
+ci ftred 59.7
+ci length 218.3
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci comp 8.5
+ci b&s 4.057 & 3.385
+ci bhp 240@4200
+ci cyl 8
+ci etype Rocket V8 valve-in-head
+ci trq 350@2400
+ci etype Dual downdraft
+ci engno QI
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 350
+ci rhp 52.67
+ci vlift Hydraulic
+ci mbear 5
+ci etype Fully synchronized
+ci color Exterior Colors
+co Antique Briar Metallic
+co Antique Jade Metallic
+co Bamboo
+co Bittersweet Metallic
+co Briar Metallic
+co Cameo White
+co Capri Aqua Metallic
+co Doeskin Metallic
+co Ebony Black
+co Galleon Gold Metallic
+co Kashmir Copper Metallic
+co Lime Green Metallic
+co Matador Red
+co Monarch Blue Metallic
+co Nordic Blue Metallic
+co Oxford Gray Metallic
+co Palm Green Metallic
+co Sable Brown Metallic
+co Sandalwood
+co Saturn Gold Metallic
+co Sienna Metallic
+co Silver Mint Metallic
+co Sterling Silver Metallic
+co These are standard Oldsmobile colors
+co Venetian Red Metallic
+co Viking Blue Metallic
+ci exha Single
+ci cool 16 Quarts
+ci rad Tubular and fin
+ci batt 12
+ci ftype Regular
+ci cool Water pump
+ci ign Distributor and coil
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci rev 2.63
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.5
+ci 1gear 2.54
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk

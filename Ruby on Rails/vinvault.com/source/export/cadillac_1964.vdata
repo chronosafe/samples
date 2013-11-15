@@ -1,0 +1,942 @@
+cls 860, 64M([\dX]{6})
+clv 3958, 1964, Cadillac, 60, Sedan
+ci axle Semifloating
+ci make Cadillac
+ci msrp $6366.00
+ci origin United States
+ci year 1964
+ci prod 14550
+ci series 60
+ci model 6039
+ci weight 4680
+ci maker Fleetwood
+ci svc Power duo-servo self-adjusting
+ci bsize 12
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci oil 4
+ci fuel 26
+ci trans 18
+ci rdiff 5
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.94
+ci length 223.5
+ci height 56.6
+ci wbase 129.5
+ci rtred 61
+ci width 79.5
+ci mbear 5
+ci etype V8 Overhead valve
+ci comp 10.5
+ci b&s 4.13 & 4
+ci cyl 8
+ci block Cast Iron
+ci disp 429
+ci trq 480@3000
+ci rhp 54.6
+ci englo Left side of block between welch plugs, above edge of oil pan
+ci bhp 340@4400
+ci etype Hydra-Matic automatic
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aspen White
+co Bahama Sand
+co Beacon Blue Metallic
+co Ebony
+co Firemist Aquamarine Metallic
+co Firemist Blue Metallic
+co Firemist Green Metallic
+co Firemist Red Metallic
+co Firemist Saddle Metallic
+co Lime Metallic
+co Matador Red Metallic
+co Nevada Silver Metallic
+co Nile Green Metallic
+co Palomino Metallic
+co Royal Maroon Metallic
+co Seacrest Green Metallic
+co Sierra Gold Metallic
+co Somerset Blue Metallic
+co Spruce Blue Metallic
+co Turino Turquoise Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci cool 17.25 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Power seats
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 15
+ci sloc Trunk
+cls 861, 64G([\dX]{6})
+clv 3959, 1964, Cadillac, 62, Coupe
+ci axle Semifloating
+ci series 62
+ci msrp $5026.00
+ci origin United States
+ci prod 12166
+ci year 1964
+ci make Cadillac
+ci weight 4475
+ci model 6257
+ci maker Fisher
+ci doors 2
+ci svc Power duo-servo self-adjusting
+ci bsize 12
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 18
+ci fuel 26
+ci rdiff 5
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci height 54.8
+ci rtred 61
+ci length 223.5
+ci width 79.5
+ci wbase 129.5
+ci cyl 8
+ci etype V8 Overhead valve
+ci bhp 340@4400
+ci etype Turbo Hydra-matic
+ci b&s 4.13 & 4
+ci block Cast Iron
+ci englo Left side of block between welch plugs, above edge of oil pan
+ci rhp 54.6
+ci etype Downdraft 4-barrel
+ci disp 429
+ci mbear 5
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci trq 480@3000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aspen White
+co Bahama Sand
+co Beacon Blue Metallic
+co Ebony
+co Firemist Aquamarine Metallic
+co Firemist Blue Metallic
+co Firemist Green Metallic
+co Firemist Red Metallic
+co Firemist Saddle Metallic
+co Lime Metallic
+co Matador Red Metallic
+co Nevada Silver Metallic
+co Nile Green Metallic
+co Palomino Metallic
+co Royal Maroon Metallic
+co Seacrest Green Metallic
+co Sierra Gold Metallic
+co Somerset Blue Metallic
+co Spruce Blue Metallic
+co Turino Turquoise Metallic
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool 17.25 Quarts
+ci rad Tube and center
+ci cool Water pump
+ci equip Power windows
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 15
+ci sloc Trunk
+cls 862, 64A([\dX]{6})
+clv 3960, 1964, Cadillac, 62, Sedan, 4 Window
+ci axle Semifloating
+ci make Cadillac
+ci prod 9243
+ci msrp $5214.00
+ci year 1964
+ci origin United States
+ci series 62
+ci weight 4550
+ci maker Fisher
+ci model 6229
+ci doors 4
+ci svc Power duo-servo self-adjusting
+ci ebrake Rear service brakes
+ci bsize 12
+ci tcase -NA-
+ci fuel 26
+ci rdiff 5
+ci trans 18
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci rtred 61
+ci height 54.8
+ci wbase 129.5
+ci width 79.5
+ci length 223.5
+ci etype Turbo Hydra-matic
+ci disp 429
+ci englo Left side of block between welch plugs, above edge of oil pan
+ci bhp 340@4400
+ci trq 480@3000
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci etype V8 Overhead valve
+ci vlift Hydraulic
+ci comp 10.5
+ci rhp 54.6
+ci b&s 4.13 & 4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aspen White
+co Bahama Sand
+co Beacon Blue Metallic
+co Ebony
+co Firemist Aquamarine Metallic
+co Firemist Blue Metallic
+co Firemist Green Metallic
+co Firemist Red Metallic
+co Firemist Saddle Metallic
+co Lime Metallic
+co Matador Red Metallic
+co Nevada Silver Metallic
+co Nile Green Metallic
+co Palomino Metallic
+co Royal Maroon Metallic
+co Seacrest Green Metallic
+co Sierra Gold Metallic
+co Somerset Blue Metallic
+co Spruce Blue Metallic
+co Turino Turquoise Metallic
+co Two Tone Colors Available
+ci cool 17.25 Quarts
+ci cool Water pump
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single
+ci equip Power windows
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.00 x 15
+cls 863, 64K([\dX]{6})
+clv 3961, 1964, Cadillac, 62, Sedan, 6 Window
+ci axle Semifloating
+ci make Cadillac
+ci msrp $5214.00
+ci origin United States
+ci year 1964
+ci prod 13670
+ci series 62
+ci model 6239
+ci doors 4
+ci weight 4575
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Power duo-servo self-adjusting
+ci tcase -NA-
+ci fuel 26
+ci trans 18
+ci rdiff 5
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci height 54.8
+ci rtred 61
+ci length 223.5
+ci width 79.5
+ci wbase 129.5
+ci cyl 8
+ci etype V8 Overhead valve
+ci bhp 340@4400
+ci etype Turbo Hydra-matic
+ci b&s 4.13 & 4
+ci block Cast Iron
+ci englo Left side of block between welch plugs, above edge of oil pan
+ci rhp 54.6
+ci etype Downdraft 4-barrel
+ci disp 429
+ci mbear 5
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci trq 480@3000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aspen White
+co Bahama Sand
+co Beacon Blue Metallic
+co Ebony
+co Firemist Aquamarine Metallic
+co Firemist Blue Metallic
+co Firemist Green Metallic
+co Firemist Red Metallic
+co Firemist Saddle Metallic
+co Lime Metallic
+co Matador Red Metallic
+co Nevada Silver Metallic
+co Nile Green Metallic
+co Palomino Metallic
+co Royal Maroon Metallic
+co Seacrest Green Metallic
+co Sierra Gold Metallic
+co Somerset Blue Metallic
+co Spruce Blue Metallic
+co Turino Turquoise Metallic
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool 17.25 Quarts
+ci rad Tube and center
+ci cool Water pump
+ci equip Power windows
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 15
+ci sloc Trunk
+cls 864, 64F([\dX]{6})
+clv 3962, 1964, Cadillac, 63, Convertible
+ci axle Semifloating
+ci year 1964
+ci msrp $5590.00
+ci origin United States
+ci make Cadillac
+ci prod 17900
+ci series 63
+ci weight 4605
+ci model 6267
+ci maker Fisher
+ci doors 2
+ci svc Power duo-servo self-adjusting
+ci bsize 12
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 18
+ci fuel 26
+ci rdiff 5
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci height 54.8
+ci rtred 61
+ci length 223.5
+ci width 79.5
+ci wbase 129.5
+ci cyl 8
+ci etype V8 Overhead valve
+ci bhp 340@4400
+ci etype Turbo Hydra-matic
+ci b&s 4.13 & 4
+ci block Cast Iron
+ci englo Left side of block between welch plugs, above edge of oil pan
+ci rhp 54.6
+ci etype Downdraft 4-barrel
+ci disp 429
+ci mbear 5
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci trq 480@3000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aspen White
+co Bahama Sand
+co Beacon Blue Metallic
+co Ebony
+co Firemist Aquamarine Metallic
+co Firemist Blue Metallic
+co Firemist Green Metallic
+co Firemist Red Metallic
+co Firemist Saddle Metallic
+co Lime Metallic
+co Matador Red Metallic
+co Nevada Silver Metallic
+co Nile Green Metallic
+co Palomino Metallic
+co Royal Maroon Metallic
+co Seacrest Green Metallic
+co Sierra Gold Metallic
+co Somerset Blue Metallic
+co Spruce Blue Metallic
+co Turino Turquoise Metallic
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool 17.25 Quarts
+ci rad Tube and center
+ci cool Water pump
+ci equip Power windows
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 15
+ci sloc Trunk
+cls 865, 64J([\dX]{6})
+clv 3963, 1964, Cadillac, 63, Coupe
+ci axle Semifloating
+ci make Cadillac
+ci msrp $5386.00
+ci origin United States
+ci prod 38195
+ci series 63
+ci year 1964
+ci model 6357
+ci doors 2
+ci weight 4495
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Power duo-servo self-adjusting
+ci tcase -NA-
+ci fuel 26
+ci trans 18
+ci rdiff 5
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci height 54.8
+ci rtred 61
+ci length 223.5
+ci width 79.5
+ci wbase 129.5
+ci cyl 8
+ci etype V8 Overhead valve
+ci bhp 340@4400
+ci etype Turbo Hydra-matic
+ci b&s 4.13 & 4
+ci block Cast Iron
+ci englo Left side of block between welch plugs, above edge of oil pan
+ci rhp 54.6
+ci etype Downdraft 4-barrel
+ci disp 429
+ci mbear 5
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci trq 480@3000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aspen White
+co Bahama Sand
+co Beacon Blue Metallic
+co Ebony
+co Firemist Aquamarine Metallic
+co Firemist Blue Metallic
+co Firemist Green Metallic
+co Firemist Red Metallic
+co Firemist Saddle Metallic
+co Lime Metallic
+co Matador Red Metallic
+co Nevada Silver Metallic
+co Nile Green Metallic
+co Palomino Metallic
+co Royal Maroon Metallic
+co Seacrest Green Metallic
+co Sierra Gold Metallic
+co Somerset Blue Metallic
+co Spruce Blue Metallic
+co Turino Turquoise Metallic
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool 17.25 Quarts
+ci rad Tube and center
+ci cool Water pump
+ci equip Power windows
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 15
+ci sloc Trunk
+cls 866, 64P([\dX]{6})
+clv 3964, 1964, Cadillac, 63, Eldorado Biarritz
+ci axle Semifloating
+ci year 1964
+ci msrp $6608.00
+ci make Cadillac
+ci prod 1870
+ci origin United States
+ci series 63
+ci doors 2
+ci maker Fleetwood
+ci model 6367
+ci ebrake Rear service brakes
+ci svc Power duo-servo self-adjusting
+ci bsize 12
+ci fuel 26
+ci tcase -NA-
+ci rdiff 5
+ci trans 18
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci height 54.8
+ci rtred 61
+ci length 223.5
+ci width 79.5
+ci wbase 129.5
+ci cyl 8
+ci etype V8 Overhead valve
+ci bhp 340@4400
+ci etype Turbo Hydra-matic
+ci b&s 4.13 & 4
+ci block Cast Iron
+ci englo Left side of block between welch plugs, above edge of oil pan
+ci rhp 54.6
+ci etype Downdraft 4-barrel
+ci disp 429
+ci mbear 5
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci trq 480@3000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aspen White
+co Bahama Sand
+co Beacon Blue Metallic
+co Ebony
+co Firemist Aquamarine Metallic
+co Firemist Blue Metallic
+co Firemist Green Metallic
+co Firemist Red Metallic
+co Firemist Saddle Metallic
+co Lime Metallic
+co Matador Red Metallic
+co Nevada Silver Metallic
+co Nile Green Metallic
+co Palomino Metallic
+co Royal Maroon Metallic
+co Seacrest Green Metallic
+co Sierra Gold Metallic
+co Somerset Blue Metallic
+co Spruce Blue Metallic
+co Turino Turquoise Metallic
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool 17.25 Quarts
+ci rad Tube and center
+ci cool Water pump
+ci equip Power windows
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 15
+ci sloc Trunk
+cls 867, 64L([\dX]{6})
+clv 3965, 1964, Cadillac, 63, Sedan, 4 Window
+ci axle Semifloating
+ci series 63
+ci msrp $5633.00
+ci origin United States
+ci year 1964
+ci prod 39674
+ci make Cadillac
+ci weight 4575
+ci model 6339
+ci doors 4
+ci maker Fisher
+ci svc Power duo-servo self-adjusting
+ci bsize 12
+ci ebrake Rear service brakes
+ci fuel 26
+ci trans 18
+ci tcase -NA-
+ci rdiff 5
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci height 54.8
+ci rtred 61
+ci length 223.5
+ci width 79.5
+ci wbase 129.5
+ci cyl 8
+ci etype V8 Overhead valve
+ci bhp 340@4400
+ci etype Turbo Hydra-matic
+ci b&s 4.13 & 4
+ci block Cast Iron
+ci englo Left side of block between welch plugs, above edge of oil pan
+ci rhp 54.6
+ci etype Downdraft 4-barrel
+ci disp 429
+ci mbear 5
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci trq 480@3000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aspen White
+co Bahama Sand
+co Beacon Blue Metallic
+co Ebony
+co Firemist Aquamarine Metallic
+co Firemist Blue Metallic
+co Firemist Green Metallic
+co Firemist Red Metallic
+co Firemist Saddle Metallic
+co Lime Metallic
+co Matador Red Metallic
+co Nevada Silver Metallic
+co Nile Green Metallic
+co Palomino Metallic
+co Royal Maroon Metallic
+co Seacrest Green Metallic
+co Sierra Gold Metallic
+co Somerset Blue Metallic
+co Spruce Blue Metallic
+co Turino Turquoise Metallic
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool 17.25 Quarts
+ci rad Tube and center
+ci cool Water pump
+ci equip Power windows
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 15
+ci sloc Trunk
+cls 868, 64B([\dX]{6})
+clv 3966, 1964, Cadillac, 63, Sedan, 6 Window
+ci axle Semifloating
+ci make Cadillac
+ci msrp $5633.00
+ci origin United States
+ci year 1964
+ci prod 14627
+ci series 63
+ci model 6329
+ci doors 4
+ci weight 4600
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Power duo-servo self-adjusting
+ci tcase -NA-
+ci fuel 26
+ci trans 18
+ci rdiff 5
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci height 54.8
+ci rtred 61
+ci length 223.5
+ci width 79.5
+ci wbase 129.5
+ci cyl 8
+ci etype V8 Overhead valve
+ci bhp 340@4400
+ci etype Turbo Hydra-matic
+ci b&s 4.13 & 4
+ci block Cast Iron
+ci englo Left side of block between welch plugs, above edge of oil pan
+ci rhp 54.6
+ci etype Downdraft 4-barrel
+ci disp 429
+ci mbear 5
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci trq 480@3000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aspen White
+co Bahama Sand
+co Beacon Blue Metallic
+co Ebony
+co Firemist Aquamarine Metallic
+co Firemist Blue Metallic
+co Firemist Green Metallic
+co Firemist Red Metallic
+co Firemist Saddle Metallic
+co Lime Metallic
+co Matador Red Metallic
+co Nevada Silver Metallic
+co Nile Green Metallic
+co Palomino Metallic
+co Royal Maroon Metallic
+co Seacrest Green Metallic
+co Sierra Gold Metallic
+co Somerset Blue Metallic
+co Spruce Blue Metallic
+co Turino Turquoise Metallic
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool 17.25 Quarts
+ci rad Tube and center
+ci cool Water pump
+ci equip Power windows
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 15
+ci sloc Trunk
+cls 869, 64S([\dX]{6})
+clv 3967, 1964, Cadillac, 75, Limousine
+ci axle Semifloating
+ci prod 808
+ci msrp $9939.00
+ci origin United States
+ci series 75
+ci year 1964
+ci make Cadillac
+ci model 6733
+ci weight 5300
+ci maker Fleetwood
+ci bsize 12
+ci ebrake Rear service brakes
+ci svc Power duo-servo self-adjusting
+ci fuel 26
+ci rdiff 5
+ci tcase -NA-
+ci trans 18
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 149.8
+ci rtred 61
+ci height 59
+ci width 79.8
+ci length 243.8
+ci rhp 54.6
+ci disp 429
+ci comp 10.5
+ci b&s 4.13 & 4
+ci etype V8 Overhead valve
+ci block Cast Iron
+ci cyl 8
+ci trq 480@3000
+ci mbear 5
+ci englo Left side of block between welch plugs, above edge of oil pan
+ci bhp 340@4400
+ci etype Hydra-Matic automatic
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aspen White
+co Bahama Sand
+co Beacon Blue Metallic
+co Ebony
+co Firemist Aquamarine Metallic
+co Firemist Blue Metallic
+co Firemist Green Metallic
+co Firemist Red Metallic
+co Firemist Saddle Metallic
+co Lime Metallic
+co Matador Red Metallic
+co Nevada Silver Metallic
+co Nile Green Metallic
+co Palomino Metallic
+co Royal Maroon Metallic
+co Seacrest Green Metallic
+co Sierra Gold Metallic
+co Somerset Blue Metallic
+co Spruce Blue Metallic
+co Turino Turquoise Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci cool 19.75 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Power seats
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.20 x 15
+ci sloc Trunk
+cls 870, 64R([\dX]{6})
+clv 3968, 1964, Cadillac, 75, Sedan
+ci axle Semifloating
+ci series 75
+ci msrp $9724.00
+ci origin United States
+ci year 1964
+ci prod 617
+ci make Cadillac
+ci weight 5215
+ci maker Fleetwood
+ci model 6723
+ci bsize 12
+ci ebrake Rear service brakes
+ci svc Power duo-servo self-adjusting
+ci fuel 26
+ci rdiff 5
+ci tcase -NA-
+ci trans 18
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 149.8
+ci rtred 61
+ci height 59
+ci length 243.8
+ci width 79.8
+ci rhp 54.6
+ci etype V8 Overhead valve
+ci comp 10.5
+ci b&s 4.13 & 4
+ci cyl 8
+ci block Cast Iron
+ci disp 429
+ci trq 480@3000
+ci mbear 5
+ci englo Left side of block between welch plugs, above edge of oil pan
+ci bhp 340@4400
+ci etype Hydra-Matic automatic
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aspen White
+co Bahama Sand
+co Beacon Blue Metallic
+co Ebony
+co Firemist Aquamarine Metallic
+co Firemist Blue Metallic
+co Firemist Green Metallic
+co Firemist Red Metallic
+co Firemist Saddle Metallic
+co Lime Metallic
+co Matador Red Metallic
+co Nevada Silver Metallic
+co Nile Green Metallic
+co Palomino Metallic
+co Royal Maroon Metallic
+co Seacrest Green Metallic
+co Sierra Gold Metallic
+co Somerset Blue Metallic
+co Spruce Blue Metallic
+co Turino Turquoise Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci cool 19.75 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Power seats
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.20 x 15
+ci sloc Trunk

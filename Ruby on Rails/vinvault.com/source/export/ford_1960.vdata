@@ -1,0 +1,3522 @@
+cls 3481, 0(\w)22(\w)([\dX]{6})
+clv 12370, 1960, Ford, Custom 300 6, Fordor
+ser 6 1 499999
+ci axle Semifloating
+ci series Custom 300 6
+ci prod 572
+ci origin United States
+ci year 1960
+ci msrp $1971.00
+ci make Ford
+ci model 58F
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 4.5
+ci oil 4
+ci trans 3.25
+ci fuel 20
+ci tcase -NA-
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.56
+ci diff Hypoid
+ci ftred 59
+ci length 181.2
+ci rtred 56.4
+ci width 70
+ci height 58.4
+ci wbase 119
+ci comp 8.4
+ci cyl 6
+ci etype Unknown at time of publication
+ci rhp 31.54
+ci mbear 4
+ci etype Single downdraft
+ci block Cast Iron
+ci bhp 145@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci disp 223.5
+ci etype In line Valve-in-head
+ci b&s 3 5/8 & 3 39/64
+ci trq 206@2200
+ci engno Last letter in serial no.
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown Metallic
+co Belmont Blue Metallic
+co Corinthian White
+co Enamel
+co Meadowvale Green Metallic
+co Monte Carlo Red
+co Orchid Gray Metallic
+co Platinum Metallic
+co Sky Mist Blue
+co Sultana Turquoise Metallic
+co Two Tone Colors Available
+co Yosemite Yellow
+ci batt 12
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.92
+ci 5gear Not applicable
+ci gears 3
+ci rev 3.67
+ci 1gear 3.09
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6 x 13
+cls 3482, 0(\w)21(\w)([\dX]{6})
+clv 12371, 1960, Ford, Custom 300 6, Tudor
+ser 6 1 499999
+ci axle Semifloating
+ci series Custom 300 6
+ci make Ford
+ci origin United States
+ci msrp $1921.00
+ci year 1960
+ci prod 302
+ci model 64H
+ci doors 2
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 4.5
+ci tcase -NA-
+ci fuel 20
+ci trans 3.25
+ci oil 4
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.56
+ci length 181.2
+ci width 70
+ci wbase 119
+ci ftred 59
+ci height 58.4
+ci rtred 56.4
+ci cyl 6
+ci vlift Mechanical
+ci mbear 4
+ci etype Single downdraft
+ci comp 8.4
+ci bhp 145@4000
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 5/8 & 3 39/64
+ci engno Last letter in serial no.
+ci etype In line Valve-in-head
+ci disp 223.5
+ci trq 206@2200
+ci rhp 31.54
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown Metallic
+co Belmont Blue Metallic
+co Corinthian White
+co Enamel
+co Meadowvale Green Metallic
+co Monte Carlo Red
+co Orchid Gray Metallic
+co Platinum Metallic
+co Sky Mist Blue
+co Sultana Turquoise Metallic
+co Two Tone Colors Available
+co Yosemite Yellow
+ci cool 15 Quarts
+ci cool Centrifugal pump with thermostat
+ci rad Fin and tube
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 3.67
+ci 2gear 1.92
+ci 1gear 3.09
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6 x 13
+cls 3483, 0(\w)22(\w)([\dX]{6})
+clv 12372, 1960, Ford, Custom 300 V8, Fordor
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Custom 300 V8
+ci origin United States
+ci msrp $2076.00
+ci year 1960
+ci prod 572
+ci maker Ford
+ci model 58F
+ci doors 4
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 5
+ci fuel 20
+ci trans 3.25
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diffr 3.56
+ci diff Hypoid
+ci length 213.7
+ci wbase 119
+ci ftred 59
+ci rtred 56.4
+ci width 81.5
+ci engno Last letter in serial no.
+ci rhp 45
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.8
+ci b&s 3 3/4 & 3 19/64
+ci block Cast Iron
+ci vlift Mechanical
+ci mbear 5
+ci disp 291.3
+ci bhp 200@4400
+ci etype Dual downdraft
+ci etype Helical
+ci trq 285@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown Metallic
+co Belmont Blue Metallic
+co Corinthian White
+co Enamel
+co Meadowvale Green Metallic
+co Monte Carlo Red
+co Orchid Gray Metallic
+co Platinum Metallic
+co Sky Mist Blue
+co Sultana Turquoise Metallic
+co Two Tone Colors Available
+co Yosemite Yellow
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci cool 19 Quarts
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.49
+ci 5gear Not applicable
+ci 1gear 2.4
+ci rev 2.86
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3484, 0(\w)21(\w)([\dX]{6})
+clv 12373, 1960, Ford, Custom 300 V8, Tudor
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2026.00
+ci prod 302
+ci series Custom 300 V8
+ci year 1960
+ci origin United States
+ci make Ford
+ci doors 2
+ci maker Ford
+ci model 64H
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci rdiff 4.5
+ci fuel 20
+ci tcase -NA-
+ci oil 5
+ci trans 3.25
+ci carb Holley or Ford
+ci csize 10.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci length 213.7
+ci width 81.5
+ci ftred 59
+ci wbase 119
+ci rtred 56.4
+ci engno Last letter in serial no.
+ci rhp 45
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.8
+ci b&s 3 3/4 & 3 19/64
+ci block Cast Iron
+ci vlift Mechanical
+ci mbear 5
+ci disp 291.3
+ci bhp 200@4400
+ci etype Dual downdraft
+ci etype Helical
+ci trq 285@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown Metallic
+co Belmont Blue Metallic
+co Corinthian White
+co Enamel
+co Meadowvale Green Metallic
+co Monte Carlo Red
+co Orchid Gray Metallic
+co Platinum Metallic
+co Sky Mist Blue
+co Sultana Turquoise Metallic
+co Two Tone Colors Available
+co Yosemite Yellow
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci cool 19 Quarts
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.49
+ci 5gear Not applicable
+ci 1gear 2.4
+ci rev 2.86
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3485, 0(\w)42(\w)([\dX]{6})
+clv 12374, 1960, Ford, Fairlane 500 6, Fordor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane 500 6
+ci year 1960
+ci origin United States
+ci prod 153234
+ci msrp $2173.00
+ci make Ford
+ci model 58A
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci trans 3.5
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci ftred 61
+ci width 81.5
+ci wbase 119
+ci height 57.9
+ci length 213.7
+ci rtred 60
+ci engno Last letter in serial no.
+ci mbear 4
+ci etype Single downdraft
+ci comp 8.4
+ci rhp 31.54
+ci bhp 145@4000
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci cyl 6
+ci disp 223.5
+ci etype In line Valve-in-head
+ci b&s 3 5/8 & 3 39/64
+ci trq 206@2000
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci rad Fin and tube
+ci batt 12
+ci exha Single
+ci cool 15 Quarts
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 3.09
+ci rev 3.67
+ci 3gear 1
+ci 2gear 1.92
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3486, 0(\w)41(\w)([\dX]{6})
+clv 12375, 1960, Ford, Fairlane 500 6, Tudor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 91041
+ci year 1960
+ci origin United States
+ci make Ford
+ci msrp $2123.00
+ci series Fairlane 500 6
+ci doors 2
+ci model 64A
+ci maker Ford
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 4.5
+ci oil 4
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.56
+ci width 81.5
+ci wbase 119
+ci height 57.9
+ci length 213.7
+ci rtred 60
+ci ftred 61
+ci engno Last letter in serial no.
+ci etype Unknown at time of publication
+ci comp 8.4
+ci mbear 4
+ci rhp 31.54
+ci etype Single downdraft
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype In line Valve-in-head
+ci trq 206@2000
+ci disp 223.5
+ci bhp 145@4000
+ci b&s 3 5/8 & 3 39/64
+ci vlift Mechanical
+ci cyl 6
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci ign Distributor and coil
+ci exha Single
+ci cool 15 Quarts
+ci cool Centrifugal pump with thermostat
+ci rad Fin and tube
+ci batt 12
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 3.67
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 3.09
+ci 3gear 1
+ci 2gear 1.92
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3487, 0(\w)42(\w)([\dX]{6})
+clv 12376, 1960, Ford, Fairlane 500 V8, Fordor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1960
+ci origin United States
+ci prod 153234
+ci msrp $2278.00
+ci series Fairlane 500 V8
+ci weight 3710
+ci doors 4
+ci model 58A
+ci maker Ford
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci oil 5
+ci trans 3.5
+ci rdiff 4.5
+ci carb Holley or Ford
+ci csize 10.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci ftred 61
+ci width 81.5
+ci rtred 60
+ci wbase 119
+ci length 213.7
+ci height 57.9
+ci b&s 3 3/4 & 3 19/64
+ci rhp 45
+ci etype Unknown at time of publication
+ci bhp 185@4200
+ci cyl 8
+ci comp 8.8
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci vlift Mechanical
+ci engno Last letter in serial no.
+ci trq 292@2200
+ci etype Dual downdraft
+ci disp 291.3
+ci mbear 5
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci cool 19 Quarts
+ci cool Centrifugal pump with thermostat
+ci rad Fin and tube
+ci batt 12
+ci exha Single with crossover
+ci ign Distributor and coil
+ci equip 352 cu. in. V8 engine
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 3.38
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci 1gear 2.78
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3488, 0(\w)41(\w)([\dX]{6})
+clv 12377, 1960, Ford, Fairlane 500 V8, Tudor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1960
+ci origin United States
+ci prod 91041
+ci msrp $2228.00
+ci series Fairlane 500 V8
+ci weight 3636
+ci doors 2
+ci model 64A
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 5
+ci trans 3.5
+ci fuel 20
+ci carb Holley or Ford
+ci csize 10.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci width 81.5
+ci wbase 119
+ci ftred 61
+ci length 213.7
+ci height 57.9
+ci rtred 60
+ci b&s 3 3/4 & 3 19/64
+ci rhp 45
+ci etype Unknown at time of publication
+ci cyl 8
+ci comp 8.8
+ci bhp 185@4200
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci vlift Mechanical
+ci engno Last letter in serial no.
+ci trq 292@2200
+ci etype Dual downdraft
+ci disp 291.3
+ci mbear 5
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci rad Fin and tube
+ci exha Single with crossover
+ci batt 12
+ci cool 19 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Cruise-O-Matic automatic transmission
+ci equip 352 cu. in. V8 engine
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 3.38
+ci 1gear 2.78
+ci 2gear 1.61
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3489, 0(\w)33(\w)([\dX]{6})
+clv 12378, 1960, Ford, Fairlane 6, Business Tudor
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Fairlane 6
+ci origin United States
+ci prod 1733
+ci msrp $1970.00
+ci year 1960
+ci model 64G
+ci maker Ford
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci oil 4
+ci trans 3.5
+ci fuel 20
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.56
+ci diff Hypoid
+ci wbase 119
+ci length 213.7
+ci width 81.5
+ci height 57.9
+ci ftred 61
+ci rtred 60
+ci engno Last letter in serial no.
+ci mbear 4
+ci etype Single downdraft
+ci comp 8.4
+ci rhp 31.54
+ci bhp 145@4000
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci cyl 6
+ci disp 223.5
+ci etype In line Valve-in-head
+ci b&s 3 5/8 & 3 39/64
+ci trq 206@2000
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Moroccan Ivory
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci rad Fin and tube
+ci batt 12
+ci exha Single
+ci cool 15 Quarts
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 3.09
+ci rev 3.67
+ci 3gear 1
+ci 2gear 1.92
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3490, 0(\w)32(\w)([\dX]{6})
+clv 12379, 1960, Ford, Fairlane 6, Fordor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 109801
+ci year 1960
+ci origin United States
+ci msrp $2101.00
+ci make Ford
+ci series Fairlane 6
+ci model 58E
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci trans 3.5
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci ftred 61
+ci width 81.5
+ci wbase 119
+ci height 57.9
+ci length 213.7
+ci rtred 60
+ci engno Last letter in serial no.
+ci mbear 4
+ci etype Single downdraft
+ci comp 8.4
+ci rhp 31.54
+ci bhp 145@4000
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci cyl 6
+ci disp 223.5
+ci etype In line Valve-in-head
+ci b&s 3 5/8 & 3 39/64
+ci trq 206@2000
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Moroccan Ivory
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci rad Fin and tube
+ci batt 12
+ci exha Single
+ci cool 15 Quarts
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 3.09
+ci rev 3.67
+ci 3gear 1
+ci 2gear 1.92
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3491, 0(\w)31(\w)([\dX]{6})
+clv 12380, 1960, Ford, Fairlane 6, Tudor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 93259
+ci year 1960
+ci origin United States
+ci make Ford
+ci msrp $2051.00
+ci series Fairlane 6
+ci doors 2
+ci model 64F
+ci maker Ford
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 4.5
+ci oil 4
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.56
+ci width 81.5
+ci wbase 119
+ci height 57.9
+ci length 213.7
+ci rtred 60
+ci ftred 61
+ci engno Last letter in serial no.
+ci etype Unknown at time of publication
+ci comp 8.4
+ci mbear 4
+ci rhp 31.54
+ci etype Single downdraft
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype In line Valve-in-head
+ci trq 206@2000
+ci disp 223.5
+ci bhp 145@4000
+ci b&s 3 5/8 & 3 39/64
+ci vlift Mechanical
+ci cyl 6
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Moroccan Ivory
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci ign Distributor and coil
+ci exha Single
+ci cool 15 Quarts
+ci cool Centrifugal pump with thermostat
+ci rad Fin and tube
+ci batt 12
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 3.67
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 3.09
+ci 3gear 1
+ci 2gear 1.92
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3492, 0(\w)33(\w)([\dX]{6})
+clv 12381, 1960, Ford, Fairlane V8, Business Tudor
+ser 6 1 499999
+ci axle Semifloating
+ci prod 1733
+ci origin United States
+ci make Ford
+ci year 1960
+ci msrp $2075.00
+ci series Fairlane V8
+ci maker Ford
+ci weight 3605
+ci doors 2
+ci model 64G
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 20
+ci oil 5
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 4.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diffr 3.56
+ci diff Hypoid
+ci width 81.5
+ci wbase 119
+ci height 57.9
+ci ftred 61
+ci rtred 60
+ci length 213.7
+ci disp 291.3
+ci mbear 5
+ci rhp 45
+ci engno Last letter in serial no.
+ci cyl 8
+ci comp 8.8
+ci b&s 3 3/4 & 3 19/64
+ci block Cast Iron
+ci etype Unknown at time of publication
+ci trq 292@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci bhp 185@4200
+ci vlift Mechanical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci ign Distributor and coil
+ci batt 12
+ci rad Fin and tube
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci equip Fordomatic automatic transmission
+ci equip 352 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 1gear 2.78
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 3.38
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3493, 0(\w)32(\w)([\dX]{6})
+clv 12382, 1960, Ford, Fairlane V8, Fordor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2206.00
+ci make Ford
+ci origin United States
+ci prod 109801
+ci series Fairlane V8
+ci year 1960
+ci doors 4
+ci model 58E
+ci weight 3706
+ci maker Ford
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci oil 5
+ci trans 3.5
+ci rdiff 4.5
+ci carb Holley or Ford
+ci csize 10.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci ftred 61
+ci width 81.5
+ci rtred 60
+ci wbase 119
+ci length 213.7
+ci height 57.9
+ci b&s 3 3/4 & 3 19/64
+ci rhp 45
+ci etype Unknown at time of publication
+ci bhp 185@4200
+ci cyl 8
+ci comp 8.8
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci vlift Mechanical
+ci engno Last letter in serial no.
+ci trq 292@2200
+ci etype Dual downdraft
+ci disp 291.3
+ci mbear 5
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci cool 19 Quarts
+ci cool Centrifugal pump with thermostat
+ci rad Fin and tube
+ci batt 12
+ci exha Single with crossover
+ci ign Distributor and coil
+ci equip 352 cu. in. V8 engine
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 3.38
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci 1gear 2.78
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3494, 0(\w)31(\w)([\dX]{6})
+clv 12383, 1960, Ford, Fairlane V8, Tudor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1960
+ci origin United States
+ci prod 93259
+ci msrp $2156.00
+ci series Fairlane V8
+ci weight 3632
+ci doors 2
+ci model 64F
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 5
+ci trans 3.5
+ci fuel 20
+ci carb Holley or Ford
+ci csize 10.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci width 81.5
+ci wbase 119
+ci ftred 61
+ci length 213.7
+ci height 57.9
+ci rtred 60
+ci b&s 3 3/4 & 3 19/64
+ci rhp 45
+ci etype Unknown at time of publication
+ci cyl 8
+ci comp 8.8
+ci bhp 185@4200
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci vlift Mechanical
+ci engno Last letter in serial no.
+ci trq 292@2200
+ci etype Dual downdraft
+ci disp 291.3
+ci mbear 5
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci rad Fin and tube
+ci exha Single with crossover
+ci batt 12
+ci cool 19 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Cruise-O-Matic automatic transmission
+ci equip 352 cu. in. V8 engine
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 3.38
+ci 1gear 2.78
+ci 2gear 1.61
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3495, 0(\w)58(\w)([\dX]{6})
+clv 12384, 1960, Ford, Falcon, Fordor
+ser 6 1 499999
+ci axle Semifloating
+ci prod 46758
+ci make Ford
+ci origin United States
+ci msrp $1803.00
+ci series Falcon
+ci year 1960
+ci model 58A
+ci maker Ford
+ci weight 2288
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 9
+ci oil 3.5
+ci trans 2
+ci fuel 14
+ci rdiff 2.5
+ci tcase -NA-
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 3.10
+ci ftred 55
+ci rtred 54.5
+ci height 58.4
+ci wbase 109.5
+ci length 181.2
+ci width 70
+ci engno Last letter in serial no.
+ci cyl 6
+ci etype Unknown at time of publication
+ci comp 8.7
+ci englo Stamped on top of block.
+ci etype Single downdraft
+ci bhp 90@4200
+ci block Cast Iron
+ci trq 138@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 144.32
+ci mbear 4
+ci vlift Mechanical
+ci rhp 29.4
+ci b&s 3 1/2 & 2 1/2
+ci etype Inline Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+ci batt 12
+ci exha Single
+ci ftype 84 octane
+ci cool 8.7 Quarts
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 3.29
+ci drive Rear wheel drive
+ci rev 4.46
+ci 3gear 1
+ci 2gear 1.75
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6 x 13
+cls 3496, 0(\w)59(\w)([\dX]{6})
+clv 12386, 1960, Ford, Falcon, Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2225.00
+ci series Falcon
+ci make Ford
+ci origin United States
+ci year 1960
+ci prod 193470
+ci maker Ford
+ci model 59A
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci bsize 9
+ci ebrake Rear service brakes
+ci rdiff 2.5
+ci trans 2
+ci oil 3.5
+ci fuel 14
+ci tcase -NA-
+ci carb Holley
+ci csize 8.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.10
+ci diff Hypoid
+ci rtred 54.5
+ci ftred 55
+ci height 58.4
+ci length 189
+ci wbase 109.5
+ci width 70
+ci b&s 3 1/2 & 2 1/2
+ci cyl 6
+ci etype Unknown at time of publication
+ci comp 8.7
+ci englo Stamped on top of block.
+ci etype Single downdraft
+ci bhp 90@4200
+ci block Cast Iron
+ci trq 138@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 144.32
+ci mbear 4
+ci vlift Mechanical
+ci engno Last letter in serial no.
+ci rhp 29.4
+ci etype Inline Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+ci batt 12
+ci exha Single
+ci ftype 84 octane
+ci cool 8.7 Quarts
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 1gear 3.29
+ci gears 3
+ci drive Rear wheel drive
+ci rev 4.46
+ci 3gear 1
+ci 2gear 1.75
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6 x 13
+cls 3497, 0(\w)71(\w)([\dX]{6})
+clv 12387, 1960, Ford, Falcon, Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2287.00
+ci series Falcon
+ci origin United States
+ci make Ford
+ci prod 167896
+ci year 1960
+ci maker Ford
+ci model 71A
+ci bsize 9
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci rdiff 2.5
+ci trans 2
+ci tcase -NA-
+ci oil 3.5
+ci fuel 14
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 3.10
+ci rtred 54.5
+ci ftred 55
+ci height 58.4
+ci wbase 109.5
+ci width 70
+ci length 189
+ci etype Unknown at time of publication
+ci mbear 4
+ci englo Stamped on top of block.
+ci comp 8.7
+ci etype Single downdraft
+ci cyl 6
+ci bhp 90@4200
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 138@2000
+ci vlift Mechanical
+ci b&s 3 1/2 & 2 1/2
+ci engno Last letter in serial no.
+ci disp 144.32
+ci rhp 29.4
+ci etype Inline Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+ci batt 12
+ci cool 8.7 Quarts
+ci ftype 84 octane
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci ign Distributor and coil
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 3.29
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.75
+ci rev 4.46
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6 x 13
+cls 3498, 0(\w)64(\w)([\dX]{6})
+clv 12388, 1960, Ford, Falcon, Tudor
+ser 6 1 499999
+ci axle Semifloating
+ci series Falcon
+ci make Ford
+ci origin United States
+ci prod 27552
+ci msrp $1746.00
+ci year 1960
+ci model 64A
+ci weight 2259
+ci doors 2
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 9
+ci tcase -NA-
+ci fuel 14
+ci rdiff 2.5
+ci oil 3.5
+ci trans 2
+ci carb Holley
+ci csize 8.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.10
+ci length 181.2
+ci ftred 55
+ci height 58.4
+ci wbase 109.5
+ci width 70
+ci rtred 54.5
+ci disp 144.32
+ci cyl 6
+ci rhp 29.4
+ci comp 8.7
+ci etype Single downdraft
+ci trq 138@2000
+ci bhp 90@4200
+ci block Cast Iron
+ci vlift Mechanical
+ci engno Last letter in serial no.
+ci etype Inline Valve-in-head
+ci mbear 4
+ci b&s 3 1/2 & 2 1/2
+ci englo Stamped on top of block.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci ftype 84 octane
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci cool 8.7 Quarts
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 1gear 3.29
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci gears 3
+ci 5gear Not applicable
+ci rev 4.46
+ci vloc Plate on left front door pillar post.
+ci tsize 6 x 13
+ci sloc Trunk
+cls 3499, 0(\w)52(\w)([\dX]{6})
+clv 12389, 1960, Ford, Galaxie 6, Fordor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 104784
+ci make Ford
+ci origin United States
+ci msrp $2374.00
+ci year 1960
+ci series Galaxie 6
+ci maker Ford
+ci model 54A
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 3.5
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.56
+ci length 213.7
+ci ftred 61
+ci width 81.5
+ci wbase 119
+ci height 57.9
+ci rtred 60
+ci engno Last letter in serial no.
+ci mbear 4
+ci etype Single downdraft
+ci comp 8.4
+ci rhp 31.54
+ci bhp 145@4000
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci cyl 6
+ci disp 223.5
+ci etype In line Valve-in-head
+ci b&s 3 5/8 & 3 39/64
+ci trq 206@2000
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Springdale Rose
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci exha Single
+ci rad Fin and tube
+ci batt 12
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 3.67
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 3.09
+ci 2gear 1.92
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3500, 0(\w)53(\w)([\dX]{6})
+clv 12390, 1960, Ford, Galaxie 6, Starliner
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci prod 68641
+ci origin United States
+ci year 1960
+ci msrp $2380.00
+ci series Galaxie 6
+ci model 63A
+ci maker Ford
+ci doors 2
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci oil 4
+ci trans 3.5
+ci fuel 20
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci width 81.5
+ci wbase 119
+ci height 57.9
+ci length 213.7
+ci rtred 60
+ci ftred 61
+ci engno Last letter in serial no.
+ci mbear 4
+ci etype Single downdraft
+ci comp 8.4
+ci rhp 31.54
+ci bhp 145@4000
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci cyl 6
+ci disp 223.5
+ci etype In line Valve-in-head
+ci b&s 3 5/8 & 3 39/64
+ci trq 206@2000
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Springdale Rose
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci exha Single
+ci rad Fin and tube
+ci batt 12
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 3.67
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 3.09
+ci 2gear 1.92
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3501, 0(\w)55(\w)([\dX]{6})
+clv 12391, 1960, Ford, Galaxie 6, Sunliner
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci prod 44762
+ci origin United States
+ci year 1960
+ci msrp $2612.00
+ci series Galaxie 6
+ci model 76B
+ci doors 2
+ci maker Ford
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci rdiff 4.5
+ci tcase -NA-
+ci fuel 20
+ci trans 3.5
+ci oil 4
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci width 81.5
+ci wbase 119
+ci length 213.7
+ci height 57.9
+ci ftred 61
+ci rtred 60
+ci engno Last letter in serial no.
+ci etype Unknown at time of publication
+ci mbear 4
+ci comp 8.4
+ci rhp 31.54
+ci etype Single downdraft
+ci block Cast Iron
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci etype In line Valve-in-head
+ci trq 206@2000
+ci disp 223.5
+ci b&s 3 5/8 & 3 39/64
+ci bhp 145@4000
+ci vlift Mechanical
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Springdale Rose
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci batt 12
+ci rad Fin and tube
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 3.67
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 3.09
+ci 3gear 1
+ci 2gear 1.92
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3502, 0(\w)51(\w)([\dX]{6})
+clv 12392, 1960, Ford, Galaxie 6, Tudor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci prod 31866
+ci origin United States
+ci year 1960
+ci msrp $2324.00
+ci series Galaxie 6
+ci maker Ford
+ci doors 2
+ci model 62A
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci fuel 20
+ci rdiff 4.5
+ci oil 4
+ci trans 3.5
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci width 81.5
+ci wbase 119
+ci length 213.7
+ci height 57.9
+ci ftred 61
+ci rtred 60
+ci engno Last letter in serial no.
+ci mbear 4
+ci etype Single downdraft
+ci comp 8.4
+ci rhp 31.54
+ci bhp 145@4000
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci cyl 6
+ci disp 223.5
+ci etype In line Valve-in-head
+ci b&s 3 5/8 & 3 39/64
+ci trq 206@2000
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Springdale Rose
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci exha Single
+ci rad Fin and tube
+ci batt 12
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 3.67
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 3.09
+ci 2gear 1.92
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3503, 0(\w)54(\w)([\dX]{6})
+clv 12393, 1960, Ford, Galaxie 6, Victoria
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci prod 39215
+ci origin United States
+ci year 1960
+ci msrp $2440.00
+ci series Galaxie 6
+ci maker Ford
+ci model 75A
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci rdiff 4.5
+ci oil 4
+ci trans 3.5
+ci fuel 20
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci rtred 60
+ci wbase 119
+ci length 213.7
+ci height 57.9
+ci ftred 61
+ci width 81.5
+ci cyl 6
+ci etype Unknown at time of publication
+ci mbear 4
+ci comp 8.4
+ci rhp 31.54
+ci etype Single downdraft
+ci block Cast Iron
+ci bhp 145@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci engno Last letter in serial no.
+ci disp 223.5
+ci b&s 3 5/8 & 3 39/64
+ci trq 206@2000
+ci etype In line Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Springdale Rose
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci batt 12
+ci rad Fin and tube
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 3.09
+ci 2gear 1.92
+ci rev 3.67
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3504, 0(\w)52(\w)([\dX]{6})
+clv 12394, 1960, Ford, Galaxie V8, Fordor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2479.00
+ci make Ford
+ci origin United States
+ci prod 104784
+ci year 1960
+ci series Galaxie V8
+ci model 54A
+ci weight 3734
+ci maker Ford
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci fuel 20
+ci rdiff 4.5
+ci trans 3.5
+ci tcase -NA-
+ci carb Holley or Ford
+ci csize 10.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci width 81.5
+ci ftred 61
+ci rtred 60
+ci height 57.9
+ci length 213.7
+ci wbase 119
+ci b&s 3 3/4 & 3 19/64
+ci rhp 45
+ci etype Unknown at time of publication
+ci bhp 185@4200
+ci cyl 8
+ci comp 8.8
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci vlift Mechanical
+ci engno Last letter in serial no.
+ci mbear 5
+ci etype Dual downdraft
+ci disp 291.3
+ci trq 292@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci cool 19 Quarts
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci exha Single with crossover
+ci ign Distributor and coil
+ci equip 352 cu. in. V8 engine
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 3.38
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci 1gear 2.78
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3505, 0(\w)53(\w)([\dX]{6})
+clv 12395, 1960, Ford, Galaxie V8, Starliner
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci prod 68641
+ci origin United States
+ci msrp $2485.00
+ci year 1960
+ci series Galaxie V8
+ci model 63A
+ci maker Ford
+ci weight 3667
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci fuel 20
+ci oil 5
+ci rdiff 4.5
+ci trans 3.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 3.56
+ci width 81.5
+ci length 213.7
+ci ftred 61
+ci wbase 119
+ci height 57.9
+ci rtred 60
+ci b&s 3 3/4 & 3 19/64
+ci rhp 45
+ci etype Unknown at time of publication
+ci bhp 185@4200
+ci cyl 8
+ci comp 8.8
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci vlift Mechanical
+ci engno Last letter in serial no.
+ci mbear 5
+ci etype Dual downdraft
+ci disp 291.3
+ci trq 292@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci cool 19 Quarts
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci exha Single with crossover
+ci ign Distributor and coil
+ci equip 352 cu. in. V8 engine
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 3.38
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci 1gear 2.78
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3506, 0(\w)55(\w)([\dX]{6})
+clv 12396, 1960, Ford, Galaxie V8, Sunliner
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci prod 44762
+ci origin United States
+ci msrp $2717.00
+ci year 1960
+ci series Galaxie V8
+ci maker Ford
+ci model 76B
+ci weight 3841
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci oil 5
+ci fuel 20
+ci rdiff 4.5
+ci trans 3.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diffr 3.56
+ci diff Hypoid
+ci width 81.5
+ci length 213.7
+ci ftred 61
+ci rtred 60
+ci wbase 119
+ci height 57.9
+ci b&s 3 3/4 & 3 19/64
+ci rhp 45
+ci etype Unknown at time of publication
+ci bhp 185@4200
+ci cyl 8
+ci comp 8.8
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci vlift Mechanical
+ci engno Last letter in serial no.
+ci mbear 5
+ci etype Dual downdraft
+ci disp 291.3
+ci trq 292@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci rad Fin and tube
+ci exha Single with crossover
+ci batt 12
+ci cool 19 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Cruise-O-Matic automatic transmission
+ci equip 352 cu. in. V8 engine
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 3.38
+ci 1gear 2.78
+ci 2gear 1.61
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3507, 0(\w)51(\w)([\dX]{6})
+clv 12397, 1960, Ford, Galaxie V8, Tudor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci prod 31866
+ci origin United States
+ci msrp $2429.00
+ci year 1960
+ci series Galaxie V8
+ci weight 3653
+ci model 62A
+ci maker Ford
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci tcase -NA-
+ci oil 5
+ci rdiff 4.5
+ci trans 3.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 3.56
+ci width 81.5
+ci length 213.7
+ci ftred 61
+ci rtred 60
+ci wbase 119
+ci height 57.9
+ci b&s 3 3/4 & 3 19/64
+ci rhp 45
+ci etype Unknown at time of publication
+ci bhp 185@4200
+ci cyl 8
+ci comp 8.8
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci vlift Mechanical
+ci engno Last letter in serial no.
+ci mbear 5
+ci etype Dual downdraft
+ci disp 291.3
+ci trq 292@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci cool 19 Quarts
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci exha Single with crossover
+ci ign Distributor and coil
+ci equip 352 cu. in. V8 engine
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 3.38
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci 1gear 2.78
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3508, 0(\w)54(\w)([\dX]{6})
+clv 12398, 1960, Ford, Galaxie V8, Victoria
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci origin United States
+ci series Galaxie V8
+ci msrp $2545.00
+ci year 1960
+ci prod 39215
+ci maker Ford
+ci model 75A
+ci weight 3742
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci trans 3.5
+ci fuel 20
+ci oil 5
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diffr 3.56
+ci diff Hypoid
+ci height 57.9
+ci length 213.7
+ci width 81.5
+ci rtred 60
+ci wbase 119
+ci ftred 61
+ci mbear 5
+ci rhp 45
+ci engno Last letter in serial no.
+ci disp 291.3
+ci cyl 8
+ci comp 8.8
+ci trq 292@2200
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 3/4 & 3 19/64
+ci vlift Mechanical
+ci etype Dual downdraft
+ci etype Unknown at time of publication
+ci bhp 185@4200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci equip Fordomatic automatic transmission
+ci equip 352 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 1gear 2.78
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 3.38
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3509, 0(\w)64(\w)([\dX]{6})
+clv 12399, 1960, Ford, Station Wagon 6, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 59302
+ci series Station Wagon 6
+ci origin United States
+ci msrp $2511.00
+ci make Ford
+ci year 1960
+ci maker Ford
+ci model 71F
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.56
+ci width 81.5
+ci wbase 119
+ci length 213.7
+ci ftred 61
+ci rtred 60
+ci b&s 3 5/8 & 3 39/64
+ci disp 223.5
+ci etype Single downdraft
+ci comp 8.4
+ci cyl 6
+ci mbear 4
+ci block Cast Iron
+ci bhp 145@4000
+ci vlift Mechanical
+ci engno Last letter in serial no.
+ci etype In line Valve-in-head
+ci trq 206@2000
+ci rhp 31.54
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Springdale Rose
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci batt 12
+ci rad Fin and tube
+ci exha Single
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 1gear 3.09
+ci 2gear 1.92
+ci rev 3.67
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3510, 0(\w)66(\w)([\dX]{6})
+clv 12400, 1960, Ford, Station Wagon 6, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Station Wagon 6
+ci origin United States
+ci msrp $2591.00
+ci prod 19277
+ci year 1960
+ci pass 9
+ci maker Ford
+ci model 71E
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci oil 4
+ci tcase -NA-
+ci fuel 20
+ci rdiff 4.5
+ci trans 3.5
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci length 213.7
+ci width 81.5
+ci wbase 119
+ci rtred 60
+ci ftred 61
+ci vlift Mechanical
+ci etype Unknown at time of publication
+ci comp 8.4
+ci mbear 4
+ci rhp 31.54
+ci etype Single downdraft
+ci block Cast Iron
+ci bhp 145@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 206@2000
+ci cyl 6
+ci disp 223.5
+ci b&s 3 5/8 & 3 39/64
+ci etype In line Valve-in-head
+ci engno Last letter in serial no.
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Springdale Rose
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci cool 15 Quarts
+ci rad Fin and tube
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 3.67
+ci 5gear Not applicable
+ci 1gear 3.09
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 2gear 1.92
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 3511, 0(\w)68(\w)([\dX]{6})
+clv 12401, 1960, Ford, Station Wagon 6, Country Squire
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2711.00
+ci series Station Wagon 6
+ci year 1960
+ci origin United States
+ci make Ford
+ci prod 22237
+ci model 71G
+ci maker Ford
+ci pass 9
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci oil 4
+ci rdiff 4.5
+ci trans 3.5
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci length 213.7
+ci width 81.5
+ci wbase 119
+ci rtred 60
+ci ftred 61
+ci vlift Mechanical
+ci etype Unknown at time of publication
+ci comp 8.4
+ci mbear 4
+ci rhp 31.54
+ci etype Single downdraft
+ci block Cast Iron
+ci bhp 145@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 206@2000
+ci cyl 6
+ci disp 223.5
+ci b&s 3 5/8 & 3 39/64
+ci etype In line Valve-in-head
+ci engno Last letter in serial no.
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Springdale Rose
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci cool 15 Quarts
+ci rad Fin and tube
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 3.67
+ci 5gear Not applicable
+ci 1gear 3.09
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 2gear 1.92
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 3512, 0(\w)62(\w)([\dX]{6})
+clv 12402, 1960, Ford, Station Wagon 6, Fordor Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci prod 43872
+ci series Station Wagon 6
+ci origin United States
+ci msrp $2422.00
+ci make Ford
+ci year 1960
+ci maker Ford
+ci model 71H
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.56
+ci width 81.5
+ci wbase 119
+ci length 213.7
+ci ftred 61
+ci rtred 60
+ci b&s 3 5/8 & 3 39/64
+ci disp 223.5
+ci etype Single downdraft
+ci comp 8.4
+ci cyl 6
+ci mbear 4
+ci block Cast Iron
+ci bhp 145@4000
+ci vlift Mechanical
+ci engno Last letter in serial no.
+ci etype In line Valve-in-head
+ci trq 206@2000
+ci rhp 31.54
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Springdale Rose
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci batt 12
+ci rad Fin and tube
+ci exha Single
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 1gear 3.09
+ci 2gear 1.92
+ci rev 3.67
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3513, 0(\w)61(\w)([\dX]{6})
+clv 12403, 1960, Ford, Station Wagon 6, Tudor Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Station Wagon 6
+ci origin United States
+ci msrp $2357.00
+ci year 1960
+ci prod 27136
+ci maker Ford
+ci model 59C
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci oil 4
+ci fuel 20
+ci trans 3.5
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.56
+ci length 213.7
+ci ftred 61
+ci width 81.5
+ci wbase 119
+ci rtred 60
+ci vlift Mechanical
+ci mbear 4
+ci etype Unknown at time of publication
+ci comp 8.4
+ci rhp 31.54
+ci etype Single downdraft
+ci block Cast Iron
+ci bhp 145@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 206@2000
+ci cyl 6
+ci disp 223.5
+ci b&s 3 5/8 & 3 39/64
+ci etype In line Valve-in-head
+ci engno Last letter in serial no.
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Orchid Gray
+co Platinum
+co Raven Black
+co Skymist Blue
+co Springdale Rose
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci cool 15 Quarts
+ci rad Fin and tube
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 3.67
+ci 5gear Not applicable
+ci 1gear 3.09
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 2gear 1.92
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 3514, 0(\w)64(\w)([\dX]{6})
+clv 12404, 1960, Ford, Station Wagon V8, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci year 1960
+ci origin United States
+ci make Ford
+ci prod 59302
+ci series Station Wagon V8
+ci msrp $2616.00
+ci pass 6
+ci doors 4
+ci model 71F
+ci weight 4062
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci oil 5
+ci fuel 20
+ci rdiff 4.5
+ci trans 3.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diffr 3.56
+ci diff Hypoid
+ci width 81.5
+ci ftred 61
+ci wbase 119
+ci rtred 60
+ci length 213.7
+ci disp 291.3
+ci mbear 5
+ci etype Unknown at time of publication
+ci cyl 8
+ci rhp 45
+ci comp 8.8
+ci bhp 185@4200
+ci block Cast Iron
+ci vlift Mechanical
+ci engno Last letter in serial no.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci b&s 3 3/4 & 3 19/64
+ci trq 292@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci batt 12
+ci rad Fin and tube
+ci cool 19 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci equip Cruise-O-Matic automatic transmission
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip 352 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.78
+ci rev 3.38
+ci drive Rear wheel drive
+ci 2gear 1.61
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 3515, 0(\w)66(\w)([\dX]{6})
+clv 12405, 1960, Ford, Station Wagon V8, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Station Wagon V8
+ci origin United States
+ci msrp $2696.00
+ci prod 19277
+ci year 1960
+ci weight 4108
+ci doors 4
+ci model 71E
+ci maker Ford
+ci pass 9
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci rdiff 4.5
+ci fuel 20
+ci oil 5
+ci tcase -NA-
+ci trans 3.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diffr 3.56
+ci diff Hypoid
+ci width 81.5
+ci wbase 119
+ci ftred 61
+ci length 213.7
+ci rtred 60
+ci engno Last letter in serial no.
+ci rhp 45
+ci cyl 8
+ci etype Unknown at time of publication
+ci comp 8.8
+ci bhp 185@4200
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci vlift Mechanical
+ci mbear 5
+ci b&s 3 3/4 & 3 19/64
+ci etype Dual downdraft
+ci disp 291.3
+ci trq 292@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci exha Single with crossover
+ci rad Fin and tube
+ci batt 12
+ci cool 19 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci equip 352 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 3.38
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 1gear 2.78
+ci 3gear 1
+ci 2gear 1.61
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3516, 0(\w)68(\w)([\dX]{6})
+clv 12406, 1960, Ford, Station Wagon V8, Country Squire
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2816.00
+ci series Station Wagon V8
+ci make Ford
+ci prod 22237
+ci year 1960
+ci origin United States
+ci weight 4122
+ci doors 4
+ci model 71G
+ci pass 9
+ci maker Ford
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci fuel 20
+ci rdiff 4.5
+ci oil 5
+ci trans 3.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diffr 3.56
+ci diff Hypoid
+ci width 81.5
+ci wbase 119
+ci ftred 61
+ci length 213.7
+ci rtred 60
+ci engno Last letter in serial no.
+ci rhp 45
+ci cyl 8
+ci etype Unknown at time of publication
+ci comp 8.8
+ci bhp 185@4200
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci vlift Mechanical
+ci mbear 5
+ci b&s 3 3/4 & 3 19/64
+ci etype Dual downdraft
+ci disp 291.3
+ci trq 292@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci exha Single with crossover
+ci rad Fin and tube
+ci batt 12
+ci cool 19 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci equip 352 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 3.38
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 1gear 2.78
+ci 3gear 1
+ci 2gear 1.61
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3517, 0(\w)62(\w)([\dX]{6})
+clv 12407, 1960, Ford, Station Wagon V8, Fordor Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci prod 43872
+ci series Station Wagon V8
+ci origin United States
+ci make Ford
+ci msrp $2527.00
+ci year 1960
+ci model 71H
+ci maker Ford
+ci weight 4048
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci trans 3.5
+ci fuel 20
+ci tcase -NA-
+ci rdiff 4.5
+ci oil 5
+ci carb Holley or Ford
+ci csize 10.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci length 213.7
+ci width 81.5
+ci ftred 61
+ci rtred 60
+ci wbase 119
+ci vlift Mechanical
+ci rhp 45
+ci etype Unknown at time of publication
+ci cyl 8
+ci bhp 185@4200
+ci comp 8.8
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci mbear 5
+ci engno Last letter in serial no.
+ci b&s 3 3/4 & 3 19/64
+ci etype Dual downdraft
+ci disp 291.3
+ci trq 292@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci exha Single with crossover
+ci rad Fin and tube
+ci batt 12
+ci cool 19 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Cruise-O-Matic automatic transmission
+ci equip 352 cu. in. V8 engine
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 3.38
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.78
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.61
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 3518, 0(\w)61(\w)([\dX]{6})
+clv 12408, 1960, Ford, Station Wagon V8, Tudor Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Station Wagon V8
+ci origin United States
+ci msrp $2462.00
+ci year 1960
+ci prod 27136
+ci doors 2
+ci weight 3931
+ci model 59C
+ci maker Ford
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci rdiff 4.5
+ci fuel 20
+ci trans 3.5
+ci oil 5
+ci tcase -NA-
+ci carb Holley or Ford
+ci csize 10.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci width 81.5
+ci ftred 61
+ci rtred 60
+ci wbase 119
+ci length 213.7
+ci vlift Mechanical
+ci rhp 45
+ci etype Unknown at time of publication
+ci cyl 8
+ci bhp 185@4200
+ci comp 8.8
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci mbear 5
+ci engno Last letter in serial no.
+ci b&s 3 3/4 & 3 19/64
+ci etype Dual downdraft
+ci disp 291.3
+ci trq 292@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Corinthian White
+co Enamel
+co Meadowvale Green
+co Montecarlo Red
+co Platinum
+co Raven Black
+co Skymist Blue
+co Sultana Turquoise
+co Two Tone Colors Available
+co Yosemite Yellow
+ci exha Single with crossover
+ci rad Fin and tube
+ci batt 12
+ci cool 19 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Cruise-O-Matic automatic transmission
+ci equip 352 cu. in. V8 engine
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 3.38
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.78
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.61
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 3519, 0(\w)73(\w)([\dX]{6})
+clv 12409, 1960, Ford, Thunderbird, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $3860.00
+ci series Thunderbird
+ci origin United States
+ci year 1960
+ci prod 11860
+ci make Ford
+ci weight 3897
+ci maker Ford
+ci doors 2
+ci model 76A
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 3.75
+ci oil 5
+ci fuel 20
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci width 77
+ci length 205.3
+ci wbase 113
+ci ftred 60
+ci height 54.2
+ci rtred 57
+ci cyl 8
+ci englo On engine side of dash under hood.
+ci trq 381@2800
+ci rhp 51.2
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.6
+ci engno Last letter in serial no.
+ci mbear 5
+ci disp 351.86
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci bhp 300@4600
+ci etype Helical
+ci b&s 4 & 3 1/2
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Acapulco Blue
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Briarcliffe Green
+co Corinthian White
+co Diamond Blue
+co Enamel
+co Gunpowder Gray
+co Kingston Blue
+co Meadowvale Green
+co Montecarlo Red
+co Moroccan Ivory
+co Palm Springs Rose
+co Platinum
+co Raven Black
+co Royal Burgandy
+co Skymist Blue
+co Springdale Rose
+co Sultana Turquoise
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci exha Dual
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 1gear 2.49
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.59
+ci rev 3.15
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3520, 0(\w)71(\w)([\dX]{6})
+clv 12410, 1960, Ford, Thunderbird, Gold Top
+ser 6 1 499999
+ci axle Semifloating
+ci prod 2536
+ci origin United States
+ci year 1960
+ci make Ford
+ci series Thunderbird
+ci maker Ford
+ci doors 2
+ci model 63B
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci oil 5
+ci rdiff 4.5
+ci trans 3.75
+ci tcase -NA-
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci width 77
+ci wbase 113
+ci length 205.3
+ci ftred 60
+ci height 54.2
+ci rtred 57
+ci rhp 51.2
+ci mbear 5
+ci b&s 4 & 3 1/2
+ci cyl 8
+ci englo On engine side of dash under hood.
+ci comp 9.6
+ci trq 381@2800
+ci disp 351.86
+ci bhp 300@4600
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci etype V8 Valve-in-head
+ci engno Last letter in serial no.
+ci color Exterior Colors
+co Acapulco Blue
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Briarcliffe Green
+co Corinthian White
+co Diamond Blue
+co Enamel
+co Gunpowder Gray
+co Kingston Blue
+co Meadowvale Green
+co Montecarlo Red
+co Moroccan Ivory
+co Palm Springs Rose
+co Platinum
+co Raven Black
+co Royal Burgandy
+co Skymist Blue
+co Springdale Rose
+co Sultana Turquoise
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci exha Dual
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 3.15
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.59
+ci 1gear 2.49
+ci gears 3
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 3521, 0(\w)71(\w)([\dX]{6})
+clv 12411, 1960, Ford, Thunderbird, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci prod 78447
+ci series Thunderbird
+ci origin United States
+ci msrp $3426.00
+ci year 1960
+ci make Ford
+ci weight 3799
+ci doors 2
+ci maker Ford
+ci model 63A
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci trans 3.75
+ci oil 5
+ci fuel 20
+ci rdiff 4.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci width 77
+ci length 205.3
+ci wbase 113
+ci height 54.2
+ci rtred 57
+ci ftred 60
+ci cyl 8
+ci disp 351.86
+ci trq 381@2800
+ci bhp 300@4600
+ci englo On engine side of dash under hood.
+ci comp 9.6
+ci engno Last letter in serial no.
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci b&s 4 & 3 1/2
+ci etype Helical
+ci rhp 51.2
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Acapulco Blue
+co Adriatic Green
+co All colors may not be available in all models.
+co Aquamarine
+co Beachwood Brown
+co Belmont Blue
+co Briarcliffe Green
+co Corinthian White
+co Diamond Blue
+co Enamel
+co Gunpowder Gray
+co Kingston Blue
+co Meadowvale Green
+co Montecarlo Red
+co Moroccan Ivory
+co Palm Springs Rose
+co Platinum
+co Raven Black
+co Royal Burgandy
+co Skymist Blue
+co Springdale Rose
+co Sultana Turquoise
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci exha Dual
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 1gear 2.49
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.59
+ci rev 3.15
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk

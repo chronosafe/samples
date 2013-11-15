@@ -1,0 +1,3449 @@
+cls 1056, VC56(\w)([\dX]{6})
+clv 5112, 1956, Chevrolet, Bel Air V8, Beauville Station Wagon
+ci axle Semifloating
+ci prod 14931
+ci year 1956
+ci origin United States
+ci series Bel Air V8
+ci msrp $2337.00
+ci make Chevrolet
+ci weight 3450
+ci maker Fisher
+ci doors 4
+ci model 2419
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci rdiff 4
+ci trans 2
+ci oil 4
+ci fuel 16
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.70
+ci wbase 115
+ci length 200.8
+ci width 73.7
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci englo On front right side of block.
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci b&s 3 3/4 & 3
+ci bhp 162@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci trq 257@2200
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 265.07
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 2.94
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1057, VC56(\w)([\dX]{6})
+clv 5113, 1956, Chevrolet, Bel Air V8, Convertible
+ci axle Semifloating
+ci year 1956
+ci prod 41883
+ci origin United States
+ci series Bel Air V8
+ci msrp $2207.00
+ci make Chevrolet
+ci maker Fisher
+ci weight 3325
+ci doors 2
+ci model 2434
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci rdiff 4
+ci trans 2
+ci oil 4
+ci fuel 16
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.70
+ci length 197.5
+ci wbase 115
+ci width 73.7
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci englo On front right side of block.
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci b&s 3 3/4 & 3
+ci bhp 162@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci trq 257@2200
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 265.07
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 2.94
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1058, VC56(\w)([\dX]{6})
+clv 5114, 1956, Chevrolet, Bel Air V8, Nomad Station Wagon
+ci axle Semifloating
+ci year 1956
+ci prod 8103
+ci origin United States
+ci series Bel Air V8
+ci msrp $2452.00
+ci make Chevrolet
+ci maker Fisher
+ci weight 3400
+ci doors 2
+ci model 2429
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci fuel 16
+ci rdiff 4
+ci oil 4
+ci tcase -NA-
+ci trans 2
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci wbase 115
+ci length 200.8
+ci width 73.7
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci englo On front right side of block.
+ci mbear 5
+ci cyl 8
+ci comp 8.0
+ci rhp 45
+ci b&s 3 3/4 & 3
+ci bhp 162@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci trq 257@2200
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 265.07
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 2.94
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1059, VC56(\w)([\dX]{6})
+clv 5115, 1956, Chevrolet, Bel Air V8, Sedan
+ci axle Semifloating
+ci year 1956
+ci series Bel Air V8
+ci origin United States
+ci prod 105098
+ci msrp $1912.00
+ci make Chevrolet
+ci weight 3170
+ci model 2402
+ci maker Fisher
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci trans 2
+ci oil 4
+ci fuel 16
+ci rdiff 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.70
+ci width 73.7
+ci length 197.5
+ci wbase 115
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci englo On front right side of block.
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci b&s 3 3/4 & 3
+ci bhp 162@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci trq 257@2200
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 265.07
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 2.94
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1060, VC56(\w)([\dX]{6})
+clv 5116, 1956, Chevrolet, Bel Air V8, Sedan
+ci axle Semifloating
+ci series Bel Air V8
+ci year 1956
+ci origin United States
+ci make Chevrolet
+ci msrp $1952.00
+ci prod 282476
+ci maker Fisher
+ci model 2403
+ci weight 3240
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 4
+ci rdiff 4
+ci fuel 16
+ci tcase -NA-
+ci trans 2
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.70
+ci diff Hypoid
+ci length 197.5
+ci wbase 115
+ci width 73.7
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci englo On front right side of block.
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci b&s 3 3/4 & 3
+ci bhp 162@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci trq 257@2200
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 265.07
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 2.94
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1061, VC56(\w)([\dX]{6})
+clv 5117, 1956, Chevrolet, Bel Air V8, Sport Coupe
+ci axle Semifloating
+ci year 1956
+ci series Bel Air V8
+ci origin United States
+ci msrp $2052.00
+ci prod 130778
+ci make Chevrolet
+ci weight 3200
+ci model 2454
+ci maker Fisher
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci trans 2
+ci oil 4
+ci fuel 16
+ci rdiff 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.70
+ci width 73.7
+ci length 197.5
+ci wbase 115
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci englo On front right side of block.
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci b&s 3 3/4 & 3
+ci bhp 162@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci trq 257@2200
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 265.07
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 2.94
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1062, VC56(\w)([\dX]{6})
+clv 5118, 1956, Chevrolet, Bel Air V8, Sport Sedan
+ci axle Semifloating
+ci msrp $2102.00
+ci year 1956
+ci origin United States
+ci prod 109261
+ci make Chevrolet
+ci series Bel Air V8
+ci weight 3265
+ci maker Fisher
+ci doors 4
+ci model 2413
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci tcase -NA-
+ci rdiff 4
+ci trans 2
+ci oil 4
+ci fuel 16
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.70
+ci wbase 115
+ci length 197.5
+ci width 73.7
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci englo On front right side of block.
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci b&s 3 3/4 & 3
+ci bhp 162@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci trq 257@2200
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 265.07
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 2.94
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1063, E56(\w)([\dX]{6})
+clv 5119, 1956, Chevrolet, Corvette 8, Convertible
+ci axle Semifloating
+ci msrp $3120.00
+ci origin United States
+ci series Corvette 8
+ci make Chevrolet
+ci year 1956
+ci prod 3467
+ci doors 2
+ci weight 2875
+ci maker Fisher
+ci model 2934
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 4
+ci trans 2
+ci tcase -NA-
+ci fuel 16.5
+ci oil 5
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.27
+ci height 52
+ci wbase 102
+ci length 168
+ci width 70.5
+ci rtred 58.8
+ci ftred 56.7
+ci cyl 8
+ci englo On front right side of block.
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 3/4 & 3
+ci comp 9.25
+ci trq 270@3600
+ci disp 265.07
+ci bhp 225@5200
+ci mbear 5
+ci rhp 45
+ci etype V8 Valve-in-head
+ci etype Helical
+ci etype Downdraft 4-barrel
+ci vlift Mechanical
+ci color Exterior Colors
+co Arctic Blue Metallic
+co Aztec Copper Metallic
+co Cascade Green
+co Dark Turquoise Metallic
+co Lacquer
+co Polo White
+co Shoreline Beige
+co Silver Metallic
+co Venetian Red
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci rad Cellular
+ci cool 16 Quarts
+ci exha Single
+ci equip Auxiliary hardtop for convertibles
+ci equip Power convertible top
+ci equip Powerglide automatic transmission
+ci sgear Worm & roller sector
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci rev 2.94
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1064, A56(\w)([\dX]{6})
+clv 5120, 1956, Chevrolet, One-Fifty 6, Handyman Station Wagon
+ci axle Semifloating
+ci prod 13739
+ci series One-Fifty 6
+ci msrp $1955.00
+ci make Chevrolet
+ci year 1956
+ci origin United States
+ci doors 2
+ci model 1529
+ci weight 3335
+ci maker Fisher
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2
+ci oil 5
+ci tcase -NA-
+ci rdiff 4
+ci fuel 16
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci wbase 115
+ci width 73.7
+ci length 197.5
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci bhp 140@4200
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci mbear 4
+ci rhp 30.4
+ci b&s 3 9/16 & 3 15/16
+ci disp 235.5
+ci trq 210@2400
+ci etype In line Valve-in-head
+ci etype Single downdraft
+ci etype Helical
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Cellular
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci gears 3
+ci drive Rear wheel drive
+ci rev 2.94
+ci 2gear 1.68
+ci 5gear Not applicable
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1065, A56(\w)([\dX]{6})
+clv 5121, 1956, Chevrolet, One-Fifty 6, Sedan
+ci axle Semifloating
+ci year 1956
+ci series One-Fifty 6
+ci msrp $1635.00
+ci make Chevrolet
+ci prod 82735
+ci origin United States
+ci model 1502
+ci weight 3155
+ci maker Fisher
+ci doors 2
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2
+ci fuel 16
+ci tcase -NA-
+ci rdiff 4
+ci oil 5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.70
+ci length 197.5
+ci wbase 115
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci width 73.7
+ci etype Single downdraft
+ci cyl 6
+ci comp 8.0
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 210@2400
+ci disp 235.5
+ci mbear 4
+ci b&s 3 9/16 & 3 15/16
+ci bhp 140@4200
+ci etype In line Valve-in-head
+ci rhp 30.4
+ci etype Helical
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci rad Cellular
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci gears 3
+ci drive Rear wheel drive
+ci rev 2.94
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1066, A56(\w)([\dX]{6})
+clv 5122, 1956, Chevrolet, One-Fifty 6, Sedan
+ci axle Semifloating
+ci year 1956
+ci series One-Fifty 6
+ci msrp $1675.00
+ci make Chevrolet
+ci prod 55333
+ci origin United States
+ci model 1503
+ci weight 3195
+ci maker Fisher
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci rdiff 4
+ci trans 2
+ci tcase -NA-
+ci oil 5
+ci fuel 16
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci height 62.1
+ci length 197.5
+ci width 73.7
+ci ftred 58
+ci rtred 58.9
+ci wbase 115
+ci englo On right side of block behind the distributor.
+ci cyl 6
+ci etype Single downdraft
+ci comp 8.0
+ci mbear 4
+ci bhp 140@4200
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 30.4
+ci trq 210@2400
+ci etype In line Valve-in-head
+ci b&s 3 9/16 & 3 15/16
+ci etype Helical
+ci vlift Hydraulic
+ci disp 235.5
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci rad Cellular
+ci batt 12
+ci exha Single
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 2.94
+ci gears 3
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1067, A56(\w)([\dX]{6})
+clv 5123, 1956, Chevrolet, One-Fifty 6, Utility Sedan
+ci axle Semifloating
+ci prod 10712
+ci series One-Fifty 6
+ci msrp $1550.00
+ci year 1956
+ci make Chevrolet
+ci origin United States
+ci maker Fisher
+ci model 1512
+ci weight 3120
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 2
+ci oil 5
+ci fuel 16
+ci tcase -NA-
+ci rdiff 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.70
+ci diff Hypoid
+ci wbase 115
+ci width 73.7
+ci length 197.5
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci bhp 140@4200
+ci cyl 6
+ci mbear 4
+ci comp 8.0
+ci rhp 30.4
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 210@2400
+ci etype In line Valve-in-head
+ci disp 235.5
+ci b&s 3 9/16 & 3 15/16
+ci etype Helical
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 2gear 1.68
+ci rev 2.94
+ci 3gear 1
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1068, VA56(\w)([\dX]{6})
+clv 5124, 1956, Chevrolet, One-Fifty V8, Handyman Station Wagon
+ci axle Semifloating
+ci make Chevrolet
+ci series One-Fifty V8
+ci origin United States
+ci prod 13739
+ci msrp $2047.00
+ci year 1956
+ci doors 2
+ci model 1529
+ci maker Fisher
+ci weight 3310
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 2
+ci tcase -NA-
+ci fuel 16
+ci rdiff 4
+ci oil 4
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci ftred 58
+ci wbase 115
+ci length 197.5
+ci width 73.7
+ci height 62.1
+ci rtred 58.9
+ci cyl 8
+ci b&s 3 3/4 & 3
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci trq 257@2200
+ci englo On front right side of block.
+ci vlift Hydraulic
+ci rhp 45
+ci etype Dual downdraft
+ci bhp 162@4400
+ci disp 265.07
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci rad Cellular
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci cool 16 Quarts
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.94
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1069, VA56(\w)([\dX]{6})
+clv 5125, 1956, Chevrolet, One-Fifty V8, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci prod 82735
+ci origin United States
+ci msrp $1727.00
+ci year 1956
+ci series One-Fifty V8
+ci model 1502
+ci weight 3130
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci trans 2
+ci oil 4
+ci fuel 16
+ci rdiff 4
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci wbase 115
+ci length 197.5
+ci width 73.7
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci trq 257@2200
+ci mbear 5
+ci cyl 8
+ci comp 8.0
+ci rhp 45
+ci etype V8 Valve-in-head
+ci bhp 162@4400
+ci b&s 3 3/4 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 265.07
+ci etype Helical
+ci englo On front right side of block.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci batt 12
+ci exha Single
+ci cool 16 Quarts
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci rev 2.94
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1070, VA56(\w)([\dX]{6})
+clv 5126, 1956, Chevrolet, One-Fifty V8, Sedan
+ci axle Semifloating
+ci year 1956
+ci prod 55333
+ci origin United States
+ci make Chevrolet
+ci msrp $1767.00
+ci series One-Fifty V8
+ci model 1503
+ci doors 4
+ci weight 3170
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci oil 4
+ci trans 2
+ci fuel 16
+ci rdiff 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.70
+ci diff Hypoid
+ci height 62.1
+ci width 73.7
+ci length 197.5
+ci wbase 115
+ci ftred 58
+ci rtred 58.9
+ci disp 265.07
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci etype V8 Valve-in-head
+ci bhp 162@4400
+ci b&s 3 3/4 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 257@2200
+ci etype Helical
+ci englo On front right side of block.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci cool 16 Quarts
+ci batt 12
+ci exha Single
+ci rad Cellular
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent coil springs
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.94
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1071, VA56(\w)([\dX]{6})
+clv 5127, 1956, Chevrolet, One-Fifty V8, Utility Sedan
+ci axle Semifloating
+ci msrp $1642.00
+ci series One-Fifty V8
+ci origin United States
+ci year 1956
+ci make Chevrolet
+ci prod 10712
+ci maker Fisher
+ci weight 3095
+ci model 1512
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 16
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci trans 2
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.70
+ci width 73.7
+ci length 197.5
+ci wbase 115
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci trq 257@2200
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci etype V8 Valve-in-head
+ci bhp 162@4400
+ci b&s 3 3/4 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 265.07
+ci etype Helical
+ci englo On front right side of block.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci batt 12
+ci exha Single
+ci cool 16 Quarts
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci rev 2.94
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1072, B56(\w)([\dX]{6})
+clv 5128, 1956, Chevrolet, Two-Ten 6, Beauville Station Wagon
+ci axle Semifloating
+ci prod 19394
+ci msrp $2120.00
+ci series Two-Ten 6
+ci make Chevrolet
+ci year 1956
+ci origin United States
+ci pass 9
+ci maker Fisher
+ci model 2119
+ci weight 3450
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 2
+ci tcase -NA-
+ci rdiff 4
+ci fuel 16
+ci oil 5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.70
+ci diff Hypoid
+ci ftred 58
+ci length 200.8
+ci wbase 115
+ci rtred 58.9
+ci height 62.1
+ci width 73.7
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci comp 8.0
+ci trq 210@2400
+ci disp 235.5
+ci etype Single downdraft
+ci mbear 4
+ci b&s 3 9/16 & 3 15/16
+ci bhp 140@4200
+ci etype In line Valve-in-head
+ci rhp 30.4
+ci etype Helical
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ftype Regular
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci batt 12
+ci rad Cellular
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci rev 2.94
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1073, B56(\w)([\dX]{6})
+clv 5129, 1956, Chevrolet, Two-Ten 6, Delray Coupe
+ci axle Semifloating
+ci year 1956
+ci msrp $1770.00
+ci series Two-Ten 6
+ci make Chevrolet
+ci prod 56882
+ci origin United States
+ci maker Fisher
+ci weight 3185
+ci model 2124
+ci doors 2
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2
+ci tcase -NA-
+ci fuel 16
+ci rdiff 4
+ci oil 5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.70
+ci length 197.5
+ci wbase 115
+ci width 73.7
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci etype Single downdraft
+ci comp 8.0
+ci trq 210@2400
+ci disp 235.5
+ci mbear 4
+ci b&s 3 9/16 & 3 15/16
+ci bhp 140@4200
+ci etype In line Valve-in-head
+ci rhp 30.4
+ci etype Helical
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ftype Regular
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci rad Cellular
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.94
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1074, B56(\w)([\dX]{6})
+clv 5130, 1956, Chevrolet, Two-Ten 6, Handyman Station Wagon
+ci axle Semifloating
+ci year 1956
+ci msrp $1995.00
+ci series Two-Ten 6
+ci make Chevrolet
+ci prod 22381
+ci origin United States
+ci model 2129
+ci maker Fisher
+ci doors 2
+ci weight 3355
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 16
+ci oil 5
+ci rdiff 4
+ci tcase -NA-
+ci trans 2
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 197.5
+ci width 73.7
+ci wbase 115
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 210@2400
+ci comp 8.0
+ci mbear 4
+ci bhp 140@4200
+ci rhp 30.4
+ci b&s 3 9/16 & 3 15/16
+ci disp 235.5
+ci etype In line Valve-in-head
+ci etype Single downdraft
+ci etype Helical
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 16 Quarts
+ci rad Cellular
+ci exha Single
+ci batt 12
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 2.94
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1075, B56(\w)([\dX]{6})
+clv 5131, 1956, Chevrolet, Two-Ten 6, Sedan
+ci axle Semifloating
+ci year 1956
+ci msrp $1715.00
+ci series Two-Ten 6
+ci make Chevrolet
+ci prod 206434
+ci origin United States
+ci model 2102
+ci maker Fisher
+ci doors 2
+ci weight 3185
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 16
+ci trans 2
+ci oil 5
+ci tcase -NA-
+ci rdiff 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.70
+ci diff Hypoid
+ci length 197.5
+ci width 73.7
+ci wbase 115
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci comp 8.0
+ci rhp 30.4
+ci bhp 140@4200
+ci b&s 3 9/16 & 3 15/16
+ci etype Single downdraft
+ci disp 235.5
+ci etype In line Valve-in-head
+ci trq 210@2400
+ci etype Helical
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 16 Quarts
+ci rad Cellular
+ci exha Single
+ci batt 12
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 2.94
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1076, B56(\w)([\dX]{6})
+clv 5132, 1956, Chevrolet, Two-Ten 6, Sedan
+ci axle Semifloating
+ci year 1956
+ci msrp $1755.00
+ci series Two-Ten 6
+ci make Chevrolet
+ci prod 298935
+ci origin United States
+ci maker Fisher
+ci model 2103
+ci weight 3220
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 16
+ci rdiff 4
+ci tcase -NA-
+ci trans 2
+ci oil 5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.70
+ci diff Hypoid
+ci length 197.5
+ci width 73.7
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci wbase 115
+ci englo On right side of block behind the distributor.
+ci cyl 6
+ci mbear 4
+ci comp 8.0
+ci rhp 30.4
+ci etype Single downdraft
+ci bhp 140@4200
+ci b&s 3 9/16 & 3 15/16
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 210@2400
+ci etype In line Valve-in-head
+ci etype Helical
+ci vlift Hydraulic
+ci disp 235.5
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci rad Cellular
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.68
+ci gears 3
+ci drive Rear wheel drive
+ci rev 2.94
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1077, B56(\w)([\dX]{6})
+clv 5133, 1956, Chevrolet, Two-Ten 6, Sport Coupe
+ci axle Semifloating
+ci prod 19079
+ci msrp $1855.00
+ci series Two-Ten 6
+ci make Chevrolet
+ci year 1956
+ci origin United States
+ci model 2154
+ci maker Fisher
+ci doors 2
+ci weight 3225
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci fuel 16
+ci trans 2
+ci rdiff 4
+ci tcase -NA-
+ci oil 5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.70
+ci length 197.5
+ci wbase 115
+ci width 73.7
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci comp 8.0
+ci etype Single downdraft
+ci bhp 140@4200
+ci rhp 30.4
+ci b&s 3 9/16 & 3 15/16
+ci disp 235.5
+ci etype In line Valve-in-head
+ci trq 210@2400
+ci etype Helical
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ftype Regular
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci batt 12
+ci rad Cellular
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci rev 2.94
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.68
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1078, B56(\w)([\dX]{6})
+clv 5134, 1956, Chevrolet, Two-Ten 6, Sport Sedan
+ci axle Semifloating
+ci year 1956
+ci msrp $1905.00
+ci series Two-Ten 6
+ci make Chevrolet
+ci prod 21131
+ci origin United States
+ci maker Fisher
+ci weight 3285
+ci model 2113
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 16
+ci rdiff 4
+ci tcase -NA-
+ci trans 2
+ci oil 5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.70
+ci diff Hypoid
+ci length 197.5
+ci width 73.7
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci wbase 115
+ci englo On right side of block behind the distributor.
+ci cyl 6
+ci mbear 4
+ci comp 8.0
+ci rhp 30.4
+ci etype Single downdraft
+ci bhp 140@4200
+ci disp 235.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype In line Valve-in-head
+ci trq 210@2400
+ci etype Helical
+ci vlift Hydraulic
+ci b&s 3 9/16 & 3 15/16
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci batt 12
+ci cool 16 Quarts
+ci rad Cellular
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci rev 2.94
+ci gears 3
+ci 2gear 1.68
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1079, B56(\w)([\dX]{6})
+clv 5135, 1956, Chevrolet, Two-Ten 6, Townsman Station Wagon
+ci axle Semifloating
+ci year 1956
+ci msrp $2040.00
+ci series Two-Ten 6
+ci prod 114646
+ci make Chevrolet
+ci origin United States
+ci maker Fisher
+ci weight 3405
+ci model 2109
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci oil 5
+ci trans 2
+ci fuel 16
+ci tcase -NA-
+ci rdiff 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.70
+ci diff Hypoid
+ci wbase 115
+ci width 73.7
+ci length 200.8
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci bhp 140@4200
+ci cyl 6
+ci mbear 4
+ci comp 8.0
+ci rhp 30.4
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 210@2400
+ci etype In line Valve-in-head
+ci disp 235.5
+ci b&s 3 9/16 & 3 15/16
+ci etype Helical
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci cool 16 Quarts
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci rev 2.94
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door hinge post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1080, VB56(\w)([\dX]{6})
+clv 5136, 1956, Chevrolet, Two-Ten V8, Beauville Station Wagon
+ci axle Semifloating
+ci year 1956
+ci series Two-Ten V8
+ci origin United States
+ci msrp $2212.00
+ci make Chevrolet
+ci prod 19394
+ci maker Fisher
+ci doors 4
+ci pass 9
+ci weight 3425
+ci model 2119
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci fuel 16
+ci tcase -NA-
+ci rdiff 4
+ci trans 2
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.70
+ci wbase 115
+ci length 200.8
+ci width 73.7
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci englo On front right side of block.
+ci mbear 5
+ci cyl 8
+ci comp 8.0
+ci rhp 45
+ci bhp 162@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 3/4 & 3
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci trq 257@2200
+ci disp 265.07
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci batt 12
+ci ftype Regular
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 2.94
+ci 2gear 1.68
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1081, VB56(\w)([\dX]{6})
+clv 5137, 1956, Chevrolet, Two-Ten V8, Delray Coupe
+ci axle Semifloating
+ci prod 56882
+ci series Two-Ten V8
+ci origin United States
+ci msrp $1862.00
+ci year 1956
+ci make Chevrolet
+ci maker Fisher
+ci weight 3160
+ci doors 2
+ci model 2124
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 16
+ci trans 2
+ci rdiff 4
+ci oil 4
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 197.5
+ci width 73.7
+ci height 62.1
+ci wbase 115
+ci ftred 58
+ci rtred 58.9
+ci trq 257@2200
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci etype V8 Valve-in-head
+ci bhp 162@4400
+ci b&s 3 3/4 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 265.07
+ci etype Helical
+ci englo On front right side of block.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.94
+ci gears 3
+ci vloc On plate on left front door hinge post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1082, VB56(\w)([\dX]{6})
+clv 5138, 1956, Chevrolet, Two-Ten V8, Handyman Station Wagon
+ci axle Semifloating
+ci msrp $2087.00
+ci series Two-Ten V8
+ci origin United States
+ci make Chevrolet
+ci year 1956
+ci prod 22381
+ci maker Fisher
+ci weight 3330
+ci doors 2
+ci model 2129
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 16
+ci oil 4
+ci trans 2
+ci rdiff 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.70
+ci diff Hypoid
+ci length 197.5
+ci wbase 115
+ci width 73.7
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci cyl 8
+ci mbear 5
+ci rhp 45
+ci etype V8 Valve-in-head
+ci comp 8.0
+ci bhp 162@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 3/4 & 3
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci trq 257@2200
+ci disp 265.07
+ci etype Helical
+ci englo On front right side of block.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci batt 12
+ci ftype Regular
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 2.94
+ci 2gear 1.68
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1083, VB56(\w)([\dX]{6})
+clv 5139, 1956, Chevrolet, Two-Ten V8, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci series Two-Ten V8
+ci origin United States
+ci msrp $1807.00
+ci year 1956
+ci prod 206434
+ci weight 3160
+ci maker Fisher
+ci model 2102
+ci doors 2
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci trans 2
+ci oil 4
+ci fuel 16
+ci tcase -NA-
+ci rdiff 4
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci length 197.5
+ci wbase 115
+ci width 73.7
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci cyl 8
+ci mbear 5
+ci rhp 45
+ci etype V8 Valve-in-head
+ci comp 8.0
+ci bhp 162@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 3/4 & 3
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci trq 257@2200
+ci disp 265.07
+ci etype Helical
+ci englo On front right side of block.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci batt 12
+ci ftype Regular
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 2.94
+ci 2gear 1.68
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1084, VB56(\w)([\dX]{6})
+clv 5140, 1956, Chevrolet, Two-Ten V8, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci series Two-Ten V8
+ci origin United States
+ci year 1956
+ci msrp $1847.00
+ci prod 298935
+ci doors 4
+ci model 2103
+ci maker Fisher
+ci weight 3195
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2
+ci oil 4
+ci rdiff 4
+ci fuel 16
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.70
+ci diff Hypoid
+ci wbase 115
+ci length 197.5
+ci width 73.7
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci disp 265.07
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci etype V8 Valve-in-head
+ci bhp 162@4400
+ci b&s 3 3/4 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 257@2200
+ci etype Helical
+ci englo On front right side of block.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent coil springs
+ci 2gear 1.68
+ci rev 2.94
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1085, VB56(\w)([\dX]{6})
+clv 5141, 1956, Chevrolet, Two-Ten V8, Sport Coupe
+ci axle Semifloating
+ci year 1956
+ci series Two-Ten V8
+ci origin United States
+ci msrp $1947.00
+ci prod 19079
+ci make Chevrolet
+ci maker Fisher
+ci weight 3200
+ci doors 4
+ci model 2154
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2
+ci fuel 16
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.70
+ci wbase 115
+ci length 197.5
+ci width 73.7
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci trq 257@2200
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci etype V8 Valve-in-head
+ci bhp 162@4400
+ci b&s 3 3/4 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 265.07
+ci etype Helical
+ci englo On front right side of block.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.94
+ci gears 3
+ci vloc On plate on left front door hinge post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1086, VB56(\w)([\dX]{6})
+clv 5142, 1956, Chevrolet, Two-Ten V8, Sport Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci series Two-Ten V8
+ci year 1956
+ci origin United States
+ci prod 21131
+ci msrp $1997.00
+ci weight 3260
+ci maker Fisher
+ci model 2113
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 16
+ci trans 2
+ci oil 4
+ci tcase -NA-
+ci rdiff 4
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci length 197.5
+ci wbase 115
+ci width 73.7
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci trq 257@2200
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci etype V8 Valve-in-head
+ci bhp 162@4400
+ci b&s 3 3/4 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 265.07
+ci etype Helical
+ci englo On front right side of block.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.94
+ci gears 3
+ci vloc On plate on left front door hinge post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1087, VB56(\w)([\dX]{6})
+clv 5143, 1956, Chevrolet, Two-Ten V8, Townsman Station Wagon
+ci axle Semifloating
+ci prod 114646
+ci series Two-Ten V8
+ci msrp $2132.00
+ci year 1956
+ci origin United States
+ci make Chevrolet
+ci maker Fisher
+ci weight 3380
+ci doors 4
+ci model 2109
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci trans 2
+ci fuel 16
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.70
+ci wbase 115
+ci length 200.8
+ci width 73.7
+ci height 62.1
+ci ftred 58
+ci rtred 58.9
+ci trq 257@2200
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci etype V8 Valve-in-head
+ci bhp 162@4400
+ci b&s 3 3/4 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 265.07
+ci etype Helical
+ci englo On front right side of block.
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.94
+ci gears 3
+ci vloc On plate on left front door hinge post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1049, C56(\w)([\dX]{6})
+clv 5105, 1956, Chevrolet, Bel Air 6, Beauville Station Wagon
+ci axle Semifloating
+ci series Bel Air 6
+ci make Chevrolet
+ci msrp $2245.00
+ci prod 14931
+ci year 1956
+ci origin United States
+ci model 2419
+ci weight 3475
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 16
+ci oil 5
+ci tcase -NA-
+ci trans 2
+ci rdiff 4
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 200.8
+ci width 73.7
+ci wbase 115
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci bhp 140@4200
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci rhp 30.4
+ci b&s 3 9/16 & 3 15/16
+ci englo On right side of block behind the distributor.
+ci vlift Hydraulic
+ci disp 235.5
+ci etype In line Valve-in-head
+ci trq 210@2400
+ci etype Single downdraft
+ci etype Helical
+ci comp 8.0
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci rev 2.94
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1050, C56(\w)([\dX]{6})
+clv 5106, 1956, Chevrolet, Bel Air 6, Convertible
+ci axle Semifloating
+ci series Bel Air 6
+ci make Chevrolet
+ci msrp $2115.00
+ci year 1956
+ci prod 41883
+ci origin United States
+ci model 2434
+ci maker Fisher
+ci weight 3350
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 16
+ci rdiff 4
+ci oil 5
+ci trans 2
+ci tcase -NA-
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci wbase 115
+ci width 73.7
+ci length 197.5
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 210@2400
+ci mbear 4
+ci rhp 30.4
+ci bhp 140@4200
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci b&s 3 9/16 & 3 15/16
+ci etype In line Valve-in-head
+ci disp 235.5
+ci etype Single downdraft
+ci etype Helical
+ci comp 8.0
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci rev 2.94
+ci 2gear 1.68
+ci 3gear 1
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1051, C56(\w)([\dX]{6})
+clv 5107, 1956, Chevrolet, Bel Air 6, Nomad Station Wagon
+ci axle Semifloating
+ci series Bel Air 6
+ci make Chevrolet
+ci msrp $2360.00
+ci prod 8103
+ci year 1956
+ci origin United States
+ci model 2429
+ci weight 3425
+ci doors 2
+ci maker Fisher
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2
+ci oil 5
+ci tcase -NA-
+ci rdiff 4
+ci fuel 16
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci wbase 115
+ci length 200.8
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci width 73.7
+ci cyl 6
+ci disp 235.5
+ci comp 8.0
+ci etype Single downdraft
+ci mbear 4
+ci trq 210@2400
+ci b&s 3 9/16 & 3 15/16
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On right side of block behind the distributor.
+ci bhp 140@4200
+ci etype In line Valve-in-head
+ci rhp 30.4
+ci vlift Hydraulic
+ci etype Helical
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci rad Cellular
+ci batt 12
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci rev 2.94
+ci 2gear 1.68
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1052, C56(\w)([\dX]{6})
+clv 5108, 1956, Chevrolet, Bel Air 6, Sedan
+ci axle Semifloating
+ci prod 105098
+ci make Chevrolet
+ci msrp $1820.00
+ci series Bel Air 6
+ci year 1956
+ci origin United States
+ci doors 2
+ci weight 3195
+ci model 2402
+ci maker Fisher
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 16
+ci oil 5
+ci rdiff 4
+ci trans 2
+ci tcase -NA-
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci width 73.7
+ci wbase 115
+ci length 197.5
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci bhp 140@4200
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci mbear 4
+ci rhp 30.4
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci b&s 3 9/16 & 3 15/16
+ci etype In line Valve-in-head
+ci trq 210@2400
+ci etype Single downdraft
+ci etype Helical
+ci disp 235.5
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci rev 2.94
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1053, C56(\w)([\dX]{6})
+clv 5109, 1956, Chevrolet, Bel Air 6, Sedan
+ci axle Semifloating
+ci series Bel Air 6
+ci make Chevrolet
+ci msrp $1860.00
+ci year 1956
+ci prod 282476
+ci origin United States
+ci model 2403
+ci maker Fisher
+ci weight 3235
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 16
+ci rdiff 4
+ci oil 5
+ci trans 2
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.70
+ci diff Hypoid
+ci length 197.5
+ci width 73.7
+ci wbase 115
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 210@2400
+ci mbear 4
+ci rhp 30.4
+ci bhp 140@4200
+ci englo On right side of block behind the distributor.
+ci vlift Hydraulic
+ci b&s 3 9/16 & 3 15/16
+ci etype In line Valve-in-head
+ci disp 235.5
+ci etype Single downdraft
+ci etype Helical
+ci comp 8.0
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.94
+ci 2gear 1.68
+ci 3gear 1
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1054, C56(\w)([\dX]{6})
+clv 5110, 1956, Chevrolet, Bel Air 6, Sport Coupe
+ci axle Semifloating
+ci series Bel Air 6
+ci make Chevrolet
+ci msrp $1960.00
+ci prod 130778
+ci year 1956
+ci origin United States
+ci doors 2
+ci weight 3225
+ci model 2454
+ci maker Fisher
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 16
+ci oil 5
+ci rdiff 4
+ci trans 2
+ci tcase -NA-
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci width 73.7
+ci wbase 115
+ci length 197.5
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci bhp 140@4200
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci mbear 4
+ci rhp 30.4
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci b&s 3 9/16 & 3 15/16
+ci etype In line Valve-in-head
+ci trq 210@2400
+ci etype Single downdraft
+ci etype Helical
+ci disp 235.5
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci rev 2.94
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1055, C56(\w)([\dX]{6})
+clv 5111, 1956, Chevrolet, Bel Air 6, Sport Sedan
+ci axle Semifloating
+ci prod 109261
+ci make Chevrolet
+ci msrp $2010.00
+ci series Bel Air 6
+ci year 1956
+ci origin United States
+ci model 2413
+ci weight 3290
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 16
+ci oil 5
+ci tcase -NA-
+ci trans 2
+ci rdiff 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.70
+ci diff Hypoid
+ci width 73.7
+ci length 197.5
+ci wbase 115
+ci ftred 58
+ci rtred 58.9
+ci height 62.1
+ci bhp 140@4200
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci rhp 30.4
+ci b&s 3 9/16 & 3 15/16
+ci englo On right side of block behind the distributor.
+ci vlift Hydraulic
+ci disp 235.5
+ci etype In line Valve-in-head
+ci trq 210@2400
+ci etype Single downdraft
+ci etype Helical
+ci comp 8.0
+ci color Exterior Colors
+co Adobe Beige
+co Calypso Cream
+co Crocus Yellow
+co Dawn Gray Metallic
+co Dune Beige
+co Dusk Plum Metallic
+co Grecial Gold Metallic
+co Harbor Blue Metallic
+co Imperial Ivory
+co Inca Silver Metallic
+co India Ivory
+co Lacquer
+co Laurel Green Metallic
+co Laurel Green No. 2 Metallic
+co Matador Red
+co Nassau Blue
+co Pinecrest Green
+co Sherwood Green Metalli-Chrome
+co Sierra Gold Metalli-Chrome
+co Tropical Turquoise
+co Twilight Turquoise
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci rev 2.94
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on left front door hinge post.
+ci sloc Trunk
+ci tsize 6.7 x 15

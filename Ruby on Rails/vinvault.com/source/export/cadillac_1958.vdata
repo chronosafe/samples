@@ -1,0 +1,1180 @@
+cls 785, 58M([\dX]{6})
+clv 3883, 1958, Cadillac, 60, Sedan
+ci axle Semifloating
+ci make Cadillac
+ci msrp $5700.00
+ci origin United States
+ci prod 12900
+ci year 1958
+ci series 60
+ci maker Fleetwood
+ci weight 4930
+ci model 6039
+ci svc Power hydraulic
+ci bsize 12
+ci ebrake Rear service brakes
+ci fuel 20
+ci trans 23
+ci oil 5
+ci tcase -NA-
+ci rdiff 5
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.07
+ci length 225.3
+ci height 59.1
+ci wbase 133
+ci rtred 61
+ci width 80
+ci etype V8 Valve-in-head
+ci cyl 8
+ci englo Boss on front face of right cylinder block.
+ci rhp 51.2
+ci mbear 5
+ci comp 10.25
+ci engno Same as VIN Serial Number.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 310@4800
+ci disp 364.42
+ci trq 405@3100
+ci vlift Hydraulic
+ci etype Hydra-Matic automatic
+ci b&s 4 & 3 5/8
+ci color Exterior Colors
+co Acadian Green
+co Alamo Beige Metallic
+co All colors may not be available in all models.
+co Alpine White
+co Argyle Blue Metallic
+co Buckskin
+co Calcutta Cream Metallic
+co Camelot Gray Metallic
+co Chamonix White
+co Cheviot Gray Metallic
+co Cobalt Blue Metallic
+co Copenhagen Blue  Metallic
+co Dakota Red
+co Daphne Blue
+co Deauville Gray Metallic
+co Desert Bronze Metallic
+co Fairfax Blue Metallic
+co Glen Eagles Green Metallic
+co Jamaican Green Metallic
+co Kenya Beige Metallic
+co Lacquer
+co Lake Placid Blue Metallic
+co Laurentian Green Metallic
+co Manila Cream
+co Meridian Taupe Metallic
+co Nairobi Pearl Metallic
+co Olympic White
+co Peacock Metallic
+co Plantation Green Metallic
+co Prestwick Gray Metallic
+co Rajah Silver Metallic
+co Regent Green Metalli-Chrome
+co Sandalwood
+co Somerset Blue Metallic
+co Tahitian Coral Metallic
+co Turquoise
+co Two Tone Colors Available
+co Versailles Green Metallic
+co Wimbledon Gray Metallic
+ci cool 19.6 Quarts
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci exha Dual
+ci ign Distributor and coil
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc Front of left frame side bar.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 786, 58F([\dX]{6})
+clv 3884, 1958, Cadillac, 62, Convertible
+ci axle Semifloating
+ci series 62
+ci msrp $5000.00
+ci origin United States
+ci make Cadillac
+ci year 1958
+ci prod 7825
+ci doors 2
+ci model 6267
+ci maker Fisher
+ci weight 4845
+ci svc Power hydraulic
+ci bsize 12
+ci ebrake Rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci trans 23
+ci oil 5
+ci rdiff 5
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci length 216.8
+ci rtred 61
+ci height 59.1
+ci wbase 129
+ci width 80
+ci etype V8 Valve-in-head
+ci cyl 8
+ci englo Boss on front face of right cylinder block.
+ci rhp 51.2
+ci mbear 5
+ci comp 10.25
+ci engno Same as VIN Serial Number.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 310@4800
+ci disp 364.42
+ci trq 405@3100
+ci vlift Hydraulic
+ci etype Hydra-Matic automatic
+ci b&s 4 & 3 5/8
+ci color Exterior Colors
+co Acadian Green
+co Alamo Beige Metallic
+co All colors may not be available in all models.
+co Alpine White
+co Argyle Blue Metallic
+co Buckskin
+co Calcutta Cream Metallic
+co Camelot Gray Metallic
+co Chamonix White
+co Cheviot Gray Metallic
+co Cobalt Blue Metallic
+co Copenhagen Blue  Metallic
+co Dakota Red
+co Daphne Blue
+co Deauville Gray Metallic
+co Desert Bronze Metallic
+co Fairfax Blue Metallic
+co Glen Eagles Green Metallic
+co Jamaican Green Metallic
+co Kenya Beige Metallic
+co Lacquer
+co Lake Placid Blue Metallic
+co Laurentian Green Metallic
+co Manila Cream
+co Meridian Taupe Metallic
+co Nairobi Pearl Metallic
+co Olympic White
+co Peacock Metallic
+co Plantation Green Metallic
+co Prestwick Gray Metallic
+co Rajah Silver Metallic
+co Regent Green Metalli-Chrome
+co Sandalwood
+co Somerset Blue Metallic
+co Tahitian Coral Metallic
+co Turquoise
+co Two Tone Colors Available
+co Versailles Green Metallic
+co Wimbledon Gray Metallic
+ci cool 19.6 Quarts
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci exha Dual
+ci ign Distributor and coil
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc Front of left frame side bar.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 787, 58G([\dX]{6})
+clv 3885, 1958, Cadillac, 62, Coupe
+ci axle Semifloating
+ci series 62
+ci msrp $4375.00
+ci origin United States
+ci make Cadillac
+ci year 1958
+ci prod 18736
+ci weight 4630
+ci doors 2
+ci maker Fisher
+ci model 6237
+ci svc Power hydraulic
+ci bsize 12
+ci ebrake Rear service brakes
+ci rdiff 5
+ci tcase -NA-
+ci oil 5
+ci fuel 20
+ci trans 23
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci wbase 129
+ci rtred 61
+ci length 216.8
+ci height 59.1
+ci width 80
+ci etype V8 Valve-in-head
+ci cyl 8
+ci englo Boss on front face of right cylinder block.
+ci rhp 51.2
+ci mbear 5
+ci comp 10.25
+ci engno Same as VIN Serial Number.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 310@4800
+ci disp 364.42
+ci trq 405@3100
+ci vlift Hydraulic
+ci etype Hydra-Matic automatic
+ci b&s 4 & 3 5/8
+ci color Exterior Colors
+co Acadian Green
+co Alamo Beige Metallic
+co All colors may not be available in all models.
+co Alpine White
+co Argyle Blue Metallic
+co Buckskin
+co Calcutta Cream Metallic
+co Camelot Gray Metallic
+co Chamonix White
+co Cheviot Gray Metallic
+co Cobalt Blue Metallic
+co Copenhagen Blue  Metallic
+co Dakota Red
+co Daphne Blue
+co Deauville Gray Metallic
+co Desert Bronze Metallic
+co Fairfax Blue Metallic
+co Glen Eagles Green Metallic
+co Jamaican Green Metallic
+co Kenya Beige Metallic
+co Lacquer
+co Lake Placid Blue Metallic
+co Laurentian Green Metallic
+co Manila Cream
+co Meridian Taupe Metallic
+co Nairobi Pearl Metallic
+co Olympic White
+co Peacock Metallic
+co Plantation Green Metallic
+co Prestwick Gray Metallic
+co Rajah Silver Metallic
+co Regent Green Metalli-Chrome
+co Sandalwood
+co Somerset Blue Metallic
+co Tahitian Coral Metallic
+co Turquoise
+co Two Tone Colors Available
+co Versailles Green Metallic
+co Wimbledon Gray Metallic
+ci cool 19.6 Quarts
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci exha Dual
+ci ign Distributor and coil
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc Front of left frame side bar.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 788, 58J([\dX]{6})
+clv 3886, 1958, Cadillac, 62, Coupe de Ville
+ci axle Semifloating
+ci series 62
+ci msrp $4810.00
+ci origin United States
+ci make Cadillac
+ci year 1958
+ci prod 18414
+ci weight 4705
+ci doors 2
+ci maker Fisher
+ci model 6237D
+ci svc Power hydraulic
+ci bsize 12
+ci ebrake Rear service brakes
+ci rdiff 5
+ci tcase -NA-
+ci oil 5
+ci fuel 20
+ci trans 23
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci wbase 129
+ci rtred 61
+ci length 216.8
+ci height 59.1
+ci width 80
+ci etype V8 Valve-in-head
+ci cyl 8
+ci englo Boss on front face of right cylinder block.
+ci rhp 51.2
+ci mbear 5
+ci comp 10.25
+ci engno Same as VIN Serial Number.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 310@4800
+ci disp 364.42
+ci trq 405@3100
+ci vlift Hydraulic
+ci etype Hydra-Matic automatic
+ci b&s 4 & 3 5/8
+ci color Exterior Colors
+co Acadian Green
+co Alamo Beige Metallic
+co All colors may not be available in all models.
+co Alpine White
+co Argyle Blue Metallic
+co Buckskin
+co Calcutta Cream Metallic
+co Camelot Gray Metallic
+co Chamonix White
+co Cheviot Gray Metallic
+co Cobalt Blue Metallic
+co Copenhagen Blue  Metallic
+co Dakota Red
+co Daphne Blue
+co Deauville Gray Metallic
+co Desert Bronze Metallic
+co Fairfax Blue Metallic
+co Glen Eagles Green Metallic
+co Jamaican Green Metallic
+co Kenya Beige Metallic
+co Lacquer
+co Lake Placid Blue Metallic
+co Laurentian Green Metallic
+co Manila Cream
+co Meridian Taupe Metallic
+co Nairobi Pearl Metallic
+co Olympic White
+co Peacock Metallic
+co Plantation Green Metallic
+co Prestwick Gray Metallic
+co Rajah Silver Metallic
+co Regent Green Metalli-Chrome
+co Sandalwood
+co Somerset Blue Metallic
+co Tahitian Coral Metallic
+co Turquoise
+co Two Tone Colors Available
+co Versailles Green Metallic
+co Wimbledon Gray Metallic
+ci cool 19.6 Quarts
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci exha Dual
+ci ign Distributor and coil
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc Front of left frame side bar.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 789, 58E([\dX]{6})
+clv 3887, 1958, Cadillac, 62, Eldorado Biarritz Convertible
+ci axle Semifloating
+ci make Cadillac
+ci msrp $6910.00
+ci origin United States
+ci year 1958
+ci series 62
+ci prod 815
+ci doors 2
+ci weight 5070
+ci model 6267S
+ci maker Fisher
+ci svc Power hydraulic
+ci ebrake Rear service brakes
+ci bsize 12
+ci oil 5
+ci trans 23
+ci tcase -NA-
+ci fuel 20
+ci rdiff 5
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.07
+ci height 59.1
+ci rtred 61
+ci length 216.8
+ci wbase 129
+ci width 80
+ci disp 364.42
+ci cyl 8
+ci englo Boss on front face of right cylinder block.
+ci b&s 4 & 3 5/8
+ci etype V8 Valve-in-head
+ci comp 10.25
+ci engno Same as VIN Serial Number.
+ci rhp 51.2
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci bhp 310@4800
+ci vlift Hydraulic
+ci etype Hydra-Matic automatic
+ci trq 405@3100
+ci color Exterior Colors
+co Acadian Green
+co Alamo Beige Metallic
+co All colors may not be available in all models.
+co Alpine White
+co Argyle Blue Metallic
+co Buckskin
+co Calcutta Cream Metallic
+co Camelot Gray Metallic
+co Chamonix White
+co Cheviot Gray Metallic
+co Cobalt Blue Metallic
+co Copenhagen Blue  Metallic
+co Dakota Red
+co Daphne Blue
+co Deauville Gray Metallic
+co Desert Bronze Metallic
+co Fairfax Blue Metallic
+co Glen Eagles Green Metallic
+co Jamaican Green Metallic
+co Kenya Beige Metallic
+co Lacquer
+co Lake Placid Blue Metallic
+co Laurentian Green Metallic
+co Manila Cream
+co Meridian Taupe Metallic
+co Nairobi Pearl Metallic
+co Olympic White
+co Peacock Metallic
+co Plantation Green Metallic
+co Prestwick Gray Metallic
+co Rajah Silver Metallic
+co Regent Green Metalli-Chrome
+co Sandalwood
+co Somerset Blue Metallic
+co Tahitian Coral Metallic
+co Turquoise
+co Two Tone Colors Available
+co Versailles Green Metallic
+co Wimbledon Gray Metallic
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 19.6 Quarts
+ci batt 12
+ci rad Tube and center
+ci exha Dual
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc Front of left frame side bar.
+ci tsize 8 x 15
+ci sloc Trunk
+cls 790, 58H([\dX]{6})
+clv 3888, 1958, Cadillac, 62, Eldorado Seville Coupe
+ci axle Semifloating
+ci make Cadillac
+ci msrp $6910.00
+ci origin United States
+ci year 1958
+ci series 62
+ci prod 855
+ci doors 2
+ci weight 4910
+ci model 6237S
+ci maker Fisher
+ci svc Power hydraulic
+ci ebrake Rear service brakes
+ci bsize 12
+ci rdiff 5
+ci trans 23
+ci tcase -NA-
+ci fuel 20
+ci oil 5
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.07
+ci height 59.1
+ci rtred 61
+ci length 216.8
+ci wbase 129
+ci width 80
+ci disp 364.42
+ci cyl 8
+ci englo Boss on front face of right cylinder block.
+ci b&s 4 & 3 5/8
+ci etype V8 Valve-in-head
+ci comp 10.25
+ci engno Same as VIN Serial Number.
+ci rhp 51.2
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci bhp 310@4800
+ci vlift Hydraulic
+ci etype Hydra-Matic automatic
+ci trq 405@3100
+ci color Exterior Colors
+co Acadian Green
+co Alamo Beige Metallic
+co All colors may not be available in all models.
+co Alpine White
+co Argyle Blue Metallic
+co Buckskin
+co Calcutta Cream Metallic
+co Camelot Gray Metallic
+co Chamonix White
+co Cheviot Gray Metallic
+co Cobalt Blue Metallic
+co Copenhagen Blue  Metallic
+co Dakota Red
+co Daphne Blue
+co Deauville Gray Metallic
+co Desert Bronze Metallic
+co Fairfax Blue Metallic
+co Glen Eagles Green Metallic
+co Jamaican Green Metallic
+co Kenya Beige Metallic
+co Lacquer
+co Lake Placid Blue Metallic
+co Laurentian Green Metallic
+co Manila Cream
+co Meridian Taupe Metallic
+co Nairobi Pearl Metallic
+co Olympic White
+co Peacock Metallic
+co Plantation Green Metallic
+co Prestwick Gray Metallic
+co Rajah Silver Metallic
+co Regent Green Metalli-Chrome
+co Sandalwood
+co Somerset Blue Metallic
+co Tahitian Coral Metallic
+co Turquoise
+co Two Tone Colors Available
+co Versailles Green Metallic
+co Wimbledon Gray Metallic
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 19.6 Quarts
+ci batt 12
+ci rad Tube and center
+ci exha Dual
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc Front of left frame side bar.
+ci tsize 8 x 15
+ci sloc Trunk
+cls 791, 58E([\dX]{6})
+clv 3889, 1958, Cadillac, 62, Extended Sedan
+ci axle Semifloating
+ci make Cadillac
+ci msrp $4650.00
+ci series 62
+ci origin United States
+ci year 1958
+ci prod 20952
+ci maker Fisher
+ci weight 4770
+ci model 6239E
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Power hydraulic
+ci tcase -NA-
+ci oil 5
+ci rdiff 5
+ci fuel 20
+ci trans 23
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci wbase 129
+ci rtred 61
+ci length 216.8
+ci height 59.1
+ci width 80
+ci etype V8 Valve-in-head
+ci cyl 8
+ci englo Boss on front face of right cylinder block.
+ci rhp 51.2
+ci mbear 5
+ci comp 10.25
+ci engno Same as VIN Serial Number.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 310@4800
+ci disp 364.42
+ci trq 405@3100
+ci vlift Hydraulic
+ci etype Hydra-Matic automatic
+ci b&s 4 & 3 5/8
+ci color Exterior Colors
+co Acadian Green
+co Alamo Beige Metallic
+co All colors may not be available in all models.
+co Alpine White
+co Argyle Blue Metallic
+co Buckskin
+co Calcutta Cream Metallic
+co Camelot Gray Metallic
+co Chamonix White
+co Cheviot Gray Metallic
+co Cobalt Blue Metallic
+co Copenhagen Blue  Metallic
+co Dakota Red
+co Daphne Blue
+co Deauville Gray Metallic
+co Desert Bronze Metallic
+co Fairfax Blue Metallic
+co Glen Eagles Green Metallic
+co Jamaican Green Metallic
+co Kenya Beige Metallic
+co Lacquer
+co Lake Placid Blue Metallic
+co Laurentian Green Metallic
+co Manila Cream
+co Meridian Taupe Metallic
+co Nairobi Pearl Metallic
+co Olympic White
+co Peacock Metallic
+co Plantation Green Metallic
+co Prestwick Gray Metallic
+co Rajah Silver Metallic
+co Regent Green Metalli-Chrome
+co Sandalwood
+co Somerset Blue Metallic
+co Tahitian Coral Metallic
+co Turquoise
+co Two Tone Colors Available
+co Versailles Green Metallic
+co Wimbledon Gray Metallic
+ci cool 19.6 Quarts
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci exha Dual
+ci ign Distributor and coil
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc Front of left frame side bar.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 792, 58K([\dX]{6})
+clv 3890, 1958, Cadillac, 62, Sedan
+ci axle Semifloating
+ci series 62
+ci msrp $475.00
+ci origin United States
+ci year 1958
+ci prod 13335
+ci make Cadillac
+ci weight 4675
+ci maker Fisher
+ci model 6239
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Power hydraulic
+ci tcase -NA-
+ci oil 5
+ci rdiff 5
+ci fuel 20
+ci trans 23
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci wbase 129
+ci rtred 61
+ci length 216.8
+ci height 59.1
+ci width 80
+ci etype V8 Valve-in-head
+ci cyl 8
+ci englo Boss on front face of right cylinder block.
+ci rhp 51.2
+ci mbear 5
+ci comp 10.25
+ci engno Same as VIN Serial Number.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 310@4800
+ci disp 364.42
+ci trq 405@3100
+ci vlift Hydraulic
+ci etype Hydra-Matic automatic
+ci b&s 4 & 3 5/8
+ci color Exterior Colors
+co Acadian Green
+co Alamo Beige Metallic
+co All colors may not be available in all models.
+co Alpine White
+co Argyle Blue Metallic
+co Buckskin
+co Calcutta Cream Metallic
+co Camelot Gray Metallic
+co Chamonix White
+co Cheviot Gray Metallic
+co Cobalt Blue Metallic
+co Copenhagen Blue  Metallic
+co Dakota Red
+co Daphne Blue
+co Deauville Gray Metallic
+co Desert Bronze Metallic
+co Fairfax Blue Metallic
+co Glen Eagles Green Metallic
+co Jamaican Green Metallic
+co Kenya Beige Metallic
+co Lacquer
+co Lake Placid Blue Metallic
+co Laurentian Green Metallic
+co Manila Cream
+co Meridian Taupe Metallic
+co Nairobi Pearl Metallic
+co Olympic White
+co Peacock Metallic
+co Plantation Green Metallic
+co Prestwick Gray Metallic
+co Rajah Silver Metallic
+co Regent Green Metalli-Chrome
+co Sandalwood
+co Somerset Blue Metallic
+co Tahitian Coral Metallic
+co Turquoise
+co Two Tone Colors Available
+co Versailles Green Metallic
+co Wimbledon Gray Metallic
+ci cool 19.6 Quarts
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci exha Dual
+ci ign Distributor and coil
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc Front of left frame side bar.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 793, 58L([\dX]{6})
+clv 3891, 1958, Cadillac, 62, Sedan de Ville
+ci axle Semifloating
+ci make Cadillac
+ci msrp $5040.00
+ci series 62
+ci origin United States
+ci year 1958
+ci prod 23989
+ci maker Fisher
+ci weight 4855
+ci model 6239D
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Power hydraulic
+ci tcase -NA-
+ci oil 5
+ci rdiff 5
+ci fuel 20
+ci trans 23
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci wbase 129
+ci rtred 61
+ci length 216.8
+ci height 59.1
+ci width 80
+ci etype V8 Valve-in-head
+ci cyl 8
+ci englo Boss on front face of right cylinder block.
+ci rhp 51.2
+ci mbear 5
+ci comp 10.25
+ci engno Same as VIN Serial Number.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 310@4800
+ci disp 364.42
+ci trq 405@3100
+ci vlift Hydraulic
+ci etype Hydra-Matic automatic
+ci b&s 4 & 3 5/8
+ci color Exterior Colors
+co Acadian Green
+co Alamo Beige Metallic
+co All colors may not be available in all models.
+co Alpine White
+co Argyle Blue Metallic
+co Buckskin
+co Calcutta Cream Metallic
+co Camelot Gray Metallic
+co Chamonix White
+co Cheviot Gray Metallic
+co Cobalt Blue Metallic
+co Copenhagen Blue  Metallic
+co Dakota Red
+co Daphne Blue
+co Deauville Gray Metallic
+co Desert Bronze Metallic
+co Fairfax Blue Metallic
+co Glen Eagles Green Metallic
+co Jamaican Green Metallic
+co Kenya Beige Metallic
+co Lacquer
+co Lake Placid Blue Metallic
+co Laurentian Green Metallic
+co Manila Cream
+co Meridian Taupe Metallic
+co Nairobi Pearl Metallic
+co Olympic White
+co Peacock Metallic
+co Plantation Green Metallic
+co Prestwick Gray Metallic
+co Rajah Silver Metallic
+co Regent Green Metalli-Chrome
+co Sandalwood
+co Somerset Blue Metallic
+co Tahitian Coral Metallic
+co Turquoise
+co Two Tone Colors Available
+co Versailles Green Metallic
+co Wimbledon Gray Metallic
+ci cool 19.6 Quarts
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci exha Dual
+ci ign Distributor and coil
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc Front of left frame side bar.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 794, 58P([\dX]{6})
+clv 3892, 1958, Cadillac, 70, Eldorado Brougham
+ci axle Semifloating
+ci prod 304
+ci msrp $13074.00
+ci origin United States
+ci make Cadillac
+ci year 1958
+ci series 70
+ci model 7059
+ci maker Fleetwood
+ci bsize 12
+ci ebrake Rear service brakes
+ci svc Power hydraulic
+ci oil 5
+ci trans 23
+ci rdiff 5
+ci fuel 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.36
+ci diff Hypoid
+ci length 216.3
+ci rtred 61
+ci height 55.5
+ci wbase 126
+ci width 78.5
+ci englo Boss on front face of right cylinder block.
+ci etype V8 Valve-in-head
+ci cyl 8
+ci rhp 51.2
+ci etype 3 dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 355@4800
+ci disp 364.42
+ci engno Same as VIN Serial Number.
+ci b&s 4 & 3 5/8
+ci mbear 5
+ci comp 10.0
+ci vlift Hydraulic
+ci etype Hydra-Matic automatic
+ci color Exterior Colors
+co Acadian Green
+co Alamo Beige Metallic
+co Alpine White
+co Argyle Blue Metallic
+co Buckskin
+co Calcutta Cream Metallic
+co Camelot Gray Metallic
+co Chamonix White
+co Cheviot Gray Metallic
+co Cobalt Blue Metallic
+co Copenhagen Blue  Metallic
+co Dakota Red
+co Daphne Blue
+co Deauville Gray Metallic
+co Desert Bronze Metallic
+co Fairfax Blue Metallic
+co Glen Eagles Green Metallic
+co Jamaican Green Metallic
+co Kenya Beige Metallic
+co Lacquer
+co Lake Placid Blue Metallic
+co Laurentian Green Metallic
+co Manila Cream
+co Meridian Taupe Metallic
+co Nairobi Pearl Metallic
+co Olympic White
+co Peacock Metallic
+co Plantation Green Metallic
+co Prestwick Gray Metallic
+co Rajah Silver Metallic
+co Regent Green Metalli-Chrome
+co Sandalwood
+co Somerset Blue Metallic
+co Tahitian Coral Metallic
+co Turquoise
+co Versailles Green Metallic
+co Wimbledon Gray Metallic
+ci exha Dual
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci cool 19.6 Quarts
+ci equip Data not yet collected
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc Front of left frame side bar.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 795, 58R([\dX]{6})
+clv 3893, 1958, Cadillac, 75, Imperial
+ci axle Semifloating
+ci series 75
+ci msrp $7950.00
+ci origin United States
+ci make Cadillac
+ci year 1958
+ci prod 730
+ci model 7533
+ci maker Fleetwood
+ci weight 5425
+ci pass 9
+ci bsize 12
+ci svc Power hydraulic
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 5
+ci fuel 20
+ci oil 5
+ci trans 23
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci wbase 149.8
+ci rtred 61
+ci height 59.1
+ci length 237.1
+ci width 80
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci englo Boss on front face of right cylinder block.
+ci rhp 51.2
+ci bhp 310@4800
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci trq 405@3100
+ci b&s 4 & 3 5/8
+ci comp 10.25
+ci disp 364.42
+ci etype Hydra-Matic automatic
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Acadian Green
+co Alamo Beige Metallic
+co All colors may not be available in all models.
+co Alpine White
+co Argyle Blue Metallic
+co Buckskin
+co Calcutta Cream Metallic
+co Camelot Gray Metallic
+co Chamonix White
+co Cheviot Gray Metallic
+co Cobalt Blue Metallic
+co Copenhagen Blue  Metallic
+co Dakota Red
+co Daphne Blue
+co Deauville Gray Metallic
+co Desert Bronze Metallic
+co Fairfax Blue Metallic
+co Glen Eagles Green Metallic
+co Jamaican Green Metallic
+co Kenya Beige Metallic
+co Lacquer
+co Lake Placid Blue Metallic
+co Laurentian Green Metallic
+co Manila Cream
+co Meridian Taupe Metallic
+co Nairobi Pearl Metallic
+co Olympic White
+co Peacock Metallic
+co Plantation Green Metallic
+co Prestwick Gray Metallic
+co Rajah Silver Metallic
+co Regent Green Metalli-Chrome
+co Sandalwood
+co Somerset Blue Metallic
+co Tahitian Coral Metallic
+co Turquoise
+co Two Tone Colors Available
+co Versailles Green Metallic
+co Wimbledon Gray Metallic
+ci exha Dual
+ci cool 19.6 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci rad Tube and center
+ci sgear Power
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc Front of left frame side bar.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 796, 58S([\dX]{6})
+clv 3894, 1958, Cadillac, 75, Sedan
+ci axle Semifloating
+ci prod 802
+ci msrp $7750.00
+ci origin United States
+ci make Cadillac
+ci year 1958
+ci series 75
+ci maker Fleetwood
+ci model 7523
+ci weight 5360
+ci pass 9
+ci ebrake Rear service brakes
+ci svc Power hydraulic
+ci bsize 12
+ci tcase -NA-
+ci fuel 20
+ci rdiff 5
+ci oil 5
+ci trans 23
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci wbase 149.8
+ci rtred 61
+ci height 59.1
+ci length 237.1
+ci width 80
+ci engno Same as VIN Serial Number.
+ci cyl 8
+ci englo Boss on front face of right cylinder block.
+ci rhp 51.2
+ci bhp 310@4800
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci trq 405@3100
+ci b&s 4 & 3 5/8
+ci comp 10.25
+ci disp 364.42
+ci etype Hydra-Matic automatic
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Acadian Green
+co Alamo Beige Metallic
+co All colors may not be available in all models.
+co Alpine White
+co Argyle Blue Metallic
+co Buckskin
+co Calcutta Cream Metallic
+co Camelot Gray Metallic
+co Chamonix White
+co Cheviot Gray Metallic
+co Cobalt Blue Metallic
+co Copenhagen Blue  Metallic
+co Dakota Red
+co Daphne Blue
+co Deauville Gray Metallic
+co Desert Bronze Metallic
+co Fairfax Blue Metallic
+co Glen Eagles Green Metallic
+co Jamaican Green Metallic
+co Kenya Beige Metallic
+co Lacquer
+co Lake Placid Blue Metallic
+co Laurentian Green Metallic
+co Manila Cream
+co Meridian Taupe Metallic
+co Nairobi Pearl Metallic
+co Olympic White
+co Peacock Metallic
+co Plantation Green Metallic
+co Prestwick Gray Metallic
+co Rajah Silver Metallic
+co Regent Green Metalli-Chrome
+co Sandalwood
+co Somerset Blue Metallic
+co Tahitian Coral Metallic
+co Turquoise
+co Two Tone Colors Available
+co Versailles Green Metallic
+co Wimbledon Gray Metallic
+ci exha Dual
+ci cool 19.6 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci rad Tube and center
+ci sgear Power
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc Front of left frame side bar.
+ci sloc Trunk
+ci tsize 8 x 15

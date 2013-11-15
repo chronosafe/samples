@@ -1,0 +1,502 @@
+cls 4271, 5(\w)89(\w)([\dX]{6})
+clv 17439, 1975, Lincoln, Continental Mark IV, Coupe
+ci axle Semifloating
+ci origin United States
+ci msrp $11082.00
+ci prod 47145
+ci make Lincoln
+ci year 1975
+ci series Continental Mark IV
+ci doors 2
+ci model 65D
+ci maker Lincoln
+ci weight 5353
+ci fbsize 11 23/32
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci svc Power front disc rear self-adjusting drum
+ci trans 26
+ci oil 4
+ci fuel 24
+ci tcase -NA-
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci wbase 120.4
+ci rtred 62
+ci length 228
+ci width 79.8
+ci height 53.3
+ci etype Select Shift automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci cyl 8
+ci trq 347@2600
+ci etype Own V8 Overhead valve
+ci rhp 60.83
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci bhp 194@3800
+ci block Special alloy iron
+ci disp 460
+ci vlift Hydraulic
+ci b&s 4.36 & 3.85
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Bright Dark Blue Metallic
+co Bright Gold Yellow  Metallic
+co Bright Lime Gold Metallic
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Medium Blue Metallic
+co Medium Taupe Met
+co Pastel Blue
+co Red Glow Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Unique Gold Metallic
+co White
+ci exha Single
+ci ftype Premium
+ci batt 12
+ci rad Tubular and fin
+ci cool Water pump
+ci cool 19.3 Quarts
+ci ign Solid state
+ci equip Dual Exhaust
+ci equip Forged Aluminum Wheels
+ci equip Passenger Recliner Seat
+ci equip Power Vent Windows
+ci equip Anti-Theft Alarm System
+ci equip Higher Torque Axle
+ci equip Power-Operated Sunroof-Steel Panel
+ci equip Landau Vinyl Roof
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip Padded 'Halo' Vinyl Roof
+ci equip Power-Operated Moonroof-Glass Panel
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 230 x 15
+cls 4272, 5(\w)81(\w)([\dX]{6})
+clv 17440, 1975, Lincoln, Continental, Coupe
+ci axle Semifloating
+ci msrp $9214.00
+ci series Continental
+ci prod 21185
+ci make Lincoln
+ci year 1975
+ci origin United States
+ci doors 2
+ci weight 5384
+ci maker Lincoln
+ci model 65A
+ci fbsize 11 23/32
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci trans 26
+ci oil 4
+ci rdiff 5
+ci fuel 24.5
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.8
+ci diff Hypoid
+ci length 232.9
+ci height 55.4
+ci width 79.6
+ci ftred 62.4
+ci wbase 127.2
+ci rtred 61
+ci cyl 8
+ci comp 8.0
+ci block Special alloy iron
+ci rhp 60.83
+ci etype Own V8 Overhead valve
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci bhp 206@3800
+ci trq 357@2600
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 460
+ci etype Select Shift automatic
+ci b&s 4.36 & 3.85
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Bright Dark Blue Metallic
+co Bright Gold Yellow  Metallic
+co Bright Lime Gold Metallic
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Medium Blue Metallic
+co Medium Taupe Met
+co Pastel Blue
+co Red Glow Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Unique Gold Metallic
+co White
+ci exha Single
+ci cool Water pump
+ci ftype Premium
+ci ign Solid state
+ci cool 19.7 Quarts
+ci batt 12
+ci rad Tubular and fin
+ci equip Power-Operated Moonroof-Glass Panel
+ci equip Power Door Locks
+ci equip Power Side Windows w/ Driver's Lock
+ci equip Power Vent Windows
+ci equip 6-Way Power Twin-Comfort Seat
+ci equip Power Antenna
+ci equip Power-Operated Sunroof-Steel Panel
+ci equip Luxury Wheel Covers
+ci equip Tilt Steering Wheel
+ci equip Radio
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip Remote Control Deck-Lid Release
+ci equip Six-Way Power Seat (Bench)
+ci equip Four-Wheel Power Disc Brakes
+ci equip Higher Torque Axle
+ci equip a/c-Automatic Temperature Control
+ci sgear Integral power
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 230 x 15
+ci sloc Trunk
+cls 4273, 5(\w)82(\w)([\dX]{6})
+clv 17441, 1975, Lincoln, Continental, Sedan
+ci axle Semifloating
+ci year 1975
+ci msrp $9656.00
+ci series Continental
+ci prod 33513
+ci origin United States
+ci make Lincoln
+ci weight 5379
+ci doors 4
+ci maker Lincoln
+ci model 53A
+ci fbsize 11 23/32
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci trans 26
+ci oil 4
+ci rdiff 5
+ci fuel 24.5
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.8
+ci diff Hypoid
+ci height 55.6
+ci wbase 127.2
+ci length 232.9
+ci rtred 61
+ci ftred 62.4
+ci width 79.6
+ci rhp 60.83
+ci comp 8.0
+ci block Special alloy iron
+ci cyl 8
+ci etype Own V8 Overhead valve
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci bhp 206@3800
+ci trq 357@2600
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 460
+ci etype Select Shift automatic
+ci b&s 4.36 & 3.85
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Bright Dark Blue Metallic
+co Bright Gold Yellow  Metallic
+co Bright Lime Gold Metallic
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Medium Blue Metallic
+co Medium Taupe Met
+co Pastel Blue
+co Red Glow Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Unique Gold Metallic
+co White
+ci exha Single
+ci cool Water pump
+ci ftype Premium
+ci ign Solid state
+ci cool 19.7 Quarts
+ci batt 12
+ci rad Tubular and fin
+ci equip Power-Operated Moonroof-Glass Panel
+ci equip Power Door Locks
+ci equip Power Side Windows w/ Driver's Lock
+ci equip Power Vent Windows
+ci equip 6-Way Power Twin-Comfort Seat
+ci equip Power Antenna
+ci equip Power-Operated Sunroof-Steel Panel
+ci equip Luxury Wheel Covers
+ci equip Tilt Steering Wheel
+ci equip Radio
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip Remote Control Deck-Lid Release
+ci equip Six-Way Power Seat (Bench)
+ci equip Four-Wheel Power Disc Brakes
+ci equip Higher Torque Axle
+ci equip a/c-Automatic Temperature Control
+ci sgear Integral power
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 230 x 15
+ci sloc Trunk
+cls 4274, 5(\w)81(\w)([\dX]{6})
+clv 17442, 1975, Lincoln, Continental Town Car, Coupe
+ci axle Semifloating
+ci origin United States
+ci series Continental Town Car
+ci make Lincoln
+ci msrp $9746.00
+ci prod 21185
+ci year 1975
+ci weight 5423
+ci maker Lincoln
+ci model 65A
+ci doors 2
+ci fbsize 11 23/32
+ci bsize 11 1/32
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci trans 26
+ci fuel 24.5
+ci rdiff 5
+ci oil 4
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci rtred 61
+ci wbase 127.2
+ci height 55.4
+ci ftred 62.4
+ci length 232.9
+ci width 79.6
+ci trq 357@2600
+ci comp 8.0
+ci disp 460
+ci b&s 4.36 & 3.85
+ci cyl 8
+ci etype Select Shift automatic
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci etype Own V8 Overhead valve
+ci rhp 60.83
+ci block Special alloy iron
+ci vlift Hydraulic
+ci bhp 206@3800
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Bright Dark Blue Metallic
+co Bright Gold Yellow  Metallic
+co Bright Lime Gold Metallic
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Medium Blue Metallic
+co Medium Taupe Met
+co Pastel Blue
+co Red Glow Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Unique Gold Metallic
+co White
+ci exha Single
+ci cool Water pump
+ci ign Solid state
+ci batt 12
+ci cool 19.7 Quarts
+ci rad Tubular and fin
+ci ftype Premium
+ci equip Power Vent Windows
+ci equip Power Door Locks
+ci equip Power Side Windows w/ Driver's Lock
+ci equip Power Antenna
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip Power-Operated Moonroof-Glass Panel
+ci equip Power-Operated Sunroof-Steel Panel
+ci equip Four-Wheel Power Disc Brakes
+ci equip Six-Way Power Seat (Bench)
+ci equip Tilt Steering Wheel
+ci equip Remote Control Deck-Lid Release
+ci equip Higher Torque Axle
+ci equip Luxury Wheel Covers
+ci equip a/c-Automatic Temperature Control
+ci equip 6-Way Power Twin-Comfort Seat
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 230 x 15
+cls 4275, 5(\w)82(\w)([\dX]{6})
+clv 17443, 1975, Lincoln, Continental Town Car, Sedan
+ci axle Semifloating
+ci origin United States
+ci series Continental Town Car
+ci make Lincoln
+ci prod 33513
+ci msrp $10188.00
+ci year 1975
+ci model 53A
+ci maker Lincoln
+ci doors 4
+ci weight 5424
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11 1/32
+ci fbsize 11 23/32
+ci trans 26
+ci rdiff 5
+ci oil 4
+ci tcase -NA-
+ci fuel 24.5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci height 55.6
+ci length 232.9
+ci wbase 127.2
+ci rtred 61
+ci ftred 62.4
+ci width 79.6
+ci rhp 60.83
+ci comp 8.0
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci disp 460
+ci etype Downdraft 4-barrel
+ci b&s 4.36 & 3.85
+ci etype Own V8 Overhead valve
+ci trq 357@2600
+ci etype Select Shift automatic
+ci vlift Hydraulic
+ci block Special alloy iron
+ci bhp 206@3800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Bright Dark Blue Metallic
+co Bright Gold Yellow  Metallic
+co Bright Lime Gold Metallic
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Medium Blue Metallic
+co Medium Taupe Met
+co Pastel Blue
+co Red Glow Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Unique Gold Metallic
+co White
+ci exha Single
+ci cool Water pump
+ci ign Solid state
+ci batt 12
+ci cool 19.7 Quarts
+ci rad Tubular and fin
+ci ftype Premium
+ci equip Power Vent Windows
+ci equip Power Door Locks
+ci equip Power Side Windows w/ Driver's Lock
+ci equip Power Antenna
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip Power-Operated Moonroof-Glass Panel
+ci equip Power-Operated Sunroof-Steel Panel
+ci equip Four-Wheel Power Disc Brakes
+ci equip Six-Way Power Seat (Bench)
+ci equip Tilt Steering Wheel
+ci equip Remote Control Deck-Lid Release
+ci equip Higher Torque Axle
+ci equip Luxury Wheel Covers
+ci equip a/c-Automatic Temperature Control
+ci equip 6-Way Power Twin-Comfort Seat
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 230 x 15

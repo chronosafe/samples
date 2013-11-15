@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<h2><%= @decode.pattern.full_name unless @decode.pattern.nil? %> </h2>
+<b>VIN: </b><%= @decode.vin %><br/>
+<h3>Vehicles</h3>
+<% if @decode.pattern.nil? %>
+    <p>No matching pattern assigned</p>
+<% else %>
+<ul>
+    <% @decode.pattern.vehicles.each do |v| %>
+        <li><%= v.trim %></li>
+    <% end %>
+</ul>
+<% end %>
+<br/><%= link_to 'Back', decodes_path %>

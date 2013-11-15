@@ -1,0 +1,3509 @@
+cls 5108, 844(\w)([\dX]{6})
+clv 21623, 1964, Oldsmobile, Dynamic 88, Celebrity Sedan
+ci axle Semifloating
+ci msrp $2994.00
+ci year 1964
+ci prod 57590
+ci origin United States
+ci series Dynamic 88
+ci make Oldsmobile
+ci model 3469
+ci weight 3981
+ci maker Fisher
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci tcase -NA-
+ci rdiff 5
+ci oil 4
+ci trans 2.5
+ci fuel 21
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci width 78
+ci length 215.3
+ci wbase 123
+ci rtred 61
+ci height 55.9
+ci ftred 62.2
+ci cyl 8
+ci mbear 5
+ci trq 430@2400
+ci rhp 54.45
+ci bhp 280@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On top of center exhaust port, on left cylinder head.
+ci disp 394.24
+ci etype V8 Valve-in-head
+ci engno Starting H500001
+ci b&s 4 1/8 & 3 11/16
+ci etype Selective gear
+ci comp 10.25
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci rad Tube and center
+ci cool 19.25 Quarts
+ci exha Single
+ci ftype Premium
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 3.17
+ci rev 4.02
+ci 3gear 4.6
+ci drive Rear wheel drive
+ci 2gear 1.65
+ci 5gear Not applicable
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.00 x 14
+cls 5109, 844(\w)([\dX]{6})
+clv 21624, 1964, Oldsmobile, Dynamic 88, Convertible Coupe
+ci axle Semifloating
+ci prod 10042
+ci year 1964
+ci make Oldsmobile
+ci msrp $3378.00
+ci series Dynamic 88
+ci origin United States
+ci maker Fisher
+ci weight 4011
+ci model 3467
+ci doors 2
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 21
+ci rdiff 5
+ci tcase -NA-
+ci trans 2.5
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci width 78
+ci length 215.3
+ci ftred 62.2
+ci wbase 123
+ci rtred 61
+ci height 55.9
+ci cyl 8
+ci mbear 5
+ci trq 430@2400
+ci rhp 54.45
+ci bhp 280@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On top of center exhaust port, on left cylinder head.
+ci disp 394.24
+ci etype V8 Valve-in-head
+ci engno Starting H500001
+ci b&s 4 1/8 & 3 11/16
+ci etype Selective gear
+ci comp 10.25
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci rad Tube and center
+ci cool 19.25 Quarts
+ci exha Single
+ci ftype Premium
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 3.17
+ci rev 4.02
+ci 3gear 4.6
+ci drive Rear wheel drive
+ci 2gear 1.65
+ci 5gear Not applicable
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.00 x 14
+cls 5110, 844(\w)([\dX]{6})
+clv 21625, 1964, Oldsmobile, Dynamic 88, Fiesta Sedan - 2 seats
+ci axle Semifloating
+ci make Oldsmobile
+ci series Dynamic 88
+ci prod 10747
+ci year 1964
+ci origin United States
+ci msrp $3458.00
+ci maker Fisher
+ci model 3435
+ci weight 4301
+ci pass 6
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci oil 4
+ci fuel 21
+ci tcase -NA-
+ci trans 2.5
+ci rdiff 5
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci width 78
+ci length 215.3
+ci wbase 123
+ci ftred 62.2
+ci height 55.9
+ci rtred 61
+ci etype Selective gear
+ci rhp 54.45
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci bhp 280@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.25
+ci etype Downdraft 4-barrel
+ci trq 430@2400
+ci engno Starting H500001
+ci b&s 4 1/8 & 3 11/16
+ci disp 394.24
+ci vlift Hydraulic
+ci englo On top of center exhaust port, on left cylinder head.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci ftype Premium
+ci cool 19.25 Quarts
+ci cool Water pump
+ci equip Power seats
+ci equip Power brakes
+ci equip Power windows
+ci equip Air conditioning
+ci equip Hydra-Matic automatic transmission
+ci equip Pushbutton Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 3gear 4.6
+ci drive Rear wheel drive
+ci 2gear 1.65
+ci 5gear Not applicable
+ci rev 4.02
+ci gears 3
+ci 1gear 3.17
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 14
+ci sloc Trunk
+cls 5111, 844(\w)([\dX]{6})
+clv 21626, 1964, Oldsmobile, Dynamic 88, Fiesta Sedan - 3 seats
+ci axle Semifloating
+ci msrp $3565.00
+ci prod 6599
+ci origin United States
+ci year 1964
+ci make Oldsmobile
+ci series Dynamic 88
+ci pass 9
+ci doors 4
+ci maker Fisher
+ci weight 4339
+ci model 3445
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 5
+ci tcase -NA-
+ci trans 2.5
+ci oil 4
+ci fuel 21
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 123
+ci length 215.3
+ci width 78
+ci height 55.9
+ci rtred 61
+ci ftred 62.2
+ci rhp 54.45
+ci mbear 5
+ci cyl 8
+ci englo On top of center exhaust port, on left cylinder head.
+ci trq 430@2400
+ci engno Starting H500001
+ci etype Selective gear
+ci etype V8 Valve-in-head
+ci etype Downdraft 4-barrel
+ci b&s 4 1/8 & 3 11/16
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 280@4400
+ci comp 10.25
+ci vlift Hydraulic
+ci disp 394.24
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci cool 19.25 Quarts
+ci rad Tube and center
+ci batt 12
+ci ign Distributor and coil
+ci ftype Premium
+ci exha Single
+ci cool Water pump
+ci equip Power seats
+ci equip Power brakes
+ci equip Power windows
+ci equip Air conditioning
+ci equip Hydra-Matic automatic transmission
+ci equip Pushbutton Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 3gear 4.6
+ci drive Rear wheel drive
+ci 2gear 1.65
+ci 5gear Not applicable
+ci rev 4.02
+ci gears 3
+ci 1gear 3.17
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 14
+ci sloc Trunk
+cls 5112, 844(\w)([\dX]{6})
+clv 21627, 1964, Oldsmobile, Dynamic 88, Holiday Coupe
+ci axle Semifloating
+ci series Dynamic 88
+ci msrp $3051.00
+ci prod 32369
+ci origin United States
+ci year 1964
+ci make Oldsmobile
+ci maker Fisher
+ci doors 2
+ci weight 3939
+ci model 3447
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci oil 4
+ci rdiff 5
+ci fuel 21
+ci trans 2.5
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci height 55.9
+ci wbase 123
+ci length 215.3
+ci width 78
+ci ftred 62.2
+ci rtred 61
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 54.45
+ci disp 394.24
+ci cyl 8
+ci bhp 280@4400
+ci b&s 4 1/8 & 3 11/16
+ci englo On top of center exhaust port, on left cylinder head.
+ci mbear 5
+ci etype V8 Valve-in-head
+ci engno Starting H500001
+ci etype Selective gear
+ci trq 430@2400
+ci comp 10.25
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci rad Tube and center
+ci cool 19.25 Quarts
+ci exha Single
+ci ftype Premium
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 3.17
+ci rev 4.02
+ci 3gear 4.6
+ci drive Rear wheel drive
+ci 2gear 1.65
+ci 5gear Not applicable
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.00 x 14
+cls 5113, 844(\w)([\dX]{6})
+clv 21628, 1964, Oldsmobile, Dynamic 88, Holiday Sedan
+ci axle Semifloating
+ci make Oldsmobile
+ci series Dynamic 88
+ci year 1964
+ci origin United States
+ci msrp $3129.00
+ci prod 50327
+ci maker Fisher
+ci doors 4
+ci model 3439
+ci weight 4027
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci fuel 21
+ci oil 4
+ci tcase -NA-
+ci trans 2.5
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 215.3
+ci ftred 62.2
+ci width 78
+ci wbase 123
+ci rtred 61
+ci height 55.9
+ci rhp 54.45
+ci mbear 5
+ci trq 430@2400
+ci cyl 8
+ci engno Starting H500001
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On top of center exhaust port, on left cylinder head.
+ci etype Selective gear
+ci disp 394.24
+ci comp 10.25
+ci bhp 280@4400
+ci etype V8 Valve-in-head
+ci b&s 4 1/8 & 3 11/16
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci rad Tube and center
+ci cool 19.25 Quarts
+ci exha Single
+ci ftype Premium
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 3.17
+ci rev 4.02
+ci 3gear 4.6
+ci drive Rear wheel drive
+ci 2gear 1.65
+ci 5gear Not applicable
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.00 x 14
+cls 5114, 614(\w)([\dX]{6})
+clv 21629, 1964, Oldsmobile, F-85 6 DeLuxe, Sedan
+ci axle Semifloating
+ci prod 7428
+ci origin United States
+ci series F-85 6 DeLuxe
+ci make Oldsmobile
+ci year 1964
+ci msrp $2494.00
+ci maker Fisher
+ci model 3169
+ci weight 2978
+ci doors 4
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 20
+ci rdiff 2.75
+ci trans 2
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 58
+ci height 54.5
+ci length 203
+ci width 73.8
+ci wbase 115
+ci disp 225
+ci rhp 33.75
+ci trq 225@2400
+ci comp 9.0
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix KH
+ci bhp 155@4400
+ci etype Synchronous meshing
+ci etype V6
+ci vlift Hydraulic
+ci etype Single downdraft
+ci cyl 6
+ci englo No unit number, only date code stamped on right cylinder block deck face.
+ci b&s 3 3/4 & 3 13/32
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci cool Water pump
+ci cool 10.75 Quarts
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Power windows
+ci equip Power seats
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Power steering
+ci equip Jetaway automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 5gear Not applicable
+ci rev 2.58
+ci 3gear 1
+ci gears 3
+ci 2gear 1.48
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 5115, 614(\w)([\dX]{6})
+clv 21630, 1964, Oldsmobile, F-85 6 DeLuxe, Sport Coupe
+ci axle Semifloating
+ci make Oldsmobile
+ci origin United States
+ci prod 6594
+ci year 1964
+ci series F-85 6 DeLuxe
+ci msrp $2527.00
+ci doors 2
+ci model 3127
+ci maker Fisher
+ci weight 2949
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci oil 4
+ci rdiff 2.75
+ci trans 2
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 58
+ci height 54.5
+ci wbase 115
+ci length 203
+ci width 73.8
+ci etype Single downdraft
+ci cyl 6
+ci comp 9.0
+ci bhp 155@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix KH
+ci englo No unit number, only date code stamped on right cylinder block deck face.
+ci disp 225
+ci trq 225@2400
+ci vlift Hydraulic
+ci etype Synchronous meshing
+ci b&s 3 3/4 & 3 13/32
+ci etype V6
+ci rhp 33.75
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci cool Water pump
+ci rad Tube and center
+ci cool 10.75 Quarts
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Power windows
+ci equip Power seats
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Power steering
+ci equip Jetaway automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci rev 2.58
+ci 3gear 1
+ci 2gear 1.48
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 6.50 x 14
+ci sloc Trunk
+cls 5116, 614(\w)([\dX]{6})
+clv 21631, 1964, Oldsmobile, F-85 6 DeLuxe, Station Wagon
+ci axle Semifloating
+ci year 1964
+ci origin United States
+ci make Oldsmobile
+ci series F-85 6 DeLuxe
+ci msrp $2786.00
+ci prod 909
+ci maker Fisher
+ci weight 3227
+ci model 3135
+ci doors 4
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 20
+ci rdiff 2.75
+ci trans 2
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 115
+ci rtred 58
+ci length 203
+ci height 54.5
+ci width 73.8
+ci trq 225@2400
+ci comp 9.0
+ci b&s 3 3/4 & 3 13/32
+ci disp 225
+ci lube Pressure to all bearings excluding wrist pin
+ci englo No unit number, only date code stamped on right cylinder block deck face.
+ci cyl 6
+ci etype Synchronous meshing
+ci vlift Hydraulic
+ci bhp 155@4400
+ci rhp 33.75
+ci etype V6
+ci etype Single downdraft
+ci engno Prefix KH
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci batt 12
+ci cool 10.75 Quarts
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci cool Water pump
+ci ftype Regular
+ci equip Power steering
+ci equip Power seats
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power windows
+ci equip Jetaway automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 2.58
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.48
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+cls 5117, 604(\w)([\dX]{6})
+clv 21632, 1964, Oldsmobile, F-85 6, Club Coupe
+ci axle Semifloating
+ci make Oldsmobile
+ci origin United States
+ci prod 8314
+ci year 1964
+ci series F-85 6
+ci msrp $2332.00
+ci doors 2
+ci model 3027
+ci maker Fisher
+ci weight 2914
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci oil 4
+ci rdiff 2.75
+ci trans 2
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 58
+ci height 54.5
+ci wbase 115
+ci width 73.8
+ci length 203
+ci etype Single downdraft
+ci cyl 6
+ci comp 9.0
+ci bhp 155@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix KH
+ci englo No unit number, only date code stamped on right cylinder block deck face.
+ci disp 225
+ci trq 225@2400
+ci vlift Hydraulic
+ci etype Synchronous meshing
+ci b&s 3 3/4 & 3 13/32
+ci etype V6
+ci rhp 33.75
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci cool Water pump
+ci rad Tube and center
+ci cool 10.75 Quarts
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Power windows
+ci equip Power seats
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Power steering
+ci equip Jetaway automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci rev 2.58
+ci 3gear 1
+ci 2gear 1.48
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 6.50 x 14
+ci sloc Trunk
+cls 5118, 604(\w)([\dX]{6})
+clv 21633, 1964, Oldsmobile, F-85 6, Sedan
+ci axle Semifloating
+ci prod 6531
+ci origin United States
+ci series F-85 6
+ci make Oldsmobile
+ci year 1964
+ci msrp $2386.00
+ci maker Fisher
+ci model 3069
+ci weight 2960
+ci doors 4
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 20
+ci rdiff 2.75
+ci trans 2
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 58
+ci height 54.5
+ci length 203
+ci wbase 115
+ci width 73.8
+ci disp 225
+ci rhp 33.75
+ci trq 225@2400
+ci comp 9.0
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix KH
+ci bhp 155@4400
+ci etype Synchronous meshing
+ci etype V6
+ci vlift Hydraulic
+ci etype Single downdraft
+ci cyl 6
+ci englo No unit number, only date code stamped on right cylinder block deck face.
+ci b&s 3 3/4 & 3 13/32
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci cool Water pump
+ci cool 10.75 Quarts
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Power windows
+ci equip Power seats
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Power steering
+ci equip Jetaway automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 5gear Not applicable
+ci rev 2.58
+ci 3gear 1
+ci gears 3
+ci 2gear 1.48
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 5119, 604(\w)([\dX]{6})
+clv 21634, 1964, Oldsmobile, F-85 6, Station Wagon
+ci axle Semifloating
+ci msrp $2678.00
+ci origin United States
+ci make Oldsmobile
+ci year 1964
+ci prod 1470
+ci series F-85 6
+ci model 3035
+ci maker Fisher
+ci doors 4
+ci weight 3206
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci rdiff 2.75
+ci oil 4
+ci fuel 20
+ci trans 2
+ci tcase -NA-
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 203
+ci rtred 58
+ci wbase 115
+ci width 73.8
+ci height 54.5
+ci etype Single downdraft
+ci comp 9.0
+ci cyl 6
+ci bhp 155@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix KH
+ci disp 225
+ci trq 225@2400
+ci vlift Hydraulic
+ci etype Synchronous meshing
+ci englo No unit number, only date code stamped on right cylinder block deck face.
+ci etype V6
+ci rhp 33.75
+ci b&s 3 3/4 & 3 13/32
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci batt 12
+ci cool 10.75 Quarts
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci cool Water pump
+ci ftype Regular
+ci equip Power steering
+ci equip Power seats
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power windows
+ci equip Jetaway automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 2.58
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.48
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+cls 5120, 824(\w)([\dX]{6})
+clv 21635, 1964, Oldsmobile, F-85 Cutlass, Convertible
+ci axle Semifloating
+ci series F-85 Cutlass
+ci origin United States
+ci make Oldsmobile
+ci msrp $2973.00
+ci prod 12822
+ci year 1964
+ci model 3267
+ci maker Fisher
+ci doors 2
+ci weight 3283
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 2.75
+ci trans 2
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.23
+ci diff Hypoid
+ci height 54
+ci length 203
+ci wbase 115
+ci width 74.3
+ci rtred 58
+ci englo Stamped on front of right cylinder head.
+ci disp 330
+ci cyl 8
+ci mbear 5
+ci engno Starting T001001G
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 15/16 & 3 3/8
+ci etype Downdraft 4-barrel
+ci etype Synchronous meshing
+ci bhp 260@4800
+ci etype V8 valve-in-head
+ci vlift Hydraulic
+ci comp 10.25
+ci trq 345@3200
+ci rhp 49.6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci cool 17 Quarts
+ci batt 12
+ci ftype Premium
+ci cool Water pump
+ci equip Power steering
+ci equip Power seats
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Jetaway automatic transmission
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.48
+ci rev 2.58
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.00 x 14
+ci sloc Trunk
+cls 5121, 824(\w)([\dX]{6})
+clv 21636, 1964, Oldsmobile, F-85 Cutlass, Coupe
+ci axle Semifloating
+ci series F-85 Cutlass
+ci origin United States
+ci make Oldsmobile
+ci msrp $2633.00
+ci prod 15440
+ci year 1964
+ci weight 3161
+ci maker Fisher
+ci doors 2
+ci model 3227
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 2.75
+ci trans 2
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.23
+ci diff Hypoid
+ci height 54
+ci length 203
+ci wbase 115
+ci width 74.3
+ci rtred 58
+ci englo Stamped on front of right cylinder head.
+ci disp 330
+ci cyl 8
+ci mbear 5
+ci engno Starting T001001G
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 15/16 & 3 3/8
+ci etype Downdraft 4-barrel
+ci etype Synchronous meshing
+ci bhp 260@4800
+ci etype V8 valve-in-head
+ci vlift Hydraulic
+ci comp 10.25
+ci trq 345@3200
+ci rhp 49.6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci cool 17 Quarts
+ci batt 12
+ci ftype Premium
+ci cool Water pump
+ci equip Power steering
+ci equip Power seats
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Jetaway automatic transmission
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.48
+ci rev 2.58
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.00 x 14
+ci sloc Trunk
+cls 5122, 824(\w)([\dX]{6})
+clv 21637, 1964, Oldsmobile, F-85 Cutlass, Hardtop
+ci axle Semifloating
+ci prod 36153
+ci origin United States
+ci make Oldsmobile
+ci msrp $2773.00
+ci series F-85 Cutlass
+ci year 1964
+ci doors 2
+ci model 3237
+ci maker Fisher
+ci weight 3200
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 4
+ci rdiff 2.75
+ci trans 2
+ci fuel 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.23
+ci length 203
+ci wbase 115
+ci width 74.3
+ci height 54
+ci rtred 58
+ci engno Starting T001001G
+ci mbear 5
+ci cyl 8
+ci englo Stamped on front of right cylinder head.
+ci rhp 49.6
+ci etype Synchronous meshing
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci etype V8 valve-in-head
+ci bhp 260@4800
+ci comp 10.25
+ci vlift Hydraulic
+ci disp 330
+ci b&s 3 15/16 & 3 3/8
+ci trq 345@3200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci ftype Premium
+ci equip Power windows
+ci equip Power steering
+ci equip Jetaway automatic transmission
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Power brakes
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci rev 2.58
+ci drive Rear wheel drive
+ci 2gear 1.48
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.00 x 14
+cls 5123, 814(\w)([\dX]{6})
+clv 21638, 1964, Oldsmobile, F-85 V8 DeLuxe, Sedan
+ci axle Semifloating
+ci prod 42237
+ci origin United States
+ci series F-85 V8 DeLuxe
+ci make Oldsmobile
+ci year 1964
+ci maker Fisher
+ci doors 4
+ci model 3169
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 20
+ci trans 2
+ci rdiff 2.75
+ci oil 4
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 115
+ci length 203
+ci width 73.8
+ci rtred 58
+ci height 54.5
+ci etype Synchronous meshing
+ci cyl 8
+ci comp 9.0
+ci mbear 5
+ci engno Starting T001001
+ci englo Stamped on front of right cylinder head.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype V8 valve-in-head
+ci rhp 49.6
+ci disp 330
+ci bhp 230@4400
+ci trq 325@2400
+ci b&s 3 15/16 & 3 3/8
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci batt 12
+ci cool 17 Quarts
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power windows
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Jetaway automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.58
+ci 2gear 1.48
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.00 x 14
+cls 5124, 814(\w)([\dX]{6})
+clv 21639, 1964, Oldsmobile, F-85 V8 DeLuxe, Sport Coupe
+ci axle Semifloating
+ci origin United States
+ci year 1964
+ci make Oldsmobile
+ci series F-85 V8 DeLuxe
+ci model 3127
+ci maker Fisher
+ci doors 2
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci rdiff 2.75
+ci fuel 20
+ci tcase -NA-
+ci trans 2
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.08
+ci length 203
+ci wbase 115
+ci height 54.5
+ci width 73.8
+ci rtred 58
+ci etype Synchronous meshing
+ci cyl 8
+ci comp 9.0
+ci mbear 5
+ci engno Starting T001001
+ci englo Stamped on front of right cylinder head.
+ci etype V8 valve-in-head
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 49.6
+ci disp 330
+ci bhp 230@4400
+ci trq 325@2400
+ci b&s 3 15/16 & 3 3/8
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci batt 12
+ci cool 17 Quarts
+ci rad Tube and center
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci cool Water pump
+ci equip Power windows
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Jetaway automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.58
+ci 2gear 1.48
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.00 x 14
+cls 5125, 814(\w)([\dX]{6})
+clv 21640, 1964, Oldsmobile, F-85 V8 DeLuxe, Station Wagon
+ci axle Semifloating
+ci series F-85 V8 DeLuxe
+ci origin United States
+ci make Oldsmobile
+ci year 1964
+ci doors 4
+ci maker Fisher
+ci model 3135
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci rdiff 2.75
+ci oil 4
+ci trans 2
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 115
+ci length 203
+ci height 54.5
+ci width 73.8
+ci rtred 58
+ci cyl 8
+ci comp 9.0
+ci mbear 5
+ci etype Synchronous meshing
+ci engno Starting T001001
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype V8 valve-in-head
+ci rhp 49.6
+ci disp 330
+ci vlift Hydraulic
+ci bhp 230@4400
+ci b&s 3 15/16 & 3 3/8
+ci englo Stamped on front of right cylinder head.
+ci trq 325@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci batt 12
+ci cool 17 Quarts
+ci exha Single
+ci rad Tube and center
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power windows
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Jetaway automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.58
+ci 2gear 1.48
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+cls 5126, 804(\w)([\dX]{6})
+clv 21641, 1964, Oldsmobile, F-85 V8, Club Coupe
+ci axle Semifloating
+ci prod 7984
+ci series F-85 V8
+ci origin United States
+ci make Oldsmobile
+ci year 1964
+ci model 3027
+ci doors 2
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 20
+ci oil 4
+ci trans 2
+ci rdiff 2.75
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 115
+ci height 54.5
+ci width 73.8
+ci length 203
+ci rtred 58
+ci etype Synchronous meshing
+ci cyl 8
+ci comp 9.0
+ci mbear 5
+ci engno Starting T001001
+ci englo Stamped on front of right cylinder head.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype V8 valve-in-head
+ci rhp 49.6
+ci disp 330
+ci bhp 230@4400
+ci trq 325@2400
+ci b&s 3 15/16 & 3 3/8
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci batt 12
+ci cool 17 Quarts
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power windows
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Jetaway automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.58
+ci 2gear 1.48
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.00 x 14
+cls 5127, 804(\w)([\dX]{6})
+clv 21642, 1964, Oldsmobile, F-85 V8, Sedan
+ci axle Semifloating
+ci prod 5575
+ci make Oldsmobile
+ci origin United States
+ci year 1964
+ci series F-85 V8
+ci maker Fisher
+ci model 3069
+ci doors 4
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci trans 2
+ci rdiff 2.75
+ci oil 4
+ci tcase -NA-
+ci fuel 20
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 115
+ci height 54.5
+ci length 203
+ci rtred 58
+ci width 73.8
+ci bhp 230@4400
+ci cyl 8
+ci comp 9.0
+ci etype Synchronous meshing
+ci engno Starting T001001
+ci englo Stamped on front of right cylinder head.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype V8 valve-in-head
+ci b&s 3 15/16 & 3 3/8
+ci trq 325@2400
+ci disp 330
+ci mbear 5
+ci rhp 49.6
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci exha Single
+ci cool 17 Quarts
+ci batt 12
+ci rad Tube and center
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power windows
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Jetaway automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.58
+ci 2gear 1.48
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.00 x 14
+cls 5128, 804(\w)([\dX]{6})
+clv 21643, 1964, Oldsmobile, F-85 V8, Station Wagon
+ci axle Semifloating
+ci prod 2977
+ci origin United States
+ci year 1964
+ci series F-85 V8
+ci make Oldsmobile
+ci maker Fisher
+ci model 3035
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 20
+ci rdiff 2.75
+ci oil 4
+ci tcase -NA-
+ci trans 2
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 115
+ci length 203
+ci width 73.8
+ci rtred 58
+ci height 54.5
+ci cyl 8
+ci comp 9.0
+ci mbear 5
+ci etype Synchronous meshing
+ci engno Starting T001001
+ci etype V8 valve-in-head
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 49.6
+ci disp 330
+ci vlift Hydraulic
+ci bhp 230@4400
+ci b&s 3 15/16 & 3 3/8
+ci englo Stamped on front of right cylinder head.
+ci trq 325@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci batt 12
+ci cool 17 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tube and center
+ci cool Water pump
+ci equip Power windows
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Jetaway automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.58
+ci 2gear 1.48
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+cls 5129, 834(\w)([\dX]{6})
+clv 21644, 1964, Oldsmobile, Jetstar 88, Celebrity Sedan
+ci axle Semifloating
+ci msrp $2924.00
+ci origin United States
+ci make Oldsmobile
+ci year 1964
+ci prod 24614
+ci series Jetstar 88
+ci doors 4
+ci model 3369
+ci maker Fisher
+ci weight 3749
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci trans 2
+ci tcase -NA-
+ci rdiff 2.75
+ci oil 4
+ci fuel 21
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 215.3
+ci width 78
+ci wbase 123
+ci height 56
+ci rtred 61
+ci ftred 62.2
+ci mbear 5
+ci rhp 49.6
+ci cyl 8
+ci comp 10.25
+ci trq 345@2400
+ci disp 330
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci englo Stamped on front of right cylinder head.
+ci b&s 3 15/16 & 3 3/8
+ci vlift Hydraulic
+ci etype Synchronous meshing
+ci bhp 245@4600
+ci etype V8 valve-in-head
+ci engno Starting T001001K
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ftype Premium
+ci cool Water pump
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Jetaway automatic transmission
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Power brakes
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci rev 2.58
+ci drive Rear wheel drive
+ci 2gear 1.48
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.50 x 14
+cls 5130, 834(\w)([\dX]{6})
+clv 21645, 1964, Oldsmobile, Jetstar 88, Convertible Coupe
+ci axle Semifloating
+ci make Oldsmobile
+ci origin United States
+ci series Jetstar 88
+ci msrp $3308.00
+ci year 1964
+ci prod 3903
+ci weight 3774
+ci model 3367
+ci doors 2
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci fuel 21
+ci rdiff 2.75
+ci tcase -NA-
+ci trans 2
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 123
+ci length 215.3
+ci width 78
+ci height 56
+ci rtred 61
+ci ftred 62.2
+ci mbear 5
+ci comp 10.25
+ci cyl 8
+ci rhp 49.6
+ci etype Synchronous meshing
+ci trq 345@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci engno Starting T001001K
+ci disp 330
+ci vlift Hydraulic
+ci b&s 3 15/16 & 3 3/8
+ci bhp 245@4600
+ci englo Stamped on front of right cylinder head.
+ci etype V8 valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ftype Premium
+ci cool Water pump
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Jetaway automatic transmission
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Power brakes
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci rev 2.58
+ci drive Rear wheel drive
+ci 2gear 1.48
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.50 x 14
+cls 5131, 834(\w)([\dX]{6})
+clv 21646, 1964, Oldsmobile, Jetstar 88, Holiday Coupe
+ci axle Semifloating
+ci msrp $2981.00
+ci origin United States
+ci make Oldsmobile
+ci prod 14663
+ci year 1964
+ci series Jetstar 88
+ci weight 3721
+ci maker Fisher
+ci model 3347
+ci doors 2
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 21
+ci tcase -NA-
+ci rdiff 2.75
+ci oil 4
+ci trans 2
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci width 78
+ci length 215.3
+ci ftred 62.2
+ci height 56
+ci rtred 61
+ci wbase 123
+ci rhp 49.6
+ci comp 10.25
+ci cyl 8
+ci trq 345@2400
+ci disp 330
+ci b&s 3 15/16 & 3 3/8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci engno Starting T001001K
+ci bhp 245@4600
+ci vlift Hydraulic
+ci englo Stamped on front of right cylinder head.
+ci etype Synchronous meshing
+ci etype V8 valve-in-head
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ftype Premium
+ci cool Water pump
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Jetaway automatic transmission
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Power brakes
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci rev 2.58
+ci drive Rear wheel drive
+ci 2gear 1.48
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.50 x 14
+cls 5132, 834(\w)([\dX]{6})
+clv 21647, 1964, Oldsmobile, Jetstar 88, Holiday Sedan
+ci axle Semifloating
+ci msrp $3058.00
+ci origin United States
+ci make Oldsmobile
+ci prod 19325
+ci year 1964
+ci series Jetstar 88
+ci doors 4
+ci model 3339
+ci maker Fisher
+ci weight 3803
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci fuel 21
+ci trans 2
+ci rdiff 2.75
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.23
+ci length 215.3
+ci width 78
+ci wbase 123
+ci height 56
+ci rtred 61
+ci ftred 62.2
+ci mbear 5
+ci rhp 49.6
+ci cyl 8
+ci comp 10.25
+ci trq 345@2400
+ci disp 330
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype Synchronous meshing
+ci b&s 3 15/16 & 3 3/8
+ci vlift Hydraulic
+ci bhp 245@4600
+ci englo Stamped on front of right cylinder head.
+ci etype V8 valve-in-head
+ci engno Starting T001001K
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ftype Premium
+ci cool Water pump
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Jetaway automatic transmission
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Power brakes
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci rev 2.58
+ci drive Rear wheel drive
+ci 2gear 1.48
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.50 x 14
+cls 5133, 874(\w)([\dX]{6})
+clv 21648, 1964, Oldsmobile, Jetstar I, Hardtop Coupe
+ci axle Semifloating
+ci msrp $3592.00
+ci series Jetstar I
+ci year 1964
+ci origin United States
+ci prod 16084
+ci make Oldsmobile
+ci model 3457
+ci weight 4034
+ci maker Fisher
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci rdiff 5
+ci tcase -NA-
+ci fuel 21
+ci trans 2.5
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.42
+ci diff Hypoid
+ci width 78
+ci length 215.3
+ci ftred 62.2
+ci wbase 123
+ci rtred 61
+ci height 56.2
+ci cyl 8
+ci mbear 5
+ci trq 440@3200
+ci rhp 54.45
+ci bhp 345@4800
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On top of center exhaust port, on left cylinder head.
+ci disp 394.24
+ci etype V8 Valve-in-head
+ci engno Starting J500001S
+ci b&s 4 1/8 & 3 11/16
+ci etype Selective gear
+ci comp 10.5
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci exha Dual
+ci batt 12
+ci rad Tube and center
+ci cool 19.25 Quarts
+ci ftype Premium
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 4.02
+ci 3gear 4.6
+ci 1gear 3.17
+ci drive Rear wheel drive
+ci 2gear 1.65
+ci 5gear Not applicable
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.00 x 14
+cls 5134, 894(\w)([\dX]{6})
+clv 21649, 1964, Oldsmobile, Ninety Eight Custom, Sport Coupe
+ci axle Semifloating
+ci year 1964
+ci msrp $4381.00
+ci prod 4594
+ci series Ninety Eight Custom
+ci make Oldsmobile
+ci origin United States
+ci weight 4271
+ci maker Fisher
+ci model 3947
+ci doors 2
+ci svc Power hydraulic
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 21
+ci trans 18
+ci tcase -NA-
+ci oil 4
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci length 222.3
+ci wbase 126
+ci rtred 61
+ci ftred 62.2
+ci width 78
+ci height 57.1
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci bhp 345@4800
+ci disp 394.24
+ci etype Downdraft 4-barrel
+ci englo On top of center exhaust port, on left cylinder head.
+ci trq 440@3200
+ci etype Hydra-Matic automatic
+ci comp 10.5
+ci rhp 54.45
+ci engno Starting J500001S
+ci mbear 5
+ci etype V8 Valve-in-head
+ci b&s 4 1/8 & 3 11/16
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Beige
+co Burgandy Mist
+co Ebony Black
+co Forest Mist
+co Laurel Mist
+co Lucerne Mist
+co Mojave Mist
+co Nocturne Mist
+co Ocean Mist
+co Provincial White
+co Royal Mist
+co Saffron Yellow
+co Sterlling Mist
+co Target Red
+co Turquoise Mist
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci ftype Premium
+ci rad Tube and center
+ci cool 19.25 Quarts
+ci equip Radio
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.50 x 14
+cls 5135, 884(\w)([\dX]{6})
+clv 21650, 1964, Oldsmobile, Ninety Eight, Convertible Coupe
+ci axle Semifloating
+ci origin United States
+ci msrp $4457.00
+ci make Oldsmobile
+ci series Ninety Eight
+ci prod 4004
+ci year 1964
+ci weight 4255
+ci doors 2
+ci maker Fisher
+ci model 3867
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power hydraulic
+ci fuel 21
+ci trans 18
+ci tcase -NA-
+ci oil 4
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci length 222.3
+ci wbase 126
+ci rtred 61
+ci ftred 62.2
+ci width 78
+ci height 57.1
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci bhp 330@4600
+ci disp 394.24
+ci etype Downdraft 4-barrel
+ci englo On top of center exhaust port, on left cylinder head.
+ci b&s 4 1/8 & 3 11/16
+ci etype Hydra-Matic automatic
+ci comp 10.25
+ci rhp 54.45
+ci engno Starting J500001
+ci mbear 5
+ci etype V8 Valve-in-head
+ci trq 440@2800
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci cool 19.25 Quarts
+ci ftype Premium
+ci equip Pushbutton Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.50 x 14
+cls 5136, 884(\w)([\dX]{6})
+clv 21651, 1964, Oldsmobile, Ninety Eight, Holiday Sport Coupe
+ci axle Semifloating
+ci series Ninety Eight
+ci msrp $4177.00
+ci prod 6139
+ci make Oldsmobile
+ci year 1964
+ci origin United States
+ci weight 4205
+ci doors 2
+ci maker Fisher
+ci model 3847
+ci svc Power hydraulic
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 21
+ci tcase -NA-
+ci trans 18
+ci oil 4
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci rtred 61
+ci height 57.1
+ci length 222.3
+ci ftred 62.2
+ci width 78
+ci wbase 126
+ci rhp 54.45
+ci cyl 8
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci englo On top of center exhaust port, on left cylinder head.
+ci trq 440@2800
+ci etype Hydra-Matic automatic
+ci comp 10.25
+ci b&s 4 1/8 & 3 11/16
+ci engno Starting J500001
+ci disp 394.24
+ci bhp 330@4600
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci cool 19.25 Quarts
+ci ftype Premium
+ci equip Pushbutton Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.50 x 14
+cls 5137, 884(\w)([\dX]{6})
+clv 21652, 1964, Oldsmobile, Ninety Eight, Holiday Sport Sedan
+ci axle Semifloating
+ci series Ninety Eight
+ci msrp $4254.00
+ci prod 24791
+ci year 1964
+ci make Oldsmobile
+ci origin United States
+ci weight 4323
+ci model 3539
+ci maker Fisher
+ci svc Power hydraulic
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 21
+ci trans 18
+ci tcase -NA-
+ci oil 4
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.08
+ci diff Hypoid
+ci rtred 61
+ci height 57.1
+ci length 222.3
+ci ftred 62.2
+ci width 78
+ci wbase 126
+ci rhp 54.45
+ci cyl 8
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci englo On top of center exhaust port, on left cylinder head.
+ci trq 440@2800
+ci etype Hydra-Matic automatic
+ci comp 10.25
+ci b&s 4 1/8 & 3 11/16
+ci engno Starting J500001
+ci disp 394.24
+ci bhp 330@4600
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci cool 19.25 Quarts
+ci ftype Premium
+ci equip Pushbutton Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.50 x 14
+cls 5138, 884(\w)([\dX]{6})
+clv 21653, 1964, Oldsmobile, Ninety Eight, Luxury Sedan
+ci axle Semifloating
+ci series Ninety Eight
+ci msrp $4331.00
+ci year 1964
+ci origin United States
+ci prod 17346
+ci make Oldsmobile
+ci weight 4337
+ci maker Fisher
+ci model 3829
+ci svc Power hydraulic
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 21
+ci trans 18
+ci tcase -NA-
+ci oil 4
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.08
+ci diff Hypoid
+ci rtred 61
+ci height 57.1
+ci length 222.3
+ci ftred 62.2
+ci width 78
+ci wbase 126
+ci rhp 54.45
+ci cyl 8
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci englo On top of center exhaust port, on left cylinder head.
+ci trq 440@2800
+ci etype Hydra-Matic automatic
+ci comp 10.25
+ci b&s 4 1/8 & 3 11/16
+ci engno Starting J500001
+ci disp 394.24
+ci bhp 330@4600
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci cool 19.25 Quarts
+ci ftype Premium
+ci equip Pushbutton Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.50 x 14
+cls 5139, 884(\w)([\dX]{6})
+clv 21654, 1964, Oldsmobile, Ninety Eight, Town Sedan
+ci axle Semifloating
+ci series Ninety Eight
+ci msrp $3982.00
+ci prod 11380
+ci year 1964
+ci origin United States
+ci make Oldsmobile
+ci weight 4234
+ci maker Fisher
+ci model 3819
+ci svc Power hydraulic
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 21
+ci trans 18
+ci tcase -NA-
+ci oil 4
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.08
+ci diff Hypoid
+ci rtred 61
+ci height 57.1
+ci length 222.3
+ci ftred 62.2
+ci width 78
+ci wbase 126
+ci rhp 54.45
+ci cyl 8
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci englo On top of center exhaust port, on left cylinder head.
+ci trq 440@2800
+ci etype Hydra-Matic automatic
+ci comp 10.25
+ci b&s 4 1/8 & 3 11/16
+ci engno Starting J500001
+ci disp 394.24
+ci bhp 330@4600
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci cool 19.25 Quarts
+ci ftype Premium
+ci equip Pushbutton Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.50 x 14
+cls 5140, 864(\w)([\dX]{6})
+clv 21655, 1964, Oldsmobile, Starfire, Convertible Coupe
+ci axle Semifloating
+ci year 1964
+ci series Starfire
+ci make Oldsmobile
+ci msrp $4742.00
+ci origin United States
+ci prod 2410
+ci model 3667
+ci doors 2
+ci maker Fisher
+ci weight 4253
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power hydraulic
+ci tcase -NA-
+ci trans 18
+ci oil 4
+ci fuel 21
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.42
+ci height 54.2
+ci wbase 123
+ci rtred 61
+ci ftred 62.2
+ci width 78
+ci length 215.3
+ci b&s 4 1/8 & 3 11/16
+ci bhp 345@4800
+ci cyl 8
+ci disp 394.24
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On top of center exhaust port, on left cylinder head.
+ci rhp 54.45
+ci comp 10.5
+ci vlift Hydraulic
+ci engno Starting J500001S
+ci mbear 5
+ci etype V8 Valve-in-head
+ci trq 440@3200
+ci etype Hydra-Matic automatic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci rad Tube and center
+ci batt 12
+ci cool 19.25 Quarts
+ci exha Dual
+ci ftype Premium
+ci equip Power windows
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power brakes
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.00 x 14
+cls 5141, 864(\w)([\dX]{6})
+clv 21656, 1964, Oldsmobile, Starfire, Holiday Coupe
+ci axle Semifloating
+ci msrp $4128.00
+ci series Starfire
+ci make Oldsmobile
+ci year 1964
+ci prod 13753
+ci origin United States
+ci doors 2
+ci weight 4167
+ci maker Fisher
+ci model 3657
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power hydraulic
+ci fuel 21
+ci trans 18
+ci oil 4
+ci tcase -NA-
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.42
+ci height 54.2
+ci wbase 123
+ci rtred 61
+ci ftred 62.2
+ci width 78
+ci length 215.3
+ci b&s 4 1/8 & 3 11/16
+ci bhp 345@4800
+ci cyl 8
+ci disp 394.24
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On top of center exhaust port, on left cylinder head.
+ci rhp 54.45
+ci comp 10.5
+ci vlift Hydraulic
+ci engno Starting J500001S
+ci mbear 5
+ci etype V8 Valve-in-head
+ci trq 440@3200
+ci etype Hydra-Matic automatic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci rad Tube and center
+ci batt 12
+ci cool 19.25 Quarts
+ci exha Dual
+ci ftype Premium
+ci equip Power windows
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power brakes
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.00 x 14
+cls 5142, 854(\w)([\dX]{6})
+clv 21657, 1964, Oldsmobile, Super 88, Celebrity Sedan
+ci axle Semifloating
+ci msrp $3245.00
+ci series Super 88
+ci make Oldsmobile
+ci origin United States
+ci prod 19736
+ci year 1964
+ci maker Fisher
+ci doors 4
+ci weight 4024
+ci model 3569
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci rdiff 5
+ci fuel 21
+ci trans 2.5
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci width 78
+ci length 215.3
+ci ftred 62.2
+ci wbase 123
+ci rtred 61
+ci height 55.9
+ci etype Selective gear
+ci mbear 5
+ci trq 440@2800
+ci cyl 8
+ci rhp 54.45
+ci etype V8 Valve-in-head
+ci b&s 4 1/8 & 3 11/16
+ci englo On top of center exhaust port, on left cylinder head.
+ci etype Downdraft 4-barrel
+ci disp 394.24
+ci bhp 330@4600
+ci engno Starting J500001
+ci vlift Hydraulic
+ci comp 10.25
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 19.25 Quarts
+ci ftype Regular
+ci equip Power steering
+ci equip Power windows
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Hydra-Matic automatic transmission
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 4.02
+ci drive Rear wheel drive
+ci 1gear 3.17
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.65
+ci 3gear 4.6
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.00 x 14
+cls 5143, 854(\w)([\dX]{6})
+clv 21658, 1964, Oldsmobile, Super 88, Holiday Sedan
+ci axle Semifloating
+ci msrp $3472.00
+ci prod 17778
+ci make Oldsmobile
+ci origin United States
+ci year 1964
+ci series Super 88
+ci maker Fisher
+ci doors 4
+ci weight 4084
+ci model 3539
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci rdiff 5
+ci fuel 21
+ci trans 2.5
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci width 78
+ci length 215.3
+ci ftred 62.2
+ci wbase 123
+ci rtred 61
+ci height 55.9
+ci etype Selective gear
+ci mbear 5
+ci trq 440@2800
+ci cyl 8
+ci rhp 54.45
+ci etype V8 Valve-in-head
+ci b&s 4 1/8 & 3 11/16
+ci englo On top of center exhaust port, on left cylinder head.
+ci etype Downdraft 4-barrel
+ci disp 394.24
+ci bhp 330@4600
+ci engno Starting J500001
+ci vlift Hydraulic
+ci comp 10.25
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Two Tone Colors Available
+co Wedgewood Mist Metallic
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 19.25 Quarts
+ci ftype Regular
+ci equip Power steering
+ci equip Power windows
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Hydra-Matic automatic transmission
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 4.02
+ci drive Rear wheel drive
+ci 1gear 3.17
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.65
+ci 3gear 4.6
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.00 x 14
+cls 5144, 804(\w)([\dX]{6})
+clv 21659, 1964, Oldsmobile, Vista, Cruiser, 2-seat
+ci axle Semifloating
+ci origin United States
+ci msrp $2938.00
+ci series Vista
+ci year 1964
+ci prod 1305
+ci make Oldsmobile
+ci weight 3553
+ci model 3055
+ci maker Fisher
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci trans 2
+ci oil 4
+ci rdiff 2.75
+ci fuel 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 208
+ci wbase 120
+ci rtred 58
+ci rhp 49.6
+ci cyl 8
+ci comp 9.0
+ci mbear 5
+ci etype Single downdraft
+ci etype V8 valve-in-head
+ci disp 330
+ci englo Stamped on front of right cylinder head.
+ci trq 225@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci engno Starting T001001G
+ci bhp 155@4400
+ci etype Synchronous meshing
+ci b&s 3 15/16 & 3 3/8
+ci color Exterior Colors
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Wedgewood Mist Metallic
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tube and center
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Flightomatic automatic transmission
+ci equip Power steering
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci rev 2.58
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.48
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.50 x 14
+cls 5145, 804(\w)([\dX]{6})
+clv 21660, 1964, Oldsmobile, Vista, Cruiser, 3-seat
+ci axle Semifloating
+ci origin United States
+ci msrp $3072.00
+ci series Vista
+ci year 1964
+ci prod 2089
+ci make Oldsmobile
+ci weight 3658
+ci model 3065
+ci maker Fisher
+ci doors 4
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci rdiff 2.75
+ci trans 2
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 208
+ci wbase 120
+ci rtred 58
+ci rhp 49.6
+ci cyl 8
+ci comp 9.0
+ci mbear 5
+ci etype Single downdraft
+ci etype V8 valve-in-head
+ci disp 330
+ci englo Stamped on front of right cylinder head.
+ci trq 225@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci bhp 155@4400
+ci engno Starting T001001G
+ci etype Synchronous meshing
+ci b&s 3 15/16 & 3 3/8
+ci color Exterior Colors
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Wedgewood Mist Metallic
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tube and center
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Flightomatic automatic transmission
+ci equip Power steering
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci rev 2.58
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.48
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.50 x 14
+cls 5146, 824(\w)([\dX]{6})
+clv 21661, 1964, Oldsmobile, Vista, Custom Cruiser, 2-seat
+ci axle Semifloating
+ci make Oldsmobile
+ci origin United States
+ci series Vista
+ci msrp $3055.00
+ci year 1964
+ci prod 3320
+ci model 3255
+ci maker Fisher
+ci weight 3582
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci trans 2
+ci tcase -NA-
+ci rdiff 2.75
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 58
+ci wbase 120
+ci length 208
+ci engno Starting T001001G
+ci cyl 8
+ci comp 9.0
+ci disp 330
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Synchronous meshing
+ci bhp 155@4400
+ci mbear 5
+ci b&s 3 15/16 & 3 3/8
+ci etype V8 valve-in-head
+ci vlift Hydraulic
+ci rhp 49.6
+ci trq 225@2400
+ci etype Single downdraft
+ci englo Stamped on front of right cylinder head.
+ci color Exterior Colors
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci ftype Regular
+ci rad Tube and center
+ci cool Water pump
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Flightomatic automatic transmission
+ci equip Power windows
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 2.58
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.48
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.50 x 14
+ci sloc Trunk
+cls 5147, 824(\w)([\dX]{6})
+clv 21662, 1964, Oldsmobile, Vista, Custom Cruiser, 3-seat
+ci axle Semifloating
+ci prod 7286
+ci origin United States
+ci series Vista
+ci msrp $3122.00
+ci make Oldsmobile
+ci year 1964
+ci model 3265
+ci maker Fisher
+ci weight 3687
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci tcase -NA-
+ci oil 4
+ci rdiff 2.75
+ci trans 2
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 58
+ci wbase 120
+ci length 208
+ci engno Starting T001001G
+ci cyl 8
+ci comp 9.0
+ci disp 330
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Synchronous meshing
+ci bhp 155@4400
+ci mbear 5
+ci b&s 3 15/16 & 3 3/8
+ci rhp 49.6
+ci vlift Hydraulic
+ci etype V8 valve-in-head
+ci trq 225@2400
+ci etype Single downdraft
+ci englo Stamped on front of right cylinder head.
+ci color Exterior Colors
+co Aqua Mist Metallic
+co Bermuda Blue
+co Cashmere Beige
+co Ebony Black
+co Fern Mist Metallic
+co Holiday Red
+co Jade Mist Metallic
+co Midnight Mist Metallic
+co Pacific Mist Metallic
+co Provincial White
+co Regal Mist Metallic #2
+co Saddle Mist Metallic
+co Sheffield Mist Metallic
+co Tahitian Yellow
+co Wedgewood Mist Metallic
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci ftype Regular
+ci rad Tube and center
+ci cool Water pump
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Flightomatic automatic transmission
+ci equip Power windows
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 2.58
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.48
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.50 x 14
+ci sloc Trunk

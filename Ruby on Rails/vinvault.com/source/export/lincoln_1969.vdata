@@ -1,0 +1,299 @@
+cls 4249, 9(\w)89(\w)([\dX]{6})
+clv 17417, 1969, Lincoln, Continental Mark III, Coupe
+ci axle Semifloating
+ci prod 23088
+ci msrp $6741.00
+ci origin United States
+ci make Lincoln
+ci year 1969
+ci series Continental Mark III
+ci maker Lincoln
+ci doors 2
+ci model 65A
+ci weight 4575
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci fbsize 11 23/32
+ci bsize 11 1/32
+ci trans 26
+ci rdiff 5
+ci oil 4.5
+ci fuel 25.5
+ci tcase -NA-
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.8
+ci diff Hypoid
+ci height 53.7
+ci wbase 117.2
+ci length 216.1
+ci width 79.4
+ci rtred 62
+ci mbear 5
+ci comp 10.5
+ci block Special alloy iron
+ci cyl 8
+ci bhp 365@4600
+ci etype Select Shift automatic
+ci b&s 4.36 & 3.85
+ci rhp 60.83
+ci disp 460
+ci trq 500@2800
+ci etype Downdraft 4-barrel
+ci etype Own V8 Overhead valve
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Black
+co Burnt Orange Metallic
+co Dark Blue Metallic
+co Dark Ivy Green Metallic
+co Dark Orchid Metallic
+co Light Copper Metallic
+co Light Gold
+co Light Gray Metallic
+co Light Green
+co Light Green Metallic
+co Maroon
+co Medium Aqua Metallic
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Medium Orchid Metallic
+co Red
+co White
+co Yellow
+ci exha Dual
+ci ftype Premium
+ci batt 12
+ci ign Distributor and coil
+ci cool 19.4 Quarts
+ci rad Tubular and fin
+ci cool Water pump
+ci equip Power Door Locks
+ci equip White Sidewall Tires
+ci equip Vinyl Roof
+ci equip AM-FM Stereo Radio
+ci equip Power Seat-6 Way
+ci equip Higher Torque Axle
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci equip Air Conditioner
+ci equip Rear Window Defogger
+ci equip Automatic Speed Control
+ci equip Automatic Temperature Control (a/c)
+ci equip Remote Control Deck-Lid Release
+ci sgear Integral power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 9.15 x 15
+cls 4250, 9(\w)81(\w)([\dX]{6})
+clv 17418, 1969, Lincoln, Continental, Coupe
+ci axle Semifloating
+ci msrp $5813.00
+ci series Continental
+ci year 1969
+ci origin United States
+ci prod 9032
+ci make Lincoln
+ci model 65A
+ci doors 2
+ci weight 4916
+ci maker Lincoln
+ci bsize 11 3/32
+ci fbsize 11.875
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci trans 26
+ci fuel 25.5
+ci oil 4.5
+ci tcase -NA-
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci rtred 61
+ci length 224.2
+ci ftred 62.4
+ci wbase 126
+ci width 79.7
+ci height 54.2
+ci bhp 365@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Select Shift automatic
+ci vlift Hydraulic
+ci cyl 8
+ci b&s 4.36 & 3.85
+ci rhp 60.83
+ci mbear 5
+ci block Special alloy iron
+ci trq 500@2800
+ci comp 10.5
+ci disp 460
+ci etype Downdraft 4-barrel
+ci etype Own V8 Overhead valve
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue Metallic
+co Dark Gray Metallic
+co Dark Ivy Green Metallic
+co Dark Orchid Metallic
+co Light Copper Metallic
+co Light Gold
+co Light Gray Metallic
+co Light Green
+co Light Green Metallic
+co Maroon
+co Medium Aqua Metallic
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Medium Orchid Metallic
+co Platinum
+co Red
+co White
+co Yellow
+ci batt 12
+ci rad Tubular and fin
+ci cool 19.5 Quarts
+ci ftype Premium
+ci exha Dual
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Individual front seats
+ci equip Power Seat-6 Way
+ci equip Automatic Temperature Control (a/c)
+ci equip Automatic Speed Control
+ci equip Automatic Ride Leveler
+ci equip Air Conditioner
+ci equip Vinyl Roof
+ci equip Other Tires
+ci equip AM Radio w/Power Antenna
+ci equip Power Door Locks
+ci equip Flared Wheel Covers
+ci equip Power Vent Windows
+ci equip Power Windows
+ci equip AM FM Stereo Radio w/Power Antenna
+ci equip Remote Control Trunk Release
+ci equip Hydra-Matic automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Rear Window Defogger
+ci equip 2 way Power Seat
+ci equip Power steering
+ci sgear Integral power
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 9.15 x 15
+cls 4251, 9(\w)82(\w)([\dX]{6})
+clv 17419, 1969, Lincoln, Continental, Sedan
+ci axle Semifloating
+ci year 1969
+ci msrp $6046.00
+ci series Continental
+ci origin United States
+ci make Lincoln
+ci prod 29258
+ci doors 4
+ci weight 5011
+ci model 53A
+ci maker Lincoln
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 3/32
+ci fbsize 11.875
+ci svc Power front disc rear self-adjusting drum
+ci fuel 25.5
+ci tcase -NA-
+ci trans 26
+ci oil 4.5
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci height 54.9
+ci length 224.2
+ci wbase 126
+ci rtred 61
+ci ftred 62.4
+ci width 79.7
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci etype Select Shift automatic
+ci vlift Hydraulic
+ci rhp 60.83
+ci mbear 5
+ci bhp 365@4600
+ci b&s 4.36 & 3.85
+ci block Special alloy iron
+ci trq 500@2800
+ci comp 10.5
+ci disp 460
+ci etype Downdraft 4-barrel
+ci etype Own V8 Overhead valve
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue Metallic
+co Dark Gray Metallic
+co Dark Ivy Green Metallic
+co Dark Orchid Metallic
+co Light Copper Metallic
+co Light Gold
+co Light Gray Metallic
+co Light Green
+co Light Green Metallic
+co Maroon
+co Medium Aqua Metallic
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Medium Orchid Metallic
+co Platinum
+co Red
+co White
+co Yellow
+ci batt 12
+ci rad Tubular and fin
+ci cool 19.5 Quarts
+ci ftype Premium
+ci exha Dual
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Individual front seats
+ci equip Power Seat-6 Way
+ci equip Automatic Temperature Control (a/c)
+ci equip Automatic Speed Control
+ci equip Automatic Ride Leveler
+ci equip Air Conditioner
+ci equip Vinyl Roof
+ci equip Other Tires
+ci equip AM Radio w/Power Antenna
+ci equip Power Door Locks
+ci equip Flared Wheel Covers
+ci equip Power Vent Windows
+ci equip Power Windows
+ci equip AM FM Stereo Radio w/Power Antenna
+ci equip Remote Control Trunk Release
+ci equip Hydra-Matic automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Rear Window Defogger
+ci equip 2 way Power Seat
+ci equip Power steering
+ci sgear Integral power
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 9.15 x 15

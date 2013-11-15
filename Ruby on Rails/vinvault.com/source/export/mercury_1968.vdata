@@ -1,0 +1,4043 @@
+cls 4594, 8(\w)68(\w)([\dX]{6})
+clv 19023, 1968, Mercury, Brougham, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci series Brougham
+ci prod 4031
+ci year 1968
+ci model 57C
+ci weight 4187
+ci maker Mercury
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 3
+ci rdiff 5
+ci fuel 25
+ci tcase -NA-
+ci oil 5
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci length 220.1
+ci height 55
+ci wbase 123
+ci width 77.9
+ci rtred 62
+ci trq 427@2800
+ci cyl 8
+ci block Special alloy iron
+ci mbear 5
+ci vlift Hydraulic
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci bhp 315@4600
+ci etype Mercomatic automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci etype V8 Valve-in-head
+ci rhp 52.41
+ci comp 10.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci exha Single
+ci cool 19.5 Quarts
+ci ftype Premium
+ci rad Tubular and fin
+ci batt 12
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci equip Wire Wheel Covers
+ci equip High Performance Axle
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Whisper-Aire Conditioning
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Combination AM Radio/StereoTape System
+ci equip 428 cu. in. V8 engine
+ci equip Rear Window Defogger
+ci equip Tilt Steering Wheel
+ci equip 6-Way Power Twin-Comfort Seat
+ci equip Tinted Glass
+ci equip Remote Control Deck-Lid Release
+ci equip Automatic Ride Leveler
+ci equip Shoulder Belts
+ci equip AM-FM Stereo Radio
+ci equip Six-Way Power Seat (Bench)
+ci equip AutomaticSpeed Control
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4595, 8(\w)64(\w)([\dX]{6})
+clv 19024, 1968, Mercury, Brougham, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci series Brougham
+ci year 1968
+ci make Mercury
+ci prod 1660
+ci model 54J
+ci weight 4149
+ci doors 4
+ci maker Mercury
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci oil 5
+ci rdiff 5
+ci tcase -NA-
+ci trans 3
+ci fuel 25
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci wbase 123
+ci length 220.1
+ci rtred 62
+ci width 77.9
+ci height 56
+ci comp 10.5
+ci cyl 8
+ci block Special alloy iron
+ci vlift Hydraulic
+ci rhp 52.41
+ci mbear 5
+ci trq 427@2800
+ci etype V8 Valve-in-head
+ci etype Mercomatic automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci disp 389.09
+ci bhp 315@4600
+ci b&s 4 3/64 & 3 25/32
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci cool 19.5 Quarts
+ci exha Single
+ci batt 12
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci equip Wire Wheel Covers
+ci equip High Performance Axle
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Whisper-Aire Conditioning
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Combination AM Radio/StereoTape System
+ci equip 428 cu. in. V8 engine
+ci equip Rear Window Defogger
+ci equip Tilt Steering Wheel
+ci equip 6-Way Power Twin-Comfort Seat
+ci equip Tinted Glass
+ci equip Remote Control Deck-Lid Release
+ci equip Automatic Ride Leveler
+ci equip Shoulder Belts
+ci equip AM-FM Stereo Radio
+ci equip Six-Way Power Seat (Bench)
+ci equip AutomaticSpeed Control
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4596, 8(\w)01(\w)([\dX]{6})
+clv 19025, 1968, Mercury, Comet 6, Sports Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2477.00
+ci make Mercury
+ci origin United States
+ci series Comet 6
+ci prod 16693
+ci year 1968
+ci doors 2
+ci weight 3078
+ci maker Mercury
+ci model 65A
+ci bsize 10
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 4
+ci fuel 20
+ci trans 3.5
+ci oil 4.5
+ci carb Autolite
+ci ctype Single dry plate
+ci csize 9.06 inches
+ci diff Hypoid
+ci diffr 3.25
+ci length 206.1
+ci rtred 58
+ci height 53.5
+ci wbase 116
+ci width 76
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.8
+ci cyl 6
+ci etype Own Inline 6
+ci trq 190@2200
+ci etype Single downdraft
+ci b&s 3.68 & 3.13
+ci bhp 115@3800
+ci block Special alloy iron
+ci disp 200
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci rhp 32.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci cool 9.5 Quarts
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci equip Performance Handling Package
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip Cruise-O-Matic automatic transmission
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Power Disc Brakes (Front)
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Tinted Glass
+ci equip Rear Window Defogger
+ci equip Tachometer
+ci equip Wheel Covers Wire
+ci equip Styled Steel Wheels (Set of 5)
+ci equip Wheel Covers-Deluxe
+ci equip High Performance Axle
+ci equip Shoulder Belts
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci rev 3.17
+ci 1gear 2.99
+ci 2gear 1.75
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 4597, 8(\w)01(\w)([\dX]{6})
+clv 19026, 1968, Mercury, Comet 8, Sports Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1968
+ci msrp $2583.00
+ci origin United States
+ci prod 16693
+ci make Mercury
+ci series Comet 8
+ci maker Mercury
+ci weight 3413
+ci doors 2
+ci model 65A
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci oil 5
+ci rdiff 4
+ci trans 3.5
+ci fuel 20
+ci carb Autolite
+ci ctype Single dry plate
+ci csize 9.06 inches
+ci diffr 3.25
+ci diff Hypoid
+ci width 76
+ci wbase 116
+ci rtred 58
+ci length 206.1
+ci height 53.5
+ci b&s 4 & 3
+ci disp 302
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci cyl 8
+ci comp 9.0
+ci trq 300@2600
+ci etype Own V8 Overhead valve
+ci bhp 210@4600
+ci mbear 5
+ci etype Fully synchronized
+ci rhp 51.2
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci cool Centrifugal water  pump
+ci cool 15 Quarts
+ci batt 12
+ci ftype Regular
+ci rad Tubular and fin
+ci exha Single
+ci ign Distributor and coil
+ci equip Whisper-Aire Conditioning
+ci equip Wheel Covers-Deluxe
+ci equip High Performance Axle
+ci equip Cruise-O-Matic automatic transmission
+ci equip Wheel Covers Wire
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Performance Handling Package
+ci equip Power Disc Brakes (Front)
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Tinted Glass
+ci equip Rear Window Defogger
+ci equip 427 cu. in. V8 engine
+ci equip Tachometer
+ci equip Shoulder Belts
+ci equip 390 cu. in. V8 engine
+ci equip Styled Steel Wheels (Set of 5)
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.99
+ci rev 3.17
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 4598, 8(\w)91(\w)([\dX]{6})
+clv 19027, 1968, Mercury, Cougar, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1968
+ci msrp $2933.00
+ci origin United States
+ci make Mercury
+ci prod 81014
+ci series Cougar
+ci maker Mercury
+ci model 65A/65C
+ci weight 3094
+ci doors 2
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci fuel 17
+ci tcase -NA-
+ci trans 3.5
+ci oil 4
+ci rdiff 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 2.79
+ci diff Hypoid
+ci rtred 58.5
+ci wbase 111
+ci width 71.3
+ci length 190.3
+ci disp 302
+ci rhp 51.2
+ci mbear 5
+ci cyl 8
+ci b&s 4 & 3
+ci comp 9.0
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Own V8 Overhead valve
+ci bhp 210@4600
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci trq 300@2600
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Nordic Bllue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci batt 12
+ci ftype Regular
+ci rad Tubular and fin
+ci exha Single
+ci equip 390 cu. in. V8 engine
+ci equip Merc-O-Matic automatic transmission
+ci equip Wheel Covers-w/Recessed Spinners
+ci equip Wheel Covers-Wire
+ci equip Dual Exhaust
+ci equip Wheel Covers-Deluxe(Incl w/Decor Group)
+ci equip Visual Check Panel
+ci equip Other Tires
+ci equip Adj. Headrests
+ci equip Performance Handling Package
+ci equip Power Front Disc Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip AM-FM Stereo Radio w/Antenna-Push Button
+ci equip Rear Window Defogger
+ci equip 427 cu. in. V8 engine
+ci equip Tinted Glass (Complete)
+ci equip Shoulder Belts
+ci equip Tilt-Away Steering Wheel
+ci equip Styled Steel Wheels
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci rev 3.17
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize E70 x 14
+cls 4599, 8(\w)93(\w)([\dX]{6})
+clv 19028, 1968, Mercury, Cougar XR7, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3232.00
+ci series Cougar XR7
+ci prod 32712
+ci make Mercury
+ci origin United States
+ci year 1968
+ci model 65B
+ci doors 2
+ci maker Mercury
+ci weight 3134
+ci bsize 10
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 3.5
+ci tcase -NA-
+ci fuel 17
+ci rdiff 4
+ci oil 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.79
+ci width 71.3
+ci length 190.3
+ci rtred 58.5
+ci wbase 111
+ci rhp 51.2
+ci mbear 5
+ci b&s 4 & 3
+ci disp 302
+ci cyl 8
+ci comp 9.0
+ci trq 300@2600
+ci etype Own V8 Overhead valve
+ci bhp 210@4600
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Nordic Bllue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci cool 15 Quarts
+ci cool Centrifugal water  pump
+ci batt 12
+ci rad Tubular and fin
+ci equip Wheel Covers-Wire
+ci equip Merc-O-Matic automatic transmission
+ci equip 427 cu. in. V8 engine
+ci equip 390 cu. in. V8 engine
+ci equip Visual Check Panel
+ci equip AM-FM Stereo Radio w/Antenna-Push Button
+ci equip Tinted Glass (Complete)
+ci equip Other Tires
+ci equip Tilt-Away Steering Wheel
+ci equip Performance Handling Package
+ci equip Power Front Disc Brakes
+ci equip Power Steering
+ci equip Adj. Headrests
+ci equip Styled Steel Wheels
+ci equip Rear Window Defogger
+ci equip Wheel Covers-w/Recessed Spinners
+ci equip Whisper-Aire Conditioning
+ci equip Shoulder Belts
+ci equip Dual Exhaust
+ci equip Power Transfer Axle
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.99
+ci gears 3
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci rev 3.17
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize E70 x 14
+cls 4600, 8(\w)15(\w)([\dX]{6})
+clv 19029, 1968, Mercury, Cyclone GT, Fastback Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series Cyclone GT
+ci origin United States
+ci year 1968
+ci make Mercury
+ci doors 2
+ci weight 3687
+ci model 63H
+ci maker Mercury
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci oil 5
+ci tcase -NA-
+ci rdiff 5
+ci fuel 20
+ci trans 3.5
+ci carb Autolite
+ci csize 11 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci width 76
+ci length 206.1
+ci wbase 116
+ci rtred 58
+ci height 53.5
+ci block Special alloy iron
+ci etype V8 Valve-in-head
+ci rhp 52.41
+ci mbear 5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 460@3200
+ci comp 10.9
+ci b&s 4 3/64 & 3 25/32
+ci bhp 390@5600
+ci disp 389.09
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci exha Dual
+ci cool 20 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Multi-Drive automatic transmission
+ci equip Bucket Seats
+ci equip Tachometer
+ci equip Styled Steel Wheels (Set of 5)
+ci equip Wheel Covers Wire
+ci equip Performance Handling Package
+ci equip Power Disc Brakes (Front)
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Windows (side)
+ci equip Tinted Glass
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip Rear Window Defogger
+ci equip Wheel Covers-Deluxe
+ci equip Shoulder Belts
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip High Performance Axle
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 4601, 8(\w)17(\w)([\dX]{6})
+clv 19030, 1968, Mercury, Cyclone GT, Formal Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series Cyclone GT
+ci origin United States
+ci year 1968
+ci make Mercury
+ci doors 2
+ci weight 3641
+ci model 65H
+ci maker Mercury
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci oil 5
+ci tcase -NA-
+ci rdiff 5
+ci fuel 20
+ci trans 3.5
+ci carb Autolite
+ci csize 11 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci width 76
+ci length 206.1
+ci wbase 116
+ci rtred 58
+ci height 53.5
+ci block Special alloy iron
+ci etype V8 Valve-in-head
+ci rhp 52.41
+ci mbear 5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 460@3200
+ci comp 10.9
+ci b&s 4 3/64 & 3 25/32
+ci bhp 390@5600
+ci disp 389.09
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci exha Dual
+ci cool 20 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Multi-Drive automatic transmission
+ci equip Bucket Seats
+ci equip Tachometer
+ci equip Styled Steel Wheels (Set of 5)
+ci equip Wheel Covers Wire
+ci equip Performance Handling Package
+ci equip Power Disc Brakes (Front)
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Windows (side)
+ci equip Tinted Glass
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip Rear Window Defogger
+ci equip Wheel Covers-Deluxe
+ci equip Shoulder Belts
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip High Performance Axle
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 4602, 8(\w)15(\w)([\dX]{6})
+clv 19031, 1968, Mercury, Cyclone, Fastback Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci make Mercury
+ci series Cyclone
+ci year 1968
+ci prod 12260
+ci msrp $2768.00
+ci weight 3254
+ci maker Mercury
+ci doors 2
+ci model 63A
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci rdiff 4
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci fuel 20
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.79
+ci width 76
+ci length 203.1
+ci wbase 116
+ci height 53.5
+ci rtred 58.5
+ci ftred 58.8
+ci rhp 51.2
+ci mbear 5
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 300@2600
+ci b&s 4 & 3
+ci comp 9.0
+ci etype Own V8 Overhead valve
+ci vlift Hydraulic
+ci bhp 210@4600
+ci etype Dual downdraft
+ci disp 302
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 15 Quarts
+ci batt 12
+ci equip Power Windows (side)
+ci equip Whisper-Aire Conditioning
+ci equip High Performance Axle
+ci equip Cruise-O-Matic automatic transmission
+ci equip Bucket Seats
+ci equip Wheel Covers-Deluxe
+ci equip Wheel Covers Wire
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Performance Handling Package
+ci equip Power Disc Brakes (Front)
+ci equip Power Steering
+ci equip Tinted Glass
+ci equip Tachometer
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Rear Window Defogger
+ci equip 427 cu. in. V8 engine
+ci equip Styled Steel Wheels (Set of 5)
+ci equip Shoulder Belts
+ci equip 390 cu. in. V8 engine
+ci equip Power Transfer Axle
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 4603, 8(\w)17(\w)([\dX]{6})
+clv 19032, 1968, Mercury, Cyclone, Formal Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci make Mercury
+ci series Cyclone
+ci year 1968
+ci prod 1368
+ci msrp $2768.00
+ci weight 3205
+ci maker Mercury
+ci doors 2
+ci model 65F
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci rdiff 4
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci fuel 20
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.79
+ci width 76
+ci length 206.1
+ci wbase 116
+ci height 53.5
+ci rtred 58.5
+ci ftred 58.8
+ci rhp 51.2
+ci mbear 5
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 300@2600
+ci b&s 4 & 3
+ci comp 9.0
+ci etype Own V8 Overhead valve
+ci vlift Hydraulic
+ci bhp 210@4600
+ci etype Dual downdraft
+ci disp 302
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 15 Quarts
+ci batt 12
+ci equip Power Windows (side)
+ci equip Whisper-Aire Conditioning
+ci equip High Performance Axle
+ci equip Cruise-O-Matic automatic transmission
+ci equip Bucket Seats
+ci equip Wheel Covers-Deluxe
+ci equip Wheel Covers Wire
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Performance Handling Package
+ci equip Power Disc Brakes (Front)
+ci equip Power Steering
+ci equip Tinted Glass
+ci equip Tachometer
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Rear Window Defogger
+ci equip 427 cu. in. V8 engine
+ci equip Styled Steel Wheels (Set of 5)
+ci equip Shoulder Belts
+ci equip 390 cu. in. V8 engine
+ci equip Power Transfer Axle
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 4604, 8(\w)69(\w)([\dX]{6})
+clv 19033, 1968, Mercury, Marquis, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci prod 3965
+ci msrp $3685.00
+ci series Marquis
+ci origin United States
+ci year 1968
+ci maker Mercury
+ci model 63D
+ci doors 2
+ci weight 3995
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 3
+ci oil 5
+ci fuel 25
+ci tcase -NA-
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci width 77.9
+ci wbase 123
+ci length 220.1
+ci rtred 62
+ci height 54.9
+ci mbear 5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 52.41
+ci trq 427@2800
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci bhp 315@4600
+ci etype Mercomatic automatic
+ci block Special alloy iron
+ci etype V8 Valve-in-head
+ci comp 10.5
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci rad Tubular and fin
+ci batt 12
+ci cool 19.5 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci equip Power Windows (side)
+ci equip Combination AM Radio/StereoTape System
+ci equip AutomaticSpeed Control
+ci equip Automatic Ride Leveler
+ci equip AM-FM Stereo Radio
+ci equip Wire Wheel Covers
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Vent Windows
+ci equip Whisper-Aire Conditioning
+ci equip High Performance Axle
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Rear Window Defogger
+ci equip Tilt Steering Wheel
+ci equip Deluxe Wheel Covers
+ci equip Tinted Glass
+ci equip Remote Control Deck-Lid Release
+ci equip 428 cu. in. V8 engine
+ci equip Shoulder Belts
+ci equip Deluxe Steering Wheel
+ci equip Six-Way Power Seat (Bench)
+ci equip 6-Way Power Twin-Comfort Seat
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4605, 8(\w)57(\w)([\dX]{6})
+clv 19034, 1968, Mercury, Montclair, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series Montclair
+ci origin United States
+ci msrp $3387.00
+ci make Mercury
+ci year 1968
+ci prod 3497
+ci maker Mercury
+ci doors 2
+ci weight 3848
+ci model 63B
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 25
+ci trans 3
+ci rdiff 5
+ci tcase -NA-
+ci oil 5
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci height 54.5
+ci length 220.1
+ci wbase 123
+ci rtred 62
+ci width 77.9
+ci rhp 52.41
+ci bhp 265@4400
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 9.5
+ci b&s 4 3/64 & 3 25/32
+ci trq 390@2600
+ci block Special alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci disp 389.09
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool 19.5 Quarts
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci equip Power Vent Windows
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Wire Wheel Covers
+ci equip Merc-O-Matic automatic transmission
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Combination AM Radio/StereoTape System
+ci equip Whisper-Aire Conditioning
+ci equip Tinted Glass
+ci equip Tilt Steering Wheel
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip High Performance Axle
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Rear Window Defogger
+ci equip Shoulder Belts
+ci equip Six-Way Power Seat (Bench)
+ci equip 428 cu. in. V8 engine
+ci equip AM-FM Stereo Radio
+ci equip Remote Control Deck-Lid Release
+ci equip Automatic Ride Leveler
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci 5gear Not applicable
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4606, 8(\w)58(\w)([\dX]{6})
+clv 19035, 1968, Mercury, Montclair, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 4008
+ci origin United States
+ci year 1968
+ci make Mercury
+ci series Montclair
+ci msrp $3459.00
+ci weight 3943
+ci model 57B
+ci maker Mercury
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci trans 3
+ci rdiff 5
+ci tcase -NA-
+ci fuel 25
+ci oil 5
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci height 55
+ci length 220.1
+ci wbase 123
+ci rtred 62
+ci width 77.9
+ci bhp 265@4400
+ci rhp 52.41
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 9.5
+ci disp 389.09
+ci b&s 4 3/64 & 3 25/32
+ci block Special alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci trq 390@2600
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool 19.5 Quarts
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci equip Power Vent Windows
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Wire Wheel Covers
+ci equip Merc-O-Matic automatic transmission
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Combination AM Radio/StereoTape System
+ci equip Whisper-Aire Conditioning
+ci equip Tinted Glass
+ci equip Tilt Steering Wheel
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip High Performance Axle
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Rear Window Defogger
+ci equip Shoulder Belts
+ci equip Six-Way Power Seat (Bench)
+ci equip 428 cu. in. V8 engine
+ci equip AM-FM Stereo Radio
+ci equip Remote Control Deck-Lid Release
+ci equip Automatic Ride Leveler
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci 5gear Not applicable
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4607, 8(\w)54(\w)([\dX]{6})
+clv 19036, 1968, Mercury, Montclair, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3331.00
+ci origin United States
+ci make Mercury
+ci year 1968
+ci prod 5373
+ci series Montclair
+ci maker Mercury
+ci weight 3863
+ci model 54C
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 3
+ci tcase -NA-
+ci rdiff 5
+ci fuel 25
+ci oil 5
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 123
+ci height 56
+ci rtred 62
+ci length 220.1
+ci width 77.9
+ci block Special alloy iron
+ci rhp 52.41
+ci disp 389.09
+ci trq 390@2600
+ci etype Dual downdraft
+ci comp 9.5
+ci etype V8 Valve-in-head
+ci mbear 5
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci b&s 4 3/64 & 3 25/32
+ci bhp 265@4400
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci rad Tubular and fin
+ci cool 19.5 Quarts
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci ign Distributor and coil
+ci equip High Performance Axle
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Wire Wheel Covers
+ci equip Merc-O-Matic automatic transmission
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Combination AM Radio/StereoTape System
+ci equip Whisper-Aire Conditioning
+ci equip Tinted Glass
+ci equip Tilt Steering Wheel
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Shoulder Belts
+ci equip Automatic Ride Leveler
+ci equip Six-Way Power Seat (Bench)
+ci equip 428 cu. in. V8 engine
+ci equip AM-FM Stereo Radio
+ci equip Remote Control Deck-Lid Release
+ci equip Rear Window Defogger
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci 5gear Not applicable
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4608, 8(\w)54(\w)([\dX]{6})
+clv 19037, 1968, Mercury, Montclair, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Montclair
+ci origin United States
+ci make Mercury
+ci year 1968
+ci prod 1882
+ci doors 4
+ci model 54D
+ci maker Mercury
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci fuel 25
+ci trans 3
+ci rdiff 5
+ci oil 5
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci rtred 62
+ci width 77.9
+ci length 220.1
+ci height 56
+ci wbase 123
+ci mbear 5
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci cyl 8
+ci trq 390@2600
+ci comp 9.5
+ci etype Fully synchronized
+ci rhp 52.41
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci disp 389.09
+ci bhp 265@4400
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci cool 19.5 Quarts
+ci equip 428 cu. in. V8 engine
+ci equip Deluxe Wheel covers w/Medallion
+ci equip High Performance Axle
+ci equip Merc-O-Matic automatic transmission
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Combination AM Radio/StereoTape System
+ci equip Tilt Steering Wheel
+ci equip Six-Way Power Seat (Bench)
+ci equip AutomaticSpeed Control
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Automatic Ride Leveler
+ci equip Rear Window Defogger
+ci equip Whisper-Aire Conditioning
+ci equip AM-FM Stereo Radio
+ci equip Shoulder Belts
+ci equip Tinted Glass
+ci equip Remote Control Deck-Lid Release
+ci equip Wire Wheel Covers
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci rev 2.33
+ci gears 3
+ci 3gear 1
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4609, 8(\w)07(\w)([\dX]{6})
+clv 19038, 1968, Mercury, Montego 6, Formal Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2552.00
+ci series Montego 6
+ci year 1968
+ci make Mercury
+ci origin United States
+ci prod 1500
+ci maker Mercury
+ci model 65B
+ci weight 3057
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci oil 4.5
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 4
+ci fuel 20
+ci carb Autolite
+ci csize 9.06 inches
+ci ctype Single dry plate
+ci diffr 3.25
+ci diff Hypoid
+ci wbase 116
+ci width 76
+ci height 53.5
+ci rtred 58.5
+ci ftred 58.8
+ci length 206.1
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci etype Own Inline 6
+ci cyl 6
+ci comp 8.8
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci disp 200
+ci etype Single downdraft
+ci trq 190@2200
+ci bhp 115@3800
+ci block Special alloy iron
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci cool 9.5 Quarts
+ci equip Power Disc Brakes (Front)
+ci equip Wheel Covers-Deluxe
+ci equip Wheel Covers Wire
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip 427 cu. in. V8 engine
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Performance Handling Package
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip 390 cu. in. V8 engine
+ci equip High Performance Axle
+ci equip Styled Steel Wheels (Set of 5)
+ci equip Whisper-Aire Conditioning
+ci equip Tachometer
+ci equip Cruise-O-Matic automatic transmission
+ci equip Tinted Glass
+ci equip Shoulder Belts
+ci equip Rear Window Defogger
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 2gear 1.75
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 4610, 8(\w)06(\w)([\dX]{6})
+clv 19039, 1968, Mercury, Montego 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Montego 6
+ci make Mercury
+ci origin United States
+ci msrp $2504.00
+ci year 1968
+ci prod 18492
+ci model 54B
+ci maker Mercury
+ci weight 2982
+ci doors 4
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 4.5
+ci fuel 20
+ci rdiff 4
+ci trans 3.5
+ci tcase -NA-
+ci carb Autolite
+ci ctype Single dry plate
+ci csize 9.06 inches
+ci diffr 3.25
+ci diff Hypoid
+ci wbase 116
+ci length 206.1
+ci width 76
+ci height 55
+ci rtred 58.5
+ci ftred 58.8
+ci cyl 6
+ci mbear 7
+ci block Special alloy iron
+ci disp 200
+ci comp 8.8
+ci bhp 115@3800
+ci etype Single downdraft
+ci vlift Hydraulic
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci etype Own Inline 6
+ci trq 190@2200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci batt 12
+ci exha Single
+ci cool 9.5 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci equip Rear Window Defogger
+ci equip Whisper-Aire Conditioning
+ci equip Wheel Covers-Deluxe
+ci equip Wheel Covers Wire
+ci equip High Performance Axle
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Performance Handling Package
+ci equip Power Disc Brakes (Front)
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Cruise-O-Matic automatic transmission
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip Tinted Glass
+ci equip Tachometer
+ci equip Styled Steel Wheels (Set of 5)
+ci equip 390 cu. in. V8 engine
+ci equip Shoulder Belts
+ci equip 427 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 1gear 2.99
+ci 2gear 1.75
+ci 3gear 1
+ci rev 3.17
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 4611, 8(\w)02(\w)([\dX]{6})
+clv 19040, 1968, Mercury, Montego 6, Sport Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci series Montego 6
+ci year 1968
+ci maker Mercury
+ci model 54A
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 10
+ci fuel 20
+ci trans 3.5
+ci tcase -NA-
+ci oil 4.5
+ci rdiff 4
+ci carb Autolite
+ci ctype Single dry plate
+ci csize 9.06 inches
+ci diffr 3.25
+ci diff Hypoid
+ci length 206.1
+ci width 76
+ci wbase 116
+ci height 55
+ci rtred 58.5
+ci ftred 58.8
+ci mbear 7
+ci cyl 6
+ci disp 200
+ci block Special alloy iron
+ci comp 8.8
+ci etype Own Inline 6
+ci trq 190@2200
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 32.5
+ci etype Fully synchronized
+ci bhp 115@3800
+ci vlift Hydraulic
+ci b&s 3.68 & 3.13
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci cool 9.5 Quarts
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Tachometer
+ci equip Styled Steel Wheels (Set of 5)
+ci equip 427 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip Performance Handling Package
+ci equip Power Disc Brakes (Front)
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip 390 cu. in. V8 engine
+ci equip Rear Window Defogger
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Wheel Covers Wire
+ci equip High Performance Axle
+ci equip Tinted Glass
+ci equip Wheel Covers-Deluxe
+ci equip Shoulder Belts
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.99
+ci rev 3.17
+ci 3gear 1
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 4612, 8(\w)11(\w)([\dX]{6})
+clv 19041, 1968, Mercury, Montego MX Brougham, Formal Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series Montego MX Brougham
+ci year 1968
+ci origin United States
+ci make Mercury
+ci model 65C
+ci weight 3450
+ci doors 2
+ci maker Mercury
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci rdiff 4
+ci fuel 20
+ci oil 4
+ci trans 3.5
+ci tcase -NA-
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.79
+ci width 76
+ci length 206.1
+ci wbase 116
+ci ftred 58.8
+ci height 53.5
+ci rtred 58.5
+ci b&s 4 & 3
+ci mbear 5
+ci rhp 51.2
+ci disp 302
+ci cyl 8
+ci comp 9.0
+ci bhp 210@4600
+ci etype Own V8 Overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci trq 300@2600
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci equip Tachometer
+ci equip 390 cu. in. V8 engine
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Styled Steel Wheels (Set of 5)
+ci equip Wheel Covers Wire
+ci equip Bucket Seats
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Performance Handling Package
+ci equip Power Disc Brakes (Front)
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Windows (side)
+ci equip Tinted Glass
+ci equip Rear Window Defogger
+ci equip Wheel Covers-Deluxe
+ci equip High Performance Axle
+ci equip Shoulder Belts
+ci equip Cruise-O-Matic automatic transmission
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.99
+ci rev 3.17
+ci 3gear 1
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 4613, 8(\w)10(\w)([\dX]{6})
+clv 19042, 1968, Mercury, Montego MX Brougham, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1968
+ci origin United States
+ci make Mercury
+ci series Montego MX Brougham
+ci maker Mercury
+ci model 54C
+ci weight 3375
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci tcase -NA-
+ci trans 3.5
+ci oil 4
+ci rdiff 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.79
+ci length 206.1
+ci wbase 116
+ci ftred 58.8
+ci rtred 58.5
+ci width 76
+ci height 55
+ci b&s 4 & 3
+ci mbear 5
+ci rhp 51.2
+ci trq 300@2600
+ci cyl 8
+ci comp 9.0
+ci bhp 210@4600
+ci etype Own V8 Overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci disp 302
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci equip Tachometer
+ci equip 390 cu. in. V8 engine
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Styled Steel Wheels (Set of 5)
+ci equip Wheel Covers Wire
+ci equip Bucket Seats
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Performance Handling Package
+ci equip Power Disc Brakes (Front)
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Windows (side)
+ci equip Tinted Glass
+ci equip Rear Window Defogger
+ci equip Wheel Covers-Deluxe
+ci equip High Performance Axle
+ci equip Shoulder Belts
+ci equip Cruise-O-Matic automatic transmission
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.99
+ci rev 3.17
+ci 3gear 1
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 4614, 8(\w)12(\w)([\dX]{6})
+clv 19043, 1968, Mercury, Montego MX, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1968
+ci make Mercury
+ci origin United States
+ci series Montego MX
+ci prod 3248
+ci msrp $2935.00
+ci model 76D
+ci maker Mercury
+ci doors 2
+ci weight 3293
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci oil 4.5
+ci tcase -NA-
+ci fuel 20
+ci trans 3.5
+ci rdiff 4
+ci carb Autolite
+ci ctype Single dry plate
+ci csize 9.06 inches
+ci diffr 3.25
+ci diff Hypoid
+ci width 76
+ci wbase 116
+ci height 54.5
+ci length 206.1
+ci ftred 58.8
+ci rtred 58.5
+ci mbear 7
+ci cyl 6
+ci etype Own Inline 6
+ci etype Fully synchronized
+ci comp 8.8
+ci trq 190@2200
+ci bhp 115@3800
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci block Special alloy iron
+ci etype Single downdraft
+ci disp 200
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 9.5 Quarts
+ci equip Rear Window Defogger
+ci equip Bucket Seats
+ci equip Wheel Covers-Deluxe
+ci equip Wheel Covers Wire
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip 427 cu. in. V8 engine
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Performance Handling Package
+ci equip Power Disc Brakes (Front)
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Windows (side)
+ci equip 390 cu. in. V8 engine
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip High Performance Axle
+ci equip Tinted Glass
+ci equip Tachometer
+ci equip Cruise-O-Matic automatic transmission
+ci equip Styled Steel Wheels (Set of 5)
+ci equip Shoulder Belts
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci gears 3
+ci 5gear Not applicable
+ci rev 3.17
+ci 3gear 1
+ci 1gear 2.99
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 4615, 8(\w)11(\w)([\dX]{6})
+clv 19044, 1968, Mercury, Montego MX, Formal Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2675.00
+ci prod 25827
+ci year 1968
+ci series Montego MX
+ci origin United States
+ci make Mercury
+ci model 65D
+ci weight 3081
+ci doors 2
+ci maker Mercury
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci rdiff 4
+ci oil 4.5
+ci fuel 20
+ci tcase -NA-
+ci trans 3.5
+ci carb Autolite
+ci csize 9.06 inches
+ci ctype Single dry plate
+ci diffr 3.25
+ci diff Hypoid
+ci wbase 116
+ci width 76
+ci height 53.5
+ci rtred 58.5
+ci ftred 58.8
+ci length 206.1
+ci etype Fully synchronized
+ci mbear 7
+ci etype Own Inline 6
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.8
+ci cyl 6
+ci b&s 3.68 & 3.13
+ci disp 200
+ci etype Single downdraft
+ci trq 190@2200
+ci bhp 115@3800
+ci block Special alloy iron
+ci vlift Hydraulic
+ci rhp 32.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 9.5 Quarts
+ci equip Rear Window Defogger
+ci equip Bucket Seats
+ci equip Wheel Covers-Deluxe
+ci equip Wheel Covers Wire
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip 427 cu. in. V8 engine
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Performance Handling Package
+ci equip Power Disc Brakes (Front)
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Windows (side)
+ci equip 390 cu. in. V8 engine
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip High Performance Axle
+ci equip Tinted Glass
+ci equip Tachometer
+ci equip Cruise-O-Matic automatic transmission
+ci equip Styled Steel Wheels (Set of 5)
+ci equip Shoulder Belts
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci gears 3
+ci 5gear Not applicable
+ci rev 3.17
+ci 3gear 1
+ci 1gear 2.99
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 4616, 8(\w)10(\w)([\dX]{6})
+clv 19045, 1968, Mercury, Montego MX, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 15264
+ci make Mercury
+ci origin United States
+ci series Montego MX
+ci msrp $2657.00
+ci year 1968
+ci maker Mercury
+ci weight 3007
+ci model 54D
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci oil 4.5
+ci tcase -NA-
+ci fuel 20
+ci trans 3.5
+ci rdiff 4
+ci carb Autolite
+ci ctype Single dry plate
+ci csize 9.06 inches
+ci diffr 3.25
+ci diff Hypoid
+ci length 206.1
+ci width 76
+ci wbase 116
+ci ftred 58.8
+ci rtred 58.5
+ci height 55
+ci cyl 6
+ci mbear 7
+ci etype Own Inline 6
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.8
+ci rhp 32.5
+ci bhp 115@3800
+ci trq 190@2200
+ci b&s 3.68 & 3.13
+ci block Special alloy iron
+ci etype Single downdraft
+ci disp 200
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci cool 9.5 Quarts
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Bucket Seats
+ci equip Wheel Covers Wire
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Wheel Covers-Deluxe
+ci equip 427 cu. in. V8 engine
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip Performance Handling Package
+ci equip Power Disc Brakes (Front)
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Windows (side)
+ci equip 390 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Tinted Glass
+ci equip Tachometer
+ci equip Styled Steel Wheels (Set of 5)
+ci equip High Performance Axle
+ci equip Whisper-Aire Conditioning
+ci equip Shoulder Belts
+ci equip Rear Window Defogger
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci rev 3.17
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 1gear 2.99
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 4617, 8(\w)08(\w)([\dX]{6})
+clv 19046, 1968, Mercury, Montego MX, Station Wagon
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1968
+ci make Mercury
+ci origin United States
+ci series Montego MX
+ci msrp $2876.00
+ci prod 9328
+ci model 71C
+ci maker Mercury
+ci weight 3379
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci oil 4.5
+ci rdiff 4
+ci trans 3.5
+ci carb Autolite
+ci csize 9.06 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci rtred 58.5
+ci height 56
+ci wbase 116
+ci length 203.9
+ci width 76
+ci ftred 58.8
+ci disp 200
+ci cyl 6
+ci comp 8.8
+ci mbear 7
+ci etype Own Inline 6
+ci trq 190@2200
+ci bhp 115@3800
+ci etype Fully synchronized
+ci etype Single downdraft
+ci block Special alloy iron
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci rad Tubular and fin
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 9.5 Quarts
+ci equip Performance Handling Package
+ci equip Bucket Seats
+ci equip Wheel Covers Wire
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip 427 cu. in. V8 engine
+ci equip Oxford (Vinyl Covered) Roof
+ci equip AM FM Stereo RadioPush Button w/Antenna and Dual Front Speakers
+ci equip Power Disc Brakes (Front)
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Windows (side)
+ci equip 390 cu. in. V8 engine
+ci equip Wheel Covers-Deluxe
+ci equip Cruise-O-Matic automatic transmission
+ci equip Tinted Glass
+ci equip Tachometer
+ci equip Whisper-Aire Conditioning
+ci equip Styled Steel Wheels (Set of 5)
+ci equip Shoulder Belts
+ci equip High Performance Axle
+ci equip Rear Window Defogger
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci rev 3.17
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.99
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+cls 4618, 8(\w)45(\w)([\dX]{6})
+clv 19047, 1968, Mercury, Monterey, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1968
+ci origin United States
+ci series Monterey
+ci make Mercury
+ci prod 1515
+ci msrp $3136.00
+ci model 76A
+ci weight 3943
+ci maker Mercury
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci fuel 25
+ci tcase -NA-
+ci trans 3
+ci rdiff 5
+ci oil 5
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci height 55.1
+ci length 220.1
+ci wbase 123
+ci rtred 62
+ci width 77.9
+ci rhp 52.41
+ci bhp 265@4400
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 9.5
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci block Special alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci trq 390@2600
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool 19.5 Quarts
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci equip Power Vent Windows
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Wire Wheel Covers
+ci equip Merc-O-Matic automatic transmission
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Combination AM Radio/StereoTape System
+ci equip Whisper-Aire Conditioning
+ci equip Tinted Glass
+ci equip Tilt Steering Wheel
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip High Performance Axle
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Rear Window Defogger
+ci equip Shoulder Belts
+ci equip Six-Way Power Seat (Bench)
+ci equip 428 cu. in. V8 engine
+ci equip AM-FM Stereo Radio
+ci equip Remote Control Deck-Lid Release
+ci equip Automatic Ride Leveler
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci 5gear Not applicable
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4619, 8(\w)47(\w)([\dX]{6})
+clv 19048, 1968, Mercury, Monterey, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1968
+ci origin United States
+ci series Monterey
+ci make Mercury
+ci prod 15845
+ci msrp $3133.00
+ci model 63A
+ci weight 3820
+ci maker Mercury
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci fuel 25
+ci tcase -NA-
+ci trans 3
+ci rdiff 5
+ci oil 5
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci height 54.5
+ci length 220.1
+ci wbase 123
+ci rtred 62
+ci width 77.9
+ci rhp 52.41
+ci bhp 265@4400
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 9.5
+ci b&s 4 3/64 & 3 25/32
+ci trq 390@2600
+ci block Special alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci disp 389.09
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool 19.5 Quarts
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci equip Power Vent Windows
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Wire Wheel Covers
+ci equip Merc-O-Matic automatic transmission
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Combination AM Radio/StereoTape System
+ci equip Whisper-Aire Conditioning
+ci equip Tinted Glass
+ci equip Tilt Steering Wheel
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip High Performance Axle
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Rear Window Defogger
+ci equip Shoulder Belts
+ci equip Six-Way Power Seat (Bench)
+ci equip 428 cu. in. V8 engine
+ci equip AM-FM Stereo Radio
+ci equip Remote Control Deck-Lid Release
+ci equip Automatic Ride Leveler
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci 5gear Not applicable
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4620, 8(\w)48(\w)([\dX]{6})
+clv 19049, 1968, Mercury, Monterey, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series Monterey
+ci origin United States
+ci prod 8927
+ci year 1968
+ci make Mercury
+ci msrp $3207.00
+ci maker Mercury
+ci weight 3858
+ci model 57A
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 3
+ci tcase -NA-
+ci rdiff 5
+ci fuel 25
+ci oil 5
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 123
+ci width 77.9
+ci rtred 62
+ci height 55
+ci length 220.1
+ci cyl 8
+ci disp 389.09
+ci rhp 52.41
+ci trq 390@2600
+ci etype Dual downdraft
+ci comp 9.5
+ci etype V8 Valve-in-head
+ci mbear 5
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci b&s 4 3/64 & 3 25/32
+ci bhp 265@4400
+ci block Special alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci rad Tubular and fin
+ci cool 19.5 Quarts
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci ign Distributor and coil
+ci equip High Performance Axle
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Wire Wheel Covers
+ci equip Merc-O-Matic automatic transmission
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Combination AM Radio/StereoTape System
+ci equip Whisper-Aire Conditioning
+ci equip Tinted Glass
+ci equip Tilt Steering Wheel
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Shoulder Belts
+ci equip Automatic Ride Leveler
+ci equip Six-Way Power Seat (Bench)
+ci equip 428 cu. in. V8 engine
+ci equip AM-FM Stereo Radio
+ci equip Remote Control Deck-Lid Release
+ci equip Rear Window Defogger
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci 5gear Not applicable
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4621, 8(\w)44(\w)([\dX]{6})
+clv 19050, 1968, Mercury, Monterey, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1968
+ci origin United States
+ci prod 26735
+ci make Mercury
+ci series Monterey
+ci msrp $3052.00
+ci doors 4
+ci model 54A
+ci maker Mercury
+ci weight 3798
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci trans 3
+ci rdiff 5
+ci fuel 25
+ci oil 5
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci height 56
+ci length 220.1
+ci wbase 123
+ci rtred 62
+ci width 77.9
+ci bhp 265@4400
+ci rhp 52.41
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 9.5
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci block Special alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci trq 390@2600
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool 19.5 Quarts
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci equip Power Vent Windows
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Wire Wheel Covers
+ci equip Merc-O-Matic automatic transmission
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Combination AM Radio/StereoTape System
+ci equip Whisper-Aire Conditioning
+ci equip Tinted Glass
+ci equip Tilt Steering Wheel
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip High Performance Axle
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Rear Window Defogger
+ci equip Shoulder Belts
+ci equip Six-Way Power Seat (Bench)
+ci equip 428 cu. in. V8 engine
+ci equip AM-FM Stereo Radio
+ci equip Remote Control Deck-Lid Release
+ci equip Automatic Ride Leveler
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci 5gear Not applicable
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4622, 8(\w)44(\w)([\dX]{6})
+clv 19051, 1968, Mercury, Monterey, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 3992
+ci series Monterey
+ci origin United States
+ci year 1968
+ci make Mercury
+ci maker Mercury
+ci doors 4
+ci model 54B
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 5
+ci fuel 25
+ci oil 5
+ci trans 3
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci rtred 62
+ci width 77.9
+ci wbase 123
+ci height 56
+ci length 220.1
+ci mbear 5
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci cyl 8
+ci trq 390@2600
+ci comp 9.5
+ci etype Fully synchronized
+ci rhp 52.41
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci disp 389.09
+ci bhp 265@4400
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci cool 19.5 Quarts
+ci equip 428 cu. in. V8 engine
+ci equip Deluxe Wheel covers w/Medallion
+ci equip High Performance Axle
+ci equip Merc-O-Matic automatic transmission
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Combination AM Radio/StereoTape System
+ci equip Tilt Steering Wheel
+ci equip Six-Way Power Seat (Bench)
+ci equip AutomaticSpeed Control
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Automatic Ride Leveler
+ci equip Rear Window Defogger
+ci equip Whisper-Aire Conditioning
+ci equip AM-FM Stereo Radio
+ci equip Shoulder Belts
+ci equip Tinted Glass
+ci equip Remote Control Deck-Lid Release
+ci equip Wire Wheel Covers
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci rev 2.33
+ci gears 3
+ci 3gear 1
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4623, 8(\w)65(\w)([\dX]{6})
+clv 19052, 1968, Mercury, Parklane, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 1112
+ci msrp $3822.00
+ci series Parklane
+ci make Mercury
+ci year 1968
+ci origin United States
+ci maker Mercury
+ci doors 2
+ci weight 4114
+ci model 76F
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 25
+ci tcase -NA-
+ci oil 5
+ci trans 3
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci width 77.9
+ci height 55.1
+ci length 220.1
+ci rtred 62
+ci wbase 123
+ci mbear 5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 52.41
+ci trq 427@2800
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci bhp 315@4600
+ci block Special alloy iron
+ci etype Mercomatic automatic
+ci etype V8 Valve-in-head
+ci comp 10.5
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci rad Tubular and fin
+ci batt 12
+ci cool 19.5 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci equip Power Windows (side)
+ci equip Combination AM Radio/StereoTape System
+ci equip AutomaticSpeed Control
+ci equip Automatic Ride Leveler
+ci equip Wire Wheel Covers
+ci equip Oxford (Vinyl Covered) Roof
+ci equip AM-FM Stereo Radio
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Vent Windows
+ci equip Whisper-Aire Conditioning
+ci equip High Performance Axle
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Rear Window Defogger
+ci equip Tilt Steering Wheel
+ci equip Deluxe Wheel Covers
+ci equip Tinted Glass
+ci equip Remote Control Deck-Lid Release
+ci equip 428 cu. in. V8 engine
+ci equip Shoulder Belts
+ci equip Deluxe Steering Wheel
+ci equip Six-Way Power Seat (Bench)
+ci equip 6-Way Power Twin-Comfort Seat
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4624, 8(\w)67(\w)([\dX]{6})
+clv 19053, 1968, Mercury, Parklane, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci msrp $3575.00
+ci series Parklane
+ci prod 2584
+ci origin United States
+ci year 1968
+ci maker Mercury
+ci model 63F
+ci weight 3947
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci rdiff 5
+ci tcase -NA-
+ci oil 5
+ci fuel 25
+ci trans 3
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci width 77.9
+ci wbase 123
+ci length 220.1
+ci rtred 62
+ci height 54.5
+ci mbear 5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 52.41
+ci trq 427@2800
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci bhp 315@4600
+ci block Special alloy iron
+ci etype Mercomatic automatic
+ci etype V8 Valve-in-head
+ci comp 10.5
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci rad Tubular and fin
+ci batt 12
+ci cool 19.5 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci equip Power Windows (side)
+ci equip Combination AM Radio/StereoTape System
+ci equip AutomaticSpeed Control
+ci equip Automatic Ride Leveler
+ci equip Wire Wheel Covers
+ci equip Oxford (Vinyl Covered) Roof
+ci equip AM-FM Stereo Radio
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Vent Windows
+ci equip Whisper-Aire Conditioning
+ci equip High Performance Axle
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Rear Window Defogger
+ci equip Tilt Steering Wheel
+ci equip Deluxe Wheel Covers
+ci equip Tinted Glass
+ci equip Remote Control Deck-Lid Release
+ci equip 428 cu. in. V8 engine
+ci equip Shoulder Belts
+ci equip Deluxe Steering Wheel
+ci equip Six-Way Power Seat (Bench)
+ci equip 6-Way Power Twin-Comfort Seat
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4625, 8(\w)68(\w)([\dX]{6})
+clv 19054, 1968, Mercury, Parklane, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 6359
+ci year 1968
+ci make Mercury
+ci series Parklane
+ci origin United States
+ci msrp $3647.00
+ci model 57F
+ci maker Mercury
+ci weight 3992
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 3
+ci oil 5
+ci fuel 25
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci height 55
+ci wbase 123
+ci length 220.1
+ci rtred 62
+ci width 77.9
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci block Special alloy iron
+ci bhp 315@4600
+ci disp 389.09
+ci mbear 5
+ci rhp 52.41
+ci b&s 4 3/64 & 3 25/32
+ci etype V8 Valve-in-head
+ci etype Mercomatic automatic
+ci trq 427@2800
+ci comp 10.5
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci rad Tubular and fin
+ci batt 12
+ci cool 19.5 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci equip Power Windows (side)
+ci equip Combination AM Radio/StereoTape System
+ci equip AutomaticSpeed Control
+ci equip Automatic Ride Leveler
+ci equip Wire Wheel Covers
+ci equip Oxford (Vinyl Covered) Roof
+ci equip AM-FM Stereo Radio
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Vent Windows
+ci equip Whisper-Aire Conditioning
+ci equip High Performance Axle
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Rear Window Defogger
+ci equip Tilt Steering Wheel
+ci equip Deluxe Wheel Covers
+ci equip Tinted Glass
+ci equip Remote Control Deck-Lid Release
+ci equip 428 cu. in. V8 engine
+ci equip Shoulder Belts
+ci equip Deluxe Steering Wheel
+ci equip Six-Way Power Seat (Bench)
+ci equip 6-Way Power Twin-Comfort Seat
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4626, 8(\w)64(\w)([\dX]{6})
+clv 19055, 1968, Mercury, Parklane, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 4748
+ci series Parklane
+ci make Mercury
+ci msrp $3552.00
+ci year 1968
+ci origin United States
+ci weight 4011
+ci model 54E
+ci maker Mercury
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci trans 3
+ci tcase -NA-
+ci fuel 25
+ci oil 5
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci width 77.9
+ci wbase 123
+ci height 56
+ci length 220.1
+ci rtred 62
+ci mbear 5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 52.41
+ci trq 427@2800
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci bhp 315@4600
+ci block Special alloy iron
+ci etype Mercomatic automatic
+ci etype V8 Valve-in-head
+ci comp 10.5
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci rad Tubular and fin
+ci batt 12
+ci cool 19.5 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci equip Power Windows (side)
+ci equip Combination AM Radio/StereoTape System
+ci equip AutomaticSpeed Control
+ci equip Automatic Ride Leveler
+ci equip Wire Wheel Covers
+ci equip Oxford (Vinyl Covered) Roof
+ci equip AM-FM Stereo Radio
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Power Vent Windows
+ci equip Whisper-Aire Conditioning
+ci equip High Performance Axle
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Rear Window Defogger
+ci equip Tilt Steering Wheel
+ci equip Deluxe Wheel Covers
+ci equip Tinted Glass
+ci equip Remote Control Deck-Lid Release
+ci equip 428 cu. in. V8 engine
+ci equip Shoulder Belts
+ci equip Deluxe Steering Wheel
+ci equip Six-Way Power Seat (Bench)
+ci equip 6-Way Power Twin-Comfort Seat
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4627, 8(\w)67(\w)([\dX]{6})
+clv 19056, 1968, Mercury, S-55, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series S-55
+ci origin United States
+ci year 1968
+ci make Mercury
+ci maker Mercury
+ci doors 2
+ci model G3G
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 5
+ci trans 3
+ci fuel 25
+ci rdiff 5
+ci tcase -NA-
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci height 54.9
+ci length 220.1
+ci width 77.9
+ci wbase 123
+ci rtred 62
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci etype Own V8 overhead valve
+ci mbear 5
+ci trq 462@2800
+ci etype Downdraft 4-barrel
+ci etype Mercomatic automatic
+ci disp 428
+ci b&s 4.13 & 3.98
+ci vlift Hydraulic
+ci bhp 340@4600
+ci block Special alloy iron
+ci rhp 54.58
+ci comp 10.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Dual
+ci cool 19.5 Quarts
+ci cool Centrifugal water  pump
+ci ftype Premium
+ci batt 12
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Power antenna
+ci equip Speed control device
+ci equip Radio
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4628, 8(\w)76(\w)([\dX]{6})
+clv 19057, 1968, Mercury, Station Wagon, Colony Park
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3760.00
+ci origin United States
+ci series Station Wagon
+ci make Mercury
+ci year 1968
+ci prod 15505
+ci doors 4
+ci maker Mercury
+ci model 71A
+ci pass 6
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 25
+ci trans 3
+ci tcase -NA-
+ci rdiff 5
+ci oil 5
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci width 77.9
+ci length 215.4
+ci wbase 119
+ci height 56.8
+ci rtred 62
+ci block Special alloy iron
+ci bhp 265@4400
+ci rhp 52.41
+ci disp 389.09
+ci mbear 5
+ci cyl 8
+ci etype Dual downdraft
+ci comp 9.5
+ci vlift Hydraulic
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Valve-in-head
+ci trq 390@2600
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci ign Distributor and coil
+ci cool 19.5 Quarts
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci equip Power Vent Windows
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Wire Wheel Covers
+ci equip Merc-O-Matic automatic transmission
+ci equip Combination AM Radio/StereoTape System
+ci equip Whisper-Aire Conditioning
+ci equip AutomaticSpeed Control
+ci equip Tinted Glass
+ci equip Tilt Steering Wheel
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Rear Window
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip High Performance Axle
+ci equip Power Windows (side)
+ci equip Automatic Ride Leveler
+ci equip 428 cu. in. V8 engine
+ci equip Third Seats - Dual Center Facing and Rear Facing
+ci equip Six-Way Power Seat (Bench)
+ci equip 390 cu. in. V8 engine
+ci equip 6-Way Power Twin-Comfort Seat
+ci equip Shoulder Belts
+ci equip AM-FM Stereo Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci gears 3
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci 5gear Not applicable
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.45 x 15
+cls 4629, 8(\w)76(\w)([\dX]{6})
+clv 19058, 1968, Mercury, Station Wagon, Colony Park
+ser 6 500000 999999
+ci axle Semifloating
+ci series Station Wagon
+ci origin United States
+ci make Mercury
+ci prod 5674
+ci year 1968
+ci maker Mercury
+ci pass 9
+ci model 71E
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci rdiff 5
+ci tcase -NA-
+ci oil 5
+ci fuel 25
+ci trans 3
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.25
+ci diff Hypoid
+ci width 77.9
+ci length 215.4
+ci rtred 62
+ci height 56.8
+ci wbase 119
+ci rhp 52.41
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci b&s 4 3/64 & 3 25/32
+ci cyl 8
+ci etype Dual downdraft
+ci trq 390@2600
+ci comp 9.5
+ci block Special alloy iron
+ci vlift Hydraulic
+ci disp 389.09
+ci bhp 265@4400
+ci etype V8 Valve-in-head
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci cool 19.5 Quarts
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci equip Wire Wheel Covers
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Third Seats - Dual Center Facing and Rear Facing
+ci equip Merc-O-Matic automatic transmission
+ci equip Combination AM Radio/StereoTape System
+ci equip Tilt Steering Wheel
+ci equip AutomaticSpeed Control
+ci equip Automatic Ride Leveler
+ci equip AM-FM Stereo Radio
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Rear Window
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Tinted Glass
+ci equip Power Windows (side)
+ci equip 6-Way Power Twin-Comfort Seat
+ci equip 428 cu. in. V8 engine
+ci equip Six-Way Power Seat (Bench)
+ci equip High Performance Axle
+ci equip 390 cu. in. V8 engine
+ci equip Whisper-Aire Conditioning
+ci equip Shoulder Belts
+ci equip Power Vent Windows
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci rev 2.33
+ci gears 3
+ci 3gear 1
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.45 x 15
+cls 4630, 8(\w)72(\w)([\dX]{6})
+clv 19059, 1968, Mercury, Station Wagon, Commuter
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3441.00
+ci origin United States
+ci prod 3497
+ci make Mercury
+ci year 1968
+ci series Station Wagon
+ci pass 6
+ci doors 4
+ci maker Mercury
+ci model 71B
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci trans 3
+ci fuel 25
+ci rdiff 5
+ci oil 5
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci width 77.9
+ci length 215.4
+ci wbase 119
+ci height 56.8
+ci rtred 62
+ci block Special alloy iron
+ci bhp 265@4400
+ci rhp 52.41
+ci disp 389.09
+ci mbear 5
+ci cyl 8
+ci etype Dual downdraft
+ci comp 9.5
+ci vlift Hydraulic
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Valve-in-head
+ci trq 390@2600
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci ign Distributor and coil
+ci cool 19.5 Quarts
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci equip Power Vent Windows
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Wire Wheel Covers
+ci equip Merc-O-Matic automatic transmission
+ci equip Combination AM Radio/StereoTape System
+ci equip Whisper-Aire Conditioning
+ci equip AutomaticSpeed Control
+ci equip Tinted Glass
+ci equip Tilt Steering Wheel
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Rear Window
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip High Performance Axle
+ci equip Power Windows (side)
+ci equip Automatic Ride Leveler
+ci equip 428 cu. in. V8 engine
+ci equip Third Seats - Dual Center Facing and Rear Facing
+ci equip Six-Way Power Seat (Bench)
+ci equip 390 cu. in. V8 engine
+ci equip 6-Way Power Twin-Comfort Seat
+ci equip Shoulder Belts
+ci equip AM-FM Stereo Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci gears 3
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci 5gear Not applicable
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.45 x 15
+cls 4631, 8(\w)72(\w)([\dX]{6})
+clv 19060, 1968, Mercury, Station Wagon, Commuter
+ser 6 500000 999999
+ci axle Semifloating
+ci series Station Wagon
+ci make Mercury
+ci prod 5191
+ci origin United States
+ci year 1968
+ci doors 4
+ci pass 9
+ci model 71C
+ci maker Mercury
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci trans 3
+ci oil 5
+ci fuel 25
+ci tcase -NA-
+ci rdiff 5
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci wbase 119
+ci length 215.4
+ci width 77.9
+ci rtred 62
+ci height 56.8
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 52.41
+ci etype Dual downdraft
+ci cyl 8
+ci vlift Hydraulic
+ci mbear 5
+ci comp 9.5
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci trq 390@2600
+ci disp 389.09
+ci bhp 265@4400
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Augusta Green Metallic
+co Black Cherry
+co Calypso Coral
+co Cardinal Red
+co Caribbean Blue Metallic
+co Diamond Blue
+co Fawn
+co Glacier Blue #2 Metallic
+co Grecian Gold Metallic
+co Lime Frost Metallic
+co Madras Blue Metallic
+co Onyx
+co Pewter Beige Metallic
+co Polar White #2
+co Saxony
+co Tahitian Rose Metallic
+co Wellington Blue Metallic
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci cool 19.5 Quarts
+ci rad Tubular and fin
+ci ftype Regular
+ci equip Wire Wheel Covers
+ci equip Deluxe Wheel covers w/Medallion
+ci equip Deluxe Wheel Covers
+ci equip Deluxe Steering Wheel
+ci equip Third Seats - Dual Center Facing and Rear Facing
+ci equip Merc-O-Matic automatic transmission
+ci equip Combination AM Radio/StereoTape System
+ci equip Tilt Steering Wheel
+ci equip AutomaticSpeed Control
+ci equip Automatic Ride Leveler
+ci equip AM-FM Stereo Radio
+ci equip Oxford (Vinyl Covered) Roof
+ci equip Power Door Locks
+ci equip Power Front Disc and Rear Drum Brakes
+ci equip Power Rear Window
+ci equip Power Steering
+ci equip Power Transfer Axle
+ci equip Tinted Glass
+ci equip Power Windows (side)
+ci equip 6-Way Power Twin-Comfort Seat
+ci equip 428 cu. in. V8 engine
+ci equip Six-Way Power Seat (Bench)
+ci equip High Performance Axle
+ci equip 390 cu. in. V8 engine
+ci equip Whisper-Aire Conditioning
+ci equip Shoulder Belts
+ci equip Power Vent Windows
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci rev 2.33
+ci gears 3
+ci 3gear 1
+ci vloc On tab on instrument panel close to windshield on passenger side visible from outside.
+ci sloc Trunk
+ci tsize 8.45 x 15

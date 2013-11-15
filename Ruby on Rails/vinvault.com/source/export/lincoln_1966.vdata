@@ -1,0 +1,399 @@
+cls 4238, 6(\w)86(\w)([\dX]{6})
+clv 17406, 1966, Lincoln, Continental, Convertible
+ci axle Semifloating
+ci year 1966
+ci msrp $6383.00
+ci make Lincoln
+ci origin United States
+ci prod 3180
+ci series Continental
+ci model 74A
+ci weight 5480
+ci maker Lincoln
+ci doors 4
+ci bsize 11.09
+ci fbsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 25.5
+ci rdiff 5.5
+ci trans 26
+ci oil 6
+ci tcase -NA-
+ci carb Own
+ci ctype Not applicable
+ci diffr 2.8
+ci diff Hypoid
+ci ftred 62.1
+ci wbase 126
+ci rtred 61
+ci length 220.9
+ci width 79.7
+ci height 54.5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 61.39
+ci etype Own V8 Overhead valve
+ci trq 485@2800
+ci disp 462
+ci b&s 4.38 & 3.83
+ci bhp 340@4600
+ci block Special alloy iron
+ci etype Turbo Drive
+ci etype Downdraft 4-barrel
+ci comp 10.25
+ci vlift Hydraulic
+ci mbear 5
+ci color Exterior Colors
+co Arctic White
+co Black Satin
+co Charcoal Frost
+co Chesterfield Beige
+co Cranberry
+co Empress Turquoise
+co Florentine Gold
+co Huron Blue
+co Madison Gray
+co Pitcairn Blue
+co Platinum
+co Powder Blue
+co Rose Mist
+co Royal Maroon
+co Russet
+co Sandalwood
+co Spanish Moss
+co Teakwood
+co Teal
+co Venetian Yellow
+ci ign Distributor and coil
+ci cool 25 Quarts
+ci ftype Premium
+ci exha Single
+ci rad Corrugated fin and tube
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Power antenna
+ci equip Automatic Speed Control
+ci equip Power Door Locks
+ci equip Power Seat-6 Way
+ci equip Power Vent Windows
+ci equip Vinyl Covered Embassy Roof
+ci equip Automatic Headlight Dimmer
+ci equip Power seats
+ci equip Power windows
+ci equip Tilt Steering Wheel
+ci equip AM FM  Signal Seeking Radio
+ci equip Combination AM Radio/StereoTape System
+ci equip Remote Control Deck-Lid Release
+ci equip Two Way Radio
+ci equip White Sidewall Tires
+ci equip Individually Adjustable Contour Seats and Console
+ci equip Tinted Glass
+ci equip Television Set
+ci equip a/c-Automatic Temperature Control
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On right & left sides under hood on fender apron.
+ci sloc Trunk
+ci tsize 9.15 x 15
+cls 4239, 6(\w)89(\w)([\dX]{6})
+clv 17407, 1966, Lincoln, Continental, Coupe
+ci axle Semifloating
+ci make Lincoln
+ci series Continental
+ci origin United States
+ci msrp $5485.00
+ci prod 15766
+ci year 1966
+ci weight 4985
+ci doors 2
+ci maker Lincoln
+ci model 65A
+ci fbsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11.09
+ci svc Power front disc rear self-adjusting drum
+ci fuel 25.5
+ci trans 26
+ci oil 6
+ci tcase -NA-
+ci rdiff 5.5
+ci carb Own
+ci ctype Not applicable
+ci diffr 2.8
+ci diff Hypoid
+ci ftred 62.1
+ci length 220.9
+ci rtred 61
+ci wbase 126
+ci width 79.7
+ci height 54.3
+ci cyl 8
+ci block Special alloy iron
+ci etype Turbo Drive
+ci rhp 61.39
+ci mbear 5
+ci comp 10.25
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 485@2800
+ci disp 462
+ci etype Own V8 Overhead valve
+ci etype Downdraft 4-barrel
+ci b&s 4.38 & 3.83
+ci vlift Hydraulic
+ci bhp 340@4600
+ci color Exterior Colors
+co Arctic White
+co Black Satin
+co Charcoal Frost
+co Chesterfield Beige
+co Cranberry
+co Empress Turquoise
+co Florentine Gold
+co Huron Blue
+co Madison Gray
+co Pitcairn Blue
+co Platinum
+co Powder Blue
+co Rose Mist
+co Royal Maroon
+co Russet
+co Sandalwood
+co Spanish Moss
+co Teakwood
+co Teal
+co Venetian Yellow
+ci cool 25 Quarts
+ci ign Distributor and coil
+ci rad Corrugated fin and tube
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci exha Single
+ci batt 12
+ci equip AM FM  Signal Seeking Radio
+ci equip a/c-Automatic Temperature Control
+ci equip Power Door Locks
+ci equip Power Seat-6 Way
+ci equip Power Vent Windows
+ci equip Power antenna
+ci equip Individually Adjustable Contour Seats and Console
+ci equip Power seats
+ci equip Power windows
+ci equip White Sidewall Tires
+ci equip Combination AM Radio/StereoTape System
+ci equip Vinyl Covered Embassy Roof
+ci equip Remote Control Deck-Lid Release
+ci equip Two Way Radio
+ci equip Tilt Steering Wheel
+ci equip Automatic Headlight Dimmer
+ci equip Tinted Glass
+ci equip Television Set
+ci equip Automatic Speed Control
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On right & left sides under hood on fender apron.
+ci sloc Trunk
+ci tsize 9.15 x 15
+cls 4240, 6(\w)bb(\w)([\dX]{6})
+clv 17408, 1966, Lincoln, Continental, Executive Limousine
+ci axle Semifloating
+ci make Lincoln
+ci series Continental
+ci origin United States
+ci year 1966
+ci maker Lincoln
+ci bsize 11.09
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci fbsize 11
+ci tcase -NA-
+ci trans 26
+ci rdiff 5.5
+ci oil 6
+ci fuel 25.5
+ci carb Own
+ci ctype Not applicable
+ci diffr 2.8
+ci diff Hypoid
+ci height 55
+ci rtred 61
+ci wbase 126
+ci ftred 62.1
+ci width 79.7
+ci length 254.9
+ci etype Own V8 Overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 485@2800
+ci mbear 5
+ci disp 462
+ci b&s 4.38 & 3.83
+ci bhp 340@4600
+ci block Special alloy iron
+ci cyl 8
+ci etype Turbo Drive
+ci etype Downdraft 4-barrel
+ci rhp 61.39
+ci comp 10.25
+ci vlift Hydraulic
+ci color Exterior Colors
+co Arctic White
+co Black Satin
+co Charcoal Frost
+co Chesterfield Beige
+co Cranberry
+co Empress Turquoise
+co Florentine Gold
+co Huron Blue
+co Madison Gray
+co Pitcairn Blue
+co Platinum
+co Powder Blue
+co Rose Mist
+co Royal Maroon
+co Russet
+co Sandalwood
+co Spanish Moss
+co Teakwood
+co Teal
+co Venetian Yellow
+ci ign Distributor and coil
+ci cool 25 Quarts
+ci ftype Premium
+ci exha Single
+ci rad Corrugated fin and tube
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Power antenna
+ci equip Automatic Speed Control
+ci equip Power Door Locks
+ci equip Power Seat-6 Way
+ci equip Power Vent Windows
+ci equip Vinyl Covered Embassy Roof
+ci equip Automatic Headlight Dimmer
+ci equip Power seats
+ci equip Power windows
+ci equip Tilt Steering Wheel
+ci equip AM FM  Signal Seeking Radio
+ci equip Combination AM Radio/StereoTape System
+ci equip Remote Control Deck-Lid Release
+ci equip Two Way Radio
+ci equip White Sidewall Tires
+ci equip Individually Adjustable Contour Seats and Console
+ci equip Tinted Glass
+ci equip Television Set
+ci equip a/c-Automatic Temperature Control
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On right & left sides under hood on fender apron.
+ci sloc Trunk
+ci tsize 9.15 x 15
+cls 4241, 6(\w)82(\w)([\dX]{6})
+clv 17409, 1966, Lincoln, Continental, Sedan
+ci axle Semifloating
+ci msrp $5750.00
+ci year 1966
+ci series Continental
+ci origin United States
+ci make Lincoln
+ci prod 35809
+ci maker Lincoln
+ci model 53A
+ci doors 4
+ci weight 5085
+ci ebrake Cable and conduit on rear service brakes
+ci fbsize 11
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11.09
+ci fuel 25.5
+ci tcase -NA-
+ci oil 6
+ci trans 26
+ci rdiff 5.5
+ci carb Own
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci length 220.9
+ci rtred 61
+ci height 55
+ci wbase 126
+ci width 79.7
+ci ftred 62.1
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 61.39
+ci etype Own V8 Overhead valve
+ci trq 485@2800
+ci disp 462
+ci b&s 4.38 & 3.83
+ci etype Turbo Drive
+ci bhp 340@4600
+ci block Special alloy iron
+ci etype Downdraft 4-barrel
+ci comp 10.25
+ci vlift Hydraulic
+ci mbear 5
+ci color Exterior Colors
+co Arctic White
+co Black Satin
+co Charcoal Frost
+co Chesterfield Beige
+co Cranberry
+co Empress Turquoise
+co Florentine Gold
+co Huron Blue
+co Madison Gray
+co Pitcairn Blue
+co Platinum
+co Powder Blue
+co Rose Mist
+co Royal Maroon
+co Russet
+co Sandalwood
+co Spanish Moss
+co Teakwood
+co Teal
+co Venetian Yellow
+ci ign Distributor and coil
+ci cool 25 Quarts
+ci ftype Premium
+ci exha Single
+ci rad Corrugated fin and tube
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Power antenna
+ci equip Automatic Speed Control
+ci equip Power Door Locks
+ci equip Power Seat-6 Way
+ci equip Power Vent Windows
+ci equip Vinyl Covered Embassy Roof
+ci equip Automatic Headlight Dimmer
+ci equip Power seats
+ci equip Power windows
+ci equip Tilt Steering Wheel
+ci equip AM FM  Signal Seeking Radio
+ci equip Combination AM Radio/StereoTape System
+ci equip Remote Control Deck-Lid Release
+ci equip Two Way Radio
+ci equip White Sidewall Tires
+ci equip Individually Adjustable Contour Seats and Console
+ci equip Tinted Glass
+ci equip Television Set
+ci equip a/c-Automatic Temperature Control
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On right & left sides under hood on fender apron.
+ci sloc Trunk
+ci tsize 9.15 x 15

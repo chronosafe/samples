@@ -1,0 +1,1326 @@
+cls 2339, CM27(\w)6(\w)([\dX]{6})
+clv 7207, 1966, Chrysler, 300, Convertible
+ci axle Semifloating
+ci make Chrysler
+ci origin United States
+ci prod 2500
+ci msrp $3936.00
+ci year 1966
+ci series 300
+ci doors 2
+ci weight 4015
+ci model BC2-M-27
+ci maker Chrysler
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 25
+ci rdiff 4
+ci tcase -NA-
+ci oil 4
+ci trans 6
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 124
+ci length 221.9
+ci ftred 62
+ci height 55.5
+ci rtred 61..7
+ci width 79.5
+ci b&s 4 1/4 & 3 3/8
+ci mbear 5
+ci trq 428@2800
+ci cyl 8
+ci rhp 57.8
+ci disp 383
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.0
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci bhp 325@4800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Crystal Blue
+co Daffodil Yellow
+co Desert Beige
+co Formal Black
+co Frost Turquoise
+co Haze Green
+co Ivory
+co Lilac
+co Moss Gold
+co Persian White
+co Powder Blue
+co Regal Blue
+co Royal Turquoise
+co Ruby
+co Saddle Bronze
+co Scorch Red
+co Sequoia Green
+co Silver Mist
+co Spanish Red
+co Spice Gold
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool Water pump
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci ftype Premium
+ci equip Radio
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Air conditioning
+ci equip Torque Flite Eight automatic transmission
+ci equip Speed control device
+ci sgear Worm & ball nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci 1gear 2.55
+ci rev 3.34
+ci 2gear 1.49
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.55 x 14
+cls 2340, CM23(\w)6(\w)([\dX]{6})
+clv 7208, 1966, Chrysler, 300, Hardtop
+ci axle Semifloating
+ci make Chrysler
+ci origin United States
+ci year 1966
+ci msrp $3586.00
+ci series 300
+ci prod 24103
+ci model BC2-M-23
+ci maker Chrysler
+ci doors 2
+ci weight 3940
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 6
+ci rdiff 4
+ci tcase -NA-
+ci fuel 25
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 221.9
+ci width 79.5
+ci ftred 62
+ci wbase 124
+ci rtred 61..7
+ci height 54.6
+ci rhp 57.8
+ci mbear 5
+ci trq 428@2800
+ci cyl 8
+ci b&s 4 1/4 & 3 3/8
+ci disp 383
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.0
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci bhp 325@4800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Crystal Blue
+co Daffodil Yellow
+co Desert Beige
+co Formal Black
+co Frost Turquoise
+co Haze Green
+co Ivory
+co Lilac
+co Moss Gold
+co Persian White
+co Powder Blue
+co Regal Blue
+co Royal Turquoise
+co Ruby
+co Saddle Bronze
+co Scorch Red
+co Sequoia Green
+co Silver Mist
+co Spanish Red
+co Spice Gold
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool Water pump
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci ftype Premium
+ci equip Radio
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Air conditioning
+ci equip Torque Flite Eight automatic transmission
+ci equip Speed control device
+ci sgear Worm & ball nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci 1gear 2.55
+ci rev 3.34
+ci 2gear 1.49
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.55 x 14
+cls 2341, CM43(\w)6(\w)([\dX]{6})
+clv 7209, 1966, Chrysler, 300, Hardtop
+ci axle Semifloating
+ci make Chrysler
+ci origin United States
+ci year 1966
+ci series 300
+ci msrp $3659.00
+ci prod 20642
+ci doors 4
+ci maker Chrysler
+ci weight 4000
+ci model BC2-M-43
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci tcase -NA-
+ci fuel 25
+ci rdiff 4
+ci trans 6
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 124
+ci length 221.9
+ci ftred 62
+ci height 55.2
+ci rtred 61..7
+ci width 79.5
+ci b&s 4 1/4 & 3 3/8
+ci mbear 5
+ci trq 428@2800
+ci cyl 8
+ci rhp 57.8
+ci etype Fully synchronized
+ci bhp 325@4800
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.0
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci disp 383
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Crystal Blue
+co Daffodil Yellow
+co Desert Beige
+co Formal Black
+co Frost Turquoise
+co Haze Green
+co Ivory
+co Lilac
+co Moss Gold
+co Persian White
+co Powder Blue
+co Regal Blue
+co Royal Turquoise
+co Ruby
+co Saddle Bronze
+co Scorch Red
+co Sequoia Green
+co Silver Mist
+co Spanish Red
+co Spice Gold
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool Water pump
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci ftype Premium
+ci equip Radio
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Air conditioning
+ci equip Torque Flite Eight automatic transmission
+ci equip Speed control device
+ci sgear Worm & ball nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci 1gear 2.55
+ci rev 3.34
+ci 2gear 1.49
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.55 x 14
+cls 2342, CM41(\w)6(\w)([\dX]{6})
+clv 7210, 1966, Chrysler, 300, Sedan
+ci axle Semifloating
+ci make Chrysler
+ci origin United States
+ci series 300
+ci prod 2352
+ci year 1966
+ci model BC2-M-41
+ci maker Chrysler
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 6
+ci rdiff 4
+ci fuel 25
+ci oil 4
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 221.9
+ci wbase 124
+ci ftred 62
+ci height 55.5
+ci rtred 61..7
+ci width 79.5
+ci disp 383
+ci mbear 5
+ci rhp 57.8
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci trq 428@2800
+ci b&s 4 1/4 & 3 3/8
+ci bhp 325@4800
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci etype Downdraft 4-barrel
+ci comp 10.0
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Crystal Blue
+co Daffodil Yellow
+co Desert Beige
+co Formal Black
+co Frost Turquoise
+co Haze Green
+co Ivory
+co Lilac
+co Moss Gold
+co Persian White
+co Powder Blue
+co Regal Blue
+co Royal Turquoise
+co Ruby
+co Saddle Bronze
+co Scorch Red
+co Sequoia Green
+co Silver Mist
+co Spanish Red
+co Spice Gold
+co Two Tone Colors Available
+ci exha Single
+ci ftype Premium
+ci rad Tube and spacer
+ci cool Water pump
+ci batt 12
+ci ign Distributor and coil
+ci cool 17 Quarts
+ci equip Speed control device
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Air conditioning
+ci equip Torque Flite Eight automatic transmission
+ci equip Radio
+ci sgear Worm & ball nut
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 2gear 1.49
+ci 5gear Not applicable
+ci 1gear 2.55
+ci gears 3
+ci rev 3.34
+ci 3gear 1
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 2343, CH23(\w)6(\w)([\dX]{6})
+clv 7211, 1966, Chrysler, New Yorker, Hardtop
+ci axle Semifloating
+ci msrp $4157.00
+ci prod 7955
+ci origin United States
+ci make Chrysler
+ci year 1966
+ci series New Yorker
+ci weight 4095
+ci doors 2
+ci maker Chrysler
+ci model BC3-H-23
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power hydraulic
+ci rdiff 4
+ci oil 4
+ci tcase -NA-
+ci trans 18.5
+ci fuel 23
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.76
+ci diff Hypoid
+ci ftred 62
+ci rtred 61..7
+ci width 79.5
+ci wbase 124
+ci height 55.2
+ci length 219
+ci disp 440
+ci trq 480@2800
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.1
+ci cyl 8
+ci etype V8 valve-in-head
+ci etype Downdraft 4-barrel
+ci bhp 350@4400
+ci b&s 4.32 & 3 3/4
+ci vlift Hydraulic
+ci rhp 59.72
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Crystal Blue
+co Daffodil Yellow
+co Desert Beige
+co Formal Black
+co Frost Turquoise
+co Haze Green
+co Ivory
+co Lilac
+co Moss Gold
+co Persian White
+co Powder Blue
+co Regal Blue
+co Royal Turquoise
+co Ruby
+co Saddle Bronze
+co Scorch Red
+co Sequoia Green
+co Silver Mist
+co Spanish Red
+co Spice Gold
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool 17 Quarts
+ci exha Single
+ci batt 12
+ci rad Tube and spacer
+ci ftype Premium
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power vent windows
+ci equip Power windows
+ci equip Power antenna
+ci equip Speed control device
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci sgear Integral power
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 2344, CH43(\w)6(\w)([\dX]{6})
+clv 7212, 1966, Chrysler, New Yorker, Hardtop
+ci axle Semifloating
+ci msrp $4233.00
+ci prod 26599
+ci origin United States
+ci make Chrysler
+ci year 1966
+ci series New Yorker
+ci doors 4
+ci maker Chrysler
+ci weight 4140
+ci model BC3-H-43
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power hydraulic
+ci fuel 23
+ci rdiff 4
+ci oil 4
+ci trans 18.5
+ci tcase -NA-
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.76
+ci rtred 61..7
+ci height 55.2
+ci ftred 62
+ci width 79.5
+ci length 219
+ci wbase 124
+ci bhp 350@4400
+ci comp 10.1
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci rhp 59.72
+ci b&s 4.32 & 3 3/4
+ci etype Downdraft 4-barrel
+ci etype V8 valve-in-head
+ci disp 440
+ci vlift Hydraulic
+ci trq 480@2800
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Crystal Blue
+co Daffodil Yellow
+co Desert Beige
+co Formal Black
+co Frost Turquoise
+co Haze Green
+co Ivory
+co Lilac
+co Moss Gold
+co Persian White
+co Powder Blue
+co Regal Blue
+co Royal Turquoise
+co Ruby
+co Saddle Bronze
+co Scorch Red
+co Sequoia Green
+co Silver Mist
+co Spanish Red
+co Spice Gold
+co Two Tone Colors Available
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci ftype Premium
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power vent windows
+ci equip Power windows
+ci equip Power antenna
+ci equip Speed control device
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci sgear Integral power
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 2345, CH42(\w)6(\w)([\dX]{6})
+clv 7213, 1966, Chrysler, New Yorker, Town Sedan
+ci axle Semifloating
+ci msrp $4101.00
+ci make Chrysler
+ci origin United States
+ci year 1966
+ci prod 13025
+ci series New Yorker
+ci doors 4
+ci weight 4110
+ci maker Chrysler
+ci model BC3-H-42
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power hydraulic
+ci fuel 23
+ci rdiff 4
+ci oil 4
+ci trans 18.5
+ci tcase -NA-
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.76
+ci rtred 61..7
+ci height 55.7
+ci ftred 62
+ci width 79.5
+ci length 219
+ci wbase 124
+ci bhp 350@4400
+ci comp 10.1
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci rhp 59.72
+ci b&s 4.32 & 3 3/4
+ci etype Downdraft 4-barrel
+ci etype V8 valve-in-head
+ci disp 440
+ci vlift Hydraulic
+ci trq 480@2800
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Crystal Blue
+co Daffodil Yellow
+co Desert Beige
+co Formal Black
+co Frost Turquoise
+co Haze Green
+co Ivory
+co Lilac
+co Moss Gold
+co Persian White
+co Powder Blue
+co Regal Blue
+co Royal Turquoise
+co Ruby
+co Saddle Bronze
+co Scorch Red
+co Sequoia Green
+co Silver Mist
+co Spanish Red
+co Spice Gold
+co Two Tone Colors Available
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci ftype Premium
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power vent windows
+ci equip Power windows
+ci equip Power antenna
+ci equip Speed control device
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci sgear Integral power
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 2346, CL27(\w)6(\w)([\dX]{6})
+clv 7214, 1966, Chrysler, Newport, Convertible
+ci axle Semifloating
+ci msrp $3476.00
+ci origin United States
+ci series Newport
+ci year 1966
+ci make Chrysler
+ci prod 3085
+ci model BC1-L-27
+ci weight 4020
+ci maker Chrysler
+ci doors 2
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 6
+ci oil 4
+ci tcase -NA-
+ci fuel 25
+ci rdiff 4
+ci carb Ball and Ball
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 124
+ci height 55.1
+ci width 79.5
+ci length 219
+ci rtred 61..7
+ci ftred 62
+ci trq 390@2800
+ci cyl 8
+ci bhp 270@4400
+ci comp 9.2
+ci rhp 57.8
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci b&s 4 1/4 & 3 3/8
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 383
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Crystal Blue
+co Daffodil Yellow
+co Desert Beige
+co Formal Black
+co Frost Turquoise
+co Haze Green
+co Ivory
+co Lilac
+co Moss Gold
+co Persian White
+co Powder Blue
+co Regal Blue
+co Royal Turquoise
+co Ruby
+co Saddle Bronze
+co Scorch Red
+co Sequoia Green
+co Silver Mist
+co Spanish Red
+co Spice Gold
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Water pump
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci equip Speed control device
+ci equip Torque Flite Eight automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Power antenna
+ci sgear Worm & ball nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci rev 3.34
+ci 5gear Not applicable
+ci 1gear 2.55
+ci 3gear 1
+ci 2gear 1.49
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 2347, CL23(\w)6(\w)([\dX]{6})
+clv 7215, 1966, Chrysler, Newport, Hardtop
+ci axle Semifloating
+ci make Chrysler
+ci origin United States
+ci prod 37662
+ci msrp $3112.00
+ci year 1966
+ci series Newport
+ci maker Chrysler
+ci weight 3845
+ci doors 2
+ci model BC1-L-23
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci fuel 25
+ci rdiff 4
+ci tcase -NA-
+ci trans 6
+ci oil 4
+ci carb Ball and Ball
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 219
+ci height 54.1
+ci width 79.5
+ci wbase 124
+ci rtred 61..7
+ci ftred 62
+ci b&s 4 1/4 & 3 3/8
+ci cyl 8
+ci mbear 5
+ci comp 9.2
+ci rhp 57.8
+ci trq 390@2800
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 270@4400
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 383
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Crystal Blue
+co Daffodil Yellow
+co Desert Beige
+co Formal Black
+co Frost Turquoise
+co Haze Green
+co Ivory
+co Lilac
+co Moss Gold
+co Persian White
+co Powder Blue
+co Regal Blue
+co Royal Turquoise
+co Ruby
+co Saddle Bronze
+co Scorch Red
+co Sequoia Green
+co Silver Mist
+co Spanish Red
+co Spice Gold
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Water pump
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci equip Speed control device
+ci equip Torque Flite Eight automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Power antenna
+ci sgear Worm & ball nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci rev 3.34
+ci 5gear Not applicable
+ci 1gear 2.55
+ci 3gear 1
+ci 2gear 1.49
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 2348, CL43(\w)6(\w)([\dX]{6})
+clv 7216, 1966, Chrysler, Newport, Hardtop
+ci axle Semifloating
+ci year 1966
+ci origin United States
+ci series Newport
+ci prod 24966
+ci msrp $3190.00
+ci make Chrysler
+ci model BC1-L-43
+ci maker Chrysler
+ci weight 4010
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 6
+ci oil 4
+ci tcase -NA-
+ci fuel 25
+ci rdiff 4
+ci carb Ball and Ball
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 124
+ci height 54.8
+ci width 79.5
+ci length 219
+ci rtred 61..7
+ci ftred 62
+ci etype Fully synchronized
+ci cyl 8
+ci bhp 270@4400
+ci comp 9.2
+ci rhp 57.8
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 383
+ci b&s 4 1/4 & 3 3/8
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 390@2800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Crystal Blue
+co Daffodil Yellow
+co Desert Beige
+co Formal Black
+co Frost Turquoise
+co Haze Green
+co Ivory
+co Lilac
+co Moss Gold
+co Persian White
+co Powder Blue
+co Regal Blue
+co Royal Turquoise
+co Ruby
+co Saddle Bronze
+co Scorch Red
+co Sequoia Green
+co Silver Mist
+co Spanish Red
+co Spice Gold
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Water pump
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci equip Speed control device
+ci equip Torque Flite Eight automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Power antenna
+ci sgear Worm & ball nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci rev 3.34
+ci 5gear Not applicable
+ci 1gear 2.55
+ci 3gear 1
+ci 2gear 1.49
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 2349, CL41(\w)6(\w)([\dX]{6})
+clv 7217, 1966, Chrysler, Newport, Sedan
+ci axle Semifloating
+ci year 1966
+ci origin United States
+ci series Newport
+ci prod 74964
+ci msrp $3052.00
+ci make Chrysler
+ci model BC1-L-41
+ci maker Chrysler
+ci doors 4
+ci weight 3875
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci tcase -NA-
+ci trans 6
+ci fuel 25
+ci rdiff 4
+ci carb Ball and Ball
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 3.23
+ci diff Hypoid
+ci height 55.5
+ci wbase 124
+ci width 79.5
+ci rtred 61..7
+ci ftred 62
+ci length 219
+ci etype Fully synchronized
+ci cyl 8
+ci bhp 270@4400
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 57.8
+ci mbear 5
+ci disp 383
+ci b&s 4 1/4 & 3 3/8
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 390@2800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Crystal Blue
+co Daffodil Yellow
+co Desert Beige
+co Formal Black
+co Frost Turquoise
+co Haze Green
+co Ivory
+co Lilac
+co Moss Gold
+co Persian White
+co Powder Blue
+co Regal Blue
+co Royal Turquoise
+co Ruby
+co Saddle Bronze
+co Scorch Red
+co Sequoia Green
+co Silver Mist
+co Spanish Red
+co Spice Gold
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Water pump
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci cool 17 Quarts
+ci equip Speed control device
+ci equip Torque Flite Eight automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Power antenna
+ci sgear Worm & ball nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci rev 3.34
+ci 5gear Not applicable
+ci 1gear 2.55
+ci 3gear 1
+ci 2gear 1.49
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 2350, CL42(\w)6(\w)([\dX]{6})
+clv 7218, 1966, Chrysler, Newport, Town Sedan
+ci axle Semifloating
+ci series Newport
+ci msrp $3183.00
+ci origin United States
+ci year 1966
+ci prod 9432
+ci make Chrysler
+ci model BC1-L-42
+ci maker Chrysler
+ci doors 4
+ci weight 3910
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci fuel 25
+ci oil 4
+ci rdiff 4
+ci trans 6
+ci carb Ball and Ball
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 3.23
+ci diff Hypoid
+ci height 55.5
+ci wbase 124
+ci length 219
+ci rtred 61..7
+ci ftred 62
+ci width 79.5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.2
+ci rhp 57.8
+ci mbear 5
+ci disp 383
+ci trq 390@2800
+ci b&s 4 1/4 & 3 3/8
+ci etype V8 overhead valve
+ci bhp 270@4400
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Crystal Blue
+co Daffodil Yellow
+co Desert Beige
+co Formal Black
+co Frost Turquoise
+co Haze Green
+co Ivory
+co Lilac
+co Moss Gold
+co Persian White
+co Powder Blue
+co Regal Blue
+co Royal Turquoise
+co Ruby
+co Saddle Bronze
+co Scorch Red
+co Sequoia Green
+co Silver Mist
+co Spanish Red
+co Spice Gold
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci cool Water pump
+ci rad Tube and spacer
+ci ftype Regular
+ci cool 17 Quarts
+ci exha Single
+ci equip Speed control device
+ci equip Torque Flite Eight automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Power antenna
+ci sgear Worm & ball nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci gears 3
+ci rev 3.34
+ci 1gear 2.55
+ci 3gear 1
+ci 2gear 1.49
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 2351, CL45(\w)6(\w)([\dX]{6})
+clv 7219, 1966, Chrysler, Town & Country, Station Wagon 2-seat
+ci axle Semifloating
+ci series Town & Country
+ci origin United States
+ci make Chrysler
+ci msrp $4086.00
+ci year 1966
+ci prod 9035
+ci doors 4
+ci model BC1-L-45
+ci maker Chrysler
+ci pass 6
+ci weight 4370
+ci svc Power hydraulic
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 18.5
+ci tcase -NA-
+ci oil 4
+ci fuel 23
+ci rdiff 4
+ci carb Ball and Ball
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.76
+ci wbase 124
+ci width 79.4
+ci length 219
+ci ftred 62
+ci rtred 61..7
+ci height 56.8
+ci b&s 4 1/4 & 3 3/8
+ci trq 390@2800
+ci comp 9.2
+ci etype V8 overhead valve
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci cyl 8
+ci vlift Hydraulic
+ci rhp 57.8
+ci disp 383
+ci bhp 270@4400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Crystal Blue
+co Daffodil Yellow
+co Desert Beige
+co Formal Black
+co Frost Turquoise
+co Haze Green
+co Ivory
+co Lilac
+co Moss Gold
+co Persian White
+co Powder Blue
+co Regal Blue
+co Royal Turquoise
+co Ruby
+co Saddle Bronze
+co Scorch Red
+co Sequoia Green
+co Silver Mist
+co Spanish Red
+co Spice Gold
+co Two Tone Colors Available
+ci cool 17 Quarts
+ci rad Tube and spacer
+ci batt 12
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Water pump
+ci exha Single
+ci equip Power vent windows
+ci equip Power windows
+ci equip Power brakes
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Power seats
+ci equip Radio
+ci sgear Integral power
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 2352, CL46(\w)6(\w)([\dX]{6})
+clv 7220, 1966, Chrysler, Town & Country, Station Wagon 3-seat
+ci axle Semifloating
+ci series Town & Country
+ci origin United States
+ci prod 8567
+ci msrp $4192.00
+ci year 1966
+ci make Chrysler
+ci doors 4
+ci model BC1-L-46
+ci maker Chrysler
+ci pass 9
+ci weight 4550
+ci svc Power hydraulic
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 18.5
+ci tcase -NA-
+ci oil 4
+ci fuel 23
+ci rdiff 4
+ci carb Ball and Ball
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.76
+ci wbase 124
+ci height 56.8
+ci length 219.7
+ci rtred 61..7
+ci ftred 62
+ci width 79.4
+ci disp 383
+ci trq 390@2800
+ci b&s 4 1/4 & 3 3/8
+ci comp 9.2
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci rhp 57.8
+ci cyl 8
+ci bhp 270@4400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Crystal Blue
+co Daffodil Yellow
+co Desert Beige
+co Formal Black
+co Frost Turquoise
+co Haze Green
+co Ivory
+co Lilac
+co Moss Gold
+co Persian White
+co Powder Blue
+co Regal Blue
+co Royal Turquoise
+co Ruby
+co Saddle Bronze
+co Scorch Red
+co Sequoia Green
+co Silver Mist
+co Spanish Red
+co Spice Gold
+co Two Tone Colors Available
+ci cool 17 Quarts
+ci rad Tube and spacer
+ci batt 12
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Water pump
+ci exha Single
+ci equip Power vent windows
+ci equip Power windows
+ci equip Power brakes
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Power seats
+ci equip Radio
+ci sgear Integral power
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.55 x 14
+ci sloc Trunk

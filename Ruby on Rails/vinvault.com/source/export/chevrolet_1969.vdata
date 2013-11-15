@@ -1,0 +1,7149 @@
+cls 1811, 155119(\w)([\dX]{6})
+clv 5880, 1969, Chevrolet, Bel Air 6, Sedan
+ci axle Semifloating
+ci prod 155700
+ci make Chevrolet
+ci msrp $2728.00
+ci series Bel Air 6
+ci year 1969
+ci origin United States
+ci model 15511
+ci maker Fisher
+ci doors 2
+ci weight 3498
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 3.5
+ci fuel 24
+ci oil 4
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 119
+ci length 215.9
+ci ftred 62.5
+ci width 79.8
+ci rtred 62.4
+ci height 55.9
+ci mbear 7
+ci cyl 6
+ci etype Fully synchronous 3-speed manual
+ci comp 8.5
+ci b&s 3 7/8 & 3 1/23
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci block Cast alloy iron
+ci engno Prefix 1 + last 8  of VIN.
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci trq 235@1600
+ci etype Single downdraft
+ci bhp 155@4200
+ci etype Turbo-Thrift valve-in-head
+ci vlift Hydraulic
+ci rhp 36.04
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 11 Quarts
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci equip Speed control device
+ci equip Power seats
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.95
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci gears 3
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1812, 155699(\w)([\dX]{6})
+clv 5881, 1969, Chevrolet, Bel Air 6, Sedan
+ci axle Semifloating
+ci prod 155700
+ci make Chevrolet
+ci msrp $2770.00
+ci series Bel Air 6
+ci year 1969
+ci origin United States
+ci model 15569
+ci maker Fisher
+ci doors 4
+ci weight 3548
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci fuel 24
+ci rdiff 3.5
+ci trans 3
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 119
+ci length 215.9
+ci ftred 62.5
+ci width 79.8
+ci rtred 62.4
+ci height 55.9
+ci mbear 7
+ci cyl 6
+ci rhp 36.04
+ci comp 8.5
+ci b&s 3 7/8 & 3 1/23
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci block Cast alloy iron
+ci etype Fully synchronous 3-speed manual
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci trq 235@1600
+ci etype Single downdraft
+ci bhp 155@4200
+ci etype Turbo-Thrift valve-in-head
+ci vlift Hydraulic
+ci engno Prefix 1 + last 8  of VIN.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 11 Quarts
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci equip Speed control device
+ci equip Power seats
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.95
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci gears 3
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1813, 155119(\w)([\dX]{6})
+clv 5882, 1969, Chevrolet, Bel Air 8, Sedan
+ci axle Semifloating
+ci series Bel Air 8
+ci make Chevrolet
+ci msrp $2833.00
+ci prod 155700
+ci year 1969
+ci origin United States
+ci model 15511
+ci weight 3670
+ci maker Fisher
+ci doors 2
+ci pass 6
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 24
+ci tcase -NA-
+ci oil 4
+ci rdiff 3.5
+ci trans 3
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci width 79.8
+ci wbase 119
+ci length 215.9
+ci ftred 62.5
+ci rtred 62.4
+ci height 55.9
+ci rhp 51.2
+ci bhp 235@4800
+ci mbear 5
+ci vlift Hydraulic
+ci trq 325@2800
+ci etype Dual downdraft
+ci disp 327
+ci comp 9.0
+ci etype Fully synchronous 3-speed manual
+ci etype Turbo-Fire V8 valve-in-head
+ci block Cast alloy iron
+ci b&s 4 & 3 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 1 + last 8  of VIN.
+ci englo On pad at front right side of cylinder block.
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip 350 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Radio
+ci equip 427 cu. in. V8 engine
+ci equip 396 cu. in. V8 engine
+ci equip Power steering
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci 3gear 1
+ci 1gear 2.85
+ci gears 3
+ci rev 2.95
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1814, 155699(\w)([\dX]{6})
+clv 5883, 1969, Chevrolet, Bel Air 8, Sedan
+ci axle Semifloating
+ci series Bel Air 8
+ci make Chevrolet
+ci msrp $2875.00
+ci prod 155700
+ci year 1969
+ci origin United States
+ci model 15569
+ci doors 4
+ci maker Fisher
+ci pass 6
+ci weight 3725
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci fuel 24
+ci oil 4
+ci trans 3
+ci rdiff 3.5
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci height 55.9
+ci wbase 119
+ci width 79.8
+ci ftred 62.5
+ci rtred 62.4
+ci length 215.9
+ci etype Turbo-Fire V8 valve-in-head
+ci trq 325@2800
+ci mbear 5
+ci disp 327
+ci bhp 235@4800
+ci cyl 8
+ci rhp 51.2
+ci comp 9.0
+ci b&s 4 & 3 1/4
+ci vlift Hydraulic
+ci block Cast alloy iron
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci engno Prefix 1 + last 8  of VIN.
+ci englo On pad at front right side of cylinder block.
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 16 Quarts
+ci batt 12
+ci ftype Regular
+ci rad Tube and center
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip 350 cu. in. V8 engine
+ci equip Power seats
+ci equip Power steering
+ci equip 396 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci 5gear Not applicable
+ci rev 2.95
+ci 1gear 2.85
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1815, 155359(\w)([\dX]{6})
+clv 5884, 1969, Chevrolet, Bel Air Townsman 6, Station Wagon 2-seat
+ci axle Semifloating
+ci series Bel Air Townsman 6
+ci make Chevrolet
+ci msrp $3110.00
+ci prod 155700
+ci year 1969
+ci origin United States
+ci model 15535
+ci weight 4003
+ci doors 4
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci rdiff 3.5
+ci fuel 24
+ci trans 3
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.08
+ci height 55.9
+ci length 217
+ci wbase 119
+ci width 79.8
+ci rtred 62.4
+ci ftred 62.5
+ci engno Prefix 1 + last 8  of VIN.
+ci cyl 6
+ci comp 8.5
+ci etype Turbo-Thrift valve-in-head
+ci rhp 36.04
+ci etype Single downdraft
+ci bhp 155@4200
+ci block Cast alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci vlift Hydraulic
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci trq 235@1600
+ci disp 250
+ci etype Fully synchronous 3-speed manual
+ci b&s 3 7/8 & 3 1/23
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci cool 11 Quarts
+ci ftype Regular
+ci ign Distributor and coil
+ci rad Tube and center
+ci equip Front disc rear drum brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Radio
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci rev 2.95
+ci 5gear Not applicable
+ci 2gear 1.68
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 1816, 155459(\w)([\dX]{6})
+clv 5885, 1969, Chevrolet, Bel Air Townsman 6, Station Wagon 3-seat
+ci axle Semifloating
+ci series Bel Air Townsman 6
+ci make Chevrolet
+ci msrp $3223.00
+ci prod 155700
+ci year 1969
+ci origin United States
+ci model 15545
+ci doors 4
+ci maker Fisher
+ci weight 4058
+ci pass 9
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 24
+ci rdiff 3.5
+ci trans 3
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci length 217
+ci width 79.8
+ci wbase 119
+ci rtred 62.4
+ci ftred 62.5
+ci height 55.9
+ci mbear 7
+ci comp 8.5
+ci cyl 6
+ci rhp 36.04
+ci disp 250
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 1 + last 8  of VIN.
+ci block Cast alloy iron
+ci vlift Hydraulic
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci trq 235@1600
+ci etype Single downdraft
+ci bhp 155@4200
+ci etype Turbo-Thrift valve-in-head
+ci etype Fully synchronous 3-speed manual
+ci b&s 3 7/8 & 3 1/23
+ci ftype Regular
+ci ign Distributor and coil
+ci batt 12
+ci rad Tube and center
+ci cool 11 Quarts
+ci exha Single
+ci cool Centrifugal water  pump
+ci equip Front disc rear drum brakes
+ci equip Power seats
+ci equip Power brakes
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci equip Power steering
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci gears 3
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 1gear 2.85
+ci 5gear Not applicable
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.55 x 14
+cls 1817, 156369(\w)([\dX]{6})
+clv 5886, 1969, Chevrolet, Bel Air Townsman 8, Station Wagon 2-seat
+ci axle Semifloating
+ci prod 155700
+ci make Chevrolet
+ci msrp $3232.00
+ci series Bel Air Townsman 8
+ci year 1969
+ci origin United States
+ci pass 6
+ci model 15636
+ci maker Fisher
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci oil 4
+ci rdiff 3.5
+ci trans 3
+ci fuel 24
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.08
+ci ftred 62.5
+ci length 217
+ci width 79.8
+ci height 55.9
+ci wbase 119
+ci rtred 62.4
+ci block Cast alloy iron
+ci rhp 51.2
+ci cyl 8
+ci englo On pad at front right side of cylinder block.
+ci comp 9.0
+ci mbear 5
+ci b&s 4 & 3 1/4
+ci disp 327
+ci engno Prefix 1 + last 8  of VIN.
+ci etype Turbo-Fire V8 valve-in-head
+ci trq 325@2800
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous 3-speed manual
+ci bhp 235@4800
+ci etype Dual downdraft
+ci color Exterior Colors
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci ftype Regular
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci equip Power seats
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci rev 2.95
+ci 3gear 1
+ci 1gear 2.85
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 1818, 156469(\w)([\dX]{6})
+clv 5887, 1969, Chevrolet, Bel Air Townsman 8, Station Wagon 3-seat
+ci axle Semifloating
+ci prod 155700
+ci make Chevrolet
+ci msrp $3345.00
+ci series Bel Air Townsman 8
+ci year 1969
+ci origin United States
+ci pass 9
+ci model 15646
+ci maker Fisher
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci oil 4
+ci rdiff 3.5
+ci trans 3
+ci fuel 24
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.08
+ci width 79.8
+ci length 217
+ci wbase 119
+ci height 55.9
+ci rtred 62.4
+ci ftred 62.5
+ci block Cast alloy iron
+ci cyl 8
+ci englo On pad at front right side of cylinder block.
+ci rhp 51.2
+ci comp 9.0
+ci mbear 5
+ci b&s 4 & 3 1/4
+ci disp 327
+ci engno Prefix 1 + last 8  of VIN.
+ci etype Turbo-Fire V8 valve-in-head
+ci trq 325@2800
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous 3-speed manual
+ci bhp 235@4800
+ci etype Dual downdraft
+ci color Exterior Colors
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci ftype Regular
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci equip Power seats
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci rev 2.95
+ci 3gear 1
+ci 1gear 2.85
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 1819, 153119(\w)([\dX]{6})
+clv 5888, 1969, Chevrolet, Biscayne 6, Sedan
+ci axle Semifloating
+ci year 1969
+ci make Chevrolet
+ci msrp $2628.00
+ci series Biscayne 6
+ci prod 68700
+ci origin United States
+ci model 15311
+ci maker Fisher
+ci doors 2
+ci weight 3488
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci fuel 24
+ci rdiff 3.5
+ci trans 3
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.08
+ci diff Hypoid
+ci width 79.8
+ci height 55.9
+ci length 215.9
+ci rtred 62.4
+ci ftred 62.5
+ci wbase 119
+ci cyl 6
+ci mbear 7
+ci rhp 36.04
+ci comp 8.5
+ci b&s 3 7/8 & 3 1/23
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci block Cast alloy iron
+ci etype Fully synchronous 3-speed manual
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci trq 235@1600
+ci etype Single downdraft
+ci etype Turbo-Thrift valve-in-head
+ci bhp 155@4200
+ci vlift Hydraulic
+ci engno Prefix 1 + last 8  of VIN.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 11 Quarts
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci equip Speed control device
+ci equip Power seats
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.95
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci gears 3
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1820, 153699(\w)([\dX]{6})
+clv 5889, 1969, Chevrolet, Biscayne 6, Sedan
+ci axle Semifloating
+ci year 1969
+ci make Chevrolet
+ci msrp $2670.00
+ci series Biscayne 6
+ci prod 68700
+ci origin United States
+ci model 15369
+ci maker Fisher
+ci doors 4
+ci weight 3548
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 24
+ci tcase -NA-
+ci oil 4
+ci rdiff 3.5
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci width 79.8
+ci height 55.9
+ci length 215.9
+ci rtred 62.4
+ci ftred 62.5
+ci wbase 119
+ci cyl 6
+ci mbear 7
+ci rhp 36.04
+ci comp 8.5
+ci b&s 3 7/8 & 3 1/23
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci block Cast alloy iron
+ci etype Fully synchronous 3-speed manual
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci trq 235@1600
+ci etype Single downdraft
+ci etype Turbo-Thrift valve-in-head
+ci bhp 155@4200
+ci vlift Hydraulic
+ci engno Prefix 1 + last 8  of VIN.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 11 Quarts
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci equip Speed control device
+ci equip Power seats
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.95
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci gears 3
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1821, 154119(\w)([\dX]{6})
+clv 5890, 1969, Chevrolet, Biscayne 8, Sedan
+ci axle Semifloating
+ci series Biscayne 8
+ci make Chevrolet
+ci msrp $2733.00
+ci year 1969
+ci prod 68700
+ci origin United States
+ci model 15411
+ci maker Fisher
+ci weight 3670
+ci doors 2
+ci pass 6
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci trans 3
+ci tcase -NA-
+ci fuel 24
+ci oil 4
+ci rdiff 3.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 215.9
+ci width 79.8
+ci wbase 119
+ci height 55.9
+ci rtred 62.4
+ci ftred 62.5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci mbear 5
+ci bhp 235@4800
+ci b&s 4 & 3 1/4
+ci cyl 8
+ci etype Turbo-Fire V8 valve-in-head
+ci comp 9.0
+ci etype Dual downdraft
+ci disp 327
+ci block Cast alloy iron
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci engno Prefix 1 + last 8  of VIN.
+ci englo On pad at front right side of cylinder block.
+ci trq 325@2800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci rad Tube and center
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip 350 cu. in. V8 engine
+ci equip Power seats
+ci equip Power steering
+ci equip 396 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci 5gear Not applicable
+ci rev 2.95
+ci 1gear 2.85
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1822, 154699(\w)([\dX]{6})
+clv 5891, 1969, Chevrolet, Biscayne 8, Sedan
+ci axle Semifloating
+ci series Biscayne 8
+ci make Chevrolet
+ci msrp $2775.00
+ci year 1969
+ci prod 68700
+ci origin United States
+ci model 15469
+ci doors 4
+ci maker Fisher
+ci weight 3725
+ci pass 6
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 24
+ci tcase -NA-
+ci oil 4
+ci rdiff 3.5
+ci trans 3
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.08
+ci diff Hypoid
+ci height 55.9
+ci rtred 62.4
+ci width 79.8
+ci wbase 119
+ci ftred 62.5
+ci length 215.9
+ci trq 325@2800
+ci disp 327
+ci rhp 51.2
+ci mbear 5
+ci b&s 4 & 3 1/4
+ci cyl 8
+ci bhp 235@4800
+ci comp 9.0
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci block Cast alloy iron
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 1 + last 8  of VIN.
+ci englo On pad at front right side of cylinder block.
+ci etype Turbo-Fire V8 valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool 16 Quarts
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip 350 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Radio
+ci equip 427 cu. in. V8 engine
+ci equip 396 cu. in. V8 engine
+ci equip Power steering
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci 3gear 1
+ci 1gear 2.85
+ci gears 3
+ci rev 2.95
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1823, 153369(\w)([\dX]{6})
+clv 5892, 1969, Chevrolet, Biscayne Brookwood 6, Station Wagon 2-seat
+ci axle Semifloating
+ci year 1969
+ci make Chevrolet
+ci msrp $3047.00
+ci series Biscayne Brookwood 6
+ci prod 68700
+ci origin United States
+ci model 15336
+ci weight 4003
+ci maker Fisher
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 24
+ci rdiff 3.5
+ci oil 4
+ci tcase -NA-
+ci trans 3
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.08
+ci diff Hypoid
+ci width 79.8
+ci height 55.9
+ci length 217
+ci rtred 62.4
+ci ftred 62.5
+ci wbase 119
+ci engno Prefix 1 + last 8  of VIN.
+ci cyl 6
+ci comp 8.5
+ci etype Turbo-Thrift valve-in-head
+ci rhp 36.04
+ci bhp 155@4200
+ci b&s 3 7/8 & 3 1/23
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci etype Fully synchronous 3-speed manual
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci trq 235@1600
+ci disp 250
+ci vlift Hydraulic
+ci block Cast alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Can-Am White
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci rad Tube and center
+ci batt 12
+ci cool 11 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 3gear 1
+ci 2gear 1.68
+ci 1gear 2.85
+ci gears 3
+ci rev 2.95
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 1824, 154369(\w)([\dX]{6})
+clv 5893, 1969, Chevrolet, Biscayne Brookwood 8, Station Wagon 2-seat
+ci axle Semifloating
+ci year 1969
+ci make Chevrolet
+ci msrp $3169.00
+ci series Biscayne Brookwood 8
+ci prod 68700
+ci origin United States
+ci model 15436
+ci pass 9
+ci doors 4
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci fuel 24
+ci tcase -NA-
+ci trans 3
+ci rdiff 3.5
+ci oil 4
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci ftred 62.5
+ci height 55.9
+ci length 217
+ci rtred 62.4
+ci width 79.8
+ci wbase 119
+ci etype Fully synchronous 3-speed manual
+ci cyl 8
+ci engno Prefix 1 + last 8  of VIN.
+ci etype Turbo-Fire V8 valve-in-head
+ci comp 9.0
+ci mbear 5
+ci disp 327
+ci trq 325@2800
+ci englo On pad at front right side of cylinder block.
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 235@4800
+ci b&s 4 & 3 1/4
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci rhp 51.2
+ci block Cast alloy iron
+ci color Exterior Colors
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip Power seats
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci 1gear 2.85
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.95
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 1825, 123679[NL]([\dX]{6})
+clv 5894, 1969, Chevrolet, Camaro 6, Convertible
+ci axle Semifloating
+ci prod 17573
+ci make Chevrolet
+ci msrp $2835.00
+ci series Camaro 6
+ci year 1969
+ci origin United States
+ci model 12367
+ci maker Fisher
+ci weight 3119
+ci doors 2
+ci pass 4
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 18
+ci oil 4
+ci rdiff 3.5
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci ftred 59
+ci height 51.1
+ci length 186
+ci rtred 59.5
+ci wbase 108
+ci width 74
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci comp 8.5
+ci cyl 6
+ci rhp 36.04
+ci etype Turbo-Thrift valve-in-head
+ci bhp 140@4000
+ci b&s 3 7/8 & 3 1/4
+ci etype Single downdraft
+ci engno Prefix 1 + last 8  of VIN.
+ci vlift Hydraulic
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci trq 220@1600
+ci etype Fully synchronous 3-speed manual
+ci disp 230
+ci block Cast alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci rad Tube and center
+ci exha Single
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci batt 12
+ci cool 11 Quarts
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Speed control device
+ci equip Torque-Drive automatic transmission
+ci equip Radio
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 3gear 1
+ci 1gear 2.85
+ci gears 3
+ci 2gear 1.68
+ci rev 2.95
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1826, 123379[NL]([\dX]{6})
+clv 5895, 1969, Chevrolet, Camaro 6, Hardtop
+ci axle Semifloating
+ci series Camaro 6
+ci make Chevrolet
+ci msrp $2621.00
+ci year 1969
+ci prod 225512
+ci origin United States
+ci pass 4
+ci weight 2869
+ci maker Fisher
+ci doors 2
+ci model 12337
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 18
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 4
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 108
+ci height 51.1
+ci ftred 59
+ci rtred 59.5
+ci length 186
+ci width 74
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci comp 8.5
+ci cyl 6
+ci rhp 36.04
+ci etype Turbo-Thrift valve-in-head
+ci bhp 140@4000
+ci block Cast alloy iron
+ci etype Single downdraft
+ci engno Prefix 1 + last 8  of VIN.
+ci vlift Hydraulic
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci trq 220@1600
+ci etype Fully synchronous 3-speed manual
+ci disp 230
+ci b&s 3 7/8 & 3 1/4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci cool 11 Quarts
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Torque-Drive automatic transmission
+ci equip Speed control device
+ci equip Radio
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 3gear 1
+ci 1gear 2.85
+ci rev 2.95
+ci gears 3
+ci 2gear 1.68
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1827, 124679[NL]([\dX]{6})
+clv 5896, 1969, Chevrolet, Camaro V8, Convertible
+ci axle Semifloating
+ci series Camaro V8
+ci make Chevrolet
+ci msrp $2925.00
+ci prod 17573
+ci year 1969
+ci origin United States
+ci model 12467
+ci pass 4
+ci maker Fisher
+ci doors 2
+ci weight 3295
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci fuel 18
+ci oil 4
+ci rdiff 3.5
+ci tcase -NA-
+ci trans 3
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10.4 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 186
+ci width 74
+ci wbase 108
+ci height 51.1
+ci ftred 59
+ci rtred 59.5
+ci cyl 8
+ci rhp 48.05
+ci mbear 5
+ci comp 9.0
+ci bhp 200@4600
+ci etype Turbo-Fire V8 valve-in-head
+ci b&s 3 7/8 & 3 1/4
+ci block Cast alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 1 + last 8  of VIN.
+ci disp 307
+ci etype Dual downdraft
+ci englo On pad at front right side of cylinder block.
+ci trq 300@2400
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci cool 11 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power windows
+ci equip Speed control device
+ci equip Power steering
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.85
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1828, 124379[NL]([\dX]{6})
+clv 5897, 1969, Chevrolet, Camaro V8, Hardtop
+ci axle Semifloating
+ci series Camaro V8
+ci make Chevrolet
+ci msrp $2711.00
+ci year 1969
+ci prod 225512
+ci origin United States
+ci model 12437
+ci pass 4
+ci maker Fisher
+ci doors 2
+ci weight 3050
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci rdiff 3.5
+ci oil 4
+ci fuel 18
+ci tcase -NA-
+ci trans 3
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10.4 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 186
+ci width 74
+ci wbase 108
+ci height 51.1
+ci ftred 59
+ci rtred 59.5
+ci cyl 8
+ci rhp 48.05
+ci mbear 5
+ci comp 9.0
+ci etype Turbo-Fire V8 valve-in-head
+ci b&s 3 7/8 & 3 1/4
+ci disp 307
+ci block Cast alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 1 + last 8  of VIN.
+ci englo On pad at front right side of cylinder block.
+ci etype Dual downdraft
+ci trq 300@2400
+ci bhp 200@4600
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci cool 11 Quarts
+ci ftype Regular
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Speed control device
+ci equip Power windows
+ci equip Air conditioning
+ci equip Power steering
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 1gear 2.85
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.68
+ci gears 3
+ci rev 2.95
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1829, 166369(\w)([\dX]{6})
+clv 5898, 1969, Chevrolet, Caprice Kingswood Estate, Station Wagon 2-seat
+ci axle Semifloating
+ci make Chevrolet
+ci prod 166900
+ci msrp $3548.00
+ci series Caprice Kingswood Estate
+ci year 1969
+ci origin United States
+ci maker Fisher
+ci model 16636
+ci doors 4
+ci weight 4196
+ci pass 6
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci fuel 24
+ci oil 4
+ci trans 3
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Rochester
+ci csize 10 11/32 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci ftred 62.5
+ci width 79.8
+ci length 217
+ci height 55.9
+ci wbase 119
+ci rtred 62.4
+ci mbear 5
+ci rhp 51.2
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.0
+ci engno Prefix 1 + last 8  of VIN.
+ci etype Fully synchronized
+ci block Cast alloy iron
+ci disp 327
+ci trq 325@2800
+ci bhp 235@4800
+ci etype Turbo-Fire V8 valve-in-head
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci englo On pad at front right side of cylinder block.
+ci b&s 4 & 3 1/4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Can-Am White
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci cool 16 Quarts
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.5
+ci drive Rear wheel drive
+ci rev 2.63
+ci gears 3
+ci 5gear Not applicable
+ci 1gear 2.54
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 1830, 166469(\w)([\dX]{6})
+clv 5899, 1969, Chevrolet, Caprice Kingswood Estate, Station Wagon 3-seat
+ci axle Semifloating
+ci make Chevrolet
+ci prod 166900
+ci msrp $3661.00
+ci series Caprice Kingswood Estate
+ci year 1969
+ci origin United States
+ci maker Fisher
+ci model 16646
+ci doors 4
+ci weight 4251
+ci pass 9
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci fuel 24
+ci oil 4
+ci trans 3
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Rochester
+ci csize 10 11/32 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci width 79.8
+ci wbase 119
+ci length 217
+ci height 55.9
+ci rtred 62.4
+ci ftred 62.5
+ci mbear 5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci comp 9.0
+ci engno Prefix 1 + last 8  of VIN.
+ci etype Fully synchronized
+ci block Cast alloy iron
+ci disp 327
+ci trq 325@2800
+ci bhp 235@4800
+ci etype Turbo-Fire V8 valve-in-head
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci englo On pad at front right side of cylinder block.
+ci b&s 4 & 3 1/4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Can-Am White
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci cool 16 Quarts
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.5
+ci drive Rear wheel drive
+ci rev 2.63
+ci gears 3
+ci 5gear Not applicable
+ci 1gear 2.54
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 1831, 166479(\w)([\dX]{6})
+clv 5900, 1969, Chevrolet, Caprice, Hardtop
+ci axle Semifloating
+ci series Caprice
+ci make Chevrolet
+ci msrp $3277.00
+ci prod 166900
+ci year 1969
+ci origin United States
+ci maker Fisher
+ci model 16647
+ci weight 3761
+ci doors 2
+ci pass 6
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 24
+ci tcase -NA-
+ci trans 3
+ci rdiff 3.5
+ci oil 4
+ci carb Rochester
+ci csize 10 11/32 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci width 79.8
+ci wbase 119
+ci length 215.9
+ci ftred 62.5
+ci rtred 62.4
+ci height 54.9
+ci etype Fully synchronized
+ci bhp 235@4800
+ci mbear 5
+ci englo On pad at front right side of cylinder block.
+ci etype Dual downdraft
+ci cyl 8
+ci trq 325@2800
+ci comp 9.0
+ci vlift Hydraulic
+ci etype Turbo-Fire V8 valve-in-head
+ci block Cast alloy iron
+ci disp 327
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 1 + last 8  of VIN.
+ci b&s 4 & 3 1/4
+ci rhp 51.2
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci exha Single
+ci ftype Regular
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci cool 16 Quarts
+ci cool Centrifugal water  pump
+ci equip Air conditioning
+ci equip Turbo Hydramatic automatic transmission
+ci equip Front disc rear drum brakes
+ci equip 350 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power steering
+ci equip Radio
+ci equip 427 cu. in. V8 engine
+ci equip 396 cu. in. V8 engine
+ci equip Powerglide automatic transmission
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.5
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.63
+ci 1gear 2.54
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1832, 166399(\w)([\dX]{6})
+clv 5901, 1969, Chevrolet, Caprice, Hardtop
+ci axle Semifloating
+ci series Caprice
+ci make Chevrolet
+ci msrp $3309.00
+ci prod 166900
+ci year 1969
+ci origin United States
+ci pass 6
+ci model 16639
+ci maker Fisher
+ci doors 4
+ci weight 3846
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 24
+ci oil 4
+ci trans 3
+ci rdiff 3.5
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 11/32 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci length 215.9
+ci ftred 62.5
+ci width 79.8
+ci rtred 62.4
+ci wbase 119
+ci height 54.9
+ci rhp 51.2
+ci mbear 5
+ci etype Turbo-Fire V8 valve-in-head
+ci b&s 4 & 3 1/4
+ci vlift Hydraulic
+ci cyl 8
+ci disp 327
+ci comp 9.0
+ci trq 325@2800
+ci bhp 235@4800
+ci block Cast alloy iron
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci engno Prefix 1 + last 8  of VIN.
+ci englo On pad at front right side of cylinder block.
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci ftype Regular
+ci batt 12
+ci cool 16 Quarts
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Turbo Hydramatic automatic transmission
+ci equip 350 cu. in. V8 engine
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip 396 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.5
+ci 5gear Not applicable
+ci rev 2.63
+ci 1gear 2.54
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1833, 133279(\w)([\dX]{6})
+clv 5902, 1969, Chevrolet, Chevelle 300 Deluxe 6, Coupe
+ci axle Semifloating
+ci make Chevrolet
+ci year 1969
+ci msrp $2441.00
+ci series Chevelle 300 Deluxe 6
+ci prod 21000
+ci origin United States
+ci pass 5
+ci model 13327
+ci doors 2
+ci maker Fisher
+ci weight 2992
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci tcase -NA-
+ci fuel 20
+ci trans 3
+ci rdiff 3.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.08
+ci diff Hypoid
+ci rtred 59
+ci wbase 112
+ci length 200.9
+ci width 76
+ci height 53.5
+ci bhp 140@4000
+ci cyl 6
+ci comp 8.5
+ci mbear 7
+ci rhp 36.04
+ci etype Fully synchronous 3-speed manual
+ci block Cast alloy iron
+ci engno Prefix 1 + last 8  of VIN.
+ci b&s 3 7/8 & 3 1/4
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci disp 230
+ci trq 220@1600
+ci etype Single downdraft
+ci etype Turbo-Thrift valve-in-head
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tube and center
+ci exha Single
+ci cool 11 Quarts
+ci batt 12
+ci equip Power brakes
+ci equip Speed control device
+ci equip Powerglide automatic transmission
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci gears 3
+ci 1gear 2.85
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 1834, 133699(\w)([\dX]{6})
+clv 5903, 1969, Chevrolet, Chevelle 300 Deluxe 6, Sedan
+ci axle Semifloating
+ci series Chevelle 300 Deluxe 6
+ci make Chevrolet
+ci msrp $2471.00
+ci year 1969
+ci prod 21000
+ci origin United States
+ci doors 4
+ci model 13369
+ci weight 3057
+ci maker Fisher
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci rdiff 3.5
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 112
+ci height 53.5
+ci rtred 59
+ci length 200.9
+ci width 76
+ci engno Prefix 1 + last 8  of VIN.
+ci mbear 7
+ci comp 8.5
+ci cyl 6
+ci rhp 36.04
+ci etype Turbo-Thrift valve-in-head
+ci block Cast alloy iron
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous 3-speed manual
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci trq 220@1600
+ci disp 230
+ci b&s 3 7/8 & 3 1/4
+ci vlift Hydraulic
+ci bhp 140@4000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci cool 11 Quarts
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Radio
+ci equip Power brakes
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci rev 2.95
+ci drive Rear wheel drive
+ci 1gear 2.85
+ci 2gear 1.68
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1835, 133379(\w)([\dX]{6})
+clv 5904, 1969, Chevrolet, Chevelle 300 Deluxe 6, Sport Coupe
+ci axle Semifloating
+ci series Chevelle 300 Deluxe 6
+ci make Chevrolet
+ci msrp $2504.00
+ci year 1969
+ci prod 21000
+ci origin United States
+ci model 13337
+ci pass 5
+ci doors 2
+ci maker Fisher
+ci weight 3032
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci rdiff 3.5
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 112
+ci length 200.9
+ci rtred 59
+ci width 76
+ci height 53.5
+ci bhp 140@4000
+ci cyl 6
+ci comp 8.5
+ci mbear 7
+ci rhp 36.04
+ci etype Fully synchronous 3-speed manual
+ci block Cast alloy iron
+ci b&s 3 7/8 & 3 1/4
+ci engno Prefix 1 + last 8  of VIN.
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci disp 230
+ci trq 220@1600
+ci etype Single downdraft
+ci etype Turbo-Thrift valve-in-head
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci exha Single
+ci ign Distributor and coil
+ci cool 11 Quarts
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci batt 12
+ci ftype Regular
+ci equip Speed control device
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci gears 3
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 2.85
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 1836, 134279(\w)([\dX]{6})
+clv 5905, 1969, Chevrolet, Chevelle 300 Deluxe V8, Coupe
+ci axle Semifloating
+ci series Chevelle 300 Deluxe V8
+ci make Chevrolet
+ci msrp $2531.00
+ci year 1969
+ci prod 21000
+ci origin United States
+ci model 13427
+ci weight 3165
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 20
+ci trans 3
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10.34 inches
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 112
+ci length 200.9
+ci height 53.5
+ci rtred 59
+ci width 76
+ci mbear 5
+ci engno Prefix 1 + last 8  of VIN.
+ci rhp 48.05
+ci cyl 8
+ci comp 9.0
+ci bhp 200@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front right side of cylinder block.
+ci disp 307
+ci trq 300@2400
+ci b&s 3 7/8 & 3 1/4
+ci etype Turbo-Fire V8 valve-in-head
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronous 3-speed manual
+ci block Cast alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci cool 11 Quarts
+ci equip Radio
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip 350 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci rev 2.95
+ci 3gear 1
+ci 2gear 1.68
+ci 1gear 2.85
+ci 5gear Not applicable
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1837, 134699(\w)([\dX]{6})
+clv 5906, 1969, Chevrolet, Chevelle 300 Deluxe V8, Sedan
+ci axle Semifloating
+ci series Chevelle 300 Deluxe V8
+ci make Chevrolet
+ci msrp $2561.00
+ci year 1969
+ci prod 21000
+ci origin United States
+ci model 13469
+ci weight 3230
+ci doors 4
+ci pass 6
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci oil 4
+ci tcase -NA-
+ci trans 3
+ci rdiff 3.5
+ci fuel 20
+ci carb Rochester
+ci csize 10.34 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 112
+ci width 76
+ci length 200.9
+ci height 53.5
+ci rtred 59
+ci rhp 48.05
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci cyl 8
+ci comp 9.0
+ci disp 307
+ci engno Prefix 1 + last 8  of VIN.
+ci englo On pad at front right side of cylinder block.
+ci trq 300@2400
+ci b&s 3 7/8 & 3 1/4
+ci bhp 200@4600
+ci etype Turbo-Fire V8 valve-in-head
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronous 3-speed manual
+ci block Cast alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci cool 11 Quarts
+ci equip Radio
+ci equip 350 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci rev 2.95
+ci 3gear 1
+ci 2gear 1.68
+ci 1gear 2.85
+ci 5gear Not applicable
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1838, 134379(\w)([\dX]{6})
+clv 5907, 1969, Chevrolet, Chevelle 300 Deluxe V8, Sport Coupe
+ci axle Semifloating
+ci series Chevelle 300 Deluxe V8
+ci make Chevrolet
+ci msrp $2594.00
+ci year 1969
+ci prod 21000
+ci origin United States
+ci model 13437
+ci weight 3205
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 20
+ci trans 3
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10.34 inches
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 112
+ci length 200.9
+ci height 53.5
+ci rtred 59
+ci width 76
+ci mbear 5
+ci engno Prefix 1 + last 8  of VIN.
+ci rhp 48.05
+ci cyl 8
+ci comp 9.0
+ci bhp 200@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front right side of cylinder block.
+ci disp 307
+ci trq 300@2400
+ci b&s 3 7/8 & 3 1/4
+ci etype Turbo-Fire V8 valve-in-head
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronous 3-speed manual
+ci block Cast alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci cool 11 Quarts
+ci equip Radio
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip 350 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci rev 2.95
+ci 3gear 1
+ci 2gear 1.68
+ci 1gear 2.85
+ci 5gear Not applicable
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1839, 135369(\w)([\dX]{6})
+clv 5908, 1969, Chevrolet, Chevelle Concours 6, Station Wagon 2-seat
+ci axle Semifloating
+ci series Chevelle Concours 6
+ci make Chevrolet
+ci msrp $2914.00
+ci prod 45900
+ci year 1969
+ci origin United States
+ci maker Fisher
+ci model 13536
+ci weight 3502
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci trans 3
+ci rdiff 3.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.36
+ci diff Hypoid
+ci rtred 59
+ci height 53.5
+ci wbase 116
+ci length 206
+ci width 76
+ci engno Prefix 1 + last 8  of VIN.
+ci comp 8.5
+ci cyl 6
+ci rhp 36.04
+ci etype Turbo-Thrift valve-in-head
+ci block Cast alloy iron
+ci etype Single downdraft
+ci trq 220@1600
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci vlift Hydraulic
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci disp 230
+ci b&s 3 7/8 & 3 1/4
+ci etype Fully synchronous 3-speed manual
+ci bhp 140@4000
+ci color Exterior Colors
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+ci exha Single
+ci cool Centrifugal water  pump
+ci batt 12
+ci rad Tube and center
+ci cool 11 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Front disc rear drum brakes
+ci equip Power windows
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Radio
+ci equip Power steering
+ci equip Power brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci rev 2.95
+ci drive Rear wheel drive
+ci 1gear 2.85
+ci 2gear 1.68
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 1840, 135469(\w)([\dX]{6})
+clv 5909, 1969, Chevrolet, Chevelle Concours 6, Station Wagon 3-seat
+ci axle Semifloating
+ci series Chevelle Concours 6
+ci make Chevrolet
+ci msrp $3117.00
+ci year 1969
+ci prod 45900
+ci origin United States
+ci maker Fisher
+ci model 13546
+ci doors 4
+ci weight 3582
+ci pass 9
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 3.5
+ci trans 3
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.36
+ci rtred 59
+ci height 53.5
+ci wbase 116
+ci length 206
+ci width 76
+ci bhp 140@4000
+ci mbear 7
+ci cyl 6
+ci comp 8.5
+ci rhp 36.04
+ci block Cast alloy iron
+ci b&s 3 7/8 & 3 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci etype Single downdraft
+ci disp 230
+ci trq 220@1600
+ci etype Turbo-Thrift valve-in-head
+ci etype Fully synchronous 3-speed manual
+ci engno Prefix 1 + last 8  of VIN.
+ci color Exterior Colors
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+ci exha Single
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci batt 12
+ci ftype Regular
+ci cool 11 Quarts
+ci equip Air conditioning
+ci equip Power windows
+ci equip Speed control device
+ci equip Power brakes
+ci equip Radio
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.95
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci 1gear 2.85
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 1841, 136369(\w)([\dX]{6})
+clv 5910, 1969, Chevrolet, Chevelle Concours Estate, Station Wagon 2-seat
+ci axle Semifloating
+ci series Chevelle Concours Estate
+ci make Chevrolet
+ci msrp $3136.00
+ci year 1969
+ci prod 45900
+ci origin United States
+ci model 13636
+ci doors 4
+ci pass 6
+ci maker Fisher
+ci weight 3625
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 4
+ci trans 3
+ci fuel 20
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10.34 inches
+ci diffr 3.36
+ci diff Hypoid
+ci wbase 116
+ci width 76
+ci length 206
+ci rtred 59
+ci height 53.5
+ci mbear 5
+ci cyl 8
+ci comp 9.0
+ci rhp 48.05
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci engno Prefix 1 + last 8  of VIN.
+ci disp 307
+ci etype Fully synchronous 3-speed manual
+ci trq 300@2400
+ci b&s 3 7/8 & 3 1/4
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci bhp 200@4600
+ci etype Turbo-Fire V8 valve-in-head
+ci englo On pad at front right side of cylinder block.
+ci color Exterior Colors
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci batt 12
+ci rad Tube and center
+ci cool 11 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.85
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.95
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 1842, 136469(\w)([\dX]{6})
+clv 5911, 1969, Chevrolet, Chevelle Concours Estate, Station Wagon 3-seat
+ci axle Semifloating
+ci series Chevelle Concours Estate
+ci make Chevrolet
+ci msrp $3249.00
+ci year 1969
+ci prod 45900
+ci origin United States
+ci model 13646
+ci doors 4
+ci pass 9
+ci maker Fisher
+ci weight 3680
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 4
+ci trans 3
+ci fuel 20
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10.34 inches
+ci diffr 3.36
+ci diff Hypoid
+ci wbase 116
+ci length 206
+ci width 76
+ci rtred 59
+ci height 53.5
+ci cyl 8
+ci mbear 5
+ci comp 9.0
+ci rhp 48.05
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci engno Prefix 1 + last 8  of VIN.
+ci disp 307
+ci etype Fully synchronous 3-speed manual
+ci trq 300@2400
+ci b&s 3 7/8 & 3 1/4
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci bhp 200@4600
+ci etype Turbo-Fire V8 valve-in-head
+ci englo On pad at front right side of cylinder block.
+ci color Exterior Colors
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci batt 12
+ci rad Tube and center
+ci cool 11 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.85
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.95
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 1843, 136359(\w)([\dX]{6})
+clv 5912, 1969, Chevrolet, Chevelle Concours V8, Station Wagon 2-seat
+ci axle Semifloating
+ci series Chevelle Concours V8
+ci make Chevrolet
+ci msrp $3029.00
+ci year 1969
+ci prod 45900
+ci origin United States
+ci model 13635
+ci maker Fisher
+ci doors 4
+ci pass 6
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 20
+ci rdiff 3.5
+ci trans 3
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci csize 10.34 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 116
+ci width 76
+ci length 206
+ci height 54.4
+ci rtred 59
+ci b&s 3 7/8 & 3 1/4
+ci mbear 5
+ci etype Turbo-Fire V8 valve-in-head
+ci cyl 8
+ci comp 9.0
+ci rhp 48.05
+ci engno Prefix 1 + last 8  of VIN.
+ci block Cast alloy iron
+ci bhp 200@4600
+ci englo On pad at front right side of cylinder block.
+ci disp 307
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronous 3-speed manual
+ci trq 300@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci cool 11 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip Power steering
+ci equip Speed control device
+ci equip Power brakes
+ci equip 350 cu. in. V8 engine
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci rev 2.95
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 1844, 136459(\w)([\dX]{6})
+clv 5913, 1969, Chevrolet, Chevelle Concours V8, Station Wagon 3-seat
+ci axle Semifloating
+ci series Chevelle Concours V8
+ci make Chevrolet
+ci msrp $3232.00
+ci year 1969
+ci prod 45900
+ci origin United States
+ci model 13645
+ci pass 9
+ci maker Fisher
+ci doors 4
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 3.5
+ci oil 4
+ci trans 3
+ci fuel 20
+ci tcase -NA-
+ci carb Rochester
+ci csize 10.34 inches
+ci ctype Single plate dry disc
+ci diffr 3.36
+ci diff Hypoid
+ci wbase 116
+ci width 76
+ci length 206
+ci height 54.4
+ci rtred 59
+ci cyl 8
+ci rhp 48.05
+ci mbear 5
+ci b&s 3 7/8 & 3 1/4
+ci comp 9.0
+ci bhp 200@4600
+ci etype Turbo-Fire V8 valve-in-head
+ci block Cast alloy iron
+ci englo On pad at front right side of cylinder block.
+ci disp 307
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci engno Prefix 1 + last 8  of VIN.
+ci trq 300@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 11 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip Power steering
+ci equip Speed control device
+ci equip Power brakes
+ci equip 350 cu. in. V8 engine
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci rev 2.95
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 1845, 135679(\w)([\dX]{6})
+clv 5914, 1969, Chevrolet, Chevelle Malibu 6, Convertible
+ci axle Semifloating
+ci series Chevelle Malibu 6
+ci make Chevrolet
+ci msrp $2783.00
+ci year 1969
+ci prod 25000
+ci origin United States
+ci maker Fisher
+ci model 13567
+ci doors 2
+ci pass 5
+ci weight 3132
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci trans 3
+ci fuel 20
+ci rdiff 3.5
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci rtred 59
+ci height 53.5
+ci wbase 116
+ci length 200.9
+ci width 76
+ci engno Prefix 1 + last 8  of VIN.
+ci mbear 7
+ci comp 8.5
+ci cyl 6
+ci rhp 36.04
+ci etype Turbo-Thrift valve-in-head
+ci block Cast alloy iron
+ci etype Single downdraft
+ci trq 220@1600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous 3-speed manual
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci disp 230
+ci b&s 3 7/8 & 3 1/4
+ci vlift Hydraulic
+ci bhp 140@4000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci cool 11 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Radio
+ci equip Power brakes
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci 1gear 2.85
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1846, 135699(\w)([\dX]{6})
+clv 5915, 1969, Chevrolet, Chevelle Malibu 6, Sedan
+ci axle Semifloating
+ci series Chevelle Malibu 6
+ci make Chevrolet
+ci msrp $2550.00
+ci year 1969
+ci prod 25000
+ci origin United States
+ci doors 4
+ci model 13569
+ci weight 3087
+ci maker Fisher
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci rdiff 3.5
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 116
+ci height 53.5
+ci rtred 59
+ci length 200.9
+ci width 76
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci comp 8.5
+ci cyl 6
+ci rhp 36.04
+ci etype Turbo-Thrift valve-in-head
+ci block Cast alloy iron
+ci etype Single downdraft
+ci trq 220@1600
+ci engno Prefix 1 + last 8  of VIN.
+ci etype Fully synchronous 3-speed manual
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci disp 230
+ci b&s 3 7/8 & 3 1/4
+ci vlift Hydraulic
+ci bhp 140@4000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci cool 11 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci 1gear 2.85
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1847, 135379(\w)([\dX]{6})
+clv 5916, 1969, Chevrolet, Chevelle Malibu 6, Sport Coupe
+ci axle Semifloating
+ci series Chevelle Malibu 6
+ci make Chevrolet
+ci msrp $2584.00
+ci year 1969
+ci prod 25000
+ci origin United States
+ci maker Fisher
+ci model 13537
+ci doors 2
+ci pass 5
+ci weight 3052
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci trans 3
+ci fuel 20
+ci rdiff 3.5
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci rtred 59
+ci height 53.5
+ci wbase 116
+ci length 200.9
+ci width 76
+ci engno Prefix 1 + last 8  of VIN.
+ci mbear 7
+ci comp 8.5
+ci cyl 6
+ci rhp 36.04
+ci etype Turbo-Thrift valve-in-head
+ci block Cast alloy iron
+ci etype Single downdraft
+ci trq 220@1600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous 3-speed manual
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci disp 230
+ci b&s 3 7/8 & 3 1/4
+ci vlift Hydraulic
+ci bhp 140@4000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci cool 11 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Radio
+ci equip Power brakes
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci 1gear 2.85
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1848, 135179(\w)([\dX]{6})
+clv 5917, 1969, Chevrolet, Chevelle Malibu 6, Sport Sedan
+ci axle Semifloating
+ci series Chevelle Malibu 6
+ci make Chevrolet
+ci msrp $2655.00
+ci year 1969
+ci prod 25000
+ci origin United States
+ci doors 4
+ci model 13517
+ci weight 3162
+ci maker Fisher
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci rdiff 3.5
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 116
+ci height 53.5
+ci rtred 59
+ci length 200.9
+ci width 76
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci comp 8.5
+ci cyl 6
+ci rhp 36.04
+ci etype Turbo-Thrift valve-in-head
+ci block Cast alloy iron
+ci etype Single downdraft
+ci trq 220@1600
+ci engno Prefix 1 + last 8  of VIN.
+ci etype Fully synchronous 3-speed manual
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci disp 230
+ci b&s 3 7/8 & 3 1/4
+ci vlift Hydraulic
+ci bhp 140@4000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci cool 11 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci 1gear 2.85
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1849, 136679(\w)([\dX]{6})
+clv 5918, 1969, Chevrolet, Chevelle Malibu V8, Convertible
+ci axle Semifloating
+ci series Chevelle Malibu V8
+ci make Chevrolet
+ci msrp $2873.00
+ci year 1969
+ci prod 343600
+ci origin United States
+ci model 13667
+ci maker Fisher
+ci doors 2
+ci weight 3300
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci oil 4
+ci tcase -NA-
+ci rdiff 3.5
+ci fuel 20
+ci trans 3
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10.34 inches
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 116
+ci width 76
+ci length 200.9
+ci rtred 59
+ci height 53.5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 48.05
+ci engno Prefix 1 + last 8  of VIN.
+ci mbear 5
+ci cyl 8
+ci comp 9.0
+ci disp 307
+ci englo On pad at front right side of cylinder block.
+ci trq 300@2400
+ci b&s 3 7/8 & 3 1/4
+ci bhp 200@4600
+ci etype Turbo-Fire V8 valve-in-head
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci block Cast alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 11 Quarts
+ci equip 396 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip 350 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci rev 2.95
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.85
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 1850, 136699(\w)([\dX]{6})
+clv 5919, 1969, Chevrolet, Chevelle Malibu V8, Sedan
+ci axle Semifloating
+ci series Chevelle Malibu V8
+ci make Chevrolet
+ci msrp $2640.00
+ci prod 343600
+ci year 1969
+ci origin United States
+ci model 13669
+ci maker Fisher
+ci doors 4
+ci pass 6
+ci weight 3265
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 3
+ci fuel 20
+ci rdiff 3.5
+ci oil 4
+ci carb Rochester
+ci csize 10.34 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 116
+ci width 76
+ci length 200.9
+ci rtred 59
+ci height 53.5
+ci englo On pad at front right side of cylinder block.
+ci rhp 48.05
+ci mbear 5
+ci bhp 200@4600
+ci cyl 8
+ci comp 9.0
+ci b&s 3 7/8 & 3 1/4
+ci engno Prefix 1 + last 8  of VIN.
+ci block Cast alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 307
+ci etype Turbo-Fire V8 valve-in-head
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci trq 300@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 11 Quarts
+ci equip 396 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 350 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.85
+ci rev 2.95
+ci 3gear 1
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1851, 136379(\w)([\dX]{6})
+clv 5920, 1969, Chevrolet, Chevelle Malibu V8, Sport Coupe
+ci axle Semifloating
+ci series Chevelle Malibu V8
+ci make Chevrolet
+ci msrp $2674.00
+ci year 1969
+ci prod 343600
+ci origin United States
+ci model 13637
+ci maker Fisher
+ci doors 2
+ci weight 3230
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci oil 4
+ci tcase -NA-
+ci rdiff 3.5
+ci fuel 20
+ci trans 3
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10.34 inches
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 116
+ci width 76
+ci length 200.9
+ci rtred 59
+ci height 53.5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 48.05
+ci engno Prefix 1 + last 8  of VIN.
+ci mbear 5
+ci cyl 8
+ci comp 9.0
+ci disp 307
+ci englo On pad at front right side of cylinder block.
+ci trq 300@2400
+ci b&s 3 7/8 & 3 1/4
+ci bhp 200@4600
+ci etype Turbo-Fire V8 valve-in-head
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci block Cast alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 11 Quarts
+ci equip 396 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip 350 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci rev 2.95
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.85
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 1852, 136179(\w)([\dX]{6})
+clv 5921, 1969, Chevrolet, Chevelle Malibu V8, Sport Sedan
+ci axle Semifloating
+ci series Chevelle Malibu V8
+ci make Chevrolet
+ci msrp $2745.00
+ci prod 343600
+ci year 1969
+ci origin United States
+ci model 13617
+ci maker Fisher
+ci doors 4
+ci pass 6
+ci weight 3340
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 3
+ci fuel 20
+ci rdiff 3.5
+ci oil 4
+ci carb Rochester
+ci csize 10.34 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 116
+ci width 76
+ci length 200.9
+ci rtred 59
+ci height 53.5
+ci englo On pad at front right side of cylinder block.
+ci rhp 48.05
+ci mbear 5
+ci bhp 200@4600
+ci cyl 8
+ci comp 9.0
+ci b&s 3 7/8 & 3 1/4
+ci engno Prefix 1 + last 8  of VIN.
+ci block Cast alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 307
+ci etype Turbo-Fire V8 valve-in-head
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci trq 300@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 11 Quarts
+ci equip 396 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 350 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.85
+ci rev 2.95
+ci 3gear 1
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1853, 131369(\w)([\dX]{6})
+clv 5922, 1969, Chevrolet, Chevelle Nomad 6, Station Wagon 2-seat
+ci axle Semifloating
+ci series Chevelle Nomad 6
+ci make Chevrolet
+ci msrp $2651.00
+ci prod 45900
+ci year 1969
+ci origin United States
+ci maker Fisher
+ci model 13136
+ci weight 3347
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci trans 3
+ci rdiff 3.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.36
+ci diff Hypoid
+ci rtred 59
+ci height 54.4
+ci wbase 116
+ci length 207.2
+ci width 76
+ci engno Prefix 1 + last 8  of VIN.
+ci mbear 7
+ci comp 8.5
+ci cyl 6
+ci rhp 36.04
+ci etype Turbo-Thrift valve-in-head
+ci block Cast alloy iron
+ci etype Single downdraft
+ci trq 220@1600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous 3-speed manual
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci disp 230
+ci b&s 3 7/8 & 3 1/4
+ci vlift Hydraulic
+ci bhp 140@4000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci cool 11 Quarts
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Radio
+ci equip Power brakes
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci rev 2.95
+ci drive Rear wheel drive
+ci 1gear 2.85
+ci 2gear 1.68
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 1854, 131469(\w)([\dX]{6})
+clv 5923, 1969, Chevrolet, Chevelle Nomad 6, Station Wagon 3-seat
+ci axle Semifloating
+ci series Chevelle Nomad 6
+ci make Chevrolet
+ci msrp $2693.00
+ci year 1969
+ci prod 45900
+ci origin United States
+ci model 13146
+ci weight 3432
+ci maker Fisher
+ci doors 4
+ci pass 9
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci trans 3
+ci oil 4
+ci rdiff 3.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.36
+ci height 54.4
+ci rtred 59
+ci length 206
+ci width 76
+ci wbase 116
+ci cyl 6
+ci comp 8.5
+ci mbear 7
+ci rhp 36.04
+ci b&s 3 7/8 & 3 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci etype Single downdraft
+ci engno Prefix 1 + last 8  of VIN.
+ci etype Fully synchronous 3-speed manual
+ci disp 230
+ci trq 220@1600
+ci vlift Hydraulic
+ci etype Turbo-Thrift valve-in-head
+ci bhp 140@4000
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 11 Quarts
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci equip Speed control device
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.95
+ci 2gear 1.68
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.85
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 1855, 132369(\w)([\dX]{6})
+clv 5924, 1969, Chevrolet, Chevelle Nomad V8, Station Wagon 2-seat
+ci axle Semifloating
+ci series Chevelle Nomad V8
+ci make Chevrolet
+ci msrp $2766.00
+ci year 1969
+ci prod 45900
+ci origin United States
+ci model 13236
+ci maker Fisher
+ci pass 6
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 20
+ci oil 4
+ci trans 3
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Rochester
+ci csize 10.34 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 116
+ci width 76
+ci length 206
+ci height 53.5
+ci rtred 59
+ci rhp 48.05
+ci engno Prefix 1 + last 8  of VIN.
+ci mbear 5
+ci cyl 8
+ci comp 9.0
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 307
+ci englo On pad at front right side of cylinder block.
+ci trq 300@2400
+ci b&s 3 7/8 & 3 1/4
+ci bhp 200@4600
+ci etype Turbo-Fire V8 valve-in-head
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronous 3-speed manual
+ci block Cast alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci cool 11 Quarts
+ci equip Radio
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip 350 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci rev 2.95
+ci 3gear 1
+ci 2gear 1.68
+ci 1gear 2.85
+ci 5gear Not applicable
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 1856, 132469(\w)([\dX]{6})
+clv 5925, 1969, Chevrolet, Chevelle Nomad V8, Station Wagon 3-seat
+ci axle Semifloating
+ci series Chevelle Nomad V8
+ci make Chevrolet
+ci msrp $2808.00
+ci year 1969
+ci prod 45900
+ci origin United States
+ci model 13246
+ci maker Fisher
+ci pass 9
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 20
+ci oil 4
+ci trans 3
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Rochester
+ci csize 10.34 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 116
+ci length 206
+ci width 76
+ci height 53.5
+ci rtred 59
+ci rhp 48.05
+ci mbear 5
+ci cyl 8
+ci engno Prefix 1 + last 8  of VIN.
+ci comp 9.0
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 307
+ci englo On pad at front right side of cylinder block.
+ci trq 300@2400
+ci b&s 3 7/8 & 3 1/4
+ci bhp 200@4600
+ci etype Turbo-Fire V8 valve-in-head
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronous 3-speed manual
+ci block Cast alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci cool 11 Quarts
+ci equip Radio
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip 350 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci rev 2.95
+ci 3gear 1
+ci 2gear 1.68
+ci 1gear 2.85
+ci 5gear Not applicable
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 1857, 111699(\w)([\dX]{6})
+clv 5926, 1969, Chevrolet, Chevy II Nova 4, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci series Chevy II Nova 4
+ci msrp $2251.00
+ci year 1969
+ci prod 6103
+ci origin United States
+ci pass 6
+ci model 11169
+ci maker Fisher
+ci weight 2811
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci oil 3.5
+ci tcase -NA-
+ci rdiff 3.5
+ci fuel 18
+ci trans 3
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.08
+ci diff Hypoid
+ci ftred 59
+ci wbase 111
+ci rtred 58.9
+ci length 189.4
+ci width 72.4
+ci height 53.9
+ci disp 153
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.5
+ci bhp 90@4000
+ci vlift Hydraulic
+ci block Cast alloy iron
+ci cyl 4
+ci b&s 3 7/8 & 3 1/4
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci etype Single downdraft
+ci rhp 24.03
+ci etype Super-Thrift valve-in-head
+ci trq 152@2400
+ci etype Fully synchronous 3-speed manual
+ci engno Prefix 1 + last 8  of VIN.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 8 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci ftype Regular
+ci exha Single
+ci equip Torque-Drive automatic transmission
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Power brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci rev 2.95
+ci 2gear 1.68
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 1858, 111279(\w)([\dX]{6})
+clv 5927, 1969, Chevrolet, Chevy II Nova 4, Sport Coupe
+ci axle Semifloating
+ci make Chevrolet
+ci series Chevy II Nova 4
+ci msrp $2221.00
+ci year 1969
+ci prod 6103
+ci origin United States
+ci maker Fisher
+ci pass 5
+ci model 11127
+ci weight 2781
+ci doors 2
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci rdiff 3.5
+ci tcase -NA-
+ci fuel 18
+ci trans 3
+ci oil 3.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.08
+ci diff Hypoid
+ci rtred 58.9
+ci ftred 59
+ci height 53.9
+ci length 189.4
+ci width 72.4
+ci wbase 111
+ci disp 153
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.5
+ci bhp 90@4000
+ci engno Prefix 1 + last 8  of VIN.
+ci block Cast alloy iron
+ci cyl 4
+ci b&s 3 7/8 & 3 1/4
+ci trq 152@2400
+ci etype Single downdraft
+ci vlift Hydraulic
+ci rhp 24.03
+ci etype Super-Thrift valve-in-head
+ci etype Fully synchronous 3-speed manual
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci cool 8 Quarts
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci equip Power brakes
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Air conditioning
+ci equip Torque-Drive automatic transmission
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci 2gear 1.68
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.95
+ci 1gear 2.85
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 1859, 113699(\w)([\dX]{6})
+clv 5928, 1969, Chevrolet, Chevy II Nova 6, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci series Chevy II Nova 6
+ci msrp $2329.00
+ci prod 157400
+ci year 1969
+ci origin United States
+ci doors 4
+ci maker Fisher
+ci model 11369
+ci weight 2914
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 18
+ci rdiff 3.5
+ci oil 4
+ci trans 3
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 111
+ci height 53.9
+ci length 189.4
+ci ftred 59
+ci width 72.4
+ci rtred 58.9
+ci bhp 140@4000
+ci cyl 6
+ci comp 8.5
+ci mbear 7
+ci rhp 36.04
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci engno Prefix 1 + last 8  of VIN.
+ci vlift Hydraulic
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci disp 230
+ci trq 220@1600
+ci etype Single downdraft
+ci etype Turbo-Thrift valve-in-head
+ci etype Fully synchronous 3-speed manual
+ci b&s 3 7/8 & 3 1/4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci cool 11 Quarts
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci batt 12
+ci rad Tube and center
+ci exha Single
+ci equip Power brakes
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.95
+ci 2gear 1.68
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 1860, 113279(\w)([\dX]{6})
+clv 5929, 1969, Chevrolet, Chevy II Nova 6, Sport Coupe
+ci axle Semifloating
+ci make Chevrolet
+ci series Chevy II Nova 6
+ci msrp $2299.00
+ci prod 157400
+ci year 1969
+ci origin United States
+ci pass 5
+ci weight 2884
+ci maker Fisher
+ci doors 2
+ci model 11327
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci fuel 18
+ci tcase -NA-
+ci trans 3
+ci rdiff 3.5
+ci oil 4
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci rtred 58.9
+ci length 189.4
+ci wbase 111
+ci ftred 59
+ci width 72.4
+ci height 53.9
+ci bhp 140@4000
+ci cyl 6
+ci vlift Hydraulic
+ci mbear 7
+ci rhp 36.04
+ci b&s 3 7/8 & 3 1/4
+ci block Cast alloy iron
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci disp 230
+ci etype Single downdraft
+ci trq 220@1600
+ci engno Prefix 1 + last 8  of VIN.
+ci etype Turbo-Thrift valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous 3-speed manual
+ci comp 8.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci cool 11 Quarts
+ci ftype Regular
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci equip Power brakes
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 2.95
+ci 2gear 1.68
+ci 1gear 2.85
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1861, 114699(\w)([\dX]{6})
+clv 5930, 1969, Chevrolet, Chevy II Nova 8, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci series Chevy II Nova 8
+ci msrp $2414.00
+ci year 1969
+ci prod 89900
+ci origin United States
+ci model 11469
+ci doors 4
+ci pass 6
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci rdiff 3.5
+ci tcase -NA-
+ci trans 3
+ci oil 4
+ci fuel 18
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci width 72.4
+ci height 53.9
+ci rtred 58.9
+ci ftred 59
+ci length 189.4
+ci wbase 111
+ci block Cast alloy iron
+ci cyl 8
+ci etype Turbo-Fire V8 valve-in-head
+ci comp 9.25
+ci mbear 5
+ci rhp 48.05
+ci engno Prefix 1 + last 8  of VIN.
+ci bhp 200@4600
+ci disp 307
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype Fully synchronous 3-speed manual
+ci trq 300@2400
+ci b&s 3 7/8 & 3 1/4
+ci englo On pad at front right side of cylinder block.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 11 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci drive Rear wheel drive
+ci rev 2.95
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci gears 3
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 1862, 114279(\w)([\dX]{6})
+clv 5931, 1969, Chevrolet, Chevy II Nova 8, Sport Coupe
+ci axle Semifloating
+ci series Chevy II Nova 8
+ci year 1969
+ci msrp $2384.00
+ci make Chevrolet
+ci prod 89900
+ci origin United States
+ci maker Fisher
+ci doors 2
+ci model 11427
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci fuel 18
+ci rdiff 3.5
+ci oil 4
+ci trans 3
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.08
+ci length 189.4
+ci wbase 111
+ci height 53.9
+ci width 72.4
+ci ftred 59
+ci rtred 58.9
+ci englo On pad at front right side of cylinder block.
+ci cyl 8
+ci mbear 5
+ci comp 9.25
+ci rhp 48.05
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci engno Prefix 1 + last 8  of VIN.
+ci disp 307
+ci etype Fully synchronous 3-speed manual
+ci b&s 3 7/8 & 3 1/4
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci bhp 200@4600
+ci etype Turbo-Fire V8 valve-in-head
+ci trq 300@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci rad Tube and center
+ci exha Single
+ci cool 11 Quarts
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.85
+ci 2gear 1.68
+ci rev 2.95
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 1863, 105379(\w)([\dX]{6})
+clv 5932, 1969, Chevrolet, Corvair 500, Hardtop
+ci axle Trans-axle
+ci make Chevrolet
+ci series Corvair 500
+ci msrp $2242.00
+ci prod 7206
+ci year 1969
+ci origin United States
+ci pass 5
+ci maker Fisher
+ci doors 2
+ci weight 2499
+ci model 10137
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci trans 3.7
+ci fuel 14
+ci tcase -NA-
+ci rdiff 2.7
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 8 inches
+ci diff Hypoid
+ci diffr 3.55
+ci ftred 55
+ci rtred 56.6
+ci height 53.9
+ci length 183.2
+ci width 70
+ci wbase 108
+ci trq 154@2400
+ci comp 8.25
+ci cyl 6
+ci bhp 95@3600
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci block Aluminum alloy
+ci mbear 4
+ci disp 164
+ci engno Prefix 1 + last 8  of VIN.
+ci rhp 28.37
+ci b&s 3.438 & 2.94
+ci etype Twin single downdraft
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype Turbo-Air valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci cool Not applicable
+ci exha Single
+ci ftype Regular
+ci cool Air cooled
+ci batt 12
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Power brakes
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Independent articulated link
+ci drive Rear wheel drive
+ci rev 3.22
+ci 2gear 1.84
+ci gears 3
+ci 1gear 3.11
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.00 x 13
+ci sloc Trunk
+cls 1864, 105679(\w)([\dX]{6})
+clv 5933, 1969, Chevrolet, Corvair Monza, Convertible
+ci axle Trans-axle
+ci series Corvair Monza
+ci prod 1386
+ci msrp $2625.00
+ci make Chevrolet
+ci year 1969
+ci origin United States
+ci model 10567
+ci maker Fisher
+ci doors 2
+ci weight 2749
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci rdiff 2.7
+ci oil 4
+ci fuel 14
+ci trans 3.7
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 8 inches
+ci diff Hypoid
+ci diffr 3.55
+ci height 53.9
+ci wbase 108
+ci rtred 56.6
+ci length 183.2
+ci ftred 55
+ci width 70
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.25
+ci cyl 6
+ci bhp 95@3600
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci block Aluminum alloy
+ci mbear 4
+ci b&s 3.438 & 2.94
+ci engno Prefix 1 + last 8  of VIN.
+ci trq 154@2400
+ci etype Turbo-Air valve-in-head
+ci disp 164
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci rhp 28.37
+ci etype Twin single downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci cool Not applicable
+ci ftype Regular
+ci batt 12
+ci cool Air cooled
+ci exha Single
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Power brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Independent articulated link
+ci rev 3.22
+ci 2gear 1.84
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 3.11
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.00 x 13
+ci sloc Trunk
+cls 1865, 105379(\w)([\dX]{6})
+clv 5934, 1969, Chevrolet, Corvair Monza, Hardtop
+ci axle Trans-axle
+ci series Corvair Monza
+ci year 1969
+ci msrp $2506.00
+ci make Chevrolet
+ci prod 6807
+ci origin United States
+ci weight 2524
+ci maker Fisher
+ci doors 2
+ci model 10537
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci rdiff 2.7
+ci fuel 14
+ci tcase -NA-
+ci oil 4
+ci trans 3.7
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 8 inches
+ci diffr 3.55
+ci diff Hypoid
+ci ftred 55
+ci rtred 56.6
+ci height 53.9
+ci wbase 108
+ci length 183.2
+ci width 70
+ci trq 154@2400
+ci comp 8.25
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 95@3600
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci block Aluminum alloy
+ci disp 164
+ci cyl 6
+ci engno Prefix 1 + last 8  of VIN.
+ci rhp 28.37
+ci mbear 4
+ci etype Twin single downdraft
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype Turbo-Air valve-in-head
+ci b&s 3.438 & 2.94
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci cool Not applicable
+ci batt 12
+ci ftype Regular
+ci cool Air cooled
+ci exha Single
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Powerglide automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Power brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Independent articulated link
+ci rev 3.22
+ci 2gear 1.84
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 3.11
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.00 x 13
+ci sloc Trunk
+cls 1866, 194679(\w)([\dX]{6})
+clv 5935, 1969, Chevrolet, Corvette, Convertible
+ci axle Semifloating
+ci make Chevrolet
+ci year 1969
+ci origin United States
+ci msrp $4420.00
+ci prod 16633
+ci series Corvette
+ci pass 2
+ci maker Fisher
+ci weight 3096
+ci model 19467
+ci ebrake Rear service brakes
+ci svc Disc
+ci bsize 11 3/4
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci trans 3
+ci fuel 20
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 11/32 inches
+ci diffr 3.36
+ci diff Hypoid
+ci width 69
+ci wbase 98
+ci length 182.5
+ci rtred 59.4
+ci height 47.8
+ci ftred 58.7
+ci englo On pad at front right side of cylinder block.
+ci etype V8 overhead valve
+ci rhp 51.2
+ci cyl 8
+ci b&s 4 & 3.48
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 1 + last 8  of VIN.
+ci vlift Hydraulic
+ci trq 380@3200
+ci disp 350
+ci etype Fully synchronized
+ci bhp 300@4800
+ci comp 10.25
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co Burgundy
+co Can-Am White
+co Cortez Silver Metallic
+co Daytona Yellow
+co Fathom Green Metallic
+co Le Mans Blue
+co Monaco Orange
+co Monza Red
+co Riverside Gold Metallic
+co Tuxedo Black
+ci exha Dual
+ci ftype Premium
+ci ign Distributor and coil
+ci rad Cross flow
+ci cool Centrifugal water  pump
+ci batt 12
+ci cool 14 Quarts
+ci equip Auxiliary hardtop for convertibles
+ci equip Air conditioning
+ci equip 4-Speed manual transmission
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 427 cu. in. V8 engine
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Transverse leaf springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.63
+ci 3gear 1
+ci 2gear 1.5
+ci 1gear 2.54
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F70 x 15
+cls 1867, 194379(\w)([\dX]{6})
+clv 5936, 1969, Chevrolet, Corvette, Hardtop Convertible
+ci axle Semifloating
+ci series Corvette
+ci make Chevrolet
+ci origin United States
+ci msrp $4763.00
+ci year 1969
+ci prod 22129
+ci maker Fisher
+ci weight 3091
+ci model 19437
+ci pass 2
+ci svc Disc
+ci ebrake Rear service brakes
+ci bsize 11 3/4
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci trans 3
+ci rdiff 4
+ci carb Rochester
+ci csize 10 11/32 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 98
+ci length 182.5
+ci width 69
+ci rtred 59.4
+ci height 47.8
+ci ftred 58.7
+ci englo On pad at front right side of cylinder block.
+ci etype V8 overhead valve
+ci rhp 51.2
+ci cyl 8
+ci b&s 4 & 3.48
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 1 + last 8  of VIN.
+ci vlift Hydraulic
+ci trq 380@3200
+ci disp 350
+ci etype Fully synchronized
+ci bhp 300@4800
+ci comp 10.25
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co Burgundy
+co Can-Am White
+co Cortez Silver Metallic
+co Daytona Yellow
+co Fathom Green Metallic
+co Le Mans Blue
+co Monaco Orange
+co Monza Red
+co Riverside Gold Metallic
+co Tuxedo Black
+ci exha Dual
+ci ftype Premium
+ci ign Distributor and coil
+ci rad Cross flow
+ci cool Centrifugal water  pump
+ci batt 12
+ci cool 14 Quarts
+ci equip Auxiliary hardtop for convertibles
+ci equip Air conditioning
+ci equip 4-Speed manual transmission
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 427 cu. in. V8 engine
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Transverse leaf springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.63
+ci 3gear 1
+ci 2gear 1.5
+ci 1gear 2.54
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F70 x 15
+cls 1868, 133809(\w)([\dX]{6})
+clv 5937, 1969, Chevrolet, El Camino 6, Sedan Pickup
+ci axle Semifloating
+ci origin United States
+ci series El Camino 6
+ci year 1969
+ci make Chevrolet
+ci maker Fisher
+ci doors 2
+ci model 13380
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci trans 3
+ci rdiff 3.5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci height 54
+ci length 207.1
+ci rtred 59
+ci wbase 116
+ci width 75.7
+ci mbear 7
+ci cyl 6
+ci b&s 3 7/8 & 3 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci engno Prefix 1 + last 8  of VIN.
+ci bhp 140@4000
+ci etype Single downdraft
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci disp 230
+ci trq 220@1600
+ci etype Turbo-Thrift valve-in-head
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci rhp 36.04
+ci comp 8.5
+ci color Exterior Colors
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci cool 11 Quarts
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci equip Powerglide automatic transmission
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.95
+ci 2gear 1.68
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 1869, 135809(\w)([\dX]{6})
+clv 5938, 1969, Chevrolet, El Camino 6, Sedan Pickup Deluxe
+ci axle Semifloating
+ci origin United States
+ci series El Camino 6
+ci year 1969
+ci make Chevrolet
+ci maker Fisher
+ci doors 2
+ci model 13580
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci trans 3
+ci rdiff 3.5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci height 54
+ci length 207.1
+ci rtred 59
+ci wbase 116
+ci width 75.7
+ci mbear 7
+ci cyl 6
+ci b&s 3 7/8 & 3 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci engno Prefix 1 + last 8  of VIN.
+ci bhp 140@4000
+ci etype Single downdraft
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci disp 230
+ci trq 220@1600
+ci etype Turbo-Thrift valve-in-head
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci rhp 36.04
+ci comp 8.5
+ci color Exterior Colors
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci cool 11 Quarts
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci equip Powerglide automatic transmission
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.95
+ci 2gear 1.68
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 1870, 134809(\w)([\dX]{6})
+clv 5939, 1969, Chevrolet, El Camino V8, Sedan Pickup
+ci axle Semifloating
+ci make Chevrolet
+ci series El Camino V8
+ci year 1969
+ci origin United States
+ci doors 2
+ci model 13480
+ci maker Fisher
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 20
+ci oil 4
+ci rdiff 3.5
+ci trans 3
+ci tcase -NA-
+ci carb Rochester
+ci csize 10.34 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci length 207.1
+ci width 75.7
+ci wbase 116
+ci rtred 59
+ci height 54
+ci rhp 48.05
+ci mbear 5
+ci disp 307
+ci cyl 8
+ci comp 9.0
+ci trq 300@2400
+ci block Cast alloy iron
+ci engno Prefix 1 + last 8  of VIN.
+ci b&s 3 7/8 & 3 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Turbo-Fire V8 valve-in-head
+ci etype Dual downdraft
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci bhp 200@4600
+ci englo On pad at front right side of cylinder block.
+ci color Exterior Colors
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci cool 11 Quarts
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci cool Centrifugal water  pump
+ci equip Powerglide automatic transmission
+ci equip Turbo Hydramatic automatic transmission
+ci equip 4-Speed manual transmission
+ci equip 350 cu. in. V8 engine
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.95
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 1871, 136809(\w)([\dX]{6})
+clv 5940, 1969, Chevrolet, El Camino V8, Sedan Pickup Deluxe
+ci axle Semifloating
+ci make Chevrolet
+ci series El Camino V8
+ci year 1969
+ci origin United States
+ci doors 2
+ci model 13680
+ci maker Fisher
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 20
+ci oil 4
+ci rdiff 3.5
+ci trans 3
+ci tcase -NA-
+ci carb Rochester
+ci csize 10.34 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci length 207.1
+ci width 75.7
+ci wbase 116
+ci rtred 59
+ci height 54
+ci rhp 48.05
+ci mbear 5
+ci disp 307
+ci cyl 8
+ci comp 9.0
+ci trq 300@2400
+ci block Cast alloy iron
+ci engno Prefix 1 + last 8  of VIN.
+ci b&s 3 7/8 & 3 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Turbo-Fire V8 valve-in-head
+ci etype Dual downdraft
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci bhp 200@4600
+ci englo On pad at front right side of cylinder block.
+ci color Exterior Colors
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci cool 11 Quarts
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci cool Centrifugal water  pump
+ci equip Powerglide automatic transmission
+ci equip Turbo Hydramatic automatic transmission
+ci equip 4-Speed manual transmission
+ci equip 350 cu. in. V8 engine
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.95
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 1872, 133369(\w)([\dX]{6})
+clv 5941, 1969, Chevrolet, Greenbrier 6, Station Wagon 2-seat
+ci axle Semifloating
+ci make Chevrolet
+ci series Greenbrier 6
+ci msrp $2762.00
+ci year 1969
+ci prod 45900
+ci origin United States
+ci doors 4
+ci model 13336
+ci weight 3402
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 20
+ci rdiff 3.5
+ci trans 3
+ci oil 4
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 116
+ci length 206
+ci rtred 59
+ci width 76
+ci height 53.5
+ci bhp 140@4000
+ci cyl 6
+ci comp 8.5
+ci mbear 7
+ci rhp 36.04
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci b&s 3 7/8 & 3 1/4
+ci vlift Hydraulic
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci etype Single downdraft
+ci disp 230
+ci trq 220@1600
+ci etype Turbo-Thrift valve-in-head
+ci etype Fully synchronous 3-speed manual
+ci engno Prefix 1 + last 8  of VIN.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci rad Tube and center
+ci cool 11 Quarts
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Power brakes
+ci equip Radio
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.85
+ci gears 3
+ci rev 2.95
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 1873, 133469(\w)([\dX]{6})
+clv 5942, 1969, Chevrolet, Greenbrier 6, Station Wagon 3-seat
+ci axle Semifloating
+ci make Chevrolet
+ci series Greenbrier 6
+ci msrp $2804.00
+ci year 1969
+ci prod 45900
+ci origin United States
+ci model 13346
+ci maker Fisher
+ci pass 9
+ci weight 3572
+ci doors 4
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 4
+ci tcase -NA-
+ci trans 3
+ci fuel 20
+ci rdiff 3.5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci height 53.5
+ci rtred 59
+ci length 206
+ci width 76
+ci wbase 116
+ci cyl 6
+ci comp 8.5
+ci mbear 7
+ci rhp 36.04
+ci b&s 3 7/8 & 3 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci etype Single downdraft
+ci engno Prefix 1 + last 8  of VIN.
+ci bhp 140@4000
+ci disp 230
+ci vlift Hydraulic
+ci trq 220@1600
+ci etype Turbo-Thrift valve-in-head
+ci etype Fully synchronous 3-speed manual
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci cool 11 Quarts
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 3gear 1
+ci 1gear 2.85
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.95
+ci 2gear 1.68
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 1874, 134369(\w)([\dX]{6})
+clv 5943, 1969, Chevrolet, Greenbrier 8, Station Wagon 2-seat
+ci axle Semifloating
+ci make Chevrolet
+ci series Greenbrier 8
+ci msrp $2894.00
+ci year 1969
+ci prod 45900
+ci origin United States
+ci model 13436
+ci doors 4
+ci pass 6
+ci maker Fisher
+ci weight 3535
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 4
+ci trans 3
+ci fuel 20
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10.34 inches
+ci diffr 3.36
+ci diff Hypoid
+ci wbase 116
+ci width 76
+ci length 206
+ci rtred 59
+ci height 53.5
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci cyl 8
+ci comp 9.0
+ci rhp 48.05
+ci engno Prefix 1 + last 8  of VIN.
+ci block Cast alloy iron
+ci englo On pad at front right side of cylinder block.
+ci etype Fully synchronous 3-speed manual
+ci trq 300@2400
+ci b&s 3 7/8 & 3 1/4
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci bhp 200@4600
+ci etype Turbo-Fire V8 valve-in-head
+ci disp 307
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci batt 12
+ci rad Tube and center
+ci cool 11 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Speed control device
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.95
+ci 2gear 1.68
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.85
+ci gears 3
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 1875, 134469(\w)([\dX]{6})
+clv 5944, 1969, Chevrolet, Greenbrier 8, Station Wagon 3-seat
+ci axle Semifloating
+ci make Chevrolet
+ci series Greenbrier 8
+ci msrp $3007.00
+ci year 1969
+ci prod 45900
+ci origin United States
+ci model 13446
+ci doors 4
+ci pass 9
+ci maker Fisher
+ci weight 3690
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 4
+ci trans 3
+ci fuel 20
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10.34 inches
+ci diffr 3.36
+ci diff Hypoid
+ci wbase 116
+ci length 206
+ci width 76
+ci rtred 59
+ci height 53.5
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci mbear 5
+ci comp 9.0
+ci rhp 48.05
+ci engno Prefix 1 + last 8  of VIN.
+ci block Cast alloy iron
+ci englo On pad at front right side of cylinder block.
+ci etype Fully synchronous 3-speed manual
+ci trq 300@2400
+ci b&s 3 7/8 & 3 1/4
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci bhp 200@4600
+ci etype Turbo-Fire V8 valve-in-head
+ci disp 307
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci batt 12
+ci rad Tube and center
+ci cool 11 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Speed control device
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.95
+ci 2gear 1.68
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.85
+ci gears 3
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 1876, 163379(\w)([\dX]{6})
+clv 5945, 1969, Chevrolet, Impala 6, Hardtop
+ci axle Semifloating
+ci make Chevrolet
+ci series Impala 6
+ci msrp $2910.00
+ci prod 777000
+ci year 1969
+ci origin United States
+ci weight 3608
+ci model 16337
+ci maker Fisher
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci fuel 24
+ci rdiff 3.5
+ci trans 3
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 119
+ci height 55.9
+ci length 215.9
+ci rtred 62.4
+ci ftred 62.5
+ci width 79.8
+ci etype Single downdraft
+ci mbear 7
+ci disp 250
+ci comp 8.5
+ci etype Turbo-Thrift valve-in-head
+ci trq 235@1600
+ci block Cast alloy iron
+ci rhp 36.04
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 1 + last 8  of VIN.
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci vlift Hydraulic
+ci cyl 6
+ci b&s 3 7/8 & 3 1/23
+ci etype Fully synchronous 3-speed manual
+ci bhp 155@4200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 11 Quarts
+ci equip Power steering
+ci equip Power seats
+ci equip Power brakes
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.95
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 1gear 2.85
+ci 5gear Not applicable
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 1877, 163399(\w)([\dX]{6})
+clv 5946, 1969, Chevrolet, Impala 6, Hardtop
+ci axle Semifloating
+ci make Chevrolet
+ci series Impala 6
+ci msrp $2964.00
+ci prod 777000
+ci year 1969
+ci origin United States
+ci weight 3693
+ci model 16339
+ci doors 4
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci fuel 24
+ci oil 4
+ci tcase -NA-
+ci rdiff 3.5
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci length 215.9
+ci height 55.9
+ci width 79.8
+ci rtred 62.4
+ci ftred 62.5
+ci wbase 119
+ci rhp 36.04
+ci cyl 6
+ci etype Turbo-Thrift valve-in-head
+ci comp 8.5
+ci b&s 3 7/8 & 3 1/23
+ci etype Single downdraft
+ci block Cast alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 1 + last 8  of VIN.
+ci vlift Hydraulic
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci mbear 7
+ci trq 235@1600
+ci disp 250
+ci etype Fully synchronous 3-speed manual
+ci bhp 155@4200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci ftype Regular
+ci cool 11 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci equip Air conditioning
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.95
+ci 3gear 1
+ci 1gear 2.85
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.68
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 1878, 163699(\w)([\dX]{6})
+clv 5947, 1969, Chevrolet, Impala 6, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci series Impala 6
+ci msrp $2894.00
+ci prod 777000
+ci year 1969
+ci origin United States
+ci doors 4
+ci model 16369
+ci weight 3598
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci fuel 24
+ci oil 4
+ci tcase -NA-
+ci rdiff 3.5
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci length 215.9
+ci height 55.9
+ci width 79.8
+ci rtred 62.4
+ci ftred 62.5
+ci wbase 119
+ci rhp 36.04
+ci cyl 6
+ci etype Turbo-Thrift valve-in-head
+ci comp 8.5
+ci b&s 3 7/8 & 3 1/23
+ci etype Single downdraft
+ci block Cast alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 1 + last 8  of VIN.
+ci vlift Hydraulic
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci mbear 7
+ci trq 235@1600
+ci disp 250
+ci etype Fully synchronous 3-speed manual
+ci bhp 155@4200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci ftype Regular
+ci cool 11 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci equip Air conditioning
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.95
+ci 3gear 1
+ci 1gear 2.85
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.68
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 1879, 164679(\w)([\dX]{6})
+clv 5948, 1969, Chevrolet, Impala 8, Convertible
+ci axle Semifloating
+ci make Chevrolet
+ci series Impala 8
+ci msrp $3244.00
+ci prod 14415
+ci year 1969
+ci origin United States
+ci pass 6
+ci weight 3786
+ci model 16467
+ci maker Fisher
+ci doors 2
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 3
+ci fuel 24
+ci oil 4
+ci rdiff 3.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 215.9
+ci ftred 62.5
+ci wbase 119
+ci rtred 62.4
+ci width 79.8
+ci height 55.9
+ci rhp 51.2
+ci mbear 5
+ci englo On pad at front right side of cylinder block.
+ci b&s 4 & 3 1/4
+ci etype Turbo-Fire V8 valve-in-head
+ci cyl 8
+ci disp 327
+ci comp 9.0
+ci trq 325@2800
+ci block Cast alloy iron
+ci vlift Hydraulic
+ci bhp 235@4800
+ci engno Prefix 1 + last 8  of VIN.
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci cool 16 Quarts
+ci ftype Regular
+ci batt 12
+ci equip 396 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Speed control device
+ci equip 350 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip 427 cu. in. V8 engine
+ci equip Power windows
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci gears 3
+ci rev 2.95
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1880, 164479(\w)([\dX]{6})
+clv 5949, 1969, Chevrolet, Impala 8, Hardtop
+ci axle Semifloating
+ci make Chevrolet
+ci series Impala 8
+ci msrp $3068.00
+ci year 1969
+ci prod 777000
+ci origin United States
+ci pass 6
+ci model 16447
+ci maker Fisher
+ci doors 2
+ci weight 3751
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci rdiff 3.5
+ci oil 4
+ci trans 3
+ci fuel 24
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.08
+ci diff Hypoid
+ci width 79.8
+ci length 215.9
+ci wbase 119
+ci ftred 62.5
+ci rtred 62.4
+ci height 55.9
+ci trq 325@2800
+ci rhp 51.2
+ci mbear 5
+ci englo On pad at front right side of cylinder block.
+ci b&s 4 & 3 1/4
+ci cyl 8
+ci bhp 235@4800
+ci comp 9.0
+ci disp 327
+ci block Cast alloy iron
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Turbo-Fire V8 valve-in-head
+ci engno Prefix 1 + last 8  of VIN.
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci rad Tube and center
+ci ftype Regular
+ci cool 16 Quarts
+ci equip Power steering
+ci equip Air conditioning
+ci equip Speed control device
+ci equip 350 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip 427 cu. in. V8 engine
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip 396 cu. in. V8 engine
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci gears 3
+ci rev 2.95
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1881, 164379(\w)([\dX]{6})
+clv 5950, 1969, Chevrolet, Impala 8, Hardtop
+ci axle Semifloating
+ci make Chevrolet
+ci series Impala 8
+ci msrp $3000.00
+ci year 1969
+ci prod 777000
+ci origin United States
+ci pass 6
+ci model 16437
+ci maker Fisher
+ci doors 2
+ci weight 3775
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci rdiff 3.5
+ci oil 4
+ci trans 3
+ci fuel 24
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.08
+ci diff Hypoid
+ci width 79.8
+ci length 215.9
+ci wbase 119
+ci ftred 62.5
+ci rtred 62.4
+ci height 55.9
+ci trq 325@2800
+ci rhp 51.2
+ci mbear 5
+ci englo On pad at front right side of cylinder block.
+ci b&s 4 & 3 1/4
+ci cyl 8
+ci bhp 235@4800
+ci comp 9.0
+ci disp 327
+ci block Cast alloy iron
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Turbo-Fire V8 valve-in-head
+ci engno Prefix 1 + last 8  of VIN.
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci rad Tube and center
+ci ftype Regular
+ci cool 16 Quarts
+ci equip Power steering
+ci equip Air conditioning
+ci equip Speed control device
+ci equip 350 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip 427 cu. in. V8 engine
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip 396 cu. in. V8 engine
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci gears 3
+ci rev 2.95
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1882, 164399(\w)([\dX]{6})
+clv 5951, 1969, Chevrolet, Impala 8, Hardtop
+ci axle Semifloating
+ci make Chevrolet
+ci series Impala 8
+ci msrp $3054.00
+ci year 1969
+ci prod 777000
+ci origin United States
+ci pass 6
+ci model 16439
+ci doors 4
+ci maker Fisher
+ci weight 3855
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci trans 3
+ci fuel 24
+ci rdiff 3.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.08
+ci width 79.8
+ci length 215.9
+ci wbase 119
+ci ftred 62.5
+ci rtred 62.4
+ci height 55.9
+ci disp 327
+ci rhp 51.2
+ci mbear 5
+ci englo On pad at front right side of cylinder block.
+ci b&s 4 & 3 1/4
+ci cyl 8
+ci bhp 235@4800
+ci comp 9.0
+ci vlift Hydraulic
+ci block Cast alloy iron
+ci etype Fully synchronous 3-speed manual
+ci trq 325@2800
+ci etype Turbo-Fire V8 valve-in-head
+ci engno Prefix 1 + last 8  of VIN.
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci cool 16 Quarts
+ci equip Power steering
+ci equip Air conditioning
+ci equip Speed control device
+ci equip 350 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip 427 cu. in. V8 engine
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip 396 cu. in. V8 engine
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci gears 3
+ci rev 2.95
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1883, 164699(\w)([\dX]{6})
+clv 5952, 1969, Chevrolet, Impala 8, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci series Impala 8
+ci msrp $2984.00
+ci year 1969
+ci prod 777000
+ci origin United States
+ci pass 6
+ci model 16469
+ci doors 4
+ci maker Fisher
+ci weight 3760
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci trans 3
+ci fuel 24
+ci rdiff 3.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.08
+ci width 79.8
+ci length 215.9
+ci wbase 119
+ci ftred 62.5
+ci rtred 62.4
+ci height 55.9
+ci disp 327
+ci rhp 51.2
+ci mbear 5
+ci englo On pad at front right side of cylinder block.
+ci b&s 4 & 3 1/4
+ci cyl 8
+ci bhp 235@4800
+ci comp 9.0
+ci vlift Hydraulic
+ci block Cast alloy iron
+ci etype Fully synchronous 3-speed manual
+ci trq 325@2800
+ci etype Turbo-Fire V8 valve-in-head
+ci engno Prefix 1 + last 8  of VIN.
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co Tuxedo Black
+co Two Tone Colors Available
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci cool 16 Quarts
+ci equip Power steering
+ci equip Air conditioning
+ci equip Speed control device
+ci equip 350 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip 427 cu. in. V8 engine
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip 396 cu. in. V8 engine
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci gears 3
+ci rev 2.95
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 1884, 164369(\w)([\dX]{6})
+clv 5953, 1969, Chevrolet, Impala Kingswood 8, Station Wagon 2-seat
+ci axle Semifloating
+ci make Chevrolet
+ci series Impala Kingswood 8
+ci msrp $3335.00
+ci year 1969
+ci prod 777000
+ci origin United States
+ci model 16436
+ci doors 4
+ci pass 6
+ci weight 4176
+ci maker Fisher
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci trans 3
+ci fuel 24
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.08
+ci diff Hypoid
+ci width 79.8
+ci wbase 119
+ci ftred 62.5
+ci length 217
+ci rtred 62.4
+ci height 55.9
+ci rhp 51.2
+ci mbear 5
+ci cyl 8
+ci engno Prefix 1 + last 8  of VIN.
+ci comp 9.0
+ci englo On pad at front right side of cylinder block.
+ci block Cast alloy iron
+ci b&s 4 & 3 1/4
+ci etype Fully synchronous 3-speed manual
+ci trq 325@2800
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci bhp 235@4800
+ci etype Turbo-Fire V8 valve-in-head
+ci disp 327
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 16 Quarts
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.85
+ci 2gear 1.68
+ci 3gear 1
+ci rev 2.95
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.55 x 14
+cls 1885, 164469(\w)([\dX]{6})
+clv 5954, 1969, Chevrolet, Impala Kingswood 8, Station Wagon 3-seat
+ci axle Semifloating
+ci make Chevrolet
+ci series Impala Kingswood 8
+ci msrp $3448.00
+ci year 1969
+ci prod 777000
+ci origin United States
+ci model 16446
+ci doors 4
+ci pass 9
+ci weight 4236
+ci maker Fisher
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci trans 3
+ci fuel 24
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci width 79.8
+ci length 217
+ci wbase 119
+ci rtred 62.4
+ci ftred 62.5
+ci height 55.9
+ci rhp 51.2
+ci cyl 8
+ci engno Prefix 1 + last 8  of VIN.
+ci mbear 5
+ci comp 9.0
+ci englo On pad at front right side of cylinder block.
+ci block Cast alloy iron
+ci b&s 4 & 3 1/4
+ci etype Fully synchronous 3-speed manual
+ci trq 325@2800
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci bhp 235@4800
+ci etype Turbo-Fire V8 valve-in-head
+ci disp 327
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Azure Turquoise Metallic
+co Burgundy Metallic
+co Burnished Brown Metallic
+co Butternut Yellow
+co Champagne Metallic
+co Cortez Silver Metallic
+co Daytona Yellow
+co Dover White
+co Dusk Blue Metallic
+co Fathom Green Metallic
+co Frost Green Metallic
+co Garnet Red
+co Glacier Blue Metallic
+co Hugger Orange
+co Le Mans Blue Metallic
+co Olympic Gold Metallic
+co Rallye Green Metallic
+co These are standard Chevrolet colors
+co Tuxedo Black
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 16 Quarts
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.85
+ci 2gear 1.68
+ci 3gear 1
+ci rev 2.95
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.55 x 14

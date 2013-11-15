@@ -1,0 +1,1326 @@
+cls 2431, YM23(\w)2(\w)([\dX]{6})
+clv 7299, 1972, Chrysler, Imperial LeBaron, Hardtop
+ci axle Semifloating
+ci make Chrysler
+ci msrp $6534.00
+ci series Imperial LeBaron
+ci year 1972
+ci origin United States
+ci prod 2322
+ci maker Chrysler
+ci doors 2
+ci weight 4790
+ci model YM23
+ci ebrake Cable and conduit on rear service brakes
+ci fbsize 11 3/4
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci trans 19
+ci oil 4
+ci fuel 23
+ci rdiff 4 2/5
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 63.4
+ci ftred 62.4
+ci width 79.6
+ci height 55
+ci length 229.5
+ci wbase 127
+ci disp 440
+ci etype Torqueflite automatic
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci etype V8 valve-in-head
+ci comp 8.2
+ci bhp 225@4400
+ci vlift Hydraulic
+ci b&s 4.32 & 3 3/4
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 59.72
+ci trq 345@3200
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+co Two Tone Colors Available
+ci ign Electronic
+ci exha Single
+ci cool Water pump
+ci rad Tube and spacer
+ci batt 12
+ci cool 17.5 Quarts
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Radio
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Hotchkiss
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L84 x 15
+cls 2432, YM43(\w)2(\w)([\dX]{6})
+clv 7300, 1972, Chrysler, Imperial LeBaron, Hardtop
+ci axle Semifloating
+ci series Imperial LeBaron
+ci msrp $6762.00
+ci origin United States
+ci year 1972
+ci make Chrysler
+ci prod 13472
+ci weight 4955
+ci maker Chrysler
+ci doors 4
+ci model YM43
+ci ebrake Cable and conduit on rear service brakes
+ci fbsize 11 3/4
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci trans 19
+ci oil 4
+ci fuel 23
+ci rdiff 4 2/5
+ci carb Holley
+ci ctype Not applicable
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 63.4
+ci ftred 62.4
+ci width 79.6
+ci length 229.5
+ci height 55.4
+ci wbase 127
+ci disp 440
+ci etype Torqueflite automatic
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci etype V8 valve-in-head
+ci comp 8.2
+ci bhp 225@4400
+ci vlift Hydraulic
+ci b&s 4.32 & 3 3/4
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 345@3200
+ci cyl 8
+ci rhp 59.72
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+co Two Tone Colors Available
+ci ign Electronic
+ci exha Single
+ci cool Water pump
+ci rad Tube and spacer
+ci batt 12
+ci cool 17.5 Quarts
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Radio
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Hotchkiss
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L84 x 15
+cls 2433, CS23(\w)2(\w)([\dX]{6})
+clv 7301, 1972, Chrysler, New Yorker Brougham, Hardtop
+ci axle Semifloating
+ci origin United States
+ci prod 4635
+ci series New Yorker Brougham
+ci msrp $5255.00
+ci year 1972
+ci make Chrysler
+ci maker Chrysler
+ci doors 2
+ci model CS23
+ci weight 4270
+ci bsize 11
+ci fbsize 11 3/4
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci trans 19
+ci oil 4
+ci fuel 23
+ci tcase -NA-
+ci rdiff 4 2/5
+ci carb Holley
+ci ctype Not applicable
+ci diffr 2.76
+ci diff Hypoid
+ci ftred 62.1
+ci height 55.5
+ci width 79.4
+ci wbase 124
+ci length 224.9
+ci rtred 63.4
+ci disp 440
+ci trq 345@3200
+ci etype V8 valve-in-head
+ci bhp 225@4400
+ci etype Downdraft 4-barrel
+ci etype Torqueflite automatic
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci b&s 4.32 & 3 3/4
+ci comp 8.2
+ci cyl 8
+ci rhp 59.72
+ci color Exterior Colors
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+ci ign Electronic
+ci rad Tube and spacer
+ci batt 12
+ci cool 17.5 Quarts
+ci cool Water pump
+ci exha Single
+ci equip Air conditioning
+ci sgear Power
+ci rsus Hotchkiss
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize J78 x 15
+cls 2434, CS43(\w)2(\w)([\dX]{6})
+clv 7302, 1972, Chrysler, New Yorker Brougham, Hardtop
+ci axle Semifloating
+ci make Chrysler
+ci msrp $5334.00
+ci series New Yorker Brougham
+ci year 1972
+ci origin United States
+ci prod 20328
+ci maker Chrysler
+ci weight 4365
+ci model CS43
+ci doors 4
+ci fbsize 11 3/4
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci tcase -NA-
+ci rdiff 4 2/5
+ci oil 4
+ci trans 19
+ci fuel 23
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.76
+ci height 55.5
+ci rtred 63.4
+ci width 79.4
+ci wbase 124
+ci ftred 62.1
+ci length 224.9
+ci comp 8.2
+ci cyl 8
+ci etype Torqueflite automatic
+ci rhp 59.72
+ci etype Downdraft 4-barrel
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci bhp 225@4400
+ci mbear 5
+ci etype V8 valve-in-head
+ci vlift Hydraulic
+ci b&s 4.32 & 3 3/4
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 345@3200
+ci disp 440
+ci color Exterior Colors
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+ci ign Electronic
+ci cool Water pump
+ci rad Tube and spacer
+ci cool 17.5 Quarts
+ci exha Single
+ci batt 12
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Hotchkiss
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize J78 x 15
+ci sloc Trunk
+cls 2435, CS41(\w)2(\w)([\dX]{6})
+clv 7303, 1972, Chrysler, New Yorker Brougham, Sedan
+ci axle Semifloating
+ci origin United States
+ci make Chrysler
+ci prod 5971
+ci msrp $5206.00
+ci year 1972
+ci series New Yorker Brougham
+ci weight 4335
+ci model CS41
+ci doors 4
+ci maker Chrysler
+ci fbsize 11 3/4
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 23
+ci oil 4
+ci tcase -NA-
+ci trans 19
+ci rdiff 4 2/5
+ci carb Holley
+ci ctype Not applicable
+ci diffr 2.76
+ci diff Hypoid
+ci ftred 62.1
+ci wbase 124
+ci width 79.4
+ci height 55.5
+ci length 224.9
+ci rtred 63.4
+ci mbear 5
+ci trq 345@3200
+ci etype V8 valve-in-head
+ci bhp 225@4400
+ci etype Downdraft 4-barrel
+ci etype Torqueflite automatic
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci rhp 59.72
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci b&s 4.32 & 3 3/4
+ci comp 8.2
+ci cyl 8
+ci disp 440
+ci color Exterior Colors
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+ci ign Electronic
+ci rad Tube and spacer
+ci batt 12
+ci cool 17.5 Quarts
+ci cool Water pump
+ci exha Single
+ci equip Air conditioning
+ci sgear Power
+ci rsus Hotchkiss
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize J78 x 15
+cls 2436, CH23(\w)2(\w)([\dX]{6})
+clv 7304, 1972, Chrysler, New Yorker, Hardtop
+ci axle Semifloating
+ci origin United States
+ci make Chrysler
+ci prod 5567
+ci msrp $4899.00
+ci series New Yorker
+ci year 1972
+ci weight 4270
+ci doors 2
+ci maker Chrysler
+ci model CH23
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci fbsize 11 3/4
+ci svc Power front disc rear self-adjusting drum
+ci rdiff 4 2/5
+ci oil 4
+ci fuel 23
+ci tcase -NA-
+ci trans 19
+ci carb Holley
+ci ctype Not applicable
+ci diffr 2.76
+ci diff Hypoid
+ci ftred 62.1
+ci rtred 63.4
+ci width 79.4
+ci height 55.5
+ci wbase 124
+ci length 224.9
+ci etype Torqueflite automatic
+ci bhp 225@4400
+ci etype V8 valve-in-head
+ci rhp 59.72
+ci etype Downdraft 4-barrel
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci comp 8.2
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci mbear 5
+ci b&s 4.32 & 3 3/4
+ci disp 440
+ci trq 345@3200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+co Two Tone Colors Available
+ci cool Water pump
+ci exha Single
+ci ign Electronic
+ci cool 17.5 Quarts
+ci rad Tube and spacer
+ci batt 12
+ci equip Power windows
+ci equip Power vent windows
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Hotchkiss
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize J78 x 15
+cls 2437, CH43(\w)2(\w)([\dX]{6})
+clv 7305, 1972, Chrysler, New Yorker, Hardtop
+ci axle Semifloating
+ci year 1972
+ci make Chrysler
+ci prod 10013
+ci origin United States
+ci msrp $4977.00
+ci series New Yorker
+ci doors 4
+ci model CH43
+ci maker Chrysler
+ci weight 4365
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci fbsize 11 3/4
+ci svc Power front disc rear self-adjusting drum
+ci fuel 23
+ci rdiff 4 2/5
+ci oil 4
+ci trans 19
+ci tcase -NA-
+ci carb Holley
+ci ctype Not applicable
+ci diffr 2.76
+ci diff Hypoid
+ci ftred 62.1
+ci rtred 63.4
+ci width 79.4
+ci wbase 124
+ci length 224.9
+ci height 55.5
+ci trq 345@3200
+ci bhp 225@4400
+ci comp 8.2
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci etype V8 valve-in-head
+ci disp 440
+ci rhp 59.72
+ci mbear 5
+ci vlift Hydraulic
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci b&s 4.32 & 3 3/4
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Torqueflite automatic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+co Two Tone Colors Available
+ci cool 17.5 Quarts
+ci cool Water pump
+ci exha Single
+ci ign Electronic
+ci rad Tube and spacer
+ci batt 12
+ci equip Power windows
+ci equip Power vent windows
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci equip Air conditioning
+ci sgear Power
+ci rsus Hotchkiss
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize J78 x 15
+ci sloc Trunk
+cls 2438, CH41(\w)2(\w)([\dX]{6})
+clv 7306, 1972, Chrysler, New Yorker, Sedan
+ci axle Semifloating
+ci origin United States
+ci make Chrysler
+ci prod 7296
+ci msrp $4849.00
+ci series New Yorker
+ci year 1972
+ci doors 4
+ci maker Chrysler
+ci model CH41
+ci weight 4335
+ci bsize 11
+ci fbsize 11 3/4
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci rdiff 4 2/5
+ci oil 4
+ci fuel 23
+ci tcase -NA-
+ci trans 19
+ci carb Holley
+ci ctype Not applicable
+ci diffr 2.76
+ci diff Hypoid
+ci rtred 63.4
+ci height 55.5
+ci width 79.4
+ci wbase 124
+ci length 224.9
+ci ftred 62.1
+ci rhp 59.72
+ci bhp 225@4400
+ci comp 8.2
+ci etype Torqueflite automatic
+ci etype Downdraft 4-barrel
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci cyl 8
+ci etype V8 valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci mbear 5
+ci b&s 4.32 & 3 3/4
+ci disp 440
+ci trq 345@3200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+co Two Tone Colors Available
+ci cool Water pump
+ci exha Single
+ci ign Electronic
+ci cool 17.5 Quarts
+ci rad Tube and spacer
+ci batt 12
+ci equip Power windows
+ci equip Power vent windows
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Hotchkiss
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize J78 x 15
+cls 2439, CM23(\w)2(\w)([\dX]{6})
+clv 7307, 1972, Chrysler, Newport Custom, Hardtop
+ci axle Semifloating
+ci make Chrysler
+ci prod 22682
+ci series Newport Custom
+ci msrp $4341.00
+ci origin United States
+ci year 1972
+ci doors 2
+ci weight 4130
+ci maker Chrysler
+ci model CM23
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 11 3/4
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 23
+ci rdiff 4 2/5
+ci oil 4
+ci trans 19
+ci tcase -NA-
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.76
+ci rtred 63.4
+ci width 79.4
+ci ftred 62.1
+ci wbase 124
+ci length 224.1
+ci height 54.8
+ci etype Torqueflite automatic
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci bhp 190@4400
+ci etype Dual downdraft
+ci comp 8.2
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 valve-in-head
+ci cyl 8
+ci rhp 60.27
+ci vlift Hydraulic
+ci b&s 4.34 & 3.38
+ci disp 400
+ci trq 310@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+co Two Tone Colors Available
+ci rad Tube and spacer
+ci cool 14.5 Quarts
+ci batt 12
+ci exha Single
+ci cool Water pump
+ci ign Electronic
+ci equip Power windows
+ci equip Radio
+ci equip Speed control device
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci rsus Hotchkiss
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 2440, CM43(\w)2(\w)([\dX]{6})
+clv 7308, 1972, Chrysler, Newport Custom, Hardtop
+ci axle Semifloating
+ci make Chrysler
+ci msrp $4419.00
+ci series Newport Custom
+ci year 1972
+ci origin United States
+ci prod 15185
+ci model CM43
+ci weight 4195
+ci maker Chrysler
+ci doors 4
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 11 3/4
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 23
+ci rdiff 4 2/5
+ci tcase -NA-
+ci trans 19
+ci oil 4
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.76
+ci length 224.1
+ci width 79.4
+ci height 55.2
+ci rtred 63.4
+ci wbase 124
+ci ftred 62.1
+ci etype Dual downdraft
+ci etype Torqueflite automatic
+ci etype V8 valve-in-head
+ci rhp 60.27
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci trq 310@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.2
+ci b&s 4.34 & 3.38
+ci vlift Hydraulic
+ci cyl 8
+ci bhp 190@4400
+ci disp 400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+co Two Tone Colors Available
+ci batt 12
+ci cool Water pump
+ci rad Tube and spacer
+ci cool 14.5 Quarts
+ci ign Electronic
+ci exha Single
+ci equip Power seats
+ci equip Radio
+ci equip Air conditioning
+ci equip Power windows
+ci equip Speed control device
+ci sgear Power
+ci rsus Hotchkiss
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 2441, CM41(\w)2(\w)([\dX]{6})
+clv 7309, 1972, Chrysler, Newport Custom, Sedan
+ci axle Semifloating
+ci origin United States
+ci make Chrysler
+ci prod 47437
+ci msrp $4271.00
+ci year 1972
+ci series Newport Custom
+ci doors 4
+ci model CM41
+ci weight 4185
+ci maker Chrysler
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 11 3/4
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 23
+ci oil 4
+ci trans 19
+ci tcase -NA-
+ci rdiff 4 2/5
+ci carb Holley
+ci ctype Not applicable
+ci diffr 2.76
+ci diff Hypoid
+ci width 79.4
+ci rtred 63.4
+ci ftred 62.1
+ci wbase 124
+ci height 55.2
+ci length 224.1
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci trq 310@2400
+ci b&s 4.34 & 3.38
+ci etype Dual downdraft
+ci etype V8 valve-in-head
+ci comp 8.2
+ci bhp 190@4400
+ci cyl 8
+ci etype Torqueflite automatic
+ci vlift Hydraulic
+ci rhp 60.27
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+co Two Tone Colors Available
+ci exha Single
+ci batt 12
+ci rad Tube and spacer
+ci cool 14.5 Quarts
+ci ign Electronic
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Power seats
+ci sgear Power
+ci rsus Hotchkiss
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15
+ci sloc Trunk
+cls 2442, CL23(\w)2(\w)([\dX]{6})
+clv 7310, 1972, Chrysler, Newport Royal, Hardtop
+ci axle Semifloating
+ci year 1972
+ci make Chrysler
+ci prod 10326
+ci origin United States
+ci msrp $4108.00
+ci series Newport Royal
+ci weight 4030
+ci maker Chrysler
+ci model CL23
+ci doors 2
+ci fbsize 11 3/4
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fuel 23
+ci oil 4
+ci tcase -NA-
+ci rdiff 4 2/5
+ci trans 19
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.76
+ci rtred 63.4
+ci ftred 62.1
+ci width 79.4
+ci height 54.8
+ci length 224.1
+ci wbase 124
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci comp 8.8
+ci cyl 8
+ci rhp 51.2
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci etype V8 valve-in-head
+ci trq 285@2400
+ci etype Torqueflite automatic
+ci vlift Hydraulic
+ci b&s 4 & 3 37/64
+ci disp 360
+ci bhp 175@4000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+co Two Tone Colors Available
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci cool 14.5 Quarts
+ci rad Tube and spacer
+ci ign Electronic
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Hotchkiss
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15
+ci sloc Trunk
+cls 2443, CL43(\w)2(\w)([\dX]{6})
+clv 7311, 1972, Chrysler, Newport Royal, Hardtop
+ci axle Semifloating
+ci make Chrysler
+ci msrp $4170.00
+ci series Newport Royal
+ci year 1972
+ci origin United States
+ci prod 15457
+ci model CL43
+ci weight 4100
+ci maker Chrysler
+ci doors 4
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11 3/4
+ci tcase -NA-
+ci fuel 23
+ci oil 4
+ci rdiff 4 2/5
+ci trans 19
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.76
+ci ftred 62.1
+ci rtred 63.4
+ci width 79.4
+ci height 55.2
+ci wbase 124
+ci length 224.1
+ci comp 8.8
+ci cyl 8
+ci bhp 175@4000
+ci rhp 51.2
+ci etype Dual downdraft
+ci trq 285@2400
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci etype V8 valve-in-head
+ci disp 360
+ci b&s 4 & 3 37/64
+ci etype Torqueflite automatic
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+co Two Tone Colors Available
+ci exha Single
+ci batt 12
+ci rad Tube and spacer
+ci ign Electronic
+ci cool 14.5 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Hotchkiss
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 2444, CL41(\w)2(\w)([\dX]{6})
+clv 7312, 1972, Chrysler, Newport Royal, Sedan
+ci axle Semifloating
+ci make Chrysler
+ci msrp $4035.00
+ci series Newport Royal
+ci prod 19278
+ci origin United States
+ci year 1972
+ci weight 4095
+ci maker Chrysler
+ci model CL41
+ci doors 4
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11 3/4
+ci tcase -NA-
+ci fuel 23
+ci oil 4
+ci rdiff 4 2/5
+ci trans 19
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.76
+ci ftred 62.1
+ci rtred 63.4
+ci width 79.4
+ci height 55.2
+ci wbase 124
+ci length 224.1
+ci comp 8.8
+ci cyl 8
+ci bhp 175@4000
+ci rhp 51.2
+ci etype Dual downdraft
+ci trq 285@2400
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci etype V8 valve-in-head
+ci disp 360
+ci b&s 4 & 3 37/64
+ci etype Torqueflite automatic
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+co Two Tone Colors Available
+ci exha Single
+ci batt 12
+ci rad Tube and spacer
+ci ign Electronic
+ci cool 14.5 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Hotchkiss
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 2445, CP45(\w)2(\w)([\dX]{6})
+clv 7313, 1972, Chrysler, Town & Country, Station Wagon 2-seat
+ci axle Semifloating
+ci origin United States
+ci make Chrysler
+ci prod 6473
+ci series Town & Country
+ci msrp $4889.00
+ci year 1972
+ci maker Chrysler
+ci weight 4610
+ci model CP45
+ci pass 6
+ci doors 4
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci fbsize 11 3/4
+ci svc Power front disc rear self-adjusting drum
+ci rdiff 4 2/5
+ci tcase -NA-
+ci fuel 23
+ci trans 19
+ci oil 4
+ci carb Holley
+ci ctype Not applicable
+ci diffr 2.76
+ci diff Hypoid
+ci length 224.8
+ci width 79.4
+ci wbase 121.5
+ci ftred 62.1
+ci rtred 63.4
+ci height 57.4
+ci trq 310@2400
+ci bhp 190@4400
+ci disp 400
+ci etype Dual downdraft
+ci b&s 4.34 & 3.38
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci etype V8 valve-in-head
+ci rhp 60.27
+ci vlift Hydraulic
+ci comp 8.2
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Torqueflite automatic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+co Two Tone Colors Available
+ci ign Electronic
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci cool 14.5 Quarts
+ci cool Water pump
+ci equip Radio
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power seats
+ci equip Speed control device
+ci sgear Power
+ci rsus Hotchkiss
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L84 x 15
+cls 2446, CP46(\w)2(\w)([\dX]{6})
+clv 7314, 1972, Chrysler, Town & Country, Station Wagon 3-seat
+ci axle Semifloating
+ci msrp $4973.00
+ci prod 14116
+ci origin United States
+ci series Town & Country
+ci year 1972
+ci make Chrysler
+ci weight 4665
+ci doors 4
+ci model CP46
+ci maker Chrysler
+ci pass 9
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci fbsize 11 3/4
+ci fuel 23
+ci oil 4
+ci trans 19
+ci tcase -NA-
+ci rdiff 4 2/5
+ci carb Holley
+ci ctype Not applicable
+ci diffr 2.76
+ci diff Hypoid
+ci length 224.8
+ci height 57.4
+ci wbase 121.5
+ci ftred 62.1
+ci rtred 63.4
+ci width 79.4
+ci englo Stamped on the block forward of the number 2 cylinder bore adjacent to the distributor.
+ci bhp 190@4400
+ci b&s 4.34 & 3.38
+ci etype Dual downdraft
+ci trq 310@2400
+ci cyl 8
+ci etype V8 valve-in-head
+ci rhp 60.27
+ci vlift Hydraulic
+ci disp 400
+ci comp 8.2
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Torqueflite automatic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Amber Sherwood Metallic
+co Blue Sky
+co Charcoal Metallic
+co Chestnut Metallic
+co Coral Turquoise Metallic
+co Evening Blue Metallic
+co Formal Black
+co Gold Leaf Metallic
+co Honeydew
+co Rallye Red
+co Sahara Beige
+co Sherwood Green Metallic
+co Spinnaker White
+co Sun Fire Yellow
+co Tawny Gold Metallic
+co True Blue Metallic
+co Two Tone Colors Available
+ci ign Electronic
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci cool 14.5 Quarts
+ci cool Water pump
+ci equip Radio
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power seats
+ci equip Speed control device
+ci sgear Power
+ci rsus Hotchkiss
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L84 x 15

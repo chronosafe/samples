@@ -1,0 +1,13 @@
+Your trial at <%= ENV['SITE_NAME'] %> is ending, <%= @user.name %>
+========================================================================
+
+This is just a reminder that your trial of the <%= site_name %> is coming to an end.
+
+
+Unless you cancel your current subscription to the <% @user.plan %> you will be billed monthly
+for the amount of $<%= @user.plan.price %>.
+
+If you would like to cancel please log in and visit the account page <%= edit_user_registration_url %>.
+
+Regards,
+<%= ENV['SITE_NAME'] %> Staff

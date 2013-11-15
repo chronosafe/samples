@@ -1,0 +1,443 @@
+cls 4266, 4(\w)89(\w)([\dX]{6})
+clv 17434, 1974, Lincoln, Continental Mark IV, Coupe
+ci axle Semifloating
+ci origin United States
+ci make Lincoln
+ci series Continental Mark IV
+ci prod 57316
+ci msrp $9574.00
+ci year 1974
+ci weight 5362
+ci doors 2
+ci model 65D
+ci maker Lincoln
+ci fbsize 11 23/32
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11 1/32
+ci rdiff 5
+ci trans 26
+ci tcase -NA-
+ci fuel 26.5
+ci oil 5
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.8
+ci diff Hypoid
+ci length 228.3
+ci rtred 62
+ci wbase 120.4
+ci width 79.8
+ci height 53.3
+ci comp 8.0
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci block Special alloy iron
+ci rhp 60.83
+ci disp 460
+ci etype Own V8 Overhead valve
+ci etype Downdraft 4-barrel
+ci b&s 4.36 & 3.85
+ci vlift Hydraulic
+ci bhp 220@4000
+ci etype Select Shift automatic
+ci mbear 5
+ci trq 355@2600
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Dark Blue Metallic
+co Bright Gold Bronze Metallic
+co Bright Yellow Gold Metallic
+co Buff
+co Dark Brown Metallic
+co Dark Green Metallic
+co Light Silver Cloud Metallic
+co Medium Beige
+co Medium Blue Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Pastel Lime
+co Platinum
+co Silver Blue Metallic
+co Sunburst Blue Metallic
+co Sunburst Copper Bronze Metallic
+co Sunburst Ginger Bronze Metallic
+co Sunburst Ivy Bronze Metallic
+co White Decor
+ci rad Tubular and fin
+ci cool Water pump
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci ftype Premium
+ci cool 20.5 Quarts
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip Power vent windows
+ci sgear Integral power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 230 x 15
+cls 4267, 4(\w)81(\w)([\dX]{6})
+clv 17435, 1974, Lincoln, Continental, Coupe
+ci axle Semifloating
+ci origin United States
+ci prod 7318
+ci series Continental
+ci msrp $7727.00
+ci year 1974
+ci make Lincoln
+ci doors 2
+ci model 65A
+ci maker Lincoln
+ci fbsize 11 23/32
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 22
+ci tcase -NA-
+ci trans 26
+ci oil 5
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci length 232.6
+ci ftred 62.4
+ci wbase 127
+ci rtred 61
+ci height 55.5
+ci width 80
+ci comp 8.0
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci etype Select Shift automatic
+ci bhp 215@4000
+ci rhp 60.83
+ci etype Downdraft 4-barrel
+ci etype Own V8 Overhead valve
+ci mbear 5
+ci vlift Hydraulic
+ci disp 460
+ci b&s 4.36 & 3.85
+ci block Special alloy iron
+ci trq 350@2600
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Dark Blue Metallic
+co Bright Gold Bronze Metallic
+co Bright Yellow Gold Metallic
+co Buff
+co Dark Brown Metallic
+co Dark Green Metallic
+co Light Silver Cloud Metallic
+co Medium Beige
+co Medium Blue Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Pastel Lime
+co Platinum
+co Silver Blue Metallic
+co Silver Metallic
+co Sunburst Blue Metallic
+co Sunburst Copper Bronze Metallic
+co Sunburst Ginger Bronze Metallic
+co Sunburst Ivy Bronze Metallic
+co White Decor
+ci exha Single
+ci rad Tubular and fin
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci ftype Premium
+ci cool 20.5 Quarts
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip Power vent windows
+ci sgear Integral power
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 235 x 15
+cls 4268, 4(\w)82(\w)([\dX]{6})
+clv 17436, 1974, Lincoln, Continental, Sedan
+ci axle Semifloating
+ci origin United States
+ci series Continental
+ci prod 29351
+ci msrp $7947.00
+ci year 1974
+ci make Lincoln
+ci maker Lincoln
+ci doors 4
+ci weight 5384
+ci model 53A
+ci fbsize 11 23/32
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci rdiff 5
+ci trans 26
+ci fuel 22
+ci oil 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci wbase 127
+ci length 232.6
+ci rtred 61
+ci ftred 62.4
+ci height 55
+ci width 80
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 350@2600
+ci disp 460
+ci block Special alloy iron
+ci etype Own V8 Overhead valve
+ci comp 8.0
+ci etype Select Shift automatic
+ci b&s 4.36 & 3.85
+ci vlift Hydraulic
+ci cyl 8
+ci mbear 5
+ci bhp 215@4000
+ci rhp 60.83
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Dark Blue Metallic
+co Bright Gold Bronze Metallic
+co Bright Yellow Gold Metallic
+co Buff
+co Dark Brown Metallic
+co Dark Green Metallic
+co Light Silver Cloud Metallic
+co Medium Beige
+co Medium Blue Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Pastel Lime
+co Platinum
+co Silver Blue Metallic
+co Silver Metallic
+co Sunburst Blue Metallic
+co Sunburst Copper Bronze Metallic
+co Sunburst Ginger Bronze Metallic
+co Sunburst Ivy Bronze Metallic
+co White Decor
+ci ftype Premium
+ci exha Single
+ci cool 20.5 Quarts
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool Water pump
+ci equip Power vent windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Integral power
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 235 x 15
+cls 4269, 4(\w)81(\w)([\dX]{6})
+clv 17437, 1974, Lincoln, Continental Town Car, Coupe
+ci axle Semifloating
+ci origin United States
+ci prod 7318
+ci series Continental Town Car
+ci msrp $9317.00
+ci year 1974
+ci make Lincoln
+ci doors 2
+ci model 65A
+ci maker Lincoln
+ci fbsize 11 23/32
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 22
+ci tcase -NA-
+ci trans 26
+ci oil 5
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci length 232.6
+ci ftred 62.4
+ci wbase 127
+ci rtred 61
+ci height 55.5
+ci width 80
+ci comp 8.0
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci etype Select Shift automatic
+ci bhp 215@4000
+ci rhp 60.83
+ci etype Downdraft 4-barrel
+ci etype Own V8 Overhead valve
+ci mbear 5
+ci vlift Hydraulic
+ci disp 460
+ci b&s 4.36 & 3.85
+ci block Special alloy iron
+ci trq 350@2600
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Dark Blue Metallic
+co Bright Gold Bronze Metallic
+co Bright Yellow Gold Metallic
+co Buff
+co Dark Brown Metallic
+co Dark Green Metallic
+co Light Silver Cloud Metallic
+co Medium Beige
+co Medium Blue Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Pastel Lime
+co Platinum
+co Silver Blue Metallic
+co Sunburst Blue Metallic
+co Sunburst Copper Bronze Metallic
+co Sunburst Ginger Bronze Metallic
+co Sunburst Ivy Bronze Metallic
+co White Decor
+ci exha Single
+ci rad Tubular and fin
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci ftype Premium
+ci cool 20.5 Quarts
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip Power vent windows
+ci sgear Integral power
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 235 x 15
+cls 4270, 4(\w)82(\w)([\dX]{6})
+clv 17438, 1974, Lincoln, Continental Town Car, Sedan
+ci axle Semifloating
+ci msrp $8608.00
+ci prod 29351
+ci origin United States
+ci series Continental Town Car
+ci make Lincoln
+ci year 1974
+ci doors 4
+ci model 53A
+ci maker Lincoln
+ci fbsize 11 23/32
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci trans 26
+ci fuel 22
+ci rdiff 5
+ci oil 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci ftred 62.4
+ci length 232.6
+ci rtred 61
+ci height 55
+ci wbase 127
+ci width 80
+ci disp 460
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci mbear 5
+ci comp 8.0
+ci b&s 4.36 & 3.85
+ci etype Downdraft 4-barrel
+ci etype Own V8 Overhead valve
+ci block Special alloy iron
+ci vlift Hydraulic
+ci etype Select Shift automatic
+ci bhp 215@4000
+ci rhp 60.83
+ci trq 350@2600
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Dark Blue Metallic
+co Bright Gold Bronze Metallic
+co Bright Yellow Gold Metallic
+co Buff
+co Dark Brown Metallic
+co Dark Green Metallic
+co Light Silver Cloud Metallic
+co Medium Beige
+co Medium Blue Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Pastel Lime
+co Platinum
+co Silver Blue Metallic
+co Sunburst Blue Metallic
+co Sunburst Copper Bronze Metallic
+co Sunburst Ginger Bronze Metallic
+co Sunburst Ivy Bronze Metallic
+co White Decor
+ci exha Single
+ci rad Tubular and fin
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci ftype Premium
+ci cool 20.5 Quarts
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip Power vent windows
+ci sgear Integral power
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 235 x 15

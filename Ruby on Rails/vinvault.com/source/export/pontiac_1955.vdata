@@ -1,0 +1,1150 @@
+cls 6502, T755H([\dX]{5})
+clv 26157, 1955, Pontiac, Chieftain 860 Special, Sedan
+ci axle Semifloating
+ci msrp $1917.00
+ci series Chieftain 860 Special
+ci origin United States
+ci year 1955
+ci prod 58654
+ci make Pontiac
+ci maker Fisher
+ci pass 6
+ci doors 2
+ci weight 3476
+ci ebrake Rear service brakes
+ci bsize 11
+ci fbsize 12
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci fuel 20
+ci tcase -NA-
+ci rdiff 3.25
+ci trans 1.75
+ci carb Carter or Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.64
+ci diff Hypoid
+ci length 203.2
+ci width 75.4
+ci height 62.5
+ci ftred 58.7
+ci wbase 122
+ci rtred 59.1
+ci trq 264@2400
+ci rhp 45
+ci engno Same as serial number
+ci b&s 3 3/4 & 3 1/4
+ci cyl 8
+ci comp 8.0
+ci bhp 180@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci mbear 5
+ci disp 287.16
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Avalon Yellow
+co Beaumont Blue
+co Bolero Red
+co Castle Gray
+co Corsair Tan
+co Driftwood Beige
+co Falcon Gray
+co Firegold Metallic
+co Lacquer
+co Marietta Blue
+co Nautilus Blue
+co Persian Maroon Metallic
+co Sequoia Green Metalli Chrome
+co Turquoise Blue Metallic
+co Two Tone Colors Available
+co Valley Green
+co Winona Green Metallic
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci cool 24 Quarts
+ci rad Cellular
+ci ftype Premium
+ci batt 12
+ci exha Single
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci sgear Ball bearing roller sector
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 2gear 1.49
+ci rev 2.71
+ci 5gear Not applicable
+ci 1gear 2.39
+ci vloc On left front door hinge pillar.
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 6503, T755H([\dX]{5})
+clv 26158, 1955, Pontiac, Chieftain 860 Special, Sedan
+ci axle Semifloating
+ci make Pontiac
+ci prod 65155
+ci origin United States
+ci year 1955
+ci msrp $1972.00
+ci series Chieftain 860 Special
+ci maker Fisher
+ci weight 3511
+ci doors 4
+ci pass 6
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fbsize 12
+ci bsize 11
+ci tcase -NA-
+ci oil 5
+ci fuel 20
+ci trans 1.75
+ci rdiff 3.25
+ci carb Carter or Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.64
+ci diff Hypoid
+ci length 203.2
+ci height 62.5
+ci wbase 122
+ci ftred 58.7
+ci rtred 59.1
+ci width 75.4
+ci disp 287.16
+ci rhp 45
+ci engno Same as serial number
+ci b&s 3 3/4 & 3 1/4
+ci cyl 8
+ci comp 8.0
+ci bhp 180@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci trq 264@2400
+ci mbear 5
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Avalon Yellow
+co Beaumont Blue
+co Bolero Red
+co Castle Gray
+co Corsair Tan
+co Driftwood Beige
+co Falcon Gray
+co Firegold Metallic
+co Lacquer
+co Marietta Blue
+co Nautilus Blue
+co Persian Maroon Metallic
+co Sequoia Green Metalli Chrome
+co Turquoise Blue Metallic
+co Two Tone Colors Available
+co Valley Green
+co Winona Green Metallic
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci cool 24 Quarts
+ci rad Cellular
+ci ftype Premium
+ci batt 12
+ci exha Single
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci sgear Ball bearing roller sector
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 2gear 1.49
+ci rev 2.71
+ci 5gear Not applicable
+ci 1gear 2.39
+ci vloc On left front door hinge pillar.
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 6504, T755H([\dX]{5})
+clv 26159, 1955, Pontiac, Chieftain 860 Special, Station Wagon
+ci axle Semifloating
+ci prod 8620
+ci make Pontiac
+ci origin United States
+ci series Chieftain 860 Special
+ci year 1955
+ci msrp $2223.00
+ci maker Fisher
+ci weight 3626
+ci doors 2
+ci pass 6
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci fbsize 12
+ci fuel 20
+ci tcase -NA-
+ci oil 5
+ci trans 1.75
+ci rdiff 3.25
+ci carb Carter or Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.64
+ci diff Hypoid
+ci width 75.4
+ci height 62.5
+ci wbase 122
+ci ftred 58.7
+ci rtred 59.1
+ci length 203.2
+ci trq 264@2400
+ci etype V8 Valve-in-head
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci b&s 3 3/4 & 3 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci bhp 180@4600
+ci engno Same as serial number
+ci disp 287.16
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Helical
+ci mbear 5
+ci color Exterior Colors
+co Avalon Yellow
+co Beaumont Blue
+co Bolero Red
+co Castle Gray
+co Corsair Tan
+co Driftwood Beige
+co Falcon Gray
+co Firegold Metallic
+co Lacquer
+co Marietta Blue
+co Nautilus Blue
+co Persian Maroon Metallic
+co Sequoia Green Metalli Chrome
+co Turquoise Blue Metallic
+co Two Tone Colors Available
+co Valley Green
+co Winona Green Metallic
+ci exha Single
+ci ign Distributor and coil
+ci cool 24 Quarts
+ci ftype Premium
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci equip Power steering
+ci equip Hydramatic automatic transmission
+ci sgear Ball bearing roller sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 1gear 2.39
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.71
+ci 2gear 1.49
+ci gears 3
+ci vloc On left front door hinge pillar.
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 6505, T755H([\dX]{5})
+clv 26160, 1955, Pontiac, Chieftain 860 Special, Station Wagon
+ci axle Semifloating
+ci msrp $2301.00
+ci series Chieftain 860 Special
+ci origin United States
+ci make Pontiac
+ci year 1955
+ci prod 6091
+ci pass 9
+ci doors 4
+ci weight 3686
+ci maker Fisher
+ci fbsize 12
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci fuel 20
+ci rdiff 3.25
+ci trans 1.75
+ci tcase -NA-
+ci carb Carter or Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.64
+ci diff Hypoid
+ci length 203.2
+ci height 62.5
+ci width 75.4
+ci ftred 58.7
+ci rtred 59.1
+ci wbase 122
+ci disp 287.16
+ci etype V8 Valve-in-head
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci b&s 3 3/4 & 3 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci bhp 180@4600
+ci engno Same as serial number
+ci mbear 5
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Helical
+ci trq 264@2400
+ci color Exterior Colors
+co Avalon Yellow
+co Beaumont Blue
+co Bolero Red
+co Castle Gray
+co Corsair Tan
+co Driftwood Beige
+co Falcon Gray
+co Firegold Metallic
+co Lacquer
+co Marietta Blue
+co Nautilus Blue
+co Persian Maroon Metallic
+co Sequoia Green Metalli Chrome
+co Turquoise Blue Metallic
+co Two Tone Colors Available
+co Valley Green
+co Winona Green Metallic
+ci exha Single
+ci ign Distributor and coil
+ci cool 24 Quarts
+ci ftype Premium
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci equip Power steering
+ci equip Hydramatic automatic transmission
+ci sgear Ball bearing roller sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 1gear 2.39
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.71
+ci 2gear 1.49
+ci gears 3
+ci vloc On left front door hinge pillar.
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 6506, T755H([\dX]{5})
+clv 26161, 1955, Pontiac, Chieftain 870 DeLuxe, Catalina
+ci axle Semifloating
+ci make Pontiac
+ci prod 72608
+ci origin United States
+ci msrp $2131.00
+ci year 1955
+ci series Chieftain 870 DeLuxe
+ci maker Fisher
+ci weight 3521
+ci pass 6
+ci ebrake Rear service brakes
+ci bsize 11
+ci fbsize 12
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci tcase -NA-
+ci oil 5
+ci trans 1.75
+ci rdiff 3.25
+ci carb Carter or Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.64
+ci diff Hypoid
+ci length 203.2
+ci height 62.5
+ci wbase 122
+ci ftred 58.7
+ci rtred 59.1
+ci width 75.4
+ci cyl 8
+ci etype V8 Valve-in-head
+ci rhp 45
+ci b&s 3 3/4 & 3 1/4
+ci mbear 5
+ci comp 8.0
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci bhp 180@4600
+ci engno Same as serial number
+ci disp 287.16
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Helical
+ci trq 264@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avalon Yellow
+co Beaumont Blue
+co Bolero Red
+co Castle Gray
+co Corsair Tan
+co Driftwood Beige
+co Falcon Gray
+co Firegold Metallic
+co Lacquer
+co Marietta Blue
+co Nautilus Blue
+co Persian Maroon Metallic
+co Polo White
+co Sequoia Green Metalli Chrome
+co Turquoise Blue Metallic
+co Two Tone Colors Available
+co Valley Green
+ci exha Single
+ci ign Distributor and coil
+ci cool 24 Quarts
+ci ftype Premium
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci equip Power steering
+ci equip Hydra-Matic automatic transmission
+ci sgear Ball bearing roller sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 1gear 2.39
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.71
+ci 2gear 1.49
+ci gears 3
+ci vloc On left front door hinge pillar.
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 6507, T755H([\dX]{5})
+clv 26162, 1955, Pontiac, Chieftain 870 DeLuxe, Sedan
+ci axle Semifloating
+ci series Chieftain 870 DeLuxe
+ci prod 28950
+ci origin United States
+ci msrp $2014.00
+ci year 1955
+ci make Pontiac
+ci weight 3476
+ci maker Fisher
+ci doors 2
+ci pass 6
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci fbsize 12
+ci fuel 20
+ci tcase -NA-
+ci rdiff 3.25
+ci trans 1.75
+ci oil 5
+ci carb Carter or Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.64
+ci diff Hypoid
+ci length 203.2
+ci height 62.5
+ci width 75.4
+ci wbase 122
+ci ftred 58.7
+ci rtred 59.1
+ci trq 264@2400
+ci rhp 45
+ci engno Same as serial number
+ci b&s 3 3/4 & 3 1/4
+ci cyl 8
+ci comp 8.0
+ci bhp 180@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci mbear 5
+ci disp 287.16
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avalon Yellow
+co Beaumont Blue
+co Bolero Red
+co Castle Gray
+co Corsair Tan
+co Driftwood Beige
+co Falcon Gray
+co Firegold Metallic
+co Lacquer
+co Marietta Blue
+co Nautilus Blue
+co Persian Maroon Metallic
+co Polo White
+co Sequoia Green Metalli Chrome
+co Turquoise Blue Metallic
+co Two Tone Colors Available
+co Valley Green
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci cool 24 Quarts
+ci rad Cellular
+ci ftype Premium
+ci batt 12
+ci exha Single
+ci equip Hydra-Matic automatic transmission
+ci equip Power steering
+ci sgear Ball bearing roller sector
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 2gear 1.49
+ci rev 2.71
+ci 5gear Not applicable
+ci 1gear 2.39
+ci vloc On left front door hinge pillar.
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 6508, T755H([\dX]{5})
+clv 26163, 1955, Pontiac, Chieftain 870 DeLuxe, Sedan
+ci axle Semifloating
+ci year 1955
+ci make Pontiac
+ci origin United States
+ci prod 91187
+ci msrp $2069.00
+ci series Chieftain 870 DeLuxe
+ci maker Fisher
+ci weight 3511
+ci doors 4
+ci pass 6
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fbsize 12
+ci bsize 11
+ci oil 5
+ci fuel 20
+ci tcase -NA-
+ci rdiff 3.25
+ci trans 1.75
+ci carb Carter or Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.64
+ci diff Hypoid
+ci length 203.2
+ci height 62.5
+ci width 75.4
+ci ftred 58.7
+ci rtred 59.1
+ci wbase 122
+ci disp 287.16
+ci etype V8 Valve-in-head
+ci rhp 45
+ci cyl 8
+ci comp 8.0
+ci b&s 3 3/4 & 3 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci bhp 180@4600
+ci engno Same as serial number
+ci mbear 5
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Helical
+ci trq 264@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avalon Yellow
+co Beaumont Blue
+co Bolero Red
+co Castle Gray
+co Corsair Tan
+co Driftwood Beige
+co Falcon Gray
+co Firegold Metallic
+co Lacquer
+co Marietta Blue
+co Nautilus Blue
+co Persian Maroon Metallic
+co Polo White
+co Sequoia Green Metalli Chrome
+co Turquoise Blue Metallic
+co Two Tone Colors Available
+co Valley Green
+ci exha Single
+ci ign Distributor and coil
+ci cool 24 Quarts
+ci ftype Premium
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci equip Power steering
+ci equip Hydra-Matic automatic transmission
+ci sgear Ball bearing roller sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 1gear 2.39
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.71
+ci 2gear 1.49
+ci gears 3
+ci vloc On left front door hinge pillar.
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 6509, T755H([\dX]{5})
+clv 26164, 1955, Pontiac, Chieftain 870 DeLuxe, Station Wagon
+ci axle Semifloating
+ci msrp $2380.00
+ci series Chieftain 870 DeLuxe
+ci origin United States
+ci year 1955
+ci prod 19439
+ci make Pontiac
+ci doors 4
+ci weight 3676
+ci maker Fisher
+ci pass 6
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fbsize 12
+ci fuel 20
+ci tcase -NA-
+ci trans 1.75
+ci oil 5
+ci rdiff 3.25
+ci carb Carter or Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.64
+ci diff Hypoid
+ci length 203.2
+ci height 62.5
+ci width 75.4
+ci wbase 122
+ci ftred 58.7
+ci rtred 59.1
+ci trq 264@2400
+ci rhp 45
+ci engno Same as serial number
+ci b&s 3 3/4 & 3 1/4
+ci cyl 8
+ci comp 8.0
+ci bhp 180@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci mbear 5
+ci disp 287.16
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avalon Yellow
+co Beaumont Blue
+co Bolero Red
+co Castle Gray
+co Corsair Tan
+co Driftwood Beige
+co Falcon Gray
+co Firegold Metallic
+co Lacquer
+co Marietta Blue
+co Nautilus Blue
+co Persian Maroon Metallic
+co Polo White
+co Sequoia Green Metalli Chrome
+co Turquoise Blue Metallic
+co Two Tone Colors Available
+co Valley Green
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci cool 24 Quarts
+ci rad Cellular
+ci ftype Premium
+ci batt 12
+ci exha Single
+ci equip Hydra-Matic automatic transmission
+ci equip Power steering
+ci sgear Ball bearing roller sector
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 2gear 1.49
+ci rev 2.71
+ci 5gear Not applicable
+ci 1gear 2.39
+ci vloc On left front door hinge pillar.
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 6510, T755H([\dX]{5})
+clv 26165, 1955, Pontiac, Star Chief Custom, Safari
+ci axle Semifloating
+ci make Pontiac
+ci series Star Chief Custom
+ci origin United States
+ci msrp $2962.00
+ci year 1955
+ci prod 3760
+ci pass 6
+ci weight 3746
+ci maker Fisher
+ci doors 2
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci fbsize 12
+ci ebrake Rear service brakes
+ci fuel 20
+ci trans 1.75
+ci oil 5
+ci rdiff 3.25
+ci tcase -NA-
+ci carb Carter or Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.64
+ci length 203.2
+ci height 62.5
+ci rtred 59.1
+ci wbase 122
+ci ftred 58.7
+ci width 75.4
+ci mbear 5
+ci rhp 45
+ci bhp 180@4600
+ci b&s 3 3/4 & 3 1/4
+ci cyl 8
+ci comp 8.0
+ci engno Same as serial number
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci etype Helical
+ci trq 264@2400
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 287.16
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avalon Yellow
+co Beaumont Blue
+co Bolero Red
+co Castle Gray
+co Corsair Tan
+co Driftwood Beige
+co Falcon Gray
+co Firegold Metallic
+co Lacquer
+co Marietta Blue
+co Nautilus Blue
+co Persian Maroon Metallic
+co Polo White
+co Sequoia Green Metalli Chrome
+co Turquoise Blue Metallic
+co Two Tone Colors Available
+co Valley Green
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci batt 12
+ci ftype Premium
+ci cool 24 Quarts
+ci exha Single
+ci rad Cellular
+ci equip Hydra-Matic automatic transmission
+ci equip Power steering
+ci sgear Ball bearing roller sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 1gear 2.39
+ci gears 3
+ci 3gear 1
+ci 2gear 1.49
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.71
+ci vloc On left front door hinge pillar.
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 6511, T855H([\dX]{5})
+clv 26166, 1955, Pontiac, Star Chief Custom, Catalina
+ci axle Semifloating
+ci origin United States
+ci series Star Chief Custom
+ci make Pontiac
+ci prod 99629
+ci year 1955
+ci msrp $2284.00
+ci weight 3566
+ci doors 2
+ci maker Fisher
+ci pass 6
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fbsize 12
+ci bsize 11
+ci rdiff 3.25
+ci tcase -NA-
+ci trans 1.75
+ci oil 5
+ci fuel 20
+ci carb Carter or Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.64
+ci wbase 124
+ci height 62.5
+ci width 75.4
+ci ftred 58.7
+ci rtred 59.1
+ci length 210.2
+ci cyl 8
+ci etype V8 Valve-in-head
+ci rhp 45
+ci mbear 5
+ci comp 8.0
+ci b&s 3 3/4 & 3 1/4
+ci engno Same as serial number
+ci englo On pad at front of right side of block.
+ci bhp 180@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 264@2400
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 287.16
+ci etype Helical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avalon Yellow
+co Beaumont Blue
+co Bolero Red
+co Castle Gray
+co Corsair Tan
+co Driftwood Beige
+co Falcon Gray
+co Firegold Metallic
+co Lacquer
+co Marietta Blue
+co Nautilus Blue
+co Persian Maroon Metallic
+co Polo White
+co Sequoia Green Metalli Chrome
+co Turquoise Blue Metallic
+co Two Tone Colors Available
+co Valley Green
+ci batt 12
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Centrifugal pump with thermostat
+ci cool 24 Quarts
+ci rad Cellular
+ci exha Single
+ci equip Hydra-Matic automatic transmission
+ci equip Power steering
+ci sgear Ball bearing roller sector
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 1gear 2.39
+ci drive Rear wheel drive
+ci rev 2.71
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.49
+ci gears 3
+ci vloc On left front door hinge pillar.
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 6512, T855H([\dX]{5})
+clv 26167, 1955, Pontiac, Star Chief Custom, Sedan
+ci axle Semifloating
+ci msrp $2243.00
+ci series Star Chief Custom
+ci prod 35153
+ci make Pontiac
+ci origin United States
+ci year 1955
+ci doors 4
+ci weight 3556
+ci pass 6
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci fbsize 12
+ci fuel 20
+ci rdiff 3.25
+ci oil 5
+ci trans 1.75
+ci tcase -NA-
+ci carb Carter or Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.64
+ci wbase 124
+ci height 62.5
+ci length 210.2
+ci rtred 59.1
+ci ftred 58.7
+ci width 75.4
+ci mbear 5
+ci rhp 45
+ci bhp 180@4600
+ci b&s 3 3/4 & 3 1/4
+ci cyl 8
+ci comp 8.0
+ci engno Same as serial number
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci etype Helical
+ci trq 264@2400
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 287.16
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avalon Yellow
+co Beaumont Blue
+co Bolero Red
+co Castle Gray
+co Corsair Tan
+co Driftwood Beige
+co Falcon Gray
+co Firegold Metallic
+co Lacquer
+co Marietta Blue
+co Nautilus Blue
+co Persian Maroon Metallic
+co Polo White
+co Sequoia Green Metalli Chrome
+co Turquoise Blue Metallic
+co Two Tone Colors Available
+co Valley Green
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci batt 12
+ci ftype Premium
+ci cool 24 Quarts
+ci exha Single
+ci rad Cellular
+ci equip Hydra-Matic automatic transmission
+ci equip Power steering
+ci sgear Ball bearing roller sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 1gear 2.39
+ci gears 3
+ci 3gear 1
+ci 2gear 1.49
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.71
+ci vloc On left front door hinge pillar.
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 6513, T855H([\dX]{5})
+clv 26168, 1955, Pontiac, Star Chief, Convertible Coupe
+ci axle Semifloating
+ci msrp $2462.00
+ci series Star Chief
+ci make Pontiac
+ci prod 19762
+ci origin United States
+ci year 1955
+ci maker Fisher
+ci doors 2
+ci pass 6
+ci weight 3791
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci fbsize 12
+ci ebrake Rear service brakes
+ci trans 1.75
+ci oil 5
+ci tcase -NA-
+ci rdiff 3.25
+ci fuel 20
+ci carb Carter or Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.64
+ci diff Hypoid
+ci wbase 124
+ci height 62.5
+ci length 210.2
+ci rtred 59.1
+ci ftred 58.7
+ci width 75.4
+ci mbear 5
+ci rhp 45
+ci bhp 180@4600
+ci b&s 3 3/4 & 3 1/4
+ci cyl 8
+ci comp 8.0
+ci engno Same as serial number
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci etype Helical
+ci trq 264@2400
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 287.16
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Avalon Yellow
+co Beaumont Blue
+co Bolero Red
+co Castle Gray
+co Corsair Tan
+co Driftwood Beige
+co Falcon Gray
+co Firegold Metallic
+co Lacquer
+co Marietta Blue
+co Nautilus Blue
+co Persian Maroon Metallic
+co Sequoia Green Metalli Chrome
+co Turquoise Blue Metallic
+co Two Tone Colors Available
+co Valley Green
+co Winona Green Metallic
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci batt 12
+ci ftype Premium
+ci cool 24 Quarts
+ci exha Single
+ci rad Cellular
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci sgear Ball bearing roller sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 1gear 2.39
+ci gears 3
+ci 3gear 1
+ci 2gear 1.49
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.71
+ci vloc On left front door hinge pillar.
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 6514, T855H([\dX]{5})
+clv 26169, 1955, Pontiac, Star Chief, Sedan
+ci axle Semifloating
+ci msrp $2156.00
+ci series Star Chief
+ci make Pontiac
+ci prod 44800
+ci origin United States
+ci year 1955
+ci weight 3556
+ci pass 6
+ci doors 4
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci fbsize 12
+ci rdiff 3.25
+ci trans 1.75
+ci oil 5
+ci fuel 20
+ci tcase -NA-
+ci carb Carter or Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.64
+ci wbase 124
+ci height 62.5
+ci length 210.2
+ci rtred 59.1
+ci ftred 58.7
+ci width 75.4
+ci mbear 5
+ci rhp 45
+ci bhp 180@4600
+ci b&s 3 3/4 & 3 1/4
+ci cyl 8
+ci comp 8.0
+ci engno Same as serial number
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci etype Helical
+ci trq 264@2400
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 287.16
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Avalon Yellow
+co Beaumont Blue
+co Bolero Red
+co Castle Gray
+co Corsair Tan
+co Driftwood Beige
+co Falcon Gray
+co Firegold Metallic
+co Lacquer
+co Marietta Blue
+co Nautilus Blue
+co Persian Maroon Metallic
+co Sequoia Green Metalli Chrome
+co Turquoise Blue Metallic
+co Two Tone Colors Available
+co Valley Green
+co Winona Green Metallic
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci batt 12
+ci ftype Premium
+ci cool 24 Quarts
+ci exha Single
+ci rad Cellular
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci sgear Ball bearing roller sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 1gear 2.39
+ci gears 3
+ci 3gear 1
+ci 2gear 1.49
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.71
+ci vloc On left front door hinge pillar.
+ci sloc Trunk
+ci tsize 7.1 x 15

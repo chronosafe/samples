@@ -1,0 +1,3552 @@
+cls 3358, (\w)5(\w)G([\dX]{6})
+clv 12168, 1955, Ford, Customline 6, Fordor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Customline 6
+ci prod 235417
+ci origin United States
+ci msrp $2112.00
+ci make Ford
+ci year 1955
+ci model 73B
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 3
+ci tcase -NA-
+ci oil 4
+ci fuel 17 1/2
+ci rdiff 3.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.89
+ci rtred 56
+ci width 75.9
+ci length 198.5
+ci ftred 58
+ci height 61
+ci wbase 115.5
+ci b&s 3 5/8 & 3 39/64
+ci comp 7.5
+ci etype Single downdraft
+ci engno Starting A5-100001
+ci bhp 120@4000
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 223.5
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci mbear 4
+ci trq 195@2400
+ci rhp 31.54
+ci etype Helical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci exha Single
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci batt 6
+ci ftype Regular
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.78
+ci rev 3.36
+ci 2gear 1.62
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3359, (\w)5(\w)b([\dX]{6})
+clv 12169, 1955, Ford, Customline 6, Tudor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Customline 6
+ci make Ford
+ci origin United States
+ci msrp $2068.00
+ci prod 236575
+ci year 1955
+ci doors 2
+ci model 70B
+ci maker Ford
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci rdiff 3.5
+ci fuel 17 1/2
+ci tcase -NA-
+ci trans 3
+ci oil 4
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.89
+ci length 198.5
+ci width 75.9
+ci rtred 56
+ci wbase 115.5
+ci height 61
+ci ftred 58
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 7.5
+ci mbear 4
+ci bhp 120@4000
+ci b&s 3 5/8 & 3 39/64
+ci block Cast Iron
+ci etype Helical
+ci disp 223.5
+ci etype In line Valve-in-head
+ci etype Single downdraft
+ci trq 195@2400
+ci engno Starting A5-100001
+ci rhp 31.54
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 15 Quarts
+ci batt 6
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 3.36
+ci 1gear 2.78
+ci 2gear 1.62
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3360, (\w)5(\w)G([\dX]{6})
+clv 12170, 1955, Ford, Customline 8, Fordor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci year 1955
+ci origin United States
+ci series Customline 8
+ci msrp $2233.00
+ci prod 235417
+ci make Ford
+ci doors 4
+ci maker Ford
+ci model 73B
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci oil 5
+ci rdiff 3.5
+ci tcase -NA-
+ci trans 3
+ci fuel 17 1/2
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.78
+ci diff Hypoid
+ci width 75.9
+ci wbase 115.5
+ci height 61
+ci rtred 56
+ci ftred 58
+ci length 198.5
+ci b&s 3 5/8 & 3 19/64
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 7.6
+ci bhp 162@4400
+ci rhp 42.05
+ci cyl 8
+ci engno Starting U5-100001
+ci etype V8 Valve-in-head
+ci trq 258@2200
+ci etype Dual downdraft
+ci disp 272.21
+ci etype Helical
+ci mbear 5
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 19 Quarts
+ci batt 6
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 3.13
+ci 1gear 2.57
+ci 2gear 1.63
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3361, (\w)5(\w)b([\dX]{6})
+clv 12171, 1955, Ford, Customline 8, Tudor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci year 1955
+ci origin United States
+ci series Customline 8
+ci msrp $2189.00
+ci prod 236575
+ci make Ford
+ci model 70B
+ci doors 2
+ci maker Ford
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci trans 3
+ci rdiff 3.5
+ci oil 5
+ci fuel 17 1/2
+ci tcase -NA-
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.78
+ci wbase 115.5
+ci length 198.5
+ci width 75.9
+ci rtred 56
+ci ftred 58
+ci height 61
+ci rhp 42.05
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 7.6
+ci trq 258@2200
+ci disp 272.21
+ci cyl 8
+ci b&s 3 5/8 & 3 19/64
+ci etype V8 Valve-in-head
+ci bhp 162@4400
+ci etype Dual downdraft
+ci engno Starting U5-100001
+ci etype Helical
+ci mbear 5
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 19 Quarts
+ci batt 6
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 3.13
+ci 1gear 2.57
+ci 2gear 1.63
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3362, (\w)5(\w)G([\dX]{6})
+clv 12172, 1955, Ford, Fairlane 6, Club Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane 6
+ci make Ford
+ci origin United States
+ci msrp $2196.00
+ci year 1955
+ci prod 173311
+ci doors 2
+ci model 70C
+ci maker Ford
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci oil 4
+ci fuel 17 1/2
+ci trans 3
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.89
+ci rtred 56
+ci length 198.5
+ci width 75.9
+ci wbase 115.5
+ci height 61
+ci ftred 58
+ci trq 195@2400
+ci comp 7.5
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci bhp 120@4000
+ci block Cast Iron
+ci etype Helical
+ci etype In line Valve-in-head
+ci b&s 3 5/8 & 3 39/64
+ci disp 223.5
+ci etype Single downdraft
+ci engno Starting A5-100001
+ci rhp 31.54
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 15 Quarts
+ci batt 6
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 3.36
+ci 1gear 2.78
+ci 2gear 1.62
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3363, (\w)5(\w)W([\dX]{6})
+clv 12173, 1955, Ford, Fairlane 6, Crown Victoria
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2484.00
+ci year 1955
+ci prod 33165
+ci origin United States
+ci make Ford
+ci series Fairlane 6
+ci doors 2
+ci model 64A
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci fuel 17 1/2
+ci rdiff 3.5
+ci trans 3
+ci oil 4
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.89
+ci rtred 56
+ci width 75.9
+ci length 198.5
+ci ftred 58
+ci height 59
+ci wbase 115.5
+ci comp 7.5
+ci b&s 3 5/8 & 3 39/64
+ci etype Single downdraft
+ci engno Starting A5-100001
+ci bhp 120@4000
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci disp 223.5
+ci mbear 4
+ci trq 195@2400
+ci rhp 31.54
+ci etype Helical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci exha Single
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci batt 6
+ci ftype Regular
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.78
+ci rev 3.36
+ci 2gear 1.62
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3364, (\w)5(\w)W([\dX]{6})
+clv 12174, 1955, Ford, Fairlane 6, Crown Victoria-transparent top
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane 6
+ci make Ford
+ci origin United States
+ci msrp $2554.00
+ci prod 1999
+ci year 1955
+ci doors 2
+ci model 64B
+ci maker Ford
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci rdiff 3.5
+ci tcase -NA-
+ci fuel 17 1/2
+ci trans 3
+ci oil 4
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.89
+ci length 198.5
+ci width 75.9
+ci rtred 56
+ci wbase 115.5
+ci height 59
+ci ftred 58
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci comp 7.5
+ci bhp 120@4000
+ci b&s 3 5/8 & 3 39/64
+ci block Cast Iron
+ci etype Helical
+ci etype In line Valve-in-head
+ci disp 223.5
+ci etype Single downdraft
+ci trq 195@2400
+ci engno Starting A5-100001
+ci rhp 31.54
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 15 Quarts
+ci batt 6
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 3.36
+ci 1gear 2.78
+ci 2gear 1.62
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3365, (\w)5(\w)C([\dX]{6})
+clv 12175, 1955, Ford, Fairlane 6, Sunliner
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2514.00
+ci prod 49966
+ci year 1955
+ci origin United States
+ci make Ford
+ci series Fairlane 6
+ci doors 2
+ci model 76B
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci oil 4
+ci fuel 17 1/2
+ci rdiff 3.5
+ci trans 3
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.89
+ci wbase 115.5
+ci length 198.5
+ci rtred 56
+ci ftred 58
+ci height 58.9
+ci width 75.9
+ci etype Single downdraft
+ci comp 7.5
+ci engno Starting A5-100001
+ci b&s 3 5/8 & 3 39/64
+ci bhp 120@4000
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci disp 223.5
+ci rhp 31.54
+ci trq 195@2400
+ci mbear 4
+ci etype Helical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci exha Single
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci batt 6
+ci ftype Regular
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.78
+ci rev 3.36
+ci 2gear 1.62
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3366, (\w)5(\w)T([\dX]{6})
+clv 12176, 1955, Ford, Fairlane 6, Town Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane 6
+ci prod 254437
+ci origin United States
+ci msrp $2242.00
+ci make Ford
+ci year 1955
+ci model 73C
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 3
+ci tcase -NA-
+ci oil 4
+ci fuel 17 1/2
+ci rdiff 3.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.89
+ci rtred 56
+ci width 75.9
+ci length 198.5
+ci ftred 58
+ci height 61
+ci wbase 115.5
+ci b&s 3 5/8 & 3 39/64
+ci comp 7.5
+ci etype Single downdraft
+ci engno Starting A5-100001
+ci bhp 120@4000
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci disp 223.5
+ci mbear 4
+ci trq 195@2400
+ci rhp 31.54
+ci etype Helical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci exha Single
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci batt 6
+ci ftype Regular
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.78
+ci rev 3.36
+ci 2gear 1.62
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3367, (\w)5(\w)F([\dX]{6})
+clv 12177, 1955, Ford, Fairlane 6, Victoria
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Fairlane 6
+ci origin United States
+ci prod 113372
+ci msrp $2377.00
+ci year 1955
+ci model 60B
+ci maker Ford
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci fuel 17 1/2
+ci trans 3
+ci oil 4
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.89
+ci rtred 56
+ci width 75.9
+ci length 198.5
+ci ftred 58
+ci height 60.1
+ci wbase 115.5
+ci comp 7.5
+ci b&s 3 5/8 & 3 39/64
+ci etype Single downdraft
+ci engno Starting A5-100001
+ci bhp 120@4000
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci disp 223.5
+ci mbear 4
+ci trq 195@2400
+ci rhp 31.54
+ci etype Helical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci exha Single
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci batt 6
+ci ftype Regular
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.78
+ci rev 3.36
+ci 2gear 1.62
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3368, (\w)5(\w)G([\dX]{6})
+clv 12178, 1955, Ford, Fairlane 8, Club Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 173311
+ci origin United States
+ci series Fairlane 8
+ci msrp $2317.00
+ci year 1955
+ci make Ford
+ci doors 2
+ci maker Ford
+ci model 70C
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 3
+ci rdiff 3.5
+ci oil 5
+ci fuel 17 1/2
+ci tcase -NA-
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.78
+ci length 198.5
+ci wbase 115.5
+ci width 75.9
+ci rtred 56
+ci ftred 58
+ci height 61
+ci rhp 42.05
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 7.6
+ci trq 258@2200
+ci disp 272.21
+ci cyl 8
+ci b&s 3 5/8 & 3 19/64
+ci engno Starting U5-100001
+ci etype Dual downdraft
+ci bhp 162@4400
+ci etype V8 Valve-in-head
+ci etype Helical
+ci mbear 5
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 19 Quarts
+ci batt 6
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 3.13
+ci 1gear 2.57
+ci 2gear 1.63
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3369, (\w)5(\w)W([\dX]{6})
+clv 12179, 1955, Ford, Fairlane 8, Crown Victoria
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane 8
+ci origin United States
+ci make Ford
+ci year 1955
+ci msrp $2605.00
+ci prod 33165
+ci maker Ford
+ci model 64A
+ci doors 2
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 17 1/2
+ci rdiff 3.5
+ci oil 5
+ci tcase -NA-
+ci trans 3
+ci carb Holley or Ford
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.78
+ci diff Hypoid
+ci length 198.5
+ci width 75.9
+ci wbase 115.5
+ci rtred 56
+ci ftred 58
+ci height 59
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 42.05
+ci comp 7.6
+ci b&s 3 5/8 & 3 19/64
+ci cyl 8
+ci disp 272.21
+ci trq 258@2200
+ci etype Dual downdraft
+ci bhp 162@4400
+ci engno Starting U5-100001
+ci etype Helical
+ci etype V8 Valve-in-head
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 19 Quarts
+ci batt 6
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 3.13
+ci 1gear 2.57
+ci 2gear 1.63
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3370, (\w)5(\w)W([\dX]{6})
+clv 12180, 1955, Ford, Fairlane 8, Crown Victoria-transparent top
+ser 6 1 499999
+ci axle Semifloating
+ci year 1955
+ci origin United States
+ci series Fairlane 8
+ci msrp $2675.00
+ci prod 1999
+ci make Ford
+ci doors 2
+ci maker Ford
+ci model 64B
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 3
+ci rdiff 3.5
+ci oil 5
+ci fuel 17 1/2
+ci tcase -NA-
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.78
+ci rtred 56
+ci length 198.5
+ci width 75.9
+ci wbase 115.5
+ci ftred 58
+ci height 59
+ci comp 7.6
+ci trq 258@2200
+ci rhp 42.05
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 272.21
+ci cyl 8
+ci b&s 3 5/8 & 3 19/64
+ci bhp 162@4400
+ci etype Dual downdraft
+ci engno Starting U5-100001
+ci etype V8 Valve-in-head
+ci etype Helical
+ci mbear 5
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 19 Quarts
+ci batt 6
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 3.13
+ci 1gear 2.57
+ci 2gear 1.63
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3371, (\w)5(\w)C([\dX]{6})
+clv 12181, 1955, Ford, Fairlane 8, Sunliner
+ser 6 1 499999
+ci axle Semifloating
+ci prod 49966
+ci origin United States
+ci series Fairlane 8
+ci year 1955
+ci msrp $2635.00
+ci make Ford
+ci doors 2
+ci maker Ford
+ci model 76B
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 3
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 5
+ci fuel 17 1/2
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.78
+ci diff Hypoid
+ci length 198.5
+ci width 75.9
+ci wbase 115.5
+ci rtred 56
+ci ftred 58
+ci height 58.9
+ci b&s 3 5/8 & 3 19/64
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 7.6
+ci trq 258@2200
+ci bhp 162@4400
+ci cyl 8
+ci engno Starting U5-100001
+ci rhp 42.05
+ci etype Dual downdraft
+ci disp 272.21
+ci etype V8 Valve-in-head
+ci etype Helical
+ci mbear 5
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 19 Quarts
+ci batt 6
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 3.13
+ci 1gear 2.57
+ci 2gear 1.63
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3372, (\w)5(\w)T([\dX]{6})
+clv 12182, 1955, Ford, Fairlane 8, Town Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci year 1955
+ci origin United States
+ci series Fairlane 8
+ci msrp $2363.00
+ci prod 254437
+ci make Ford
+ci doors 4
+ci maker Ford
+ci model 73C
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci oil 5
+ci rdiff 3.5
+ci tcase -NA-
+ci trans 3
+ci fuel 17 1/2
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.78
+ci diff Hypoid
+ci width 75.9
+ci wbase 115.5
+ci height 61
+ci rtred 56
+ci ftred 58
+ci length 198.5
+ci b&s 3 5/8 & 3 19/64
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 7.6
+ci bhp 162@4400
+ci rhp 42.05
+ci cyl 8
+ci engno Starting U5-100001
+ci trq 258@2200
+ci etype Dual downdraft
+ci disp 272.21
+ci etype V8 Valve-in-head
+ci etype Helical
+ci mbear 5
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 19 Quarts
+ci batt 6
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 3.13
+ci 1gear 2.57
+ci 2gear 1.63
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3373, (\w)5(\w)F([\dX]{6})
+clv 12183, 1955, Ford, Fairlane 8, Victoria
+ser 6 1 499999
+ci axle Semifloating
+ci year 1955
+ci origin United States
+ci series Fairlane 8
+ci msrp $2498.00
+ci prod 113372
+ci make Ford
+ci doors 4
+ci model 60B
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 5
+ci trans 3
+ci fuel 17 1/2
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.78
+ci diff Hypoid
+ci width 75.9
+ci height 60.1
+ci wbase 115.5
+ci rtred 56
+ci ftred 58
+ci length 198.5
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 42.05
+ci comp 7.6
+ci b&s 3 5/8 & 3 19/64
+ci cyl 8
+ci disp 272.21
+ci trq 258@2200
+ci etype Dual downdraft
+ci engno Starting U5-100001
+ci etype V8 Valve-in-head
+ci etype Helical
+ci bhp 162@4400
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 19 Quarts
+ci batt 6
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 3.13
+ci 1gear 2.57
+ci 2gear 1.63
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3374, (\w)5(\w)G([\dX]{6})
+clv 12184, 1955, Ford, Mainline 6, Business Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci year 1955
+ci series Mainline 6
+ci origin United States
+ci msrp $1759.00
+ci make Ford
+ci prod 8809
+ci doors 2
+ci maker Ford
+ci model 70D
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 17 1/2
+ci oil 4
+ci tcase -NA-
+ci rdiff 3.5
+ci trans 3
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.89
+ci diff Hypoid
+ci ftred 58
+ci rtred 56
+ci length 198.5
+ci wbase 115.5
+ci width 75.9
+ci height 62.8
+ci mbear 4
+ci trq 195@2400
+ci engno Starting A5-100001
+ci b&s 3 5/8 & 3 39/64
+ci etype Single downdraft
+ci block Cast Iron
+ci bhp 120@4000
+ci vlift Mechanical
+ci rhp 31.54
+ci etype In line Valve-in-head
+ci disp 223.5
+ci comp 7.5
+ci etype Helical
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown & Snowshoe White
+co Enamel
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red & Snowshoe White
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+ci ftype Regular
+ci rad Fin and tube
+ci exha Single
+ci batt 6
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.36
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.78
+ci 3gear 1
+ci 2gear 1.62
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3375, (\w)5(\w)G([\dX]{6})
+clv 12185, 1955, Ford, Mainline 6, Fordor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 41794
+ci msrp $1991.00
+ci origin United States
+ci make Ford
+ci series Mainline 6
+ci year 1955
+ci maker Ford
+ci model 73A
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 4
+ci tcase -NA-
+ci rdiff 3.5
+ci trans 3
+ci fuel 17 1/2
+ci carb Holley or Ford
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.89
+ci length 198.5
+ci width 75.9
+ci rtred 56
+ci ftred 58
+ci wbase 115.5
+ci height 61
+ci comp 7.5
+ci trq 195@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci disp 223.5
+ci block Cast Iron
+ci etype Helical
+ci bhp 120@4000
+ci etype In line Valve-in-head
+ci b&s 3 5/8 & 3 39/64
+ci rhp 31.54
+ci engno Starting A5-100001
+ci mbear 4
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown & Snowshoe White
+co Enamel
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red & Snowshoe White
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+ci exha Single
+ci batt 6
+ci cool 15 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 3.36
+ci 1gear 2.78
+ci 2gear 1.62
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3376, (\w)5(\w)b([\dX]{6})
+clv 12186, 1955, Ford, Mainline 6, Tudor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci year 1955
+ci series Mainline 6
+ci origin United States
+ci msrp $1945.00
+ci make Ford
+ci prod 76698
+ci doors 2
+ci maker Ford
+ci model 70A
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 17 1/2
+ci oil 4
+ci tcase -NA-
+ci rdiff 3.5
+ci trans 3
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.89
+ci diff Hypoid
+ci ftred 58
+ci rtred 56
+ci length 198.5
+ci wbase 115.5
+ci width 75.9
+ci height 61
+ci mbear 4
+ci trq 195@2400
+ci engno Starting A5-100001
+ci b&s 3 5/8 & 3 39/64
+ci etype Single downdraft
+ci block Cast Iron
+ci bhp 120@4000
+ci vlift Mechanical
+ci rhp 31.54
+ci etype In line Valve-in-head
+ci disp 223.5
+ci comp 7.5
+ci etype Helical
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown & Snowshoe White
+co Enamel
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red & Snowshoe White
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+ci ftype Regular
+ci rad Fin and tube
+ci exha Single
+ci batt 6
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.36
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.78
+ci 3gear 1
+ci 2gear 1.62
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3377, (\w)5(\w)G([\dX]{6})
+clv 12187, 1955, Ford, Mainline 8, Business Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Mainline 8
+ci origin United States
+ci make Ford
+ci year 1955
+ci msrp $1965.00
+ci prod 8809
+ci model 70D
+ci doors 2
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci oil 5
+ci tcase -NA-
+ci fuel 17 1/2
+ci rdiff 3.5
+ci trans 3
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.78
+ci diff Hypoid
+ci ftred 58
+ci length 198.5
+ci rtred 56
+ci width 75.9
+ci wbase 115.5
+ci height 61
+ci cyl 8
+ci comp 7.6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci bhp 162@4400
+ci b&s 3 5/8 & 3 19/64
+ci etype Helical
+ci disp 272.21
+ci etype Dual downdraft
+ci trq 258@2200
+ci engno Starting U5-100001
+ci etype V8 Valve-in-head
+ci rhp 42.05
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci exha Single
+ci batt 6
+ci cool 19 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 3.13
+ci 1gear 2.57
+ci 2gear 1.63
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3378, (\w)5(\w)G([\dX]{6})
+clv 12188, 1955, Ford, Mainline 8, Fordor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Mainline 8
+ci make Ford
+ci origin United States
+ci msrp $2112.00
+ci prod 41794
+ci year 1955
+ci model 73A
+ci maker Ford
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 17 1/2
+ci rdiff 3.5
+ci tcase -NA-
+ci trans 3
+ci oil 5
+ci carb Holley or Ford
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.78
+ci height 61
+ci wbase 115.5
+ci length 198.5
+ci rtred 56
+ci ftred 58
+ci width 75.9
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 162@4400
+ci comp 7.6
+ci mbear 5
+ci rhp 42.05
+ci cyl 8
+ci vlift Mechanical
+ci trq 258@2200
+ci etype Dual downdraft
+ci disp 272.21
+ci engno Starting U5-100001
+ci etype Helical
+ci b&s 3 5/8 & 3 19/64
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 19 Quarts
+ci ftype Regular
+ci batt 6
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci rev 3.13
+ci 5gear Not applicable
+ci 1gear 2.57
+ci 2gear 1.63
+ci 3gear 1
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 3379, (\w)5(\w)b([\dX]{6})
+clv 12189, 1955, Ford, Mainline 8, Tudor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Mainline 8
+ci origin United States
+ci make Ford
+ci year 1955
+ci msrp $2066.00
+ci prod 76698
+ci model 70A
+ci doors 2
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci oil 5
+ci tcase -NA-
+ci fuel 17 1/2
+ci rdiff 3.5
+ci trans 3
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.78
+ci diff Hypoid
+ci ftred 58
+ci length 198.5
+ci rtred 56
+ci width 75.9
+ci wbase 115.5
+ci height 61
+ci b&s 3 5/8 & 3 19/64
+ci comp 7.6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci bhp 162@4400
+ci cyl 8
+ci etype Helical
+ci disp 272.21
+ci etype Dual downdraft
+ci trq 258@2200
+ci engno Starting U5-100001
+ci etype V8 Valve-in-head
+ci rhp 42.05
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci exha Single
+ci batt 6
+ci cool 19 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci rev 3.13
+ci 1gear 2.57
+ci 2gear 1.63
+ci 5gear Not applicable
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3380, (\w)5(\w)X([\dX]{6})
+clv 12190, 1955, Ford, Station Wagon 6, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2446.00
+ci series Station Wagon 6
+ci year 1955
+ci prod 53075
+ci origin United States
+ci make Ford
+ci model 79D
+ci maker Ford
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci oil 4
+ci fuel 17 1/2
+ci rdiff 3.5
+ci trans 3
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.89
+ci diff Hypoid
+ci rtred 56
+ci wbase 115.5
+ci length 197.6
+ci ftred 58
+ci width 75.9
+ci height 62.2
+ci mbear 4
+ci comp 7.5
+ci trq 195@2400
+ci b&s 3 5/8 & 3 39/64
+ci engno Starting A5-100001
+ci block Cast Iron
+ci vlift Mechanical
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 120@4000
+ci etype In line Valve-in-head
+ci disp 223.5
+ci etype Helical
+ci etype Single downdraft
+ci rhp 31.54
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci ftype Regular
+ci rad Fin and tube
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci batt 6
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci rev 3.36
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.62
+ci gears 3
+ci 1gear 2.78
+ci vloc Plate on left front door pillar post.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3381, (\w)5(\w)X([\dX]{6})
+clv 12191, 1955, Ford, Station Wagon 6, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci year 1955
+ci series Station Wagon 6
+ci prod 53209
+ci origin United States
+ci make Ford
+ci msrp $2577.00
+ci pass 8
+ci model 79B
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci rdiff 3.5
+ci trans 3
+ci fuel 17 1/2
+ci oil 4
+ci carb Holley or Ford
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.89
+ci width 75.9
+ci rtred 56
+ci ftred 58
+ci wbase 115.5
+ci length 197.6
+ci height 62.2
+ci trq 195@2400
+ci b&s 3 5/8 & 3 39/64
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 7.5
+ci mbear 4
+ci block Cast Iron
+ci engno Starting A5-100001
+ci etype Helical
+ci etype In line Valve-in-head
+ci rhp 31.54
+ci bhp 120@4000
+ci etype Single downdraft
+ci disp 223.5
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 15 Quarts
+ci batt 6
+ci rad Fin and tube
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci rev 3.36
+ci 3gear 1
+ci gears 3
+ci 2gear 1.62
+ci drive Rear wheel drive
+ci 1gear 2.78
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 3382, (\w)5(\w)Y([\dX]{6})
+clv 12192, 1955, Ford, Station Wagon 6, Country Squire
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Station Wagon 6
+ci origin United States
+ci msrp $2682.00
+ci year 1955
+ci prod 19011
+ci model 79C
+ci maker Ford
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci fuel 17 1/2
+ci tcase -NA-
+ci oil 4
+ci rdiff 3.5
+ci trans 3
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.89
+ci length 197.6
+ci width 75.9
+ci wbase 115.5
+ci ftred 58
+ci height 62.2
+ci rtred 56
+ci comp 7.5
+ci vlift Mechanical
+ci disp 223.5
+ci etype Single downdraft
+ci engno Starting A5-100001
+ci etype Helical
+ci mbear 4
+ci etype In line Valve-in-head
+ci rhp 31.54
+ci bhp 120@4000
+ci b&s 3 5/8 & 3 39/64
+ci trq 195@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci exha Single
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci batt 6
+ci cool 15 Quarts
+ci cool Centrifugal pump with thermostat
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.36
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 2.78
+ci 3gear 1
+ci gears 3
+ci 2gear 1.62
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 3383, (\w)5(\w)R([\dX]{6})
+clv 12193, 1955, Ford, Station Wagon 6, Custom Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci prod 43671
+ci series Station Wagon 6
+ci origin United States
+ci msrp $2384.00
+ci year 1955
+ci make Ford
+ci doors 2
+ci maker Ford
+ci model 59B
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci fuel 17 1/2
+ci rdiff 3.5
+ci oil 4
+ci trans 3
+ci carb Holley or Ford
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.89
+ci height 62.2
+ci wbase 115.5
+ci rtred 56
+ci ftred 58
+ci length 197.6
+ci width 75.9
+ci trq 195@2400
+ci etype Single downdraft
+ci comp 7.5
+ci mbear 4
+ci rhp 31.54
+ci block Cast Iron
+ci vlift Mechanical
+ci lube Pressure to all bearings excluding wrist pin
+ci etype In line Valve-in-head
+ci disp 223.5
+ci engno Starting A5-100001
+ci etype Helical
+ci bhp 120@4000
+ci b&s 3 5/8 & 3 39/64
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci ftype Regular
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci batt 6
+ci exha Single
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.78
+ci gears 3
+ci 2gear 1.62
+ci rev 3.36
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 3384, (\w)5(\w)R([\dX]{6})
+clv 12194, 1955, Ford, Station Wagon 6, Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci prod 40493
+ci series Station Wagon 6
+ci origin United States
+ci msrp $2288.00
+ci year 1955
+ci make Ford
+ci doors 2
+ci maker Ford
+ci model 59A
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci fuel 17 1/2
+ci rdiff 3.5
+ci oil 4
+ci trans 3
+ci carb Holley or Ford
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.89
+ci height 62.2
+ci wbase 115.5
+ci rtred 56
+ci ftred 58
+ci length 197.6
+ci width 75.9
+ci trq 195@2400
+ci cyl 6
+ci comp 7.5
+ci mbear 4
+ci rhp 31.54
+ci block Cast Iron
+ci etype Single downdraft
+ci vlift Mechanical
+ci lube Pressure to all bearings excluding wrist pin
+ci etype In line Valve-in-head
+ci engno Starting A5-100001
+ci bhp 120@4000
+ci disp 223.5
+ci etype Helical
+ci b&s 3 5/8 & 3 39/64
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci ftype Regular
+ci cool 15 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.78
+ci gears 3
+ci 2gear 1.62
+ci rev 3.36
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 3385, (\w)5(\w)X([\dX]{6})
+clv 12195, 1955, Ford, Station Wagon 8, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 53075
+ci series Station Wagon 8
+ci origin United States
+ci make Ford
+ci msrp $2567.00
+ci year 1955
+ci doors 4
+ci model 79D
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 5
+ci trans 3
+ci fuel 17 1/2
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.78
+ci height 62.2
+ci wbase 115.5
+ci length 197.6
+ci rtred 56
+ci ftred 58
+ci width 75.9
+ci b&s 3 5/8 & 3 19/64
+ci vlift Mechanical
+ci comp 7.6
+ci mbear 5
+ci rhp 42.05
+ci cyl 8
+ci disp 272.21
+ci engno Starting U5-100001
+ci etype Dual downdraft
+ci etype Helical
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Valve-in-head
+ci bhp 162@4400
+ci trq 258@2200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 6
+ci rad Fin and tube
+ci cool 19 Quarts
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.57
+ci rev 3.13
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.63
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 3386, (\w)5(\w)X([\dX]{6})
+clv 12196, 1955, Ford, Station Wagon 8, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 53209
+ci series Station Wagon 8
+ci origin United States
+ci make Ford
+ci msrp $2698.00
+ci year 1955
+ci doors 4
+ci model 79B
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 5
+ci trans 3
+ci fuel 17 1/2
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.78
+ci height 62.2
+ci wbase 115.5
+ci length 197.6
+ci rtred 56
+ci ftred 58
+ci width 75.9
+ci b&s 3 5/8 & 3 19/64
+ci vlift Mechanical
+ci comp 7.6
+ci mbear 5
+ci rhp 42.05
+ci cyl 8
+ci disp 272.21
+ci engno Starting U5-100001
+ci etype Dual downdraft
+ci etype Helical
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Valve-in-head
+ci bhp 162@4400
+ci trq 258@2200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 6
+ci rad Fin and tube
+ci cool 19 Quarts
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.57
+ci rev 3.13
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.63
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 3387, (\w)5(\w)Y([\dX]{6})
+clv 12197, 1955, Ford, Station Wagon 8, Country Squire
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2802.00
+ci origin United States
+ci make Ford
+ci year 1955
+ci prod 19011
+ci series Station Wagon 8
+ci doors 4
+ci maker Ford
+ci model 79C
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 3
+ci tcase -NA-
+ci fuel 17 1/2
+ci rdiff 3.5
+ci oil 5
+ci carb Holley or Ford
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.78
+ci diff Hypoid
+ci wbase 115.5
+ci length 197.6
+ci width 75.9
+ci rtred 56
+ci ftred 58
+ci height 62.2
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Starting U5-100001
+ci comp 7.6
+ci trq 258@2200
+ci mbear 5
+ci cyl 8
+ci rhp 42.05
+ci etype Helical
+ci etype Dual downdraft
+ci disp 272.21
+ci b&s 3 5/8 & 3 19/64
+ci etype V8 Valve-in-head
+ci bhp 162@4400
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 19 Quarts
+ci batt 6
+ci rad Fin and tube
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci rev 3.13
+ci 3gear 1
+ci gears 3
+ci 2gear 1.63
+ci drive Rear wheel drive
+ci 1gear 2.57
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 3388, (\w)5(\w)R([\dX]{6})
+clv 12198, 1955, Ford, Station Wagon 8, Custom Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci series Station Wagon 8
+ci origin United States
+ci make Ford
+ci msrp $2505.00
+ci year 1955
+ci prod 43671
+ci doors 2
+ci model 59B
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 17 1/2
+ci tcase -NA-
+ci oil 5
+ci trans 3
+ci rdiff 3.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.78
+ci diff Hypoid
+ci rtred 56
+ci length 197.6
+ci wbase 115.5
+ci height 62.2
+ci ftred 58
+ci width 75.9
+ci b&s 3 5/8 & 3 19/64
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 162@4400
+ci comp 7.6
+ci rhp 42.05
+ci cyl 8
+ci disp 272.21
+ci etype Helical
+ci etype Dual downdraft
+ci trq 258@2200
+ci engno Starting U5-100001
+ci etype V8 Valve-in-head
+ci mbear 5
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 19 Quarts
+ci batt 6
+ci rad Fin and tube
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci rev 3.13
+ci 3gear 1
+ci gears 3
+ci 2gear 1.63
+ci drive Rear wheel drive
+ci 1gear 2.57
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 3389, (\w)5(\w)R([\dX]{6})
+clv 12199, 1955, Ford, Station Wagon 8, Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci series Station Wagon 8
+ci origin United States
+ci make Ford
+ci msrp $2409.00
+ci year 1955
+ci prod 40493
+ci doors 2
+ci model 59A
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 17 1/2
+ci tcase -NA-
+ci oil 5
+ci trans 3
+ci rdiff 3.5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.78
+ci diff Hypoid
+ci rtred 56
+ci length 197.6
+ci wbase 115.5
+ci height 62.2
+ci ftred 58
+ci width 75.9
+ci b&s 3 5/8 & 3 19/64
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 162@4400
+ci comp 7.6
+ci rhp 42.05
+ci cyl 8
+ci disp 272.21
+ci etype Helical
+ci etype Dual downdraft
+ci trq 258@2200
+ci engno Starting U5-100001
+ci etype V8 Valve-in-head
+ci mbear 5
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci cool 19 Quarts
+ci batt 6
+ci rad Fin and tube
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci rev 3.13
+ci 3gear 1
+ci gears 3
+ci 2gear 1.63
+ci drive Rear wheel drive
+ci 1gear 2.57
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 3390, (\w)5(\w)H([\dX]{6})
+clv 12200, 1955, Ford, Thunderbird, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci year 1955
+ci origin United States
+ci series Thunderbird
+ci prod 16155
+ci make Ford
+ci model 40A
+ci maker Ford
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci oil 5
+ci tcase -NA-
+ci rdiff 3
+ci fuel 17 1/2
+ci ctype Single plate dry disc
+ci csize 11.1 inches
+ci diff Hypoid
+ci diffr 3.73
+ci width 70.3
+ci wbase 102
+ci length 175.3
+ci rtred 56
+ci height 50.2
+ci comp 8.1
+ci mbear 5
+ci etype V8 Valve-in-head
+ci rhp 45
+ci b&s 3 3/4 & 3 19/64
+ci cyl 8
+ci englo On engine side of dash under hood.
+ci block Cast Iron
+ci bhp 193@4400
+ci vlift Mechanical
+ci etype Downdraft 4-barrel
+ci trq 280@2600
+ci etype Helical
+ci engno Starting 40A-100001
+ci disp 291.3
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci ftype Regular
+ci cool 20 Quarts
+ci rad Fin and tube
+ci batt 6
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.48
+ci 1gear 2.32
+ci rev 2.82
+ci gears 3
+ci vloc On dash panel under hood.
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 3391, (\w)5(\w)H([\dX]{6})
+clv 12201, 1955, Ford, Thunderbird, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci series Thunderbird
+ci origin United States
+ci year 1955
+ci make Ford
+ci doors 2
+ci maker Ford
+ci model 40B
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 17 1/2
+ci rdiff 3
+ci tcase -NA-
+ci oil 5
+ci csize 11.1 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.73
+ci width 70.3
+ci wbase 102
+ci length 175.3
+ci rtred 56
+ci height 50.2
+ci comp 8.1
+ci mbear 5
+ci etype V8 Valve-in-head
+ci rhp 45
+ci b&s 3 3/4 & 3 19/64
+ci cyl 8
+ci englo On engine side of dash under hood.
+ci block Cast Iron
+ci bhp 193@4400
+ci vlift Mechanical
+ci etype Downdraft 4-barrel
+ci trq 280@2600
+ci etype Helical
+ci engno Starting 40B-100001
+ci disp 291.3
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquatone Blue
+co Aquatone Blue & Snowshoe White
+co Aquatone Blue & Waterfall Blue
+co Banner Blue Metallic
+co Banner Blue Metallic & Waterfall Blue
+co Buckskin Brown
+co Buckskin Brown & Snowshoe White
+co Coral Mist
+co Enamel
+co Golden Rod Yellow
+co Mountain Green
+co Neptune Green
+co Pinetree Green Metallic
+co Pinetree Green Metallic & Neptune Green
+co Raven Black
+co Raven Black & Goldenrod Yellow
+co Regatta Blue
+co Regency Purple Metallic
+co Sea Haze Green
+co Sea Sprite Green
+co Sea Sprite Green & Snowshoe White
+co Snowshoe White
+co Snowshoe White & Aquatone Blue
+co Snowshoe White & Buckskin Brown
+co Snowshoe White & Goldenrod Yellow
+co Snowshoe White & Raven Black
+co Snowshoe White & Regency Purple Metallic
+co Snowshoe White & Torch Red
+co Snowshoe White & Tropical Rose
+co SnowshoeWwhite & Sea Sprite Green
+co Torch Red & Snowshoe White
+co Tropical Rose
+co Tropical Rose & Snowshoe White
+co Two Tone Colors Available
+co Viking Blue
+co Waterfall Blue
+ci ftype Regular
+ci cool 20 Quarts
+ci rad Fin and tube
+ci batt 6
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.48
+ci 1gear 2.32
+ci rev 2.82
+ci gears 3
+ci vloc On dash panel under hood.
+ci tsize 6.7 x 15
+ci sloc Trunk

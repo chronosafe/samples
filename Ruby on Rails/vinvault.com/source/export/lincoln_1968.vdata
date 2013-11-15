@@ -1,0 +1,253 @@
+cls 4246, 8(\w)89(\w)([\dX]{6})
+clv 17414, 1968, Lincoln, Continental Mark III, Hardtop
+ci axle Semifloating
+ci series Continental Mark III
+ci make Lincoln
+ci year 1968
+ci origin United States
+ci prod 7770
+ci model 65A
+ci doors 2
+ci maker Lincoln
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci fbsize 11 23/32
+ci bsize 11 1/32
+ci rdiff 5
+ci tcase -NA-
+ci oil 4.5
+ci trans 26
+ci fuel 25.5
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.8
+ci diff Hypoid
+ci rtred 62
+ci wbase 117.2
+ci bhp 340@4600
+ci trq 485@2800
+ci disp 462
+ci etype Own V8 Overhead valve
+ci b&s 4.38 & 3.83
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci block Special alloy iron
+ci etype Turbo Drive
+ci etype Downdraft 4-barrel
+ci rhp 61.39
+ci vlift Hydraulic
+ci mbear 5
+ci comp 10.3
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Dual
+ci ign Distributor and coil
+ci rad Corrugated fin and tube
+ci ftype Premium
+ci cool 19.4 Quarts
+ci equip Power Control Panel on Driver's door
+ci equip Power Radio Antenna
+ci equip Power Side Windows w/ Driver's Lock
+ci equip 2 way Power Seat
+ci equip Speed control device
+ci equip Automatic Temperature Control (a/c)
+ci sgear Integral power
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 9.15 x 15
+cls 4247, 8(\w)81(\w)([\dX]{6})
+clv 17415, 1968, Lincoln, Continental, Coupe
+ci axle Semifloating
+ci make Lincoln
+ci year 1968
+ci msrp $5736.00
+ci series Continental
+ci prod 9415
+ci origin United States
+ci doors 2
+ci model 65A
+ci maker Lincoln
+ci weight 4883
+ci bsize 11.09
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.9
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 23.5
+ci tcase -NA-
+ci trans 26
+ci oil 6
+ci rdiff 5.5
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.8
+ci diff Hypoid
+ci wbase 126
+ci rtred 61
+ci length 221
+ci width 79.7
+ci height 54.2
+ci ftred 62.1
+ci comp 10.3
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci rhp 61.39
+ci mbear 5
+ci trq 485@2800
+ci disp 462
+ci b&s 4.38 & 3.83
+ci bhp 340@4600
+ci vlift Hydraulic
+ci block Special alloy iron
+ci etype Turbo Drive
+ci etype Downdraft 4-barrel
+ci etype Own V8 Overhead valve
+ci color Exterior Colors
+co Admiralty Blue Metallic
+co All colors may not be available in all models.
+co Antique Beige Metallic
+co Arctic White #2
+co Ascot Gray Metallic
+co Belmont Green
+co Black Satin
+co Cameo Green
+co Champagne Metallic
+co Chancery Gold Metallic
+co Cranberry
+co Daulton Blue
+co Desert Sand
+co Eton Gray Metallic
+co Foxcroft Silver Metallic
+co Grenoble Green Metallic
+co Huron Blue #3 Metallic
+co Mediterranean Metallic
+co Mikado Yellow
+co Platinum #2
+co Royal Burgandy
+co Teal #2 Metallic
+ci ftype Premium
+ci ign Distributor and coil
+ci cool 23.5 Quarts
+ci exha Dual
+ci rad Corrugated fin and tube
+ci cool Centrifugal water  pump
+ci batt 12
+ci equip AutomaticSpeed Control
+ci equip Air Conditioner
+ci equip Automatic Temperature Control (a/c)
+ci equip Power Door Locks
+ci equip Power Vent Windows
+ci equip Automatic Ride Leveler
+ci equip Bench Seat - 6 Way Power
+ci equip Tilt Steering Wheel
+ci equip Rear Window Defogger
+ci equip Stereo-Sonic Tape system
+ci equip Six-Way Power Seat (Bench)
+ci equip Remote Control Deck-Lid Release
+ci sgear Integral power
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 9.15 x 15
+cls 4248, 8(\w)82(\w)([\dX]{6})
+clv 17416, 1968, Lincoln, Continental, Sedan
+ci axle Semifloating
+ci series Continental
+ci make Lincoln
+ci msrp $5970.00
+ci year 1968
+ci prod 29719
+ci origin United States
+ci model 53A
+ci weight 4978
+ci maker Lincoln
+ci doors 4
+ci bsize 11.09
+ci fbsize 11.9
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci trans 26
+ci fuel 23.5
+ci tcase -NA-
+ci rdiff 5.5
+ci oil 6
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.8
+ci diff Hypoid
+ci wbase 126
+ci rtred 61
+ci length 221
+ci ftred 62.1
+ci width 79.7
+ci height 54.9
+ci trq 485@2800
+ci etype Turbo Drive
+ci cyl 8
+ci block Special alloy iron
+ci comp 10.3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Own V8 Overhead valve
+ci rhp 61.39
+ci vlift Hydraulic
+ci mbear 5
+ci b&s 4.38 & 3.83
+ci disp 462
+ci etype Downdraft 4-barrel
+ci bhp 340@4600
+ci color Exterior Colors
+co Admiralty Blue Metallic
+co All colors may not be available in all models.
+co Antique Beige Metallic
+co Arctic White #2
+co Ascot Gray Metallic
+co Belmont Green
+co Black Satin
+co Cameo Green
+co Champagne Metallic
+co Chancery Gold Metallic
+co Cranberry
+co Daulton Blue
+co Desert Sand
+co Eton Gray Metallic
+co Foxcroft Silver Metallic
+co Grenoble Green Metallic
+co Huron Blue #3 Metallic
+co Mediterranean Metallic
+co Mikado Yellow
+co Platinum #2
+co Royal Burgandy
+co Teal #2 Metallic
+ci exha Dual
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 23.5 Quarts
+ci ign Distributor and coil
+ci rad Corrugated fin and tube
+ci ftype Premium
+ci equip Remote Control Deck-Lid Release
+ci equip Air Conditioner
+ci equip Bench Seat - 6 Way Power
+ci equip Power Door Locks
+ci equip Power Vent Windows
+ci equip Automatic Ride Leveler
+ci equip Six-Way Power Seat (Bench)
+ci equip Automatic Temperature Control (a/c)
+ci equip Rear Window Defogger
+ci equip Tilt Steering Wheel
+ci equip Stereo-Sonic Tape system
+ci equip AutomaticSpeed Control
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 9.15 x 15

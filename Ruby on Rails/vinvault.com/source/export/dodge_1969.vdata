@@ -1,0 +1,5457 @@
+cls 2959, XX29(\w)9(\w)([\dX]{6})
+clv 9863, 1969, Dodge, Charger 500, Hardtop
+ci axle Semifloating
+ci year 1969
+ci msrp $3592.00
+ci origin United States
+ci prod 500
+ci series Charger 500
+ci make Dodge
+ci maker Dodge
+ci doors 2
+ci model XX29
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Heavy-duty manually adjusted
+ci tcase -NA-
+ci trans Pints
+ci rdiff 5.5
+ci fuel 19
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci wbase 117
+ci length 208
+ci height 54.8
+ci width 76.7
+ci rtred 59.2
+ci ftred 59.9
+ci cyl 8
+ci rhp 57.8
+ci etype V8 Hemi
+ci bhp 425@5000
+ci b&s 4.25 & 3.75
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.25
+ci trq 490@5000
+ci etype Downdraft 4-barrel
+ci disp 426
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci color Exterior Colors
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Red
+co Bright Turquoise Metallic
+co Bronze Fire Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci ftype Premium
+ci exha Dual
+ci cool Water pump
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci cool 18 Quarts
+ci batt 12
+ci equip Torque Flite automatic transmission
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci 3gear 1.39
+ci rev 2.58
+ci gears 4
+ci 2gear 1.91
+ci 1gear 2.66
+ci 4gear 1
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 2960, XP29(\w)9(\w)([\dX]{6})
+clv 9864, 1969, Dodge, Charger 6, Hardtop
+ci axle Semifloating
+ci make Dodge
+ci msrp $3003.00
+ci year 1969
+ci prod 542
+ci origin United States
+ci series Charger 6
+ci maker Dodge
+ci weight 3131
+ci doors 2
+ci model XP29
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 10
+ci rdiff 2
+ci trans 6.5
+ci tcase -NA-
+ci oil 4
+ci fuel 19
+ci carb Carter
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci height 54.8
+ci width 76.7
+ci rtred 59.2
+ci length 208
+ci wbase 117
+ci ftred 59.5
+ci cyl 6
+ci bhp 145@4000
+ci comp 8.4
+ci mbear 4
+ci etype Single downdraft
+ci b&s 3 13/32 & 4 1/8
+ci block Cast Iron
+ci rhp 27.85
+ci vlift Mechanical
+ci disp 225.54
+ci trq 215@2400
+ci etype Slant 6  overhead valve
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci cool 12 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ftype Regular
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 3.8
+ci gears 3
+ci 1gear 2.95
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.83
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 2961, XS29(\w)9(\w)([\dX]{6})
+clv 9865, 1969, Dodge, Charger R/T, Hardtop
+ci axle Semifloating
+ci series Charger R/T
+ci msrp $3575.00
+ci prod 19298
+ci make Dodge
+ci origin United States
+ci year 1969
+ci weight 3527
+ci maker Dodge
+ci doors 2
+ci model XS29
+ci bsize 11
+ci svc Heavy-duty manually adjusted
+ci ebrake Rear service brakes
+ci trans 18.5
+ci rdiff 5.5
+ci fuel 19
+ci oil 4
+ci tcase -NA-
+ci carb Carter
+ci ctype Not applicable
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 59.2
+ci height 54.8
+ci ftred 59.9
+ci width 76.7
+ci wbase 117
+ci length 208
+ci etype Torqueflite automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci b&s 4.32 & 3 3/4
+ci bhp 375@4600
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci disp 440
+ci vlift Hydraulic
+ci trq 480@3200
+ci comp 10.1
+ci rhp 59.7
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci ftype Premium
+ci exha Dual
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci cool 17 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Power steering
+ci equip Speed control device
+ci equip Radio
+ci equip 426 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Conventional manual transmission
+ci equip Air conditioning
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F70 x 14
+cls 2962, XP29(\w)9(\w)([\dX]{6})
+clv 9866, 1969, Dodge, Charger V8, Hardtop
+ci axle Semifloating
+ci year 1969
+ci msrp $3109.00
+ci origin United States
+ci prod 65840
+ci make Dodge
+ci series Charger V8
+ci maker Dodge
+ci doors 2
+ci model XP29
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci fuel 19
+ci rdiff 4
+ci trans 6
+ci tcase -NA-
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 2.94
+ci diff Hypoid
+ci wbase 117
+ci width 76.7
+ci length 208
+ci height 54.8
+ci rtred 59.2
+ci ftred 59.5
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 29/32 & 3 5/16
+ci rhp 48.83
+ci cyl 8
+ci comp 9.2
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci block Cast Iron
+ci bhp 230@4400
+ci disp 317.58
+ci mbear 5
+ci trq 340@2400
+ci etype Synchronous in 2nd & 3rd
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci cool 15 Quarts
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip Torque Flite automatic transmission
+ci equip Radio
+ci equip 383 cu. in. V8 engine
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip 426 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci rev 3.95
+ci 3gear 1
+ci gears 3
+ci 1gear 3.02
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.76
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2963, WP27(\w)9(\w)([\dX]{6})
+clv 9867, 1969, Dodge, Coronet 500 V8, Convertible
+ci axle Semifloating
+ci series Coronet 500 V8
+ci make Dodge
+ci msrp $3052.00
+ci prod 32100
+ci origin United States
+ci year 1969
+ci doors 2
+ci model WP27
+ci weight 3260
+ci maker Dodge
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci oil 4
+ci trans 6
+ci fuel 19
+ci tcase -NA-
+ci rdiff 4
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 2.94
+ci wbase 117
+ci width 76.7
+ci length 206.6
+ci ftred 59.5
+ci height 54.8
+ci rtred 59.2
+ci mbear 5
+ci rhp 48.83
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Synchronous in 2nd & 3rd
+ci cyl 8
+ci comp 9.2
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci block Cast Iron
+ci b&s 3 29/32 & 3 5/16
+ci bhp 230@4400
+ci etype V8 overhead valve
+ci trq 340@2400
+ci disp 317.58
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 383 cu. in. V8 engine
+ci equip Radio
+ci equip Torque Flite automatic transmission
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip 426 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci rev 3.95
+ci 2gear 1.76
+ci drive Rear wheel drive
+ci 1gear 3.02
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2964, WP23(\w)9(\w)([\dX]{6})
+clv 9868, 1969, Dodge, Coronet 500 V8, Hardtop
+ci axle Semifloating
+ci series Coronet 500 V8
+ci origin United States
+ci prod 32100
+ci msrp $2912.00
+ci make Dodge
+ci year 1969
+ci weight 3150
+ci model WP23
+ci maker Dodge
+ci doors 2
+ci bsize 10
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci fuel 19
+ci tcase -NA-
+ci oil 4
+ci rdiff 4
+ci trans 6
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci wbase 117
+ci width 76.7
+ci length 206.6
+ci ftred 59.5
+ci height 54.8
+ci rtred 59.2
+ci b&s 3 29/32 & 3 5/16
+ci mbear 5
+ci rhp 48.83
+ci etype Synchronous in 2nd & 3rd
+ci cyl 8
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci block Cast Iron
+ci bhp 230@4400
+ci etype Dual downdraft
+ci trq 340@2400
+ci disp 317.58
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci cool Water pump
+ci equip 426 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip 383 cu. in. V8 engine
+ci equip Torque Flite automatic transmission
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci rev 3.95
+ci 2gear 1.76
+ci 1gear 3.02
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2965, WP41(\w)9(\w)([\dX]{6})
+clv 9869, 1969, Dodge, Coronet 500 V8, Sedan
+ci axle Semifloating
+ci series Coronet 500 V8
+ci origin United States
+ci prod 32100
+ci msrp $2946.00
+ci make Dodge
+ci year 1969
+ci weight 3210
+ci doors 4
+ci maker Dodge
+ci model WP41
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 6
+ci tcase -NA-
+ci rdiff 4
+ci fuel 19
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci wbase 117
+ci width 76.7
+ci length 206.6
+ci ftred 59.5
+ci height 54.8
+ci rtred 59.2
+ci b&s 3 29/32 & 3 5/16
+ci mbear 5
+ci rhp 48.83
+ci etype Synchronous in 2nd & 3rd
+ci cyl 8
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 317.58
+ci block Cast Iron
+ci bhp 230@4400
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci trq 340@2400
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci cool Water pump
+ci equip 426 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip 383 cu. in. V8 engine
+ci equip Torque Flite automatic transmission
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci rev 3.95
+ci 2gear 1.76
+ci 1gear 3.02
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2966, WP45(\w)9(\w)([\dX]{6})
+clv 9870, 1969, Dodge, Coronet 500 V8, Station Wagon 2-seat
+ci axle Semifloating
+ci prod 32100
+ci series Coronet 500 V8
+ci make Dodge
+ci msrp $3263.00
+ci year 1969
+ci origin United States
+ci doors 4
+ci maker Dodge
+ci model WP45
+ci pass 6
+ci weight 3596
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci oil 4
+ci tcase -NA-
+ci rdiff 4
+ci trans 6
+ci fuel 19
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci width 76.7
+ci length 210
+ci wbase 117
+ci height 54.8
+ci rtred 59.2
+ci ftred 59.5
+ci trq 340@2400
+ci bhp 230@4400
+ci mbear 5
+ci b&s 3 29/32 & 3 5/16
+ci cyl 8
+ci comp 9.2
+ci vlift Hydraulic
+ci disp 317.58
+ci block Cast Iron
+ci etype V8 overhead valve
+ci etype Synchronous in 2nd & 3rd
+ci etype Dual downdraft
+ci rhp 48.83
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 383 cu. in. V8 engine
+ci equip Radio
+ci equip Torque Flite automatic transmission
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip 426 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci rev 3.95
+ci 2gear 1.76
+ci drive Rear wheel drive
+ci 1gear 3.02
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2967, WP46(\w)9(\w)([\dX]{6})
+clv 9871, 1969, Dodge, Coronet 500 V8, Station Wagon 3-seat
+ci axle Semifloating
+ci prod 32100
+ci series Coronet 500 V8
+ci make Dodge
+ci msrp $3375.00
+ci year 1969
+ci origin United States
+ci doors 4
+ci maker Dodge
+ci model WP46
+ci pass 9
+ci weight 3666
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci oil 4
+ci tcase -NA-
+ci rdiff 4
+ci trans 6
+ci fuel 19
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 2.94
+ci diff Hypoid
+ci length 210
+ci wbase 117
+ci width 76.7
+ci height 54.8
+ci rtred 59.2
+ci ftred 59.5
+ci trq 340@2400
+ci bhp 230@4400
+ci mbear 5
+ci cyl 8
+ci b&s 3 29/32 & 3 5/16
+ci comp 9.2
+ci vlift Hydraulic
+ci disp 317.58
+ci block Cast Iron
+ci etype V8 overhead valve
+ci etype Synchronous in 2nd & 3rd
+ci etype Dual downdraft
+ci rhp 48.83
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 383 cu. in. V8 engine
+ci equip Radio
+ci equip Torque Flite automatic transmission
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip 426 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci rev 3.95
+ci 2gear 1.76
+ci drive Rear wheel drive
+ci 1gear 3.02
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2968, WH21(\w)9(\w)([\dX]{6})
+clv 9872, 1969, Dodge, Coronet 6-440, Coupe
+ci axle Semifloating
+ci msrp $2613.00
+ci origin United States
+ci year 1969
+ci make Dodge
+ci prod 4700
+ci series Coronet 6-440
+ci doors 2
+ci maker Dodge
+ci model WH21
+ci weight 3011
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 10
+ci trans 6.5
+ci tcase -NA-
+ci rdiff 2
+ci fuel 19
+ci oil 4
+ci carb Holley
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diff Hypoid
+ci diffr 3.23
+ci width 76.7
+ci height 54.8
+ci rtred 58.5
+ci length 206.6
+ci wbase 117
+ci ftred 59.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci comp 8.4
+ci mbear 4
+ci disp 225.54
+ci block Cast Iron
+ci etype Slant 6  overhead valve
+ci vlift Mechanical
+ci cyl 6
+ci rhp 27.85
+ci etype Single downdraft
+ci bhp 145@4000
+ci trq 215@2400
+ci b&s 3 13/32 & 4 1/8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci cool Water pump
+ci batt 12
+ci cool 13 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Power windows
+ci equip Torque Flite automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 3.8
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.83
+ci gears 3
+ci 1gear 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 2969, WH23(\w)9(\w)([\dX]{6})
+clv 9873, 1969, Dodge, Coronet 6-440, Hardtop
+ci axle Semifloating
+ci msrp $2675.00
+ci origin United States
+ci year 1969
+ci make Dodge
+ci prod 4700
+ci series Coronet 6-440
+ci doors 2
+ci maker Dodge
+ci model WH23
+ci weight 3026
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 10
+ci trans 6.5
+ci tcase -NA-
+ci rdiff 2
+ci fuel 19
+ci oil 4
+ci carb Holley
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diff Hypoid
+ci diffr 3.23
+ci width 76.7
+ci height 54.8
+ci rtred 58.5
+ci length 206.6
+ci wbase 117
+ci ftred 59.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci comp 8.4
+ci mbear 4
+ci disp 225.54
+ci block Cast Iron
+ci etype Slant 6  overhead valve
+ci vlift Mechanical
+ci cyl 6
+ci rhp 27.85
+ci etype Single downdraft
+ci bhp 145@4000
+ci trq 215@2400
+ci b&s 3 13/32 & 4 1/8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci cool Water pump
+ci batt 12
+ci cool 13 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Power windows
+ci equip Torque Flite automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 3.8
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.83
+ci gears 3
+ci 1gear 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 2970, WH41(\w)9(\w)([\dX]{6})
+clv 9874, 1969, Dodge, Coronet 6-440, Sedan
+ci axle Semifloating
+ci prod 4700
+ci origin United States
+ci msrp $2653.00
+ci make Dodge
+ci series Coronet 6-440
+ci year 1969
+ci maker Dodge
+ci model WH41
+ci weight 3046
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 10
+ci oil 4
+ci rdiff 2
+ci tcase -NA-
+ci fuel 19
+ci trans 6.5
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 58.5
+ci height 54.8
+ci wbase 117
+ci ftred 59.5
+ci length 206.6
+ci width 76.7
+ci etype Fully synchronized
+ci cyl 6
+ci comp 8.4
+ci trq 215@2400
+ci etype Single downdraft
+ci block Cast Iron
+ci bhp 145@4000
+ci vlift Mechanical
+ci disp 225.54
+ci etype Slant 6  overhead valve
+ci rhp 27.85
+ci b&s 3 13/32 & 4 1/8
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci cool Water pump
+ci batt 12
+ci cool 13 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Power windows
+ci equip Torque Flite automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 3.8
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.83
+ci gears 3
+ci 1gear 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 2971, WH45(\w)9(\w)([\dX]{6})
+clv 9875, 1969, Dodge, Coronet 6-440, Station Wagon 2-seat
+ci axle Semifloating
+ci prod 4700
+ci origin United States
+ci msrp $3016.00
+ci make Dodge
+ci series Coronet 6-440
+ci year 1969
+ci maker Dodge
+ci model WH45
+ci weight 3522
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 10
+ci oil 4
+ci rdiff 2
+ci tcase -NA-
+ci fuel 19
+ci trans 6.5
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 58.5
+ci height 54.8
+ci wbase 117
+ci ftred 59.5
+ci length 210
+ci width 76.7
+ci etype Fully synchronized
+ci cyl 6
+ci comp 8.4
+ci trq 215@2400
+ci etype Single downdraft
+ci block Cast Iron
+ci bhp 145@4000
+ci vlift Mechanical
+ci disp 225.54
+ci etype Slant 6  overhead valve
+ci rhp 27.85
+ci b&s 3 13/32 & 4 1/8
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci cool Water pump
+ci batt 12
+ci cool 13 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Power windows
+ci equip Torque Flite automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 3.8
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.83
+ci gears 3
+ci 1gear 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2972, WH21(\w)9(\w)([\dX]{6})
+clv 9876, 1969, Dodge, Coronet 8-440, Coupe
+ci axle Semifloating
+ci series Coronet 8-440
+ci make Dodge
+ci origin United States
+ci msrp $2716.00
+ci prod 101200
+ci year 1969
+ci model WH21
+ci doors 2
+ci maker Dodge
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 10
+ci trans 6
+ci oil 4
+ci fuel 19
+ci tcase -NA-
+ci rdiff 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci width 76.7
+ci wbase 117
+ci length 206.6
+ci ftred 59.5
+ci height 54.8
+ci rtred 59.2
+ci mbear 5
+ci rhp 48.83
+ci trq 340@2400
+ci disp 317.58
+ci cyl 8
+ci comp 9.2
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci block Cast Iron
+ci bhp 230@4400
+ci etype Synchronous in 2nd & 3rd
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 383 cu. in. V8 engine
+ci equip Radio
+ci equip Torque Flite automatic transmission
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip 426 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci rev 3.95
+ci 2gear 1.76
+ci drive Rear wheel drive
+ci 1gear 3.02
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2973, WH23(\w)9(\w)([\dX]{6})
+clv 9877, 1969, Dodge, Coronet 8-440, Hardtop
+ci axle Semifloating
+ci series Coronet 8-440
+ci make Dodge
+ci origin United States
+ci msrp $2778.00
+ci prod 101200
+ci year 1969
+ci model WH23
+ci doors 2
+ci maker Dodge
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 10
+ci trans 6
+ci oil 4
+ci fuel 19
+ci tcase -NA-
+ci rdiff 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci width 76.7
+ci wbase 117
+ci length 206.6
+ci ftred 59.5
+ci height 54.8
+ci rtred 59.2
+ci mbear 5
+ci rhp 48.83
+ci trq 340@2400
+ci disp 317.58
+ci cyl 8
+ci comp 9.2
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci block Cast Iron
+ci bhp 230@4400
+ci etype Synchronous in 2nd & 3rd
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 383 cu. in. V8 engine
+ci equip Radio
+ci equip Torque Flite automatic transmission
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip 426 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci rev 3.95
+ci 2gear 1.76
+ci drive Rear wheel drive
+ci 1gear 3.02
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2974, WH41(\w)9(\w)([\dX]{6})
+clv 9878, 1969, Dodge, Coronet 8-440, Sedan
+ci axle Semifloating
+ci msrp $2756.00
+ci series Coronet 8-440
+ci make Dodge
+ci year 1969
+ci prod 101200
+ci origin United States
+ci doors 4
+ci maker Dodge
+ci model WH41
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci rdiff 4
+ci fuel 19
+ci oil 4
+ci tcase -NA-
+ci trans 6
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 2.94
+ci width 76.7
+ci length 206.6
+ci wbase 117
+ci ftred 59.5
+ci height 54.8
+ci rtred 59.2
+ci rhp 48.83
+ci mbear 5
+ci etype Dual downdraft
+ci trq 340@2400
+ci cyl 8
+ci comp 9.2
+ci vlift Hydraulic
+ci disp 317.58
+ci block Cast Iron
+ci etype V8 overhead valve
+ci b&s 3 29/32 & 3 5/16
+ci bhp 230@4400
+ci etype Synchronous in 2nd & 3rd
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 383 cu. in. V8 engine
+ci equip Radio
+ci equip Torque Flite automatic transmission
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip 426 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci rev 3.95
+ci 2gear 1.76
+ci drive Rear wheel drive
+ci 1gear 3.02
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2975, WH45(\w)9(\w)([\dX]{6})
+clv 9879, 1969, Dodge, Coronet 8-440, Station Wagon 2-seat
+ci axle Semifloating
+ci msrp $3119.00
+ci series Coronet 8-440
+ci make Dodge
+ci year 1969
+ci prod 101200
+ci origin United States
+ci doors 4
+ci maker Dodge
+ci pass 6
+ci model WH45
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 10
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci fuel 19
+ci trans 6
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci width 76.7
+ci wbase 117
+ci length 210
+ci height 54.8
+ci rtred 59.2
+ci ftred 59.5
+ci rhp 48.83
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 340@2400
+ci cyl 8
+ci comp 9.2
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci block Cast Iron
+ci etype V8 overhead valve
+ci b&s 3 29/32 & 3 5/16
+ci bhp 230@4400
+ci etype Synchronous in 2nd & 3rd
+ci disp 317.58
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 383 cu. in. V8 engine
+ci equip Radio
+ci equip Torque Flite automatic transmission
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip 426 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci rev 3.95
+ci 2gear 1.76
+ci drive Rear wheel drive
+ci 1gear 3.02
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2976, WL21(\w)9(\w)([\dX]{6})
+clv 9880, 1969, Dodge, Coronet Deluxe 6, Coupe
+ci axle Semifloating
+ci msrp $2537.00
+ci origin United States
+ci year 1969
+ci series Coronet Deluxe 6
+ci prod 12500
+ci make Dodge
+ci doors 2
+ci weight 3011
+ci model WL21
+ci maker Dodge
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 10
+ci oil 4
+ci trans 6.5
+ci tcase -NA-
+ci fuel 19
+ci rdiff 2
+ci carb Holley
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diff Hypoid
+ci diffr 3.23
+ci length 206.6
+ci wbase 117
+ci rtred 58.5
+ci ftred 59.5
+ci width 76.7
+ci height 54.8
+ci etype Single downdraft
+ci cyl 6
+ci comp 8.4
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci b&s 3 13/32 & 4 1/8
+ci vlift Mechanical
+ci etype Slant 6  overhead valve
+ci rhp 27.85
+ci etype Fully synchronized
+ci bhp 145@4000
+ci trq 215@2400
+ci disp 225.54
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tube and spacer
+ci cool 13 Quarts
+ci batt 12
+ci exha Single
+ci cool Water pump
+ci equip Power windows
+ci equip Power steering
+ci equip Torque Flite automatic transmission
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 3.8
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.95
+ci 3gear 1
+ci 2gear 1.83
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 2977, WL41(\w)9(\w)([\dX]{6})
+clv 9881, 1969, Dodge, Coronet Deluxe 6, Sedan
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci msrp $2572.00
+ci year 1969
+ci prod 12500
+ci series Coronet Deluxe 6
+ci model WL41
+ci maker Dodge
+ci weight 3046
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 10
+ci tcase -NA-
+ci fuel 19
+ci trans 6.5
+ci rdiff 2
+ci oil 4
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci width 76.7
+ci height 54.8
+ci rtred 58.5
+ci length 206.6
+ci wbase 117
+ci ftred 59.5
+ci etype Fully synchronized
+ci bhp 145@4000
+ci comp 8.4
+ci mbear 4
+ci disp 225.54
+ci block Cast Iron
+ci etype Slant 6  overhead valve
+ci vlift Mechanical
+ci cyl 6
+ci rhp 27.85
+ci etype Single downdraft
+ci b&s 3 13/32 & 4 1/8
+ci trq 215@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci cool Water pump
+ci batt 12
+ci cool 13 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Power windows
+ci equip Torque Flite automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 3.8
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.83
+ci gears 3
+ci 1gear 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 2978, WL45(\w)9(\w)([\dX]{6})
+clv 9882, 1969, Dodge, Coronet Deluxe 6, Station Wagon 2-seat
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci msrp $2905.00
+ci year 1969
+ci prod 12500
+ci series Coronet Deluxe 6
+ci model WL45
+ci maker Dodge
+ci weight 3517
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 10
+ci tcase -NA-
+ci fuel 19
+ci trans 6.5
+ci rdiff 2
+ci oil 4
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci width 76.7
+ci height 54.8
+ci rtred 58.5
+ci length 210
+ci wbase 117
+ci ftred 59.5
+ci etype Fully synchronized
+ci bhp 145@4000
+ci comp 8.4
+ci mbear 4
+ci disp 225.54
+ci block Cast Iron
+ci etype Slant 6  overhead valve
+ci vlift Mechanical
+ci cyl 6
+ci rhp 27.85
+ci etype Single downdraft
+ci b&s 3 13/32 & 4 1/8
+ci trq 215@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci cool Water pump
+ci batt 12
+ci cool 13 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Power windows
+ci equip Torque Flite automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 3.8
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.83
+ci gears 3
+ci 1gear 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2979, WL21(\w)9(\w)([\dX]{6})
+clv 9883, 1969, Dodge, Coronet Deluxe V8, Coupe
+ci axle Semifloating
+ci series Coronet Deluxe V8
+ci make Dodge
+ci prod 17900
+ci origin United States
+ci msrp $2640.00
+ci year 1969
+ci doors 2
+ci model WL21
+ci maker Dodge
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 10
+ci trans 6
+ci oil 4
+ci fuel 19
+ci tcase -NA-
+ci rdiff 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci width 76.7
+ci wbase 117
+ci length 206.6
+ci ftred 59.5
+ci height 54.8
+ci rtred 59.2
+ci mbear 5
+ci rhp 48.83
+ci trq 340@2400
+ci disp 317.58
+ci cyl 8
+ci comp 9.2
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci block Cast Iron
+ci bhp 230@4400
+ci etype Synchronous in 2nd & 3rd
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 383 cu. in. V8 engine
+ci equip Radio
+ci equip Torque Flite automatic transmission
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip 426 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci rev 3.95
+ci 2gear 1.76
+ci drive Rear wheel drive
+ci 1gear 3.02
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2980, WL41(\w)9(\w)([\dX]{6})
+clv 9884, 1969, Dodge, Coronet Deluxe V8, Sedan
+ci axle Semifloating
+ci msrp $2675.00
+ci series Coronet Deluxe V8
+ci make Dodge
+ci year 1969
+ci prod 17900
+ci origin United States
+ci doors 4
+ci maker Dodge
+ci model WL41
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 6
+ci fuel 19
+ci rdiff 4
+ci oil 4
+ci tcase -NA-
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci width 76.7
+ci length 206.6
+ci rtred 59.2
+ci ftred 59.5
+ci height 54.8
+ci wbase 117
+ci mbear 5
+ci etype Synchronous in 2nd & 3rd
+ci etype Dual downdraft
+ci trq 340@2400
+ci cyl 8
+ci comp 9.2
+ci vlift Hydraulic
+ci disp 317.58
+ci block Cast Iron
+ci etype V8 overhead valve
+ci b&s 3 29/32 & 3 5/16
+ci bhp 230@4400
+ci rhp 48.83
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 383 cu. in. V8 engine
+ci equip Radio
+ci equip Torque Flite automatic transmission
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip 426 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci rev 3.95
+ci 2gear 1.76
+ci drive Rear wheel drive
+ci 1gear 3.02
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2981, WL45(\w)9(\w)([\dX]{6})
+clv 9885, 1969, Dodge, Coronet Deluxe V8, Station Wagon 2-seat
+ci axle Semifloating
+ci msrp $3008.00
+ci series Coronet Deluxe V8
+ci make Dodge
+ci year 1969
+ci prod 17900
+ci origin United States
+ci doors 4
+ci maker Dodge
+ci pass 6
+ci model WL45
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 10
+ci tcase -NA-
+ci rdiff 4
+ci fuel 19
+ci oil 4
+ci trans 6
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 2.94
+ci length 210
+ci ftred 59.5
+ci width 76.7
+ci height 54.8
+ci rtred 59.2
+ci wbase 117
+ci mbear 5
+ci etype Synchronous in 2nd & 3rd
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 340@2400
+ci cyl 8
+ci comp 9.2
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci block Cast Iron
+ci etype V8 overhead valve
+ci b&s 3 29/32 & 3 5/16
+ci bhp 230@4400
+ci rhp 48.83
+ci disp 317.58
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci batt 12
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip 383 cu. in. V8 engine
+ci equip Radio
+ci equip Torque Flite automatic transmission
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip 426 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci rev 3.95
+ci 2gear 1.76
+ci drive Rear wheel drive
+ci 1gear 3.02
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 2982, WS27(\w)9(\w)([\dX]{6})
+clv 9886, 1969, Dodge, Coronet R/T, Convertible
+ci axle Semifloating
+ci series Coronet R/T
+ci prod 437
+ci msrp $3643.00
+ci make Dodge
+ci year 1969
+ci origin United States
+ci model WS27
+ci weight 3602
+ci doors 2
+ci maker Dodge
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 11
+ci fuel 19
+ci oil 4
+ci rdiff 5.5
+ci tcase -NA-
+ci trans 18.5
+ci carb Carter
+ci ctype Not applicable
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 59.2
+ci wbase 117
+ci ftred 59.9
+ci width 76.7
+ci length 206.6
+ci height 54.8
+ci vlift Hydraulic
+ci etype Torqueflite automatic
+ci disp 440
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 375@4600
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci etype V8 overhead valve
+ci rhp 59.7
+ci comp 10.1
+ci trq 480@3200
+ci b&s 4.32 & 3 3/4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci exha Dual
+ci cool 17 Quarts
+ci cool Water pump
+ci batt 12
+ci rad Tube and spacer
+ci ign Distributor and coil
+ci ftype Premium
+ci equip Conventional manual transmission
+ci equip Power steering
+ci equip Power brakes
+ci equip Radio
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip 426 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F70 x 14
+cls 2983, WS23(\w)9(\w)([\dX]{6})
+clv 9887, 1969, Dodge, Coronet R/T, Hardtop
+ci axle Semifloating
+ci origin United States
+ci series Coronet R/T
+ci msrp $3425.00
+ci make Dodge
+ci year 1969
+ci prod 6518
+ci doors 2
+ci weight 3492
+ci maker Dodge
+ci model WS23
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 18.5
+ci oil 4
+ci tcase -NA-
+ci fuel 19
+ci rdiff 5.5
+ci carb Carter
+ci ctype Not applicable
+ci diffr 3.23
+ci diff Hypoid
+ci height 54.8
+ci ftred 59.9
+ci wbase 117
+ci width 76.7
+ci length 206.6
+ci rtred 59.2
+ci rhp 59.7
+ci bhp 375@4600
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci etype V8 overhead valve
+ci etype Downdraft 4-barrel
+ci disp 440
+ci etype Torqueflite automatic
+ci comp 10.1
+ci trq 480@3200
+ci b&s 4.32 & 3 3/4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci exha Dual
+ci cool 17 Quarts
+ci cool Water pump
+ci batt 12
+ci rad Tube and spacer
+ci ign Distributor and coil
+ci ftype Premium
+ci equip Conventional manual transmission
+ci equip Power steering
+ci equip Power brakes
+ci equip Radio
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip 426 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F70 x 14
+cls 2984, WM21(\w)9(\w)([\dX]{6})
+clv 9888, 1969, Dodge, Coronet Super Bee, Coupe
+ci axle Semifloating
+ci origin United States
+ci msrp $3059.00
+ci year 1969
+ci make Dodge
+ci series Coronet Super Bee
+ci prod 7650
+ci weight 3397
+ci maker Dodge
+ci model WM21
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 7.5
+ci oil 4
+ci rdiff 4
+ci fuel 19
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 206.6
+ci width 76.7
+ci wbase 117
+ci height 54.8
+ci ftred 59.9
+ci rtred 59.2
+ci b&s 4 1/4 & 3 3/8
+ci mbear 5
+ci trq 425@3400
+ci rhp 57.8
+ci cyl 8
+ci vlift Hydraulic
+ci bhp 335@5000
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci comp 10.0
+ci etype V8 overhead valve
+ci etype Downdraft 4-barrel
+ci disp 383
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci rad Tube and spacer
+ci exha Dual
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci ftype Premium
+ci cool Water pump
+ci equip Front disc rear drum brakes
+ci equip Torque Flite automatic transmission
+ci equip Speed control device
+ci equip Power brakes
+ci equip Power steering
+ci equip Radio
+ci equip Air conditioning
+ci equip 426 cu. in. V8 engine
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci gears 4
+ci drive Rear wheel drive
+ci rev 2.58
+ci 4gear 1
+ci 5gear Not applicable
+ci 3gear 1.39
+ci 2gear 1.91
+ci 1gear 2.66
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F70 x 14
+cls 2985, WM23(\w)9(\w)([\dX]{6})
+clv 9889, 1969, Dodge, Coronet Super Bee, Hardtop
+ci axle Semifloating
+ci msrp $3121.00
+ci origin United States
+ci prod 18475
+ci year 1969
+ci series Coronet Super Bee
+ci make Dodge
+ci maker Dodge
+ci doors 2
+ci model WM23
+ci weight 3412
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 7.5
+ci oil 4
+ci rdiff 4
+ci fuel 19
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci width 76.7
+ci wbase 117
+ci length 206.6
+ci ftred 59.9
+ci height 54.8
+ci rtred 59.2
+ci mbear 5
+ci rhp 57.8
+ci trq 425@3400
+ci b&s 4 1/4 & 3 3/8
+ci cyl 8
+ci vlift Hydraulic
+ci disp 383
+ci bhp 335@5000
+ci etype Fully synchronized
+ci etype V8 overhead valve
+ci comp 10.0
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci cool Water pump
+ci ftype Premium
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci rad Tube and spacer
+ci exha Dual
+ci equip 426 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Torque Flite automatic transmission
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 2.58
+ci 2gear 1.91
+ci 1gear 2.66
+ci 4gear 1
+ci 3gear 1.39
+ci drive Rear wheel drive
+ci gears 4
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F70 x 14
+cls 2986, LL41(\w)9(\w)([\dX]{6})
+clv 9890, 1969, Dodge, Dart 6, Sedan
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci msrp $2396.00
+ci series Dart 6
+ci prod 61800
+ci year 1969
+ci model LL41
+ci maker Dodge
+ci weight 2765
+ci ebrake Rear service brakes
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci rdiff 2
+ci oil 4
+ci tcase -NA-
+ci fuel 18
+ci trans 6.5
+ci carb Carter
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci height 53.6
+ci rtred 55.6
+ci ftred 57.4
+ci wbase 111
+ci length 195.4
+ci width 69.6
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 155@2400
+ci comp 8.5
+ci etype Single downdraft
+ci vlift Mechanical
+ci cyl 6
+ci disp 170.86
+ci block Cast Iron
+ci bhp 115@4400
+ci etype Inline  overhead valve
+ci mbear 4
+ci etype Unknown at time of publication
+ci rhp 27.85
+ci b&s 3 13/32 & 3 1/8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci cool 12 Quarts
+ci rad Tube and spacer
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip 225 cu. in. Inline 6 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 4.14
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 3.22
+ci 3gear 1
+ci 2gear 1.84
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 2987, LP23(\w)9(\w)([\dX]{6})
+clv 9891, 1969, Dodge, Dart 6-GT, Hardtop
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci msrp $2655.00
+ci series Dart 6-GT
+ci prod 5600
+ci year 1969
+ci weight 2755
+ci maker Dodge
+ci model LP23
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci rdiff 2
+ci trans 6.5
+ci tcase -NA-
+ci fuel 18
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diff Hypoid
+ci diffr 3.23
+ci height 53.6
+ci rtred 55.6
+ci length 195.4
+ci ftred 57.4
+ci width 69.6
+ci wbase 111
+ci cyl 6
+ci vlift Mechanical
+ci comp 8.5
+ci etype Single downdraft
+ci trq 155@2400
+ci disp 170.86
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci bhp 115@4400
+ci etype Inline  overhead valve
+ci rhp 27.85
+ci etype Unknown at time of publication
+ci mbear 4
+ci b&s 3 13/32 & 3 1/8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci cool 12 Quarts
+ci rad Tube and spacer
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip 225 cu. in. Inline 6 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 4.14
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 3.22
+ci 3gear 1
+ci 2gear 1.84
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 2988, LP41(\w)9(\w)([\dX]{6})
+clv 9892, 1969, Dodge, Dart 6-GT, Sedan
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci msrp $2848.00
+ci series Dart 6-GT
+ci prod 5600
+ci year 1969
+ci model LP41
+ci maker Dodge
+ci weight 2830
+ci ebrake Rear service brakes
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci rdiff 2
+ci trans 6.5
+ci tcase -NA-
+ci fuel 18
+ci oil 4
+ci carb Carter
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci height 53.6
+ci rtred 55.6
+ci wbase 111
+ci ftred 57.4
+ci length 195.4
+ci width 69.6
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci comp 8.5
+ci etype Single downdraft
+ci rhp 27.85
+ci trq 155@2400
+ci disp 170.86
+ci block Cast Iron
+ci bhp 115@4400
+ci etype Inline  overhead valve
+ci mbear 4
+ci etype Unknown at time of publication
+ci cyl 6
+ci b&s 3 13/32 & 3 1/8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci cool 12 Quarts
+ci rad Tube and spacer
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip 225 cu. in. Inline 6 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 4.14
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 3.22
+ci 3gear 1
+ci 2gear 1.84
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 2989, LP23(\w)9(\w)([\dX]{6})
+clv 9893, 1969, Dodge, Dart 8-GT, Hardtop
+ci axle Semifloating
+ci msrp $2766.00
+ci origin United States
+ci year 1969
+ci make Dodge
+ci series Dart 8-GT
+ci prod 15300
+ci model LP23
+ci maker Dodge
+ci doors 2
+ci bsize 10
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci rdiff 2
+ci oil 4
+ci tcase -NA-
+ci fuel 18
+ci trans 6
+ci ctype Single dry plate
+ci diffr 2.93
+ci diff Hypoid
+ci length 195.4
+ci wbase 111
+ci height 53.6
+ci rtred 55.6
+ci width 69.6
+ci ftred 57.4
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 190@4400
+ci cyl 8
+ci comp 9.0
+ci disp 273
+ci etype Synchronous in 2nd & 3rd
+ci vlift Hydraulic
+ci trq 260@2000
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci b&s 3 5/8 & 3 5/16
+ci rhp 27.7
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci ftype Regular
+ci exha Single
+ci cool Water pump
+ci cool 17 Quarts
+ci equip Power brakes
+ci equip Power steering
+ci equip Torque Flite automatic transmission
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci rev 3.95
+ci 3gear 1
+ci gears 3
+ci 2gear 1.76
+ci 1gear 3.02
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 2990, LP41(\w)9(\w)([\dX]{6})
+clv 9894, 1969, Dodge, Dart 8-GT, Sedan
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci msrp $2959.00
+ci series Dart 8-GT
+ci prod 15300
+ci year 1969
+ci doors 4
+ci maker Dodge
+ci model LP41
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 10
+ci trans 6
+ci rdiff 2
+ci tcase -NA-
+ci oil 4
+ci fuel 18
+ci ctype Single dry plate
+ci diffr 2.93
+ci diff Hypoid
+ci width 69.6
+ci length 195.4
+ci height 53.6
+ci wbase 111
+ci ftred 57.4
+ci rtred 55.6
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 5/8 & 3 5/16
+ci cyl 8
+ci comp 9.0
+ci etype Synchronous in 2nd & 3rd
+ci vlift Hydraulic
+ci rhp 27.7
+ci trq 260@2000
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci bhp 190@4400
+ci disp 273
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci ftype Regular
+ci exha Single
+ci cool Water pump
+ci cool 17 Quarts
+ci equip Power brakes
+ci equip Power steering
+ci equip Torque Flite automatic transmission
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci rev 3.95
+ci 3gear 1
+ci gears 3
+ci 2gear 1.76
+ci 1gear 3.02
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 2991, LH23(\w)9(\w)([\dX]{6})
+clv 9895, 1969, Dodge, Dart Custom 6, Hardtop
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci msrp $2560.00
+ci series Dart Custom 6
+ci prod 41600
+ci year 1969
+ci weight 2750
+ci maker Dodge
+ci model LH23
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci rdiff 2
+ci trans 6.5
+ci tcase -NA-
+ci fuel 18
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 55.6
+ci height 53.6
+ci length 195.4
+ci ftred 57.4
+ci width 69.6
+ci wbase 111
+ci cyl 6
+ci vlift Mechanical
+ci comp 8.5
+ci etype Single downdraft
+ci trq 155@2400
+ci disp 170.86
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci bhp 115@4400
+ci etype Inline  overhead valve
+ci rhp 27.85
+ci etype Unknown at time of publication
+ci mbear 4
+ci b&s 3 13/32 & 3 1/8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci cool 12 Quarts
+ci rad Tube and spacer
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip 225 cu. in. Inline 6 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 4.14
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 3.22
+ci 3gear 1
+ci 2gear 1.84
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 2992, LH41(\w)9(\w)([\dX]{6})
+clv 9896, 1969, Dodge, Dart Custom 6, Sedan
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci msrp $2533.00
+ci series Dart Custom 6
+ci prod 41600
+ci year 1969
+ci model LH41
+ci maker Dodge
+ci weight 2765
+ci ebrake Rear service brakes
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci rdiff 2
+ci trans 6.5
+ci tcase -NA-
+ci fuel 18
+ci oil 4
+ci carb Carter
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 55.6
+ci height 53.6
+ci wbase 111
+ci ftred 57.4
+ci length 195.4
+ci width 69.6
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci comp 8.5
+ci etype Single downdraft
+ci rhp 27.85
+ci trq 155@2400
+ci disp 170.86
+ci block Cast Iron
+ci bhp 115@4400
+ci etype Inline  overhead valve
+ci mbear 4
+ci etype Unknown at time of publication
+ci cyl 6
+ci b&s 3 13/32 & 3 1/8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci cool 12 Quarts
+ci rad Tube and spacer
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip 225 cu. in. Inline 6 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 4.14
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 3.22
+ci 3gear 1
+ci 2gear 1.84
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 2993, LH23(\w)9(\w)([\dX]{6})
+clv 9897, 1969, Dodge, Dart Custom V8, Hardtop
+ci axle Semifloating
+ci msrp $2671.00
+ci origin United States
+ci year 1969
+ci make Dodge
+ci series Dart Custom V8
+ci prod 22100
+ci model LH23
+ci doors 2
+ci maker Dodge
+ci bsize 10
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 6
+ci rdiff 2
+ci oil 4
+ci tcase -NA-
+ci fuel 18
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.93
+ci length 195.4
+ci wbase 111
+ci height 53.6
+ci rtred 55.6
+ci width 69.6
+ci ftred 57.4
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 190@4400
+ci cyl 8
+ci comp 9.0
+ci disp 273
+ci etype Synchronous in 2nd & 3rd
+ci vlift Hydraulic
+ci trq 260@2000
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci b&s 3 5/8 & 3 5/16
+ci rhp 27.7
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci ftype Regular
+ci exha Single
+ci cool Water pump
+ci cool 17 Quarts
+ci equip Power brakes
+ci equip Power steering
+ci equip Torque Flite automatic transmission
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci rev 3.95
+ci 3gear 1
+ci gears 3
+ci 2gear 1.76
+ci 1gear 3.02
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 2994, LH41(\w)9(\w)([\dX]{6})
+clv 9898, 1969, Dodge, Dart Custom V8, Sedan
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci prod 22100
+ci series Dart Custom V8
+ci msrp $2644.00
+ci year 1969
+ci doors 4
+ci maker Dodge
+ci model LH41
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 10
+ci trans 6
+ci tcase -NA-
+ci fuel 18
+ci oil 4
+ci rdiff 2
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.93
+ci rtred 55.6
+ci length 195.4
+ci height 53.6
+ci wbase 111
+ci ftred 57.4
+ci width 69.6
+ci bhp 190@4400
+ci trq 260@2000
+ci cyl 8
+ci comp 9.0
+ci etype Synchronous in 2nd & 3rd
+ci rhp 27.7
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci b&s 3 5/8 & 3 5/16
+ci disp 273
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci ftype Regular
+ci exha Single
+ci cool Water pump
+ci cool 17 Quarts
+ci equip Power brakes
+ci equip Power steering
+ci equip Torque Flite automatic transmission
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci rev 3.95
+ci 3gear 1
+ci gears 3
+ci 2gear 1.76
+ci 1gear 3.02
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 2995, LS27(\w)9(\w)([\dX]{6})
+clv 9899, 1969, Dodge, Dart GTS, Convertible
+ci axle Semifloating
+ci series Dart GTS
+ci prod 6700
+ci make Dodge
+ci year 1969
+ci origin United States
+ci msrp $3402.00
+ci weight 3177
+ci maker Dodge
+ci doors 2
+ci model LS27
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 10
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 7.5
+ci fuel 18
+ci rdiff 2
+ci oil 4
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 111
+ci ftred 58.1
+ci width 69.6
+ci rtred 56.3
+ci height 53.6
+ci length 195.4
+ci rhp 52.23
+ci cyl 8
+ci b&s 4.04 & 3.31
+ci trq 340@3200
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Torqueflite automatic
+ci bhp 275@5000
+ci etype V8 overhead valve
+ci comp 10.5
+ci vlift Hydraulic
+ci disp 340
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci cool Water pump
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci ftype Premium
+ci exha Dual
+ci equip Power steering
+ci equip Radio
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci equip Torque Flite automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E70 x 14
+ci sloc Trunk
+cls 2996, LS23(\w)9(\w)([\dX]{6})
+clv 9900, 1969, Dodge, Dart GTS, Hardtop
+ci axle Semifloating
+ci series Dart GTS
+ci prod 6700
+ci make Dodge
+ci year 1969
+ci origin United States
+ci msrp $3209.00
+ci weight 3102
+ci maker Dodge
+ci doors 2
+ci model LS23
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 10
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 7.5
+ci fuel 18
+ci rdiff 2
+ci oil 4
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 111
+ci ftred 58.1
+ci width 69.6
+ci rtred 56.3
+ci height 53.6
+ci length 195.4
+ci rhp 52.23
+ci cyl 8
+ci b&s 4.04 & 3.31
+ci trq 340@3200
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Torqueflite automatic
+ci bhp 275@5000
+ci etype V8 overhead valve
+ci comp 10.5
+ci vlift Hydraulic
+ci disp 340
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci cool Water pump
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci ftype Premium
+ci exha Dual
+ci equip Power steering
+ci equip Radio
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci equip Torque Flite automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E70 x 14
+ci sloc Trunk
+cls 2997, LM23(\w)9(\w)([\dX]{6})
+clv 9901, 1969, Dodge, Dart Swinger 340, Hardtop
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci msrp $2836.00
+ci prod 20000
+ci year 1969
+ci series Dart Swinger 340
+ci maker Dodge
+ci doors 2
+ci model LM23
+ci bsize 10
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci fuel 18
+ci rdiff 2
+ci tcase -NA-
+ci oil 4
+ci trans 6
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diff Hypoid
+ci wbase 111
+ci width 69.6
+ci length 195.4
+ci ftred 58.1
+ci height 53.6
+ci rtred 56.3
+ci bhp 275@5000
+ci rhp 52.23
+ci comp 10.5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci trq 340@3200
+ci disp 340
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci etype Downdraft 4-barrel
+ci b&s 4.04 & 3.31
+ci color Exterior Colors
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Red
+co Bright Turquoise Metallic
+co Bronze Fire Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci exha Dual
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci ftype Premium
+ci cool Water pump
+ci equip Power brakes
+ci equip Torque Flite automatic transmission
+ci equip Air conditioning
+ci equip Power steering
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci gears 4
+ci drive Rear wheel drive
+ci 1gear 2.66
+ci 2gear 1.91
+ci 4gear 1
+ci 3gear 1.39
+ci rev 2.58
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize D70 x 14
+cls 2998, LL23(\w)9(\w)([\dX]{6})
+clv 9902, 1969, Dodge, Dart Swinger 6, Hardtop
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci msrp $2383.00
+ci series Dart Swinger 6
+ci prod 61800
+ci year 1969
+ci weight 2750
+ci maker Dodge
+ci model LL23
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci rdiff 2
+ci oil 4
+ci tcase -NA-
+ci fuel 18
+ci trans 6.5
+ci carb Carter
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diff Hypoid
+ci diffr 3.23
+ci height 53.6
+ci rtred 55.6
+ci ftred 57.4
+ci length 195.4
+ci wbase 111
+ci width 69.6
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 155@2400
+ci comp 8.5
+ci etype Single downdraft
+ci vlift Mechanical
+ci rhp 27.85
+ci cyl 6
+ci block Cast Iron
+ci bhp 115@4400
+ci etype Inline  overhead valve
+ci disp 170.86
+ci etype Unknown at time of publication
+ci mbear 4
+ci b&s 3 13/32 & 3 1/8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci cool 12 Quarts
+ci rad Tube and spacer
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip 225 cu. in. Inline 6 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 4.14
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 3.22
+ci 3gear 1
+ci 2gear 1.84
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 2999, LL23(\w)9(\w)([\dX]{6})
+clv 9903, 1969, Dodge, Dart Swinger V8, Hardtop
+ci axle Semifloating
+ci msrp $2494.00
+ci origin United States
+ci year 1969
+ci make Dodge
+ci series Dart Swinger V8
+ci prod 24600
+ci model LL23
+ci doors 2
+ci maker Dodge
+ci bsize 10
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 6
+ci rdiff 2
+ci oil 4
+ci tcase -NA-
+ci fuel 18
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.93
+ci length 195.4
+ci wbase 111
+ci height 53.6
+ci rtred 55.6
+ci width 69.6
+ci ftred 57.4
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 190@4400
+ci cyl 8
+ci comp 9.0
+ci disp 273
+ci etype Synchronous in 2nd & 3rd
+ci vlift Hydraulic
+ci trq 260@2000
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci b&s 3 5/8 & 3 5/16
+ci rhp 27.7
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci ftype Regular
+ci exha Single
+ci cool Water pump
+ci cool 17 Quarts
+ci equip Power brakes
+ci equip Power steering
+ci equip Torque Flite automatic transmission
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci rev 3.95
+ci 3gear 1
+ci gears 3
+ci 2gear 1.76
+ci 1gear 3.02
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 3000, LL41(\w)9(\w)([\dX]{6})
+clv 9904, 1969, Dodge, Dart V8, Sedan
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci prod 24600
+ci series Dart V8
+ci msrp $2507.00
+ci year 1969
+ci doors 4
+ci maker Dodge
+ci model LL41
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 10
+ci trans 6
+ci tcase -NA-
+ci fuel 18
+ci oil 4
+ci rdiff 2
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.93
+ci rtred 55.6
+ci length 195.4
+ci height 53.6
+ci wbase 111
+ci ftred 57.4
+ci width 69.6
+ci bhp 190@4400
+ci trq 260@2000
+ci cyl 8
+ci comp 9.0
+ci etype Synchronous in 2nd & 3rd
+ci rhp 27.7
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci b&s 3 5/8 & 3 5/16
+ci disp 273
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci ftype Regular
+ci exha Single
+ci cool Water pump
+ci cool 17 Quarts
+ci equip Power brakes
+ci equip Power steering
+ci equip Torque Flite automatic transmission
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci rev 3.95
+ci 3gear 1
+ci gears 3
+ci 2gear 1.76
+ci 1gear 3.02
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 3001, DP23(\w)9(\w)([\dX]{6})
+clv 9905, 1969, Dodge, Monaco 500, Hardtop
+ci axle Semifloating
+ci make Dodge
+ci series Monaco 500
+ci prod 117152
+ci year 1969
+ci origin United States
+ci doors 2
+ci maker Dodge
+ci model DP23
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Duo-servo self-adjusting on 4 wheels
+ci tcase -NA-
+ci fuel 24
+ci trans 6
+ci rdiff 4
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci height 55.8
+ci wbase 122
+ci width 79.2
+ci length 220.8
+ci rtred 60.7
+ci ftred 62.1
+ci rhp 57.8
+ci cyl 8
+ci trq 390@2800
+ci comp 9.2
+ci mbear 5
+ci b&s 4 1/4 & 3 3/8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci disp 383
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci bhp 290@4400
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci cool 15 Quarts
+ci rad Tube and spacer
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool Water pump
+ci equip Front disc rear drum brakes
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip Torque Flite automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci rev 3.34
+ci 2gear 1.49
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 1gear 2.55
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.25 x 15
+ci sloc Trunk
+cls 3002, DH23(\w)9(\w)([\dX]{6})
+clv 9906, 1969, Dodge, Monaco, Hardtop
+ci axle Semifloating
+ci year 1969
+ci origin United States
+ci series Monaco
+ci prod 117152
+ci msrp $3511.00
+ci make Dodge
+ci doors 2
+ci weight 3861
+ci maker Dodge
+ci model DH23
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 11
+ci ebrake Rear service brakes
+ci oil 4
+ci trans 6
+ci tcase -NA-
+ci fuel 24
+ci rdiff 4
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci height 55.8
+ci length 220.8
+ci wbase 122
+ci width 79.2
+ci rtred 60.7
+ci ftred 62.1
+ci bhp 290@4400
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.2
+ci rhp 57.8
+ci mbear 5
+ci trq 390@2800
+ci etype Fully synchronized
+ci disp 383
+ci b&s 4 1/4 & 3 3/8
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci ign Distributor and coil
+ci cool Water pump
+ci cool 15 Quarts
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci equip Speed control device
+ci equip Torque Flite automatic transmission
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 3.34
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.49
+ci 1gear 2.55
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.25 x 15
+ci sloc Trunk
+cls 3003, DH43(\w)9(\w)([\dX]{6})
+clv 9907, 1969, Dodge, Monaco, Hardtop
+ci axle Semifloating
+ci series Monaco
+ci origin United States
+ci year 1969
+ci prod 117152
+ci msrp $3574.00
+ci make Dodge
+ci maker Dodge
+ci weight 3911
+ci model DH43
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Duo-servo self-adjusting on 4 wheels
+ci oil 4
+ci tcase -NA-
+ci trans 6
+ci fuel 24
+ci rdiff 4
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci height 55.8
+ci length 220.8
+ci wbase 122
+ci width 79.2
+ci rtred 60.7
+ci ftred 62.1
+ci bhp 290@4400
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.2
+ci rhp 57.8
+ci mbear 5
+ci trq 390@2800
+ci etype Fully synchronized
+ci disp 383
+ci b&s 4 1/4 & 3 3/8
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci ign Distributor and coil
+ci cool Water pump
+ci cool 15 Quarts
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci equip Speed control device
+ci equip Torque Flite automatic transmission
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 3.34
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.49
+ci 1gear 2.55
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.25 x 15
+ci sloc Trunk
+cls 3004, DH41(\w)9(\w)([\dX]{6})
+clv 9908, 1969, Dodge, Monaco, Sedan
+ci axle Semifloating
+ci series Monaco
+ci origin United States
+ci year 1969
+ci prod 117152
+ci msrp $3435.00
+ci make Dodge
+ci maker Dodge
+ci doors 4
+ci model DH41
+ci weight 3881
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Duo-servo self-adjusting on 4 wheels
+ci oil 4
+ci tcase -NA-
+ci trans 6
+ci fuel 24
+ci rdiff 4
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci height 55.8
+ci length 220.8
+ci wbase 122
+ci width 79.2
+ci rtred 60.7
+ci ftred 62.1
+ci bhp 290@4400
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.2
+ci rhp 57.8
+ci mbear 5
+ci trq 390@2800
+ci etype Fully synchronized
+ci disp 383
+ci b&s 4 1/4 & 3 3/8
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci ign Distributor and coil
+ci cool Water pump
+ci cool 15 Quarts
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci equip Speed control device
+ci equip Torque Flite automatic transmission
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 3.34
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.49
+ci 1gear 2.55
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.25 x 15
+ci sloc Trunk
+cls 3005, DH45(\w)9(\w)([\dX]{6})
+clv 9909, 1969, Dodge, Monaco, Station Wagon 2-seat
+ci axle Semifloating
+ci series Monaco
+ci msrp $3900.00
+ci origin United States
+ci prod 117152
+ci year 1969
+ci make Dodge
+ci maker Dodge
+ci model DH45
+ci pass 6
+ci weight 4359
+ci doors 4
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 6
+ci rdiff 4
+ci fuel 24
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 122
+ci length 220.4
+ci height 55.8
+ci width 79.2
+ci rtred 60.7
+ci ftred 62.1
+ci bhp 290@4400
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.2
+ci rhp 57.8
+ci mbear 5
+ci b&s 4 1/4 & 3 3/8
+ci trq 390@2800
+ci disp 383
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci cool Water pump
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci cool 15 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci 2gear 1.49
+ci rev 3.34
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.55
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 3006, DH46(\w)9(\w)([\dX]{6})
+clv 9910, 1969, Dodge, Monaco, Station Wagon 3-seat
+ci axle Semifloating
+ci series Monaco
+ci msrp $4029.00
+ci origin United States
+ci prod 117152
+ci year 1969
+ci make Dodge
+ci maker Dodge
+ci model DH46
+ci pass 9
+ci weight 4414
+ci doors 4
+ci bsize 11
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci trans 6
+ci tcase -NA-
+ci rdiff 4
+ci oil 4
+ci fuel 24
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 60.7
+ci length 220.4
+ci height 55.8
+ci wbase 122
+ci ftred 62.1
+ci width 79.2
+ci bhp 290@4400
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.2
+ci rhp 57.8
+ci mbear 5
+ci b&s 4 1/4 & 3 3/8
+ci trq 390@2800
+ci disp 383
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci cool Water pump
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci cool 15 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 2gear 1.49
+ci 1gear 2.55
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci rev 3.34
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.55 x 14
+cls 3007, DM27(\w)9(\w)([\dX]{6})
+clv 9911, 1969, Dodge, Polara 500, Convertible
+ci axle Semifloating
+ci msrp $3559.00
+ci origin United States
+ci make Dodge
+ci year 1969
+ci prod 117152
+ci series Polara 500
+ci maker Dodge
+ci weight 3834
+ci model DM27
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 6
+ci fuel 24
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci width 79.2
+ci length 220.8
+ci ftred 62.1
+ci height 55.8
+ci wbase 122
+ci rtred 60.7
+ci mbear 5
+ci rhp 48.83
+ci cyl 8
+ci trq 340@2400
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 317.58
+ci block Cast Iron
+ci etype Synchronous in 2nd & 3rd
+ci vlift Hydraulic
+ci bhp 230@4400
+ci b&s 3 29/32 & 3 5/16
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci ftype Regular
+ci cool 15 Quarts
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip Power seats
+ci equip Torque Flite automatic transmission
+ci equip Power windows
+ci equip 383 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 2gear 1.76
+ci rev 3.95
+ci drive Rear wheel drive
+ci 1gear 3.02
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 15
+cls 3008, DM23(\w)9(\w)([\dX]{6})
+clv 9912, 1969, Dodge, Polara 500, Hardtop
+ci axle Semifloating
+ci msrp $3297.00
+ci origin United States
+ci make Dodge
+ci year 1969
+ci prod 117152
+ci series Polara 500
+ci maker Dodge
+ci weight 3739
+ci model DM23
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 6
+ci fuel 24
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci width 79.2
+ci length 220.8
+ci ftred 62.1
+ci height 55.8
+ci wbase 122
+ci rtred 60.7
+ci mbear 5
+ci rhp 48.83
+ci cyl 8
+ci trq 340@2400
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 317.58
+ci block Cast Iron
+ci etype Synchronous in 2nd & 3rd
+ci vlift Hydraulic
+ci bhp 230@4400
+ci b&s 3 29/32 & 3 5/16
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci ftype Regular
+ci cool 15 Quarts
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip Power seats
+ci equip Torque Flite automatic transmission
+ci equip Power windows
+ci equip 383 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 2gear 1.76
+ci rev 3.95
+ci drive Rear wheel drive
+ci 1gear 3.02
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 15
+cls 3009, DL27(\w)9(\w)([\dX]{6})
+clv 9913, 1969, Dodge, Polara, Convertible
+ci axle Semifloating
+ci msrp $3360.00
+ci origin United States
+ci make Dodge
+ci year 1969
+ci prod 117152
+ci series Polara
+ci maker Dodge
+ci weight 3829
+ci model DL27
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 6
+ci fuel 24
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci width 79.2
+ci length 220.8
+ci ftred 62.1
+ci height 55.8
+ci wbase 122
+ci rtred 60.7
+ci mbear 5
+ci rhp 48.83
+ci cyl 8
+ci trq 340@2400
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 317.58
+ci block Cast Iron
+ci etype Synchronous in 2nd & 3rd
+ci vlift Hydraulic
+ci bhp 230@4400
+ci b&s 3 29/32 & 3 5/16
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci ftype Regular
+ci cool 15 Quarts
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip Power seats
+ci equip Torque Flite automatic transmission
+ci equip Power windows
+ci equip 383 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 2gear 1.76
+ci rev 3.95
+ci drive Rear wheel drive
+ci 1gear 3.02
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 15
+cls 3010, DL41(\w)9(\w)([\dX]{6})
+clv 9914, 1969, Dodge, Polara, Hardtop
+ci axle Semifloating
+ci msrp $3100.00
+ci origin United States
+ci make Dodge
+ci year 1969
+ci prod 117152
+ci series Polara
+ci maker Dodge
+ci weight 3739
+ci model DL41
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 6
+ci fuel 24
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci width 79.2
+ci length 220.8
+ci ftred 62.1
+ci height 55.8
+ci wbase 122
+ci rtred 60.7
+ci mbear 5
+ci rhp 48.83
+ci cyl 8
+ci trq 340@2400
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 317.58
+ci block Cast Iron
+ci etype Synchronous in 2nd & 3rd
+ci vlift Hydraulic
+ci bhp 230@4400
+ci b&s 3 29/32 & 3 5/16
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and spacer
+ci ftype Regular
+ci cool 15 Quarts
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip Power seats
+ci equip Torque Flite automatic transmission
+ci equip Power windows
+ci equip 383 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 2gear 1.76
+ci rev 3.95
+ci drive Rear wheel drive
+ci 1gear 3.02
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 15
+cls 3011, DL43(\w)9(\w)([\dX]{6})
+clv 9915, 1969, Dodge, Polara, Hardtop
+ci axle Semifloating
+ci year 1969
+ci origin United States
+ci make Dodge
+ci msrp $3171.00
+ci prod 117152
+ci series Polara
+ci weight 3789
+ci doors 4
+ci maker Dodge
+ci model DL43
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 4
+ci fuel 24
+ci trans 6
+ci oil 4
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 122
+ci width 79.2
+ci ftred 62.1
+ci height 55.8
+ci length 220.8
+ci rtred 60.7
+ci rhp 48.83
+ci mbear 5
+ci cyl 8
+ci trq 340@2400
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 29/32 & 3 5/16
+ci block Cast Iron
+ci bhp 230@4400
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci etype Synchronous in 2nd & 3rd
+ci etype Dual downdraft
+ci disp 317.58
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci ign Distributor and coil
+ci batt 12
+ci cool 15 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 383 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip Torque Flite automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 1gear 3.02
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.95
+ci 3gear 1
+ci 2gear 1.76
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 15
+cls 3012, DL23(\w)9(\w)([\dX]{6})
+clv 9916, 1969, Dodge, Polara, Sedan
+ci axle Semifloating
+ci year 1969
+ci origin United States
+ci make Dodge
+ci msrp $3078.00
+ci prod 117152
+ci series Polara
+ci weight 3759
+ci doors 4
+ci maker Dodge
+ci model DL23
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 4
+ci fuel 24
+ci trans 6
+ci oil 4
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 122
+ci width 79.2
+ci ftred 62.1
+ci height 55.8
+ci length 220.4
+ci rtred 60.7
+ci rhp 48.83
+ci mbear 5
+ci cyl 8
+ci trq 340@2400
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 29/32 & 3 5/16
+ci block Cast Iron
+ci bhp 230@4400
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci etype Synchronous in 2nd & 3rd
+ci etype Dual downdraft
+ci disp 317.58
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci ign Distributor and coil
+ci batt 12
+ci cool 15 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 383 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip Torque Flite automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 1gear 3.02
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.95
+ci 3gear 1
+ci 2gear 1.76
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.25 x 15
+cls 3013, DL45(\w)9(\w)([\dX]{6})
+clv 9917, 1969, Dodge, Polara, Station Wagon 2-seat
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci series Polara
+ci msrp $3505.00
+ci prod 117152
+ci year 1969
+ci maker Dodge
+ci doors 4
+ci model DL45
+ci weight 4227
+ci pass 6
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 11
+ci oil 4
+ci fuel 24
+ci trans 6
+ci tcase -NA-
+ci rdiff 4
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 122
+ci ftred 62.1
+ci height 55.8
+ci length 220.4
+ci width 79.2
+ci rtred 60.7
+ci disp 317.58
+ci mbear 5
+ci cyl 8
+ci rhp 48.83
+ci comp 9.2
+ci bhp 230@4400
+ci b&s 3 29/32 & 3 5/16
+ci block Cast Iron
+ci etype Synchronous in 2nd & 3rd
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci trq 340@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci ign Distributor and coil
+ci batt 12
+ci cool 15 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 383 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip Torque Flite automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 1gear 3.02
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.95
+ci 3gear 1
+ci 2gear 1.76
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.55 x 14
+cls 3014, DL46(\w)9(\w)([\dX]{6})
+clv 9918, 1969, Dodge, Polara, Station Wagon 3-seat
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci series Polara
+ci msrp $3612.00
+ci prod 117152
+ci year 1969
+ci pass 9
+ci doors 4
+ci model DL46
+ci weight 4282
+ci maker Dodge
+ci bsize 11
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci oil 4
+ci trans 6
+ci tcase -NA-
+ci fuel 24
+ci rdiff 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci height 55.8
+ci width 79.2
+ci wbase 122
+ci length 220.4
+ci rtred 60.7
+ci ftred 62.1
+ci cyl 8
+ci mbear 5
+ci rhp 48.83
+ci bhp 230@4400
+ci comp 9.2
+ci b&s 3 29/32 & 3 5/16
+ci disp 317.58
+ci block Cast Iron
+ci etype Synchronous in 2nd & 3rd
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci trq 340@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Beige
+co Black
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Turquoise Metallic
+co Copper Metallic
+co Cordovan Metallic
+co Cream
+co Dark Blue Metallic
+co Dark Bronze Metallic
+co Dark Green Metallic
+co Gold Metallic
+co Light Blue Metallic
+co Light Bronze Metallic
+co Light Green Metallic
+co Light Turquoise Metallic
+co Medium Blue Metallic
+co Medium Green Metallic
+co Red
+co Silver Metallic
+co Two Tone Colors Available
+co White
+co Yellow
+ci rad Tube and spacer
+ci ign Distributor and coil
+ci batt 12
+ci cool 15 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 383 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci equip Torque Flite automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 1gear 3.02
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.95
+ci 3gear 1
+ci 2gear 1.76
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 8.55 x 14

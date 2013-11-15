@@ -1,0 +1,58 @@
+<h1>Your Dashboard</h1>
+<hr/>
+<% if Post.count > 0 %>
+    <div class="span3 box" style="margin-bottom: 0">
+      <div class="box-header orange-background">
+        <div class="title">Updates</div>
+        <div class="actions">
+          <a class="btn box-remove btn-mini btn-link" href="#"><i class="icon-remove"></i>
+          </a>
+          <a class="btn box-collapse btn-mini btn-link" href="#"><i></i>
+          </a>
+        </div>
+      </div>
+      <div class="box-content">
+        <%= Post.last.body %>
+      </div>
+    </div>
+<% end %>
+<h3>Usage Stats</h3>
+<ul>
+  <li>Today:      <%= DecoderLog.this_day.where(user: current_user).count %></li>
+  <li>This week:  <%= DecoderLog.this_week.where(user: current_user).count %></li>
+  <li>This month: <%= DecoderLog.this_month.where(user: current_user).count %></li>
+  <li>This year:  <%= DecoderLog.this_year.where(user: current_user).count %></li>
+</ul>
+<h3>Programming Information</h3>
+<p>
+  Your auth_token is: <strong><%= current_user.authentication_token %></strong>
+</p>
+<hr/>
+<h3>Latest Decodes</h3>
+<% @log = DecoderLog.where(user: current_user).order('created_at DESC').take(20) %>
+<% if @log.count == 0 %>
+<p>No decodes yet.</p>
+<% else %>
+    <div class="responsive-table">
+      <div class="scrollable-area">
+        <table class="table">
+          <% @log.each do |d| %>
+              <tr>
+              <% if d.decode.present? && d.decode.vin.present? %>
+                <td><%= d.decode.vin %></td>
+                <td><%= d.decode.title %></td>
+              <% else %>
+                    <td>Missing VIN</td>
+                    <td>Unknown</td>
+              <% end %>
+                <td><span class='timeago'><%= d.created_at %></span></td>
+              </tr>
+          <% end %>
+        </table>
+      </div>
+    </div>
+
+<% end %>
+
+
+

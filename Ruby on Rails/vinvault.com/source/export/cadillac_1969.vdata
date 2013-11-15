@@ -1,0 +1,999 @@
+cls 917, G9([\dX]{6})
+clv 4015, 1969, Cadillac, Calais, Coupe
+ci axle Semifloating
+ci make Cadillac
+ci msrp $5466.00
+ci origin United States
+ci series Calais
+ci year 1969
+ci prod 5600
+ci maker Fisher
+ci doors 2
+ci model 68247
+ci weight 4553
+ci svc Power front disc rear self-adjusting drum
+ci bsize 12
+ci ebrake Rear wheels
+ci trans 7
+ci fuel 26
+ci tcase -NA-
+ci rdiff 5
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci rtred 62.5
+ci wbase 129.5
+ci height 54.4
+ci width 79.9
+ci length 225
+ci block Cast Iron
+ci etype Turbo Hydra-matic
+ci b&s 4.3 & 4.06
+ci etype V8 Overhead valve
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 472
+ci comp 10.5
+ci etype Downdraft 4-barrel
+ci engno Same as VIN Serial Number.
+ci rhp 59.2
+ci mbear 5
+ci bhp 375@4400
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci trq 525@3000
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Metallic
+co Athenian Blue Metallic
+co Biscay Aqua Firemist Metallic
+co Cameo Beige Metallic
+co Chalice Gold Firemist Metallic
+co Chateau Mauve Firemist Metallic
+co Colonial Yellow
+co Cordovan Metallic
+co Cotillion White
+co Empire Maroon Metallic
+co Nutmeg Brown Firemist Metallic
+co PalMetallicto Green Metallic
+co Patina Silver Metallic
+co Persian Aqua Metallic
+co Phantom Gray Metallic
+co Rampur Green Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sapphire Blue Firemist Metallic
+co Shalimar Gold Metallic
+co Two Tone Colors Available
+co Wisteria Metallic
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci rad Tube and center
+ci cool 20.3 Quarts
+ci cool Centrifugal water  pump
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Power vent windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 9.00 x 15
+cls 918, N9([\dX]{6})
+clv 4016, 1969, Cadillac, Calais, Hardtop
+ci axle Semifloating
+ci origin United States
+ci msrp $5642.00
+ci prod 6825
+ci make Cadillac
+ci year 1969
+ci series Calais
+ci maker Fisher
+ci model 68249
+ci weight 4577
+ci doors 4
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci trans 7
+ci fuel 26
+ci tcase -NA-
+ci rdiff 5
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci wbase 129.5
+ci rtred 62.5
+ci height 54.4
+ci width 79.9
+ci length 225
+ci block Cast Iron
+ci etype Turbo Hydra-matic
+ci b&s 4.3 & 4.06
+ci etype V8 Overhead valve
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 472
+ci comp 10.5
+ci etype Downdraft 4-barrel
+ci engno Same as VIN Serial Number.
+ci bhp 375@4400
+ci mbear 5
+ci rhp 59.2
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci trq 525@3000
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Metallic
+co Athenian Blue Metallic
+co Biscay Aqua Firemist Metallic
+co Cameo Beige Metallic
+co Chalice Gold Firemist Metallic
+co Chateau Mauve Firemist Metallic
+co Colonial Yellow
+co Cordovan Metallic
+co Cotillion White
+co Empire Maroon Metallic
+co Nutmeg Brown Firemist Metallic
+co PalMetallicto Green Metallic
+co Patina Silver Metallic
+co Persian Aqua Metallic
+co Phantom Gray Metallic
+co Rampur Green Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sapphire Blue Firemist Metallic
+co Shalimar Gold Metallic
+co Two Tone Colors Available
+co Wisteria Metallic
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci rad Tube and center
+ci cool 20.3 Quarts
+ci cool Centrifugal water  pump
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Power vent windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 9.00 x 15
+cls 919, F9([\dX]{6})
+clv 4017, 1969, Cadillac, De Ville, Convertible
+ci axle Semifloating
+ci make Cadillac
+ci series De Ville
+ci msrp $5887.00
+ci prod 7890
+ci year 1969
+ci origin United States
+ci doors 2
+ci maker Fisher
+ci weight 4572
+ci model 68367
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci oil 5
+ci trans 7
+ci fuel 26
+ci rdiff 5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci height 54.4
+ci length 225
+ci rtred 62.5
+ci width 79.9
+ci wbase 129.5
+ci block Cast Iron
+ci bhp 375@4400
+ci etype V8 Overhead valve
+ci cyl 8
+ci b&s 4.3 & 4.06
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci etype Downdraft 4-barrel
+ci disp 472
+ci mbear 5
+ci vlift Hydraulic
+ci rhp 59.2
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci trq 525@3000
+ci engno Same as VIN Serial Number.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Metallic
+co Athenian Blue Metallic
+co Biscay Aqua Firemist Metallic
+co Cameo Beige Metallic
+co Chalice Gold Firemist Metallic
+co Chateau Mauve Firemist Metallic
+co Colonial Yellow
+co Cordovan Metallic
+co Cotillion White
+co Empire Maroon Metallic
+co Nutmeg Brown Firemist Metallic
+co PalMetallicto Green Metallic
+co Patina Silver Metallic
+co Persian Aqua Metallic
+co Phantom Gray Metallic
+co Rampur Green Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sapphire Blue Firemist Metallic
+co Shalimar Gold Metallic
+co Two Tone Colors Available
+co Wisteria Metallic
+ci rad Tube and center
+ci exha Single
+ci cool 20.3 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power seats
+ci equip Radio
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Power windows
+ci equip Power vent windows
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 9.00 x 15
+ci sloc Trunk
+cls 920, J9([\dX]{6})
+clv 4018, 1969, Cadillac, De Ville, Coupe de Ville
+ci axle Semifloating
+ci make Cadillac
+ci series De Ville
+ci msrp $5703.00
+ci prod 65755
+ci year 1969
+ci origin United States
+ci weight 4594
+ci maker Fisher
+ci model 68347
+ci doors 2
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci tcase -NA-
+ci oil 5
+ci fuel 26
+ci rdiff 5
+ci trans 7
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci height 54.4
+ci length 225
+ci rtred 62.5
+ci width 79.9
+ci wbase 129.5
+ci block Cast Iron
+ci bhp 375@4400
+ci etype V8 Overhead valve
+ci cyl 8
+ci b&s 4.3 & 4.06
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci etype Downdraft 4-barrel
+ci disp 472
+ci mbear 5
+ci vlift Hydraulic
+ci rhp 59.2
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci trq 525@3000
+ci engno Same as VIN Serial Number.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Metallic
+co Athenian Blue Metallic
+co Biscay Aqua Firemist Metallic
+co Cameo Beige Metallic
+co Chalice Gold Firemist Metallic
+co Chateau Mauve Firemist Metallic
+co Colonial Yellow
+co Cordovan Metallic
+co Cotillion White
+co Empire Maroon Metallic
+co Nutmeg Brown Firemist Metallic
+co PalMetallicto Green Metallic
+co Patina Silver Metallic
+co Persian Aqua Metallic
+co Phantom Gray Metallic
+co Rampur Green Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sapphire Blue Firemist Metallic
+co Shalimar Gold Metallic
+co Two Tone Colors Available
+co Wisteria Metallic
+ci rad Tube and center
+ci exha Single
+ci cool 20.3 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power seats
+ci equip Radio
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Power windows
+ci equip Power vent windows
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 9.00 x 15
+ci sloc Trunk
+cls 921, B9([\dX]{6})
+clv 4019, 1969, Cadillac, De Ville, Hardtop Sedan De Ville
+ci axle Semifloating
+ci make Cadillac
+ci series De Ville
+ci msrp $5936.00
+ci prod 7890
+ci year 1969
+ci origin United States
+ci model 68369
+ci maker Fisher
+ci weight 4635
+ci doors 4
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci fuel 26
+ci oil 5
+ci trans 7
+ci tcase -NA-
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci width 79.9
+ci height 54.4
+ci rtred 62.5
+ci length 225
+ci wbase 129.5
+ci engno Same as VIN Serial Number.
+ci cyl 8
+ci rhp 59.2
+ci block Cast Iron
+ci trq 525@3000
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci etype Downdraft 4-barrel
+ci etype V8 Overhead valve
+ci mbear 5
+ci vlift Hydraulic
+ci disp 472
+ci b&s 4.3 & 4.06
+ci bhp 375@4400
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Metallic
+co Athenian Blue Metallic
+co Biscay Aqua Firemist Metallic
+co Cameo Beige Metallic
+co Chalice Gold Firemist Metallic
+co Chateau Mauve Firemist Metallic
+co Colonial Yellow
+co Cordovan Metallic
+co Cotillion White
+co Empire Maroon Metallic
+co Nutmeg Brown Firemist Metallic
+co PalMetallicto Green Metallic
+co Patina Silver Metallic
+co Persian Aqua Metallic
+co Phantom Gray Metallic
+co Rampur Green Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sapphire Blue Firemist Metallic
+co Shalimar Gold Metallic
+co Two Tone Colors Available
+co Wisteria Metallic
+ci cool Centrifugal water  pump
+ci cool 20.3 Quarts
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Power vent windows
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 9.00 x 15
+ci sloc Trunk
+cls 922, L9([\dX]{6})
+clv 4020, 1969, Cadillac, De Ville, Sedan de Ville
+ci axle Semifloating
+ci make Cadillac
+ci series De Ville
+ci msrp $5936.00
+ci prod 72958
+ci year 1969
+ci origin United States
+ci model 68349
+ci maker Fisher
+ci weight 4635
+ci doors 4
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci fuel 26
+ci oil 5
+ci trans 7
+ci tcase -NA-
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci width 79.9
+ci height 54.4
+ci rtred 62.5
+ci length 225
+ci wbase 129.5
+ci engno Same as VIN Serial Number.
+ci cyl 8
+ci rhp 59.2
+ci block Cast Iron
+ci trq 525@3000
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci etype Downdraft 4-barrel
+ci etype V8 Overhead valve
+ci mbear 5
+ci vlift Hydraulic
+ci disp 472
+ci b&s 4.3 & 4.06
+ci bhp 375@4400
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Metallic
+co Athenian Blue Metallic
+co Biscay Aqua Firemist Metallic
+co Cameo Beige Metallic
+co Chalice Gold Firemist Metallic
+co Chateau Mauve Firemist Metallic
+co Colonial Yellow
+co Cordovan Metallic
+co Cotillion White
+co Empire Maroon Metallic
+co Nutmeg Brown Firemist Metallic
+co PalMetallicto Green Metallic
+co Patina Silver Metallic
+co Persian Aqua Metallic
+co Phantom Gray Metallic
+co Rampur Green Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sapphire Blue Firemist Metallic
+co Shalimar Gold Metallic
+co Two Tone Colors Available
+co Wisteria Metallic
+ci cool Centrifugal water  pump
+ci cool 20.3 Quarts
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Power vent windows
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 9.00 x 15
+ci sloc Trunk
+cls 923, E9([\dX]{6})
+clv 4021, 1969, Cadillac, Eldorado, Coupe
+ci msrp $6693.00
+ci prod 23333
+ci make Cadillac
+ci series Eldorado
+ci origin United States
+ci year 1969
+ci weight 4537
+ci model 69347
+ci doors 2
+ci maker Fleetwood
+ci fbsize 11 5/16
+ci svc Power front disc rear self-adjusting drum
+ci bsize 12
+ci ebrake Rear wheels
+ci oil 5
+ci tcase -NA-
+ci trans 11.2
+ci fdiff 4.5
+ci fuel 24
+ci carb Rochester
+ci diffr 3.07
+ci diff Not applicable
+ci height 53.7
+ci length 221
+ci width 79.9
+ci rtred 63
+ci ftred 63.5
+ci wbase 120
+ci cyl 8
+ci rhp 59.2
+ci engno Same as VIN Serial Number.
+ci trq 525@3000
+ci mbear 5
+ci block Cast Iron
+ci disp 472
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci etype V8 Overhead valve
+ci etype Turbo Hydra-matic
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci comp 10.5
+ci vlift Hydraulic
+ci bhp 375@4400
+ci b&s 4.3 & 4.06
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Metallic
+co Athenian Blue Metallic
+co Biscay Aqua Firemist Metallic
+co Cameo Beige Metallic
+co Chalice Gold Firemist Metallic
+co Chateau Mauve Firemist Metallic
+co Colonial Yellow
+co Cordovan Metallic
+co Cotillion White
+co Empire Maroon Metallic
+co Nutmeg Brown Firemist Metallic
+co PalMetallicto Green Metallic
+co Patina Silver Metallic
+co Persian Aqua Metallic
+co Phantom Gray Metallic
+co Rampur Green Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sapphire Blue Firemist Metallic
+co Shalimar Gold Metallic
+co Two Tone Colors Available
+co Wisteria Metallic
+ci batt 12
+ci cool 20.3 Quarts
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Dual
+ci equip Power seats
+ci equip Power vent windows
+ci equip Power windows
+ci equip Power antenna
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci fsus Independent torsion bar
+ci rsus Hotchkiss
+ci drive Front wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 9.00 x 15
+cls 924, P9([\dX]{6})
+clv 4022, 1969, Cadillac, Fleetwood, Brougham
+ci axle Semifloating
+ci make Cadillac
+ci series Fleetwood
+ci msrp $7092.00
+ci year 1969
+ci prod 17300
+ci origin United States
+ci doors 4
+ci maker Fleetwood
+ci model 68169
+ci weight 4762
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci tcase -NA-
+ci rdiff 5
+ci fuel 26
+ci oil 6
+ci trans 7
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.94
+ci rtred 62.5
+ci length 228.5
+ci height 56.6
+ci width 79.9
+ci wbase 133
+ci block Cast Iron
+ci bhp 375@4400
+ci etype V8 Overhead valve
+ci cyl 8
+ci b&s 4.3 & 4.06
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci comp 10.5
+ci disp 472
+ci mbear 5
+ci vlift Hydraulic
+ci rhp 59.2
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci trq 525@3000
+ci engno Same as VIN Serial Number.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Metallic
+co Athenian Blue Metallic
+co Biscay Aqua Firemist Metallic
+co Cameo Beige Metallic
+co Chalice Gold Firemist Metallic
+co Chateau Mauve Firemist Metallic
+co Colonial Yellow
+co Cordovan Metallic
+co Cotillion White
+co Empire Maroon Metallic
+co Nutmeg Brown Firemist Metallic
+co PalMetallicto Green Metallic
+co Patina Silver Metallic
+co Persian Aqua Metallic
+co Phantom Gray Metallic
+co Rampur Green Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sapphire Blue Firemist Metallic
+co Shalimar Gold Metallic
+co Two Tone Colors Available
+co Wisteria Metallic
+ci batt 12
+ci exha Single
+ci cool 20.3 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci equip Power seats
+ci equip Radio
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Power windows
+ci equip Power vent windows
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 9.00 x 15
+ci sloc Trunk
+cls 925, M9([\dX]{6})
+clv 4023, 1969, Cadillac, Fleetwood, Sedan
+ci axle Semifloating
+ci make Cadillac
+ci series Fleetwood
+ci msrp $6761.00
+ci prod 2545
+ci year 1969
+ci origin United States
+ci maker Fleetwood
+ci model 68069
+ci doors 4
+ci weight 4711
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci bsize 12
+ci oil 6
+ci fuel 26
+ci tcase -NA-
+ci rdiff 5
+ci trans 7
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci width 79.9
+ci height 56.6
+ci rtred 62.5
+ci length 228.5
+ci wbase 133
+ci engno Same as VIN Serial Number.
+ci cyl 8
+ci rhp 59.2
+ci block Cast Iron
+ci trq 525@3000
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci etype V8 Overhead valve
+ci mbear 5
+ci vlift Hydraulic
+ci disp 472
+ci b&s 4.3 & 4.06
+ci bhp 375@4400
+ci comp 10.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Metallic
+co Athenian Blue Metallic
+co Biscay Aqua Firemist Metallic
+co Cameo Beige Metallic
+co Chalice Gold Firemist Metallic
+co Chateau Mauve Firemist Metallic
+co Colonial Yellow
+co Cordovan Metallic
+co Cotillion White
+co Empire Maroon Metallic
+co Nutmeg Brown Firemist Metallic
+co PalMetallicto Green Metallic
+co Patina Silver Metallic
+co Persian Aqua Metallic
+co Phantom Gray Metallic
+co Rampur Green Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sapphire Blue Firemist Metallic
+co Shalimar Gold Metallic
+co Two Tone Colors Available
+co Wisteria Metallic
+ci cool Centrifugal water  pump
+ci cool 20.3 Quarts
+ci rad Tube and center
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Power vent windows
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 9.00 x 15
+ci sloc Trunk
+cls 926, S9([\dX]{6})
+clv 4024, 1969, Cadillac, 75 (69700), Limousine
+ci axle Semifloating
+ci origin United States
+ci prod 1156
+ci series 75 (69700)
+ci msrp $10961.00
+ci year 1969
+ci make Cadillac
+ci doors 4
+ci model 69733
+ci maker Fleetwood
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci trans 7
+ci oil 5
+ci fuel 26
+ci rdiff 5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.94
+ci wbase 149.8
+ci rtred 62.5
+ci height 58.1
+ci length 245.2
+ci width 79.9
+ci block Cast Iron
+ci engno Same as VIN Serial Number.
+ci bhp 375@4400
+ci b&s 4.3 & 4.06
+ci cyl 8
+ci etype Turbo Hydra-matic
+ci disp 472
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci comp 10.5
+ci vlift Hydraulic
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci trq 525@3000
+ci rhp 59.2
+ci etype V8 Overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Metallic
+co Athenian Blue Metallic
+co Biscay Aqua Firemist Metallic
+co Cameo Beige Metallic
+co Chalice Gold Firemist Metallic
+co Chateau Mauve Firemist Metallic
+co Colonial Yellow
+co Cordovan Metallic
+co Cotillion White
+co Empire Maroon Metallic
+co Nutmeg Brown Firemist Metallic
+co PalMetallicto Green Metallic
+co Patina Silver Metallic
+co Persian Aqua Metallic
+co Phantom Gray Metallic
+co Rampur Green Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sapphire Blue Firemist Metallic
+co Shalimar Gold Metallic
+co Two Tone Colors Available
+co Wisteria Metallic
+ci cool 20.3 Quarts
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci exha Single
+ci equip Power vent windows
+ci equip Power seats
+ci equip Radio
+ci equip Power antenna
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power windows
+ci sgear Hydraulic power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 9.00 x 15
+cls 927, R9([\dX]{6})
+clv 4025, 1969, Cadillac, 75 (69700), Sedan
+ci axle Semifloating
+ci series 75 (69700)
+ci origin United States
+ci make Cadillac
+ci msrp $10823.00
+ci year 1969
+ci prod 880
+ci doors 4
+ci maker Fleetwood
+ci model 69723
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci tcase -NA-
+ci fuel 26
+ci trans 7
+ci oil 5
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.94
+ci wbase 149.8
+ci rtred 62.5
+ci height 58.1
+ci width 79.9
+ci length 245.2
+ci block Cast Iron
+ci engno Same as VIN Serial Number.
+ci bhp 375@4400
+ci cyl 8
+ci b&s 4.3 & 4.06
+ci etype Turbo Hydra-matic
+ci disp 472
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci comp 10.5
+ci vlift Hydraulic
+ci englo On pad at rear of crankcase bhehind intake manifold.
+ci trq 525@3000
+ci rhp 59.2
+ci etype V8 Overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Metallic
+co Athenian Blue Metallic
+co Biscay Aqua Firemist Metallic
+co Cameo Beige Metallic
+co Chalice Gold Firemist Metallic
+co Chateau Mauve Firemist Metallic
+co Colonial Yellow
+co Cordovan Metallic
+co Cotillion White
+co Empire Maroon Metallic
+co Nutmeg Brown Firemist Metallic
+co PalMetallicto Green Metallic
+co Patina Silver Metallic
+co Persian Aqua Metallic
+co Phantom Gray Metallic
+co Rampur Green Metallic
+co Sable Black
+co San Mateo Red Metallic
+co Sapphire Blue Firemist Metallic
+co Shalimar Gold Metallic
+co Two Tone Colors Available
+co Wisteria Metallic
+ci cool 20.3 Quarts
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci exha Single
+ci equip Power vent windows
+ci equip Power seats
+ci equip Radio
+ci equip Power antenna
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power windows
+ci sgear Hydraulic power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 9.00 x 15

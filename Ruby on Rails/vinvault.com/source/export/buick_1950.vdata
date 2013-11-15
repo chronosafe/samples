@@ -1,0 +1,1647 @@
+cls 1, 7([\dX]{7})
+clv 1875, 1950, Buick, Roadmaster, Convertible Coupe
+ci axle Semifloating
+ci origin United States
+ci msrp $2935.00
+ci prod 2964
+ci year 1950
+ci series Roadmaster
+ci make Buick
+ci maker Fisher
+ci doors 2
+ci model 76C
+ci svc Hydraulic drum
+ci bsize 12
+ci ebrake Rear service brakes
+ci trans 22
+ci oil 8
+ci fuel 19
+ci tcase -NA-
+ci rdiff 4
+ci carb Carter or Stromberg
+ci ctype Not applicable
+ci diffr 3.60
+ci diff Hypoid
+ci rtred 62 7/32
+ci ftred 59.125
+ci wbase 126 5/16
+ci width 80
+ci height 64 13/32
+ci length 208 13/16
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 7.2
+ci trq 280@2000
+ci englo Boss on right side of crankcase near rear.
+ci b&s 3 7/16 & 4 5/16
+ci mbear 5
+ci etype Overhead valve
+ci disp 320.2
+ci rhp 37.8
+ci vlift Hydraulic
+ci etype Dynaflow automatic
+ci engno Starting 5635021-7
+ci bhp 152@3600
+ci etype Dual downdraft
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci cool 17.75 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci batt 6
+ci rad Vee cellular
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci ttype 4 ply
+ci sloc Trunk
+ci wsize 15 x 6.5
+ci tsize 8 x 15
+cls 2, 7([\dX]{7})
+clv 1876, 1950, Buick, Roadmaster, Estate Wagon
+ci axle Semifloating
+ci msrp $3490.00
+ci prod 420
+ci origin United States
+ci make Buick
+ci year 1950
+ci series Roadmaster
+ci maker Fisher
+ci model 79
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Hydraulic drum
+ci fuel 19
+ci tcase -NA-
+ci oil 8
+ci trans 22
+ci rdiff 4
+ci carb Carter or Stromberg
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.60
+ci rtred 62 7/32
+ci ftred 59.125
+ci height 64 13/32
+ci wbase 126 5/16
+ci length 208 13/16
+ci width 80
+ci cyl 8
+ci engno Starting 5635021-7
+ci comp 7.2
+ci trq 280@2000
+ci englo Boss on right side of crankcase near rear.
+ci etype Overhead valve
+ci mbear 5
+ci b&s 3 7/16 & 4 5/16
+ci bhp 152@3600
+ci disp 320.2
+ci vlift Hydraulic
+ci etype Dynaflow automatic
+ci rhp 37.8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci cool 17.75 Quarts
+ci batt 6
+ci exha Single
+ci rad Vee cellular
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 8 x 15
+ci wsize 15 x 6.5
+ci ttype 4 ply
+cls 3, 7([\dX]{7})
+clv 1877, 1950, Buick, Roadmaster, Jetback Sedanet
+ci axle Semifloating
+ci make Buick
+ci year 1950
+ci origin United States
+ci prod 2968
+ci series Roadmaster
+ci msrp $2430.00
+ci model 76S
+ci doors 2
+ci weight 4025
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Hydraulic drum
+ci oil 8
+ci trans 22
+ci tcase -NA-
+ci rdiff 4
+ci fuel 19
+ci carb Carter or Stromberg
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.60
+ci height 64 13/32
+ci rtred 62 7/32
+ci length 208 13/16
+ci ftred 59.125
+ci width 80
+ci wbase 126 5/16
+ci trq 280@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci etype Overhead valve
+ci englo Boss on right side of crankcase near rear.
+ci comp 7.2
+ci bhp 152@3600
+ci engno Starting 5635021-7
+ci rhp 37.8
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Dynaflow automatic
+ci b&s 3 7/16 & 4 5/16
+ci mbear 5
+ci disp 320.2
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci ign Distributor and coil
+ci cool 17.75 Quarts
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci batt 6
+ci rad Vee cellular
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci ttype 4 ply
+ci wsize 15 x 6.5
+ci tsize 8 x 15
+cls 4, 7([\dX]{7})
+clv 1878, 1950, Buick, Roadmaster, Riviera
+ci axle Semifloating
+ci make Buick
+ci prod 2300
+ci series Roadmaster
+ci year 1950
+ci origin United States
+ci doors 2
+ci maker Fisher
+ci model 75R
+ci svc Hydraulic drum
+ci bsize 12
+ci ebrake Rear service brakes
+ci fuel 19
+ci oil 8
+ci tcase -NA-
+ci rdiff 4
+ci trans 22
+ci carb Carter or Stromberg
+ci ctype Not applicable
+ci diffr 3.60
+ci diff Hypoid
+ci wbase 126 5/16
+ci rtred 62 7/32
+ci height 64 13/32
+ci ftred 59.125
+ci length 208 13/16
+ci width 80
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci englo Boss on right side of crankcase near rear.
+ci engno Starting 5635021-7
+ci b&s 3 7/16 & 4 5/16
+ci trq 280@2000
+ci etype Overhead valve
+ci comp 7.2
+ci etype Dual downdraft
+ci etype Dynaflow automatic
+ci disp 320.2
+ci rhp 37.8
+ci vlift Hydraulic
+ci bhp 152@3600
+ci cyl 8
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci cool 17.75 Quarts
+ci batt 6
+ci ign Distributor and coil
+ci rad Vee cellular
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 5, 7([\dX]{7})
+clv 1879, 1950, Buick, Roadmaster, Riviera DeLuxe
+ci axle Semifloating
+ci msrp $2985.00
+ci prod 8432
+ci origin United States
+ci year 1950
+ci make Buick
+ci series Roadmaster
+ci maker Fisher
+ci model 76R
+ci doors 2
+ci svc Hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 12
+ci rdiff 4
+ci tcase -NA-
+ci fuel 19
+ci trans 22
+ci oil 8
+ci carb Carter or Stromberg
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.60
+ci ftred 59.125
+ci height 64 13/32
+ci length 208 13/16
+ci wbase 126 5/16
+ci rtred 62 7/32
+ci width 80
+ci bhp 152@3600
+ci cyl 8
+ci comp 7.2
+ci trq 280@2000
+ci englo Boss on right side of crankcase near rear.
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci etype Overhead valve
+ci vlift Hydraulic
+ci disp 320.2
+ci etype Dual downdraft
+ci etype Dynaflow automatic
+ci rhp 37.8
+ci engno Starting 5635021-7
+ci b&s 3 7/16 & 4 5/16
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci rad Vee cellular
+ci ign Distributor and coil
+ci cool 17.75 Quarts
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci batt 6
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci ttype 4 ply
+ci wsize 15 x 6.5
+ci tsize 8 x 15
+cls 6, 7([\dX]{7})
+clv 1880, 1950, Buick, Roadmaster, Riviera Sedan
+ci axle Semifloating
+ci msrp $2541.00
+ci prod 54212
+ci origin United States
+ci make Buick
+ci year 1950
+ci series Roadmaster
+ci maker Fisher
+ci model 72
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Hydraulic drum
+ci fuel 19
+ci tcase -NA-
+ci oil 8
+ci rdiff 4
+ci trans 22
+ci carb Carter or Stromberg
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.60
+ci wbase 126 5/16
+ci rtred 62 7/32
+ci height 64 13/32
+ci ftred 59.125
+ci length 208 13/16
+ci width 80
+ci cyl 8
+ci engno Starting 5635021-7
+ci comp 7.2
+ci trq 280@2000
+ci englo Boss on right side of crankcase near rear.
+ci etype Overhead valve
+ci mbear 5
+ci b&s 3 7/16 & 4 5/16
+ci bhp 152@3600
+ci disp 320.2
+ci vlift Hydraulic
+ci etype Dynaflow automatic
+ci rhp 37.8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci cool 17.75 Quarts
+ci batt 6
+ci exha Single
+ci rad Vee cellular
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 8 x 15
+ci wsize 15 x 6.5
+ci ttype 4 ply
+cls 7, 7([\dX]{7})
+clv 1881, 1950, Buick, Roadmaster, Tourback Sedan
+ci axle Semifloating
+ci make Buick
+ci origin United States
+ci prod 6738
+ci series Roadmaster
+ci year 1950
+ci model 71
+ci weight 4135
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic drum
+ci bsize 12
+ci tcase -NA-
+ci fuel 19
+ci oil 8
+ci rdiff 4
+ci trans 22
+ci carb Carter or Stromberg
+ci ctype Not applicable
+ci diffr 3.60
+ci diff Hypoid
+ci rtred 62 7/32
+ci height 64 13/32
+ci wbase 126 5/16
+ci length 208 13/16
+ci ftred 59.125
+ci width 80
+ci cyl 8
+ci engno Starting 5635021-7
+ci comp 7.2
+ci trq 280@2000
+ci englo Boss on right side of crankcase near rear.
+ci etype Overhead valve
+ci mbear 5
+ci b&s 3 7/16 & 4 5/16
+ci bhp 152@3600
+ci disp 320.2
+ci vlift Hydraulic
+ci etype Dynaflow automatic
+ci rhp 37.8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci cool 17.75 Quarts
+ci batt 6
+ci exha Single
+ci rad Vee cellular
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 8 x 15
+ci wsize 15 x 6.5
+ci ttype 4 ply
+cls 8, 7([\dX]{7})
+clv 1882, 1950, Buick, Special, DeLuxe Jetback Sedanet
+ci axle Semifloating
+ci origin United States
+ci year 1950
+ci prod 76902
+ci make Buick
+ci series Special
+ci model 46D
+ci maker Fisher
+ci doors 2
+ci weight 3665
+ci bsize 12
+ci svc Hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 19
+ci rdiff 4
+ci tcase -NA-
+ci trans 1.75
+ci oil 6.5
+ci carb Carter or Stromberg
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 4.10
+ci diff Hypoid
+ci wbase 121.5
+ci length 204
+ci height 63 29/32
+ci ftred 59.125
+ci rtred 62 7/32
+ci width 79 13/32
+ci mbear 5
+ci vlift Mechanical
+ci comp 6.6
+ci rhp 30.6
+ci bhp 115@3600
+ci b&s 3 3/32 & 4 1/8
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci disp 248
+ci trq 212@2000
+ci etype Helical
+ci etype Overhead valve
+ci engno Starting 5568000-4
+ci englo Boss on right side of crankcase near front.
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci cool Centrifugal pump with thermostat
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci batt 6
+ci rad Vee cellular
+ci equip Dynaflow automatic transmission
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci 1gear 2.67
+ci 5gear Not applicable
+ci 2gear 1.66
+ci drive Rear wheel drive
+ci gears 3
+ci rev 3.02
+ci 3gear 1
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci wsize 15 x 6
+ci tsize 7.6 x 15
+ci ttype 4 ply
+cls 9, 7([\dX]{7})
+clv 1883, 1950, Buick, Special, Jetback Coupe
+ci axle Semifloating
+ci msrp $1695.00
+ci series Special
+ci origin United States
+ci make Buick
+ci prod 2500
+ci year 1950
+ci model 46
+ci weight 3615
+ci maker Fisher
+ci doors 2
+ci bsize 12
+ci ebrake Rear service brakes
+ci svc Hydraulic drum
+ci fuel 19
+ci rdiff 4
+ci tcase -NA-
+ci trans 1.75
+ci oil 6.5
+ci carb Carter or Stromberg
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 4.10
+ci diff Hypoid
+ci length 204
+ci width 79 13/32
+ci wbase 121.5
+ci rtred 62 7/32
+ci ftred 59.125
+ci height 63 29/32
+ci etype Helical
+ci comp 6.6
+ci mbear 5
+ci engno Starting 5568000-4
+ci bhp 115@3600
+ci rhp 30.6
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype Overhead valve
+ci b&s 3 3/32 & 4 1/8
+ci vlift Mechanical
+ci trq 212@2000
+ci disp 248
+ci englo Boss on right side of crankcase near front.
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci batt 6
+ci rad Vee cellular
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Dynaflow automatic transmission
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci 1gear 2.67
+ci 3gear 1
+ci 2gear 1.66
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.02
+ci gears 3
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci ttype 4 ply
+ci tsize 7.6 x 15
+ci wsize 15 x 6
+cls 10, 7([\dX]{7})
+clv 1884, 1950, Buick, Special, Jetback Sedan
+ci axle Semifloating
+ci make Buick
+ci series Special
+ci origin United States
+ci prod 58400
+ci msrp $1795.00
+ci year 1950
+ci model 43
+ci doors 4
+ci maker Fisher
+ci weight 3715
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Hydraulic drum
+ci oil 6.5
+ci tcase -NA-
+ci rdiff 4
+ci fuel 19
+ci trans 1.75
+ci carb Carter or Stromberg
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 4.10
+ci diff Hypoid
+ci width 79 13/32
+ci length 204
+ci rtred 62 7/32
+ci wbase 121.5
+ci ftred 59.125
+ci height 63 29/32
+ci etype Helical
+ci comp 6.6
+ci mbear 5
+ci engno Starting 5568000-4
+ci bhp 115@3600
+ci rhp 30.6
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype Overhead valve
+ci b&s 3 3/32 & 4 1/8
+ci vlift Mechanical
+ci trq 212@2000
+ci disp 248
+ci englo Boss on right side of crankcase near front.
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci batt 6
+ci rad Vee cellular
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Dynaflow automatic transmission
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci 1gear 2.67
+ci 3gear 1
+ci 2gear 1.66
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.02
+ci gears 3
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci ttype 4 ply
+ci tsize 7.6 x 15
+ci wsize 15 x 6
+cls 11, 7([\dX]{7})
+clv 1885, 1950, Buick, Special, Jetback Sedan DeLuxe
+ci axle Semifloating
+ci origin United States
+ci make Buick
+ci series Special
+ci year 1950
+ci prod 14335
+ci weight 3720
+ci model 43D
+ci maker Fisher
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Hydraulic drum
+ci bsize 12
+ci fuel 19
+ci trans 1.75
+ci oil 6.5
+ci rdiff 4
+ci tcase -NA-
+ci carb Carter or Stromberg
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 4.10
+ci height 63 29/32
+ci length 204
+ci width 79 13/32
+ci wbase 121.5
+ci rtred 62 7/32
+ci ftred 59.125
+ci vlift Mechanical
+ci comp 6.6
+ci etype Dual downdraft
+ci bhp 115@3600
+ci rhp 30.6
+ci b&s 3 3/32 & 4 1/8
+ci cyl 8
+ci disp 248
+ci englo Boss on right side of crankcase near front.
+ci trq 212@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Starting 5568000-4
+ci etype Helical
+ci mbear 5
+ci etype Overhead valve
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci rad Vee cellular
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci batt 6
+ci equip Dynaflow automatic transmission
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.66
+ci drive Rear wheel drive
+ci 1gear 2.67
+ci rev 3.02
+ci 3gear 1
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci wsize 15 x 6
+ci tsize 7.6 x 15
+ci ttype 4 ply
+cls 12, 7([\dX]{7})
+clv 1886, 1950, Buick, Special, Jetback Sedanet
+ci axle Semifloating
+ci msrp $1745.00
+ci series Special
+ci origin United States
+ci make Buick
+ci prod 42935
+ci year 1950
+ci model 46S
+ci weight 3655
+ci maker Fisher
+ci doors 2
+ci bsize 12
+ci ebrake Rear service brakes
+ci svc Hydraulic drum
+ci fuel 19
+ci rdiff 4
+ci tcase -NA-
+ci trans 1.75
+ci oil 6.5
+ci carb Carter or Stromberg
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 4.10
+ci length 204
+ci width 79 13/32
+ci wbase 121.5
+ci rtred 62 7/32
+ci ftred 59.125
+ci height 63 29/32
+ci etype Helical
+ci comp 6.6
+ci mbear 5
+ci engno Starting 5568000-4
+ci bhp 115@3600
+ci rhp 30.6
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype Overhead valve
+ci b&s 3 3/32 & 4 1/8
+ci vlift Mechanical
+ci trq 212@2000
+ci disp 248
+ci englo Boss on right side of crankcase near front.
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci batt 6
+ci rad Vee cellular
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Dynaflow automatic transmission
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci 1gear 2.67
+ci 3gear 1
+ci 2gear 1.66
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.02
+ci gears 3
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci ttype 4 ply
+ci tsize 7.6 x 15
+ci wsize 15 x 6
+cls 13, 7([\dX]{7})
+clv 1887, 1950, Buick, Special, Tourback Sedan
+ci axle Semifloating
+ci series Special
+ci prod 1141
+ci origin United States
+ci year 1950
+ci make Buick
+ci maker Fisher
+ci model 41
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Hydraulic drum
+ci fuel 19
+ci trans 1.75
+ci tcase -NA-
+ci oil 6.5
+ci rdiff 4
+ci carb Carter or Stromberg
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 4.10
+ci diff Hypoid
+ci length 204
+ci ftred 59.125
+ci width 79 13/32
+ci wbase 121.5
+ci height 63 29/32
+ci rtred 62 7/32
+ci comp 6.6
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci etype Dual downdraft
+ci mbear 5
+ci engno Starting 5568000-4
+ci cyl 8
+ci trq 212@2000
+ci englo Boss on right side of crankcase near front.
+ci bhp 115@3600
+ci disp 248
+ci rhp 30.6
+ci etype Helical
+ci b&s 3 3/32 & 4 1/8
+ci etype Overhead valve
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci rad Vee cellular
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci batt 6
+ci equip Dynaflow automatic transmission
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.66
+ci drive Rear wheel drive
+ci 1gear 2.67
+ci rev 3.02
+ci 3gear 1
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci wsize 15 x 6
+ci tsize 7.6 x 15
+ci ttype 4 ply
+cls 14, 7([\dX]{7})
+clv 1888, 1950, Buick, Special, Tourback Sedan DeLuxe
+ci axle Semifloating
+ci series Special
+ci prod 141396
+ci origin United States
+ci make Buick
+ci year 1950
+ci maker Fisher
+ci doors 4
+ci model 41D
+ci ebrake Rear service brakes
+ci svc Hydraulic drum
+ci bsize 12
+ci fuel 19
+ci trans 1.75
+ci tcase -NA-
+ci oil 6.5
+ci rdiff 4
+ci carb Carter or Stromberg
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 4.10
+ci diff Hypoid
+ci length 204
+ci ftred 59.125
+ci width 79 13/32
+ci wbase 121.5
+ci height 63 29/32
+ci rtred 62 7/32
+ci comp 6.6
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci etype Dual downdraft
+ci mbear 5
+ci engno Starting 5568000-4
+ci cyl 8
+ci trq 212@2000
+ci englo Boss on right side of crankcase near front.
+ci bhp 115@3600
+ci disp 248
+ci rhp 30.6
+ci etype Helical
+ci b&s 3 3/32 & 4 1/8
+ci etype Overhead valve
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci rad Vee cellular
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci batt 6
+ci equip Dynaflow automatic transmission
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.66
+ci drive Rear wheel drive
+ci 1gear 2.67
+ci rev 3.02
+ci 3gear 1
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci wsize 15 x 6
+ci tsize 7.6 x 15
+ci ttype 4 ply
+cls 15, 7([\dX]{7})
+clv 1889, 1950, Buick, Super, Convertible Coupe
+ci axle Semifloating
+ci make Buick
+ci series Super
+ci origin United States
+ci prod 12259
+ci year 1950
+ci msrp $2410.00
+ci model 56C
+ci doors 2
+ci maker Fisher
+ci bsize 12
+ci svc Hydraulic drum
+ci ebrake Rear service brakes
+ci trans 1.75
+ci fuel 19
+ci tcase -NA-
+ci rdiff 4
+ci oil 6.5
+ci carb Carter or Stromberg
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.90
+ci diff Hypoid
+ci width 80
+ci wbase 121.5
+ci length 204
+ci rtred 62 7/32
+ci ftred 59.125
+ci height 63 29/32
+ci etype In line Valve-in-head
+ci comp 6.9
+ci etype Dual downdraft
+ci mbear 5
+ci disp 263.3
+ci cyl 8
+ci b&s 3 3/16 & 4 1/8
+ci rhp 32.5
+ci englo Boss on right side of crankcase near front.
+ci bhp 124@3600
+ci engno Starting 5628758-5 & 5624743-5
+ci vlift Hydraulic
+ci etype Helical
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 220@2000
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci rad Vee cellular
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci batt 6
+ci equip Dynaflow automatic transmission
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci 3gear 1
+ci 2gear 1.66
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.67
+ci gears 3
+ci rev 3.02
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 7.6 x 15
+ci wsize 15 x 6.5
+ci ttype 4 ply
+cls 16, 7([\dX]{7})
+clv 1890, 1950, Buick, Super, Estate Wagon
+ci axle Semifloating
+ci origin United States
+ci series Super
+ci make Buick
+ci year 1950
+ci prod 2480
+ci msrp $2975.00
+ci doors 4
+ci model 59
+ci maker Fisher
+ci bsize 12
+ci ebrake Rear service brakes
+ci svc Hydraulic drum
+ci trans 1.75
+ci tcase -NA-
+ci rdiff 4
+ci fuel 19
+ci oil 6.5
+ci carb Carter or Stromberg
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.90
+ci diff Hypoid
+ci width 80
+ci length 204
+ci wbase 121.5
+ci rtred 62 7/32
+ci ftred 59.125
+ci height 63 29/32
+ci bhp 124@3600
+ci comp 6.9
+ci etype In line Valve-in-head
+ci etype Dual downdraft
+ci mbear 5
+ci cyl 8
+ci b&s 3 3/16 & 4 1/8
+ci trq 220@2000
+ci englo Boss on right side of crankcase near front.
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Starting 5628758-5 & 5624743-5
+ci vlift Hydraulic
+ci etype Helical
+ci rhp 32.5
+ci disp 263.3
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci rad Vee cellular
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci batt 6
+ci equip Dynaflow automatic transmission
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci 3gear 1
+ci 2gear 1.66
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.67
+ci gears 3
+ci rev 3.02
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 7.6 x 15
+ci wsize 15 x 6.5
+ci ttype 4 ply
+cls 17, 7([\dX]{7})
+clv 1891, 1950, Buick, Super, Jetback Sedanet
+ci axle Semifloating
+ci make Buick
+ci series Super
+ci origin United States
+ci msrp $1913.00
+ci year 1950
+ci prod 10697
+ci weight 3645
+ci model 56S
+ci doors 2
+ci maker Fisher
+ci bsize 12
+ci ebrake Rear service brakes
+ci svc Hydraulic drum
+ci trans 1.75
+ci tcase -NA-
+ci rdiff 4
+ci fuel 19
+ci oil 6.5
+ci carb Carter or Stromberg
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.90
+ci diff Hypoid
+ci width 80
+ci length 204
+ci wbase 121.5
+ci rtred 62 7/32
+ci ftred 59.125
+ci height 63 29/32
+ci trq 220@2000
+ci comp 6.9
+ci etype In line Valve-in-head
+ci disp 263.3
+ci mbear 5
+ci cyl 8
+ci b&s 3 3/16 & 4 1/8
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Boss on right side of crankcase near front.
+ci bhp 124@3600
+ci engno Starting 5628758-5 & 5624743-5
+ci etype Dual downdraft
+ci etype Helical
+ci rhp 32.5
+ci vlift Hydraulic
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci rad Vee cellular
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci batt 6
+ci equip Dynaflow automatic transmission
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci 3gear 1
+ci 2gear 1.66
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.67
+ci gears 3
+ci rev 3.02
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 7.6 x 15
+ci wsize 15 x 6.5
+ci ttype 4 ply
+cls 18, 7([\dX]{7})
+clv 1892, 1950, Buick, Super, Riviera
+ci axle Semifloating
+ci series Super
+ci origin United States
+ci make Buick
+ci year 1950
+ci prod 26030
+ci maker Fisher
+ci doors 2
+ci model 56R
+ci svc Hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 12
+ci tcase -NA-
+ci oil 6.5
+ci fuel 19
+ci trans 1.75
+ci rdiff 4
+ci carb Carter or Stromberg
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.90
+ci height 63 29/32
+ci width 80
+ci rtred 62 7/32
+ci wbase 121.5
+ci ftred 59.125
+ci length 204
+ci mbear 5
+ci comp 6.9
+ci vlift Hydraulic
+ci rhp 32.5
+ci etype Helical
+ci cyl 8
+ci b&s 3 3/16 & 4 1/8
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Boss on right side of crankcase near front.
+ci trq 220@2000
+ci engno Starting 5628758-5 & 5624743-5
+ci etype Dual downdraft
+ci bhp 124@3600
+ci etype In line Valve-in-head
+ci disp 263.3
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci exha Single
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci batt 6
+ci cool Centrifugal pump with thermostat
+ci rad Vee cellular
+ci equip Dynaflow automatic transmission
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci 1gear 2.67
+ci 5gear Not applicable
+ci 2gear 1.66
+ci drive Rear wheel drive
+ci gears 3
+ci rev 3.02
+ci 3gear 1
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci wsize 15 x 6.5
+ci tsize 7.6 x 15
+ci ttype 4 ply
+cls 19, 7([\dX]{7})
+clv 1893, 1950, Buick, Super, Riviera Sedan
+ci axle Semifloating
+ci make Buick
+ci origin United States
+ci series Super
+ci year 1950
+ci prod 114745
+ci model 52
+ci maker Fisher
+ci doors 4
+ci bsize 12
+ci svc Hydraulic drum
+ci ebrake Rear service brakes
+ci trans 1.75
+ci tcase -NA-
+ci fuel 19
+ci rdiff 4
+ci oil 6.5
+ci carb Carter or Stromberg
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.90
+ci diff Hypoid
+ci length 204
+ci ftred 59.125
+ci width 80
+ci wbase 121.5
+ci rtred 62 7/32
+ci height 63 29/32
+ci disp 263.3
+ci comp 6.9
+ci etype Dual downdraft
+ci b&s 3 3/16 & 4 1/8
+ci trq 220@2000
+ci cyl 8
+ci mbear 5
+ci etype In line Valve-in-head
+ci englo Boss on right side of crankcase near front.
+ci engno Starting 5628758-5 & 5624743-5
+ci bhp 124@3600
+ci vlift Hydraulic
+ci etype Helical
+ci rhp 32.5
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci rad Vee cellular
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci batt 6
+ci equip Dynaflow automatic transmission
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.66
+ci drive Rear wheel drive
+ci 1gear 2.67
+ci rev 3.02
+ci 3gear 1
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci wsize 15 x 6.5
+ci tsize 7.6 x 15
+ci ttype 4 ply
+cls 20, 7([\dX]{7})
+clv 1894, 1950, Buick, Super, Tourback Sedan
+ci axle Semifloating
+ci make Buick
+ci series Super
+ci origin United States
+ci prod 55672
+ci msrp $2006.00
+ci year 1950
+ci doors 4
+ci maker Fisher
+ci weight 3745
+ci model 51
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Hydraulic drum
+ci rdiff 4
+ci oil 6.5
+ci trans 1.75
+ci fuel 19
+ci tcase -NA-
+ci carb Carter or Stromberg
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.90
+ci diff Hypoid
+ci wbase 121.5
+ci ftred 59.125
+ci length 204
+ci width 80
+ci height 63 29/32
+ci rtred 62 7/32
+ci b&s 3 3/16 & 4 1/8
+ci comp 6.9
+ci etype In line Valve-in-head
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci bhp 124@3600
+ci disp 263.3
+ci englo Boss on right side of crankcase near front.
+ci trq 220@2000
+ci rhp 32.5
+ci etype Dual downdraft
+ci etype Helical
+ci engno Starting 5628758-5 & 5624743-5
+ci vlift Hydraulic
+ci color Exterior Colors
+co Allendale Green
+co Barton Gray
+co Calvin Gray
+co Cirrus Green
+co Cloudmist Gray
+co Cumberland Gray
+co Geneva Green
+co Imperial Blue
+co Kashmir Green
+co Meredith Green
+co Niagra Green
+co Old Ivory
+co Olympic Blue
+co Royal Maroon No.2
+co Sunmist Grey
+co Two Tone Colors Available
+co Verde Green
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci rad Vee cellular
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci batt 6
+ci equip Dynaflow automatic transmission
+ci sgear Ball bearing worm and nut
+ci rsus Coil springs
+ci 3gear 1
+ci 2gear 1.66
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.67
+ci gears 3
+ci rev 3.02
+ci vloc Plate on left front door pillar & stamped on left front frame crossmember extension.
+ci sloc Trunk
+ci tsize 7.6 x 15
+ci wsize 15 x 6.5
+ci ttype 4 ply

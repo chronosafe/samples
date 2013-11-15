@@ -1,0 +1,2991 @@
+cls 679, 4B27(\w)5(\w)([\dX]{6})
+clv 2554, 1975, Buick, Apollo Skylark, Coupe
+ci axle Semifloating
+ci make Buick
+ci origin United States
+ci msrp $3463.00
+ci year 1975
+ci prod 27689
+ci series Apollo Skylark
+ci maker Fisher
+ci model 4XB27
+ci doors 2
+ci fbsize 11 55/64
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fuel 21
+ci tcase -NA-
+ci trans 3.5
+ci oil 4
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.93
+ci width 72.4
+ci wbase 111
+ci length 200.3
+ci rtred 63
+ci height 53.2
+ci ftred 61.3
+ci mbear 7
+ci etype Inline 6 valve-in-head
+ci cyl 6
+ci trq 185@1200
+ci comp 8.25
+ci engno Same as VIN production number sequence.
+ci etype Fully synchronized
+ci rhp 36
+ci block Cast alloy iron
+ci b&s 3 7/8 & 3 1/23
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci vlift Hydraulic
+ci bhp 105@3800
+ci etype Single downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci ign Distributor and coil
+ci ftype Unleaded
+ci cool 16.1 Quarts
+ci exha Single
+ci batt 12
+ci cool Water pump
+ci equip Power brakes
+ci equip 350 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 3.22
+ci 1gear 3.11
+ci 2gear 1.84
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize FR78 x 14
+ci sloc Trunk
+cls 680, 4B17(\w)5(\w)([\dX]{6})
+clv 2555, 1975, Buick, Apollo Skylark, Hatchback
+ci axle Semifloating
+ci origin United States
+ci prod 6814
+ci year 1975
+ci series Apollo Skylark
+ci make Buick
+ci model 4XB17
+ci maker Fisher
+ci doors 2
+ci fbsize 11 55/64
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fuel 21
+ci tcase -NA-
+ci rdiff 4.25
+ci trans 3.5
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.93
+ci rtred 63
+ci wbase 111
+ci ftred 61.3
+ci rhp 36
+ci engno Same as VIN production number sequence.
+ci cyl 6
+ci mbear 7
+ci comp 8.25
+ci etype Single downdraft
+ci b&s 3 7/8 & 3 1/23
+ci disp 250
+ci etype Fully synchronized
+ci etype Inline 6 valve-in-head
+ci trq 185@1200
+ci bhp 105@3800
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci cool Water pump
+ci rad Cross flow
+ci exha Single
+ci ftype Unleaded
+ci ign Distributor and coil
+ci batt 12
+ci cool 16.1 Quarts
+ci equip Power brakes
+ci equip 350 cu. in. V8 engine
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Power steering
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev 3.22
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 3.11
+ci 2gear 1.84
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 681, 4B69(\w)5(\w)([\dX]{6})
+clv 2556, 1975, Buick, Apollo Skylark, Sedan
+ci axle Semifloating
+ci msrp $3436.00
+ci series Apollo Skylark
+ci origin United States
+ci year 1975
+ci make Buick
+ci prod 21138
+ci doors 4
+ci model 4XB69
+ci maker Fisher
+ci fbsize 11 55/64
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fuel 21
+ci trans 3.5
+ci oil 4
+ci rdiff 4.25
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 2.93
+ci diff Hypoid
+ci length 200.3
+ci rtred 63
+ci width 72.4
+ci wbase 111
+ci height 54.2
+ci ftred 61.3
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 36
+ci mbear 7
+ci cyl 6
+ci comp 8.25
+ci engno Same as VIN production number sequence.
+ci disp 250
+ci trq 185@1200
+ci block Cast alloy iron
+ci etype Single downdraft
+ci etype Inline 6 valve-in-head
+ci bhp 105@3800
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci b&s 3 7/8 & 3 1/23
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci ftype Unleaded
+ci ign Distributor and coil
+ci cool Water pump
+ci rad Cross flow
+ci batt 12
+ci cool 16.1 Quarts
+ci exha Single
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip 350 cu. in. V8 engine
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 1gear 3.11
+ci rev 3.22
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.84
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize FR78 x 14
+cls 682, 4C27(\w)5(\w)([\dX]{6})
+clv 2557, 1975, Buick, Apollo Skylark SR, Coupe
+ci axle Semifloating
+ci prod 3746
+ci msrp $4136.00
+ci series Apollo Skylark SR
+ci year 1975
+ci make Buick
+ci origin United States
+ci maker Fisher
+ci model 4XC27
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci fuel 21
+ci trans 23
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.93
+ci length 200.3
+ci wbase 111
+ci ftred 61.3
+ci rtred 63
+ci width 72.4
+ci height 53.2
+ci comp 8.0
+ci cyl 6
+ci disp 231
+ci block Cast Iron
+ci engno Same as VIN production number sequence.
+ci etype Turbo Hydra-matic
+ci etype V6 overhead valve
+ci rhp 34.66
+ci trq 175@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.8 & 3.4
+ci bhp 110@4000
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci cool 17.1 Quarts
+ci ftype Unleaded
+ci ign Distributor and coil
+ci equip Radio
+ci equip Power windows
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci equip 350 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize FR78 x 14
+ci sloc Trunk
+cls 683, 4C17(\w)5(\w)([\dX]{6})
+clv 2558, 1975, Buick, Apollo Skylark SR, Hatchback
+ci axle Semifloating
+ci make Buick
+ci series Apollo Skylark SR
+ci msrp $4253.00
+ci prod 1505
+ci origin United States
+ci year 1975
+ci model 4XC17
+ci doors 2
+ci maker Fisher
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci trans 23
+ci oil 4
+ci fuel 21
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.93
+ci height 54.2
+ci wbase 111
+ci ftred 61.3
+ci rtred 63
+ci width 72.4
+ci length 200.3
+ci trq 175@2000
+ci cyl 6
+ci comp 8.0
+ci block Cast Iron
+ci engno Same as VIN production number sequence.
+ci disp 231
+ci etype V6 overhead valve
+ci etype Dual downdraft
+ci b&s 3.8 & 3.4
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Turbo Hydra-matic
+ci bhp 110@4000
+ci vlift Hydraulic
+ci rhp 34.66
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci cool 17.1 Quarts
+ci ftype Unleaded
+ci ign Distributor and coil
+ci equip Radio
+ci equip Power windows
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci equip 350 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize FR78 x 14
+ci sloc Trunk
+cls 684, 4C69(\w)5(\w)([\dX]{6})
+clv 2559, 1975, Buick, Apollo Skylark SR, Sedan
+ci axle Semifloating
+ci year 1975
+ci msrp $4092.00
+ci prod 2241
+ci origin United States
+ci make Buick
+ci series Apollo Skylark SR
+ci doors 4
+ci maker Fisher
+ci model 4XC69
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci trans 23
+ci fuel 21
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.93
+ci length 200.3
+ci wbase 111
+ci ftred 61.3
+ci rtred 63
+ci width 72.4
+ci height 54.2
+ci comp 8.0
+ci cyl 6
+ci disp 231
+ci block Cast Iron
+ci engno Same as VIN production number sequence.
+ci etype Turbo Hydra-matic
+ci etype V6 overhead valve
+ci rhp 34.66
+ci trq 175@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.8 & 3.4
+ci bhp 110@4000
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci cool 17.1 Quarts
+ci ftype Unleaded
+ci ign Distributor and coil
+ci equip Radio
+ci equip Power windows
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci equip 350 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize FR78 x 14
+ci sloc Trunk
+cls 685, 4H57(\w)5(\w)([\dX]{6})
+clv 2560, 1975, Buick, Century Custom, Coupe
+ci axle Semifloating
+ci make Buick
+ci series Century Custom
+ci origin United States
+ci prod 32966
+ci msrp $4154.00
+ci year 1975
+ci maker Fisher
+ci doors 2
+ci model 4AH57
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fbsize 11
+ci bsize 9.5
+ci fuel 22
+ci oil 4
+ci rdiff 2.9
+ci tcase -NA-
+ci trans 3.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 2.93
+ci wbase 116
+ci length 209.5
+ci height 53.3
+ci rtred 59
+ci ftred 61.1
+ci width 79
+ci cyl 6
+ci comp 8.0
+ci bhp 110@4000
+ci rhp 34.66
+ci engno Same as VIN production number sequence.
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci disp 231
+ci b&s 3.8 & 3.4
+ci vlift Hydraulic
+ci etype V6 overhead valve
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci trq 175@2000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool 15.35 Quarts
+ci exha Single
+ci ftype Unleaded
+ci batt 12
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power seats
+ci equip Power brakes
+ci equip Speed control device
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip 350 cu. in. V8 engine
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 3.22
+ci drive Rear wheel drive
+ci 1gear 3.11
+ci 2gear 1.84
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize GR78 x 15
+ci sloc Trunk
+cls 686, 4H29(\w)5(\w)([\dX]{6})
+clv 2561, 1975, Buick, Century Custom, Sedan
+ci axle Semifloating
+ci year 1975
+ci origin United States
+ci series Century Custom
+ci msrp $4211.00
+ci make Buick
+ci prod 9995
+ci maker Fisher
+ci doors 4
+ci model 4AH29
+ci fbsize 11
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci oil 4
+ci rdiff 2.9
+ci tcase -NA-
+ci trans 3.5
+ci fuel 22
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 2.93
+ci ftred 61.1
+ci height 54.1
+ci rtred 59
+ci length 213.5
+ci wbase 116
+ci width 79
+ci disp 231
+ci comp 8.0
+ci trq 175@2000
+ci cyl 6
+ci rhp 34.66
+ci b&s 3.8 & 3.4
+ci bhp 110@4000
+ci etype V6 overhead valve
+ci engno Same as VIN production number sequence.
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci ign Distributor and coil
+ci ftype Unleaded
+ci rad Cross flow
+ci batt 12
+ci exha Single
+ci cool 15.35 Quarts
+ci cool Water pump
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power windows
+ci equip 350 cu. in. V8 engine
+ci equip Speed control device
+ci equip Radio
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 3.11
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.84
+ci rev 3.22
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize GR78 x 15
+cls 687, 4F35(\w)5(\w)([\dX]{6})
+clv 2562, 1975, Buick, Century Custom, Station Wagon 2-seat
+ci axle Semifloating
+ci year 1975
+ci origin United States
+ci series Century Custom
+ci msrp $4802.00
+ci prod 4416
+ci make Buick
+ci maker Fisher
+ci model 4AF35
+ci doors 4
+ci bsize 9.5
+ci fbsize 11
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci oil 4
+ci rdiff 2.9
+ci tcase -NA-
+ci fuel 22
+ci trans 3.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 2.93
+ci length 218.2
+ci wbase 116
+ci height 55.3
+ci rtred 59
+ci width 79
+ci ftred 61.1
+ci cyl 6
+ci comp 8.0
+ci trq 175@2000
+ci rhp 34.66
+ci b&s 3.8 & 3.4
+ci disp 231
+ci bhp 110@4000
+ci etype V6 overhead valve
+ci engno Same as VIN production number sequence.
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci ign Distributor and coil
+ci ftype Unleaded
+ci rad Cross flow
+ci batt 12
+ci exha Single
+ci cool 15.35 Quarts
+ci cool Water pump
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power windows
+ci equip 350 cu. in. V8 engine
+ci equip Speed control device
+ci equip Radio
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 3.11
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.84
+ci rev 3.22
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15
+cls 688, 4F45(\w)5(\w)([\dX]{6})
+clv 2563, 1975, Buick, Century Custom, Station Wagon 3-seat
+ci axle Semifloating
+ci origin United States
+ci year 1975
+ci series Century Custom
+ci make Buick
+ci msrp $4917.00
+ci maker Fisher
+ci doors 4
+ci model 4AF45
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fbsize 11
+ci bsize 9.5
+ci fuel 22
+ci oil 4
+ci rdiff 2.9
+ci trans 3.5
+ci tcase -NA-
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.93
+ci height 55.3
+ci rtred 59
+ci wbase 116
+ci length 218.2
+ci width 79
+ci ftred 61.1
+ci rhp 34.66
+ci comp 8.0
+ci disp 231
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Same as VIN production number sequence.
+ci cyl 6
+ci block Cast Iron
+ci trq 175@2000
+ci bhp 110@4000
+ci vlift Hydraulic
+ci etype V6 overhead valve
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci b&s 3.8 & 3.4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci batt 12
+ci ign Distributor and coil
+ci rad Cross flow
+ci ftype Unleaded
+ci cool 15.35 Quarts
+ci exha Single
+ci cool Water pump
+ci equip Power brakes
+ci equip Speed control device
+ci equip Power seats
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip 350 cu. in. V8 engine
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 3.22
+ci drive Rear wheel drive
+ci 1gear 3.11
+ci 2gear 1.84
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15
+ci sloc Trunk
+cls 689, 4J57(\w)5(\w)([\dX]{6})
+clv 2564, 1975, Buick, Century Regal, Coupe
+ci axle Semifloating
+ci make Buick
+ci series Century Regal
+ci origin United States
+ci msrp $4257.00
+ci year 1975
+ci prod 56646
+ci maker Fisher
+ci doors 2
+ci model 4AJ57
+ci bsize 9.5
+ci fbsize 11
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 22
+ci oil 4
+ci rdiff 2.9
+ci trans 3.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diff Hypoid
+ci diffr 2.93
+ci wbase 116
+ci width 79
+ci height 53.3
+ci length 209.5
+ci rtred 59
+ci ftred 61.1
+ci cyl 6
+ci bhp 110@4000
+ci comp 8.0
+ci rhp 34.66
+ci engno Same as VIN production number sequence.
+ci b&s 3.8 & 3.4
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci disp 231
+ci etype V6 overhead valve
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci trq 175@2000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci exha Single
+ci rad Cross flow
+ci batt 12
+ci cool 15.35 Quarts
+ci ftype Unleaded
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power seats
+ci equip Power brakes
+ci equip Speed control device
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip 350 cu. in. V8 engine
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 3.22
+ci drive Rear wheel drive
+ci 1gear 3.11
+ci 2gear 1.84
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize GR78 x 15
+ci sloc Trunk
+cls 690, 4J29(\w)5(\w)([\dX]{6})
+clv 2565, 1975, Buick, Century Regal, Sedan
+ci axle Semifloating
+ci year 1975
+ci msrp $4311.00
+ci origin United States
+ci prod 10726
+ci series Century Regal
+ci make Buick
+ci doors 4
+ci maker Fisher
+ci model 4AJ29
+ci fbsize 11
+ci bsize 9.5
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci oil 4
+ci fuel 22
+ci trans 3.5
+ci rdiff 2.9
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diff Hypoid
+ci diffr 2.93
+ci wbase 116
+ci length 213.5
+ci width 79
+ci height 54.1
+ci rtred 59
+ci ftred 61.1
+ci comp 8.0
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci disp 231
+ci engno Same as VIN production number sequence.
+ci trq 175@2000
+ci block Cast Iron
+ci bhp 110@4000
+ci b&s 3.8 & 3.4
+ci vlift Hydraulic
+ci etype V6 overhead valve
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci rhp 34.66
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci exha Single
+ci ign Distributor and coil
+ci rad Cross flow
+ci ftype Unleaded
+ci cool 15.35 Quarts
+ci batt 12
+ci cool Water pump
+ci equip Power seats
+ci equip Power brakes
+ci equip Speed control device
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip 350 cu. in. V8 engine
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 3.22
+ci drive Rear wheel drive
+ci 1gear 3.11
+ci 2gear 1.84
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize GR78 x 15
+ci sloc Trunk
+cls 691, 4F37(\w)5(\w)([\dX]{6})
+clv 2566, 1975, Buick, Century, Coupe
+ci axle Semifloating
+ci series Century
+ci origin United States
+ci make Buick
+ci msrp $3894.00
+ci year 1975
+ci maker Fisher
+ci doors 2
+ci model 4AF37
+ci bsize 9.5
+ci fbsize 11
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci tcase -NA-
+ci oil 4
+ci fuel 22
+ci rdiff 2.9
+ci trans 3.5
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 2.93
+ci diff Hypoid
+ci wbase 116
+ci width 79
+ci length 209.5
+ci height 53.3
+ci rtred 59
+ci ftred 61.1
+ci cyl 6
+ci bhp 110@4000
+ci comp 8.0
+ci rhp 34.66
+ci engno Same as VIN production number sequence.
+ci b&s 3.8 & 3.4
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci etype V6 overhead valve
+ci etype Dual downdraft
+ci disp 231
+ci trq 175@2000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci exha Single
+ci batt 12
+ci rad Cross flow
+ci cool 15.35 Quarts
+ci ftype Unleaded
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power brakes
+ci equip Speed control device
+ci equip Power seats
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip 350 cu. in. V8 engine
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 3.22
+ci drive Rear wheel drive
+ci 1gear 3.11
+ci 2gear 1.84
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize GR78 x 15
+ci sloc Trunk
+cls 692, 4F29(\w)5(\w)([\dX]{6})
+clv 2567, 1975, Buick, Century, Sedan
+ci axle Semifloating
+ci series Century
+ci origin United States
+ci make Buick
+ci msrp $3944.00
+ci year 1975
+ci doors 4
+ci maker Fisher
+ci model 4AF29
+ci bsize 9.5
+ci fbsize 11
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 22
+ci oil 4
+ci rdiff 2.9
+ci trans 3.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diff Hypoid
+ci diffr 2.93
+ci width 79
+ci wbase 116
+ci length 213.5
+ci height 54.1
+ci rtred 59
+ci ftred 61.1
+ci cyl 6
+ci bhp 110@4000
+ci comp 8.0
+ci rhp 34.66
+ci engno Same as VIN production number sequence.
+ci b&s 3.8 & 3.4
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci disp 231
+ci etype V6 overhead valve
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci trq 175@2000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci exha Single
+ci rad Cross flow
+ci batt 12
+ci cool 15.35 Quarts
+ci ftype Unleaded
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power brakes
+ci equip Speed control device
+ci equip Power seats
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip 350 cu. in. V8 engine
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 3.22
+ci drive Rear wheel drive
+ci 1gear 3.11
+ci 2gear 1.84
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize GR78 x 15
+ci sloc Trunk
+cls 693, 4K35(\w)5(\w)([\dX]{6})
+clv 2568, 1975, Buick, Century Station Wagon, Station Wagon 2-seat
+ci axle Semifloating
+ci make Buick
+ci origin United States
+ci prod 7078
+ci msrp $4636.00
+ci year 1975
+ci series Century Station Wagon
+ci doors 4
+ci maker Fisher
+ci model 4AK35
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci fbsize 11
+ci fuel 22
+ci trans 23
+ci tcase -NA-
+ci rdiff 2.9
+ci oil 4
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.08
+ci diff Hypoid
+ci height 55.3
+ci rtred 59
+ci width 79
+ci wbase 116
+ci length 218.2
+ci ftred 61.1
+ci engno Same as VIN production number sequence.
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.8 & 3.85
+ci etype Turbo Hydra-matic
+ci etype Downdraft 4-barrel
+ci disp 350
+ci trq 260@2200
+ci comp 8.1
+ci englo Front of right bank of cylinders.
+ci bhp 165@3800
+ci vlift Hydraulic
+ci mbear 5
+ci etype V8 valve-in-head
+ci cyl 8
+ci rhp 46.2
+ci block Cast alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci cool 16.88 Quarts
+ci equip Power seats
+ci equip Radio
+ci equip Power windows
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15
+ci sloc Trunk
+cls 694, 4K45(\w)5(\w)([\dX]{6})
+clv 2569, 1975, Buick, Century Station Wagon, Station Wagon 3-seat
+ci axle Semifloating
+ci msrp $4751.00
+ci origin United States
+ci year 1975
+ci make Buick
+ci series Century Station Wagon
+ci doors 4
+ci model 4AK45
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci fbsize 11
+ci fuel 22
+ci oil 4
+ci tcase -NA-
+ci trans 23
+ci rdiff 2.9
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci ftred 61.1
+ci rtred 59
+ci width 79
+ci height 55.3
+ci length 218.2
+ci wbase 116
+ci rhp 46.2
+ci block Cast alloy iron
+ci etype Turbo Hydra-matic
+ci bhp 165@3800
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 valve-in-head
+ci trq 260@2200
+ci englo Front of right bank of cylinders.
+ci engno Same as VIN production number sequence.
+ci vlift Hydraulic
+ci comp 8.1
+ci b&s 3.8 & 3.85
+ci mbear 5
+ci disp 350
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci cool 16.88 Quarts
+ci equip Air conditioning
+ci equip Radio
+ci equip Power seats
+ci equip Power windows
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15
+cls 695, 4V37(\w)5(\w)([\dX]{6})
+clv 2570, 1975, Buick, Electra 225 Custom, Coupe
+ci axle Semifloating
+ci origin United States
+ci make Buick
+ci msrp $6041.00
+ci year 1975
+ci prod 16145
+ci series Electra 225 Custom
+ci model 4CV37
+ci doors 2
+ci maker Fisher
+ci fbsize 11 55/64
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fuel 26
+ci trans 23
+ci oil 4
+ci tcase -NA-
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci ftred 63.6
+ci rtred 63
+ci height 55.1
+ci width 79.9
+ci wbase 127
+ci length 233.4
+ci etype Turbo Hydra-matic
+ci trq 345@2000
+ci block Cast alloy iron
+ci engno Same as VIN production number sequence.
+ci b&s 4.3125 & 3.9
+ci comp 8.0
+ci etype Downdraft 4-barrel
+ci bhp 205@3800
+ci rhp 59.51
+ci etype V8 valve-in-head
+ci englo Front of right bank of cylinders.
+ci vlift Hydraulic
+ci disp 455
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci ftype Premium
+ci cool 19.64 Quarts
+ci ign Distributor and coil
+ci equip Radio
+ci equip Speed control device
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power antenna
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize JR78 x 15
+cls 696, 4V39(\w)5(\w)([\dX]{6})
+clv 2571, 1975, Buick, Electra 225 Custom, Hardtop
+ci axle Semifloating
+ci prod 27357
+ci series Electra 225 Custom
+ci make Buick
+ci msrp $6201.00
+ci year 1975
+ci origin United States
+ci maker Fisher
+ci doors 4
+ci model 4CV39
+ci ebrake Rear service brakes
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci tcase -NA-
+ci trans 23
+ci oil 4
+ci fuel 26
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci ftred 63.6
+ci rtred 63
+ci height 55.1
+ci width 79.9
+ci wbase 127
+ci length 233.4
+ci etype Turbo Hydra-matic
+ci trq 345@2000
+ci block Cast alloy iron
+ci engno Same as VIN production number sequence.
+ci b&s 4.3125 & 3.9
+ci comp 8.0
+ci etype Downdraft 4-barrel
+ci bhp 205@3800
+ci rhp 59.51
+ci etype V8 valve-in-head
+ci englo Front of right bank of cylinders.
+ci vlift Hydraulic
+ci disp 455
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci ftype Premium
+ci cool 19.64 Quarts
+ci ign Distributor and coil
+ci equip Radio
+ci equip Speed control device
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power antenna
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize JR78 x 15
+cls 697, 4X37(\w)5(\w)([\dX]{6})
+clv 2572, 1975, Buick, Electra Limited, Coupe
+ci axle Semifloating
+ci origin United States
+ci make Buick
+ci msrp $6352.00
+ci year 1975
+ci prod 17650
+ci series Electra Limited
+ci model 4CX37
+ci doors 2
+ci maker Fisher
+ci fbsize 11 55/64
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fuel 26
+ci trans 23
+ci oil 4
+ci tcase -NA-
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci ftred 63.6
+ci rtred 63
+ci height 55.1
+ci width 79.9
+ci wbase 127
+ci length 233.4
+ci etype Turbo Hydra-matic
+ci trq 345@2000
+ci block Cast alloy iron
+ci engno Same as VIN production number sequence.
+ci b&s 4.3125 & 3.9
+ci comp 8.0
+ci etype Downdraft 4-barrel
+ci bhp 205@3800
+ci rhp 59.51
+ci etype V8 valve-in-head
+ci englo Front of right bank of cylinders.
+ci vlift Hydraulic
+ci disp 455
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci ftype Premium
+ci cool 19.64 Quarts
+ci ign Distributor and coil
+ci equip Radio
+ci equip Speed control device
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power antenna
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize JR78 x 15
+cls 698, 4X39(\w)5(\w)([\dX]{6})
+clv 2573, 1975, Buick, Electra Limited, Hardtop
+ci axle Semifloating
+ci prod 33778
+ci series Electra Limited
+ci make Buick
+ci msrp $6516.00
+ci year 1975
+ci origin United States
+ci maker Fisher
+ci doors 4
+ci model 4CX39
+ci ebrake Rear service brakes
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci tcase -NA-
+ci trans 23
+ci oil 4
+ci fuel 26
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci ftred 63.6
+ci rtred 63
+ci height 55.1
+ci width 79.9
+ci wbase 127
+ci length 233.4
+ci etype Turbo Hydra-matic
+ci trq 345@2000
+ci block Cast alloy iron
+ci engno Same as VIN production number sequence.
+ci b&s 4.3125 & 3.9
+ci comp 8.0
+ci etype Downdraft 4-barrel
+ci bhp 205@3800
+ci rhp 59.51
+ci etype V8 valve-in-head
+ci englo Front of right bank of cylinders.
+ci vlift Hydraulic
+ci disp 455
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci ftype Premium
+ci cool 19.64 Quarts
+ci ign Distributor and coil
+ci equip Radio
+ci equip Speed control device
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power antenna
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize JR78 x 15
+cls 699, 4R35(\w)5(\w)([\dX]{6})
+clv 2574, 1975, Buick, Estate Wagon, Station Wagon 2-seat
+ci axle Semifloating
+ci prod 4128
+ci make Buick
+ci year 1975
+ci series Estate Wagon
+ci origin United States
+ci msrp $5447.00
+ci model 4BR35
+ci maker Fisher
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11 55/64
+ci rdiff 2.9
+ci trans 3.5
+ci oil 4
+ci fuel 22
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci length 231.8
+ci wbase 127
+ci rtred 63
+ci ftred 63.6
+ci width 79.9
+ci height 58.4
+ci block Cast alloy iron
+ci engno Same as VIN production number sequence.
+ci etype Turbo Hydra-matic
+ci comp 8.0
+ci cyl 8
+ci rhp 59.51
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 205@3800
+ci b&s 4.3125 & 3.9
+ci mbear 5
+ci englo Front of right bank of cylinders.
+ci vlift Hydraulic
+ci trq 345@2000
+ci etype V8 valve-in-head
+ci disp 455
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci cool 19.64 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize LR78 x 15
+ci sloc Trunk
+cls 700, 4R45(\w)5(\w)([\dX]{6})
+clv 2575, 1975, Buick, Estate Wagon, Station Wagon 3-seat
+ci axle Semifloating
+ci prod 9612
+ci msrp $5591.00
+ci make Buick
+ci year 1975
+ci origin United States
+ci series Estate Wagon
+ci doors 4
+ci maker Fisher
+ci model 4BR45
+ci ebrake Rear service brakes
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci trans 3.5
+ci rdiff 2.9
+ci oil 4
+ci fuel 22
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci rtred 63
+ci length 231.8
+ci ftred 63.6
+ci width 79.9
+ci wbase 127
+ci height 58.4
+ci block Cast alloy iron
+ci engno Same as VIN production number sequence.
+ci etype Turbo Hydra-matic
+ci comp 8.0
+ci cyl 8
+ci trq 345@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 205@3800
+ci b&s 4.3125 & 3.9
+ci disp 455
+ci englo Front of right bank of cylinders.
+ci vlift Hydraulic
+ci mbear 5
+ci etype V8 valve-in-head
+ci rhp 59.51
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci cool 19.64 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize LR78 x 15
+ci sloc Trunk
+cls 701, 4P67(\w)5(\w)([\dX]{6})
+clv 2576, 1975, Buick, Le Sabre Custom, Convertible
+ci axle Semifloating
+ci year 1975
+ci make Buick
+ci series Le Sabre Custom
+ci msrp $5133.00
+ci origin United States
+ci prod 5300
+ci maker Fisher
+ci doors 2
+ci model 4BP67
+ci ebrake Rear service brakes
+ci bsize 11
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 2.9
+ci oil 4
+ci fuel 26
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 124
+ci height 54
+ci rtred 63
+ci length 226.9
+ci width 79.9
+ci ftred 63.6
+ci comp 8.1
+ci engno Same as VIN production number sequence.
+ci cyl 8
+ci block Cast alloy iron
+ci etype V8 valve-in-head
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci trq 260@2200
+ci rhp 46.2
+ci englo Front of right bank of cylinders.
+ci disp 350
+ci vlift Hydraulic
+ci b&s 3.8 & 3.85
+ci etype Turbo Hydra-matic
+ci bhp 165@3800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci cool 16.91 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15
+ci sloc Trunk
+cls 702, 4P39(\w)5(\w)([\dX]{6})
+clv 2577, 1975, Buick, Le Sabre Custom, Hardtop
+ci axle Semifloating
+ci series Le Sabre Custom
+ci msrp $5061.00
+ci make Buick
+ci prod 30005
+ci origin United States
+ci year 1975
+ci maker Fisher
+ci doors 4
+ci model 4BP39
+ci bsize 11
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci trans 3.5
+ci fuel 26
+ci rdiff 2.9
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci length 226.9
+ci wbase 124
+ci rtred 63
+ci ftred 63.6
+ci width 79.9
+ci height 54
+ci block Cast alloy iron
+ci engno Same as VIN production number sequence.
+ci trq 260@2200
+ci comp 8.1
+ci cyl 8
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci etype V8 valve-in-head
+ci englo Front of right bank of cylinders.
+ci disp 350
+ci vlift Hydraulic
+ci rhp 46.2
+ci b&s 3.8 & 3.85
+ci bhp 165@3800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci cool 16.91 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15
+ci sloc Trunk
+cls 703, 4P57(\w)5(\w)([\dX]{6})
+clv 2578, 1975, Buick, Le Sabre Custom, Hardtop
+ci axle Semifloating
+ci make Buick
+ci prod 25016
+ci series Le Sabre Custom
+ci year 1975
+ci origin United States
+ci msrp $5007.00
+ci maker Fisher
+ci doors 2
+ci model 4BP57
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11 55/64
+ci fuel 26
+ci oil 4
+ci trans 3.5
+ci rdiff 2.9
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci length 226.9
+ci wbase 124
+ci rtred 63
+ci ftred 63.6
+ci width 79.9
+ci height 54
+ci block Cast alloy iron
+ci engno Same as VIN production number sequence.
+ci trq 260@2200
+ci comp 8.1
+ci cyl 8
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci etype V8 valve-in-head
+ci englo Front of right bank of cylinders.
+ci disp 350
+ci vlift Hydraulic
+ci rhp 46.2
+ci b&s 3.8 & 3.85
+ci bhp 165@3800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci cool 16.91 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15
+ci sloc Trunk
+cls 704, 4P69(\w)5(\w)([\dX]{6})
+clv 2579, 1975, Buick, Le Sabre Custom, Sedan
+ci axle Semifloating
+ci series Le Sabre Custom
+ci msrp $4936.00
+ci make Buick
+ci year 1975
+ci origin United States
+ci prod 17026
+ci maker Fisher
+ci model 4BP69
+ci doors 4
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11 55/64
+ci ebrake Rear service brakes
+ci rdiff 2.9
+ci trans 3.5
+ci fuel 26
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci length 226.9
+ci wbase 124
+ci rtred 63
+ci ftred 63.6
+ci width 79.9
+ci height 54
+ci block Cast alloy iron
+ci engno Same as VIN production number sequence.
+ci trq 260@2200
+ci comp 8.1
+ci cyl 8
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci etype V8 valve-in-head
+ci englo Front of right bank of cylinders.
+ci disp 350
+ci vlift Hydraulic
+ci rhp 46.2
+ci b&s 3.8 & 3.85
+ci bhp 165@3800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci cool 16.91 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15
+ci sloc Trunk
+cls 705, 4N39(\w)5(\w)([\dX]{6})
+clv 2580, 1975, Buick, Le Sabre, Hardtop
+ci axle Semifloating
+ci prod 9119
+ci make Buick
+ci series Le Sabre
+ci msrp $4898.00
+ci year 1975
+ci origin United States
+ci maker Fisher
+ci model 4BN39
+ci doors 4
+ci ebrake Rear service brakes
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci trans 3.5
+ci oil 4
+ci rdiff 2.9
+ci fuel 26
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci rtred 63
+ci wbase 124
+ci ftred 63.6
+ci width 79.9
+ci length 226.9
+ci height 54
+ci block Cast alloy iron
+ci engno Same as VIN production number sequence.
+ci trq 260@2200
+ci etype Turbo Hydra-matic
+ci comp 8.1
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci disp 350
+ci etype V8 valve-in-head
+ci englo Front of right bank of cylinders.
+ci mbear 5
+ci vlift Hydraulic
+ci b&s 3.8 & 3.85
+ci rhp 46.2
+ci bhp 165@3800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci cool 16.91 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15
+ci sloc Trunk
+cls 706, 4N57(\w)5(\w)([\dX]{6})
+clv 2581, 1975, Buick, Le Sabre, Hardtop
+ci axle Semifloating
+ci prod 8647
+ci make Buick
+ci series Le Sabre
+ci year 1975
+ci origin United States
+ci msrp $4840.00
+ci maker Fisher
+ci doors 2
+ci model 4BN57
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11 55/64
+ci bsize 11
+ci oil 4
+ci trans 3.5
+ci fuel 26
+ci rdiff 2.9
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci rtred 63
+ci wbase 124
+ci ftred 63.6
+ci width 79.9
+ci length 226.9
+ci height 54
+ci block Cast alloy iron
+ci engno Same as VIN production number sequence.
+ci trq 260@2200
+ci etype Turbo Hydra-matic
+ci comp 8.1
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci disp 350
+ci etype V8 valve-in-head
+ci englo Front of right bank of cylinders.
+ci mbear 5
+ci vlift Hydraulic
+ci b&s 3.8 & 3.85
+ci rhp 46.2
+ci bhp 165@3800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci cool 16.91 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15
+ci sloc Trunk
+cls 707, 4N69(\w)5(\w)([\dX]{6})
+clv 2582, 1975, Buick, Le Sabre, Sedan
+ci axle Semifloating
+ci series Le Sabre
+ci msrp $4771.00
+ci make Buick
+ci year 1975
+ci prod 14088
+ci origin United States
+ci maker Fisher
+ci doors 4
+ci model 4BN69
+ci ebrake Rear service brakes
+ci bsize 11
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci rdiff 2.9
+ci trans 3.5
+ci fuel 26
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci length 226.9
+ci wbase 124
+ci rtred 63
+ci ftred 63.6
+ci width 79.9
+ci height 54
+ci block Cast alloy iron
+ci engno Same as VIN production number sequence.
+ci trq 260@2200
+ci comp 8.1
+ci cyl 8
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci etype V8 valve-in-head
+ci englo Front of right bank of cylinders.
+ci disp 350
+ci vlift Hydraulic
+ci rhp 46.2
+ci b&s 3.8 & 3.85
+ci bhp 165@3800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci cool Water pump
+ci cool 16.91 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip Power antenna
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15
+ci sloc Trunk
+cls 708, 4Z87(\w)5(\w)([\dX]{6})
+clv 2583, 1975, Buick, Riviera, Coupe
+ci axle Semifloating
+ci series Riviera
+ci make Buick
+ci msrp $6420.00
+ci year 1975
+ci prod 17306
+ci origin United States
+ci maker Fisher
+ci doors 2
+ci model 4EZ87
+ci ebrake Rear service brakes
+ci fbsize 11 55/64
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci oil 4
+ci fuel 26
+ci tcase -NA-
+ci rdiff 4.25
+ci trans 23
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci height 53.7
+ci rtred 63
+ci ftred 63.6
+ci width 79.9
+ci wbase 127
+ci length 223
+ci bhp 205@3800
+ci comp 8.0
+ci block Cast alloy iron
+ci engno Same as VIN production number sequence.
+ci cyl 8
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci rhp 59.51
+ci disp 455
+ci trq 345@2000
+ci vlift Hydraulic
+ci b&s 4.3125 & 3.9
+ci etype V8 valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Turbo Hydra-matic
+ci englo Front of right bank of cylinders.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci ftype Premium
+ci cool Water pump
+ci exha Single
+ci cool 19.64 Quarts
+ci rad Cross flow
+ci ign Distributor and coil
+ci batt 12
+ci equip Speed control device
+ci equip Radio
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power antenna
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize JR78 x 15
+ci sloc Trunk
+cls 709, 4S07(\w)5(\w)([\dX]{6})
+clv 2584, 1975, Buick, Skyhawk, Coupe
+ci axle Semifloating
+ci series Skyhawk
+ci origin United States
+ci make Buick
+ci msrp $4173.00
+ci year 1975
+ci model 4HS07
+ci maker Fisher
+ci doors 2
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 3.5
+ci fuel 18.5
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 2.56
+ci diff Hypoid
+ci width 65.4
+ci length 179.3
+ci height 50.2
+ci wbase 97
+ci ftred 54.6
+ci cyl 6
+ci comp 8.0
+ci disp 231
+ci b&s 3.8 & 3.4
+ci trq 175@2000
+ci bhp 110@4000
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Same as VIN production number sequence.
+ci rhp 34.66
+ci etype V6 overhead valve
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Almond Mist Metallic
+co Antique Silver Metallic
+co Apple Red
+co Arctic White
+co Bittersweet Metallic
+co Blue Haze Metallic
+co Burgundy Metallic
+co Cameo White
+co Canary Yellow
+co Dove Gray
+co Glacier Blue
+co Golden Tan Metallic
+co Honey Gold Metallic
+co Horizon Blue Metallic
+co Indigo Metallic
+co Majestic Blue Metallic
+co Pewter Metallic
+co Pumpkin Metallic
+co Ranch Green
+co Regal Black
+co Rhone Red Metallic
+co Ruby Red
+co Sand Beige
+co Sandstone
+co Silver Mist Metallic
+co Verde Mist Metallic
+co Walnut Mist Metallic
+ci rad Cross flow
+ci ign Distributor and coil
+ci ftype Unleaded
+ci exha Single
+ci cool 12.25 Quarts
+ci batt 12
+ci cool Water pump
+ci equip Power steering
+ci equip Radio
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev 3.22
+ci drive Rear wheel drive
+ci 2gear 1.84
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 1gear 3.11
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize BR78 x 13

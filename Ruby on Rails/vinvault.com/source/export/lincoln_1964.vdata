@@ -1,0 +1,184 @@
+cls 4233, 4(\w)86(\w)([\dX]{6})
+clv 17401, 1964, Lincoln, Continental, Convertible
+ci axle Semifloating
+ci origin United States
+ci msrp $6916.00
+ci make Lincoln
+ci prod 3138
+ci year 1964
+ci series Continental
+ci maker Lincoln
+ci weight 5393
+ci doors 2
+ci model 74A
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power self-adjusting
+ci bsize 11
+ci fuel 24
+ci trans 22.75
+ci rdiff 4.75
+ci tcase -NA-
+ci oil 6
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.89
+ci diff Hypoid
+ci height 54.2
+ci rtred 61
+ci ftred 62.1
+ci wbase 126
+ci width 78.6
+ci length 216.3
+ci etype Own V8 Overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 429.59
+ci englo Plate on left front door pillar post.
+ci vlift Hydraulic
+ci b&s 4 19/64 & 3 45/64
+ci bhp 320@4600
+ci block Special alloy iron
+ci etype Turbo Drive
+ci cyl 8
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci comp 10.1
+ci rhp 59.08
+ci trq 465@2600
+ci color Exterior Colors
+co Arctic White
+co Buckskin
+co Desert Sand
+co Encino Yellow
+co Fiesta Red
+co Highlander Green
+co Huron Blue
+co Nocturne Blue
+co Platinum
+co Powder Blue
+co Princeton Gray
+co Regal Turquoise
+co Rose
+co Royal Maroon
+co Silver Blue
+co Silver Green
+co Silver Sand
+ci exha Dual
+ci cool 25 Quarts
+ci ftype Premium
+ci batt 12
+ci ign Distributor and coil
+ci rad Corrugated fin and tube
+ci cool Centrifugal water  pump
+ci equip Power Windows
+ci equip AutomaticSpeed Control
+ci equip Automatic Headlight Dimmer
+ci equip Power Door Locks
+ci equip Power Seat-6 Way
+ci equip Power Vent Windows
+ci equip Heater and Defroster
+ci equip Air Conditioner
+ci equip Tinted Glass
+ci equip AM-FM Radio
+ci equip Pushbutton Radio
+ci equip Safety Seat Belts
+ci equip Verically adjustable steering column
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On right side under hood on fender apron.
+ci tsize 9.15 x 15
+ci sloc Trunk
+cls 4234, 4(\w)82(\w)([\dX]{6})
+clv 17402, 1964, Lincoln, Continental, Sedan
+ci axle Semifloating
+ci origin United States
+ci prod 28095
+ci make Lincoln
+ci series Continental
+ci msrp $6270.00
+ci year 1964
+ci maker Lincoln
+ci weight 5055
+ci doors 4
+ci model 53A
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Power self-adjusting
+ci rdiff 4.75
+ci oil 6
+ci fuel 24
+ci tcase -NA-
+ci trans 22.75
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.89
+ci rtred 61
+ci wbase 126
+ci length 216.3
+ci ftred 62.1
+ci height 54.2
+ci width 78.6
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 59.08
+ci englo Plate on left front door pillar post.
+ci etype Own V8 Overhead valve
+ci mbear 5
+ci vlift Hydraulic
+ci disp 429.59
+ci b&s 4 19/64 & 3 45/64
+ci bhp 320@4600
+ci block Special alloy iron
+ci etype Downdraft 4-barrel
+ci comp 10.1
+ci etype Turbo Drive
+ci trq 465@2600
+ci color Exterior Colors
+co Arctic White
+co Buckskin
+co Desert Sand
+co Encino Yellow
+co Fiesta Red
+co Highlander Green
+co Huron Blue
+co Nocturne Blue
+co Platinum
+co Powder Blue
+co Princeton Gray
+co Regal Turquoise
+co Rose
+co Royal Maroon
+co Silver Blue
+co Silver Green
+co Silver Sand
+ci exha Dual
+ci cool 25 Quarts
+ci ftype Premium
+ci batt 12
+ci ign Distributor and coil
+ci rad Corrugated fin and tube
+ci cool Centrifugal water  pump
+ci equip Power Windows
+ci equip AutomaticSpeed Control
+ci equip Automatic Headlight Dimmer
+ci equip Power Door Locks
+ci equip Power Seat-6 Way
+ci equip Power Vent Windows
+ci equip Heater and Defroster
+ci equip Air Conditioner
+ci equip Tinted Glass
+ci equip AM-FM Radio
+ci equip Pushbutton Radio
+ci equip Safety Seat Belts
+ci equip Verically adjustable steering column
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On right side under hood on fender apron.
+ci tsize 9.15 x 15
+ci sloc Trunk

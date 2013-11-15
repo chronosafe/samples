@@ -1,0 +1,770 @@
+cls 948, 6C47(\w)2(\w)([\dX]{6})
+clv 4046, 1972, Cadillac, Calais, Coupe
+ci axle Semifloating
+ci make Cadillac
+ci msrp $5771.00
+ci origin United States
+ci series Calais
+ci year 1972
+ci prod 3900
+ci doors 2
+ci maker Fisher
+ci model 68247
+ci weight 4642
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci rdiff 5
+ci tcase -NA-
+ci trans 11.2 Quarts
+ci fuel 27
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci height 54.1
+ci rtred 63.3
+ci width 79.8
+ci length 226.9
+ci wbase 130
+ci disp 472
+ci comp 8.5
+ci bhp 220@4000
+ci block Cast Iron
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On block behind intake manifold.
+ci engno Prefix 6 + last 8 digits of VIN
+ci mbear 5
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci rhp 59.2
+ci etype V8 Overhead valve
+ci b&s 4.3 & 4.06
+ci trq 365@2400
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Balmoral Green Firemist Metallic
+co Brewster Green Metallic
+co Brittany Blue Metallic
+co Cognac Metallic
+co Contessa Pewter Metallic
+co Coronation Red Metallic
+co Cotillion White
+co Ice Blue Firemist Metallic
+co Mayfair Gray Metallic
+co Palomino Firemist Metallic
+co Patrician Covert Firemist Metallic
+co Promenade Gold Metallic
+co Russet Firemist Metallic
+co Sable Black
+co St. Moritz Blue Firemist Metallic
+co Stratford Covert Metallic
+co Sumatra Green Metallic
+co Tawny Beige Metallic
+co Two Tone Colors Available
+co Willow
+co Zodiac Blue Metallic
+ci ign Distributor and coil
+ci exha Single
+ci cool 21.3 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15
+ci sloc Trunk
+cls 949, 6C49(\w)2(\w)([\dX]{6})
+clv 4047, 1972, Cadillac, Calais, Sedan
+ci axle Semifloating
+ci make Cadillac
+ci msrp $5938.00
+ci origin United States
+ci series Calais
+ci year 1972
+ci prod 3875
+ci maker Fisher
+ci doors 4
+ci weight 4698
+ci model 68249
+ci bsize 12
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci rdiff 5
+ci tcase -NA-
+ci trans 11.2 Quarts
+ci fuel 27
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci height 54.6
+ci rtred 63.3
+ci width 79.8
+ci length 226.9
+ci wbase 130
+ci disp 472
+ci comp 8.5
+ci bhp 220@4000
+ci block Cast Iron
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On block behind intake manifold.
+ci engno Prefix 6 + last 8 digits of VIN
+ci mbear 5
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci rhp 59.2
+ci etype V8 Overhead valve
+ci b&s 4.3 & 4.06
+ci trq 365@2400
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Balmoral Green Firemist Metallic
+co Brewster Green Metallic
+co Brittany Blue Metallic
+co Cognac Metallic
+co Contessa Pewter Metallic
+co Coronation Red Metallic
+co Cotillion White
+co Ice Blue Firemist Metallic
+co Mayfair Gray Metallic
+co Palomino Firemist Metallic
+co Patrician Covert Firemist Metallic
+co Promenade Gold Metallic
+co Russet Firemist Metallic
+co Sable Black
+co St. Moritz Blue Firemist Metallic
+co Stratford Covert Metallic
+co Sumatra Green Metallic
+co Tawny Beige Metallic
+co Two Tone Colors Available
+co Willow
+co Zodiac Blue Metallic
+ci ign Distributor and coil
+ci exha Single
+ci cool 21.3 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15
+ci sloc Trunk
+cls 950, 6D47(\w)2(\w)([\dX]{6})
+clv 4048, 1972, Cadillac, De Ville, Coupe de Ville
+ci axle Semifloating
+ci origin United States
+ci msrp $6168.00
+ci prod 95280
+ci make Cadillac
+ci series De Ville
+ci year 1972
+ci doors 2
+ci weight 4682
+ci maker Fisher
+ci model 68347
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci fuel Gallons
+ci trans 11.2 Quarts
+ci oil 5
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci wbase 130
+ci width 79.8
+ci height 54.1
+ci rtred 63.3
+ci length 226.9
+ci b&s 4.3 & 4.06
+ci block Cast Iron
+ci trq 365@2400
+ci etype Turbo Hydra-matic
+ci englo On block behind intake manifold.
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 220@4000
+ci mbear 5
+ci engno Prefix 6 + last 8 digits of VIN
+ci vlift Hydraulic
+ci comp 8.5
+ci cyl 8
+ci etype V8 Overhead valve
+ci rhp 59.2
+ci disp 472
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Balmoral Green Firemist Metallic
+co Brewster Green Metallic
+co Brittany Blue Metallic
+co Cognac Metallic
+co Contessa Pewter Metallic
+co Coronation Red Metallic
+co Cotillion White
+co Ice Blue Firemist Metallic
+co Mayfair Gray Metallic
+co Palomino Firemist Metallic
+co Patrician Covert Firemist Metallic
+co Promenade Gold Metallic
+co Russet Firemist Metallic
+co Sable Black
+co St. Moritz Blue Firemist Metallic
+co Stratford Covert Metallic
+co Sumatra Green Metallic
+co Tawny Beige Metallic
+co Two Tone Colors Available
+co Willow
+co Zodiac Blue Metallic
+ci exha Single
+ci cool 21.3 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci rad Tube and center
+ci equip Radio
+ci equip Speed control device
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15
+ci sloc Trunk
+cls 951, 6D49(\w)2(\w)([\dX]{6})
+clv 4049, 1972, Cadillac, De Ville, Sedan de Ville
+ci axle Semifloating
+ci prod 99531
+ci msrp $6390.00
+ci origin United States
+ci make Cadillac
+ci year 1972
+ci series De Ville
+ci weight 4762
+ci maker Fisher
+ci model 68349
+ci doors 4
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci rdiff 5
+ci fuel Gallons
+ci tcase -NA-
+ci trans 11.2 Quarts
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.93
+ci wbase 130
+ci height 54.6
+ci width 79.8
+ci length 226.9
+ci rtred 63.3
+ci block Cast Iron
+ci etype V8 Overhead valve
+ci comp 8.5
+ci bhp 220@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci etype Turbo Hydra-matic
+ci engno Prefix 6 + last 8 digits of VIN
+ci cyl 8
+ci trq 365@2400
+ci vlift Hydraulic
+ci rhp 59.2
+ci disp 472
+ci mbear 5
+ci b&s 4.3 & 4.06
+ci englo On block behind intake manifold.
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Balmoral Green Firemist Metallic
+co Brewster Green Metallic
+co Brittany Blue Metallic
+co Cognac Metallic
+co Contessa Pewter Metallic
+co Coronation Red Metallic
+co Cotillion White
+co Ice Blue Firemist Metallic
+co Mayfair Gray Metallic
+co Palomino Firemist Metallic
+co Patrician Covert Firemist Metallic
+co Promenade Gold Metallic
+co Russet Firemist Metallic
+co Sable Black
+co St. Moritz Blue Firemist Metallic
+co Stratford Covert Metallic
+co Sumatra Green Metallic
+co Tawny Beige Metallic
+co Two Tone Colors Available
+co Willow
+co Zodiac Blue Metallic
+ci exha Single
+ci cool 21.3 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15
+ci sloc Trunk
+cls 952, 6L67(\w)2(\w)([\dX]{6})
+clv 4050, 1972, Cadillac, Eldorado, Convertible
+ci msrp $7546.00
+ci origin United States
+ci prod 7975
+ci make Cadillac
+ci series Eldorado
+ci year 1972
+ci doors 2
+ci maker Fleetwood
+ci weight 4772
+ci model 69367
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci trans 11.2 Quarts
+ci rdiff Not applicable
+ci oil 6
+ci fdiff 5
+ci fuel 27
+ci carb Rochester
+ci diffr 3.07
+ci ftred 63.66
+ci rtred 63.59
+ci height 54
+ci wbase 126.3
+ci width 79.8
+ci length 223.2
+ci rhp 59.17
+ci comp 8.5
+ci bhp 235@3800
+ci block Cast Iron
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci disp 500
+ci engno Prefix 6 + last 8 digits of VIN
+ci etype V8 Overhead valve
+ci b&s 4.3 & 4.3
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci englo On block behind intake manifold.
+ci cyl 8
+ci trq 385@2400
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Balmoral Green Firemist Metallic
+co Brewster Green Metallic
+co Brittany Blue Metallic
+co Cognac Metallic
+co Contessa Pewter Metallic
+co Coronation Red Metallic
+co Cotillion White
+co Ice Blue Firemist Metallic
+co Mayfair Gray Metallic
+co Palomino Firemist Metallic
+co Patrician Covert Firemist Metallic
+co Promenade Gold Metallic
+co Russet Firemist Metallic
+co Sable Black
+co St. Moritz Blue Firemist Metallic
+co Stratford Covert Metallic
+co Sumatra Green Metallic
+co Tawny Beige Metallic
+co Two Tone Colors Available
+co Willow
+co Zodiac Blue Metallic
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 21.3 Quarts
+ci equip Radio
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Torsion bar
+ci rsus Helical coil
+ci drive Front wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15
+cls 953, 6L47(\w)2(\w)([\dX]{6})
+clv 4051, 1972, Cadillac, Eldorado, Coupe
+ci msrp $7230.00
+ci make Cadillac
+ci series Eldorado
+ci origin United States
+ci year 1972
+ci prod 32099
+ci maker Fleetwood
+ci doors 2
+ci model 69347
+ci weight 4682
+ci svc Power front disc rear self-adjusting drum
+ci bsize 12
+ci ebrake Rear wheels
+ci rdiff Not applicable
+ci fuel 27
+ci oil 6
+ci trans 11.2 Quarts
+ci fdiff 5
+ci tcase -NA-
+ci carb Rochester
+ci diffr 3.07
+ci rtred 63.59
+ci height 53.9
+ci length 223.2
+ci ftred 63.66
+ci wbase 126.3
+ci width 79.8
+ci etype Turbo Hydra-matic
+ci comp 8.5
+ci trq 385@2400
+ci cyl 8
+ci b&s 4.3 & 4.3
+ci bhp 235@3800
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 500
+ci engno Prefix 6 + last 8 digits of VIN
+ci etype V8 Overhead valve
+ci vlift Hydraulic
+ci englo On block behind intake manifold.
+ci rhp 59.17
+ci block Cast Iron
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Balmoral Green Firemist Metallic
+co Brewster Green Metallic
+co Brittany Blue Metallic
+co Cognac Metallic
+co Contessa Pewter Metallic
+co Coronation Red Metallic
+co Cotillion White
+co Ice Blue Firemist Metallic
+co Mayfair Gray Metallic
+co Palomino Firemist Metallic
+co Patrician Covert Firemist Metallic
+co Promenade Gold Metallic
+co Russet Firemist Metallic
+co Sable Black
+co St. Moritz Blue Firemist Metallic
+co Stratford Covert Metallic
+co Sumatra Green Metallic
+co Tawny Beige Metallic
+co Two Tone Colors Available
+co Willow
+co Zodiac Blue Metallic
+ci exha Single
+ci cool 21.3 Quarts
+ci rad Tube and center
+ci batt 12
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci equip Radio
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Torsion bar
+ci rsus Helical coil
+ci drive Front wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15
+cls 954, 6B69(\w)2(\w)([\dX]{6})
+clv 4052, 1972, Cadillac, Fleetwood, Brougham
+ci axle Semifloating
+ci series Fleetwood
+ci make Cadillac
+ci msrp $7637.00
+ci origin United States
+ci prod 15200
+ci year 1972
+ci maker Fleetwood
+ci doors 4
+ci weight 4858
+ci model 68169
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci rdiff 5
+ci fuel 27
+ci tcase -NA-
+ci oil 5
+ci trans 11.2 Quarts
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci rtred 63.3
+ci wbase 133
+ci width 79.8
+ci height 55.5
+ci length 229.9
+ci b&s 4.3 & 4.06
+ci trq 365@2400
+ci englo On block behind intake manifold.
+ci etype Turbo Hydra-matic
+ci comp 8.5
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 220@4000
+ci cyl 8
+ci engno Prefix 6 + last 8 digits of VIN
+ci vlift Hydraulic
+ci disp 472
+ci rhp 59.2
+ci etype V8 Overhead valve
+ci mbear 5
+ci block Cast Iron
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Balmoral Green Firemist Metallic
+co Brewster Green Metallic
+co Brittany Blue Metallic
+co Cognac Metallic
+co Contessa Pewter Metallic
+co Coronation Red Metallic
+co Cotillion White
+co Ice Blue Firemist Metallic
+co Mayfair Gray Metallic
+co Palomino Firemist Metallic
+co Patrician Covert Firemist Metallic
+co Promenade Gold Metallic
+co Russet Firemist Metallic
+co Sable Black
+co St. Moritz Blue Firemist Metallic
+co Stratford Covert Metallic
+co Sumatra Green Metallic
+co Tawny Beige Metallic
+co Two Tone Colors Available
+co Willow
+co Zodiac Blue Metallic
+ci exha Single
+ci cool 21.3 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci rad Tube and center
+ci equip Radio
+ci equip Speed control device
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15
+ci sloc Trunk
+cls 955, 6F33(\w)2(\w)([\dX]{6})
+clv 4053, 1972, Cadillac, 75 (69700), Limousine
+ci axle Semifloating
+ci series 75 (69700)
+ci origin United States
+ci make Cadillac
+ci msrp $11880.00
+ci year 1972
+ci prod 960
+ci doors 4
+ci weight 5637
+ci maker Fleetwood
+ci model 69733
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci rdiff 5
+ci tcase -NA-
+ci fuel 27
+ci trans 11.2 Quarts
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.15
+ci wbase 151.5
+ci rtred 63.3
+ci width 79.8
+ci length 248.4
+ci height 57.8
+ci block Cast Iron
+ci cyl 8
+ci comp 8.5
+ci etype Turbo Hydra-matic
+ci bhp 220@4000
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 59.2
+ci engno Prefix 6 + last 8 digits of VIN
+ci vlift Hydraulic
+ci trq 365@2400
+ci mbear 5
+ci englo On block behind intake manifold.
+ci disp 472
+ci b&s 4.3 & 4.06
+ci etype V8 Overhead valve
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Balmoral Green Firemist Metallic
+co Brewster Green Metallic
+co Brittany Blue Metallic
+co Cognac Metallic
+co Contessa Pewter Metallic
+co Coronation Red Metallic
+co Cotillion White
+co Ice Blue Firemist Metallic
+co Mayfair Gray Metallic
+co Palomino Firemist Metallic
+co Patrician Covert Firemist Metallic
+co Promenade Gold Metallic
+co Russet Firemist Metallic
+co Sable Black
+co St. Moritz Blue Firemist Metallic
+co Stratford Covert Metallic
+co Sumatra Green Metallic
+co Tawny Beige Metallic
+co Two Tone Colors Available
+co Willow
+co Zodiac Blue Metallic
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 24.8 Quarts
+ci rad Tube and center
+ci equip Speed control device
+ci equip Radio
+ci sgear Hydraulic power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15
+cls 956, 6F23(\w)2(\w)([\dX]{6})
+clv 4054, 1972, Cadillac, 75 (69700), Sedan
+ci axle Semifloating
+ci series 75 (69700)
+ci origin United States
+ci make Cadillac
+ci msrp $11748.00
+ci year 1972
+ci prod 955
+ci doors 4
+ci weight 5515
+ci maker Fleetwood
+ci model 69723
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci rdiff 5
+ci tcase -NA-
+ci fuel 27
+ci trans 11.2 Quarts
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.15
+ci wbase 151.5
+ci rtred 63.3
+ci width 79.8
+ci length 248.4
+ci height 57.8
+ci block Cast Iron
+ci cyl 8
+ci comp 8.5
+ci etype Turbo Hydra-matic
+ci bhp 220@4000
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 59.2
+ci engno Prefix 6 + last 8 digits of VIN
+ci vlift Hydraulic
+ci trq 365@2400
+ci mbear 5
+ci englo On block behind intake manifold.
+ci disp 472
+ci b&s 4.3 & 4.06
+ci etype V8 Overhead valve
+ci color Exterior Colors
+co Adriatic Turquoise Metallic
+co All colors may not be available in all models.
+co Balmoral Green Firemist Metallic
+co Brewster Green Metallic
+co Brittany Blue Metallic
+co Cognac Metallic
+co Contessa Pewter Metallic
+co Coronation Red Metallic
+co Cotillion White
+co Ice Blue Firemist Metallic
+co Mayfair Gray Metallic
+co Palomino Firemist Metallic
+co Patrician Covert Firemist Metallic
+co Promenade Gold Metallic
+co Russet Firemist Metallic
+co Sable Black
+co St. Moritz Blue Firemist Metallic
+co Stratford Covert Metallic
+co Sumatra Green Metallic
+co Tawny Beige Metallic
+co Two Tone Colors Available
+co Willow
+co Zodiac Blue Metallic
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 24.8 Quarts
+ci rad Tube and center
+ci equip Speed control device
+ci equip Radio
+ci sgear Hydraulic power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15

@@ -1,0 +1,1504 @@
+cls 5011, 607(\w)([\dX]{5})
+clv 21526, 1960, Oldsmobile, Dynamic, Celebrity Sedan
+ci axle Semifloating
+ci prod 76393
+ci series Dynamic
+ci origin United States
+ci msrp $2634.00
+ci year 1960
+ci make Oldsmobile
+ci maker Fisher
+ci model 3219
+ci weight 4106
+ci doors 4
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2.5
+ci fuel 20
+ci tcase -NA-
+ci rdiff 5
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.42
+ci diff Hypoid
+ci width 80.6
+ci length 217.5
+ci wbase 123
+ci rtred 61
+ci height 59
+ci trq 375@2400
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.75
+ci b&s 4 & 3 11/16
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix C
+ci englo On top of center exhaust port, on left cylinder head.
+ci disp 370.71
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci rhp 51.2
+ci etype Helical
+ci bhp 240@4400
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci cool 20 Quarts
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single with crossover
+ci batt 12
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Dual Exhaust
+ci equip Air conditioning
+ci equip Hydramatic automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power steering
+ci equip Power seats
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.28
+ci drive Rear wheel drive
+ci 1gear 2.15
+ci 5gear Not applicable
+ci 2gear 1.37
+ci gears 3
+ci 3gear 1
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5012, 607(\w)([\dX]{5})
+clv 21527, 1960, Oldsmobile, Dynamic, Convertible Coupe
+ci axle Semifloating
+ci series Dynamic
+ci make Oldsmobile
+ci origin United States
+ci msrp $2991.00
+ci prod 12274
+ci year 1960
+ci doors 2
+ci weight 4101
+ci maker Fisher
+ci model 3267
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci trans 2.5
+ci tcase -NA-
+ci rdiff 5
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.42
+ci length 217.5
+ci width 80.6
+ci rtred 61
+ci wbase 123
+ci height 59
+ci englo On top of center exhaust port, on left cylinder head.
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.75
+ci b&s 4 & 3 11/16
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix C
+ci rhp 51.2
+ci disp 370.71
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci trq 375@2400
+ci etype Helical
+ci bhp 240@4400
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci cool 20 Quarts
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single with crossover
+ci batt 12
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Dual Exhaust
+ci equip Air conditioning
+ci equip Hydramatic automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power steering
+ci equip Power seats
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.28
+ci drive Rear wheel drive
+ci 1gear 2.15
+ci 5gear Not applicable
+ci 2gear 1.37
+ci gears 3
+ci 3gear 1
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5013, 607(\w)([\dX]{5})
+clv 21528, 1960, Oldsmobile, Dynamic, Fiesta Sedan - 2 seats
+ci axle Semifloating
+ci series Dynamic
+ci prod 8836
+ci origin United States
+ci msrp $3065.00
+ci year 1960
+ci make Oldsmobile
+ci maker Fisher
+ci model 3235
+ci doors 4
+ci weight 4447
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci trans 2.5
+ci fuel 20
+ci rdiff 5
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.42
+ci diff Hypoid
+ci length 217.5
+ci width 80.6
+ci wbase 123
+ci rtred 61
+ci height 59
+ci trq 375@2400
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.75
+ci mbear 5
+ci b&s 4 & 3 11/16
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix C
+ci englo On top of center exhaust port, on left cylinder head.
+ci disp 370.71
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci rhp 51.2
+ci etype Helical
+ci bhp 240@4400
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci cool 20 Quarts
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single with crossover
+ci batt 12
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Dual Exhaust
+ci equip Air conditioning
+ci equip Hydramatic automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power steering
+ci equip Power seats
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.28
+ci drive Rear wheel drive
+ci 1gear 2.15
+ci 5gear Not applicable
+ci 2gear 1.37
+ci gears 3
+ci 3gear 1
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5014, 607(\w)([\dX]{5})
+clv 21529, 1960, Oldsmobile, Dynamic, Fiesta Sedan - 3 seats
+ci axle Semifloating
+ci year 1960
+ci series Dynamic
+ci origin United States
+ci msrp $3165.00
+ci make Oldsmobile
+ci prod 5723
+ci maker Fisher
+ci model 3245
+ci weight 4471
+ci doors 4
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci rdiff 5
+ci trans 2.5
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.42
+ci rtred 61
+ci length 217.5
+ci wbase 123
+ci height 59
+ci width 80.6
+ci trq 375@2400
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.75
+ci b&s 4 & 3 11/16
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix C
+ci englo On top of center exhaust port, on left cylinder head.
+ci disp 370.71
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci rhp 51.2
+ci etype Helical
+ci bhp 240@4400
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci cool 20 Quarts
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single with crossover
+ci batt 12
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Dual Exhaust
+ci equip Air conditioning
+ci equip Hydramatic automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power steering
+ci equip Power seats
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.28
+ci drive Rear wheel drive
+ci 1gear 2.15
+ci 5gear Not applicable
+ci 2gear 1.37
+ci gears 3
+ci 3gear 1
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5015, 607(\w)([\dX]{5})
+clv 21530, 1960, Oldsmobile, Dynamic, Holiday Coupe
+ci axle Semifloating
+ci prod 29399
+ci series Dynamic
+ci origin United States
+ci msrp $2687.00
+ci year 1960
+ci make Oldsmobile
+ci doors 2
+ci model 3237
+ci weight 4051
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 4
+ci trans 2.5
+ci rdiff 5
+ci fuel 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.42
+ci diff Hypoid
+ci rtred 61
+ci wbase 123
+ci width 80.6
+ci length 217.5
+ci height 59
+ci englo On top of center exhaust port, on left cylinder head.
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.75
+ci b&s 4 & 3 11/16
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix C
+ci rhp 51.2
+ci disp 370.71
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci trq 375@2400
+ci etype Helical
+ci bhp 240@4400
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci cool 20 Quarts
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single with crossover
+ci batt 12
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Dual Exhaust
+ci equip Air conditioning
+ci equip Hydramatic automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power steering
+ci equip Power seats
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.28
+ci drive Rear wheel drive
+ci 1gear 2.15
+ci 5gear Not applicable
+ci 2gear 1.37
+ci gears 3
+ci 3gear 1
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5016, 607(\w)([\dX]{5})
+clv 21531, 1960, Oldsmobile, Dynamic, Holiday Sedan
+ci axle Semifloating
+ci prod 43790
+ci series Dynamic
+ci origin United States
+ci msrp $2759.00
+ci year 1960
+ci make Oldsmobile
+ci maker Fisher
+ci model 3239
+ci weight 4151
+ci doors 4
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2.5
+ci fuel 20
+ci tcase -NA-
+ci rdiff 5
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.42
+ci diff Hypoid
+ci width 80.6
+ci length 217.5
+ci rtred 61
+ci wbase 123
+ci height 59
+ci trq 375@2400
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.75
+ci b&s 4 & 3 11/16
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix C
+ci englo On top of center exhaust port, on left cylinder head.
+ci disp 370.71
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci rhp 51.2
+ci etype Helical
+ci bhp 240@4400
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci cool 20 Quarts
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single with crossover
+ci batt 12
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Dual Exhaust
+ci equip Air conditioning
+ci equip Hydramatic automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power steering
+ci equip Power seats
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.28
+ci drive Rear wheel drive
+ci 1gear 2.15
+ci 5gear Not applicable
+ci 2gear 1.37
+ci gears 3
+ci 3gear 1
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5017, 607(\w)([\dX]{5})
+clv 21532, 1960, Oldsmobile, Dynamic, Sedan
+ci axle Semifloating
+ci prod 13548
+ci make Oldsmobile
+ci origin United States
+ci msrp $2574.00
+ci series Dynamic
+ci year 1960
+ci doors 2
+ci weight 4046
+ci maker Fisher
+ci model 3211
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci trans 2.5
+ci tcase -NA-
+ci rdiff 5
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.42
+ci length 217.5
+ci width 80.6
+ci rtred 61
+ci wbase 123
+ci height 59
+ci englo On top of center exhaust port, on left cylinder head.
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.75
+ci b&s 4 & 3 11/16
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix C
+ci rhp 51.2
+ci disp 370.71
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci trq 375@2400
+ci etype Helical
+ci bhp 240@4400
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci cool 20 Quarts
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single with crossover
+ci batt 12
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Dual Exhaust
+ci equip Air conditioning
+ci equip Hydramatic automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power steering
+ci equip Power seats
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.28
+ci drive Rear wheel drive
+ci 1gear 2.15
+ci 5gear Not applicable
+ci 2gear 1.37
+ci gears 3
+ci 3gear 1
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5018, 609(\w)([\dX]{5})
+clv 21533, 1960, Oldsmobile, 98, Celebrity Sedan
+ci axle Semifloating
+ci series 98
+ci origin United States
+ci make Oldsmobile
+ci prod 17191
+ci msrp $3533.00
+ci year 1960
+ci weight 4365
+ci maker Fisher
+ci model 3819
+ci svc Power hydraulic
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 5.375
+ci trans 19
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 61
+ci height 59
+ci length 220.8
+ci wbase 126.3
+ci width 80.6
+ci etype Downdraft 4-barrel
+ci comp 8.75
+ci bhp 315@4600
+ci disp 394.24
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix D
+ci englo On top of center exhaust port, on left cylinder head.
+ci mbear 5
+ci cyl 8
+ci b&s 4 1/8 & 3 11/16
+ci etype Hydra-Matic automatic
+ci vlift Hydraulic
+ci rhp 54.45
+ci trq 435@2800
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool 20 Quarts
+ci exha Single with crossover
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power seats
+ci equip Power antenna
+ci equip Dual Exhaust
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Power steering
+ci sgear Integral power
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 9 x 14
+cls 5019, 609(\w)([\dX]{5})
+clv 21534, 1960, Oldsmobile, 98, Convertible Coupe
+ci axle Semifloating
+ci series 98
+ci origin United States
+ci make Oldsmobile
+ci msrp $3975.00
+ci year 1960
+ci prod 7286
+ci doors 2
+ci maker Fisher
+ci weight 4360
+ci model 3867
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power hydraulic
+ci fuel 20
+ci rdiff 5.375
+ci oil 4
+ci tcase -NA-
+ci trans 19
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 61
+ci height 59
+ci length 220.8
+ci wbase 126.3
+ci width 80.6
+ci etype Downdraft 4-barrel
+ci comp 8.75
+ci bhp 315@4600
+ci disp 394.24
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix D
+ci englo On top of center exhaust port, on left cylinder head.
+ci mbear 5
+ci cyl 8
+ci b&s 4 1/8 & 3 11/16
+ci etype Hydra-Matic automatic
+ci vlift Hydraulic
+ci rhp 54.45
+ci trq 435@2800
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool 20 Quarts
+ci exha Single with crossover
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power seats
+ci equip Power antenna
+ci equip Dual Exhaust
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Power steering
+ci sgear Integral power
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 9 x 14
+cls 5020, 609(\w)([\dX]{5})
+clv 21535, 1960, Oldsmobile, 98, Holiday Coupe
+ci axle Semifloating
+ci series 98
+ci origin United States
+ci make Oldsmobile
+ci msrp $3715.00
+ci year 1960
+ci prod 7654
+ci doors 2
+ci maker Fisher
+ci weight 4330
+ci model 3837
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power hydraulic
+ci fuel 20
+ci rdiff 5.375
+ci oil 4
+ci trans 19
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 61
+ci height 59
+ci length 220.8
+ci wbase 126.3
+ci width 80.6
+ci etype Downdraft 4-barrel
+ci comp 8.75
+ci bhp 315@4600
+ci disp 394.24
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix D
+ci englo On top of center exhaust port, on left cylinder head.
+ci mbear 5
+ci cyl 8
+ci b&s 4 1/8 & 3 11/16
+ci etype Hydra-Matic automatic
+ci vlift Hydraulic
+ci rhp 54.45
+ci trq 435@2800
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool 20 Quarts
+ci exha Single with crossover
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power seats
+ci equip Power antenna
+ci equip Dual Exhaust
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Power steering
+ci sgear Integral power
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 9 x 14
+cls 5021, 609(\w)([\dX]{5})
+clv 21536, 1960, Oldsmobile, 98, Holiday Sedan
+ci axle Semifloating
+ci series 98
+ci origin United States
+ci prod 27286
+ci make Oldsmobile
+ci year 1960
+ci msrp $3786.00
+ci weight 4435
+ci maker Fisher
+ci model 3839
+ci bsize 11
+ci svc Power hydraulic
+ci ebrake Rear service brakes
+ci rdiff 5.375
+ci trans 19
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 61
+ci height 59
+ci length 220.8
+ci wbase 126.3
+ci width 80.6
+ci etype Downdraft 4-barrel
+ci comp 8.75
+ci bhp 315@4600
+ci disp 394.24
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix D
+ci englo On top of center exhaust port, on left cylinder head.
+ci mbear 5
+ci cyl 8
+ci b&s 4 1/8 & 3 11/16
+ci etype Hydra-Matic automatic
+ci vlift Hydraulic
+ci rhp 54.45
+ci trq 435@2800
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool 20 Quarts
+ci exha Single with crossover
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power seats
+ci equip Power antenna
+ci equip Dual Exhaust
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Power steering
+ci sgear Integral power
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 9 x 14
+cls 5022, 608(\w)([\dX]{5})
+clv 21537, 1960, Oldsmobile, Super 88, Celebrity Sedan
+ci axle Semifloating
+ci make Oldsmobile
+ci series Super 88
+ci origin United States
+ci msrp $2881.00
+ci year 1960
+ci prod 35111
+ci weight 4122
+ci doors 4
+ci model 3519
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci rdiff 5.375
+ci oil 4
+ci fuel 20
+ci tcase -NA-
+ci trans 2.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.42
+ci length 217.5
+ci width 80.6
+ci rtred 61
+ci wbase 123
+ci height 59
+ci rhp 54.45
+ci mbear 5
+ci cyl 8
+ci engno Prefix D
+ci comp 8.75
+ci trq 435@2800
+ci englo On top of center exhaust port, on left cylinder head.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci b&s 4 1/8 & 3 11/16
+ci etype Downdraft 4-barrel
+ci disp 394.24
+ci vlift Hydraulic
+ci bhp 315@4600
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci batt 12
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Heater and Defroster
+ci equip Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Dual Exhaust
+ci equip Radio
+ci sgear Ball & nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 5gear Not applicable
+ci rev 2.28
+ci 1gear 2.15
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.37
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5023, 608(\w)([\dX]{5})
+clv 21538, 1960, Oldsmobile, Super 88, Convertible Coupe
+ci axle Semifloating
+ci make Oldsmobile
+ci series Super 88
+ci origin United States
+ci prod 5830
+ci msrp $3268.00
+ci year 1960
+ci weight 4142
+ci doors 2
+ci model 3567
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci oil 4
+ci rdiff 5.375
+ci trans 2.5
+ci fuel 20
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.42
+ci rtred 61
+ci length 217.5
+ci height 59
+ci wbase 123
+ci width 80.6
+ci cyl 8
+ci mbear 5
+ci bhp 315@4600
+ci engno Prefix D
+ci comp 8.75
+ci trq 435@2800
+ci englo On top of center exhaust port, on left cylinder head.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci b&s 4 1/8 & 3 11/16
+ci etype Downdraft 4-barrel
+ci disp 394.24
+ci vlift Hydraulic
+ci rhp 54.45
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci batt 12
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Heater and Defroster
+ci equip Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Dual Exhaust
+ci equip Radio
+ci sgear Ball & nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 5gear Not applicable
+ci rev 2.28
+ci 1gear 2.15
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.37
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5024, 608(\w)([\dX]{5})
+clv 21539, 1960, Oldsmobile, Super 88, Fiesta Sedan - 2 seats
+ci axle Semifloating
+ci make Oldsmobile
+ci series Super 88
+ci origin United States
+ci msrp $3336.00
+ci year 1960
+ci prod 3768
+ci weight 4487
+ci doors 4
+ci model 3535
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci rdiff 5.375
+ci oil 4
+ci fuel 20
+ci tcase -NA-
+ci trans 2.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.42
+ci width 80.6
+ci length 217.5
+ci rtred 61
+ci wbase 123
+ci height 59
+ci rhp 54.45
+ci mbear 5
+ci cyl 8
+ci engno Prefix D
+ci comp 8.75
+ci trq 435@2800
+ci englo On top of center exhaust port, on left cylinder head.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci b&s 4 1/8 & 3 11/16
+ci etype Downdraft 4-barrel
+ci disp 394.24
+ci vlift Hydraulic
+ci bhp 315@4600
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci batt 12
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Heater and Defroster
+ci equip Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Dual Exhaust
+ci equip Radio
+ci sgear Ball & nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 5gear Not applicable
+ci rev 2.28
+ci 1gear 2.15
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.37
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5025, 608(\w)([\dX]{5})
+clv 21540, 1960, Oldsmobile, Super 88, Fiesta Sedan - 3 seats
+ci axle Semifloating
+ci make Oldsmobile
+ci series Super 88
+ci origin United States
+ci msrp $3436.00
+ci year 1960
+ci prod 3487
+ci weight 4501
+ci doors 4
+ci model 3545
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci rdiff 5.375
+ci oil 4
+ci fuel 20
+ci tcase -NA-
+ci trans 2.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.42
+ci width 80.6
+ci length 217.5
+ci rtred 61
+ci wbase 123
+ci height 59
+ci rhp 54.45
+ci mbear 5
+ci cyl 8
+ci engno Prefix D
+ci comp 8.75
+ci trq 435@2800
+ci englo On top of center exhaust port, on left cylinder head.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci b&s 4 1/8 & 3 11/16
+ci etype Downdraft 4-barrel
+ci disp 394.24
+ci vlift Hydraulic
+ci bhp 315@4600
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci batt 12
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Heater and Defroster
+ci equip Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Dual Exhaust
+ci equip Radio
+ci sgear Ball & nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 5gear Not applicable
+ci rev 2.28
+ci 1gear 2.15
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.37
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5026, 608(\w)([\dX]{5})
+clv 21541, 1960, Oldsmobile, Super 88, Holiday Coupe
+ci axle Semifloating
+ci origin United States
+ci series Super 88
+ci make Oldsmobile
+ci year 1960
+ci prod 16485
+ci msrp $3020.00
+ci weight 4087
+ci doors 2
+ci model 3537
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci rdiff 5.375
+ci oil 4
+ci trans 2.5
+ci fuel 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.42
+ci wbase 123
+ci width 80.6
+ci rtred 61
+ci length 217.5
+ci height 59
+ci rhp 54.45
+ci mbear 5
+ci cyl 8
+ci engno Prefix D
+ci comp 8.75
+ci trq 435@2800
+ci englo On top of center exhaust port, on left cylinder head.
+ci b&s 4 1/8 & 3 11/16
+ci etype Helical
+ci disp 394.24
+ci etype Downdraft 4-barrel
+ci bhp 315@4600
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci batt 12
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Heater and Defroster
+ci equip Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Dual Exhaust
+ci equip Radio
+ci sgear Ball & nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 5gear Not applicable
+ci rev 2.28
+ci 1gear 2.15
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.37
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5027, 608(\w)([\dX]{5})
+clv 21542, 1960, Oldsmobile, Super 88, Holiday Sedan
+ci axle Semifloating
+ci make Oldsmobile
+ci series Super 88
+ci origin United States
+ci msrp $3092.00
+ci year 1960
+ci prod 33304
+ci weight 4177
+ci doors 4
+ci model 3539
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci rdiff 5.375
+ci oil 4
+ci fuel 20
+ci tcase -NA-
+ci trans 2.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.42
+ci length 217.5
+ci width 80.6
+ci rtred 61
+ci wbase 123
+ci height 59
+ci rhp 54.45
+ci mbear 5
+ci cyl 8
+ci engno Prefix D
+ci comp 8.75
+ci trq 435@2800
+ci englo On top of center exhaust port, on left cylinder head.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci b&s 4 1/8 & 3 11/16
+ci etype Downdraft 4-barrel
+ci disp 394.24
+ci vlift Hydraulic
+ci bhp 315@4600
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Charcoal Mist Metallic
+co Citron
+co Copper Mist Metallic
+co Cordovan Metallic
+co Dresden Blue Metallic
+co Fern Mist Metallic
+co Garnet Mist Metallic
+co Golden Mist Metallic
+co Gulf Blue Metallic
+co Lacquer
+co PalMetallicto Mist Metallic
+co Platinum Mist Metallic
+co Provincial White
+co Shell Beige
+co Turquoise Metallic
+co Two Tone Colors Available
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci batt 12
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Heater and Defroster
+ci equip Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Dual Exhaust
+ci equip Radio
+ci sgear Ball & nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 5gear Not applicable
+ci rev 2.28
+ci 1gear 2.15
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.37
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14

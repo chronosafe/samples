@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+<h1>Your account at <%= ENV['SITE_NAME'] %> has been deleted, <%= @user.name %></h1>
+<p>
+  This email is a confirmation of the cancellation of your account.
+</p>
+<p>
+  You will no longer be billed for this service in the future.
+</p>
+<p>
+  If you have any questions please contact us.
+</p>
+
+<p>Regards,</p>
+<p><em><%= ENV['SITE_NAME'] %> Staff</em></p>
+</body>
+</html>

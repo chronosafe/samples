@@ -1,0 +1,160 @@
+cls 4231, 3(\w)86(\w)([\dX]{6})
+clv 17399, 1963, Lincoln, Continental, Convertible
+ci axle Semifloating
+ci origin United States
+ci make Lincoln
+ci series Continental
+ci prod 3138
+ci msrp $6916.00
+ci year 1963
+ci weight 5340
+ci doors 2
+ci model 74A
+ci maker Lincoln
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power hydraulic
+ci trans 23.5
+ci tcase -NA-
+ci rdiff 4.75
+ci fuel 21
+ci oil 5
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.89
+ci wbase 123
+ci rtred 61
+ci ftred 62.1
+ci length 213.3
+ci width 78.6
+ci height 53.7?
+ci mbear 5
+ci trq 465@2000
+ci disp 429.59
+ci comp 10.1
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci b&s 4 19/64 & 3 45/64
+ci englo On left front door hinge post below upper hinge opening.
+ci bhp 320@4600
+ci vlift Hydraulic
+ci rhp 59.08
+ci etype Turbo Drive
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Autumn Frost
+co Bermuda Blue
+co Black Satin
+co Burgundy Frost
+co Ermine White
+co Highlander Green
+co Inverness Green
+co Nassau Beige
+co Nocturne Blue
+co Oxford Gray
+co Platinum
+co Polynesian Gold
+co Premier Yellow
+co Riviera Turquoise
+co Rose
+co Silver Mink
+co Spanish Red
+co Teaberry
+co Two Tone Colors Available
+ci batt 12
+ci cool 22 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci exha Dual with crossover
+ci cool Centrifugal pump with thermostat
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci sloc Trunk
+ci tsize 9 x 14
+cls 4232, 3(\w)82(\w)([\dX]{6})
+clv 17400, 1963, Lincoln, Continental, Sedan
+ci axle Semifloating
+ci year 1963
+ci make Lincoln
+ci origin United States
+ci msrp $6270.00
+ci series Continental
+ci prod 28095
+ci weight 4936
+ci doors 4
+ci model 53A
+ci maker Lincoln
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power hydraulic
+ci trans 23.5
+ci tcase -NA-
+ci rdiff 4.75
+ci fuel 21
+ci oil 5
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.89
+ci wbase 123
+ci height 53.7?
+ci rtred 61
+ci length 213.3
+ci width 78.6
+ci ftred 62.1
+ci b&s 4 19/64 & 3 45/64
+ci cyl 8
+ci disp 429.59
+ci comp 10.1
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 320@4600
+ci englo On left front door hinge post below upper hinge opening.
+ci rhp 59.08
+ci vlift Hydraulic
+ci mbear 5
+ci etype Turbo Drive
+ci trq 465@2000
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Autumn Frost
+co Bermuda Blue
+co Black Satin
+co Burgundy Frost
+co Ermine White
+co Highlander Green
+co Inverness Green
+co Nassau Beige
+co Nocturne Blue
+co Oxford Gray
+co Platinum
+co Polynesian Gold
+co Premier Yellow
+co Riviera Turquoise
+co Rose
+co Silver Mink
+co Spanish Red
+co Teaberry
+co Two Tone Colors Available
+ci batt 12
+ci cool 22 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci exha Dual with crossover
+ci cool Centrifugal pump with thermostat
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci sloc Trunk
+ci tsize 9 x 14

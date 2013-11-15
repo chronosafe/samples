@@ -1,0 +1,70 @@
+bronze:
+  name: 'Bronze'
+  role: 'bronze'
+  per_day: 300
+  per_month: 9000
+  decode_type: 'Basic'
+  bulk_decodes: 0
+  ips: 1
+  public: true
+  color: 'red'
+  description: 'Provides year, make, model data for vehicles.'
+  price: 49
+  order: 1
+
+silver:
+  name: 'Silver'
+  role: 'silver'
+  per_day: 300
+  per_month: 9000
+  decode_type: 'Advanced'
+  bulk_decodes: 50000
+  ips: 1
+  public: true
+  color: 'silver'
+  description: 'Provides full dataset for vehicles, will also provide Basic data.'
+  price: 99
+  order: 2
+
+gold:
+  name: 'Gold'
+  role: 'gold'
+  per_day: 600
+  per_month: 30000
+  decode_type: 'Advanced'
+  bulk_decodes: 150000
+  ips: -1
+  public: true
+  color: 'orange'
+  description: 'Provides full dataset for vehicles, will also provide Basic data.'
+  price: 199
+  order: 3
+
+platinum:
+  name: 'Platinum'
+  role: 'platinum'
+  per_day: -1
+  per_month: -1
+  decode_type: 'Advanced'
+  bulk_decodes: 400000
+  ips: -1
+  public: true
+  color: 'blue'
+  description: 'Provides full dataset for vehicles, will also provide Basic data.'
+  price: 299
+  order: 4
+
+vinhunter:
+  name: 'VIN Hunter Pro'
+  role: 'vinhunter'
+  per_day: -1
+  per_month: -1
+  decode_type: 'Advanced'
+  bulk_decodes: 0
+  ips: -1
+  public: false
+  color: 'none'
+  description: 'Plan reserved for VIN Hunter Pro access.'
+  price: 0
+  order: 0
+

@@ -1,0 +1,3162 @@
+cls 4829, 4(\w)bb(\w)([\dX]{6})
+clv 19259, 1974, Mercury, Capri, Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci series Capri
+ci origin United States
+ci year 1974
+ci make Mercury
+ci maker Mercury
+ci doors 2
+ci ebrake Rear wheels
+ci bsize 9
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 9.6
+ci fuel 12.7
+ci tcase -NA-
+ci oil 4.2
+ci carb Weber
+ci ctype Single dry plate
+ci diffr 3.44
+ci diff Hypoid
+ci height 50.5
+ci rtred 52.2
+ci wbase 100.8
+ci ftred 53.2
+ci width 64.8
+ci length 177
+ci lube Pressure to all bearings excluding wrist pin
+ci etype 2000 cc overhead cam
+ci rhp 20.45
+ci etype Unknown at time of publication
+ci comp 8.2
+ci etype Dual downdraft
+ci disp 121.6
+ci mbear 5
+ci b&s 3.575 & 3.029
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci exha Single
+ci rad Tubular and fin
+ci batt 12
+ci ftype Unleaded
+ci cool Water pump
+ci cool 7.6 Quarts
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Radio
+ci sgear Rack & pinion
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci 4gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1.37
+ci gears 4
+ci 2gear 1.97
+ci 1gear 3.65
+ci rev 3.66
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4830, 4(\w)31(\w)([\dX]{6})
+clv 19260, 1974, Mercury, Comet 6, Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 64751
+ci origin United States
+ci msrp $2646.00
+ci series Comet 6
+ci make Mercury
+ci year 1974
+ci weight 2975
+ci doors 2
+ci maker Mercury
+ci model 62B
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear wheels
+ci oil 4
+ci tcase -NA-
+ci fuel 16
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci width 70.5
+ci height 53
+ci length 190
+ci wbase 109.7
+ci rtred 56.5
+ci cyl 6
+ci rhp 32.5
+ci mbear 7
+ci trq 150@1800
+ci comp 8.3
+ci bhp 84@3800
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.68 & 3.13
+ci etype Single downdraft
+ci block Special alloy iron
+ci vlift Hydraulic
+ci disp 200
+ci etype Fully synchronized
+ci etype Own Inline 6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci exha Single
+ci cool 9.0 Quarts
+ci rad Tubular and fin
+ci batt 12
+ci ftype Unleaded
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power steering
+ci equip 250 cu. in. Inline 6 engine
+ci equip Air conditioning
+ci equip Radio
+ci equip 302 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 3.17
+ci 1gear 2.99
+ci 5gear Not applicable
+ci 2gear 1.75
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.45 x 14
+ci sloc Trunk
+cls 4831, 4(\w)30(\w)([\dX]{6})
+clv 19261, 1974, Mercury, Comet 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci year 1974
+ci series Comet 6
+ci msrp $2681.00
+ci prod 60944
+ci weight 2867
+ci doors 4
+ci maker Mercury
+ci model 54B
+ci ebrake Rear wheels
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci fuel 16
+ci tcase -NA-
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 109.7
+ci height 52.8
+ci length 196.9
+ci rtred 56.5
+ci width 70.5
+ci disp 200
+ci etype Own Inline 6
+ci mbear 7
+ci trq 150@1800
+ci comp 8.3
+ci bhp 84@3800
+ci block Special alloy iron
+ci cyl 6
+ci rhp 32.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci b&s 3.68 & 3.13
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci ign Distributor and coil
+ci exha Single
+ci rad Tubular and fin
+ci ftype Unleaded
+ci cool 9.0 Quarts
+ci batt 12
+ci cool Water pump
+ci equip Power steering
+ci equip 250 cu. in. Inline 6 engine
+ci equip Air conditioning
+ci equip Radio
+ci equip 302 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 3.17
+ci 1gear 2.99
+ci 5gear Not applicable
+ci 2gear 1.75
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.45 x 14
+ci sloc Trunk
+cls 4832, 4(\w)31(\w)([\dX]{6})
+clv 19262, 1974, Mercury, Comet GT, Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci series Comet GT
+ci year 1974
+ci make Mercury
+ci msrp $2890.00
+ci maker Mercury
+ci model 62B
+ci doors 2
+ci bsize 10
+ci ebrake Rear wheels
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci fuel 16
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 190
+ci width 70.5
+ci height 53
+ci rtred 56.5
+ci wbase 103
+ci etype Own Inline 6
+ci rhp 32.5
+ci mbear 7
+ci cyl 6
+ci comp 8.3
+ci bhp 84@3800
+ci b&s 3.68 & 3.13
+ci vlift Hydraulic
+ci disp 200
+ci etype Single downdraft
+ci trq 150@1800
+ci block Special alloy iron
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci ign Distributor and coil
+ci ftype Unleaded
+ci rad Tubular and fin
+ci cool 9.0 Quarts
+ci batt 12
+ci exha Single
+ci cool Water pump
+ci equip 302 cu. in. V8 engine
+ci equip Power steering
+ci equip 250 cu. in. Inline 6 engine
+ci equip Radio
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 2.99
+ci rev 3.17
+ci 2gear 1.75
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.45 x 14
+ci sloc Trunk
+cls 4833, 4(\w)93(\w)([\dX]{6})
+clv 19263, 1974, Mercury, Cougar XR7, Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci series Cougar XR7
+ci prod 91670
+ci msrp $4527.00
+ci make Mercury
+ci year 1974
+ci doors 2
+ci weight 4275
+ci model 65F
+ci maker Mercury
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 10.7
+ci bsize 10
+ci tcase -NA-
+ci fuel 26.5
+ci oil 4
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci ftred 63.4
+ci height 52.4
+ci rtred 63.5
+ci length 215.5
+ci width 78.6
+ci wbase 114
+ci disp 351
+ci comp 8.0
+ci etype Select Shift automatic
+ci cyl 8
+ci b&s 4 & 3 1/2
+ci trq 275@2200
+ci etype Dual downdraft
+ci rhp 51.2
+ci mbear 5
+ci vlift Hydraulic
+ci etype V8 Overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 162@4000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci batt 12
+ci exha Single
+ci ftype Unleaded
+ci cool 16.3 Quarts
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power windows
+ci equip Power seats
+ci equip Radio
+ci equip 460 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Speed control device
+ci equip 400 cu. in. V8 engine
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 14
+cls 4834, 4(\w)76(\w)([\dX]{6})
+clv 19264, 1974, Mercury, Marquis Brougham, Colony Park
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci msrp $4841.00
+ci prod 10802
+ci origin United States
+ci year 1974
+ci series Marquis Brougham
+ci maker Mercury
+ci doors 4
+ci model 71K
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 11.8
+ci oil 4
+ci fuel 24.2
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci rtred 64.3
+ci wbase 124
+ci width 79.8
+ci height 56.5
+ci length 225.7
+ci ftred 64.1
+ci block Special alloy iron
+ci etype Select Shift automatic
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci trq 335@2600
+ci comp 8.0
+ci etype Own V8 Overhead valve
+ci cyl 8
+ci bhp 195@3800
+ci disp 460
+ci rhp 60.83
+ci mbear 5
+ci b&s 4.36 & 3.85
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci batt 12
+ci ftype Unleaded
+ci exha Single
+ci cool Water pump
+ci cool Quarts
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Radio
+ci equip Speed control device
+ci equip Power vent windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize JR78 x 15
+ci sloc Trunk
+cls 4835, 4(\w)64(\w)([\dX]{6})
+clv 19265, 1974, Mercury, Marquis Brougham, Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $5322.00
+ci origin United States
+ci prod 10207
+ci year 1974
+ci make Mercury
+ci series Marquis Brougham
+ci doors 2
+ci maker Mercury
+ci model 65K
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci fbsize 11.8
+ci bsize 11
+ci oil 4
+ci fuel 24.2
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci ftred 64.1
+ci rtred 64.3
+ci width 79.6
+ci wbase 124
+ci height 53.3
+ci length 226.8
+ci etype Select Shift automatic
+ci trq 335@2600
+ci etype Downdraft 4-barrel
+ci etype Own V8 Overhead valve
+ci block Special alloy iron
+ci vlift Hydraulic
+ci comp 8.0
+ci b&s 4.36 & 3.85
+ci bhp 195@3800
+ci disp 460
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 60.83
+ci mbear 5
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci ftype Unleaded
+ci batt 12
+ci cool Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power vent windows
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15
+cls 4836, 4(\w)67(\w)([\dX]{6})
+clv 19266, 1974, Mercury, Marquis Brougham, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $5394.00
+ci year 1974
+ci origin United States
+ci make Mercury
+ci series Marquis Brougham
+ci prod 4189
+ci maker Mercury
+ci model 57K
+ci doors 4
+ci bsize 11
+ci ebrake Rear wheels
+ci fbsize 11.8
+ci svc Power front disc rear self-adjusting drum
+ci fuel 24.2
+ci oil 4
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci rtred 64.3
+ci ftred 64.1
+ci width 79.6
+ci wbase 124
+ci height 54.7
+ci length 226.8
+ci etype Select Shift automatic
+ci trq 335@2600
+ci etype Downdraft 4-barrel
+ci etype Own V8 Overhead valve
+ci block Special alloy iron
+ci vlift Hydraulic
+ci comp 8.0
+ci b&s 4.36 & 3.85
+ci bhp 195@3800
+ci disp 460
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci rhp 60.83
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci ftype Unleaded
+ci batt 12
+ci cool Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power vent windows
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15
+cls 4837, 4(\w)62(\w)([\dX]{6})
+clv 19267, 1974, Mercury, Marquis Brougham, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $5260.00
+ci origin United States
+ci prod 24477
+ci year 1974
+ci series Marquis Brougham
+ci make Mercury
+ci maker Mercury
+ci doors 4
+ci model 53K
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci fbsize 11.8
+ci bsize 11
+ci oil 4
+ci fuel 24.2
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci rtred 64.3
+ci ftred 64.1
+ci width 79.6
+ci wbase 124
+ci height 54.7
+ci length 226.8
+ci etype Select Shift automatic
+ci trq 335@2600
+ci etype Downdraft 4-barrel
+ci etype Own V8 Overhead valve
+ci block Special alloy iron
+ci vlift Hydraulic
+ci comp 8.0
+ci b&s 4.36 & 3.85
+ci bhp 195@3800
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 460
+ci rhp 60.83
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci ftype Unleaded
+ci batt 12
+ci cool Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power vent windows
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15
+cls 4838, 4(\w)66(\w)([\dX]{6})
+clv 19268, 1974, Mercury, Marquis, Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1974
+ci msrp $4882.00
+ci origin United States
+ci make Mercury
+ci prod 1852
+ci series Marquis
+ci doors 2
+ci maker Mercury
+ci model 65H
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci fbsize 11.8
+ci bsize 11
+ci oil 4
+ci fuel 24.2
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci ftred 64.1
+ci rtred 64.3
+ci width 79.6
+ci wbase 124
+ci height 53.3
+ci length 226.8
+ci etype Select Shift automatic
+ci trq 335@2600
+ci etype Dual downdraft
+ci etype Own V8 Overhead valve
+ci block Special alloy iron
+ci vlift Hydraulic
+ci comp 8.0
+ci b&s 4.36 & 3.85
+ci bhp 195@3800
+ci disp 460
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 60.83
+ci mbear 5
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci ftype Unleaded
+ci batt 12
+ci cool Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power vent windows
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15
+cls 4839, 4(\w)41(\w)([\dX]{6})
+clv 19269, 1974, Mercury, Marquis, Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci series Marquis
+ci prod 781
+ci year 1974
+ci doors 2
+ci maker Mercury
+ci model 65X
+ci bsize 11
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.8
+ci oil 4
+ci fuel 24.2
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci wbase 124
+ci ftred 64.1
+ci width 79.6
+ci height 53.3
+ci length 226.8
+ci rtred 64.3
+ci etype Select Shift automatic
+ci trq 335@2600
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci vlift Hydraulic
+ci cyl 8
+ci etype Own V8 Overhead valve
+ci b&s 4.36 & 3.85
+ci bhp 195@3800
+ci disp 460
+ci rhp 60.83
+ci block Special alloy iron
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci batt 12
+ci ftype Unleaded
+ci exha Single
+ci cool Water pump
+ci cool Quarts
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Radio
+ci equip Speed control device
+ci equip Power vent windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15
+cls 4840, 4(\w)68(\w)([\dX]{6})
+clv 19270, 1974, Mercury, Marquis, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $4955.00
+ci origin United States
+ci prod 462
+ci year 1974
+ci series Marquis
+ci make Mercury
+ci maker Mercury
+ci doors 4
+ci model 57H
+ci ebrake Rear wheels
+ci bsize 11
+ci fbsize 11.8
+ci svc Power front disc rear self-adjusting drum
+ci fuel 24.2
+ci oil 4
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci rtred 64.3
+ci ftred 64.1
+ci width 79.6
+ci wbase 124
+ci height 54.7
+ci length 226.8
+ci etype Select Shift automatic
+ci trq 335@2600
+ci etype Dual downdraft
+ci etype Own V8 Overhead valve
+ci block Special alloy iron
+ci vlift Hydraulic
+ci comp 8.0
+ci b&s 4.36 & 3.85
+ci bhp 195@3800
+ci disp 460
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci rhp 60.83
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci ftype Unleaded
+ci batt 12
+ci cool Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power vent windows
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15
+cls 4841, 4(\w)42(\w)([\dX]{6})
+clv 19271, 1974, Mercury, Marquis, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci prod 322
+ci series Marquis
+ci year 1974
+ci make Mercury
+ci maker Mercury
+ci doors 4
+ci model 57X
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci ebrake Rear wheels
+ci fbsize 11.8
+ci oil 4
+ci fuel 24.2
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci rtred 64.3
+ci ftred 64.1
+ci width 79.6
+ci wbase 124
+ci height 53.3
+ci length 226.8
+ci block Special alloy iron
+ci etype Select Shift automatic
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 335@2600
+ci vlift Hydraulic
+ci comp 8.0
+ci etype Own V8 Overhead valve
+ci cyl 8
+ci bhp 195@3800
+ci b&s 4.36 & 3.85
+ci mbear 5
+ci rhp 60.83
+ci disp 460
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci batt 12
+ci ftype Unleaded
+ci exha Single
+ci cool Water pump
+ci cool Quarts
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Radio
+ci equip Speed control device
+ci equip Power vent windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15
+cls 4842, 4(\w)63(\w)([\dX]{6})
+clv 19272, 1974, Mercury, Marquis, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $4821.00
+ci year 1974
+ci origin United States
+ci make Mercury
+ci series Marquis
+ci prod 5572
+ci maker Mercury
+ci model 53H
+ci doors 4
+ci bsize 11
+ci ebrake Rear wheels
+ci fbsize 11.8
+ci svc Power front disc rear self-adjusting drum
+ci fuel 24.2
+ci oil 4
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci rtred 64.3
+ci ftred 64.1
+ci width 79.6
+ci wbase 124
+ci height 54.7
+ci length 226.8
+ci etype Select Shift automatic
+ci trq 335@2600
+ci etype Dual downdraft
+ci etype Own V8 Overhead valve
+ci block Special alloy iron
+ci vlift Hydraulic
+ci comp 8.0
+ci b&s 4.36 & 3.85
+ci bhp 195@3800
+ci disp 460
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci rhp 60.83
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci ftype Unleaded
+ci batt 12
+ci cool Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power vent windows
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15
+cls 4843, 4(\w)40(\w)([\dX]{6})
+clv 19273, 1974, Mercury, Marquis, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 1338
+ci origin United States
+ci series Marquis
+ci year 1974
+ci make Mercury
+ci doors 4
+ci maker Mercury
+ci model 53X
+ci bsize 11
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.8
+ci oil 4
+ci fuel 24.2
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci rtred 64.3
+ci ftred 64.1
+ci width 79.6
+ci wbase 124
+ci height 53.3
+ci length 226.8
+ci block Special alloy iron
+ci etype Select Shift automatic
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 335@2600
+ci vlift Hydraulic
+ci comp 8.0
+ci etype Own V8 Overhead valve
+ci cyl 8
+ci bhp 195@3800
+ci b&s 4.36 & 3.85
+ci mbear 5
+ci rhp 60.83
+ci disp 460
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci batt 12
+ci ftype Unleaded
+ci exha Single
+ci cool Water pump
+ci cool Quarts
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Radio
+ci equip Speed control device
+ci equip Power vent windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15
+cls 4844, 4(\w)74(\w)([\dX]{6})
+clv 19274, 1974, Mercury, Marquis, Station Wagon 2-seat
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 1111
+ci make Mercury
+ci msrp $4736.00
+ci origin United States
+ci year 1974
+ci series Marquis
+ci maker Mercury
+ci doors 4
+ci model 71H
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 11.8
+ci oil 4
+ci fuel 24.2
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci rtred 64.3
+ci wbase 124
+ci width 79.8
+ci height 56.5
+ci length 225.7
+ci ftred 64.1
+ci block Special alloy iron
+ci etype Select Shift automatic
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci trq 335@2600
+ci comp 8.0
+ci etype Own V8 Overhead valve
+ci cyl 8
+ci bhp 195@3800
+ci disp 460
+ci rhp 60.83
+ci mbear 5
+ci b&s 4.36 & 3.85
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci batt 12
+ci ftype Unleaded
+ci exha Single
+ci cool Water pump
+ci cool Quarts
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Radio
+ci equip Speed control device
+ci equip Power vent windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize JR78 x 15
+ci sloc Trunk
+cls 4845, 4(\w)38(\w)([\dX]{6})
+clv 19275, 1974, Mercury, Monarch Ghia, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Monarch Ghia
+ci origin United States
+ci msrp $4349.00
+ci year 1974
+ci make Mercury
+ci weight 3352
+ci maker Mercury
+ci doors 2
+ci model 66K
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci fbsize 11
+ci tcase -NA-
+ci fuel 19.2 Quarts
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci height 53.6
+ci length 199.9
+ci ftred 58.5
+ci wbase 109.7
+ci rtred 57.7
+ci width 74
+ci mbear 7
+ci etype Single downdraft
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci etype Fully synchronized
+ci etype Inline 6. Overhead valve
+ci rhp 32.5
+ci b&s 3.68 & 3.91
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci ign Distributor and coil
+ci cool Water pump
+ci ftype Unleaded
+ci rad Tubular and fin
+ci cool 10.5 Quarts
+ci exha Single
+ci batt 12
+ci equip Radio
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci rev 3.17
+ci 2gear 1.75
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.99
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4846, 4(\w)37(\w)([\dX]{6})
+clv 19276, 1974, Mercury, Monarch Ghia, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Monarch Ghia
+ci origin United States
+ci msrp $4291.00
+ci year 1974
+ci make Mercury
+ci doors 4
+ci maker Mercury
+ci weight 3302
+ci model 54K
+ci fbsize 11
+ci ebrake Rear wheels
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci tcase -NA-
+ci fuel 19.2 Quarts
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci ftred 58.5
+ci length 199.9
+ci rtred 57.7
+ci height 53.6
+ci width 74
+ci wbase 109.7
+ci mbear 7
+ci rhp 32.5
+ci cyl 6
+ci etype Inline 6. Overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci disp 250
+ci b&s 3.68 & 3.91
+ci etype Single downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci ign Distributor and coil
+ci cool Water pump
+ci ftype Unleaded
+ci rad Tubular and fin
+ci cool 10.5 Quarts
+ci exha Single
+ci batt 12
+ci equip Radio
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci rev 3.17
+ci 2gear 1.75
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.99
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4847, 4(\w)35(\w)([\dX]{6})
+clv 19277, 1974, Mercury, Monarch, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Monarch
+ci make Mercury
+ci origin United States
+ci msrp $3822.00
+ci year 1974
+ci weight 3284
+ci maker Mercury
+ci doors 2
+ci model 66H
+ci svc Front disc rear self-adjusting drum
+ci fbsize 11
+ci ebrake Rear wheels
+ci bsize 10
+ci tcase -NA-
+ci fuel 19.2 Quarts
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci rtred 57.7
+ci height 53.4
+ci width 74
+ci wbase 109.7
+ci length 199.9
+ci ftred 58.5
+ci mbear 7
+ci cyl 6
+ci etype Own Inline 6
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 200
+ci block Special alloy iron
+ci etype Single downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci cool Water pump
+ci ftype Unleaded
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci cool 10.5 Quarts
+ci equip Radio
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 3.17
+ci 2gear 1.75
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.99
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4848, 4(\w)34(\w)([\dX]{6})
+clv 19278, 1974, Mercury, Monarch, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Monarch
+ci make Mercury
+ci origin United States
+ci msrp $3764.00
+ci year 1974
+ci doors 4
+ci maker Mercury
+ci model 54H
+ci weight 3234
+ci fbsize 11
+ci ebrake Rear wheels
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci oil 4
+ci tcase -NA-
+ci fuel 19.2 Quarts
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci height 53.4
+ci length 199.9
+ci width 74
+ci ftred 58.5
+ci wbase 109.7
+ci rtred 57.7
+ci mbear 7
+ci cyl 6
+ci etype Own Inline 6
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 200
+ci block Special alloy iron
+ci etype Single downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci cool Water pump
+ci ftype Unleaded
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci cool 10.5 Quarts
+ci equip Radio
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 3.17
+ci 2gear 1.75
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.99
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4849, 4(\w)07(\w)([\dX]{6})
+clv 19279, 1974, Mercury, Montego MX, Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci series Montego MX
+ci make Mercury
+ci origin United States
+ci prod 20957
+ci msrp $3162.00
+ci year 1974
+ci doors 2
+ci model 65D
+ci maker Mercury
+ci svc Power front disc rear drum
+ci ebrake Rear wheels
+ci fbsize 10.7
+ci bsize 10
+ci fuel 26.5
+ci tcase -NA-
+ci oil 4
+ci carb Motorcraft
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 118
+ci length 215.5
+ci width 78.6
+ci rtred 63.5
+ci ftred 63.4
+ci height 52.8
+ci disp 302
+ci mbear 5
+ci bhp 140@3800
+ci rhp 51.2
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.0
+ci etype Own V8 Overhead valve
+ci b&s 4 & 3
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 230@2600
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci ftype Unleaded
+ci cool Water pump
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool 15.7 Quarts
+ci equip 351 cu. in. V8 engine
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip 460 cu. in. V8 engine
+ci equip Power seats
+ci equip Power steering
+ci equip 400 cu. in. V8 engine
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 5gear Not applicable
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci rev 3.17
+ci gears 3
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14B
+cls 4850, 4(\w)04(\w)([\dX]{6})
+clv 19280, 1974, Mercury, Montego MX, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 19446
+ci origin United States
+ci make Mercury
+ci msrp $3130.00
+ci year 1974
+ci series Montego MX
+ci model 53D
+ci maker Mercury
+ci doors 4
+ci bsize 10
+ci fbsize 10.7
+ci svc Power front disc rear drum
+ci ebrake Rear wheels
+ci fuel 26.5
+ci oil 4
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci rtred 63.5
+ci width 78.6
+ci length 219.5
+ci ftred 63.4
+ci wbase 118
+ci height 53.5
+ci rhp 51.2
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3
+ci disp 302
+ci cyl 8
+ci comp 8.0
+ci bhp 140@3800
+ci trq 230@2600
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci etype Own V8 Overhead valve
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci batt 12
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci ftype Unleaded
+ci cool 15.7 Quarts
+ci exha Single
+ci cool Water pump
+ci equip 400 cu. in. V8 engine
+ci equip Speed control device
+ci equip 351 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip 460 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.17
+ci gears 3
+ci 3gear 1
+ci 2gear 1.75
+ci 1gear 2.99
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 14B
+ci sloc Trunk
+cls 4851, 4(\w)08(\w)([\dX]{6})
+clv 19281, 1974, Mercury, Montego MX, Station Wagon 2-seat
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 4085
+ci make Mercury
+ci origin United States
+ci msrp $3834.00
+ci series Montego MX
+ci year 1974
+ci maker Mercury
+ci model 71D
+ci doors 4
+ci bsize 10
+ci fbsize 10.7
+ci ebrake Rear wheels
+ci svc Power front disc rear drum
+ci fuel 26.5
+ci tcase -NA-
+ci oil 4
+ci carb Motorcraft
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 118
+ci width 79.6
+ci length 224.4
+ci rtred 63.5
+ci ftred 63.4
+ci height 54.6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci rhp 51.2
+ci bhp 140@3800
+ci b&s 4 & 3
+ci cyl 8
+ci comp 8.0
+ci etype Fully synchronized
+ci etype Own V8 Overhead valve
+ci trq 230@2600
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 302
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci ftype Unleaded
+ci cool Water pump
+ci cool 15.7 Quarts
+ci batt 12
+ci exha Single
+ci equip 351 cu. in. V8 engine
+ci equip Speed control device
+ci equip 400 cu. in. V8 engine
+ci equip 460 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power seats
+ci equip Power steering
+ci equip Radio
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 3.17
+ci 1gear 2.99
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 14
+cls 4852, 4(\w)03(\w)([\dX]{6})
+clv 19282, 1974, Mercury, Montego, Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 7645
+ci origin United States
+ci make Mercury
+ci year 1974
+ci msrp $3048.00
+ci series Montego
+ci model 65B
+ci maker Mercury
+ci doors 2
+ci ebrake Rear wheels
+ci fbsize 10.7
+ci svc Power front disc rear drum
+ci bsize 10
+ci fuel 26.5
+ci oil 4
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci ftred 63.4
+ci width 78.6
+ci wbase 118
+ci length 215.5
+ci rtred 63.5
+ci height 52.8
+ci bhp 140@3800
+ci rhp 51.2
+ci mbear 5
+ci b&s 4 & 3
+ci disp 302
+ci cyl 8
+ci comp 8.0
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 230@2600
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci etype Own V8 Overhead valve
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci batt 12
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci ftype Unleaded
+ci cool 15.7 Quarts
+ci exha Single
+ci cool Water pump
+ci equip 400 cu. in. V8 engine
+ci equip Speed control device
+ci equip 351 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip 460 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.17
+ci gears 3
+ci 3gear 1
+ci 2gear 1.75
+ci 1gear 2.99
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 14B
+ci sloc Trunk
+cls 4853, 4(\w)02(\w)([\dX]{6})
+clv 19283, 1974, Mercury, Montego, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1974
+ci make Mercury
+ci origin United States
+ci msrp $3014.00
+ci series Montego
+ci prod 5674
+ci model 53B
+ci maker Mercury
+ci doors 4
+ci bsize 10
+ci ebrake Rear wheels
+ci fbsize 10.7
+ci svc Power front disc rear drum
+ci fuel 26.5
+ci tcase -NA-
+ci oil 4
+ci carb Motorcraft
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 219.5
+ci rtred 63.5
+ci ftred 63.4
+ci width 78.6
+ci wbase 118
+ci height 53.5
+ci mbear 5
+ci rhp 51.2
+ci bhp 140@3800
+ci b&s 4 & 3
+ci etype Fully synchronized
+ci cyl 8
+ci comp 8.0
+ci etype Own V8 Overhead valve
+ci trq 230@2600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 302
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci ftype Unleaded
+ci cool Water pump
+ci cool 15.7 Quarts
+ci batt 12
+ci exha Single
+ci equip 351 cu. in. V8 engine
+ci equip Speed control device
+ci equip 400 cu. in. V8 engine
+ci equip 460 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power seats
+ci equip Power steering
+ci equip Radio
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 3.17
+ci 1gear 2.99
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14B
+cls 4854, 4(\w)56(\w)([\dX]{6})
+clv 19284, 1974, Mercury, Monterey Custom, Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 4510
+ci origin United States
+ci series Monterey Custom
+ci msrp $4264.00
+ci year 1974
+ci make Mercury
+ci doors 2
+ci model 65F
+ci maker Mercury
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.72
+ci ebrake Rear wheels
+ci bsize 11
+ci tcase -NA-
+ci oil 4
+ci fuel 22
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci ftred 64.1
+ci height 54.7
+ci wbase 124
+ci rtred 64.3
+ci length 226.8
+ci width 79.6
+ci bhp 170@3400
+ci comp 8.0
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci etype Select Shift automatic
+ci etype V8 Overhead valve
+ci disp 400
+ci vlift Hydraulic
+ci b&s 4 & 4
+ci trq 330@2000
+ci mbear 5
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci exha Single
+ci cool Water pump
+ci ftype Unleaded
+ci batt 12
+ci ign Distributor and coil
+ci cool 18 Quarts
+ci rad Tubular and fin
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip Power vent windows
+ci equip Air conditioning
+ci equip Power seats
+ci equip 460 cu. in. V8 engine
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15
+ci sloc Trunk
+cls 4855, 4(\w)54(\w)([\dX]{6})
+clv 19285, 1974, Mercury, Monterey Custom, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $4221.00
+ci origin United States
+ci series Monterey Custom
+ci year 1974
+ci prod 13113
+ci make Mercury
+ci maker Mercury
+ci doors 4
+ci model 53H
+ci fbsize 11.72
+ci ebrake Rear wheels
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci fuel 22
+ci oil 4
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 54.7
+ci length 226.8
+ci wbase 124
+ci ftred 64.1
+ci rtred 64.3
+ci width 79.6
+ci bhp 170@3400
+ci comp 8.0
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci etype Dual downdraft
+ci etype Select Shift automatic
+ci disp 400
+ci vlift Hydraulic
+ci trq 330@2000
+ci etype V8 Overhead valve
+ci mbear 5
+ci b&s 4 & 4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci exha Single
+ci cool Water pump
+ci ftype Unleaded
+ci batt 12
+ci ign Distributor and coil
+ci cool 18 Quarts
+ci rad Tubular and fin
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip Power vent windows
+ci equip Air conditioning
+ci equip Power seats
+ci equip 460 cu. in. V8 engine
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15
+ci sloc Trunk
+cls 4858, 4(\w)72(\w)([\dX]{6})
+clv 19288, 1974, Mercury, Monterey, Station Wagon 2-seat
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $4507.00
+ci origin United States
+ci series Monterey
+ci year 1974
+ci prod 1669
+ci make Mercury
+ci doors 4
+ci model 71B
+ci maker Mercury
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci bsize 11
+ci fbsize 11.72
+ci tcase -NA-
+ci fuel 22
+ci oil 4
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci ftred 64.1
+ci height 56.5
+ci length 225.7
+ci rtred 64.3
+ci wbase 124
+ci width 79.8
+ci bhp 170@3400
+ci comp 8.0
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci etype Dual downdraft
+ci etype Select Shift automatic
+ci vlift Hydraulic
+ci disp 400
+ci trq 330@2000
+ci etype V8 Overhead valve
+ci mbear 5
+ci b&s 4 & 4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci batt 12
+ci cool Water pump
+ci ftype Unleaded
+ci exha Single
+ci ign Distributor and coil
+ci cool 18 Quarts
+ci rad Tubular and fin
+ci equip Power windows
+ci equip Power vent windows
+ci equip Radio
+ci equip Power seats
+ci equip Air conditioning
+ci equip Speed control device
+ci equip 460 cu. in. V8 engine
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize JR78 x 15
+cls 4859, 4(\w)11(\w)([\dX]{6})
+clv 19289, 1974, Mercury, MX Brougham, Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci series MX Brougham
+ci origin United States
+ci prod 20511
+ci msrp $3344.00
+ci year 1974
+ci doors 2
+ci model 65K
+ci maker Mercury
+ci svc Power front disc rear drum
+ci ebrake Rear wheels
+ci fbsize 10.7
+ci bsize 10
+ci tcase -NA-
+ci fuel 26.5
+ci oil 4
+ci carb Motorcraft
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 118
+ci length 215.5
+ci width 78.6
+ci rtred 63.5
+ci ftred 63.4
+ci height 52.8
+ci disp 302
+ci mbear 5
+ci bhp 140@3800
+ci rhp 51.2
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.0
+ci etype Own V8 Overhead valve
+ci b&s 4 & 3
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 230@2600
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci rad Tubular and fin
+ci ftype Unleaded
+ci cool Water pump
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool 15.7 Quarts
+ci equip 351 cu. in. V8 engine
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip 460 cu. in. V8 engine
+ci equip Power seats
+ci equip Power steering
+ci equip 400 cu. in. V8 engine
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 5gear Not applicable
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci rev 3.17
+ci gears 3
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14B
+cls 4860, 4(\w)10(\w)([\dX]{6})
+clv 19290, 1974, Mercury, MX Brougham, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci series MX Brougham
+ci prod 13467
+ci year 1974
+ci msrp $3362.00
+ci doors 4
+ci model 53K
+ci maker Mercury
+ci ebrake Rear wheels
+ci bsize 10
+ci svc Power front disc rear drum
+ci fbsize 10.7
+ci fuel 26.5
+ci oil 4
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 219.5
+ci width 78.6
+ci wbase 118
+ci height 53.5
+ci ftred 63.4
+ci rtred 63.5
+ci rhp 51.2
+ci trq 230@2600
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3
+ci cyl 8
+ci comp 8.0
+ci disp 302
+ci bhp 140@3800
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci etype Own V8 Overhead valve
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci ftype Unleaded
+ci cool 15.7 Quarts
+ci cool Water pump
+ci equip 400 cu. in. V8 engine
+ci equip Speed control device
+ci equip 351 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip 460 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.17
+ci gears 3
+ci 3gear 1
+ci 2gear 1.75
+ci 1gear 2.99
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 14B
+ci sloc Trunk
+cls 4861, 4(\w)18(\w)([\dX]{6})
+clv 19291, 1974, Mercury, MX Brougham, Villager
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci prod 6234
+ci year 1974
+ci series MX Brougham
+ci doors 4
+ci maker Mercury
+ci model 71K
+ci ebrake Rear wheels
+ci svc Power front disc rear drum
+ci bsize 10
+ci fbsize 10.7
+ci tcase -NA-
+ci fuel 26.5
+ci oil 4
+ci carb Motorcraft
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci ftred 63.4
+ci width 79.6
+ci wbase 118
+ci length 224.4
+ci rtred 63.5
+ci height 54.6
+ci b&s 4 & 3
+ci trq 230@2600
+ci rhp 51.2
+ci mbear 5
+ci disp 302
+ci cyl 8
+ci comp 8.0
+ci etype Fully synchronized
+ci etype Own V8 Overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci bhp 140@3800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci cool Water pump
+ci ign Distributor and coil
+ci ftype Unleaded
+ci exha Single
+ci batt 12
+ci rad Tubular and fin
+ci cool 15.7 Quarts
+ci equip Speed control device
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip 460 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip 351 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci gears 3
+ci rev 3.17
+ci 1gear 2.99
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 4856, 4(\w)46(\w)([\dX]{6})
+clv 19286, 1974, Mercury, Monterey, Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $4164.00
+ci origin United States
+ci series Monterey
+ci prod 2003
+ci year 1974
+ci make Mercury
+ci model 65B
+ci doors 2
+ci maker Mercury
+ci fbsize 11.72
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci bsize 11
+ci oil 4
+ci fuel 22
+ci tcase -NA-
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci ftred 64.1
+ci height 53.3
+ci length 226.8
+ci rtred 64.3
+ci wbase 124
+ci width 79.6
+ci bhp 170@3400
+ci comp 8.0
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci etype Dual downdraft
+ci etype Select Shift automatic
+ci disp 400
+ci vlift Hydraulic
+ci trq 330@2000
+ci etype V8 Overhead valve
+ci mbear 5
+ci b&s 4 & 4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci exha Single
+ci cool Water pump
+ci ftype Unleaded
+ci batt 12
+ci ign Distributor and coil
+ci cool 18 Quarts
+ci rad Tubular and fin
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip Power vent windows
+ci equip Air conditioning
+ci equip Power seats
+ci equip 460 cu. in. V8 engine
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15
+ci sloc Trunk
+cls 4857, 4(\w)44(\w)([\dX]{6})
+clv 19287, 1974, Mercury, Monterey, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci prod 6185
+ci series Monterey
+ci msrp $4121.00
+ci year 1974
+ci make Mercury
+ci model 53B
+ci doors 4
+ci maker Mercury
+ci fbsize 11.72
+ci ebrake Rear wheels
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fuel 22
+ci oil 4
+ci tcase -NA-
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci height 54.7
+ci length 226.8
+ci wbase 124
+ci ftred 64.1
+ci rtred 64.3
+ci width 79.6
+ci bhp 170@3400
+ci comp 8.0
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Overhead valve
+ci mbear 5
+ci etype Select Shift automatic
+ci disp 400
+ci vlift Hydraulic
+ci b&s 4 & 4
+ci trq 330@2000
+ci rhp 51.2
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Green Gold Metallic
+co Bright Red
+co Bright Yellow Gold Metallic
+co Dark Copper Metallic
+co Dark Green Metallic
+co Dark Yellow Green Metallic
+co Ginger Metallic
+co Light Blue
+co Light Grabber Blue
+co Medium Beige
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Dark Gold Metallic
+co Medium Ginger Metallic
+co Medium Goldenrod
+co Medium Lime Yellow
+co Medium Red Metallic
+co Medium Slate Blue
+co Orange
+co Pastel Blue
+co Pastel Lime
+co Red
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Tan Metallic
+co White Decor
+ci exha Single
+ci cool Water pump
+ci ftype Unleaded
+ci batt 12
+ci ign Distributor and coil
+ci cool 18 Quarts
+ci rad Tubular and fin
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip Power vent windows
+ci equip Air conditioning
+ci equip Power seats
+ci equip 460 cu. in. V8 engine
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15
+ci sloc Trunk

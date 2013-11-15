@@ -1,0 +1,4331 @@
+cls 4506, 6(\w)01(\w)([\dX]{6})
+clv 18935, 1966, Mercury, Comet 202 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2207.00
+ci prod 35964
+ci origin United States
+ci series Comet 202 6
+ci make Mercury
+ci year 1966
+ci model 62A
+ci weight 2920
+ci maker Mercury
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci trans 2
+ci tcase -NA-
+ci rdiff 4.5
+ci oil 3.5
+ci carb Own
+ci csize 9 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci rtred 58
+ci wbase 116
+ci length 195.9
+ci height 55
+ci width 73.8
+ci etype Own Inline 6
+ci disp 200
+ci b&s 3.68 & 3.13
+ci comp 9.2
+ci mbear 7
+ci block Special alloy iron
+ci trq 190@2400
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 120@4400
+ci rhp 32.5
+ci etype Helical
+ci vlift Hydraulic
+ci etype Single downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci cool 9.5 Quarts
+ci ftype Regular
+ci exha Single
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci equip Power antenna
+ci equip Merc-O-Matic automatic transmission
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Windows (side)
+ci equip Wheel Covers Wire
+ci equip Wheel Covers Deluxe
+ci equip Radio
+ci equip Vinyl-covered Oxford Roof
+ci equip Speed control device
+ci equip Air Conditioner Deluxe
+ci equip Heater and Defroster
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.76
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 3.74
+ci 2gear 1.69
+ci 5gear Not applicable
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 4507, 6(\w)02(\w)([\dX]{6})
+clv 18936, 1966, Mercury, Comet 202 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2263.00
+ci prod 20440
+ci origin United States
+ci series Comet 202 6
+ci make Mercury
+ci year 1966
+ci doors 4
+ci model 54A
+ci maker Mercury
+ci weight 2964
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci trans 2
+ci tcase -NA-
+ci fuel 20
+ci rdiff 4.5
+ci oil 3.5
+ci carb Own
+ci csize 9 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci height 55
+ci rtred 58
+ci length 195.9
+ci width 73.8
+ci wbase 116
+ci etype Own Inline 6
+ci cyl 6
+ci b&s 3.68 & 3.13
+ci comp 9.2
+ci mbear 7
+ci block Special alloy iron
+ci trq 190@2400
+ci disp 200
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 120@4400
+ci rhp 32.5
+ci etype Helical
+ci vlift Hydraulic
+ci etype Single downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci cool 9.5 Quarts
+ci ftype Regular
+ci exha Single
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci equip Power antenna
+ci equip Merc-O-Matic automatic transmission
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Windows (side)
+ci equip Wheel Covers Wire
+ci equip Wheel Covers Deluxe
+ci equip Radio
+ci equip Vinyl-covered Oxford Roof
+ci equip Speed control device
+ci equip Air Conditioner Deluxe
+ci equip Heater and Defroster
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.76
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 3.74
+ci 2gear 1.69
+ci 5gear Not applicable
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 4508, 6(\w)06(\w)([\dX]{6})
+clv 18937, 1966, Mercury, Comet 202 6, Voyager
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1966
+ci make Mercury
+ci origin United States
+ci series Comet 202 6
+ci msrp $2790.00
+ci prod 7595
+ci model 71A
+ci maker Mercury
+ci weight 3342
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci fuel 20
+ci rdiff 4.5
+ci oil 3.5
+ci trans 2
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci csize 9 inches
+ci diffr 3.25
+ci diff Hypoid
+ci length 199.9
+ci height 55.9
+ci wbase 116
+ci rtred 58
+ci width 73.8
+ci mbear 7
+ci bhp 120@4400
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Own Inline 6
+ci cyl 6
+ci trq 190@2400
+ci b&s 3.68 & 3.13
+ci disp 200
+ci block Special alloy iron
+ci etype Helical
+ci vlift Hydraulic
+ci etype Single downdraft
+ci rhp 32.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ftype Regular
+ci rad Tubular and fin
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool 9.5 Quarts
+ci cool Centrifugal water  pump
+ci equip Power Bench Seat 4-Way
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Air Conditioner Deluxe
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Windows (side)
+ci equip Power antenna
+ci equip Vinyl-covered Oxford Roof
+ci equip Heater and Defroster
+ci equip Merc-O-Matic automatic transmission
+ci equip Speed control device
+ci equip Wheel Covers Deluxe
+ci equip Wheel Covers Wire
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.69
+ci 1gear 2.76
+ci 5gear Not applicable
+ci rev 3.74
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+cls 4509, 6(\w)01(\w)([\dX]{6})
+clv 18938, 1966, Mercury, Comet 202 8, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2312.00
+ci series Comet 202 8
+ci year 1966
+ci make Mercury
+ci origin United States
+ci prod 35964
+ci maker Mercury
+ci model 62A
+ci doors 2
+ci weight 2948
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci tcase -NA-
+ci rdiff 4.5
+ci oil 4
+ci trans 3.5
+ci carb Own
+ci ctype Single dry plate
+ci diffr 2.80
+ci diff Hypoid
+ci width 73.8
+ci wbase 116
+ci length 195.9
+ci height 55
+ci rtred 58
+ci rhp 51.2
+ci mbear 5
+ci b&s 4 & 2.87
+ci etype Own Cyclone Super V8
+ci cyl 8
+ci comp 9.3
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 200@4400
+ci block Special alloy iron
+ci disp 289
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci trq 282@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci exha Single
+ci cool 15 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci equip Power Windows (side)
+ci equip Wheel Covers Wire
+ci equip 390 cu. in. V8 engine
+ci equip Wheel Covers Deluxe
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Air Conditioner Deluxe
+ci equip Vinyl-covered Oxford Roof
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Merc-O-Matic automatic transmission
+ci equip Power Transfer Rear Axle
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 2gear 1.75
+ci 5gear Not applicable
+ci rev 3.17
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4510, 6(\w)02(\w)([\dX]{6})
+clv 18939, 1966, Mercury, Comet 202 8, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci series Comet 202 8
+ci origin United States
+ci year 1966
+ci prod 20440
+ci msrp $2368.00
+ci model 54A
+ci maker Mercury
+ci weight 2992
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 4.5
+ci oil 4
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci diffr 2.80
+ci diff Hypoid
+ci length 195.9
+ci wbase 116
+ci rtred 58
+ci height 55
+ci width 73.8
+ci trq 282@2400
+ci mbear 5
+ci disp 289
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 9.3
+ci b&s 4 & 2.87
+ci bhp 200@4400
+ci block Special alloy iron
+ci etype Own Cyclone Super V8
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci rhp 51.2
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci exha Single
+ci cool 15 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci equip Power Windows (side)
+ci equip Wheel Covers Wire
+ci equip 390 cu. in. V8 engine
+ci equip Wheel Covers Deluxe
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Air Conditioner Deluxe
+ci equip Vinyl-covered Oxford Roof
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Merc-O-Matic automatic transmission
+ci equip Power Transfer Rear Axle
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 2gear 1.75
+ci 5gear Not applicable
+ci rev 3.17
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4511, 6(\w)06(\w)([\dX]{6})
+clv 18940, 1966, Mercury, Comet 202 8, Voyager
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1966
+ci msrp $2895.00
+ci origin United States
+ci make Mercury
+ci series Comet 202 8
+ci prod 7595
+ci weight 3413
+ci maker Mercury
+ci doors 4
+ci model 71A
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci oil 4
+ci rdiff 4.5
+ci trans 3.5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci diffr 2.80
+ci diff Hypoid
+ci wbase 116
+ci length 199.9
+ci width 73.8
+ci height 55.9
+ci rtred 58
+ci cyl 8
+ci bhp 200@4400
+ci mbear 5
+ci block Special alloy iron
+ci comp 9.3
+ci trq 282@2400
+ci disp 289
+ci b&s 4 & 2.87
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci rhp 51.2
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Own Cyclone Super V8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci cool Centrifugal water  pump
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci rad Tubular and fin
+ci exha Single
+ci equip Power Steering
+ci equip Merc-O-Matic automatic transmission
+ci equip Wheel Covers Deluxe
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Vinyl-covered Oxford Roof
+ci equip Power Transfer Rear Axle
+ci equip Power Windows (side)
+ci equip 390 cu. in. V8 engine
+ci equip Radio
+ci equip Heater and Defroster
+ci equip Air Conditioner Deluxe
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci 5gear Not applicable
+ci 2gear 1.75
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+cls 4512, 6(\w)25(\w)([\dX]{6})
+clv 18941, 1966, Mercury, Comet Caliente 6, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet Caliente 6
+ci make Mercury
+ci origin United States
+ci year 1966
+ci msrp $2736.00
+ci prod 3922
+ci model 76D
+ci maker Mercury
+ci doors 2
+ci weight 3284
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 10
+ci oil 3.5
+ci trans 2
+ci rdiff 4.5
+ci tcase -NA-
+ci fuel 20
+ci carb Own
+ci csize 9 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci wbase 116
+ci rtred 58
+ci height 54
+ci length 203
+ci width 73.8
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci comp 9.2
+ci etype Own Inline 6
+ci bhp 120@4400
+ci trq 190@2400
+ci vlift Hydraulic
+ci b&s 3.68 & 3.13
+ci block Special alloy iron
+ci disp 200
+ci etype Single downdraft
+ci etype Helical
+ci rhp 32.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 9.5 Quarts
+ci equip Power antenna
+ci equip Air Conditioner Deluxe
+ci equip Bucket Seats w/Console
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Windows (side)
+ci equip Wheel Covers Deluxe
+ci equip Vinyl-covered Oxford Roof
+ci equip Radio
+ci equip Heater and Defroster
+ci equip Speed control device
+ci equip Merc-O-Matic automatic transmission
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.69
+ci 1gear 2.76
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 3.74
+ci gears 3
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4513, 6(\w)23(\w)([\dX]{6})
+clv 18942, 1966, Mercury, Comet Caliente 6, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2476.00
+ci prod 25862
+ci origin United States
+ci make Mercury
+ci year 1966
+ci series Comet Caliente 6
+ci doors 2
+ci weight 3023
+ci maker Mercury
+ci model 63D
+ci bsize 10
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 2
+ci fuel 20
+ci rdiff 4.5
+ci oil 3.5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci csize 9 inches
+ci diff Hypoid
+ci diffr 3.25
+ci rtred 58
+ci length 203
+ci height 54.3
+ci wbase 116
+ci width 73.8
+ci mbear 7
+ci disp 200
+ci cyl 6
+ci comp 9.2
+ci rhp 32.5
+ci block Special alloy iron
+ci vlift Hydraulic
+ci etype Own Inline 6
+ci trq 190@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci bhp 120@4400
+ci etype Helical
+ci b&s 3.68 & 3.13
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci cool 9.5 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci rad Tubular and fin
+ci ftype Regular
+ci equip Power Windows (side)
+ci equip Merc-O-Matic automatic transmission
+ci equip Wheel Covers Deluxe
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Vinyl-covered Oxford Roof
+ci equip Power antenna
+ci equip Speed control device
+ci equip Radio
+ci equip Heater and Defroster
+ci equip Air Conditioner Deluxe
+ci equip Bucket Seats w/Console
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.76
+ci gears 3
+ci rev 3.74
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.69
+ci drive Rear wheel drive
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 4514, 6(\w)22(\w)([\dX]{6})
+clv 18943, 1966, Mercury, Comet Caliente 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 17933
+ci msrp $2453.00
+ci origin United States
+ci make Mercury
+ci series Comet Caliente 6
+ci year 1966
+ci doors 4
+ci model 54D
+ci maker Mercury
+ci weight 2987
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 3.5
+ci trans 2
+ci rdiff 4.5
+ci fuel 20
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci csize 9 inches
+ci diffr 3.25
+ci diff Hypoid
+ci height 55
+ci length 203
+ci rtred 58
+ci wbase 116
+ci width 73.8
+ci mbear 7
+ci cyl 6
+ci disp 200
+ci comp 9.2
+ci rhp 32.5
+ci block Special alloy iron
+ci vlift Hydraulic
+ci etype Own Inline 6
+ci trq 190@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci bhp 120@4400
+ci etype Helical
+ci b&s 3.68 & 3.13
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci cool 9.5 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci rad Tubular and fin
+ci ftype Regular
+ci equip Power Windows (side)
+ci equip Merc-O-Matic automatic transmission
+ci equip Wheel Covers Deluxe
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Vinyl-covered Oxford Roof
+ci equip Power antenna
+ci equip Speed control device
+ci equip Radio
+ci equip Heater and Defroster
+ci equip Air Conditioner Deluxe
+ci equip Bucket Seats w/Console
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.76
+ci gears 3
+ci rev 3.74
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.69
+ci drive Rear wheel drive
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 4515, 6(\w)25(\w)([\dX]{6})
+clv 18944, 1966, Mercury, Comet Caliente 8, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1966
+ci series Comet Caliente 8
+ci origin United States
+ci prod 3922
+ci msrp $2841.00
+ci make Mercury
+ci maker Mercury
+ci doors 2
+ci model 76D
+ci weight 3312
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 3.5
+ci fuel 20
+ci rdiff 4.5
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.80
+ci rtred 58
+ci wbase 116
+ci length 203
+ci width 73.8
+ci height 54
+ci cyl 8
+ci disp 289
+ci rhp 51.2
+ci trq 282@2400
+ci etype Fully synchronized
+ci comp 9.3
+ci b&s 4 & 2.87
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 200@4400
+ci block Special alloy iron
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Own Cyclone Super V8
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ftype Regular
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool 15 Quarts
+ci equip Power Steering
+ci equip Wheel Covers Wire
+ci equip Wheel Covers Deluxe
+ci equip Vinyl-covered Oxford Roof
+ci equip Heater and Defroster
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Merc-O-Matic automatic transmission
+ci equip Power Transfer Rear Axle
+ci equip Power Windows (side)
+ci equip Bucket Seats w/Console
+ci equip Radio
+ci equip 390 cu. in. V8 engine
+ci equip Air Conditioner Deluxe
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.17
+ci gears 3
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.75
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4516, 6(\w)23(\w)([\dX]{6})
+clv 18945, 1966, Mercury, Comet Caliente 8, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1966
+ci prod 25862
+ci origin United States
+ci series Comet Caliente 8
+ci make Mercury
+ci msrp $2581.00
+ci maker Mercury
+ci doors 2
+ci model 63D
+ci weight 3051
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci rdiff 4.5
+ci fuel 20
+ci oil 4
+ci trans 3.5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci diffr 2.80
+ci diff Hypoid
+ci width 73.8
+ci wbase 116
+ci length 203
+ci rtred 58
+ci height 54.3
+ci etype Own Cyclone Super V8
+ci mbear 5
+ci bhp 200@4400
+ci rhp 51.2
+ci cyl 8
+ci comp 9.3
+ci trq 282@2400
+ci disp 289
+ci b&s 4 & 2.87
+ci lube Pressure to all bearings excluding wrist pin
+ci block Special alloy iron
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci cool 15 Quarts
+ci ftype Regular
+ci equip Power Transfer Rear Axle
+ci equip Wheel Covers Wire
+ci equip Vinyl-covered Oxford Roof
+ci equip 390 cu. in. V8 engine
+ci equip Wheel Covers Deluxe
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Steering
+ci equip Air Conditioner Deluxe
+ci equip Power Windows (side)
+ci equip Bucket Seats w/Console
+ci equip Radio
+ci equip Merc-O-Matic automatic transmission
+ci equip Heater and Defroster
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci rev 3.17
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 2.99
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4517, 6(\w)22(\w)([\dX]{6})
+clv 18946, 1966, Mercury, Comet Caliente 8, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 17933
+ci series Comet Caliente 8
+ci origin United States
+ci msrp $2558.00
+ci year 1966
+ci make Mercury
+ci model 54D
+ci maker Mercury
+ci doors 4
+ci weight 3015
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci rdiff 4.5
+ci oil 4
+ci fuel 20
+ci tcase -NA-
+ci trans 3.5
+ci carb Own
+ci ctype Single dry plate
+ci diffr 2.80
+ci diff Hypoid
+ci height 55
+ci wbase 116
+ci length 203
+ci width 73.8
+ci rtred 58
+ci cyl 8
+ci disp 289
+ci trq 282@2400
+ci rhp 51.2
+ci etype Fully synchronized
+ci comp 9.3
+ci b&s 4 & 2.87
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 200@4400
+ci block Special alloy iron
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Own Cyclone Super V8
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ftype Regular
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci cool 15 Quarts
+ci equip Power Steering
+ci equip Wheel Covers Wire
+ci equip Wheel Covers Deluxe
+ci equip Vinyl-covered Oxford Roof
+ci equip Heater and Defroster
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Merc-O-Matic automatic transmission
+ci equip Power Transfer Rear Axle
+ci equip Power Windows (side)
+ci equip Bucket Seats w/Console
+ci equip Radio
+ci equip 390 cu. in. V8 engine
+ci equip Air Conditioner Deluxe
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.17
+ci gears 3
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.75
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4518, 6(\w)13(\w)([\dX]{6})
+clv 18947, 1966, Mercury, Comet Capri 6, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet Capri 6
+ci msrp $2401.00
+ci origin United States
+ci prod 15031
+ci make Mercury
+ci year 1966
+ci model 63B
+ci weight 3017
+ci maker Mercury
+ci doors 2
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci trans 2
+ci rdiff 4.5
+ci oil 3.5
+ci carb Own
+ci csize 9 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci rtred 58
+ci wbase 116
+ci height 54.3
+ci width 73.8
+ci length 203
+ci etype Own Inline 6
+ci rhp 32.5
+ci cyl 6
+ci comp 9.2
+ci mbear 7
+ci disp 200
+ci trq 190@2400
+ci block Special alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 120@4400
+ci b&s 3.68 & 3.13
+ci etype Helical
+ci vlift Hydraulic
+ci etype Single downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci cool 9.5 Quarts
+ci ftype Regular
+ci exha Single
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci equip Power antenna
+ci equip Merc-O-Matic automatic transmission
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Windows (side)
+ci equip Wheel Covers Deluxe
+ci equip Wheel Covers Cyclone
+ci equip Radio
+ci equip Vinyl-covered Oxford Roof
+ci equip Speed control device
+ci equip Air Conditioner Deluxe
+ci equip Heater and Defroster
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.76
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 3.74
+ci 2gear 1.69
+ci 5gear Not applicable
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 4519, 6(\w)12(\w)([\dX]{6})
+clv 18948, 1966, Mercury, Comet Capri 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet Capri 6
+ci msrp $2378.00
+ci origin United States
+ci prod 15635
+ci make Mercury
+ci year 1966
+ci doors 4
+ci weight 2985
+ci maker Mercury
+ci model 54B
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 20
+ci trans 2
+ci rdiff 4.5
+ci oil 3.5
+ci carb Own
+ci csize 9 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci height 55
+ci length 203
+ci rtred 58
+ci width 73.8
+ci wbase 116
+ci etype Own Inline 6
+ci cyl 6
+ci b&s 3.68 & 3.13
+ci comp 9.2
+ci mbear 7
+ci disp 200
+ci trq 190@2400
+ci block Special alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 120@4400
+ci rhp 32.5
+ci etype Helical
+ci vlift Hydraulic
+ci etype Single downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci batt 12
+ci ign Distributor and coil
+ci cool 9.5 Quarts
+ci ftype Regular
+ci exha Single
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci equip Power antenna
+ci equip Merc-O-Matic automatic transmission
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Windows (side)
+ci equip Wheel Covers Deluxe
+ci equip Wheel Covers Cyclone
+ci equip Radio
+ci equip Vinyl-covered Oxford Roof
+ci equip Speed control device
+ci equip Air Conditioner Deluxe
+ci equip Heater and Defroster
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.76
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 3.74
+ci 2gear 1.69
+ci 5gear Not applicable
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 4520, 6(\w)16(\w)([\dX]{6})
+clv 18949, 1966, Mercury, Comet Capri 6, Villager
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet Capri 6
+ci make Mercury
+ci origin United States
+ci year 1966
+ci msrp $2553.00
+ci prod 3880
+ci maker Mercury
+ci weight 3385
+ci model 71C
+ci doors 4
+ci bsize 10
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 2
+ci rdiff 4.5
+ci oil 3.5
+ci tcase -NA-
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci csize 9 inches
+ci diffr 3.25
+ci diff Hypoid
+ci length 199.9
+ci rtred 58
+ci wbase 116
+ci width 73.8
+ci height 55.9
+ci mbear 7
+ci cyl 6
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Own Inline 6
+ci b&s 3.68 & 3.13
+ci disp 200
+ci etype Single downdraft
+ci bhp 120@4400
+ci block Special alloy iron
+ci etype Helical
+ci vlift Hydraulic
+ci trq 190@2400
+ci rhp 32.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ftype Regular
+ci rad Tubular and fin
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool 9.5 Quarts
+ci cool Centrifugal water  pump
+ci equip Power Bench Seat 4-Way
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Air Conditioner Deluxe
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Windows (side)
+ci equip Power antenna
+ci equip Vinyl-covered Oxford Roof
+ci equip Heater and Defroster
+ci equip Merc-O-Matic automatic transmission
+ci equip Speed control device
+ci equip Wheel Covers Cyclone
+ci equip Wheel Covers Deluxe
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.69
+ci 1gear 2.76
+ci 5gear Not applicable
+ci rev 3.74
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+cls 4521, 6(\w)13(\w)([\dX]{6})
+clv 18950, 1966, Mercury, Comet Capri 8, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2506.00
+ci series Comet Capri 8
+ci year 1966
+ci make Mercury
+ci origin United States
+ci prod 15031
+ci maker Mercury
+ci weight 3045
+ci doors 2
+ci model 63B
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci fuel 20
+ci rdiff 4.5
+ci trans 3.5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.80
+ci rtred 58
+ci length 203
+ci wbase 116
+ci width 73.8
+ci height 54.3
+ci comp 9.3
+ci etype Own Cyclone Super V8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci cyl 8
+ci b&s 4 & 2.87
+ci disp 289
+ci mbear 5
+ci block Special alloy iron
+ci trq 282@2400
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci bhp 200@4400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci exha Single
+ci cool 15 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci equip Power Windows (side)
+ci equip Wheel Covers Wire
+ci equip 390 cu. in. V8 engine
+ci equip Wheel Covers Deluxe
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Air Conditioner Deluxe
+ci equip Vinyl-covered Oxford Roof
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Merc-O-Matic automatic transmission
+ci equip Power Transfer Rear Axle
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 2gear 1.75
+ci 5gear Not applicable
+ci rev 3.17
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4522, 6(\w)12(\w)([\dX]{6})
+clv 18951, 1966, Mercury, Comet Capri 8, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci series Comet Capri 8
+ci origin United States
+ci year 1966
+ci prod 15635
+ci msrp $2483.00
+ci model 54B
+ci maker Mercury
+ci weight 3013
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 4.5
+ci oil 4
+ci trans 3.5
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci diffr 2.80
+ci diff Hypoid
+ci wbase 116
+ci width 73.8
+ci rtred 58
+ci height 55
+ci length 203
+ci etype Own Cyclone Super V8
+ci mbear 5
+ci trq 282@2400
+ci disp 289
+ci cyl 8
+ci comp 9.3
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 200@4400
+ci block Special alloy iron
+ci b&s 4 & 2.87
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci rhp 51.2
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci exha Single
+ci cool 15 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci equip Power Windows (side)
+ci equip Wheel Covers Wire
+ci equip 390 cu. in. V8 engine
+ci equip Wheel Covers Deluxe
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Air Conditioner Deluxe
+ci equip Vinyl-covered Oxford Roof
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Merc-O-Matic automatic transmission
+ci equip Power Transfer Rear Axle
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 2gear 1.75
+ci 5gear Not applicable
+ci rev 3.17
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4523, 6(\w)16(\w)([\dX]{6})
+clv 18952, 1966, Mercury, Comet Capri 8, Villager
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2658.00
+ci prod 3880
+ci origin United States
+ci make Mercury
+ci year 1966
+ci series Comet Capri 8
+ci maker Mercury
+ci doors 4
+ci model 71C
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 4
+ci fuel 20
+ci trans 3.5
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci diffr 2.80
+ci diff Hypoid
+ci wbase 116
+ci width 73.8
+ci length 199.9
+ci rtred 58
+ci height 55.9
+ci cyl 8
+ci block Special alloy iron
+ci bhp 200@4400
+ci rhp 51.2
+ci comp 9.3
+ci trq 282@2400
+ci b&s 4 & 2.87
+ci disp 289
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci mbear 5
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Own Cyclone Super V8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci cool Centrifugal water  pump
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci rad Tubular and fin
+ci exha Single
+ci equip Power Transfer Rear Axle
+ci equip Merc-O-Matic automatic transmission
+ci equip Wheel Covers Deluxe
+ci equip Paint - Two-Tone
+ci equip Performance Handling Packaage
+ci equip Power Bench Seat 4-Way
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Vinyl-covered Oxford Roof
+ci equip Power Windows (side)
+ci equip 390 cu. in. V8 engine
+ci equip Radio
+ci equip Heater and Defroster
+ci equip Air Conditioner Deluxe
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci 5gear Not applicable
+ci 2gear 1.75
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+cls 4524, 6(\w)26(\w)([\dX]{6})
+clv 18953, 1966, Mercury, Comet Cyclone GT, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1966
+ci origin United States
+ci msrp $3152.00
+ci make Mercury
+ci series Comet Cyclone GT
+ci prod 2158
+ci weight 3595
+ci model 76H
+ci maker Mercury
+ci doors 2
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci rdiff 4.5
+ci fuel 20
+ci tcase -NA-
+ci trans 3.5
+ci oil 4
+ci carb Own
+ci csize 11 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 203
+ci width 73.8
+ci wbase 116
+ci rtred 58
+ci height 54
+ci disp 389.09
+ci mbear 5
+ci trq 427@3200
+ci b&s 4 3/64 & 3 25/32
+ci cyl 8
+ci rhp 52.41
+ci bhp 335@4800
+ci lube Pressure to all bearings excluding wrist pin
+ci block Special alloy iron
+ci comp 10.5
+ci etype V8 Valve-in-head
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci exha Dual
+ci rad Tubular and fin
+ci cool 15 Quarts
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci equip Power Windows (side)
+ci equip Wheel Covers Wire
+ci equip Bucket Seats w/Console
+ci equip Air Conditioner Deluxe
+ci equip Wheel Covers Deluxe
+ci equip Wheel Covers Cyclone
+ci equip Paint - Two-Tone
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Steering
+ci equip Heater and Defroster
+ci equip Merc-O-Matic automatic transmission
+ci equip Hood Twin Scoop Gt
+ci equip Vinyl-covered Oxford Roof
+ci equip Radio
+ci equip Cyclone GT Option
+ci equip Power Transfer Rear Axle
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.33
+ci 1gear 2.42
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.61
+ci gears 3
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4525, 6(\w)28(\w)([\dX]{6})
+clv 18954, 1966, Mercury, Comet Cyclone GT, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2891.00
+ci origin United States
+ci prod 13812
+ci series Comet Cyclone GT
+ci make Mercury
+ci year 1966
+ci model 63H
+ci maker Mercury
+ci doors 2
+ci weight 3315
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci trans 3.5
+ci oil 4
+ci rdiff 4.5
+ci tcase -NA-
+ci fuel 20
+ci carb Own
+ci csize 11 inches
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci length 203
+ci wbase 116
+ci width 73.8
+ci rtred 58
+ci height 54.3
+ci disp 389.09
+ci mbear 5
+ci trq 427@3200
+ci b&s 4 3/64 & 3 25/32
+ci cyl 8
+ci rhp 52.41
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci block Special alloy iron
+ci comp 10.5
+ci etype V8 Valve-in-head
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci bhp 335@4800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci exha Dual
+ci rad Tubular and fin
+ci cool 15 Quarts
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci equip Power Windows (side)
+ci equip Wheel Covers Wire
+ci equip Bucket Seats w/Console
+ci equip Air Conditioner Deluxe
+ci equip Wheel Covers Deluxe
+ci equip Wheel Covers Cyclone
+ci equip Paint - Two-Tone
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Steering
+ci equip Heater and Defroster
+ci equip Merc-O-Matic automatic transmission
+ci equip Hood Twin Scoop Gt
+ci equip Vinyl-covered Oxford Roof
+ci equip Radio
+ci equip Cyclone GT Option
+ci equip Power Transfer Rear Axle
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.33
+ci 1gear 2.42
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.61
+ci gears 3
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4526, 6(\w)29(\w)([\dX]{6})
+clv 18955, 1966, Mercury, Comet Cyclone, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci series Comet Cyclone
+ci origin United States
+ci year 1966
+ci msrp $2961.00
+ci prod 1305
+ci model 76C
+ci maker Mercury
+ci doors 2
+ci weight 3490
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 4.5
+ci fuel 20
+ci oil 4
+ci trans 3.5
+ci carb Own
+ci ctype Single dry plate
+ci diffr 2.80
+ci diff Hypoid
+ci wbase 116
+ci width 73.8
+ci length 203
+ci rtred 58
+ci height 54
+ci rhp 51.2
+ci mbear 5
+ci b&s 4 & 2.87
+ci etype Own Cyclone Super V8
+ci cyl 8
+ci comp 9.3
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 289
+ci trq 282@2400
+ci block Special alloy iron
+ci bhp 200@4400
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci cool 15 Quarts
+ci ftype Regular
+ci equip Power Transfer Rear Axle
+ci equip Bucket Seats w/Console
+ci equip Air Conditioner Deluxe
+ci equip Wheel Covers Deluxe
+ci equip Wheel Covers Cyclone
+ci equip 390 cu. in. V8 engine
+ci equip Vinyl-covered Oxford Roof
+ci equip Paint - Two-Tone
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Steering
+ci equip Merc-O-Matic automatic transmission
+ci equip Power Windows (side)
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Hood Twin Scoop Gt
+ci equip Cyclone GT Option
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 2gear 1.75
+ci 1gear 2.99
+ci 5gear Not applicable
+ci rev 3.17
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 4527, 6(\w)27(\w)([\dX]{6})
+clv 18956, 1966, Mercury, Comet Cyclone, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 6889
+ci series Comet Cyclone
+ci origin United States
+ci year 1966
+ci msrp $2700.00
+ci make Mercury
+ci maker Mercury
+ci doors 2
+ci weight 3243
+ci model 63E
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear service brakes
+ci rdiff 4.5
+ci oil 4
+ci tcase -NA-
+ci fuel 20
+ci trans 3.5
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.80
+ci wbase 116
+ci width 73.8
+ci length 203
+ci height 54.3
+ci rtred 58
+ci rhp 51.2
+ci mbear 5
+ci b&s 4 & 2.87
+ci disp 289
+ci cyl 8
+ci comp 9.3
+ci trq 282@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci bhp 200@4400
+ci etype Own Cyclone Super V8
+ci block Special alloy iron
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ftype Regular
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool 15 Quarts
+ci equip Power Steering
+ci equip Wheel Covers Wire
+ci equip 390 cu. in. V8 engine
+ci equip Hood Twin Scoop Gt
+ci equip Wheel Covers Deluxe
+ci equip Heater and Defroster
+ci equip Cyclone GT Option
+ci equip Paint - Two-Tone
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Wheel Covers Cyclone
+ci equip Power Transfer Rear Axle
+ci equip Power Windows (side)
+ci equip Bucket Seats w/Console
+ci equip Radio
+ci equip Air Conditioner Deluxe
+ci equip Vinyl-covered Oxford Roof
+ci equip Merc-O-Matic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.75
+ci rev 3.17
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4528, 6(\w)52(\w)([\dX]{6})
+clv 18957, 1966, Mercury, Montclair, Breezeway Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci prod 2964
+ci series Montclair
+ci origin United States
+ci year 1966
+ci doors 4
+ci model 50B
+ci maker Mercury
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci fuel 25
+ci trans 3
+ci rdiff 5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 79.6
+ci wbase 123
+ci length 220.4
+ci rtred 62
+ci height 56
+ci trq 401@2600
+ci mbear 5
+ci cyl 8
+ci rhp 52.41
+ci comp 9.5
+ci b&s 4 3/64 & 3 25/32
+ci etype Fully synchronized
+ci etype V8 Valve-in-head
+ci bhp 265@4400
+ci block Special alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci disp 389.09
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci cool 20.5 Quarts
+ci equip Vinyl-covered Oxford Roof
+ci equip Adjustable Air Springs
+ci equip Multi-Drive automatic transmission
+ci equip AM-FM Radio Push Button
+ci equip Air Conditioner
+ci equip Mirror remote-control side-view
+ci equip Power Antenna
+ci equip Power Brakes
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Wheel Covers Deluxe
+ci equip AutomaticSpeed Control
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Stereo-Sonic Tape system
+ci equip Heater and Defroster
+ci equip Remote Control Deck-Lid Release
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci rev 2.33
+ci 1gear 2.42
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4529, 6(\w)57(\w)([\dX]{6})
+clv 18958, 1966, Mercury, Montclair, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1966
+ci origin United States
+ci msrp $3144.00
+ci prod 11290
+ci make Mercury
+ci series Montclair
+ci maker Mercury
+ci doors 2
+ci model 63B
+ci weight 3887
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci fuel 25
+ci rdiff 5
+ci trans 3
+ci tcase -NA-
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 220.4
+ci wbase 123
+ci width 79.4
+ci height 55.1
+ci rtred 62
+ci cyl 8
+ci rhp 52.41
+ci bhp 265@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.5
+ci mbear 5
+ci trq 401@2600
+ci disp 389.09
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci equip Power Antenna
+ci equip Adjustable Air Springs
+ci equip Multi-Drive automatic transmission
+ci equip AM-FM Radio Push Button
+ci equip Vinyl-covered Oxford Roof
+ci equip Air Conditioner
+ci equip Mirror remote-control side-view
+ci equip Power Brakes
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Wheel Covers Deluxe
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Heater and Defroster
+ci equip Remote Control Deck-Lid Release
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4530, 6(\w)58(\w)([\dX]{6})
+clv 18959, 1966, Mercury, Montclair, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3217.00
+ci origin United States
+ci series Montclair
+ci make Mercury
+ci year 1966
+ci prod 15767
+ci maker Mercury
+ci weight 3971
+ci model 57B
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci trans 3
+ci fuel 25
+ci tcase -NA-
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 220.4
+ci wbase 123
+ci width 79.6
+ci height 55.1
+ci rtred 62
+ci cyl 8
+ci rhp 52.41
+ci bhp 265@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.5
+ci mbear 5
+ci trq 401@2600
+ci disp 389.09
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci equip Power Antenna
+ci equip Adjustable Air Springs
+ci equip Multi-Drive automatic transmission
+ci equip AM-FM Radio Push Button
+ci equip Vinyl-covered Oxford Roof
+ci equip Air Conditioner
+ci equip Mirror remote-control side-view
+ci equip Power Brakes
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Wheel Covers Deluxe
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Heater and Defroster
+ci equip Remote Control Deck-Lid Release
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4531, 6(\w)54(\w)([\dX]{6})
+clv 18960, 1966, Mercury, Montclair, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3087.00
+ci origin United States
+ci series Montclair
+ci prod 11856
+ci make Mercury
+ci year 1966
+ci maker Mercury
+ci weight 3921
+ci model 54B
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci trans 3
+ci fuel 25
+ci tcase -NA-
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 220.4
+ci wbase 123
+ci width 79.6
+ci rtred 62
+ci height 56
+ci cyl 8
+ci rhp 52.41
+ci bhp 265@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.5
+ci mbear 5
+ci trq 401@2600
+ci disp 389.09
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci equip Power Antenna
+ci equip Adjustable Air Springs
+ci equip Multi-Drive automatic transmission
+ci equip AM-FM Radio Push Button
+ci equip Vinyl-covered Oxford Roof
+ci equip Air Conditioner
+ci equip Mirror remote-control side-view
+ci equip Power Brakes
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Wheel Covers Deluxe
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Heater and Defroster
+ci equip Remote Control Deck-Lid Release
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4532, 6(\w)42(\w)([\dX]{6})
+clv 18961, 1966, Mercury, Monterey, Breezeway Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2917.00
+ci origin United States
+ci series Monterey
+ci make Mercury
+ci year 1966
+ci prod 14174
+ci maker Mercury
+ci weight 3966
+ci model 50A
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci trans 3
+ci fuel 25
+ci tcase -NA-
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 220.4
+ci wbase 123
+ci width 79.6
+ci rtred 62
+ci height 56
+ci cyl 8
+ci bhp 265@4400
+ci rhp 52.41
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.5
+ci mbear 5
+ci trq 401@2600
+ci disp 389.09
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci equip Power Antenna
+ci equip Adjustable Air Springs
+ci equip Multi-Drive automatic transmission
+ci equip AM-FM Radio Push Button
+ci equip Vinyl-covered Oxford Roof
+ci equip Air Conditioner
+ci equip Mirror remote-control side-view
+ci equip Power Brakes
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Wheel Covers Deluxe
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Heater and Defroster
+ci equip Remote Control Deck-Lid Release
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4533, 6(\w)45(\w)([\dX]{6})
+clv 18962, 1966, Mercury, Monterey, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 3279
+ci origin United States
+ci msrp $3237.00
+ci series Monterey
+ci make Mercury
+ci year 1966
+ci doors 2
+ci model 76A
+ci weight 4039
+ci maker Mercury
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci trans 3
+ci rdiff 5
+ci oil 4
+ci fuel 25
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci length 220.4
+ci width 79.4
+ci wbase 123
+ci height 55.2
+ci rtred 62
+ci trq 401@2600
+ci mbear 5
+ci cyl 8
+ci rhp 52.41
+ci comp 9.5
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 265@4400
+ci block Special alloy iron
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci equip Power Antenna
+ci equip Adjustable Air Springs
+ci equip Multi-Drive automatic transmission
+ci equip AM-FM Radio Push Button
+ci equip Vinyl-covered Oxford Roof
+ci equip Air Conditioner
+ci equip Mirror remote-control side-view
+ci equip Power Brakes
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Wheel Covers Deluxe
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Heater and Defroster
+ci equip Remote Control Deck-Lid Release
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4534, 6(\w)47(\w)([\dX]{6})
+clv 18963, 1966, Mercury, Monterey, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 19103
+ci origin United States
+ci msrp $2915.00
+ci make Mercury
+ci year 1966
+ci series Monterey
+ci maker Mercury
+ci doors 2
+ci model 63A
+ci weight 3885
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci fuel 25
+ci rdiff 5
+ci trans 3
+ci tcase -NA-
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 220.4
+ci wbase 123
+ci width 79.4
+ci height 55.1
+ci rtred 62
+ci cyl 8
+ci rhp 52.41
+ci bhp 265@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.5
+ci mbear 5
+ci trq 401@2600
+ci disp 389.09
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci equip Power Antenna
+ci equip Adjustable Air Springs
+ci equip Multi-Drive automatic transmission
+ci equip AM-FM Radio Push Button
+ci equip Vinyl-covered Oxford Roof
+ci equip Air Conditioner
+ci equip Mirror remote-control side-view
+ci equip Power Brakes
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Wheel Covers Deluxe
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Heater and Defroster
+ci equip Remote Control Deck-Lid Release
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4535, 6(\w)48(\w)([\dX]{6})
+clv 18964, 1966, Mercury, Monterey, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci series Monterey
+ci msrp $2990.00
+ci year 1966
+ci prod 7647
+ci maker Mercury
+ci model 57A
+ci doors 4
+ci weight 3928
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci rdiff 5
+ci tcase -NA-
+ci oil 4
+ci fuel 25
+ci trans 3
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci height 55.1
+ci wbase 123
+ci length 220.4
+ci width 79.6
+ci rtred 62
+ci trq 401@2600
+ci mbear 5
+ci cyl 8
+ci rhp 52.41
+ci comp 9.5
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 265@4400
+ci block Special alloy iron
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci equip Power Antenna
+ci equip Adjustable Air Springs
+ci equip Multi-Drive automatic transmission
+ci equip AM-FM Radio Push Button
+ci equip Vinyl-covered Oxford Roof
+ci equip Air Conditioner
+ci equip Mirror remote-control side-view
+ci equip Power Brakes
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Wheel Covers Deluxe
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Heater and Defroster
+ci equip Remote Control Deck-Lid Release
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4536, 6(\w)43(\w)([\dX]{6})
+clv 18965, 1966, Mercury, Monterey, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2783.00
+ci origin United States
+ci prod 2487
+ci make Mercury
+ci series Monterey
+ci year 1966
+ci doors 2
+ci maker Mercury
+ci model 62A
+ci weight 3835
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci fuel 25
+ci rdiff 5
+ci trans 3
+ci tcase -NA-
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 220.4
+ci wbase 123
+ci width 79.4
+ci height 56
+ci rtred 62
+ci cyl 8
+ci rhp 52.41
+ci bhp 265@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.5
+ci mbear 5
+ci trq 401@2600
+ci disp 389.09
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci equip Power Antenna
+ci equip Adjustable Air Springs
+ci equip Multi-Drive automatic transmission
+ci equip AM-FM Radio Push Button
+ci equip Vinyl-covered Oxford Roof
+ci equip Air Conditioner
+ci equip Mirror remote-control side-view
+ci equip Power Brakes
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Wheel Covers Deluxe
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Heater and Defroster
+ci equip Remote Control Deck-Lid Release
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4537, 6(\w)44(\w)([\dX]{6})
+clv 18966, 1966, Mercury, Monterey, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2854.00
+ci origin United States
+ci series Monterey
+ci make Mercury
+ci year 1966
+ci prod 18995
+ci maker Mercury
+ci weight 3903
+ci model 54A
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci trans 3
+ci fuel 25
+ci tcase -NA-
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 220.4
+ci wbase 123
+ci width 79.6
+ci rtred 62
+ci height 56
+ci cyl 8
+ci rhp 52.41
+ci bhp 265@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.5
+ci mbear 5
+ci trq 401@2600
+ci disp 389.09
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci equip Power Antenna
+ci equip Adjustable Air Springs
+ci equip Multi-Drive automatic transmission
+ci equip AM-FM Radio Push Button
+ci equip Vinyl-covered Oxford Roof
+ci equip Air Conditioner
+ci equip Mirror remote-control side-view
+ci equip Power Brakes
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip AutomaticSpeed Control
+ci equip Wheel Covers Deluxe
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Heater and Defroster
+ci equip Remote Control Deck-Lid Release
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4538, 6(\w)62(\w)([\dX]{6})
+clv 18967, 1966, Mercury, Parklane, Breezeway Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci make Mercury
+ci year 1966
+ci prod 8696
+ci series Parklane
+ci msrp $3389.00
+ci doors 4
+ci maker Mercury
+ci model 50F
+ci weight 4051
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 25
+ci trans 3
+ci rdiff 5
+ci tcase -NA-
+ci oil 4
+ci carb Own
+ci csize 11.5 inches
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci length 220.4
+ci width 79.6
+ci wbase 123
+ci rtred 62
+ci height 56
+ci rhp 52.41
+ci mbear 5
+ci cyl 8
+ci etype Own Marauder V8
+ci trq 444@2800
+ci disp 410
+ci b&s 4 3/64 & 3.98
+ci comp 10.5
+ci block Special alloy iron
+ci bhp 330@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci cool 20.5 Quarts
+ci ftype Premium
+ci equip Power Vent Windows
+ci equip Multi-Drive automatic transmission
+ci equip Adjustable Air Springs
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip AM-FM Radio Push Button
+ci equip Wheel Covers Deluxe
+ci equip Vinyl-covered Oxford Roof
+ci equip Power Antenna
+ci equip Power Brakes
+ci equip Power Rear Window-Station.Wagons.
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Mirror remote-control side-view
+ci equip Power Windows (side)
+ci equip Air Conditioner
+ci equip AutomaticSpeed Control
+ci equip Remote Control Deck-Lid Release
+ci equip Heater and Defroster
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.42
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4539, 6(\w)65(\w)([\dX]{6})
+clv 18968, 1966, Mercury, Parklane, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci series Parklane
+ci make Mercury
+ci prod 2546
+ci year 1966
+ci msrp $3604.00
+ci model 76F
+ci weight 4148
+ci maker Mercury
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci fuel 25
+ci tcase -NA-
+ci rdiff 5
+ci trans 3
+ci oil 4
+ci carb Own
+ci csize 11.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 79.4
+ci length 220.4
+ci wbase 123
+ci rtred 62
+ci height 55.2
+ci bhp 330@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 52.41
+ci cyl 8
+ci etype Own Marauder V8
+ci mbear 5
+ci trq 444@2800
+ci disp 410
+ci comp 10.5
+ci b&s 4 3/64 & 3.98
+ci block Special alloy iron
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci cool 20.5 Quarts
+ci ftype Premium
+ci equip Power Vent Windows
+ci equip Multi-Drive automatic transmission
+ci equip Adjustable Air Springs
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip AM-FM Radio Push Button
+ci equip Wheel Covers Deluxe
+ci equip Vinyl-covered Oxford Roof
+ci equip Power Antenna
+ci equip Power Brakes
+ci equip Power Rear Window-Station.Wagons.
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Mirror remote-control side-view
+ci equip Power Windows (side)
+ci equip Air Conditioner
+ci equip AutomaticSpeed Control
+ci equip Remote Control Deck-Lid Release
+ci equip Heater and Defroster
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.42
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4540, 6(\w)67(\w)([\dX]{6})
+clv 18969, 1966, Mercury, Parklane, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci series Parklane
+ci origin United States
+ci msrp $3387.00
+ci year 1966
+ci prod 8354
+ci doors 2
+ci maker Mercury
+ci model 63F
+ci weight 3971
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci fuel 25
+ci tcase -NA-
+ci trans 3
+ci rdiff 5
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci csize 11.5 inches
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 123
+ci length 220.4
+ci width 79.4
+ci height 55.1
+ci rtred 62
+ci cyl 8
+ci rhp 52.41
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Own Marauder V8
+ci mbear 5
+ci trq 444@2800
+ci disp 410
+ci bhp 330@4600
+ci comp 10.5
+ci b&s 4 3/64 & 3.98
+ci block Special alloy iron
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci cool 20.5 Quarts
+ci ftype Premium
+ci equip Power Vent Windows
+ci equip Multi-Drive automatic transmission
+ci equip Adjustable Air Springs
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip AM-FM Radio Push Button
+ci equip Wheel Covers Deluxe
+ci equip Vinyl-covered Oxford Roof
+ci equip Power Antenna
+ci equip Power Brakes
+ci equip Power Rear Window-Station.Wagons.
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Mirror remote-control side-view
+ci equip Power Windows (side)
+ci equip Air Conditioner
+ci equip AutomaticSpeed Control
+ci equip Remote Control Deck-Lid Release
+ci equip Heater and Defroster
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.42
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4541, 6(\w)68(\w)([\dX]{6})
+clv 18970, 1966, Mercury, Parklane, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci series Parklane
+ci origin United States
+ci msrp $3460.00
+ci prod 19204
+ci year 1966
+ci model 57F
+ci weight 4070
+ci maker Mercury
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci fuel 25
+ci tcase -NA-
+ci trans 3
+ci rdiff 5
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci csize 11.5 inches
+ci diff Hypoid
+ci diffr 3.0
+ci width 79.6
+ci length 220.4
+ci rtred 62
+ci wbase 123
+ci height 55.1
+ci bhp 330@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 52.41
+ci cyl 8
+ci etype Own Marauder V8
+ci mbear 5
+ci trq 444@2800
+ci disp 410
+ci comp 10.5
+ci b&s 4 3/64 & 3.98
+ci block Special alloy iron
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci cool 20.5 Quarts
+ci ftype Premium
+ci equip Power Vent Windows
+ci equip Multi-Drive automatic transmission
+ci equip Adjustable Air Springs
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip AM-FM Radio Push Button
+ci equip Wheel Covers Deluxe
+ci equip Vinyl-covered Oxford Roof
+ci equip Power Antenna
+ci equip Power Brakes
+ci equip Power Rear Window-Station.Wagons.
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Mirror remote-control side-view
+ci equip Power Windows (side)
+ci equip Air Conditioner
+ci equip AutomaticSpeed Control
+ci equip Remote Control Deck-Lid Release
+ci equip Heater and Defroster
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.42
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4542, 6(\w)46(\w)([\dX]{6})
+clv 18971, 1966, Mercury, S-55, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci series S-55
+ci make Mercury
+ci origin United States
+ci prod 669
+ci msrp $3614.00
+ci year 1966
+ci doors 2
+ci maker Mercury
+ci model 63G
+ci weight 4148
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci trans 3
+ci fuel 25
+ci tcase -NA-
+ci oil 4
+ci rdiff 5
+ci carb Own
+ci ctype Single dry plate
+ci csize 11.5 inches
+ci diffr 3.25
+ci diff Hypoid
+ci wbase 123
+ci width 79.6
+ci length 220.4
+ci height 56
+ci rtred 62
+ci rhp 54.58
+ci comp 10.5
+ci mbear 5
+ci cyl 8
+ci etype Own V8 overhead valve
+ci trq 462@2800
+ci disp 428
+ci etype Fully synchronized
+ci block Special alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 345@4600
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci b&s 4.13 & 3.98
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci batt 12
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Dual
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci ftype Premium
+ci equip Power Windows (side)
+ci equip Mirror remote-control side-view
+ci equip Multi-Drive automatic transmission
+ci equip Adjustable Air Springs
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip AM-FM Radio Push Button
+ci equip Wheel Covers Deluxe
+ci equip Power Antenna
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Air Conditioner
+ci equip AutomaticSpeed Control
+ci equip Vinyl-covered Oxford Roof
+ci equip Heater and Defroster
+ci equip Remote Control Deck-Lid Release
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 3gear 1.29
+ci 2gear 1.69
+ci gears 4
+ci rev 2.32
+ci 4gear 1
+ci drive Rear wheel drive
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4543, 6(\w)49(\w)([\dX]{6})
+clv 18972, 1966, Mercury, S-55, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci prod 2916
+ci origin United States
+ci series S-55
+ci msrp $3292.00
+ci year 1966
+ci weight 4031
+ci doors 2
+ci model 76G
+ci maker Mercury
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 4
+ci tcase -NA-
+ci trans 3
+ci rdiff 5
+ci fuel 25
+ci carb Own
+ci ctype Single dry plate
+ci csize 11.5 inches
+ci diff Hypoid
+ci diffr 3.25
+ci width 79.4
+ci wbase 123
+ci length 220.4
+ci rtred 62
+ci height 55.1
+ci b&s 4.13 & 3.98
+ci mbear 5
+ci trq 462@2800
+ci cyl 8
+ci etype Own V8 overhead valve
+ci disp 428
+ci rhp 54.58
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 345@4600
+ci comp 10.5
+ci block Special alloy iron
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci batt 12
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Dual
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci ftype Premium
+ci equip Power Windows (side)
+ci equip Mirror remote-control side-view
+ci equip Multi-Drive automatic transmission
+ci equip Adjustable Air Springs
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip AM-FM Radio Push Button
+ci equip Wheel Covers Deluxe
+ci equip Power Antenna
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Air Conditioner
+ci equip AutomaticSpeed Control
+ci equip Vinyl-covered Oxford Roof
+ci equip Heater and Defroster
+ci equip Remote Control Deck-Lid Release
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Wire
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 3gear 1.29
+ci 2gear 1.69
+ci gears 4
+ci rev 2.32
+ci 4gear 1
+ci drive Rear wheel drive
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4544, 6(\w)76(\w)([\dX]{6})
+clv 18973, 1966, Mercury, Station Wagon, Colony Park
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1966
+ci origin United States
+ci msrp $3502.00
+ci prod 11704
+ci series Station Wagon
+ci make Mercury
+ci model 71A
+ci weight 4332
+ci maker Mercury
+ci pass 6
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 3
+ci rdiff 5
+ci tcase -NA-
+ci fuel 25
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci rtred 62
+ci height 56.8
+ci wbase 119
+ci length 216.5
+ci width 79.6
+ci comp 9.5
+ci etype Fully synchronized
+ci cyl 8
+ci disp 389.09
+ci b&s 4 3/64 & 3 25/32
+ci block Special alloy iron
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci bhp 265@4400
+ci trq 401@2600
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci etype Dual downdraft
+ci rhp 52.41
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co These are standard Ford colors
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci rad Tubular and fin
+ci batt 12
+ci ign Distributor and coil
+ci equip Mirror remote-control side-view
+ci equip Multi-Drive automatic transmission
+ci equip Stereo-Sonic Tape system
+ci equip AM-FM Radio Push Button
+ci equip Heater and Defroster
+ci equip Power Antenna
+ci equip Power Brakes
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Adjustable Air Springs
+ci equip AutomaticSpeed Control
+ci equip Air Conditioner
+ci equip Wheel Covers Deluxe w/Spinner
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.42
+ci gears 3
+ci 3gear 1
+ci 2gear 1.61
+ci 5gear Not applicable
+ci rev 2.33
+ci drive Rear wheel drive
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4545, 6(\w)76(\w)([\dX]{6})
+clv 18974, 1966, Mercury, Station Wagon, Colony Park
+ser 6 500000 999999
+ci axle Semifloating
+ci series Station Wagon
+ci make Mercury
+ci prod 7190
+ci origin United States
+ci year 1966
+ci maker Mercury
+ci model 71E
+ci pass 9
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 3
+ci rdiff 5
+ci tcase -NA-
+ci fuel 25
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 216.5
+ci height 56.8
+ci rtred 62
+ci wbase 119
+ci width 79.6
+ci block Special alloy iron
+ci cyl 8
+ci bhp 265@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.5
+ci disp 389.09
+ci etype V8 Valve-in-head
+ci b&s 4 3/64 & 3 25/32
+ci etype Fully synchronized
+ci mbear 5
+ci rhp 52.41
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci trq 401@2600
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co These are standard Ford colors
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci exha Single
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci batt 12
+ci cool 20.5 Quarts
+ci ftype Regular
+ci equip Mirror remote-control side-view
+ci equip Multi-Drive automatic transmission
+ci equip AM-FM Radio Push Button
+ci equip Heater and Defroster
+ci equip Adjustable Air Springs
+ci equip Power Antenna
+ci equip Power Brakes
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Air Conditioner
+ci equip AutomaticSpeed Control
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Deluxe w/Spinner
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.61
+ci 1gear 2.42
+ci gears 3
+ci rev 2.33
+ci 3gear 1
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4546, 6(\w)72(\w)([\dX]{6})
+clv 18975, 1966, Mercury, Station Wagon, Commuter
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1966
+ci origin United States
+ci msrp $3240.00
+ci prod 3970
+ci series Station Wagon
+ci make Mercury
+ci doors 4
+ci model 71B
+ci weight 4280
+ci maker Mercury
+ci pass 6
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci trans 3
+ci oil 4
+ci fuel 25
+ci rdiff 5
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci rtred 62
+ci height 56.8
+ci length 216.5
+ci wbase 119
+ci width 79.6
+ci comp 9.5
+ci etype Fully synchronized
+ci cyl 8
+ci trq 401@2600
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci block Special alloy iron
+ci bhp 265@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci etype Dual downdraft
+ci rhp 52.41
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co These are standard Ford colors
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci batt 12
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci equip Mirror remote-control side-view
+ci equip Multi-Drive automatic transmission
+ci equip Stereo-Sonic Tape system
+ci equip AM-FM Radio Push Button
+ci equip Heater and Defroster
+ci equip Power Antenna
+ci equip Power Brakes
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Adjustable Air Springs
+ci equip AutomaticSpeed Control
+ci equip Air Conditioner
+ci equip Wheel Covers Deluxe w/Spinner
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.42
+ci gears 3
+ci 3gear 1
+ci 2gear 1.61
+ci 5gear Not applicable
+ci rev 2.33
+ci drive Rear wheel drive
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4547, 6(\w)72(\w)([\dX]{6})
+clv 18976, 1966, Mercury, Station Wagon, Commuter
+ser 6 500000 999999
+ci axle Semifloating
+ci series Station Wagon
+ci prod 2877
+ci origin United States
+ci year 1966
+ci make Mercury
+ci doors 4
+ci pass 9
+ci maker Mercury
+ci model 71C
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 25
+ci trans 3
+ci rdiff 5
+ci oil 4
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 119
+ci length 216.5
+ci height 56.8
+ci rtred 62
+ci width 79.6
+ci disp 389.09
+ci cyl 8
+ci mbear 5
+ci trq 401@2600
+ci comp 9.5
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 265@4400
+ci etype Fully synchronized
+ci rhp 52.41
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Blue Ice
+co Bronze
+co Burgundy
+co Cardinal Red
+co Caspian Blue
+co Coventry Gray
+co Emberglo
+co Jamaican Yellow
+co Olive Mist
+co Onyx
+co Palisade Turquoise
+co Polar White
+co Sage Gold
+co Sandstone
+co Sheffield Silver
+co These are standard Ford colors
+co Tiffany Blue
+co Turquoise Frost
+co Two Tone Colors Available
+ci batt 12
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci rad Tubular and fin
+ci exha Single
+ci equip Mirror remote-control side-view
+ci equip Multi-Drive automatic transmission
+ci equip Air Conditioner
+ci equip AutomaticSpeed Control
+ci equip Heater and Defroster
+ci equip Power Antenna
+ci equip Power Brakes
+ci equip Power Seat-6 Way
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Adjustable Air Springs
+ci equip AM-FM Radio Push Button
+ci equip Stereo-Sonic Tape system
+ci equip Wheel Covers Deluxe w/Spinner
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.61
+ci 1gear 2.42
+ci gears 3
+ci rev 2.33
+ci 3gear 1
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15

@@ -1,0 +1,59 @@
+<header>
+<div class='navbar'>
+<div class='navbar-inner'>
+<div class='container-fluid'>
+<a class='brand' href='/'>
+  <%= link_to root_path, class: 'brand' do %>
+  <i class='icon-wrench'></i>
+  <span class='hidden-phone'><%= image_tag 'banner_logo.png', size: '100x25' %></span>
+  <% end %>
+</a>
+
+<div class='divider'></div>
+<ul class='nav'>
+  <%= nav_link 'Docs',      docs_path %>
+  <%= nav_link 'Plans',     plans_path %>
+  <%= nav_link 'Mobile',    mobile_path %>
+  <%= nav_link 'Our Data',  data_path %>
+  <%= nav_link 'Samples',   samples_path %>
+  <%= nav_link 'Contact',   contact_path %>
+</ul>
+
+<ul class='nav pull-right'>
+
+  <% if user_signed_in? %>
+    <li><a><%= current_user.name %></a></li>
+    <li>
+
+      <%= link_to destroy_user_session_path, :method=>'delete' do %>
+          <i class='icon-signout'></i> Logout
+      <% end %>
+    </li>
+<% else %>
+    <li>
+      <%= link_to new_user_session_path do %>
+          <i class='icon-signin'></i> Login
+      <% end %>
+    </li>
+<% end %>
+<% if user_signed_in? %>
+      <li class="<%= 'active' if controller?('dashboard') %>">
+        <%= link_to dashboard_path do %>
+            <i class="icon-dashboard"></i>
+            <span>Dashboard</span>
+        <% end %>
+      </li>
+
+    <% if current_user.has_role? :admin %>
+        <li>
+          <%= link_to 'Admin', '/admin' %>
+        </li>
+    <% end %>
+<% end %>
+</ul>
+
+
+</div>
+</div>
+</div>
+</header>

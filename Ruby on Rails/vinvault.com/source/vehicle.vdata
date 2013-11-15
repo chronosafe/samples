@@ -1,0 +1,246 @@
+classic_pattern_first 10000
+classic_vehicle_first 30000
+
+# include ford data
+file classic_ford
+
+def mustang_plants
+ci plant Dearborn, MI
+if 1:1 F
+ci plant San Jose, CA
+if 1:1 R
+end
+
+def common
+ci year 1976
+ci make Ford
+ci vloc Stamped on metal tab riveted to instrument panel, left-hand side
+ci origin United States
+inc colors
+inc ford_plants_72_76
+inc engines
+end
+
+# 1976
+# Ford
+# Pinto
+cls 99999, 6[XT]10[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Pinto, Sedan 2-Dr
+img 1976_ford_pinto_sedan_2dr.png
+inc common
+ci doors: 2
+cval 6T10A123456
+
+cls 6[XT]11[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Pinto, Sedan 3-Dr
+img 1976_ford_pinto_sedan_3dr.png
+cval 6T11A123456
+ci doors: 3
+inc common
+
+cls 6[XT]12[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Pinto, Wagon 2-Dr
+img 1976_ford_pinto_wagon_2dr.png
+cval 6T12A123456
+inc common
+ci doors: 2
+
+# Mustang II
+cls 6[FS]02[YZF]\d{6}
+ser 6 100001 999999
+clv 1976, Ford, Mustang II, Hatchback 2-Dr
+img 1976_ford_mustang_2dr.png
+cval 6F02F106093
+ci doors: 2
+inc common
+
+cls 6[FS]03[YZF]\d{6}
+clv 1976, Ford, Mustang II, 4-Passenger Hatchback 3-Dr
+img 1976_ford_mustang_3dr.png
+cval 6F03F206093
+ci doors: 3
+inc common
+
+cls 6[FS]04[YZF]\d{6}
+clv 1976, Ford, Mustang II Grande, Ghia
+img 1976_ford_mustang_ghia_2dr.png
+cval 6F04F206093
+ci doors: 2
+inc common
+
+cls 6[FS]05[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Mustang Mach 1, 4-Passenger Hatchback 3-Dr
+img 1976_ford_mustang_mach_1_3dr.png
+cval 6F05F206093
+ci doors: 3
+inc common
+
+# Maverick
+cls 6[KX]91[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Maverick, Sedan 2-Dr
+cval 6K91A123456
+inc common
+ci doors: 2
+
+cls 6[KX]92[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Maverick, Sedan 4-Dr
+inc common
+ci doors: 4
+cval 6X92C123456
+
+# Torino
+cls 6[AGHS]25[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Torino, Hardtop 2-Dr
+ci doors: 2
+inc common
+
+cls 6[AGHS]27[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Torino, Hardtop Sedan 4-Dr
+ci doors: 4
+inc common
+
+# Gran Torino
+cls 6[AGHS]30[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Gran Torino, Hardtop 2-Dr
+ci doors: 2
+inc common
+
+cls 6[AGHS]31[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Gran Torino, Hardtop Sedan 4-Dr
+ci doors: 4
+inc common
+
+# Gran Torino Brougham
+cls 6[AGHS]32[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Gran Torino Brougham, Hardtop 2-Dr
+ci doors: 2
+inc common
+
+cls 6[AGHS]33[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Gran Torino Brougham, Hardtop Sedan 4-Dr
+ci doors: 4
+inc common
+
+# Torino Elite
+cls 6G21[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Gran Torino Elite, Hardtop Sedan 2-Dr
+ci doors: 2
+inc common
+
+# Torino Station Wagon
+cls 6[AGHS]40[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Torino, Station Wagon
+ci note: Canada only
+inc common
+
+cls 6[AGHS]42[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Gran Torino, Station Wagon
+ci note: Canada only
+inc common
+
+cls 6[AGHS]43[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Torino Squire, Station Wagon
+ci note: Canada only
+inc common
+
+# Ranchero
+cls 6[AS]47[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Ranchero, 500 Ranchero 2-Dr
+ci doors: 2
+inc common
+
+cls 6[AS]48[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Ranchero, GT Ranchero 2-Dr
+ci doors: 2
+inc common
+
+cls 6[AS]49[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Ranchero, Ranchero Squire
+inc common
+
+# Custom
+cls 6[JUSBP]52[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Custom 500, Hardtop 2-Dr
+ci doors: 2
+ci note: Canada only
+inc common
+
+cls 6[JUSBP]53[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Custom 500, Sedan 4-Dr
+ci doors: 4
+ci note: U.S. and Canada fleet only
+inc common
+
+# LTD
+cls 6[JUSBP]62[ACFHLSTYZ]\d{6}
+clv 1976, Ford, LTD, Hardtop (Formal) 2-Dr
+ci doors: 2
+inc common
+
+cls 6[JUSBP]63[ACFHLSTYZ]\d{6}
+clv 1976, Ford, LTD, Hardtop Sedan 4-Dr
+ci doors: 4
+inc common
+
+cls 6[JUSBP]64[ACFHLSTYZ]\d{6}
+clv 1976, Ford, LTD, Hardtop Landau 4-Dr
+ci doors: 4
+inc common
+
+cls 6[JUSBP]65[ACFHLSTYZ]\d{6}
+clv 1976, Ford, LTD, Hardtop Landau 2-Dr
+ci doors: 2
+inc common
+
+# LTD Brougham
+cls 6[JUSBP]68[ACFHLSTYZ]\d{6}
+clv 1976, Ford, LTD Brougham, Hardtop 2-Dr
+ci doors: 2
+inc common
+
+cls 6[JUSBP]66[ACFHLSTYZ]\d{6}
+clv 1976, Ford, LTD Brougham, Hardtop (Pillar) 4-Dr
+ci doors: 4
+inc common
+
+# Station Wagons
+cls 6[JUSBP]74[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Station Wagon, LTD 4-Seat
+inc common
+
+cls 6[JUSBP]76[ACFHLSTYZ]\d{6}
+clv 1976, Ford, LTD, Country Squire
+inc common
+
+cls 6[JUSBP]72[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Custom 500, Station Wagon 4-Dr
+ci doors: 4
+ci note: U.S. and Canada fleet only
+inc common
+
+# Thunderbird
+cls 6[JSY]87[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Thunderbird, Hardtop 2-Dr
+ci doors: 4
+inc common
+
+# Granada
+cls 6[ESW]81[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Granada, Sedan 4-Dr
+ci doors: 4
+inc common
+
+cls 6[ESW]82[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Granada, Sedan 2-Dr
+ci doors: 2
+inc common
+
+cls 6[ESW]83[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Granada Ghia, Sedan 4-Dr
+ci doors: 4
+inc common
+
+cls 6[ESW]84[ACFHLSTYZ]\d{6}
+clv 1976, Ford, Granada Ghia, Sedan 2-Dr
+ci doors: 2
+inc common

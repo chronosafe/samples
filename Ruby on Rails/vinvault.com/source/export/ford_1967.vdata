@@ -1,0 +1,4787 @@
+cls 3766, 7(\w)52(\w)([\dX]{6})
+clv 12672, 1967, Ford, Custom 500 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Custom 500 6
+ci make Ford
+ci msrp $2553.00
+ci prod 18146
+ci year 1967
+ci origin United States
+ci maker Ford
+ci weight 3629
+ci model 62B
+ci doors 2
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci oil 5
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 3.5
+ci fuel 25
+ci carb Autolite
+ci ctype Semicentrifugal
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.1
+ci height 55.7
+ci wbase 119
+ci width 79
+ci length 213
+ci rtred 62
+ci bhp 150@4000
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci etype Inline 6 overhead valve
+ci b&s 4 & 3.18
+ci comp 9.2
+ci vlift Hydraulic
+ci rhp 38.4
+ci etype Constant mesh
+ci etype Single downdraft
+ci trq 234@2200
+ci disp 240
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci rad Down flow
+ci cool 13 Quarts
+ci exha Single
+ci cool Centrifugal water  pump
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip 390 cu. in. V8 engine
+ci equip Radio
+ci equip 427 cu. in. V8 engine
+ci equip Power windows
+ci equip 428 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci sgear Magic Circle recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.99
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci rev 3.17
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.75 x 15
+cls 3767, 7(\w)53(\w)([\dX]{6})
+clv 12673, 1967, Ford, Custom 500 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1967
+ci msrp $2595.00
+ci series Custom 500 6
+ci prod 83260
+ci origin United States
+ci weight 3687
+ci model 54B
+ci maker Ford
+ci doors 4
+ci svc Dual hydraulic
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci oil 5
+ci fuel 25
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 4.5
+ci carb Autolite
+ci ctype Semicentrifugal
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.1
+ci width 79
+ci rtred 62
+ci wbase 119
+ci length 213
+ci height 55.7
+ci vlift Hydraulic
+ci cyl 6
+ci mbear 7
+ci b&s 4 & 3.18
+ci rhp 38.4
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.2
+ci disp 240
+ci trq 234@2200
+ci bhp 150@4000
+ci etype Single downdraft
+ci etype Constant mesh
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci rad Down flow
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 13 Quarts
+ci equip 427 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip 428 cu. in. V8 engine
+ci equip 390 cu. in. V8 engine
+ci equip Power steering
+ci equip Air conditioning
+ci equip Power seats
+ci equip Power brakes
+ci equip Power windows
+ci equip Radio
+ci equip Cruise-O-Matic automatic transmission
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.17
+ci 1gear 2.99
+ci 2gear 1.75
+ci 3gear 1
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.75 x 15
+cls 3768, 7(\w)50(\w)([\dX]{6})
+clv 12674, 1967, Ford, Custom 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Custom 6
+ci make Ford
+ci msrp $2441.00
+ci prod 18107
+ci year 1967
+ci origin United States
+ci maker Ford
+ci weight 3627
+ci model 62E
+ci doors 2
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci oil 5
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 3.5
+ci fuel 25
+ci carb Autolite
+ci ctype Semicentrifugal
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.1
+ci height 55.7
+ci wbase 119
+ci width 79
+ci length 213
+ci rtred 62
+ci bhp 150@4000
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci etype Inline 6 overhead valve
+ci b&s 4 & 3.18
+ci comp 9.2
+ci vlift Hydraulic
+ci rhp 38.4
+ci etype Constant mesh
+ci etype Single downdraft
+ci trq 234@2200
+ci disp 240
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci rad Down flow
+ci cool 13 Quarts
+ci exha Single
+ci cool Centrifugal water  pump
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip 390 cu. in. V8 engine
+ci equip Radio
+ci equip 427 cu. in. V8 engine
+ci equip Power windows
+ci equip 428 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci sgear Magic Circle recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.99
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci rev 3.17
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.75 x 15
+cls 3769, 7(\w)51(\w)([\dX]{6})
+clv 12675, 1967, Ford, Custom 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1967
+ci msrp $2496.00
+ci series Custom 6
+ci prod 41417
+ci origin United States
+ci model 54E
+ci maker Ford
+ci doors 4
+ci weight 3685
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 11
+ci fuel 25
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 5
+ci trans 3.5
+ci carb Autolite
+ci csize 9.5 inches
+ci ctype Semicentrifugal
+ci diffr 3.1
+ci diff Hypoid
+ci height 55.7
+ci rtred 62
+ci length 213
+ci width 79
+ci wbase 119
+ci vlift Hydraulic
+ci cyl 6
+ci b&s 4 & 3.18
+ci mbear 7
+ci rhp 38.4
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.2
+ci disp 240
+ci trq 234@2200
+ci bhp 150@4000
+ci etype Single downdraft
+ci etype Constant mesh
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci rad Down flow
+ci cool 13 Quarts
+ci cool Centrifugal water  pump
+ci batt 12
+ci equip 427 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip 428 cu. in. V8 engine
+ci equip 390 cu. in. V8 engine
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power windows
+ci equip Radio
+ci equip Power steering
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.17
+ci 1gear 2.99
+ci 2gear 1.75
+ci 3gear 1
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.75 x 15
+cls 3770, 7(\w)33(\w)([\dX]{6})
+clv 12676, 1967, Ford, Fairlane 6 500, Club Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1967
+ci msrp $2377.00
+ci series Fairlane 6 500
+ci prod 8473
+ci origin United States
+ci weight 2896
+ci model 62B
+ci maker Ford
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 10
+ci fuel 20
+ci tcase -NA-
+ci rdiff 4
+ci oil 4.5
+ci trans 3.5
+ci carb Own
+ci ctype Semicentrifugal
+ci csize 9.4 inches
+ci diff Hypoid
+ci diffr 3.25
+ci height 55
+ci rtred 58.1
+ci ftred 58.4
+ci length 197
+ci wbase 116
+ci width 74
+ci trq 190@2400
+ci mbear 7
+ci etype Single downdraft
+ci comp 9.2
+ci cyl 6
+ci bhp 120@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 200
+ci rhp 32.5
+ci etype Constant mesh
+ci vlift Hydraulic
+ci b&s 3.68 & 3.13
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci batt 12
+ci rad Down flow
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 9.5 Quarts
+ci exha Single
+ci equip 390 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci equip Radio
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.99
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.17
+ci 2gear 1.75
+ci gears 3
+ci 3gear 1
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 3771, 7(\w)36(\w)([\dX]{6})
+clv 12677, 1967, Ford, Fairlane 6 500, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1967
+ci msrp $2664.00
+ci series Fairlane 6 500
+ci prod 5428
+ci origin United States
+ci maker Ford
+ci model 76B
+ci weight 3300
+ci doors 2
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci oil 4.5
+ci tcase -NA-
+ci fuel 20
+ci trans 3.5
+ci rdiff 4
+ci carb Own
+ci ctype Semicentrifugal
+ci csize 9.4 inches
+ci diffr 3.25
+ci diff Hypoid
+ci height 54.4
+ci length 197
+ci rtred 58.1
+ci ftred 58.4
+ci wbase 116
+ci width 74
+ci trq 190@2400
+ci mbear 7
+ci cyl 6
+ci comp 9.2
+ci etype Single downdraft
+ci bhp 120@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 200
+ci rhp 32.5
+ci etype Constant mesh
+ci vlift Hydraulic
+ci b&s 3.68 & 3.13
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci batt 12
+ci rad Down flow
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 9.5 Quarts
+ci exha Single
+ci equip 390 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci equip Radio
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.99
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.17
+ci 2gear 1.75
+ci gears 3
+ci 3gear 1
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 3772, 7(\w)35(\w)([\dX]{6})
+clv 12678, 1967, Ford, Fairlane 6 500, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1967
+ci msrp $2439.00
+ci series Fairlane 6 500
+ci prod 70135
+ci origin United States
+ci weight 2983
+ci model 63B
+ci maker Ford
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 10
+ci fuel 20
+ci tcase -NA-
+ci rdiff 4
+ci oil 4.5
+ci trans 3.5
+ci carb Own
+ci ctype Semicentrifugal
+ci csize 9.4 inches
+ci diff Hypoid
+ci diffr 3.25
+ci height 54
+ci rtred 58.1
+ci ftred 58.4
+ci length 197
+ci wbase 116
+ci width 74
+ci trq 190@2400
+ci etype Inline 6 overhead valve
+ci mbear 7
+ci comp 9.2
+ci cyl 6
+ci vlift Hydraulic
+ci etype Single downdraft
+ci disp 200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Constant mesh
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci bhp 120@4400
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci rad Down flow
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci exha Single
+ci cool 9.5 Quarts
+ci batt 12
+ci equip Power steering
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip 390 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci rev 3.17
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.75
+ci 3gear 1
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 3773, 7(\w)34(\w)([\dX]{6})
+clv 12679, 1967, Ford, Fairlane 6 500, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1967
+ci msrp $2417.00
+ci series Fairlane 6 500
+ci prod 51552
+ci origin United States
+ci weight 2943
+ci model 54B
+ci maker Ford
+ci doors 4
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci oil 4.5
+ci tcase -NA-
+ci fuel 20
+ci trans 3.5
+ci rdiff 4
+ci carb Own
+ci csize 9.4 inches
+ci ctype Semicentrifugal
+ci diffr 3.25
+ci diff Hypoid
+ci wbase 116
+ci length 197
+ci height 55
+ci rtred 58.1
+ci ftred 58.4
+ci width 74.7
+ci trq 190@2400
+ci etype Inline 6 overhead valve
+ci cyl 6
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 200
+ci bhp 120@4400
+ci mbear 7
+ci vlift Hydraulic
+ci etype Constant mesh
+ci etype Single downdraft
+ci b&s 3.68 & 3.13
+ci rhp 32.5
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci ftype Regular
+ci rad Down flow
+ci ign Distributor and coil
+ci batt 12
+ci cool 9.5 Quarts
+ci cool Centrifugal water  pump
+ci exha Single
+ci equip Power steering
+ci equip Air conditioning
+ci equip Power brakes
+ci equip 390 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Cruise-O-Matic automatic transmission
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.99
+ci rev 3.17
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.75
+ci gears 3
+ci 3gear 1
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 3774, 7(\w)37(\w)([\dX]{6})
+clv 12680, 1967, Ford, Fairlane 6 500, Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane 6 500
+ci make Ford
+ci msrp $2718.00
+ci prod 15902
+ci year 1967
+ci origin United States
+ci weight 3347
+ci maker Ford
+ci doors 4
+ci model 71B
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 10
+ci fuel 20
+ci rdiff 4
+ci tcase -NA-
+ci trans 3.5
+ci oil 4.5
+ci carb Own
+ci ctype Semicentrifugal
+ci csize 9.4 inches
+ci diff Hypoid
+ci diffr 3.25
+ci wbase 116
+ci height 56.2
+ci rtred 58.1
+ci ftred 58.4
+ci length 199.9
+ci width 74.7
+ci rhp 32.5
+ci mbear 7
+ci comp 9.2
+ci cyl 6
+ci etype Inline 6 overhead valve
+ci disp 200
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.68 & 3.13
+ci etype Single downdraft
+ci vlift Hydraulic
+ci trq 190@2400
+ci bhp 120@4400
+ci etype Constant mesh
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci rad Down flow
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 9.5 Quarts
+ci cool Centrifugal water  pump
+ci exha Single
+ci equip Cruise-O-Matic automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip 390 cu. in. V8 engine
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.75
+ci 3gear 1
+ci rev 3.17
+ci 1gear 2.99
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+cls 3775, 7(\w)41(\w)([\dX]{6})
+clv 12681, 1967, Ford, Fairlane 6 500 XL, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci prod 1943
+ci msrp $2843.00
+ci series Fairlane 6 500 XL
+ci year 1967
+ci origin United States
+ci weight 3328
+ci model 76C
+ci maker Ford
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Dual hydraulic
+ci tcase -NA-
+ci fuel 20
+ci oil 4.5
+ci rdiff 4
+ci trans 3.5
+ci carb Own
+ci ctype Semicentrifugal
+ci csize 9.4 inches
+ci diffr 3.25
+ci diff Hypoid
+ci wbase 116
+ci height 54.4
+ci rtred 58.1
+ci ftred 58.4
+ci length 197
+ci width 74
+ci trq 190@2400
+ci mbear 7
+ci cyl 6
+ci comp 9.2
+ci etype Single downdraft
+ci bhp 120@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 32.5
+ci disp 200
+ci etype Constant mesh
+ci vlift Hydraulic
+ci b&s 3.68 & 3.13
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci cool 9.5 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci rad Down flow
+ci batt 12
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip 390 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Power steering
+ci equip Air conditioning
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci gears 3
+ci rev 3.17
+ci 3gear 1
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 3776, 7(\w)40(\w)([\dX]{6})
+clv 12682, 1967, Ford, Fairlane 6 500 XL, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci prod 14871
+ci msrp $2618.00
+ci series Fairlane 6 500 XL
+ci year 1967
+ci origin United States
+ci model 63C
+ci maker Ford
+ci doors 2
+ci weight 3011
+ci svc Dual hydraulic
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci trans 3.5
+ci fuel 20
+ci tcase -NA-
+ci oil 4.5
+ci rdiff 4
+ci carb Own
+ci ctype Semicentrifugal
+ci csize 9.4 inches
+ci diff Hypoid
+ci diffr 3.25
+ci length 197
+ci height 54
+ci rtred 58.1
+ci ftred 58.4
+ci width 74
+ci wbase 116
+ci bhp 120@4400
+ci etype Inline 6 overhead valve
+ci cyl 6
+ci comp 9.2
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 190@2400
+ci disp 200
+ci vlift Hydraulic
+ci etype Constant mesh
+ci etype Single downdraft
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci rad Down flow
+ci cool 9.5 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip 390 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 2gear 1.75
+ci rev 3.17
+ci gears 3
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 3777, 7(\w)30(\w)([\dX]{6})
+clv 12683, 1967, Ford, Fairlane 6, Club Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane 6
+ci make Ford
+ci msrp $2297.00
+ci year 1967
+ci prod 19740
+ci origin United States
+ci model 62A
+ci maker Ford
+ci doors 2
+ci weight 2888
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 10
+ci trans 3.5
+ci fuel 20
+ci oil 4.5
+ci tcase -NA-
+ci rdiff 4
+ci carb Own
+ci ctype Semicentrifugal
+ci csize 9.4 inches
+ci diff Hypoid
+ci diffr 3.25
+ci rtred 58.1
+ci height 55
+ci wbase 116
+ci ftred 58.4
+ci width 74
+ci length 197
+ci trq 190@2400
+ci etype Single downdraft
+ci cyl 6
+ci comp 9.2
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline 6 overhead valve
+ci b&s 3.68 & 3.13
+ci disp 200
+ci etype Constant mesh
+ci vlift Hydraulic
+ci bhp 120@4400
+ci rhp 32.5
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci cool 9.5 Quarts
+ci rad Down flow
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip 390 cu. in. V8 engine
+ci equip Radio
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci 2gear 1.75
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 3778, 7(\w)31(\w)([\dX]{6})
+clv 12684, 1967, Ford, Fairlane 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1967
+ci msrp $2339.00
+ci prod 10628
+ci series Fairlane 6
+ci origin United States
+ci doors 4
+ci model 54A
+ci weight 2923
+ci maker Ford
+ci svc Dual hydraulic
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci oil 4.5
+ci rdiff 4
+ci trans 3.5
+ci carb Own
+ci ctype Semicentrifugal
+ci csize 9.4 inches
+ci diffr 3.25
+ci diff Hypoid
+ci wbase 116
+ci length 197
+ci height 55
+ci rtred 58.1
+ci ftred 58.4
+ci width 74.7
+ci bhp 120@4400
+ci etype Inline 6 overhead valve
+ci cyl 6
+ci comp 9.2
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 190@2400
+ci disp 200
+ci vlift Hydraulic
+ci etype Constant mesh
+ci etype Single downdraft
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci rad Down flow
+ci cool 9.5 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip 390 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 2gear 1.75
+ci rev 3.17
+ci gears 3
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 3779, 7(\w)38(\w)([\dX]{6})
+clv 12685, 1967, Ford, Fairlane 6, Squire
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane 6
+ci make Ford
+ci msrp $2902.00
+ci year 1967
+ci prod 8348
+ci origin United States
+ci model 71E
+ci maker Ford
+ci weight 3356
+ci doors 4
+ci svc Dual hydraulic
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci rdiff 4
+ci oil 4.5
+ci trans 3.5
+ci tcase -NA-
+ci fuel 20
+ci carb Own
+ci ctype Semicentrifugal
+ci csize 9.4 inches
+ci diffr 3.25
+ci diff Hypoid
+ci rtred 58.1
+ci wbase 116
+ci ftred 58.4
+ci length 199.9
+ci width 74.7
+ci height 56.2
+ci mbear 7
+ci cyl 6
+ci comp 9.2
+ci rhp 32.5
+ci etype Inline 6 overhead valve
+ci b&s 3.68 & 3.13
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 200
+ci etype Single downdraft
+ci vlift Hydraulic
+ci bhp 120@4400
+ci trq 190@2400
+ci etype Constant mesh
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci rad Down flow
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci cool 9.5 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci equip Cruise-O-Matic automatic transmission
+ci equip Radio
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci equip Power brakes
+ci equip 390 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci rev 3.17
+ci 5gear Not applicable
+ci 1gear 2.99
+ci 3gear 1
+ci 2gear 1.75
+ci gears 3
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+cls 3780, 7(\w)32(\w)([\dX]{6})
+clv 12686, 1967, Ford, Fairlane 6, Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane 6
+ci make Ford
+ci msrp $2643.00
+ci prod 10881
+ci year 1967
+ci origin United States
+ci weight 3339
+ci maker Ford
+ci doors 4
+ci model 71D
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 10
+ci fuel 20
+ci rdiff 4
+ci tcase -NA-
+ci trans 3.5
+ci oil 4.5
+ci carb Own
+ci ctype Semicentrifugal
+ci csize 9.4 inches
+ci diff Hypoid
+ci diffr 3.25
+ci wbase 116
+ci height 56.2
+ci rtred 58.1
+ci ftred 58.4
+ci length 199.9
+ci width 74.7
+ci rhp 32.5
+ci mbear 7
+ci comp 9.2
+ci cyl 6
+ci etype Inline 6 overhead valve
+ci disp 200
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.68 & 3.13
+ci etype Single downdraft
+ci vlift Hydraulic
+ci trq 190@2400
+ci bhp 120@4400
+ci etype Constant mesh
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci rad Down flow
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 9.5 Quarts
+ci cool Centrifugal water  pump
+ci exha Single
+ci equip Cruise-O-Matic automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip 390 cu. in. V8 engine
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.75
+ci 3gear 1
+ci rev 3.17
+ci 1gear 2.99
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+cls 3781, 7(\w)43(\w)([\dX]{6})
+clv 12687, 1967, Ford, Fairlane GT and GT/A, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane GT and GT/A
+ci msrp $3064.00
+ci origin United States
+ci make Ford
+ci prod 2117
+ci year 1967
+ci maker Ford
+ci model 76D
+ci doors 2
+ci weight 3769
+ci svc Dual hydraulic
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci trans 3.5
+ci oil 5
+ci tcase -NA-
+ci rdiff 4
+ci fuel 20
+ci carb Own
+ci ctype Semicentrifugal
+ci diffr 3.25
+ci diff Hypoid
+ci width 74
+ci wbase 116
+ci length 197
+ci ftred 58.4
+ci height 54.4
+ci rtred 58.1
+ci vlift Hydraulic
+ci trq 282@2400
+ci disp 289
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 9.3
+ci mbear 5
+ci etype Dual downdraft
+ci b&s 4 & 2.87
+ci etype Constant mesh
+ci bhp 200@4400
+ci rhp 51.2
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci cool Centrifugal water  pump
+ci rad Down flow
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci equip 390 cu. in. V8 engine
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip Power steering
+ci equip Radio
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 1gear 2.99
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci rev 3.17
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 3782, 7(\w)42(\w)([\dX]{6})
+clv 12688, 1967, Ford, Fairlane GT and GT/A, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane GT and GT/A
+ci msrp $2839.00
+ci origin United States
+ci make Ford
+ci year 1967
+ci prod 18670
+ci maker Ford
+ci model 63D
+ci doors 2
+ci weight 3463
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci trans 3.5
+ci fuel 20
+ci tcase -NA-
+ci oil 5
+ci rdiff 4
+ci carb Own
+ci ctype Semicentrifugal
+ci diff Hypoid
+ci diffr 3.25
+ci length 197
+ci wbase 116
+ci width 74
+ci ftred 58.4
+ci height 54
+ci rtred 58.1
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 289
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci cyl 8
+ci comp 9.3
+ci mbear 5
+ci trq 282@2400
+ci b&s 4 & 2.87
+ci etype Constant mesh
+ci bhp 200@4400
+ci rhp 51.2
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci cool Centrifugal water  pump
+ci rad Down flow
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci equip 390 cu. in. V8 engine
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip Power steering
+ci equip Radio
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 1gear 2.99
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci rev 3.17
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 3783, 7(\w)56(\w)([\dX]{6})
+clv 12695, 1967, Ford, Falcon Futura 6, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci series Falcon Futura 6
+ci make Ford
+ci msrp $2755.00
+ci year 1967
+ci prod 197388
+ci origin United States
+ci model 63B
+ci weight 3700
+ci maker Ford
+ci doors 2
+ci svc Hydraulic self-adjusting
+ci bsize 9
+ci ebrake Cable and conduit on rear service brakes
+ci rdiff 2.5
+ci oil 4.5
+ci tcase -NA-
+ci fuel 16
+ci trans 2
+ci carb Autolite
+ci ctype Semicentrifugal
+ci diff Hypoid
+ci diffr 3.2
+ci rtred 57.9
+ci height 54.7
+ci length 213
+ci ftred 58.2
+ci width 79
+ci wbase 111
+ci trq 190@2400
+ci disp 200
+ci cyl 6
+ci rhp 32.5
+ci comp 9.2
+ci etype Inline 6 overhead valve
+ci etype Single downdraft
+ci b&s 3.68 & 3.13
+ci mbear 7
+ci vlift Hydraulic
+ci bhp 120@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Constant mesh
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci ftype Regular
+ci ign Distributor and coil
+ci rad Down flow
+ci exha Single
+ci cool Centrifugal water  pump
+ci batt 12
+ci cool 9.5 Quarts
+ci equip Radio
+ci equip 289 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power brakes
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.75
+ci 1gear 2.99
+ci 3gear 1
+ci rev 3.17
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.75 x 15
+cls 3784, 7(\w)20(\w)([\dX]{6})
+clv 12696, 1967, Ford, Falcon Futura 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Falcon Futura 6
+ci make Ford
+ci msrp $2280.00
+ci year 1967
+ci prod 6287
+ci origin United States
+ci model 62B
+ci maker Ford
+ci doors 2
+ci weight 2528
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9
+ci tcase -NA-
+ci fuel 16
+ci rdiff 2.5
+ci trans 2
+ci oil 4.5
+ci carb Autolite
+ci ctype Semicentrifugal
+ci diff Hypoid
+ci diffr 3.2
+ci length 184.3
+ci rtred 57.9
+ci ftred 58.2
+ci wbase 111
+ci width 73.2
+ci height 54.6
+ci b&s 3.68 & 3.13
+ci mbear 7
+ci etype Single downdraft
+ci rhp 32.5
+ci comp 9.2
+ci etype Inline 6 overhead valve
+ci vlift Hydraulic
+ci bhp 120@4400
+ci trq 190@2400
+ci disp 200
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Constant mesh
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci ftype Regular
+ci ign Distributor and coil
+ci rad Down flow
+ci cool Centrifugal water  pump
+ci exha Single
+ci batt 12
+ci cool 9.5 Quarts
+ci equip Radio
+ci equip 289 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power brakes
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.75
+ci 1gear 2.99
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 3.17
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3785, 7(\w)21(\w)([\dX]{6})
+clv 12697, 1967, Ford, Falcon Futura 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Falcon Futura 6
+ci make Ford
+ci msrp $2322.00
+ci prod 11254
+ci year 1967
+ci origin United States
+ci weight 2559
+ci doors 4
+ci maker Ford
+ci model 54B
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 16
+ci tcase -NA-
+ci trans 2
+ci oil 4.5
+ci rdiff 2.5
+ci carb Autolite
+ci ctype Semicentrifugal
+ci diff Hypoid
+ci diffr 3.2
+ci width 73.5
+ci height 54.6
+ci wbase 111
+ci rtred 57.9
+ci ftred 58.2
+ci length 184.3
+ci trq 190@2400
+ci mbear 7
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci comp 9.2
+ci etype Inline 6 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci disp 200
+ci etype Single downdraft
+ci etype Constant mesh
+ci cyl 6
+ci bhp 120@4400
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Down flow
+ci ftype Regular
+ci exha Single
+ci cool 9.5 Quarts
+ci ign Distributor and coil
+ci equip Radio
+ci equip 289 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power brakes
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.17
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3786, 7(\w)22(\w)([\dX]{6})
+clv 12698, 1967, Ford, Falcon Futura 6, Sport Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci series Falcon Futura 6
+ci make Ford
+ci msrp $2437.00
+ci year 1967
+ci prod 7053
+ci origin United States
+ci model 62C
+ci maker Ford
+ci weight 3062
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci oil 4.5
+ci tcase -NA-
+ci rdiff 2.5
+ci fuel 16
+ci trans 2
+ci carb Autolite
+ci ctype Semicentrifugal
+ci diffr 3.2
+ci diff Hypoid
+ci length 184.3
+ci rtred 57.9
+ci ftred 58.2
+ci wbase 111
+ci width 73.2
+ci height 54.6
+ci b&s 3.68 & 3.13
+ci bhp 120@4400
+ci etype Single downdraft
+ci rhp 32.5
+ci comp 9.2
+ci etype Inline 6 overhead valve
+ci vlift Hydraulic
+ci mbear 7
+ci trq 190@2400
+ci disp 200
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Constant mesh
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci ftype Regular
+ci ign Distributor and coil
+ci rad Down flow
+ci cool Centrifugal water  pump
+ci exha Single
+ci batt 12
+ci cool 9.5 Quarts
+ci equip Radio
+ci equip 289 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power brakes
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.75
+ci 1gear 2.99
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 3.17
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3787, 7(\w)23(\w)([\dX]{6})
+clv 12699, 1967, Ford, Falcon Futura 6, Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1967
+ci msrp $2609.00
+ci series Falcon Futura 6
+ci prod 4552
+ci origin United States
+ci model 71B
+ci maker Ford
+ci doors 4
+ci weight 3062
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci oil 4.5
+ci fuel 16
+ci tcase -NA-
+ci trans 2
+ci rdiff 2.5
+ci carb Autolite
+ci ctype Semicentrifugal
+ci diffr 3.2
+ci diff Hypoid
+ci length 198.7
+ci height 56.2
+ci rtred 57.9
+ci ftred 58.2
+ci width 74.7
+ci wbase 111
+ci mbear 7
+ci cyl 6
+ci bhp 120@4400
+ci comp 9.2
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci etype Inline 6 overhead valve
+ci etype Constant mesh
+ci disp 200
+ci vlift Hydraulic
+ci trq 190@2400
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci rad Down flow
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool 9.5 Quarts
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power brakes
+ci equip Air conditioning
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci rev 3.17
+ci gears 3
+ci 1gear 2.99
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+cls 3788, 7(\w)10(\w)([\dX]{6})
+clv 12700, 1967, Ford, Falcon, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Falcon
+ci make Ford
+ci msrp $2118.00
+ci prod 16082
+ci year 1967
+ci origin United States
+ci model 62A
+ci maker Ford
+ci weight 2520
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci rdiff 2.5
+ci trans 2
+ci oil 4.5
+ci tcase -NA-
+ci fuel 16
+ci carb Autolite
+ci csize 8.5 inches
+ci ctype Non-centrifugal
+ci diffr 3.2
+ci diff Hypoid
+ci width 73.2
+ci length 184.3
+ci height 54.6
+ci rtred 57.9
+ci ftred 58.2
+ci wbase 111
+ci mbear 4
+ci cyl 6
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 158@2400
+ci comp 9.1
+ci disp 169.57
+ci etype Inline Valve-in-head
+ci b&s 3 1/2 & 2 15/16
+ci bhp 105@4400
+ci block Cast alloy iron
+ci vlift Hydraulic
+ci etype Helical
+ci rhp 29.4
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci ftype Regular
+ci ign Distributor and coil
+ci exha Single
+ci cool 9.5 Quarts
+ci rad Down flow
+ci cool Centrifugal water  pump
+ci batt 12
+ci equip Cruise-O-Matic automatic transmission
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power brakes
+ci equip 289 cu. in. V8 engine
+ci equip 200 cu. in. Inline 6 engine
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 4.46
+ci 5gear Not applicable
+ci 1gear 3.29
+ci 2gear 1.83
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3789, 7(\w)11(\w)([\dX]{6})
+clv 12701, 1967, Ford, Falcon, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Falcon
+ci make Ford
+ci msrp $2167.00
+ci prod 13554
+ci year 1967
+ci origin United States
+ci weight 2551
+ci maker Ford
+ci model 54A
+ci svc Hydraulic self-adjusting
+ci bsize 9
+ci ebrake Cable and conduit on rear service brakes
+ci trans 2
+ci rdiff 2.5
+ci fuel 16
+ci oil 4.5
+ci tcase -NA-
+ci carb Autolite
+ci csize 8.5 inches
+ci ctype Non-centrifugal
+ci diff Hypoid
+ci diffr 3.2
+ci wbase 111
+ci width 73.5
+ci height 54.6
+ci length 184.3
+ci rtred 57.9
+ci ftred 58.2
+ci trq 158@2400
+ci cyl 6
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 1/2 & 2 15/16
+ci comp 9.1
+ci etype Helical
+ci rhp 29.4
+ci disp 169.57
+ci etype Single downdraft
+ci block Cast alloy iron
+ci bhp 105@4400
+ci etype Inline Valve-in-head
+ci vlift Hydraulic
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci batt 12
+ci ign Distributor and coil
+ci rad Down flow
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci cool 9.5 Quarts
+ci equip Power steering
+ci equip 200 cu. in. Inline 6 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip 289 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 2gear 1.83
+ci 1gear 3.29
+ci rev 4.46
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3790, 7(\w)12(\w)([\dX]{6})
+clv 12702, 1967, Ford, Falcon, Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci series Falcon
+ci make Ford
+ci msrp $2497.00
+ci prod 5553
+ci year 1967
+ci origin United States
+ci maker Ford
+ci weight 3030
+ci model 71A
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci rdiff 2.5
+ci trans 2
+ci oil 4.5
+ci tcase -NA-
+ci fuel 16
+ci carb Autolite
+ci csize 8.5 inches
+ci ctype Non-centrifugal
+ci diff Hypoid
+ci diffr 3.2
+ci width 74.7
+ci wbase 111
+ci height 56.2
+ci rtred 57.9
+ci ftred 58.2
+ci length 198.7
+ci comp 9.1
+ci rhp 29.4
+ci etype Inline Valve-in-head
+ci cyl 6
+ci etype Single downdraft
+ci mbear 4
+ci trq 158@2400
+ci bhp 105@4400
+ci disp 169.57
+ci block Cast alloy iron
+ci vlift Hydraulic
+ci etype Helical
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 1/2 & 2 15/16
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci rad Down flow
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci exha Single
+ci cool 9.5 Quarts
+ci equip Radio
+ci equip Air conditioning
+ci equip Cruise-O-Matic automatic transmission
+ci equip 289 cu. in. V8 engine
+ci equip 200 cu. in. Inline 6 engine
+ci equip Power steering
+ci equip Power brakes
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 3.29
+ci 2gear 1.83
+ci rev 4.46
+ci 3gear 1
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+cls 3791, 7(\w)54(\w)([\dX]{6})
+clv 12703, 1967, Ford, Galaxie 500 6, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Galaxie 500 6
+ci msrp $3003.00
+ci prod 19068
+ci year 1967
+ci origin United States
+ci model 76A
+ci maker Ford
+ci weight 3882
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 11
+ci oil 5
+ci trans 3.5
+ci tcase -NA-
+ci rdiff 4.5
+ci fuel 25
+ci carb Autolite
+ci csize 9.5 inches
+ci ctype Semicentrifugal
+ci diffr 3.1
+ci diff Hypoid
+ci width 79
+ci wbase 119
+ci rtred 62
+ci length 213
+ci height 54.8
+ci bhp 150@4000
+ci mbear 7
+ci trq 234@2200
+ci etype Constant mesh
+ci b&s 4 & 3.18
+ci cyl 6
+ci comp 9.2
+ci etype Inline 6 overhead valve
+ci rhp 38.4
+ci disp 240
+ci etype Single downdraft
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool 13 Quarts
+ci rad Down flow
+ci ftype Regular
+ci equip 428 cu. in. V8 engine
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip Radio
+ci equip Power seats
+ci equip 390 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Power windows
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 2.99
+ci 3gear 1
+ci rev 3.17
+ci gears 3
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.75 x 15
+cls 3792, 7(\w)57(\w)([\dX]{6})
+clv 12704, 1967, Ford, Galaxie 500 6, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci series Galaxie 500 6
+ci year 1967
+ci msrp $2808.00
+ci make Ford
+ci prod 57087
+ci origin United States
+ci maker Ford
+ci model 57B
+ci doors 4
+ci weight 3768
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci oil 5
+ci fuel 25
+ci rdiff 4.5
+ci trans 3.5
+ci tcase -NA-
+ci carb Autolite
+ci csize 9.5 inches
+ci ctype Semicentrifugal
+ci diff Hypoid
+ci diffr 3.1
+ci length 213
+ci wbase 119
+ci width 79
+ci height 54.7
+ci rtred 62
+ci vlift Hydraulic
+ci cyl 6
+ci b&s 4 & 3.18
+ci mbear 7
+ci rhp 38.4
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.2
+ci disp 240
+ci trq 234@2200
+ci bhp 150@4000
+ci etype Single downdraft
+ci etype Constant mesh
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci exha Single
+ci ign Distributor and coil
+ci rad Down flow
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci cool 13 Quarts
+ci batt 12
+ci equip 390 cu. in. V8 engine
+ci equip 428 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Power windows
+ci equip Speed control device
+ci equip Power steering
+ci equip Power seats
+ci equip Radio
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power brakes
+ci equip Air conditioning
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 2.99
+ci 3gear 1
+ci 2gear 1.75
+ci rev 3.17
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.75 x 15
+cls 3793, 7(\w)55(\w)([\dX]{6})
+clv 12705, 1967, Ford, Galaxie 500 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Galaxie 500 6
+ci prod 130063
+ci msrp $2732.00
+ci make Ford
+ci year 1967
+ci origin United States
+ci model 54A
+ci doors 4
+ci weight 3697
+ci maker Ford
+ci bsize 11
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 25
+ci rdiff 4.5
+ci tcase -NA-
+ci trans 3.5
+ci oil 5
+ci carb Autolite
+ci ctype Semicentrifugal
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.1
+ci width 79
+ci height 55.7
+ci length 213
+ci rtred 62
+ci wbase 119
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci b&s 4 & 3.18
+ci mbear 7
+ci etype Inline 6 overhead valve
+ci rhp 38.4
+ci comp 9.2
+ci bhp 150@4000
+ci vlift Hydraulic
+ci disp 240
+ci etype Single downdraft
+ci etype Constant mesh
+ci trq 234@2200
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci rad Down flow
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 13 Quarts
+ci equip Front disc rear drum brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip Speed control device
+ci equip 390 cu. in. V8 engine
+ci equip Radio
+ci equip 427 cu. in. V8 engine
+ci equip 428 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip Power brakes
+ci equip Power steering
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 5gear Not applicable
+ci 1gear 2.99
+ci 3gear 1
+ci gears 3
+ci rev 3.17
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.75 x 15
+cls 3794, 7(\w)66(\w)([\dX]{6})
+clv 12706, 1967, Ford, LTD, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci year 1967
+ci msrp $3363.00
+ci origin United States
+ci prod 51978
+ci make Ford
+ci series LTD
+ci maker Ford
+ci doors 4
+ci model 57F
+ci weight 3854
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Dual hydraulic
+ci fuel 25
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 5
+ci trans 3.5
+ci carb Autolite
+ci ctype Semicentrifugal
+ci csize 10.4 inches
+ci diff Hypoid
+ci diffr 3.1
+ci wbase 119
+ci height 54.7
+ci width 79
+ci rtred 62
+ci length 213
+ci etype V8 overhead valve
+ci trq 282@2400
+ci rhp 51.2
+ci disp 289
+ci mbear 5
+ci cyl 8
+ci vlift Hydraulic
+ci comp 9.3
+ci b&s 4 & 2.87
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 200@4400
+ci etype Dual downdraft
+ci etype Constant mesh
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci cool Centrifugal water  pump
+ci exha Single
+ci rad Down flow
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci equip 390 cu. in. V8 engine
+ci equip Power seats
+ci equip Power windows
+ci equip 427 cu. in. V8 engine
+ci equip Power steering
+ci equip Speed control device
+ci equip Cruise-O-Matic automatic transmission
+ci equip Radio
+ci equip Power brakes
+ci equip 428 cu. in. V8 engine
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.75
+ci gears 3
+ci rev 3.17
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 8.15 x 14
+cls 3795, 7(\w)62(\w)([\dX]{6})
+clv 12707, 1967, Ford, LTD, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci year 1967
+ci msrp $3362.00
+ci origin United States
+ci prod 46036
+ci series LTD
+ci make Ford
+ci maker Ford
+ci model 63J
+ci doors 2
+ci weight 3804
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci fuel 25
+ci rdiff 4.5
+ci tcase -NA-
+ci trans 3.5
+ci oil 5
+ci carb Autolite
+ci ctype Semicentrifugal
+ci csize 10.4 inches
+ci diff Hypoid
+ci diffr 3.1
+ci rtred 62
+ci wbase 119
+ci length 213
+ci height 54.7
+ci width 79
+ci bhp 200@4400
+ci mbear 5
+ci rhp 51.2
+ci b&s 4 & 2.87
+ci vlift Hydraulic
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.3
+ci etype Constant mesh
+ci disp 289
+ci trq 282@2400
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci rad Down flow
+ci cool 15 Quarts
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip 390 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Power windows
+ci equip 428 cu. in. V8 engine
+ci equip Power steering
+ci equip Power seats
+ci equip Cruise-O-Matic automatic transmission
+ci equip Radio
+ci equip Power brakes
+ci equip Speed control device
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci gears 3
+ci 2gear 1.75
+ci 3gear 1
+ci rev 3.17
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci tsize 8.15 x 14
+ci sloc Trunk
+cls 3796, 7(\w)64(\w)([\dX]{6})
+clv 12708, 1967, Ford, LTD, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series LTD
+ci msrp $3298.00
+ci origin United States
+ci make Ford
+ci prod 12491
+ci year 1967
+ci doors 4
+ci model 54C
+ci maker Ford
+ci weight 3795
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci fuel 25
+ci rdiff 4.5
+ci tcase -NA-
+ci trans 3.5
+ci oil 5
+ci carb Autolite
+ci csize 10.4 inches
+ci ctype Semicentrifugal
+ci diff Hypoid
+ci diffr 3.1
+ci height 55.7
+ci wbase 119
+ci rtred 62
+ci length 213
+ci width 79
+ci bhp 200@4400
+ci mbear 5
+ci rhp 51.2
+ci b&s 4 & 2.87
+ci vlift Hydraulic
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.3
+ci etype Constant mesh
+ci disp 289
+ci trq 282@2400
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci rad Down flow
+ci cool 15 Quarts
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip 390 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Power windows
+ci equip 428 cu. in. V8 engine
+ci equip Power steering
+ci equip Power seats
+ci equip Cruise-O-Matic automatic transmission
+ci equip Radio
+ci equip Power brakes
+ci equip Speed control device
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci gears 3
+ci 2gear 1.75
+ci 3gear 1
+ci rev 3.17
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci tsize 8.15 x 14
+ci sloc Trunk
+cls 3797, 7(\w)02(\w)([\dX]{6})
+clv 12709, 1967, Ford, Mustang, 2 + 2 Fastback
+ser 6 1 499999
+ci axle Semifloating
+ci year 1967
+ci series Mustang
+ci msrp $2592.00
+ci make Ford
+ci prod 71042
+ci origin United States
+ci maker Ford
+ci model 63A
+ci weight 2605
+ci doors 2
+ci bsize 9
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci rdiff 2.5
+ci trans 3.5
+ci fuel 16
+ci tcase -NA-
+ci oil 4.5
+ci carb Autolite
+ci ctype Semicentrifugal
+ci diff Hypoid
+ci diffr 3.2
+ci height 51.8
+ci rtred 57.9
+ci width 70.9
+ci wbase 108
+ci length 183.6
+ci mbear 7
+ci rhp 32.5
+ci bhp 120@4400
+ci b&s 3.68 & 3.13
+ci cyl 6
+ci etype Inline 6 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 200
+ci etype Single downdraft
+ci vlift Hydraulic
+ci trq 190@2400
+ci comp 9.2
+ci etype Constant mesh
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Lime Gold
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Vintage Burgandy
+co Wimbledon White
+ci ftype Regular
+ci rad Down flow
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal water  pump
+ci cool 9.5 Quarts
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci rev 3.17
+ci gears 3
+ci 1gear 2.99
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3798, 7(\w)03(\w)([\dX]{6})
+clv 12710, 1967, Ford, Mustang, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci year 1967
+ci series Mustang
+ci msrp $2698.00
+ci make Ford
+ci prod 44808
+ci origin United States
+ci maker Ford
+ci weight 2738
+ci model 76A
+ci doors 2
+ci bsize 9
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci oil 4.5
+ci rdiff 2.5
+ci fuel 16
+ci trans 3.5
+ci tcase -NA-
+ci carb Autolite
+ci ctype Semicentrifugal
+ci diff Hypoid
+ci diffr 3.2
+ci wbase 108
+ci height 51.6
+ci rtred 57.9
+ci width 70.9
+ci length 183.6
+ci mbear 7
+ci cyl 6
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci comp 9.2
+ci etype Inline 6 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 200
+ci etype Single downdraft
+ci vlift Hydraulic
+ci trq 190@2400
+ci bhp 120@4400
+ci etype Constant mesh
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Lime Gold
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Vintage Burgandy
+co Wimbledon White
+ci ftype Regular
+ci rad Down flow
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal water  pump
+ci cool 9.5 Quarts
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci rev 3.17
+ci gears 3
+ci 1gear 2.99
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3799, 7(\w)01(\w)([\dX]{6})
+clv 12711, 1967, Ford, Mustang, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci year 1967
+ci series Mustang
+ci msrp $2461.00
+ci make Ford
+ci prod 356271
+ci origin United States
+ci maker Ford
+ci model 65A
+ci weight 2578
+ci doors 2
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci rdiff 2.5
+ci trans 3.5
+ci fuel 16
+ci tcase -NA-
+ci oil 4.5
+ci carb Autolite
+ci ctype Semicentrifugal
+ci diffr 3.2
+ci diff Hypoid
+ci height 51.6
+ci width 70.9
+ci rtred 57.9
+ci wbase 108
+ci length 183.6
+ci disp 200
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci comp 9.2
+ci etype Inline 6 overhead valve
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci trq 190@2400
+ci vlift Hydraulic
+ci etype Constant mesh
+ci mbear 7
+ci bhp 120@4400
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Lime Gold
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Vintage Burgandy
+co Wimbledon White
+ci ftype Regular
+ci rad Down flow
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal water  pump
+ci cool 9.5 Quarts
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci rev 3.17
+ci gears 3
+ci 1gear 2.99
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On the top surface of the radiator & front fender apron support (near the radiator fill cap).
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3800, 7(\w)71(\w)([\dX]{6})
+clv 12712, 1967, Ford, Station Wagon 6, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci msrp $2935.00
+ci series Station Wagon 6
+ci year 1967
+ci prod 50818
+ci origin United States
+ci doors 4
+ci model 71B
+ci weight 4110
+ci maker Ford
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 11
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 5
+ci trans 3.5
+ci fuel 25
+ci carb Autolite
+ci ctype Semicentrifugal
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.1
+ci wbase 113
+ci width 79
+ci length 213.9
+ci rtred 62
+ci height 56.9
+ci bhp 150@4000
+ci comp 9.2
+ci mbear 7
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline 6 overhead valve
+ci cyl 6
+ci b&s 4 & 3.18
+ci trq 234@2200
+ci rhp 38.4
+ci etype Constant mesh
+ci disp 240
+ci vlift Hydraulic
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci batt 12
+ci rad Down flow
+ci ftype Regular
+ci ign Distributor and coil
+ci exha Single
+ci cool 13 Quarts
+ci cool Centrifugal water  pump
+ci equip Front disc rear drum brakes
+ci equip 390 cu. in. V8 engine
+ci equip 428 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Power steering
+ci equip Power brakes
+ci equip Cruise-O-Matic automatic transmission
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.99
+ci rev 3.17
+ci 2gear 1.75
+ci gears 3
+ci 5gear Not applicable
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 8.45 x 15
+cls 3801, 7(\w)72(\w)([\dX]{6})
+clv 12713, 1967, Ford, Station Wagon 6, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci msrp $3061.00
+ci series Station Wagon 6
+ci year 1967
+ci prod 34377
+ci origin United States
+ci weight 4190
+ci doors 4
+ci model 71C
+ci maker Ford
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Dual hydraulic
+ci oil 5
+ci fuel 25
+ci rdiff 4.5
+ci tcase -NA-
+ci trans 3.5
+ci carb Autolite
+ci ctype Semicentrifugal
+ci csize 9.5 inches
+ci diffr 3.1
+ci diff Hypoid
+ci length 213.9
+ci wbase 113
+ci width 79
+ci rtred 62
+ci height 56.9
+ci mbear 7
+ci etype Constant mesh
+ci cyl 6
+ci trq 234@2200
+ci vlift Hydraulic
+ci rhp 38.4
+ci disp 240
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3.18
+ci etype Single downdraft
+ci comp 9.2
+ci bhp 150@4000
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci exha Single
+ci rad Down flow
+ci ign Distributor and coil
+ci cool 13 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci batt 12
+ci equip 428 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Power steering
+ci equip 390 cu. in. V8 engine
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci equip Cruise-O-Matic automatic transmission
+ci sgear Magic Circle recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci rev 3.17
+ci 3gear 1
+ci 1gear 2.99
+ci 2gear 1.75
+ci 5gear Not applicable
+ci gears 3
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 8.45 x 15
+cls 3802, 7(\w)73(\w)([\dX]{6})
+clv 12714, 1967, Ford, Station Wagon 6, Country Squire
+ser 6 1 499999
+ci axle Semifloating
+ci year 1967
+ci msrp $3234.00
+ci series Station Wagon 6
+ci make Ford
+ci prod 25600
+ci origin United States
+ci weight 4157
+ci doors 4
+ci maker Ford
+ci model 71E
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci oil 5
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 3.5
+ci fuel 25
+ci carb Autolite
+ci ctype Semicentrifugal
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.1
+ci wbase 113
+ci width 79
+ci length 213.9
+ci rtred 62
+ci height 56.9
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci mbear 7
+ci vlift Hydraulic
+ci trq 234@2200
+ci b&s 4 & 3.18
+ci comp 9.2
+ci disp 240
+ci rhp 38.4
+ci etype Single downdraft
+ci etype Constant mesh
+ci bhp 150@4000
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci rad Down flow
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 13 Quarts
+ci exha Single
+ci equip 428 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip 390 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci sgear Magic Circle recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.99
+ci 2gear 1.75
+ci 3gear 1
+ci rev 3.17
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 8.45 x 15
+cls 3803, 7(\w)74(\w)([\dX]{6})
+clv 12715, 1967, Ford, Station Wagon 6, Country Squire
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci msrp $3359.00
+ci series Station Wagon 6
+ci year 1967
+ci prod 44024
+ci origin United States
+ci doors 4
+ci model 71A
+ci weight 4197
+ci maker Ford
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 11
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 5
+ci trans 3.5
+ci fuel 25
+ci carb Autolite
+ci ctype Semicentrifugal
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.1
+ci wbase 113
+ci width 79
+ci rtred 62
+ci length 213.9
+ci height 56.9
+ci bhp 150@4000
+ci comp 9.2
+ci mbear 7
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline 6 overhead valve
+ci cyl 6
+ci b&s 4 & 3.18
+ci trq 234@2200
+ci rhp 38.4
+ci etype Constant mesh
+ci disp 240
+ci vlift Hydraulic
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci batt 12
+ci rad Down flow
+ci ftype Regular
+ci ign Distributor and coil
+ci exha Single
+ci cool 13 Quarts
+ci cool Centrifugal water  pump
+ci equip Front disc rear drum brakes
+ci equip 390 cu. in. V8 engine
+ci equip 428 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Power steering
+ci equip Power brakes
+ci equip Cruise-O-Matic automatic transmission
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.99
+ci rev 3.17
+ci 2gear 1.75
+ci gears 3
+ci 5gear Not applicable
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 8.45 x 15
+cls 3804, 7(\w)70(\w)([\dX]{6})
+clv 12716, 1967, Ford, Station Wagon 6, Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci year 1967
+ci msrp $2836.00
+ci series Station Wagon 6
+ci make Ford
+ci prod 23932
+ci origin United States
+ci weight 4097
+ci doors 4
+ci maker Ford
+ci model 71D
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci fuel 25
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 4.5
+ci oil 5
+ci carb Autolite
+ci csize 9.5 inches
+ci ctype Semicentrifugal
+ci diffr 3.1
+ci diff Hypoid
+ci width 79
+ci rtred 62
+ci length 213.9
+ci wbase 113
+ci height 56.9
+ci rhp 38.4
+ci cyl 6
+ci mbear 7
+ci vlift Hydraulic
+ci trq 234@2200
+ci etype Constant mesh
+ci comp 9.2
+ci b&s 4 & 3.18
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci disp 240
+ci bhp 150@4000
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci rad Down flow
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 13 Quarts
+ci exha Single
+ci equip 428 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip 390 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci sgear Magic Circle recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.99
+ci 2gear 1.75
+ci 3gear 1
+ci rev 3.17
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 8.45 x 15
+cls 3805, 7(\w)bb(\w)([\dX]{6})
+clv 12717, 1967, Ford, Thunderbird, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci series Thunderbird
+ci msrp $4603.00
+ci make Ford
+ci year 1967
+ci origin United States
+ci prod 15567
+ci model 65A
+ci doors 2
+ci weight 4425
+ci maker Ford
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11 7/8
+ci rdiff 5
+ci tcase -NA-
+ci trans 26.5
+ci oil 4
+ci fuel 22
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci height 52.8
+ci length 206.9
+ci wbase 115
+ci width 77.3
+ci rtred 62
+ci bhp 315@4600
+ci etype V8 Valve-in-head
+ci cyl 8
+ci rhp 52.41
+ci disp 389.09
+ci comp 10.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Cruise-O-Matic automatic
+ci b&s 4 3/64 & 3 25/32
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci trq 427@2800
+ci color Exterior Colors
+co Arcadian Blue
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Diamond Blue
+co Diamond Green
+co Frost Turquoise
+co Ivy Green
+co Nightmist Blue
+co Pebble Beige
+co Pewter Mist
+co Phoenician Yellow
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Tahoe Turquoise
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Arcadian Blue/Lower-Brittany Blue
+co Upper-Arcadian Blue/Lower-Nightmist Blue
+co Upper-Diamond Green/Lower-Ivy Green
+co Upper-Frost Turquoise/Lower-Tahoe Turquoise
+co Upper-Nightmist Blue/Lower-Brittany Blue
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Pewter Mist
+co Upper-Raven Black/Lower-Phoenician Yellow
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Sauterne Gold/Lower-Ivy Green
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Arcadian Blue
+co Upper-Wimbledon White/Lower-Brittany Blule
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Charcoal Gray
+co Upper-Wimbledon White/Lower-Diamond Blue
+co Upper-Wimbledon White/Lower-Diamond Green
+co Upper-Wimbledon White/Lower-Ivy Green
+co Upper-Wimbledon White/Lower-Nightmist Blue
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Pewter Mist
+co Upper-Wimbledon White/Lower-Phoenician Yellow
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Tahoe Turquoise
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci exha Dual
+ci ftype Premium
+ci batt 12
+ci rad Cross flow
+ci cool 20.5 Quarts
+ci cool Centrifugal water  pump
+ci equip Speed control device
+ci equip Radio
+ci equip Power seats
+ci equip Power windows
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Integral power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 3806, 7(\w)bb(\w)([\dX]{6})
+clv 12718, 1967, Ford, Thunderbird, Landau
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $4704.00
+ci make Ford
+ci prod 37422
+ci series Thunderbird
+ci origin United States
+ci year 1967
+ci weight 4435
+ci maker Ford
+ci model 65B
+ci doors 2
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11 7/8
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 22
+ci trans 26.5
+ci tcase -NA-
+ci oil 4
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci height 52.8
+ci wbase 115
+ci length 206.9
+ci width 77.3
+ci rtred 62
+ci disp 389.09
+ci cyl 8
+ci comp 10.5
+ci bhp 315@4600
+ci b&s 4 3/64 & 3 25/32
+ci rhp 52.41
+ci trq 427@2800
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Cruise-O-Matic automatic
+ci color Exterior Colors
+co Arcadian Blue
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Diamond Blue
+co Diamond Green
+co Frost Turquoise
+co Ivy Green
+co Nightmist Blue
+co Pebble Beige
+co Pewter Mist
+co Phoenician Yellow
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Tahoe Turquoise
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Arcadian Blue/Lower-Brittany Blue
+co Upper-Arcadian Blue/Lower-Nightmist Blue
+co Upper-Diamond Green/Lower-Ivy Green
+co Upper-Frost Turquoise/Lower-Tahoe Turquoise
+co Upper-Nightmist Blue/Lower-Brittany Blue
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Pewter Mist
+co Upper-Raven Black/Lower-Phoenician Yellow
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Sauterne Gold/Lower-Ivy Green
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Arcadian Blue
+co Upper-Wimbledon White/Lower-Brittany Blule
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Charcoal Gray
+co Upper-Wimbledon White/Lower-Diamond Blue
+co Upper-Wimbledon White/Lower-Diamond Green
+co Upper-Wimbledon White/Lower-Ivy Green
+co Upper-Wimbledon White/Lower-Nightmist Blue
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Pewter Mist
+co Upper-Wimbledon White/Lower-Phoenician Yellow
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Tahoe Turquoise
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci exha Dual
+ci rad Cross flow
+ci cool 20.5 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci ftype Premium
+ci equip Radio
+ci equip Speed control device
+ci equip Power seats
+ci equip Power windows
+ci equip Air conditioning
+ci equip 428 cu. in. V8 engine
+ci sgear Integral power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 3807, 7(\w)bb(\w)([\dX]{6})
+clv 12719, 1967, Ford, Thunderbird, Landau
+ser 6 1 499999
+ci axle Semifloating
+ci year 1967
+ci make Ford
+ci origin United States
+ci msrp $4825.00
+ci series Thunderbird
+ci prod 24967
+ci model 57C
+ci weight 4545
+ci doors 4
+ci maker Ford
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci fbsize 11 7/8
+ci bsize 11 1/32
+ci tcase -NA-
+ci fuel 22
+ci trans 26.5
+ci oil 4
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 3.0
+ci diff Hypoid
+ci height 53.8
+ci length 206.9
+ci rtred 62
+ci width 77.3
+ci wbase 115
+ci disp 389.09
+ci etype V8 Valve-in-head
+ci cyl 8
+ci rhp 52.41
+ci bhp 315@4600
+ci comp 10.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Cruise-O-Matic automatic
+ci b&s 4 3/64 & 3 25/32
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci trq 427@2800
+ci color Exterior Colors
+co Arcadian Blue
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Diamond Blue
+co Diamond Green
+co Frost Turquoise
+co Ivy Green
+co Nightmist Blue
+co Pebble Beige
+co Pewter Mist
+co Phoenician Yellow
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Tahoe Turquoise
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Arcadian Blue/Lower-Brittany Blue
+co Upper-Arcadian Blue/Lower-Nightmist Blue
+co Upper-Diamond Green/Lower-Ivy Green
+co Upper-Frost Turquoise/Lower-Tahoe Turquoise
+co Upper-Nightmist Blue/Lower-Brittany Blue
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Pewter Mist
+co Upper-Raven Black/Lower-Phoenician Yellow
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Sauterne Gold/Lower-Ivy Green
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Arcadian Blue
+co Upper-Wimbledon White/Lower-Brittany Blule
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Charcoal Gray
+co Upper-Wimbledon White/Lower-Diamond Blue
+co Upper-Wimbledon White/Lower-Diamond Green
+co Upper-Wimbledon White/Lower-Ivy Green
+co Upper-Wimbledon White/Lower-Nightmist Blue
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Pewter Mist
+co Upper-Wimbledon White/Lower-Phoenician Yellow
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Tahoe Turquoise
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci batt 12
+ci exha Dual
+ci ign Distributor and coil
+ci ftype Premium
+ci rad Cross flow
+ci cool 20.5 Quarts
+ci cool Centrifugal water  pump
+ci equip Speed control device
+ci equip Radio
+ci equip Power seats
+ci equip Power windows
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Integral power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 3808, 7(\w)59(\w)([\dX]{6})
+clv 12720, 1967, Ford, XL V8, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci year 1967
+ci msrp $3493.00
+ci origin United States
+ci make Ford
+ci prod 5161
+ci series XL V8
+ci maker Ford
+ci weight 3972
+ci doors 2
+ci model 76B
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci trans 3.5
+ci fuel 25
+ci tcase -NA-
+ci oil 5
+ci rdiff 4.5
+ci carb Autolite
+ci ctype Semicentrifugal
+ci csize 10.4 inches
+ci diff Hypoid
+ci diffr 3.1
+ci rtred 62
+ci width 79
+ci height 54.8
+ci length 213
+ci wbase 119
+ci cyl 8
+ci mbear 5
+ci rhp 51.2
+ci vlift Hydraulic
+ci b&s 4 & 2.87
+ci disp 289
+ci trq 282@2400
+ci etype Dual downdraft
+ci etype Constant mesh
+ci bhp 200@4400
+ci etype V8 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.3
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci rad Down flow
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci equip 390 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip 427 cu. in. V8 engine
+ci equip 428 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci sgear Magic Circle recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.99
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 3gear 1
+ci gears 3
+ci rev 3.17
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci tsize 8.15 x 14
+ci sloc Trunk
+cls 3809, 7(\w)58(\w)([\dX]{6})
+clv 12721, 1967, Ford, XL V8, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci msrp $3243.00
+ci origin United States
+ci prod 18174
+ci year 1967
+ci series XL V8
+ci maker Ford
+ci weight 3772
+ci doors 2
+ci model 63C
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Dual hydraulic
+ci fuel 25
+ci rdiff 4.5
+ci trans 3.5
+ci tcase -NA-
+ci oil 5
+ci carb Autolite
+ci ctype Semicentrifugal
+ci csize 10.4 inches
+ci diff Hypoid
+ci diffr 3.1
+ci width 79
+ci rtred 62
+ci length 213
+ci height 54.7
+ci wbase 119
+ci cyl 8
+ci mbear 5
+ci rhp 51.2
+ci b&s 4 & 2.87
+ci vlift Hydraulic
+ci etype Constant mesh
+ci disp 289
+ci etype Dual downdraft
+ci trq 282@2400
+ci bhp 200@4400
+ci etype V8 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.3
+ci color Exterior Colors
+co Beige Mist
+co Brittany Blue
+co Burnt Amber
+co Candyapple Red
+co Clearwater Aqua
+co Dark Moss Green
+co Frost Turquoise
+co Nightmist Blue
+co Pebble Beige
+co Raven Black
+co Sauterne Gold
+co Silver Frost
+co Springtime Yellow
+co Upper- Raven Black/Lower - Candyapple Red
+co Upper- Wimbledon White/Lower  - Raven Black
+co Upper- Wimbledon White/Lower- Candyapple Red
+co Upper-Dark Moss Green/Lower-Sauterne Gold
+co Upper-Pebble Beach/Lower-Beige Mist
+co Upper-Raven Black/Lower-Burnt Amber
+co Upper-Raven Black/Lower-Pebble Beige
+co Upper-Raven Black/Lower-Sauterne Golde
+co Upper-Raven Black/Lower-Silver Frost
+co Upper-Raven Black/Lower-Springtime Yellow
+co Upper-Raven Black/Lower-Vintage Burgandy
+co Upper-Wimbledon White/Lower Frost Turquoise
+co Upper-Wimbledon White/Lower- Beige Mist
+co Upper-Wimbledon White/Lower-Burnt Amber
+co Upper-Wimbledon White/Lower-Dark Moss Green
+co Upper-Wimbledon White/Lower-Pebble Beige
+co Upper-Wimbledon White/Lower-Sauterne Gold
+co Upper-Wimbledon White/Lower-Silver Frost
+co Upper-Wimbledon White/Lower-Springtime Yellow
+co Upper-Wimbledon White/Lower-Vintage Burgandy
+co Vintage Burgandy
+co Wimbledon White
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci rad Down flow
+ci batt 12
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci exha Single
+ci equip 390 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip 427 cu. in. V8 engine
+ci equip 428 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip Power steering
+ci equip Power windows
+ci equip Power brakes
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Magic Circle recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 2.99
+ci 3gear 1
+ci rev 3.17
+ci gears 3
+ci 2gear 1.75
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci tsize 8.15 x 14
+ci sloc Trunk

@@ -1,0 +1,40 @@
+  <% position = 'top' %>
+  <div class='span3 pricing-table'>
+    <div class='header'><%= plan.name.titleize %></div>
+    <div class='price <%=plan.color %>-background'>
+      <span>$<%= plan.price %></span>
+    </div>
+    <ul class='unstyled features'>
+      <li class='has-tooltip' data-placement='<%= position %>' title='Number of IPs addresses that can access service'>
+        <strong><%= pricing(plan.ip) %> IP</strong>
+        access
+      </li>
+      <li class='has-tooltip' data-placement='<%= position %>' title='Number of decodes allowed per day'>
+        <strong><%= pricing(plan.per_day) %></strong>
+        decodes / day
+      </li>
+      <li class='has-tooltip' data-placement='<%= position %>' title='Number of decodes allowed per month'>
+        <strong><%= pricing(plan.per_month) %></strong>
+        decodes / month
+      </li>
+      <li class='has-tooltip' data-placement='<%= position %>' title='Total number of bulk decodes per month'>
+        <strong><%= plan.bulk_decodes == 0 ? 'No' : pricing(plan.bulk_decodes) %></strong>
+        bulk decodes / month <br/> <em>(unavailable during trial)</em>
+      </li>
+      <li class='has-tooltip' data-placement='<%= position %>' title='Type of decode provided'>
+        <strong><%= plan.decode_type %></strong>
+        API access
+      </li>
+      <li>
+        <strong>FREE</strong>
+        7-day trial
+      </li>
+
+    </ul>
+    <div class='footer'>
+      <%= link_to  new_user_registration_path(:plan => plan.role.name), :class => 'btn btn-primary' do %>
+          <i class='icon-signin'></i> Sign up
+      <% end %>
+    </div>
+      <div class='centered'><%= plan.description %></div>
+  </div>

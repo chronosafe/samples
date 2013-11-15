@@ -1,0 +1,4950 @@
+cls 4674, 0(\w)bb(\w)([\dX]{6})
+clv 19103, 1970, Mercury, Cougar Eliminator, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci year 1970
+ci make Mercury
+ci series Cougar Eliminator
+ci maker Mercury
+ci weight 3476
+ci doors 2
+ci model 65?
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 22
+ci tcase -NA-
+ci oil 4
+ci rdiff 5
+ci trans 4
+ci carb Autolite
+ci ctype Single dry plate
+ci csize 11 inches
+ci diffr 3.25
+ci diff Hypoid
+ci rtred 58.5
+ci height 51.5
+ci width 74.1
+ci wbase 111
+ci length 196.1
+ci vlift Hydraulic
+ci mbear 5
+ci rhp 51.2
+ci b&s 4 & 3 1/2
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 380@3400
+ci disp 351
+ci cyl 8
+ci etype V8 Overhead valve
+ci bhp 300@5400
+ci etype Downdraft 4-barrel
+ci comp 11.0
+ci etype Fully synchronized
+ci color Exterior Colors
+co Black
+co Bright Blue Metallic
+co Competition Blue
+co Competition Gold
+co Competition Green
+co Competition Orange
+co Competition Yellow
+co Dark Ivy Green Metallic
+co Deep Gold Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Pastel Blue
+co Red
+co White
+ci exha Dual
+ci cool 13 3/5 Quarts
+ci ftype Premium
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci batt 12
+ci equip Whisper-Aire Conditioning
+ci equip Styled Steel Wheels
+ci equip Tilt Steering Wheel
+ci equip Drag Pak
+ci equip Sporty Wheel covers (Deep Dish)
+ci equip AM-FM Stereo Radio
+ci equip AM Radio/Stereo Tape System
+ci equip 429 cu. in. V8 engine
+ci equip 428 cu. in. V8 engine
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Select Shift Automatic Transmission
+ci equip Power Windows
+ci equip 302 cu. in. V8 engine
+ci equip Wheel Covers-Wire
+ci equip Rear Window Defogger
+ci equip Select-Shift automatic transmission
+ci equip Power Steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 3gear 1.36
+ci drive Rear wheel drive
+ci rev 2.78
+ci 2gear 1.93
+ci gears 4
+ci 4gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 4675, 0(\w)92(\w)([\dX]{6})
+clv 19104, 1970, Mercury, Cougar, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3264.00
+ci origin United States
+ci series Cougar
+ci prod 2322
+ci year 1970
+ci make Mercury
+ci model 76A
+ci weight 3404
+ci doors 2
+ci maker Mercury
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 22
+ci tcase -NA-
+ci rdiff 4
+ci oil 4
+ci trans 3.5
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 2.75
+ci diff Hypoid
+ci width 74.1
+ci wbase 111
+ci length 196.1
+ci rtred 58.5
+ci height 51.5
+ci b&s 4 & 3 1/2
+ci mbear 5
+ci etype V8 Overhead valve
+ci rhp 51.2
+ci cyl 8
+ci comp 9.5
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 355@2600
+ci disp 351
+ci bhp 250@4600
+ci etype Dual downdraft
+ci etype Constant mesh
+ci vlift Hydraulic
+ci color Exterior Colors
+co Black
+co Bright Blue Metallic
+co Competition Blue
+co Competition Gold
+co Competition Green
+co Competition Orange
+co Competition Yellow
+co Dark Ivy Green Metallic
+co Deep Gold Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower- Competition Green
+co Upper-Black/Lower-Bright Blue Metallic
+co Upper-Black/Lower-Competition Blue
+co Upper-Black/Lower-Competition Gold
+co Upper-Black/Lower-Competition Yellow
+co Upper-Black/Lower-Competition orange
+co Upper-Black/Lower-Deep Gold Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Medium Lime Green
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-White/Lower-Black
+co Upper-White/Lower-Bright Blue Metallic
+co Upper-White/Lower-Competition Blue
+co Upper-White/Lower-Competition Gold
+co Upper-White/Lower-Competition Green
+co Upper-White/Lower-Competition Orange
+co Upper-White/Lower-Competition Yellow
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Deep Gold Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Lime Green
+co Upper-White/Lower-Red
+co White
+ci batt 12
+ci rad Tubular and fin
+ci exha Single
+ci cool Centrifugal water  pump
+ci cool 10 2/5 Quarts
+ci ftype Regular
+ci ign Distributor and coil
+ci equip Whisper-Aire Conditioning
+ci equip Wheel Covers-Wire
+ci equip Wheel Covers Deluxe
+ci equip Drag Pak
+ci equip AM-FM Stereo Radio
+ci equip Vinyl Roof
+ci equip Tilt Steering Wheel
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Steering
+ci equip Power Windows
+ci equip AM Radio/Stereo Tape System
+ci equip Rear Window Defogger
+ci equip Sun Roof
+ci equip Styled Steel Wheels
+ci equip 428 cu. in. V8 engine
+ci equip Sporty Wheel covers (Deep Dish)
+ci equip Select-Shift automatic transmission
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Select Shift Automatic Transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 4676, 0(\w)91(\w)([\dX]{6})
+clv 19105, 1970, Mercury, Cougar, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2917.00
+ci origin United States
+ci prod 49479
+ci make Mercury
+ci series Cougar
+ci year 1970
+ci model 65A
+ci maker Mercury
+ci doors 2
+ci weight 3307
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci fuel 22
+ci trans 3.5
+ci tcase -NA-
+ci rdiff 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 2.75
+ci diff Hypoid
+ci wbase 111
+ci length 196.1
+ci width 74.1
+ci rtred 58.5
+ci height 51.5
+ci b&s 4 & 3 1/2
+ci mbear 5
+ci rhp 51.2
+ci trq 355@2600
+ci cyl 8
+ci comp 9.5
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 351
+ci bhp 250@4600
+ci etype Dual downdraft
+ci etype V8 Overhead valve
+ci etype Constant mesh
+ci vlift Hydraulic
+ci color Exterior Colors
+co Black
+co Bright Blue Metallic
+co Competition Blue
+co Competition Gold
+co Competition Green
+co Competition Orange
+co Competition Yellow
+co Dark Ivy Green Metallic
+co Deep Gold Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower- Competition Green
+co Upper-Black/Lower-Bright Blue Metallic
+co Upper-Black/Lower-Competition Blue
+co Upper-Black/Lower-Competition Gold
+co Upper-Black/Lower-Competition Yellow
+co Upper-Black/Lower-Competition orange
+co Upper-Black/Lower-Deep Gold Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Medium Lime Green
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-White/Lower-Black
+co Upper-White/Lower-Bright Blue Metallic
+co Upper-White/Lower-Competition Blue
+co Upper-White/Lower-Competition Gold
+co Upper-White/Lower-Competition Green
+co Upper-White/Lower-Competition Orange
+co Upper-White/Lower-Competition Yellow
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Deep Gold Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Lime Green
+co Upper-White/Lower-Red
+co White
+ci batt 12
+ci rad Tubular and fin
+ci exha Single
+ci cool Centrifugal water  pump
+ci cool 10 2/5 Quarts
+ci ftype Regular
+ci ign Distributor and coil
+ci equip Whisper-Aire Conditioning
+ci equip Wheel Covers-Wire
+ci equip Wheel Covers Deluxe
+ci equip Drag Pak
+ci equip AM-FM Stereo Radio
+ci equip Vinyl Roof
+ci equip Tilt Steering Wheel
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Steering
+ci equip Power Windows
+ci equip AM Radio/Stereo Tape System
+ci equip Rear Window Defogger
+ci equip Sun Roof
+ci equip Styled Steel Wheels
+ci equip 428 cu. in. V8 engine
+ci equip Sporty Wheel covers (Deep Dish)
+ci equip Select-Shift automatic transmission
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Select Shift Automatic Transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 4677, 0(\w)94(\w)([\dX]{6})
+clv 19106, 1970, Mercury, Cougar XR7, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci series Cougar XR7
+ci msrp $3465.00
+ci year 1970
+ci prod 1977
+ci weight 3430
+ci maker Mercury
+ci model 76B
+ci doors 2
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 22
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci rdiff 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 2.75
+ci diff Hypoid
+ci length 196.1
+ci width 74.1
+ci wbase 111
+ci rtred 58.5
+ci height 51.5
+ci trq 355@2600
+ci mbear 5
+ci b&s 4 & 3 1/2
+ci rhp 51.2
+ci cyl 8
+ci comp 9.5
+ci disp 351
+ci vlift Hydraulic
+ci bhp 250@4600
+ci etype V8 Overhead valve
+ci etype Dual downdraft
+ci etype Constant mesh
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Black
+co Bright Blue Metallic
+co Competition Blue
+co Competition Orange
+co Competition Yellow
+co Dark Ivy Green Metallic
+co Deep Gold Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower- Competition Green
+co Upper-Black/Lower-Bright Blue Metallic
+co Upper-Black/Lower-Competition Blue
+co Upper-Black/Lower-Competition Gold
+co Upper-Black/Lower-Competition Yellow
+co Upper-Black/Lower-Competition orange
+co Upper-Black/Lower-Deep Gold Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Medium Lime Green
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-White/Lower-Black
+co Upper-White/Lower-Bright Blue Metallic
+co Upper-White/Lower-Competition Blue
+co Upper-White/Lower-Competition Gold
+co Upper-White/Lower-Competition Green
+co Upper-White/Lower-Competition Orange
+co Upper-White/Lower-Competition Yellow
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Deep Gold Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Lime Green
+co Upper-White/Lower-Red
+co White
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 10 2/5 Quarts
+ci rad Tubular and fin
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci equip Rear Window Defogger
+ci equip Whisper-Aire Conditioning
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Wheel Covers-Wire
+ci equip Wheel Covers Deluxe
+ci equip Vinyl Roof
+ci equip Drag Pak
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Steering
+ci equip Power Windows
+ci equip Tilt Steering Wheel
+ci equip 428 cu. in. V8 engine
+ci equip Styled Steel Wheels
+ci equip Sporty Wheel covers (Deep Dish)
+ci equip AM Radio/Stereo Tape System
+ci equip AM-FM Stereo Radio
+ci equip Select-Shift automatic transmission
+ci equip Select Shift Automatic Transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci rev 3.17
+ci gears 3
+ci 2gear 1.75
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 4678, 0(\w)93(\w)([\dX]{6})
+clv 19107, 1970, Mercury, Cougar XR7, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci series Cougar XR7
+ci msrp $3201.00
+ci prod 18565
+ci year 1970
+ci weight 3333
+ci maker Mercury
+ci model 65B
+ci doors 2
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 22
+ci tcase -NA-
+ci rdiff 4
+ci trans 3.5
+ci oil 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 2.75
+ci diff Hypoid
+ci width 74.1
+ci wbase 111
+ci length 196.1
+ci rtred 58.5
+ci height 51.5
+ci trq 355@2600
+ci mbear 5
+ci b&s 4 & 3 1/2
+ci rhp 51.2
+ci cyl 8
+ci comp 9.5
+ci disp 351
+ci vlift Hydraulic
+ci bhp 250@4600
+ci etype V8 Overhead valve
+ci etype Dual downdraft
+ci etype Constant mesh
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Black
+co Bright Blue Metallic
+co Competition Blue
+co Competition Orange
+co Competition Yellow
+co Dark Ivy Green Metallic
+co Deep Gold Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower- Competition Green
+co Upper-Black/Lower-Bright Blue Metallic
+co Upper-Black/Lower-Competition Blue
+co Upper-Black/Lower-Competition Gold
+co Upper-Black/Lower-Competition Yellow
+co Upper-Black/Lower-Competition orange
+co Upper-Black/Lower-Deep Gold Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Medium Lime Green
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-White/Lower-Black
+co Upper-White/Lower-Bright Blue Metallic
+co Upper-White/Lower-Competition Blue
+co Upper-White/Lower-Competition Gold
+co Upper-White/Lower-Competition Green
+co Upper-White/Lower-Competition Orange
+co Upper-White/Lower-Competition Yellow
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Deep Gold Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Lime Green
+co Upper-White/Lower-Red
+co White
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 10 2/5 Quarts
+ci rad Tubular and fin
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci equip Rear Window Defogger
+ci equip Whisper-Aire Conditioning
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Wheel Covers-Wire
+ci equip Wheel Covers Deluxe
+ci equip Vinyl Roof
+ci equip Drag Pak
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Steering
+ci equip Power Windows
+ci equip Tilt Steering Wheel
+ci equip 428 cu. in. V8 engine
+ci equip Styled Steel Wheels
+ci equip Sporty Wheel covers (Deep Dish)
+ci equip AM Radio/Stereo Tape System
+ci equip AM-FM Stereo Radio
+ci equip Select-Shift automatic transmission
+ci equip Select Shift Automatic Transmission
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci rev 3.17
+ci gears 3
+ci 2gear 1.75
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 4679, 0(\w)16(\w)([\dX]{6})
+clv 19108, 1970, Mercury, Cyclone GT, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 10170
+ci origin United States
+ci make Mercury
+ci series Cyclone GT
+ci msrp $3025.00
+ci year 1970
+ci maker Mercury
+ci weight 3434
+ci model 65H
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci fuel 22
+ci tcase -NA-
+ci rdiff 4
+ci oil 4
+ci carb Rochester
+ci csize 11.5 inches
+ci ctype Single dry plate
+ci diffr 3.25
+ci diff Hypoid
+ci length 209.9
+ci wbase 117
+ci width 77.3
+ci ftred 60.5
+ci rtred 60
+ci height 52.4
+ci b&s 4 & 3 1/2
+ci mbear 5
+ci bhp 250@4600
+ci trq 335@2600
+ci cyl 8
+ci comp 9.5
+ci etype V8 Overhead valve
+ci rhp 51.2
+ci vlift Hydraulic
+ci disp 351
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Black
+co Competition Orange
+co Competition Yellow
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Gold Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+ci rad Tubular and fin
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Dual
+ci cool 14 2/5 Quarts
+ci ftype Premium
+ci ign Distributor and coil
+ci equip Power Operated Sun Roof
+ci equip Luxury Wheel Covers
+ci equip Vinyl Roof
+ci equip Hi-Back Bucket Seats
+ci equip Tinted Glass (Complete)
+ci equip Styled Steel Wheels
+ci equip Select-Shift automatic transmission
+ci equip Optional Axle Ratios
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Select Shift Automatic Transmission
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip AM-FM Stereo Radio
+ci equip 429 cu. in. V8 engine
+ci equip Rear Window Defogger
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci rev 2.78
+ci gears 4
+ci 5gear Not applicable
+ci 3gear 1.36
+ci 4gear 1
+ci 2gear 1.93
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize C70 x 14
+cls 4680, 0(\w)15(\w)([\dX]{6})
+clv 19109, 1970, Mercury, Cyclone, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci msrp $3037.00
+ci series Cyclone
+ci prod 1695
+ci year 1970
+ci weight 3449
+ci maker Mercury
+ci model 65F
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci trans 3.5
+ci fuel 22
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci width 77.3
+ci wbase 117
+ci length 209.9
+ci ftred 60.5
+ci rtred 60
+ci height 52.4
+ci disp 429
+ci trq 480@2800
+ci rhp 60.83
+ci etype V8 Overhead valve
+ci mbear 5
+ci cyl 8
+ci b&s 4.36 & 3 1/29
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 360@4600
+ci etype Fully synchronized
+ci comp 10.5
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci color Exterior Colors
+co Black
+co Competition Orange
+co Competition Yellow
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Gold Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+ci rad Tubular and fin
+ci batt 12
+ci exha Dual
+ci cool 10 2/5 Quarts
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci equip Whisper-Aire Conditioning
+ci equip Vinyl Roof
+ci equip Luxury Wheel Covers
+ci equip Hi-Back Bucket Seats
+ci equip Tinted Glass (Complete)
+ci equip AM-FM Stereo Radio
+ci equip Styled Steel Wheels
+ci equip Select-Shift automatic transmission
+ci equip Optional Axle Ratios
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Operated Sun Roof
+ci equip Power Seat
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip 429 cu. in. V8 engine
+ci equip Select Shift Automatic Transmission
+ci equip Rear Window Defogger
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci gears 3
+ci 1gear 2.42
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.61
+ci rev 2.33
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize C70 x 14
+cls 4681, 0(\w)17(\w)([\dX]{6})
+clv 19110, 1970, Mercury, Cyclone Spoiler, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci msrp $3530.00
+ci prod 1631
+ci series Cyclone Spoiler
+ci year 1970
+ci model 65G
+ci weight 3464
+ci doors 2
+ci maker Mercury
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci oil 4
+ci fuel 22
+ci trans 4
+ci tcase -NA-
+ci rdiff 5
+ci carb Rochester
+ci csize 11.5 inches
+ci ctype Single dry plate
+ci diffr 3.5
+ci diff Hypoid
+ci width 77.3
+ci wbase 117
+ci length 209.9
+ci ftred 60.5
+ci height 52.4
+ci rtred 60
+ci disp 429
+ci rhp 60.83
+ci mbear 5
+ci bhp 370@5400
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Overhead valve
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci comp 11.3
+ci b&s 4.36 & 3 1/29
+ci etype Downdraft 4-barrel
+ci trq 450@3400
+ci color Exterior Colors
+co Black
+co Competition Orange
+co Competition Yellow
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Gold Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+ci rad Tubular and fin
+ci batt 12
+ci exha Dual
+ci cool Centrifugal water  pump
+ci ftype Premium
+ci cool 18 Quarts
+ci ign Distributor and coil
+ci equip Luxury Wheel Covers
+ci equip Vinyl Roof
+ci equip Tinted Glass (Complete)
+ci equip Hi-Back Bucket Seats
+ci equip Styled Steel Wheels
+ci equip Select-Shift automatic transmission
+ci equip Optional Axle Ratios
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Operated Sun Roof
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Select Shift Automatic Transmission
+ci equip AM-FM Stereo Radio
+ci equip Rear Window Defogger
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci gears 4
+ci rev 2.78
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 4gear 1
+ci 3gear 1.36
+ci 2gear 1.93
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize C70 x 14
+ci sloc Trunk
+cls 4682, 0(\w)60(\w)([\dX]{6})
+clv 19111, 1970, Mercury, Marauder, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1970
+ci origin United States
+ci msrp $3271.00
+ci series Marauder
+ci make Mercury
+ci prod 3397
+ci maker Mercury
+ci weight 4177
+ci doors 2
+ci model 63G
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci oil 4
+ci tcase -NA-
+ci rdiff 5
+ci trans 3.5
+ci fuel 24.1
+ci carb Autolite
+ci csize 11 inches
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci height 53.7
+ci width 79.6
+ci length 219.1
+ci rtred 64
+ci wbase 121
+ci ftred 63
+ci bhp 265@4400
+ci rhp 52.41
+ci mbear 5
+ci cyl 8
+ci comp 9.5
+ci block Special alloy iron
+ci etype Dual downdraft
+ci trq 390@2600
+ci disp 389.09
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci exha Single
+ci cool 19 1/10 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci equip Styled Aluminum Wheels
+ci equip Higher Ratio Rear Axle
+ci equip Luxury Wheel Covers
+ci equip Automatic Speed Control
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip 429 cu. in. V8 engine
+ci equip Tilt Steering Wheel
+ci equip Bucket Seats w/Console
+ci equip Vinyl Roof
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Wheel Covers Deluxe
+ci equip Rear Window Defogger
+ci equip Six-Way Power Seat (Bench)
+ci equip Competition Handling Package
+ci equip Dual Rear Seat Speakers
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip Select-Shift automatic transmission
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci rev 2.33
+ci 2gear 1.61
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15
+ci sloc Trunk
+cls 4683, 0(\w)61(\w)([\dX]{6})
+clv 19112, 1970, Mercury, Marauder X100, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series Marauder X100
+ci msrp $3873.00
+ci year 1970
+ci prod 2646
+ci origin United States
+ci make Mercury
+ci doors 2
+ci model 63H
+ci maker Mercury
+ci weight 4319
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci svc Dual hydraulic
+ci tcase -NA-
+ci oil 4
+ci fuel 24.1
+ci rdiff 5
+ci trans 3.5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci wbase 121
+ci height 53.6
+ci ftred 63
+ci length 219.1
+ci rtred 64
+ci width 79.7
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 60.83
+ci etype Select Shift automatic
+ci cyl 8
+ci disp 429
+ci b&s 4.36 & 3 1/29
+ci bhp 360@4600
+ci etype V8 Overhead valve
+ci comp 10.5
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci trq 480@2800
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci batt 12
+ci cool 19 1/10 Quarts
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal water  pump
+ci ftype Premium
+ci equip Whisper-Aire Conditioning
+ci equip Competition Handling Package
+ci equip Bucket Seats w/Console
+ci equip Automatic Speed Control
+ci equip Higher Ratio Rear Axle
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Luxury Wheel Covers
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip Rear Window Defogger
+ci equip Dual Rear Seat Speakers
+ci equip Styled Aluminum Wheels
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip 6-Way Power Twin-Comfort Seat
+ci equip Select-Shift automatic transmission
+ci equip Tilt Steering Wheel
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15
+ci sloc Trunk
+cls 4684, 0(\w)64(\w)([\dX]{6})
+clv 19113, 1970, Mercury, Marquis Brougham, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci msrp $4151.00
+ci series Marquis Brougham
+ci prod 713
+ci origin United States
+ci year 1970
+ci doors 2
+ci weight 4119
+ci maker Mercury
+ci model 65C
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci oil 4
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 5
+ci fuel 24.1
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci height 54
+ci wbase 124
+ci ftred 63
+ci rtred 64
+ci width 79.7
+ci length 224.3
+ci cyl 8
+ci bhp 320@4400
+ci rhp 60.83
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4.36 & 3 1/29
+ci trq 460@2200
+ci disp 429
+ci etype V8 Overhead valve
+ci comp 10.5
+ci etype Select Shift automatic
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci mbear 5
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ftype Premium
+ci exha Single
+ci cool 19 1/10 Quarts
+ci rad Tubular and fin
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power Brakes (disc front drm rear)
+ci equip Automatic Speed Control
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip Luxury Wheel Covers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Vinyl Roof
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Wheel Covers Deluxe
+ci equip Styled Aluminum Wheels
+ci equip Rear Window Defogger
+ci equip Dual Rear Seat Speakers
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Tilt Steering Wheel
+ci equip Whisper-Aire Conditioning
+ci equip 6-Way Power Twin-Comfort Seat
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 4685, 0(\w)67(\w)([\dX]{6})
+clv 19114, 1970, Mercury, Marquis Brougham, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 11623
+ci msrp $4219.00
+ci series Marquis Brougham
+ci make Mercury
+ci year 1970
+ci origin United States
+ci maker Mercury
+ci weight 4182
+ci model 57C
+ci doors 4
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci tcase -NA-
+ci oil 4
+ci fuel 24.1
+ci trans 3.5
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci ftred 63
+ci length 224.3
+ci height 54.1
+ci wbase 124
+ci width 79.8
+ci rtred 64
+ci bhp 320@4400
+ci cyl 8
+ci rhp 60.83
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci etype Select Shift automatic
+ci disp 429
+ci etype V8 Overhead valve
+ci comp 10.5
+ci b&s 4.36 & 3 1/29
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 460@2200
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ftype Premium
+ci exha Single
+ci cool 19 1/10 Quarts
+ci rad Tubular and fin
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power Brakes (disc front drm rear)
+ci equip Automatic Speed Control
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip Luxury Wheel Covers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Vinyl Roof
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Wheel Covers Deluxe
+ci equip Styled Aluminum Wheels
+ci equip Rear Window Defogger
+ci equip Dual Rear Seat Speakers
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Tilt Steering Wheel
+ci equip Whisper-Aire Conditioning
+ci equip 6-Way Power Twin-Comfort Seat
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 4686, 0(\w)62(\w)([\dX]{6})
+clv 19115, 1970, Mercury, Marquis Brougham, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci msrp $4092.00
+ci series Marquis Brougham
+ci year 1970
+ci prod 14920
+ci origin United States
+ci maker Mercury
+ci weight 4166
+ci model 53C
+ci doors 4
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci tcase -NA-
+ci oil 4
+ci fuel 24.1
+ci trans 3.5
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci ftred 63
+ci height 54.1
+ci length 224.3
+ci wbase 124
+ci width 79.8
+ci rtred 64
+ci bhp 320@4400
+ci cyl 8
+ci rhp 60.83
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci etype Select Shift automatic
+ci disp 429
+ci etype V8 Overhead valve
+ci comp 10.5
+ci b&s 4.36 & 3 1/29
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 460@2200
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ftype Premium
+ci exha Single
+ci cool 19 1/10 Quarts
+ci rad Tubular and fin
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power Brakes (disc front drm rear)
+ci equip Automatic Speed Control
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip Luxury Wheel Covers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Vinyl Roof
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Wheel Covers Deluxe
+ci equip Styled Aluminum Wheels
+ci equip Rear Window Defogger
+ci equip Dual Rear Seat Speakers
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Tilt Steering Wheel
+ci equip Whisper-Aire Conditioning
+ci equip 6-Way Power Twin-Comfort Seat
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 4687, 0(\w)74(\w)([\dX]{6})
+clv 19116, 1970, Mercury, Marquis, Colony Park
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1970
+ci make Mercury
+ci series Marquis
+ci msrp $3859.00
+ci origin United States
+ci prod 4655
+ci model 71E
+ci weight 4434
+ci doors 4
+ci maker Mercury
+ci svc Dual hydraulic
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci trans 3.5
+ci tcase -NA-
+ci fuel 24.1
+ci rdiff 5
+ci oil 4
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 56.8
+ci length 220.5
+ci ftred 63
+ci rtred 64
+ci wbase 124
+ci width 79.8
+ci etype Select Shift automatic
+ci vlift Hydraulic
+ci trq 460@2200
+ci cyl 8
+ci disp 429
+ci b&s 4.36 & 3 1/29
+ci bhp 320@4400
+ci etype V8 Overhead valve
+ci comp 10.5
+ci etype Dual downdraft
+ci mbear 5
+ci rhp 60.83
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci ftype Premium
+ci rad Tubular and fin
+ci cool 19 1/10 Quarts
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power Door Locks
+ci equip Automatic Speed Control
+ci equip Dual Rear Seat Speakers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Vinyl Roof
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Luxury Wheel Covers
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip Styled Aluminum Wheels
+ci equip Wheel Covers Deluxe
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Tilt Steering Wheel
+ci equip Whisper-Aire Conditioning
+ci equip Six-Way Power Seat (Bench)
+ci equip Rear Window Defogger
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 4688, 0(\w)76(\w)([\dX]{6})
+clv 19117, 1970, Mercury, Marquis, Colony Park
+ser 6 500000 999999
+ci axle Semifloating
+ci series Marquis
+ci make Mercury
+ci origin United States
+ci prod 14549
+ci year 1970
+ci model 71A
+ci weight 4480
+ci maker Mercury
+ci doors 4
+ci bsize 11 1/32
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci trans 3.5
+ci oil 4
+ci fuel 24.1
+ci tcase -NA-
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci ftred 63
+ci length 220.5
+ci height 56.8
+ci rtred 64
+ci wbase 124
+ci width 79.8
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 60.83
+ci cyl 8
+ci trq 460@2200
+ci etype Select Shift automatic
+ci disp 429
+ci b&s 4.36 & 3 1/29
+ci bhp 320@4400
+ci etype Dual downdraft
+ci etype V8 Overhead valve
+ci vlift Hydraulic
+ci comp 10.5
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci ign Distributor and coil
+ci exha Single
+ci rad Tubular and fin
+ci cool 19 1/10 Quarts
+ci ftype Premium
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Power Steering
+ci equip Automatic Speed Control
+ci equip Higher Ratio Rear Axle
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Door Locks
+ci equip Vinyl Roof
+ci equip Power Windows (side)
+ci equip Dual Rear Seat Speakers
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip Styled Aluminum Wheels
+ci equip Luxury Wheel Covers
+ci equip Wheel Covers Deluxe
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Tilt Steering Wheel
+ci equip Whisper-Aire Conditioning
+ci equip Six-Way Power Seat (Bench)
+ci equip Rear Window Defogger
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 4689, 0(\w)65(\w)([\dX]{6})
+clv 19118, 1970, Mercury, Marquis, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci series Marquis
+ci msrp $4047.00
+ci year 1970
+ci prod 1233
+ci origin United States
+ci make Mercury
+ci weight 4337
+ci doors 2
+ci maker Mercury
+ci model 76F
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci svc Dual hydraulic
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci rdiff 5
+ci fuel 24.1
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 54.3
+ci wbase 124
+ci ftred 63
+ci rtred 64
+ci length 224.3
+ci width 79.7
+ci disp 429
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Select Shift automatic
+ci cyl 8
+ci b&s 4.36 & 3 1/29
+ci bhp 320@4400
+ci mbear 5
+ci rhp 60.83
+ci etype V8 Overhead valve
+ci etype Dual downdraft
+ci comp 10.5
+ci vlift Hydraulic
+ci trq 460@2200
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci ftype Premium
+ci rad Tubular and fin
+ci cool 19 1/10 Quarts
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power Door Locks
+ci equip Automatic Speed Control
+ci equip Dual Rear Seat Speakers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Vinyl Roof
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Luxury Wheel Covers
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip Styled Aluminum Wheels
+ci equip Wheel Covers Deluxe
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Tilt Steering Wheel
+ci equip Whisper-Aire Conditioning
+ci equip Six-Way Power Seat (Bench)
+ci equip Rear Window Defogger
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 4690, 0(\w)41(\w)([\dX]{6})
+clv 19119, 1970, Mercury, Marquis, Formal Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci make Mercury
+ci series Marquis
+ci prod 829
+ci year 1970
+ci doors 2
+ci maker Mercury
+ci model 65M
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci svc Dual hydraulic
+ci trans 3.5
+ci oil 4
+ci rdiff 5
+ci fuel 24.1
+ci tcase -NA-
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci ftred 63
+ci wbase 124
+ci rtred 64
+ci height 54.3
+ci width 79.7
+ci length 224.3
+ci etype Select Shift automatic
+ci vlift Hydraulic
+ci trq 460@2200
+ci mbear 5
+ci disp 429
+ci b&s 4.36 & 3 1/29
+ci bhp 320@4400
+ci cyl 8
+ci rhp 60.83
+ci etype Dual downdraft
+ci etype V8 Overhead valve
+ci comp 10.5
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci ftype Premium
+ci rad Tubular and fin
+ci cool 19 1/10 Quarts
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power Door Locks
+ci equip Automatic Speed Control
+ci equip Dual Rear Seat Speakers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Vinyl Roof
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Luxury Wheel Covers
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip Styled Aluminum Wheels
+ci equip Wheel Covers Deluxe
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Tilt Steering Wheel
+ci equip Whisper-Aire Conditioning
+ci equip Six-Way Power Seat (Bench)
+ci equip Rear Window Defogger
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 4691, 0(\w)66(\w)([\dX]{6})
+clv 19120, 1970, Mercury, Marquis, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3852.00
+ci prod 5400
+ci series Marquis
+ci make Mercury
+ci origin United States
+ci year 1970
+ci doors 2
+ci weight 4072
+ci maker Mercury
+ci model 65F
+ci bsize 11 1/32
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci trans 3.5
+ci tcase -NA-
+ci oil 4
+ci fuel 24.1
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 54
+ci wbase 124
+ci ftred 63
+ci rtred 64
+ci length 224.3
+ci width 79.7
+ci disp 429
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Select Shift automatic
+ci cyl 8
+ci b&s 4.36 & 3 1/29
+ci bhp 320@4400
+ci trq 460@2200
+ci rhp 60.83
+ci etype V8 Overhead valve
+ci etype Dual downdraft
+ci comp 10.5
+ci vlift Hydraulic
+ci mbear 5
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci ftype Premium
+ci rad Tubular and fin
+ci cool 19 1/10 Quarts
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power Door Locks
+ci equip Automatic Speed Control
+ci equip Dual Rear Seat Speakers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Vinyl Roof
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Luxury Wheel Covers
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip Styled Aluminum Wheels
+ci equip Wheel Covers Deluxe
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Tilt Steering Wheel
+ci equip Whisper-Aire Conditioning
+ci equip Six-Way Power Seat (Bench)
+ci equip Rear Window Defogger
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 4692, 0(\w)68(\w)([\dX]{6})
+clv 19121, 1970, Mercury, Marquis, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series Marquis
+ci prod 7707
+ci msrp $3919.00
+ci make Mercury
+ci origin United States
+ci year 1970
+ci model 57F
+ci maker Mercury
+ci doors 4
+ci weight 4141
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci trans 3.5
+ci tcase -NA-
+ci oil 4
+ci fuel 24.1
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 54.1
+ci wbase 124
+ci ftred 63
+ci rtred 64
+ci length 224.3
+ci width 79.8
+ci disp 429
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Select Shift automatic
+ci cyl 8
+ci b&s 4.36 & 3 1/29
+ci bhp 320@4400
+ci trq 460@2200
+ci rhp 60.83
+ci etype V8 Overhead valve
+ci etype Dual downdraft
+ci comp 10.5
+ci vlift Hydraulic
+ci mbear 5
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci ftype Premium
+ci rad Tubular and fin
+ci cool 19 1/10 Quarts
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power Door Locks
+ci equip Automatic Speed Control
+ci equip Dual Rear Seat Speakers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Vinyl Roof
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Luxury Wheel Covers
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip Styled Aluminum Wheels
+ci equip Wheel Covers Deluxe
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Tilt Steering Wheel
+ci equip Whisper-Aire Conditioning
+ci equip Six-Way Power Seat (Bench)
+ci equip Rear Window Defogger
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 4693, 0(\w)42(\w)([\dX]{6})
+clv 19122, 1970, Mercury, Marquis, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series Marquis
+ci make Mercury
+ci prod 704
+ci origin United States
+ci year 1970
+ci model 57M
+ci maker Mercury
+ci doors 4
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci trans 3.5
+ci oil 4
+ci tcase -NA-
+ci fuel 24.1
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 54.3
+ci wbase 124
+ci ftred 63
+ci rtred 64
+ci length 224.3
+ci width 79.7
+ci etype Select Shift automatic
+ci vlift Hydraulic
+ci trq 460@2200
+ci cyl 8
+ci disp 429
+ci b&s 4.36 & 3 1/29
+ci bhp 320@4400
+ci mbear 5
+ci rhp 60.83
+ci etype Dual downdraft
+ci etype V8 Overhead valve
+ci comp 10.5
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci ftype Premium
+ci rad Tubular and fin
+ci cool 19 1/10 Quarts
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power Door Locks
+ci equip Automatic Speed Control
+ci equip Dual Rear Seat Speakers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Vinyl Roof
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Luxury Wheel Covers
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip Styled Aluminum Wheels
+ci equip Wheel Covers Deluxe
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Tilt Steering Wheel
+ci equip Whisper-Aire Conditioning
+ci equip Six-Way Power Seat (Bench)
+ci equip Rear Window Defogger
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 4694, 0(\w)40(\w)([\dX]{6})
+clv 19123, 1970, Mercury, Marquis, Hardtop Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Marquis
+ci prod 1143
+ci make Mercury
+ci year 1970
+ci origin United States
+ci maker Mercury
+ci model 53M
+ci doors 4
+ci bsize 11 1/32
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci trans 3.5
+ci fuel 24.1
+ci oil 4
+ci tcase -NA-
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci wbase 124
+ci height 54.3
+ci length 224.3
+ci ftred 63
+ci rtred 64
+ci width 79.7
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 60.83
+ci cyl 8
+ci trq 460@2200
+ci etype Select Shift automatic
+ci disp 429
+ci b&s 4.36 & 3 1/29
+ci bhp 320@4400
+ci etype Dual downdraft
+ci etype V8 Overhead valve
+ci comp 10.5
+ci mbear 5
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci ftype Premium
+ci rad Tubular and fin
+ci cool 19 1/10 Quarts
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power Door Locks
+ci equip Automatic Speed Control
+ci equip Dual Rear Seat Speakers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Vinyl Roof
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Luxury Wheel Covers
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip Styled Aluminum Wheels
+ci equip Wheel Covers Deluxe
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Tilt Steering Wheel
+ci equip Whisper-Aire Conditioning
+ci equip Six-Way Power Seat (Bench)
+ci equip Rear Window Defogger
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 4695, 0(\w)63(\w)([\dX]{6})
+clv 19124, 1970, Mercury, Marquis, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3793.00
+ci year 1970
+ci series Marquis
+ci make Mercury
+ci prod 13251
+ci origin United States
+ci model 53F
+ci weight 4121
+ci maker Mercury
+ci doors 4
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci tcase -NA-
+ci oil 4
+ci fuel 24.1
+ci rdiff 5
+ci trans 3.5
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 54.1
+ci wbase 124
+ci length 224.3
+ci ftred 63
+ci rtred 64
+ci width 79.8
+ci disp 429
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Select Shift automatic
+ci cyl 8
+ci b&s 4.36 & 3 1/29
+ci bhp 320@4400
+ci rhp 60.83
+ci mbear 5
+ci etype V8 Overhead valve
+ci etype Dual downdraft
+ci comp 10.5
+ci vlift Hydraulic
+ci trq 460@2200
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci ftype Premium
+ci rad Tubular and fin
+ci cool 19 1/10 Quarts
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power Door Locks
+ci equip Automatic Speed Control
+ci equip Dual Rear Seat Speakers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Vinyl Roof
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Luxury Wheel Covers
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip Styled Aluminum Wheels
+ci equip Wheel Covers Deluxe
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Tilt Steering Wheel
+ci equip Whisper-Aire Conditioning
+ci equip Six-Way Power Seat (Bench)
+ci equip Rear Window Defogger
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 4696, 0(\w)01(\w)([\dX]{6})
+clv 19125, 1970, Mercury, Montego 6, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 21298
+ci msrp $2473.00
+ci origin United States
+ci year 1970
+ci series Montego 6
+ci make Mercury
+ci doors 2
+ci weight 3161
+ci maker Mercury
+ci model 65A
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 4
+ci fuel 22
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 77.3
+ci wbase 117
+ci length 209.9
+ci ftred 60.5
+ci height 52.4
+ci rtred 60
+ci etype Inline 6. Overhead valve
+ci cyl 6
+ci trq 240@1600
+ci mbear 7
+ci disp 250
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 32.5
+ci b&s 3.68 & 3.91
+ci vlift Hydraulic
+ci bhp 155@4000
+ci etype Constant mesh
+ci comp 9.0
+ci color Exterior Colors
+co Black
+co Competition Orange
+co Competition Yellow
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Gold Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+ci cool 10 2/5 Quarts
+ci cool Centrifugal water  pump
+ci batt 12
+ci ftype Regular
+ci rad Tubular and fin
+ci exha Single
+ci ign Distributor and coil
+ci equip Luxury Wheel Covers
+ci equip Wheel Covers Deluxe
+ci equip Vinyl Roof
+ci equip Tinted Glass (Complete)
+ci equip Styled Steel Wheels
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Optional Axle Ratios
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Operated Sun Roof
+ci equip Power Seat
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip AM-FM Stereo Radio
+ci equip Rear Facing Third Seat (Station Wagons)
+ci equip Rear Window Defogger
+ci equip Select Shift Automatic Transmission
+ci equip Select-Shift automatic transmission
+ci equip 429 cu. in. V8 engine
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci 1gear 2.99
+ci 5gear Not applicable
+ci rev 3.17
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 4697, 0(\w)02(\w)([\dX]{6})
+clv 19126, 1970, Mercury, Montego 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci msrp $2460.00
+ci origin United States
+ci prod 13988
+ci series Montego 6
+ci year 1970
+ci weight 3146
+ci doors 4
+ci model 54A
+ci maker Mercury
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci trans 3.5
+ci rdiff 4
+ci tcase -NA-
+ci fuel 22
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 77.3
+ci wbase 117
+ci ftred 60.5
+ci rtred 60
+ci height 53.2
+ci length 209.9
+ci b&s 3.68 & 3.91
+ci cyl 6
+ci trq 240@1600
+ci mbear 7
+ci disp 250
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 32.5
+ci etype Inline 6. Overhead valve
+ci vlift Hydraulic
+ci bhp 155@4000
+ci etype Constant mesh
+ci comp 9.0
+ci color Exterior Colors
+co Black
+co Competition Orange
+co Competition Yellow
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Gold Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+ci cool 10 2/5 Quarts
+ci cool Centrifugal water  pump
+ci batt 12
+ci ftype Regular
+ci rad Tubular and fin
+ci exha Single
+ci ign Distributor and coil
+ci equip Luxury Wheel Covers
+ci equip Wheel Covers Deluxe
+ci equip Vinyl Roof
+ci equip Tinted Glass (Complete)
+ci equip Styled Steel Wheels
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Optional Axle Ratios
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Operated Sun Roof
+ci equip Power Seat
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip AM-FM Stereo Radio
+ci equip Rear Facing Third Seat (Station Wagons)
+ci equip Rear Window Defogger
+ci equip Select Shift Automatic Transmission
+ci equip Select-Shift automatic transmission
+ci equip 429 cu. in. V8 engine
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci 1gear 2.99
+ci 5gear Not applicable
+ci rev 3.17
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 4698, 0(\w)07(\w)([\dX]{6})
+clv 19127, 1970, Mercury, Montego MX 6, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci series Montego MX 6
+ci origin United States
+ci prod 15533
+ci msrp $2563.00
+ci year 1970
+ci maker Mercury
+ci model 65B
+ci doors 2
+ci weight 3186
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci rdiff 4
+ci fuel 22
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 77.3
+ci wbase 117
+ci length 209.9
+ci ftred 60.5
+ci height 52.4
+ci rtred 60
+ci etype Single downdraft
+ci cyl 6
+ci rhp 32.5
+ci mbear 7
+ci b&s 3.68 & 3.91
+ci comp 9.0
+ci etype Inline 6. Overhead valve
+ci bhp 155@4000
+ci disp 250
+ci trq 240@1600
+ci etype Constant mesh
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci color Exterior Colors
+co Black
+co Competition Orange
+co Competition Yellow
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Gold Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci cool 10 2/5 Quarts
+ci equip Luxury Wheel Covers
+ci equip 429 cu. in. V8 engine
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip AM-FM Stereo Radio
+ci equip Tinted Glass (Complete)
+ci equip Styled Steel Wheels
+ci equip Vinyl Roof
+ci equip Optional Axle Ratios
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Operated Sun Roof
+ci equip Power Seat
+ci equip Power Steering
+ci equip Select Shift Automatic Transmission
+ci equip Wheel Covers Deluxe
+ci equip Rear Facing Third Seat (Station Wagons)
+ci equip Rear Window Defogger
+ci equip Whisper-Aire Conditioning
+ci equip Select-Shift automatic transmission
+ci equip Hi-Back Bucket Seats
+ci equip Power Windows (side)
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci gears 3
+ci 2gear 1.75
+ci 5gear Not applicable
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 4699, 0(\w)06(\w)([\dX]{6})
+clv 19128, 1970, Mercury, Montego MX 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 16708
+ci make Mercury
+ci origin United States
+ci series Montego MX 6
+ci msrp $2552.00
+ci year 1970
+ci doors 4
+ci maker Mercury
+ci weight 3153
+ci model 54B
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci oil 4
+ci tcase -NA-
+ci rdiff 4
+ci trans 3.5
+ci fuel 22
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 117
+ci rtred 60
+ci ftred 60.5
+ci length 209.9
+ci height 53.2
+ci width 77.3
+ci rhp 32.5
+ci cyl 6
+ci b&s 3.68 & 3.91
+ci mbear 7
+ci disp 250
+ci comp 9.0
+ci etype Inline 6. Overhead valve
+ci trq 240@1600
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 155@4000
+ci etype Constant mesh
+ci etype Single downdraft
+ci vlift Hydraulic
+ci color Exterior Colors
+co Black
+co Competition Orange
+co Competition Yellow
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Gold Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci cool 10 2/5 Quarts
+ci equip Luxury Wheel Covers
+ci equip 429 cu. in. V8 engine
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip AM-FM Stereo Radio
+ci equip Tinted Glass (Complete)
+ci equip Styled Steel Wheels
+ci equip Vinyl Roof
+ci equip Optional Axle Ratios
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Operated Sun Roof
+ci equip Power Seat
+ci equip Power Steering
+ci equip Select Shift Automatic Transmission
+ci equip Wheel Covers Deluxe
+ci equip Rear Facing Third Seat (Station Wagons)
+ci equip Rear Window Defogger
+ci equip Whisper-Aire Conditioning
+ci equip Select-Shift automatic transmission
+ci equip Hi-Back Bucket Seats
+ci equip Power Windows (side)
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci gears 3
+ci 2gear 1.75
+ci 5gear Not applicable
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 4700, 0(\w)08(\w)([\dX]{6})
+clv 19129, 1970, Mercury, Montego MX 6, Station Wagon
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 5094
+ci year 1970
+ci origin United States
+ci make Mercury
+ci series Montego MX 6
+ci msrp $2896.00
+ci maker Mercury
+ci model 71C
+ci weight 3609
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci trans 3.5
+ci rdiff 4
+ci oil 4
+ci tcase -NA-
+ci fuel 22
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 76
+ci wbase 117
+ci length 211.8
+ci ftred 60.5
+ci height 55.9
+ci rtred 60
+ci etype Single downdraft
+ci cyl 6
+ci mbear 7
+ci bhp 155@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.0
+ci etype Inline 6. Overhead valve
+ci rhp 32.5
+ci b&s 3.68 & 3.91
+ci disp 250
+ci etype Constant mesh
+ci trq 240@1600
+ci vlift Hydraulic
+ci color Exterior Colors
+co Black
+co Competition Orange
+co Competition Yellow
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Gold Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 10 2/5 Quarts
+ci rad Tubular and fin
+ci equip Power Brakes (disc front drm rear)
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Wheel Covers Deluxe
+ci equip Vinyl Roof
+ci equip Luxury Wheel Covers
+ci equip Tinted Glass (Complete)
+ci equip Optional Axle Ratios
+ci equip Other Tires
+ci equip 429 cu. in. V8 engine
+ci equip Power Operated Sun Roof
+ci equip Power Seat
+ci equip Power Steering
+ci equip Select-Shift automatic transmission
+ci equip AM-FM Stereo Radio
+ci equip Rear Facing Third Seat (Station Wagons)
+ci equip Rear Window Defogger
+ci equip Styled Steel Wheels
+ci equip Whisper-Aire Conditioning
+ci equip Hi-Back Bucket Seats
+ci equip Select Shift Automatic Transmission
+ci equip Power Windows (side)
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci rev 3.17
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4701, 0(\w)56(\w)([\dX]{6})
+clv 19130, 1970, Mercury, Monterey Custom, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1970
+ci origin United States
+ci make Mercury
+ci msrp $3365.00
+ci prod 1357
+ci series Monterey Custom
+ci doors 2
+ci model 65B
+ci maker Mercury
+ci weight 3936
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci tcase -NA-
+ci rdiff 5
+ci fuel 24.1
+ci oil 4
+ci trans 3.5
+ci carb Autolite
+ci csize 11 inches
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci width 79.7
+ci length 221.8
+ci wbase 124
+ci rtred 64
+ci height 53.7
+ci ftred 63
+ci b&s 4 3/64 & 3 25/32
+ci trq 390@2600
+ci disp 389.09
+ci cyl 8
+ci comp 9.5
+ci bhp 265@4400
+ci mbear 5
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci block Special alloy iron
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci rhp 52.41
+ci etype Dual downdraft
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci cool 19 1/10 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci equip Dual Rear Seat Speakers
+ci equip Automatic Speed Control
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip 429 cu. in. V8 engine
+ci equip Tilt Steering Wheel
+ci equip Styled Aluminum Wheels
+ci equip Luxury Wheel Covers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Vinyl Roof
+ci equip Rear Window Defogger
+ci equip Six-Way Power Seat (Bench)
+ci equip Higher Ratio Rear Axle
+ci equip Wheel Covers Deluxe
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip Select-Shift automatic transmission
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci rev 2.33
+ci 2gear 1.61
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15
+ci sloc Trunk
+cls 4702, 0(\w)58(\w)([\dX]{6})
+clv 19131, 1970, Mercury, Monterey Custom, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1970
+ci origin United States
+ci make Mercury
+ci msrp $3436.00
+ci series Monterey Custom
+ci prod 1194
+ci model 57B
+ci weight 3987
+ci maker Mercury
+ci doors 4
+ci svc Dual hydraulic
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci oil 4
+ci fuel 24.1
+ci rdiff 5
+ci trans 3.5
+ci tcase -NA-
+ci carb Autolite
+ci ctype Single dry plate
+ci csize 11 inches
+ci diffr 3.0
+ci diff Hypoid
+ci rtred 64
+ci width 79.8
+ci length 221.8
+ci ftred 63
+ci height 53.8
+ci wbase 124
+ci rhp 52.41
+ci mbear 5
+ci block Special alloy iron
+ci cyl 8
+ci comp 9.5
+ci b&s 4 3/64 & 3 25/32
+ci trq 390@2600
+ci etype V8 Valve-in-head
+ci disp 389.09
+ci bhp 265@4400
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci cool 19 1/10 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci equip Dual Rear Seat Speakers
+ci equip Automatic Speed Control
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip 429 cu. in. V8 engine
+ci equip Tilt Steering Wheel
+ci equip Styled Aluminum Wheels
+ci equip Luxury Wheel Covers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Vinyl Roof
+ci equip Rear Window Defogger
+ci equip Six-Way Power Seat (Bench)
+ci equip Higher Ratio Rear Axle
+ci equip Wheel Covers Deluxe
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip Select-Shift automatic transmission
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci rev 2.33
+ci 2gear 1.61
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15
+ci sloc Trunk
+cls 4703, 0(\w)54(\w)([\dX]{6})
+clv 19132, 1970, Mercury, Monterey Custom, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3288.00
+ci origin United States
+ci series Monterey Custom
+ci make Mercury
+ci year 1970
+ci prod 4823
+ci model 54C
+ci maker Mercury
+ci weight 3945
+ci doors 4
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci rdiff 5
+ci fuel 24.1
+ci carb Autolite
+ci csize 11 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 221.8
+ci rtred 64
+ci width 79.8
+ci ftred 63
+ci height 55.9
+ci wbase 124
+ci rhp 52.41
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 9.5
+ci block Special alloy iron
+ci bhp 265@4400
+ci trq 390@2600
+ci etype V8 Valve-in-head
+ci disp 389.09
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci b&s 4 3/64 & 3 25/32
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci cool 19 1/10 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci equip Dual Rear Seat Speakers
+ci equip Automatic Speed Control
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip 429 cu. in. V8 engine
+ci equip Tilt Steering Wheel
+ci equip Styled Aluminum Wheels
+ci equip Luxury Wheel Covers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Vinyl Roof
+ci equip Rear Window Defogger
+ci equip Six-Way Power Seat (Bench)
+ci equip Higher Ratio Rear Axle
+ci equip Wheel Covers Deluxe
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip Select-Shift automatic transmission
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci rev 2.33
+ci 2gear 1.61
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15
+ci sloc Trunk
+cls 4704, 0(\w)74(\w)([\dX]{6})
+clv 19133, 1970, Mercury, Monterey Custom, Station Wagon 2-seat
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3540.00
+ci origin United States
+ci series Monterey Custom
+ci make Mercury
+ci year 1970
+ci prod 959
+ci model 71F
+ci maker Mercury
+ci doors 4
+ci weight 4361
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci svc Dual hydraulic
+ci tcase -NA-
+ci fuel 24.1
+ci trans 3.5
+ci rdiff 5
+ci oil 4
+ci carb Autolite
+ci ctype Single dry plate
+ci csize 11 inches
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 124
+ci rtred 64
+ci length 220.5
+ci height 56.8
+ci ftred 63
+ci width 79.8
+ci rhp 52.41
+ci disp 389.09
+ci cyl 8
+ci comp 9.5
+ci mbear 5
+ci block Special alloy iron
+ci etype Dual downdraft
+ci trq 390@2600
+ci etype V8 Valve-in-head
+ci b&s 4 3/64 & 3 25/32
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci bhp 265@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci cool 19 1/10 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci equip Rear Window Defogger
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip 429 cu. in. V8 engine
+ci equip Whisper-Aire Conditioning
+ci equip Wheel Covers Deluxe
+ci equip Vinyl Roof
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Dual Rear Seat Speakers
+ci equip Automatic Speed Control
+ci equip Tilt Steering Wheel
+ci equip Styled Aluminum Wheels
+ci equip Luxury Wheel Covers
+ci equip Six-Way Power Seat (Bench)
+ci equip Select Shift Automatic Transmission
+ci equip Select-Shift automatic transmission
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.33
+ci 2gear 1.61
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4705, 0(\w)74(\w)([\dX]{6})
+clv 19134, 1970, Mercury, Monterey Custom, Station Wagon 3-seat
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3540.00
+ci origin United States
+ci series Monterey Custom
+ci make Mercury
+ci year 1970
+ci prod 1429
+ci model 71G
+ci weight 4407
+ci maker Mercury
+ci doors 4
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci svc Dual hydraulic
+ci oil 4
+ci tcase -NA-
+ci rdiff 5
+ci trans 3.5
+ci fuel 24.1
+ci carb Autolite
+ci csize 11 inches
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci height 56.8
+ci width 79.8
+ci length 220.5
+ci wbase 124
+ci rtred 64
+ci ftred 63
+ci bhp 265@4400
+ci rhp 52.41
+ci mbear 5
+ci cyl 8
+ci comp 9.5
+ci block Special alloy iron
+ci etype Dual downdraft
+ci trq 390@2600
+ci etype V8 Valve-in-head
+ci disp 389.09
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci cool 19 1/10 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci equip Rear Window Defogger
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip 429 cu. in. V8 engine
+ci equip Whisper-Aire Conditioning
+ci equip Wheel Covers Deluxe
+ci equip Vinyl Roof
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Dual Rear Seat Speakers
+ci equip Automatic Speed Control
+ci equip Tilt Steering Wheel
+ci equip Styled Aluminum Wheels
+ci equip Luxury Wheel Covers
+ci equip Six-Way Power Seat (Bench)
+ci equip Select Shift Automatic Transmission
+ci equip Select-Shift automatic transmission
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.33
+ci 2gear 1.61
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4706, 0(\w)45(\w)([\dX]{6})
+clv 19135, 1970, Mercury, Monterey, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3429.00
+ci origin United States
+ci series Monterey
+ci make Mercury
+ci year 1970
+ci prod 581
+ci model 76A
+ci maker Mercury
+ci doors 2
+ci weight 4085
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci svc Dual hydraulic
+ci oil 4
+ci tcase -NA-
+ci rdiff 5
+ci fuel 24.1
+ci trans 3.5
+ci carb Autolite
+ci csize 11 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci ftred 63
+ci length 221.8
+ci wbase 124
+ci height 54
+ci rtred 64
+ci width 79.7
+ci trq 390@2600
+ci rhp 52.41
+ci b&s 4 3/64 & 3 25/32
+ci cyl 8
+ci comp 9.5
+ci block Special alloy iron
+ci disp 389.09
+ci mbear 5
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci bhp 265@4400
+ci etype Dual downdraft
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci cool 19 1/10 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci equip Dual Rear Seat Speakers
+ci equip Automatic Speed Control
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip 429 cu. in. V8 engine
+ci equip Tilt Steering Wheel
+ci equip Styled Aluminum Wheels
+ci equip Luxury Wheel Covers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Vinyl Roof
+ci equip Rear Window Defogger
+ci equip Six-Way Power Seat (Bench)
+ci equip Higher Ratio Rear Axle
+ci equip Wheel Covers Deluxe
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip Select-Shift automatic transmission
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci rev 2.33
+ci 2gear 1.61
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15
+ci sloc Trunk
+cls 4707, 0(\w)46(\w)([\dX]{6})
+clv 19136, 1970, Mercury, Monterey, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3107.00
+ci origin United States
+ci series Monterey
+ci make Mercury
+ci year 1970
+ci prod 9359
+ci model 65A
+ci maker Mercury
+ci doors 2
+ci weight 3904
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci svc Dual hydraulic
+ci oil 4
+ci tcase -NA-
+ci rdiff 5
+ci trans 3.5
+ci fuel 24.1
+ci carb Autolite
+ci csize 11 inches
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci ftred 63
+ci wbase 124
+ci width 79.7
+ci height 53.7
+ci length 221.8
+ci rtred 64
+ci bhp 265@4400
+ci rhp 52.41
+ci cyl 8
+ci comp 9.5
+ci mbear 5
+ci block Special alloy iron
+ci etype Dual downdraft
+ci trq 390@2600
+ci etype V8 Valve-in-head
+ci disp 389.09
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci cool 19 1/10 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci equip Rear Window Defogger
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip 429 cu. in. V8 engine
+ci equip Whisper-Aire Conditioning
+ci equip Wheel Covers Deluxe
+ci equip Vinyl Roof
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Dual Rear Seat Speakers
+ci equip Automatic Speed Control
+ci equip Tilt Steering Wheel
+ci equip Styled Aluminum Wheels
+ci equip Luxury Wheel Covers
+ci equip Six-Way Power Seat (Bench)
+ci equip Select Shift Automatic Transmission
+ci equip Select-Shift automatic transmission
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.33
+ci 2gear 1.61
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4708, 0(\w)48(\w)([\dX]{6})
+clv 19137, 1970, Mercury, Monterey, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3179.00
+ci origin United States
+ci series Monterey
+ci make Mercury
+ci year 1970
+ci prod 5032
+ci model 57A
+ci maker Mercury
+ci weight 3975
+ci doors 4
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci fuel 24.1
+ci rdiff 5
+ci carb Autolite
+ci ctype Single dry plate
+ci csize 11 inches
+ci diffr 3.0
+ci diff Hypoid
+ci length 221.8
+ci width 79.8
+ci rtred 64
+ci ftred 63
+ci wbase 124
+ci height 53.8
+ci rhp 52.41
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 9.5
+ci block Special alloy iron
+ci bhp 265@4400
+ci trq 390@2600
+ci etype V8 Valve-in-head
+ci disp 389.09
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci b&s 4 3/64 & 3 25/32
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci cool 19 1/10 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci equip Dual Rear Seat Speakers
+ci equip Automatic Speed Control
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip 429 cu. in. V8 engine
+ci equip Tilt Steering Wheel
+ci equip Styled Aluminum Wheels
+ci equip Luxury Wheel Covers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Vinyl Roof
+ci equip Rear Window Defogger
+ci equip Six-Way Power Seat (Bench)
+ci equip Higher Ratio Rear Axle
+ci equip Wheel Covers Deluxe
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip Select-Shift automatic transmission
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci rev 2.33
+ci 2gear 1.61
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15
+ci sloc Trunk
+cls 4709, 0(\w)44(\w)([\dX]{6})
+clv 19138, 1970, Mercury, Monterey, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Monterey
+ci origin United States
+ci msrp $3029.00
+ci year 1970
+ci make Mercury
+ci prod 29432
+ci weight 3940
+ci model 54A
+ci maker Mercury
+ci doors 4
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci rdiff 5
+ci fuel 24.1
+ci oil 4
+ci tcase -NA-
+ci trans 3.5
+ci carb Autolite
+ci ctype Single dry plate
+ci csize 11 inches
+ci diff Hypoid
+ci diffr 3.0
+ci ftred 63
+ci rtred 64
+ci width 79.8
+ci height 55.9
+ci wbase 124
+ci length 221.8
+ci mbear 5
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci cyl 8
+ci comp 9.5
+ci trq 390@2600
+ci disp 389.09
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 265@4400
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci rhp 52.41
+ci etype Dual downdraft
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci cool 19 1/10 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci equip Dual Rear Seat Speakers
+ci equip Automatic Speed Control
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip 429 cu. in. V8 engine
+ci equip Tilt Steering Wheel
+ci equip Styled Aluminum Wheels
+ci equip Luxury Wheel Covers
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Vinyl Roof
+ci equip Rear Window Defogger
+ci equip Six-Way Power Seat (Bench)
+ci equip Higher Ratio Rear Axle
+ci equip Wheel Covers Deluxe
+ci equip Remote Control Trunk Release
+ci equip Select Shift Automatic Transmission
+ci equip Select-Shift automatic transmission
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci rev 2.33
+ci 2gear 1.61
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15
+ci sloc Trunk
+cls 4710, 0(\w)72(\w)([\dX]{6})
+clv 19139, 1970, Mercury, Monterey, Station Wagon 2-seat
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1970
+ci origin United States
+ci msrp $3440.00
+ci make Mercury
+ci series Monterey
+ci prod 1657
+ci model 71B
+ci maker Mercury
+ci weight 4249
+ci doors 4
+ci bsize 11 1/32
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci oil 4
+ci tcase -NA-
+ci rdiff 5
+ci trans 3.5
+ci fuel 24.1
+ci carb Autolite
+ci csize 11 inches
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci height 56.8
+ci width 79.8
+ci length 218
+ci wbase 124
+ci rtred 64
+ci ftred 63
+ci bhp 265@4400
+ci rhp 52.41
+ci mbear 5
+ci cyl 8
+ci comp 9.5
+ci block Special alloy iron
+ci etype Dual downdraft
+ci trq 390@2600
+ci etype V8 Valve-in-head
+ci disp 389.09
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci cool 19 1/10 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci equip Rear Window Defogger
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip 429 cu. in. V8 engine
+ci equip Whisper-Aire Conditioning
+ci equip Wheel Covers Deluxe
+ci equip Vinyl Roof
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Dual Rear Seat Speakers
+ci equip Automatic Speed Control
+ci equip Tilt Steering Wheel
+ci equip Styled Aluminum Wheels
+ci equip Luxury Wheel Covers
+ci equip Six-Way Power Seat (Bench)
+ci equip Select Shift Automatic Transmission
+ci equip Select-Shift automatic transmission
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.33
+ci 2gear 1.61
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4711, 0(\w)72(\w)([\dX]{6})
+clv 19140, 1970, Mercury, Monterey, Station Wagon 3-seat
+ser 6 500000 999999
+ci axle Semifloating
+ci series Monterey
+ci origin United States
+ci prod 3507
+ci make Mercury
+ci msrp $3440.00
+ci year 1970
+ci model 71C
+ci weight 4341
+ci maker Mercury
+ci doors 4
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci svc Dual hydraulic
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci rdiff 5
+ci fuel 24.1
+ci carb Autolite
+ci csize 11 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 218
+ci wbase 124
+ci width 79.8
+ci rtred 64
+ci ftred 63
+ci height 56.8
+ci rhp 52.41
+ci mbear 5
+ci etype Dual downdraft
+ci cyl 8
+ci comp 9.5
+ci block Special alloy iron
+ci trq 390@2600
+ci disp 389.09
+ci etype V8 Valve-in-head
+ci bhp 265@4400
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Light Gold
+co Light Gray Metallic
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Bronze Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Dark Maroon
+co Upper-Black/Lower-Ivy Green Metallic
+co Upper-Black/Lower-Light Gold
+co Upper-Black/Lower-Light Gray Metallic
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Medium Blue Metallic
+co Upper-Black/Lower-Medium Bronze Metallic
+co Upper-Black/Lower-Medium Brown Metallic
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Pastel Blue
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue
+co Upper-White/Lower-Dark Ivy Green Mist
+co Upper-White/Lower-Dark Maroon
+co Upper-White/Lower-Light Gold
+co Upper-White/Lower-Light Gray Metallic
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Bronze Metallic
+co Upper-White/Lower-Medium Brown Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Ivy Green Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci cool 19 1/10 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci equip Rear Window Defogger
+ci equip AM FM Stereo Radio 2 Front and 2 Rear Speakers
+ci equip 429 cu. in. V8 engine
+ci equip Whisper-Aire Conditioning
+ci equip Wheel Covers Deluxe
+ci equip Vinyl Roof
+ci equip Other Tires
+ci equip Power Antenna
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip Dual Rear Seat Speakers
+ci equip Automatic Speed Control
+ci equip Tilt Steering Wheel
+ci equip Styled Aluminum Wheels
+ci equip Luxury Wheel Covers
+ci equip Six-Way Power Seat (Bench)
+ci equip Select Shift Automatic Transmission
+ci equip Select-Shift automatic transmission
+ci equip Higher Ratio Rear Axle
+ci equip Remote Control Trunk Release
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.33
+ci 2gear 1.61
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4712, 0(\w)11(\w)([\dX]{6})
+clv 19141, 1970, Mercury, MX Brougham 6, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 8074
+ci make Mercury
+ci origin United States
+ci year 1970
+ci msrp $2730.00
+ci series MX Brougham 6
+ci weight 3186
+ci maker Mercury
+ci doors 2
+ci model 65C
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 22
+ci oil 4
+ci rdiff 4
+ci trans 3.5
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci rtred 60
+ci wbase 117
+ci width 77.3
+ci height 52.4
+ci length 209.9
+ci ftred 60.5
+ci bhp 155@4000
+ci cyl 6
+ci mbear 7
+ci rhp 32.5
+ci etype Inline 6. Overhead valve
+ci comp 9.0
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci trq 240@1600
+ci vlift Hydraulic
+ci etype Constant mesh
+ci disp 250
+ci b&s 3.68 & 3.91
+ci color Exterior Colors
+co Black
+co Competition Orange
+co Competition Yellow
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Gold Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci exha Single
+ci batt 12
+ci rad Tubular and fin
+ci cool 10 2/5 Quarts
+ci ftype Regular
+ci equip Power Steering
+ci equip Whisper-Aire Conditioning
+ci equip Wheel Covers Deluxe
+ci equip Vinyl Roof
+ci equip Tinted Glass (Complete)
+ci equip Styled Steel Wheels
+ci equip Optional Axle Ratios
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Operated Sun Roof
+ci equip Power Seat
+ci equip Luxury Wheel Covers
+ci equip Power Windows (side)
+ci equip AM-FM Stereo Radio
+ci equip Rear Window Defogger
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Select-Shift automatic transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select Shift Automatic Transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci gears 3
+ci 1gear 2.99
+ci rev 3.17
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 4713, 0(\w)12(\w)([\dX]{6})
+clv 19142, 1970, Mercury, MX Brougham 6, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2844.00
+ci series MX Brougham 6
+ci prod 3685
+ci year 1970
+ci origin United States
+ci make Mercury
+ci weight 3206
+ci model 57D
+ci maker Mercury
+ci doors 4
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci oil 4
+ci rdiff 4
+ci trans 3.5
+ci fuel 22
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 77.3
+ci rtred 60
+ci wbase 117
+ci length 209.9
+ci ftred 60.5
+ci height 52.4
+ci cyl 6
+ci bhp 155@4000
+ci rhp 32.5
+ci mbear 7
+ci b&s 3.68 & 3.91
+ci comp 9.0
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 240@1600
+ci disp 250
+ci vlift Hydraulic
+ci etype Constant mesh
+ci etype Inline 6. Overhead valve
+ci etype Single downdraft
+ci color Exterior Colors
+co Black
+co Competition Orange
+co Competition Yellow
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Gold Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci cool 10 2/5 Quarts
+ci rad Tubular and fin
+ci equip Power Steering
+ci equip Whisper-Aire Conditioning
+ci equip Wheel Covers Deluxe
+ci equip Vinyl Roof
+ci equip Tinted Glass (Complete)
+ci equip Styled Steel Wheels
+ci equip Optional Axle Ratios
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Operated Sun Roof
+ci equip Power Seat
+ci equip Luxury Wheel Covers
+ci equip Power Windows (side)
+ci equip AM-FM Stereo Radio
+ci equip Rear Window Defogger
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Select-Shift automatic transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select Shift Automatic Transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci gears 3
+ci 1gear 2.99
+ci rev 3.17
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 4714, 0(\w)10(\w)([\dX]{6})
+clv 19143, 1970, Mercury, MX Brougham 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2712.00
+ci series MX Brougham 6
+ci prod 3315
+ci year 1970
+ci origin United States
+ci make Mercury
+ci weight 3153
+ci model 54C
+ci maker Mercury
+ci doors 4
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci oil 4
+ci rdiff 4
+ci trans 3.5
+ci fuel 22
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 77.3
+ci rtred 60
+ci wbase 117
+ci ftred 60.5
+ci length 209.9
+ci height 53.2
+ci cyl 6
+ci bhp 155@4000
+ci rhp 32.5
+ci mbear 7
+ci b&s 3.68 & 3.91
+ci comp 9.0
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 240@1600
+ci disp 250
+ci vlift Hydraulic
+ci etype Constant mesh
+ci etype Inline 6. Overhead valve
+ci etype Single downdraft
+ci color Exterior Colors
+co Black
+co Competition Orange
+co Competition Yellow
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Gold Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci cool 10 2/5 Quarts
+ci rad Tubular and fin
+ci equip Power Steering
+ci equip Whisper-Aire Conditioning
+ci equip Wheel Covers Deluxe
+ci equip Vinyl Roof
+ci equip Tinted Glass (Complete)
+ci equip Styled Steel Wheels
+ci equip Optional Axle Ratios
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Operated Sun Roof
+ci equip Power Seat
+ci equip Luxury Wheel Covers
+ci equip Power Windows (side)
+ci equip AM-FM Stereo Radio
+ci equip Rear Window Defogger
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Select-Shift automatic transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select Shift Automatic Transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci gears 3
+ci 1gear 2.99
+ci rev 3.17
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 4715, 0(\w)18(\w)([\dX]{6})
+clv 19144, 1970, Mercury, MX Brougham 6, Station Wagon
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3098.00
+ci series MX Brougham 6
+ci origin United States
+ci year 1970
+ci prod 2682
+ci make Mercury
+ci maker Mercury
+ci doors 4
+ci model 71A
+ci weight 3624
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 4
+ci tcase -NA-
+ci fuel 22
+ci oil 4
+ci trans 3.5
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci length 211.8
+ci wbase 117
+ci width 76
+ci ftred 60.5
+ci height 55.9
+ci rtred 60
+ci cyl 6
+ci bhp 155@4000
+ci mbear 7
+ci etype Inline 6. Overhead valve
+ci rhp 32.5
+ci comp 9.0
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.68 & 3.91
+ci trq 240@1600
+ci disp 250
+ci etype Single downdraft
+ci vlift Hydraulic
+ci etype Constant mesh
+ci color Exterior Colors
+co Black
+co Competition Orange
+co Competition Yellow
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Gold Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue. Metallic
+co Medium Gold Metallic
+co Medium Ivy Green. Metallic
+co Pastel Blue
+co Red
+co White
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci batt 12
+ci cool 10 2/5 Quarts
+ci ftype Regular
+ci ign Distributor and coil
+ci equip Luxury Wheel Covers
+ci equip Wheel Covers Deluxe
+ci equip Vinyl Roof
+ci equip Tinted Glass (Complete)
+ci equip Styled Steel Wheels
+ci equip Optional Axle Ratios
+ci equip Other Tires
+ci equip Power Brakes (disc front drm rear)
+ci equip Power Operated Sun Roof
+ci equip Power Seat
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip AM-FM Stereo Radio
+ci equip Rear Window Defogger
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Select-Shift automatic transmission
+ci equip 429 cu. in. V8 engine
+ci equip Select Shift Automatic Transmission
+ci equip Whisper-Aire Conditioning
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.99
+ci gears 3
+ci 5gear Not applicable
+ci rev 3.17
+ci 2gear 1.75
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk

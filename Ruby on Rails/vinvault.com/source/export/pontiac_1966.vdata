@@ -1,0 +1,3066 @@
+cls 6709, 262676(\w)([\dX]{6})
+clv 26366, 1966, Pontiac, Bonneville, Convertible
+ci axle Semifloating
+ci msrp $3586.00
+ci origin United States
+ci series Bonneville
+ci prod 16299
+ci year 1966
+ci make Pontiac
+ci model 26267
+ci weight 4015
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci trans 2.75
+ci tcase -NA-
+ci fuel 26.5
+ci rdiff 4.5
+ci oil 5
+ci carb Carter
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 123
+ci width 79.6
+ci rtred 64
+ci length 221.8
+ci ftred 63
+ci height 54.9
+ci rhp 52.81
+ci mbear 5
+ci comp 10.5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 1/16 & 3 3/4
+ci block Alloy cast iron
+ci etype V8 Valve-in-head
+ci disp 388.86
+ci etype Synchro-mesh
+ci bhp 333@5000
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci trq 429@3200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci rad Tube and center
+ci ftype Regular
+ci cool 20 Quarts
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power vent windows
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 2.42
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.61
+ci rev 2.33
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 6710, 262396(\w)([\dX]{6})
+clv 26367, 1966, Pontiac, Bonneville, Hardtop
+ci axle Semifloating
+ci prod 68646
+ci origin United States
+ci year 1966
+ci make Pontiac
+ci series Bonneville
+ci msrp $3428.00
+ci maker Fisher
+ci weight 4070
+ci doors 4
+ci model 26239
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 2.75
+ci rdiff 4.5
+ci oil 5
+ci tcase -NA-
+ci fuel 26.5
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.23
+ci diff Hypoid
+ci length 221.8
+ci width 79.6
+ci wbase 123
+ci rtred 64
+ci height 54.3
+ci ftred 63
+ci b&s 4 1/16 & 3 3/4
+ci mbear 5
+ci trq 429@3200
+ci cyl 8
+ci rhp 52.81
+ci disp 388.86
+ci block Alloy cast iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Synchro-mesh
+ci comp 10.5
+ci etype V8 Valve-in-head
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci bhp 333@5000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool 20 Quarts
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci rev 2.33
+ci 3gear 1
+ci 1gear 2.42
+ci 2gear 1.61
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 6711, 262376(\w)([\dX]{6})
+clv 26368, 1966, Pontiac, Bonneville, Hardtop Coupe
+ci axle Semifloating
+ci make Pontiac
+ci prod 42004
+ci origin United States
+ci msrp $3354.00
+ci year 1966
+ci series Bonneville
+ci doors 2
+ci weight 4020
+ci model 26287
+ci maker Fisher
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 26.5
+ci oil 5
+ci trans 2.75
+ci rdiff 4.5
+ci carb Carter
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci height 54.3
+ci wbase 123
+ci length 221.8
+ci width 79.6
+ci rtred 64
+ci ftred 63
+ci bhp 333@5000
+ci rhp 52.81
+ci disp 388.86
+ci cyl 8
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci block Alloy cast iron
+ci b&s 4 1/16 & 3 3/4
+ci etype Synchro-mesh
+ci trq 429@3200
+ci comp 10.5
+ci mbear 5
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ftype Regular
+ci ign Distributor and coil
+ci cool 20 Quarts
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.42
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.33
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 6712, 262456(\w)([\dX]{6})
+clv 26369, 1966, Pontiac, Bonneville, Safari - 3 seat
+ci axle Semifloating
+ci series Bonneville
+ci origin United States
+ci msrp $3747.00
+ci prod 8452
+ci year 1966
+ci make Pontiac
+ci pass 9
+ci doors 4
+ci weight 4390
+ci model 26245
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci oil 5
+ci tcase -NA-
+ci trans 2.75
+ci fuel 26.5
+ci rdiff 4.5
+ci carb Carter
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci height 56
+ci width 79.6
+ci wbase 123
+ci ftred 63
+ci rtred 64
+ci cyl 8
+ci rhp 52.81
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci etype Synchro-mesh
+ci comp 10.5
+ci block Alloy cast iron
+ci b&s 4 1/16 & 3 3/4
+ci trq 429@3200
+ci bhp 333@5000
+ci etype V8 Valve-in-head
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci disp 388.86
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool 20 Quarts
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci rev 2.33
+ci 3gear 1
+ci 1gear 2.42
+ci 2gear 1.61
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 6713, 254676(\w)([\dX]{6})
+clv 26370, 1966, Pontiac, Catalina 2 + 2, Convertible
+ci axle Semifloating
+ci series Catalina 2 + 2
+ci origin United States
+ci msrp $3602.00
+ci year 1966
+ci prod 6383
+ci make Pontiac
+ci doors 2
+ci maker Fisher
+ci weight 4030
+ci model 25467
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci trans 2.75
+ci fuel 26.5
+ci tcase -NA-
+ci oil 5
+ci rdiff 4.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.42
+ci width 79.6
+ci wbase 121
+ci length 214.8
+ci rtred 64
+ci height 54.9
+ci ftred 63
+ci b&s 4 3/32 & 4
+ci rhp 53.6
+ci mbear 5
+ci cyl 8
+ci trq 459@2800
+ci etype Synchro-mesh
+ci disp 421
+ci comp 10.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci bhp 338@4600
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ftype Premium
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci cool 19.5 Quarts
+ci exha Dual
+ci cool Water pump
+ci equip Radio
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Air conditioning
+ci equip Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 2.33
+ci 1gear 2.42
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.61
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 6714, 254376(\w)([\dX]{6})
+clv 26371, 1966, Pontiac, Catalina 2 + 2, Hardtop Coupe
+ci axle Semifloating
+ci series Catalina 2 + 2
+ci origin United States
+ci msrp $3298.00
+ci year 1966
+ci prod 6383
+ci make Pontiac
+ci doors 2
+ci maker Fisher
+ci weight 4005
+ci model 25437
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci trans 2.75
+ci fuel 26.5
+ci tcase -NA-
+ci oil 5
+ci rdiff 4.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.42
+ci width 79.6
+ci wbase 121
+ci length 214.8
+ci rtred 64
+ci height 54.3
+ci ftred 63
+ci b&s 4 3/32 & 4
+ci rhp 53.6
+ci mbear 5
+ci cyl 8
+ci trq 459@2800
+ci etype Synchro-mesh
+ci disp 421
+ci comp 10.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci bhp 338@4600
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ftype Premium
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci cool 19.5 Quarts
+ci exha Dual
+ci cool Water pump
+ci equip Radio
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Air conditioning
+ci equip Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 2.33
+ci 1gear 2.42
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.61
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 6715, 252676(\w)([\dX]{6})
+clv 26372, 1966, Pontiac, Catalina, Convertible
+ci axle Semifloating
+ci msrp $3219.00
+ci origin United States
+ci series Catalina
+ci prod 14837
+ci year 1966
+ci make Pontiac
+ci model 25267
+ci weight 3860
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci trans 2.75
+ci oil 5
+ci tcase -NA-
+ci fuel 26.5
+ci rdiff 4.5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 120
+ci width 79.6
+ci length 214.8
+ci rtred 64
+ci height 54.9
+ci ftred 63
+ci rhp 52.81
+ci b&s 4 1/16 & 3 3/4
+ci cyl 8
+ci mbear 5
+ci comp 8.6
+ci trq 388@2400
+ci block Alloy cast iron
+ci etype V8 Valve-in-head
+ci disp 388.86
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Synchro-mesh
+ci bhp 256@4600
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci rad Tube and center
+ci ftype Regular
+ci cool 20 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power antenna
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power vent windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 2.42
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.61
+ci rev 2.33
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 6716, 252396(\w)([\dX]{6})
+clv 26373, 1966, Pontiac, Catalina, Hardtop
+ci axle Semifloating
+ci msrp $2968.00
+ci make Pontiac
+ci series Catalina
+ci year 1966
+ci origin United States
+ci prod 138805
+ci model 25239
+ci maker Fisher
+ci weight 3910
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci trans 2.75
+ci oil 5
+ci fuel 26.5
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.23
+ci height 54.3
+ci length 214.8
+ci wbase 120
+ci width 79.6
+ci rtred 64
+ci ftred 63
+ci etype V8 Valve-in-head
+ci rhp 52.81
+ci cyl 8
+ci b&s 4 1/16 & 3 3/4
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci block Alloy cast iron
+ci vlift Hydraulic
+ci etype Synchro-mesh
+ci trq 388@2400
+ci etype Dual downdraft
+ci mbear 5
+ci bhp 256@4600
+ci disp 388.86
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci cool 20 Quarts
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Power antenna
+ci equip Radio
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.61
+ci gears 3
+ci rev 2.33
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.42
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 6717, 252376(\w)([\dX]{6})
+clv 26374, 1966, Pontiac, Catalina, Hardtop Coupe
+ci axle Semifloating
+ci series Catalina
+ci prod 79013
+ci origin United States
+ci make Pontiac
+ci msrp $2893.00
+ci year 1966
+ci weight 3835
+ci doors 2
+ci maker Fisher
+ci model 25287
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci trans 2.75
+ci tcase -NA-
+ci fuel 26.5
+ci rdiff 4.5
+ci oil 5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci height 54.3
+ci length 214.8
+ci wbase 120
+ci width 79.6
+ci ftred 63
+ci rtred 64
+ci etype V8 Valve-in-head
+ci trq 388@2400
+ci cyl 8
+ci mbear 5
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci block Alloy cast iron
+ci vlift Hydraulic
+ci etype Synchro-mesh
+ci rhp 52.81
+ci etype Dual downdraft
+ci b&s 4 1/16 & 3 3/4
+ci bhp 256@4600
+ci disp 388.86
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci cool 20 Quarts
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Power antenna
+ci equip Radio
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.61
+ci gears 3
+ci rev 2.33
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.42
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 6718, 252356(\w)([\dX]{6})
+clv 26375, 1966, Pontiac, Catalina, Safari - 2 seat
+ci axle Semifloating
+ci make Pontiac
+ci origin United States
+ci series Catalina
+ci msrp $3217.00
+ci year 1966
+ci prod 21082
+ci weight 4250
+ci doors 4
+ci pass 6
+ci model 25235
+ci maker Fisher
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 26.5
+ci trans 2.75
+ci oil 5
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 120
+ci length 217.9
+ci rtred 64
+ci ftred 63
+ci width 79.6
+ci height 56
+ci rhp 52.81
+ci mbear 5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.6
+ci etype Synchro-mesh
+ci block Alloy cast iron
+ci etype V8 Valve-in-head
+ci trq 388@2400
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci bhp 256@4600
+ci b&s 4 1/16 & 3 3/4
+ci disp 388.86
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci cool 20 Quarts
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip Power antenna
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 3gear 1
+ci rev 2.33
+ci 5gear Not applicable
+ci 1gear 2.42
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 6719, 252456(\w)([\dX]{6})
+clv 26376, 1966, Pontiac, Catalina, Safari - 3 seat
+ci axle Semifloating
+ci series Catalina
+ci origin United States
+ci make Pontiac
+ci year 1966
+ci prod 12965
+ci msrp $3338.00
+ci model 25245
+ci pass 9
+ci doors 4
+ci weight 4315
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci trans 2.75
+ci fuel 26.5
+ci tcase -NA-
+ci oil 5
+ci rdiff 4.5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 217.9
+ci wbase 120
+ci width 79.6
+ci rtred 64
+ci ftred 63
+ci height 56
+ci rhp 52.81
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.6
+ci mbear 5
+ci etype Synchro-mesh
+ci block Alloy cast iron
+ci etype V8 Valve-in-head
+ci trq 388@2400
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci bhp 256@4600
+ci b&s 4 1/16 & 3 3/4
+ci disp 388.86
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci cool 20 Quarts
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip Power antenna
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 3gear 1
+ci rev 2.33
+ci 5gear Not applicable
+ci 1gear 2.42
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 6720, 252696(\w)([\dX]{6})
+clv 26377, 1966, Pontiac, Catalina, Sedan
+ci axle Semifloating
+ci make Pontiac
+ci msrp $2831.00
+ci origin United States
+ci year 1966
+ci prod 80483
+ci series Catalina
+ci maker Fisher
+ci doors 4
+ci model 25269
+ci weight 3785
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 2.75
+ci fuel 26.5
+ci tcase -NA-
+ci oil 5
+ci rdiff 4.5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci ftred 63
+ci height 54.3
+ci length 214.8
+ci wbase 120
+ci width 79.6
+ci rtred 64
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci disp 388.86
+ci comp 8.6
+ci trq 388@2400
+ci mbear 5
+ci block Alloy cast iron
+ci etype Synchro-mesh
+ci vlift Hydraulic
+ci bhp 256@4600
+ci etype Dual downdraft
+ci b&s 4 1/16 & 3 3/4
+ci rhp 52.81
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci cool 20 Quarts
+ci cool Water pump
+ci ftype Regular
+ci exha Single
+ci rad Tube and center
+ci batt 12
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power antenna
+ci equip Power windows
+ci equip Air conditioning
+ci equip Power vent windows
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.61
+ci rev 2.33
+ci gears 3
+ci 1gear 2.42
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 6721, 252116(\w)([\dX]{6})
+clv 26378, 1966, Pontiac, Catalina, Sedan
+ci axle Semifloating
+ci series Catalina
+ci prod 7925
+ci origin United States
+ci make Pontiac
+ci msrp $2762.00
+ci year 1966
+ci weight 3715
+ci doors 2
+ci maker Fisher
+ci model 25211
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci trans 2.75
+ci tcase -NA-
+ci fuel 26.5
+ci rdiff 4.5
+ci oil 5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci height 55.2
+ci length 214.8
+ci wbase 120
+ci width 79.6
+ci ftred 63
+ci rtred 64
+ci etype V8 Valve-in-head
+ci trq 388@2400
+ci cyl 8
+ci mbear 5
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci block Alloy cast iron
+ci vlift Hydraulic
+ci etype Synchro-mesh
+ci rhp 52.81
+ci etype Dual downdraft
+ci b&s 4 1/16 & 3 3/4
+ci bhp 256@4600
+ci disp 388.86
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci cool 20 Quarts
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Power antenna
+ci equip Radio
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.61
+ci gears 3
+ci rev 2.33
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.42
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 6722, 235676(\w)([\dX]{6})
+clv 26379, 1966, Pontiac, Custom Tempest, Convertible
+ci axle Semifloating
+ci prod 5557
+ci msrp $2655.00
+ci origin United States
+ci make Pontiac
+ci year 1966
+ci series Custom Tempest
+ci maker Fisher
+ci weight 3170
+ci doors 2
+ci model 23567
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci trans 2.75
+ci fuel 21.5
+ci rdiff 3
+ci tcase -NA-
+ci oil 5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.08
+ci length 206.4
+ci height 53.6
+ci wbase 115
+ci width 73.1
+ci rtred 59
+ci ftred 58
+ci mbear 7
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.87 & 3 1/4
+ci rhp 36
+ci comp 9.0
+ci etype Single downdraft
+ci disp 230
+ci etype Inline 6 overhead cam
+ci bhp 165@4700
+ci trq 216@2600
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci cool 13.5 Quarts
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 326 cu. in. V8 engine
+ci equip 2-Speed Automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 2gear 1.68
+ci 1gear 2.85
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 2.95
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 6723, 235396(\w)([\dX]{6})
+clv 26380, 1966, Pontiac, Custom Tempest, Hardtop
+ci axle Semifloating
+ci make Pontiac
+ci msrp $2547.00
+ci series Custom Tempest
+ci prod 10996
+ci origin United States
+ci year 1966
+ci maker Fisher
+ci doors 4
+ci model 23539
+ci weight 3195
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci oil 5
+ci fuel 21.5
+ci trans 2.75
+ci tcase -NA-
+ci rdiff 3
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.08
+ci length 206.4
+ci rtred 59
+ci width 73.1
+ci wbase 115
+ci ftred 58
+ci height 54
+ci rhp 36
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci b&s 3.87 & 3 1/4
+ci comp 9.0
+ci etype Single downdraft
+ci disp 230
+ci etype Inline 6 overhead cam
+ci bhp 165@4700
+ci trq 216@2600
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci cool 13.5 Quarts
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 326 cu. in. V8 engine
+ci equip 2-Speed Automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 2gear 1.68
+ci 1gear 2.85
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 2.95
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 6724, 235176(\w)([\dX]{6})
+clv 26381, 1966, Pontiac, Custom Tempest, Hardtop Coupe
+ci axle Semifloating
+ci prod 31322
+ci msrp $2426.00
+ci origin United States
+ci make Pontiac
+ci year 1966
+ci series Custom Tempest
+ci maker Fisher
+ci weight 3075
+ci doors 2
+ci model 23517
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci oil 5
+ci fuel 21.5
+ci trans 2.75
+ci tcase -NA-
+ci rdiff 3
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.08
+ci length 206.4
+ci width 73.1
+ci rtred 59
+ci wbase 115
+ci ftred 58
+ci height 53.5
+ci rhp 36
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci b&s 3.87 & 3 1/4
+ci comp 9.0
+ci etype Single downdraft
+ci disp 230
+ci etype Inline 6 overhead cam
+ci bhp 165@4700
+ci trq 216@2600
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci cool 13.5 Quarts
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 326 cu. in. V8 engine
+ci equip 2-Speed Automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 2gear 1.68
+ci 1gear 2.85
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 2.95
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 6725, 235696(\w)([\dX]{6})
+clv 26382, 1966, Pontiac, Custom Tempest, Sedan
+ci axle Semifloating
+ci year 1966
+ci msrp $2415.00
+ci origin United States
+ci make Pontiac
+ci series Custom Tempest
+ci prod 23988
+ci maker Fisher
+ci weight 3100
+ci model 23569
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 21.5
+ci trans 2.75
+ci tcase -NA-
+ci rdiff 3
+ci oil 5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.08
+ci width 73.1
+ci rtred 59
+ci wbase 115
+ci length 206.4
+ci ftred 58
+ci height 54
+ci rhp 36
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci b&s 3.87 & 3 1/4
+ci comp 9.0
+ci etype Single downdraft
+ci disp 230
+ci etype Inline 6 overhead cam
+ci bhp 165@4700
+ci trq 216@2600
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci cool 13.5 Quarts
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 326 cu. in. V8 engine
+ci equip 2-Speed Automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 2gear 1.68
+ci 1gear 2.85
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 2.95
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 6726, 235076(\w)([\dX]{6})
+clv 26383, 1966, Pontiac, Custom Tempest, Sports Coupe
+ci axle Semifloating
+ci make Pontiac
+ci series Custom Tempest
+ci origin United States
+ci msrp $2362.00
+ci prod 17182
+ci year 1966
+ci model 23507
+ci maker Fisher
+ci weight 3060
+ci doors 2
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci trans 2.75
+ci oil 5
+ci fuel 21.5
+ci tcase -NA-
+ci rdiff 3
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.08
+ci diff Hypoid
+ci rtred 59
+ci length 206.4
+ci wbase 115
+ci width 73.1
+ci height 53.5
+ci ftred 58
+ci trq 216@2600
+ci cyl 6
+ci etype Inline 6 overhead cam
+ci mbear 7
+ci etype Single downdraft
+ci comp 9.0
+ci rhp 36
+ci bhp 165@4700
+ci b&s 3.87 & 3 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci disp 230
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci cool 13.5 Quarts
+ci ftype Regular
+ci cool Water pump
+ci equip Power windows
+ci equip Air conditioning
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip 326 cu. in. V8 engine
+ci equip 2-Speed Automatic transmission
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 2.85
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 6727, 235356(\w)([\dX]{6})
+clv 26384, 1966, Pontiac, Custom Tempest, Station Wagon 2-seat
+ci axle Semifloating
+ci year 1966
+ci make Pontiac
+ci msrp $2709.00
+ci origin United States
+ci series Custom Tempest
+ci prod 7614
+ci model 23535
+ci weight 3355
+ci maker Fisher
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 21.5
+ci trans 2.75
+ci rdiff 3
+ci oil 5
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.08
+ci length 204.4
+ci wbase 115
+ci width 73.1
+ci height 55.2
+ci ftred 58
+ci rtred 59
+ci disp 230
+ci mbear 7
+ci etype Inline 6 overhead cam
+ci etype Single downdraft
+ci cyl 6
+ci comp 9.0
+ci bhp 165@4700
+ci trq 216@2600
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.87 & 3 1/4
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci rhp 36
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci cool 13.5 Quarts
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power seats
+ci equip 2-Speed Automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip 326 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 2.95
+ci 2gear 1.68
+ci 5gear Not applicable
+ci 1gear 2.85
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 6728, 266576(\w)([\dX]{6})
+clv 26385, 1966, Pontiac, Grand Prix, Hardtop Coupe
+ci axle Semifloating
+ci msrp $3492.00
+ci origin United States
+ci series Grand Prix
+ci year 1966
+ci prod 36757
+ci make Pontiac
+ci model 26657
+ci doors 2
+ci maker Fisher
+ci weight 4015
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 26.5
+ci oil 5
+ci trans 2.75
+ci rdiff 4.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 120
+ci rtred 64
+ci width 79.6
+ci length 214.8
+ci ftred 63
+ci height 53.9
+ci rhp 52.81
+ci trq 429@3200
+ci b&s 4 1/16 & 3 3/4
+ci cyl 8
+ci comp 10.5
+ci disp 388.86
+ci block Alloy cast iron
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Synchro-mesh
+ci bhp 333@5000
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool 20 Quarts
+ci exha Dual
+ci ftype Premium
+ci rad Tube and center
+ci batt 12
+ci cool Water pump
+ci equip Power steering
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Speed control device
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.42
+ci 2gear 1.61
+ci rev 2.33
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 6729, 242676(\w)([\dX]{6})
+clv 26386, 1966, Pontiac, GTO, Convertible
+ci axle Semifloating
+ci prod 12798
+ci origin United States
+ci series GTO
+ci msrp $3082.00
+ci year 1966
+ci make Pontiac
+ci model 24267
+ci weight 3555
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci trans 2.75
+ci rdiff 3
+ci fuel 21.5
+ci tcase -NA-
+ci oil 5
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.55
+ci diff Hypoid
+ci height 53.6
+ci ftred 58
+ci wbase 115
+ci length 206.4
+ci width 74.4
+ci rtred 59
+ci cyl 8
+ci bhp 335@5000
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 52.81
+ci b&s 4 1/16 & 3 3/4
+ci disp 388.86
+ci comp 10.75
+ci block Alloy cast iron
+ci mbear 5
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci etype Downdraft 4-barrel
+ci etype Fully synchronous, 3-speed manual w/ Hurst floor shifter
+ci trq 431@3200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ftype Premium
+ci ign Distributor and coil
+ci exha Dual
+ci cool 20 Quarts
+ci rad Tube and center
+ci batt 12
+ci cool Water pump
+ci equip Air conditioning
+ci equip 2-Speed Automatic transmission
+ci equip Power windows
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 2.63
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 1gear 2.54
+ci 2gear 1.5
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 6730, 242176(\w)([\dX]{6})
+clv 26387, 1966, Pontiac, GTO, Hardtop Coupe
+ci axle Semifloating
+ci prod 73785
+ci msrp $2847.00
+ci origin United States
+ci make Pontiac
+ci year 1966
+ci series GTO
+ci weight 3465
+ci doors 2
+ci model 24217
+ci maker Fisher
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 5
+ci fuel 21.5
+ci tcase -NA-
+ci trans 2.75
+ci rdiff 3
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.55
+ci diff Hypoid
+ci width 74.4
+ci wbase 115
+ci length 206.4
+ci rtred 59
+ci height 54.2
+ci ftred 58
+ci block Alloy cast iron
+ci comp 10.75
+ci trq 431@3200
+ci b&s 4 1/16 & 3 3/4
+ci cyl 8
+ci disp 388.86
+ci etype V8 Valve-in-head
+ci rhp 52.81
+ci bhp 335@5000
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Fully synchronous, 3-speed manual w/ Hurst floor shifter
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci exha Dual
+ci ftype Premium
+ci batt 12
+ci cool 20 Quarts
+ci rad Tube and center
+ci cool Water pump
+ci equip 2-Speed Automatic transmission
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.5
+ci drive Rear wheel drive
+ci 1gear 2.54
+ci gears 3
+ci rev 2.63
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 6731, 242076(\w)([\dX]{6})
+clv 26388, 1966, Pontiac, GTO, Sports Coupe
+ci axle Semifloating
+ci year 1966
+ci origin United States
+ci series GTO
+ci msrp $2783.00
+ci prod 10363
+ci make Pontiac
+ci model 24207
+ci weight 3445
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci trans 2.75
+ci rdiff 3
+ci fuel 21.5
+ci tcase -NA-
+ci oil 5
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.55
+ci diff Hypoid
+ci height 54.2
+ci ftred 58
+ci wbase 115
+ci length 206.4
+ci width 74.4
+ci rtred 59
+ci cyl 8
+ci bhp 335@5000
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 52.81
+ci b&s 4 1/16 & 3 3/4
+ci disp 388.86
+ci comp 10.75
+ci block Alloy cast iron
+ci mbear 5
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci etype Downdraft 4-barrel
+ci etype Fully synchronous, 3-speed manual w/ Hurst floor shifter
+ci trq 431@3200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ftype Premium
+ci ign Distributor and coil
+ci exha Dual
+ci cool 20 Quarts
+ci rad Tube and center
+ci batt 12
+ci cool Water pump
+ci equip Air conditioning
+ci equip 2-Speed Automatic transmission
+ci equip Power windows
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 2.63
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 1gear 2.54
+ci 2gear 1.5
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 6732, 237676(\w)([\dX]{6})
+clv 26389, 1966, Pontiac, LeMans, Convertible
+ci axle Semifloating
+ci year 1966
+ci series LeMans
+ci origin United States
+ci prod 13080
+ci msrp $2806.00
+ci make Pontiac
+ci doors 2
+ci model 23767
+ci weight 3220
+ci maker Fisher
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci rdiff 3
+ci trans 2.75
+ci fuel 21.5
+ci oil 5
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci width 73.4
+ci length 206.4
+ci wbase 115
+ci rtred 59
+ci height 53.6
+ci ftred 58
+ci cyl 6
+ci trq 216@2600
+ci mbear 7
+ci etype Fully synchronous 3-speed manual
+ci bhp 165@4700
+ci comp 9.0
+ci b&s 3.87 & 3 1/4
+ci etype Inline 6 overhead cam
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 36
+ci disp 230
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci cool 13.5 Quarts
+ci ftype Regular
+ci cool Water pump
+ci equip Power windows
+ci equip 326 cu. in. V8 engine
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip 2-Speed Automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 2.85
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 6733, 237396(\w)([\dX]{6})
+clv 26390, 1966, Pontiac, LeMans, Hardtop
+ci axle Semifloating
+ci series LeMans
+ci msrp $2701.00
+ci prod 13897
+ci make Pontiac
+ci origin United States
+ci year 1966
+ci doors 4
+ci maker Fisher
+ci model 23739
+ci weight 3195
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci oil 5
+ci fuel 21.5
+ci trans 2.75
+ci tcase -NA-
+ci rdiff 3
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.08
+ci length 206.4
+ci rtred 59
+ci width 73.4
+ci wbase 115
+ci ftred 58
+ci height 54
+ci rhp 36
+ci cyl 6
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.87 & 3 1/4
+ci comp 9.0
+ci etype Single downdraft
+ci disp 230
+ci etype Inline 6 overhead cam
+ci trq 216@2600
+ci etype Fully synchronous 3-speed manual
+ci bhp 165@4700
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci cool 13.5 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool Water pump
+ci equip 326 cu. in. V8 engine
+ci equip 2-Speed Automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 2gear 1.68
+ci 1gear 2.85
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 2.95
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 6734, 237176(\w)([\dX]{6})
+clv 26391, 1966, Pontiac, LeMans, Hardtop Coupe
+ci axle Semifloating
+ci prod 78109
+ci msrp $2568.00
+ci origin United States
+ci make Pontiac
+ci year 1966
+ci series LeMans
+ci maker Fisher
+ci model 23717
+ci doors 2
+ci weight 3125
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci oil 5
+ci fuel 21.5
+ci trans 2.75
+ci tcase -NA-
+ci rdiff 3
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.08
+ci length 206.4
+ci width 73.4
+ci wbase 115
+ci height 53.5
+ci rtred 59
+ci ftred 58
+ci cyl 6
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 36
+ci b&s 3.87 & 3 1/4
+ci comp 9.0
+ci etype Single downdraft
+ci disp 230
+ci etype Inline 6 overhead cam
+ci trq 216@2600
+ci etype Fully synchronous 3-speed manual
+ci bhp 165@4700
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci cool 13.5 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool Water pump
+ci equip 326 cu. in. V8 engine
+ci equip 2-Speed Automatic transmission
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 2gear 1.68
+ci 1gear 2.85
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 2.95
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.35 x 14
+cls 6735, 237076(\w)([\dX]{6})
+clv 26392, 1966, Pontiac, LeMans, Sports Coupe
+ci axle Semifloating
+ci year 1966
+ci series LeMans
+ci origin United States
+ci prod 16654
+ci msrp $2505.00
+ci make Pontiac
+ci model 23707
+ci doors 2
+ci weight 3090
+ci maker Fisher
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci rdiff 3
+ci trans 2.75
+ci fuel 21.5
+ci oil 5
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci width 73.4
+ci length 206.4
+ci wbase 115
+ci rtred 59
+ci height 53.5
+ci ftred 58
+ci cyl 6
+ci trq 216@2600
+ci mbear 7
+ci etype Fully synchronous 3-speed manual
+ci bhp 165@4700
+ci comp 9.0
+ci b&s 3.87 & 3 1/4
+ci etype Inline 6 overhead cam
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 36
+ci disp 230
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci cool 13.5 Quarts
+ci ftype Regular
+ci cool Water pump
+ci equip Power windows
+ci equip 326 cu. in. V8 engine
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip 2-Speed Automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 2.85
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.35 x 14
+ci sloc Trunk
+cls 6736, 256396(\w)([\dX]{6})
+clv 26393, 1966, Pontiac, Star Chief/Executive, Hardtop
+ci axle Semifloating
+ci series Star Chief/Executive
+ci origin United States
+ci year 1966
+ci prod 10583
+ci make Pontiac
+ci msrp $3170.00
+ci weight 3980
+ci doors 4
+ci maker Fisher
+ci model 25639
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 4.5
+ci fuel 26.5
+ci oil 5
+ci trans 2.75
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 221.8
+ci width 79.6
+ci wbase 123
+ci rtred 64
+ci height 54.3
+ci ftred 63
+ci mbear 5
+ci rhp 52.81
+ci cyl 8
+ci b&s 4 1/16 & 3 3/4
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci block Alloy cast iron
+ci trq 388@2400
+ci etype V8 Valve-in-head
+ci etype Dual downdraft
+ci etype Synchro-mesh
+ci bhp 256@4600
+ci vlift Hydraulic
+ci disp 388.86
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ftype Regular
+ci rad Tube and center
+ci cool 20 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool Water pump
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power brakes
+ci equip Power antenna
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.61
+ci rev 2.33
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 6737, 256376(\w)([\dX]{6})
+clv 26394, 1966, Pontiac, Star Chief/Executive, Hardtop Coupe
+ci axle Semifloating
+ci msrp $3114.00
+ci origin United States
+ci make Pontiac
+ci prod 10140
+ci year 1966
+ci series Star Chief/Executive
+ci maker Fisher
+ci weight 3920
+ci doors 2
+ci model 25687
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 26.5
+ci oil 5
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 2.75
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 123
+ci width 79.6
+ci length 221.8
+ci rtred 64
+ci height 54.3
+ci ftred 63
+ci cyl 8
+ci mbear 5
+ci rhp 52.81
+ci b&s 4 1/16 & 3 3/4
+ci comp 8.6
+ci etype V8 Valve-in-head
+ci block Alloy cast iron
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 256@4600
+ci etype Dual downdraft
+ci disp 388.86
+ci trq 388@2400
+ci vlift Hydraulic
+ci etype Synchro-mesh
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci rad Tube and center
+ci cool Water pump
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Power brakes
+ci equip Speed control device
+ci equip Power antenna
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 3gear 1
+ci 2gear 1.61
+ci gears 3
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci rev 2.33
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 6738, 256696(\w)([\dX]{6})
+clv 26395, 1966, Pontiac, Star Chief/Executive, Sedan
+ci axle Semifloating
+ci prod 24489
+ci origin United States
+ci make Pontiac
+ci series Star Chief/Executive
+ci msrp $3244.00
+ci year 1966
+ci weight 3920
+ci model 25669
+ci maker Fisher
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 4.5
+ci fuel 26.5
+ci oil 5
+ci trans 2.75
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 221.8
+ci width 79.6
+ci wbase 123
+ci rtred 64
+ci height 55.2
+ci ftred 63
+ci mbear 5
+ci rhp 52.81
+ci cyl 8
+ci b&s 4 1/16 & 3 3/4
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci block Alloy cast iron
+ci trq 388@2400
+ci etype V8 Valve-in-head
+ci etype Dual downdraft
+ci etype Synchro-mesh
+ci bhp 256@4600
+ci vlift Hydraulic
+ci disp 388.86
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ftype Regular
+ci rad Tube and center
+ci cool 20 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool Water pump
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power brakes
+ci equip Power antenna
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.61
+ci rev 2.33
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.25 x 14
+cls 6739, 233696(\w)([\dX]{6})
+clv 26396, 1966, Pontiac, Tempest, Sedan
+ci axle Semifloating
+ci make Pontiac
+ci series Tempest
+ci msrp $2331.00
+ci prod 17392
+ci origin United States
+ci year 1966
+ci maker Fisher
+ci doors 4
+ci model 23369
+ci weight 3075
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci oil 5
+ci fuel 21.5
+ci rdiff 3
+ci trans 2.75
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.08
+ci length 206.4
+ci rtred 59
+ci wbase 115
+ci width 73.1
+ci ftred 58
+ci height 54
+ci rhp 36
+ci cyl 6
+ci b&s 3.87 & 3 1/4
+ci mbear 7
+ci etype Single downdraft
+ci comp 9.0
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 230
+ci etype Inline 6 overhead cam
+ci trq 216@2600
+ci etype Fully synchronous 3-speed manual
+ci bhp 165@4700
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci cool 13.5 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci cool Water pump
+ci equip Radio
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip 2-Speed Automatic transmission
+ci equip 326 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 2.85
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.95
+ci 2gear 1.68
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 6740, 233276(\w)([\dX]{6})
+clv 26397, 1966, Pontiac, Tempest, Sports Coupe
+ci axle Semifloating
+ci msrp $2278.00
+ci series Tempest
+ci make Pontiac
+ci year 1966
+ci origin United States
+ci prod 22266
+ci model 23327
+ci weight 3040
+ci doors 2
+ci maker Fisher
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci trans 2.75
+ci fuel 21.5
+ci tcase -NA-
+ci oil 5
+ci rdiff 3
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 115
+ci rtred 59
+ci length 206.4
+ci width 73.1
+ci height 53.5
+ci ftred 58
+ci etype Single downdraft
+ci cyl 6
+ci trq 216@2600
+ci mbear 7
+ci bhp 165@4700
+ci comp 9.0
+ci etype Fully synchronous 3-speed manual
+ci etype Inline 6 overhead cam
+ci b&s 3.87 & 3 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 36
+ci disp 230
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci cool 13.5 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 326 cu. in. V8 engine
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip 2-Speed Automatic transmission
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci rev 2.95
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 6741, 233356(\w)([\dX]{6})
+clv 26398, 1966, Pontiac, Tempest, Station Wagon 2-seat
+ci axle Semifloating
+ci year 1966
+ci prod 4095
+ci origin United States
+ci msrp $2624.00
+ci series Tempest
+ci make Pontiac
+ci doors 4
+ci weight 3340
+ci maker Fisher
+ci model 23335
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 21.5
+ci oil 5
+ci tcase -NA-
+ci trans 2.75
+ci rdiff 3
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.08
+ci diff Hypoid
+ci width 73.1
+ci wbase 115
+ci rtred 59
+ci length 204.4
+ci ftred 58
+ci height 55.2
+ci bhp 165@4700
+ci cyl 6
+ci mbear 7
+ci rhp 36
+ci b&s 3.87 & 3 1/4
+ci comp 9.0
+ci etype Inline 6 overhead cam
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 230
+ci etype Single downdraft
+ci vlift Hydraulic
+ci trq 216@2600
+ci etype Fully synchronous 3-speed manual
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Barrier Blue
+co Blue Charcoal
+co Burgandy
+co Cameo Ivory
+co Candelite Cream
+co Fontaine Blue
+co Marina Turquoise
+co Martinique Bronze
+co Mission Beige
+co Montero Red
+co Nightwatch Blue
+co Palmetto Green
+co Platinum
+co Reef Turquoise
+co Starlight Black
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci cool 13.5 Quarts
+ci rad Tube and center
+ci cool Water pump
+ci equip Power seats
+ci equip Power antenna
+ci equip Power brakes
+ci equip 2-Speed Automatic transmission
+ci equip Power steering
+ci equip Power windows
+ci equip 326 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 2gear 1.68
+ci 1gear 2.85
+ci 5gear Not applicable
+ci rev 2.95
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.35 x 14
+ci sloc Trunk

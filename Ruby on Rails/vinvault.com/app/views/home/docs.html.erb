@@ -1,0 +1,1155 @@
+<div style="padding: 10px;">
+
+<h1>VINVault API Documentation</h1>
+
+<p>Welcome to VINVault.com, and thank you for considering our data source.  We have carefully cultivated a accurate and reliable source of VIN data for North America, and we&#39;re proud to share it with our customers.</p>
+
+<p>Our data source is built for speed. We pre-cache a lot of the calculations on the server-side in order to provide the best response time possible for our customers.  If at any time you notice unacceptable speeds, or inaccurate data, please contact us at <a href="mailto:support@vinvault.com">support@vinvault.com</a>.</p>
+
+<p>The data service is built on Ruby on Rails, and provides a <a href="http://en.wikipedia.org/wiki/Representational_state_transfer">RESTful</a> solution for VIN data.  To that end most communication to the service will be in HTTP <strong>POST</strong>s that will create a <strong>Decode</strong> object in our database.  </p>
+
+<p>Each vehicle you decode will have a single <strong>Decode</strong> object representing it, no matter how many times you request that vehicle by VIN.  Your access is logged, though, by request. So if you make multiple requests for the same VIN you will always get back the same data, but each request will count against your subscriptions limitations.</p>
+
+<h2>API Request</h2>
+
+<h3>API End Points</h3>
+
+<p>There are two primary end points for the API: one for the Basic service and one for the Advanced.  They provide different views of the same data (Basic is simplistic, designed for light use, while the Advanced provides the full suite of data on each request).  </p>
+
+<p>If your subscription provides access to the Advanced API you can also make requests against the Basic API.</p>
+
+<table><thead>
+<tr>
+  <th>End Point</th>
+  <th>HTTP Verb</th>
+  <th>URI</th>
+</tr>
+</thead><tbody>
+<tr>
+  <td>Basic</td>
+  <td>POST</td>
+  <td><a href="http://vinvault.com/api/basic%5B.format%5D">http://vinvault.com/api/basic[.format]</a></td>
+</tr>
+<tr>
+  <td>Advanced</td>
+  <td>POST</td>
+  <td><a href="http://vinvault.com/api/decodes%5B.format%5D">http://vinvault.com/api/decodes[.format]</a></td>
+</tr>
+</tbody></table>
+
+<p>The API supports the following data formats.</p>
+
+<table><thead>
+<tr>
+  <th>Format</th>
+  <th>Suffix</th>
+  <th>Description</th>
+</tr>
+</thead><tbody>
+<tr>
+  <td><strong>JSON</strong></td>
+  <td>.json</td>
+  <td>default format</td>
+</tr>
+<tr>
+  <td><strong>XML</strong></td>
+  <td>.xml</td>
+  <td>XML format</td>
+</tr>
+<tr>
+  <td><strong>JSONP</strong></td>
+  <td>.js</td>
+  <td>AJAX requests</td>
+</tr>
+</tbody></table>
+
+<h3>API Parameters</h3>
+
+<table><thead>
+<tr>
+  <th>Parameter</th>
+  <th>Description</th>
+</tr>
+</thead><tbody>
+<tr>
+  <td><strong>vin</strong></td>
+  <td>Vehicle&#39;s VIN</td>
+</tr>
+<tr>
+  <td><strong>auth_key</strong></td>
+  <td>Your Authentication</td>
+</tr>
+<tr>
+  <td><strong>callback</strong></td>
+  <td>JSONP callback method name</td>
+</tr>
+</tbody></table>
+
+<p>You can find your API auth_key on your account&#39;s dashboard page when you log into VINVault.com.</p>
+
+<p>These parameters may be passed in the body of the POST to the API or in the query string.</p>
+
+<h3>API Versioning</h3>
+
+<p>We anticipate there being changes to the API over time, and therefore have implemented the API to support versioning.  You can request your query to be served by any version of the API, or simply default to the latest version.</p>
+
+<p>Instead of providing separate endpoints for each version of the API, we use the concept of requesting the version in the <a href="http://pivotallabs.com/api-versioning/">Accept Header</a>.  This provides a single API endpoint, requiring little updating to your end in the future.</p>
+
+<p>To request a specific version of the API you must pass in the header of your request a reference to the version you wish:</p>
+
+<pre><code>Accept: application/vnd.vindata.v&lt;version number&gt;
+</code></pre>
+
+<p>As of this writing the most current version is version 1, so the header value would be:</p>
+
+<pre><code>Accept: application/vnd.vindata.v1
+</code></pre>
+
+<p>This allows you to continue to use older API versions even after newer versions are available.  While the <code>Accept</code> header is optional, if you supply it from the start you will always get the version of the API you expect in the future.</p>
+
+<h3>Example API Requests</h3>
+
+<p>(The <code>auth_token</code> <strong>RLBVPvj8riQmRuPzcT</strong> always returns the same VIN: 1D7RB1CT8AS203937.  Feel free to use for demonstration purposes.)</p>
+
+<p>Basic API (XML output):</p>
+
+<pre><code>POST: http://vinvault.com/api/basic.xml?vin=1D7RB1CT8AS203937&amp;auth_token=RLBVPvj8riQmRuPzcT
+</code></pre>
+
+<p>Basic API (JSON output):</p>
+
+<pre><code>POST: http://vinvault.com/api/basic?vin=1D7RB1CT8AS203937&amp;auth_token=RLBVPvj8riQmRuPzcT
+</code></pre>
+
+<p>Advanced API (JSONP output):</p>
+
+<pre><code>POST: http://vinvault.com/api/decodes.js?vin=1D7RB1CT8AS203937&amp;auth_token=RLBVPvj8riQmRuPzcT&amp;callback=func_callbk
+</code></pre>
+
+<p>Advanced API (JSON output):</p>
+
+<pre><code>POST: http://vinvault.com/api/decodes?vin=1D7RB1CT8AS203937&amp;auth_token=RLBVPvj8riQmRuPzcT
+</code></pre>
+
+<h2>The API Response</h2>
+
+<p>The API will reply to each request with an HTTP response that includes the data requested, or an error code in the case that there was an issue.  </p>
+
+<p><em><strong>Note:</strong> The API will respond with a <strong>201 Created</strong> response even if there is an issue with the VIN such as an invalid checksum digit.  The decode is created, but flagged as being unsuccessful.  This allows the API to respond in the correct format with the status messages that will allow you to determine the cause of the unsuccessful result.</em></p>
+
+<p>The response will be provided in gzip format if the request includes </p>
+
+<h3>Response Codes</h3>
+
+<p>The HTTP response code will help you determine the overall status of your request.  Only a response code of 201 will actually return data.  The other codes will return an error message instead.</p>
+
+<p>HTTP status <strong>500</strong> indicates an error in the server&#39;s ability to respond to your request.  If you receive this response code please let us know the VIN and format you were attempting to request.</p>
+
+<table><thead>
+<tr>
+  <th>Code</th>
+  <th>Meaning</th>
+</tr>
+</thead><tbody>
+<tr>
+  <td><strong>201</strong></td>
+  <td>Successful decode</td>
+</tr>
+<tr>
+  <td><strong>401</strong></td>
+  <td>Plan authorization failure</td>
+</tr>
+<tr>
+  <td><strong>403</strong></td>
+  <td>Account authentication failure</td>
+</tr>
+<tr>
+  <td><strong>404</strong></td>
+  <td>Unknown format (not .js, .xml, or .json)</td>
+</tr>
+<tr>
+  <td><strong>500</strong></td>
+  <td>Server error, please <a href="mailto:support@vinvault.com">contact us</a>.</td>
+</tr>
+</tbody></table>
+
+<h3>Response Body</h3>
+
+<p>The service will supply in the body of the response the data representing the vehicle when the code is a <strong>201</strong>.  The overall format of the data is as follows:</p>
+
+<p><strong>XML format</strong></p>
+
+<pre><code>&lt;decode api_version=&#39;1&#39; id=&#39;139&#39; vin=&#39;JB3BM54J3PY006076&#39; year=&#39;1993&#39; make=&#39;Dodge&#39; series=&#39;Stealth&#39; success=&#39;true&#39; date=&#39;2013-10-20 00:30:11 UTC&#39; status=&#39;true&#39;&gt;
+  &lt;status name=&#39;VALID&#39; message=&#39;Successfully decoded VIN&#39;&gt;&lt;/status&gt;
+  &lt;status name=&#39;VALIDCHECK&#39; message=&#39;VIN has a valid checksum&#39;&gt;&lt;/status&gt;
+  &lt;status name=&#39;VALIDCHARACTERS&#39; message=&#39;VIN contains valid characters&#39;&gt;&lt;/status&gt;
+  &lt;status name=&#39;MATCH&#39; message=&#39;VIN matches vehicle pattern&#39;&gt;&lt;/status&gt;
+  &lt;trim id=&#39;32323&#39; name=&#39;ES&#39;&gt;
+  &lt;data category=&#39;Model Year&#39; value=&#39;1993&#39; unit=&#39;&#39; group=&#39;Basic&#39;&gt;&lt;/data&gt;
+  &lt;data category=&#39;Make&#39; value=&#39;Dodge&#39; unit=&#39;&#39; group=&#39;Basic&#39;&gt;&lt;/data&gt;
+  &lt;data category=&#39;Model&#39; value=&#39;Stealth&#39; unit=&#39;&#39; group=&#39;Basic&#39;&gt;&lt;/data&gt;
+  &lt;data category=&#39;Trim Level&#39; value=&#39;ES&#39; unit=&#39;&#39; group=&#39;Basic&#39;&gt;&lt;/data&gt;
+  &lt;data category=&#39;Origin&#39; value=&#39;Japan&#39; unit=&#39;&#39; group=&#39;Basic&#39;&gt;&lt;/data&gt;
+  &lt;data category=&#39;Body Type&#39; value=&#39;Hatchback 2 Dr&#39; unit=&#39;&#39; group=&#39;Basic&#39;&gt;&lt;/data&gt;
+  &lt;data category=&#39;Engine Type&#39; value=&#39;3.0L V6 DOHC 24V&#39; unit=&#39;&#39; group=&#39;Drivetrain&#39;&gt;&lt;/data&gt;
+  &lt;data category=&#39;Transmission (short)&#39; value=&#39;&#39; unit=&#39;&#39; group=&#39;Drivetrain&#39;&gt;
+  &lt;option id=&#39;1&#39;&gt;5M OD&lt;/option&gt;
+  &lt;option id=&#39;2&#39;&gt;4A OD&lt;/option&gt;
+  &lt;/data&gt;
+  &lt;data category=&#39;Transmission (long)&#39; value=&#39;&#39; unit=&#39;&#39; group=&#39;Drivetrain&#39;&gt;
+</code></pre>
+
+<h4><code>Decode</code> Node</h4>
+
+<p>Root node of the response.  Contains general information about the decode.</p>
+
+<table><thead>
+<tr>
+  <th>Attribute</th>
+  <th>Type</th>
+  <th>Value</th>
+</tr>
+</thead><tbody>
+<tr>
+  <td>api_version</td>
+  <td>integer</td>
+  <td>Version of API</td>
+</tr>
+<tr>
+  <td>id</td>
+  <td>integer</td>
+  <td>ID of decode</td>
+</tr>
+<tr>
+  <td>vin</td>
+  <td>string</td>
+  <td>Requested VIN</td>
+</tr>
+<tr>
+  <td>year</td>
+  <td>integer</td>
+  <td>Year of Manufacture</td>
+</tr>
+<tr>
+  <td>make</td>
+  <td>string</td>
+  <td>Manufacturer</td>
+</tr>
+<tr>
+  <td>series</td>
+  <td>string</td>
+  <td>Vehicle series name</td>
+</tr>
+<tr>
+  <td>status</td>
+  <td>boolean</td>
+  <td>Whether the response is a valid decode</td>
+</tr>
+<tr>
+  <td>date</td>
+  <td>DateTime</td>
+  <td>UTC date of decode</td>
+</tr>
+</tbody></table>
+
+<h4><code>Status</code> Node</h4>
+
+<p>The status nodes give information into the decoding process, describing why the decode provides valid or invalid information.</p>
+
+<table><thead>
+<tr>
+  <th>Attribute</th>
+  <th>Type</th>
+  <th>Value</th>
+</tr>
+</thead><tbody>
+<tr>
+  <td>name</td>
+  <td>String</td>
+  <td>Name of the status code</td>
+</tr>
+<tr>
+  <td>message</td>
+  <td>String</td>
+  <td>Message of status</td>
+</tr>
+</tbody></table>
+
+<p>The status code values are:</p>
+
+<table><thead>
+<tr>
+  <th>Name</th>
+  <th>Message</th>
+</tr>
+</thead><tbody>
+<tr>
+  <td><strong>EXPIRED</strong></td>
+  <td>User account has expired</td>
+</tr>
+<tr>
+  <td><strong>INVALIDCHARACTERS</strong></td>
+  <td>VIN contains invalid characters</td>
+</tr>
+<tr>
+  <td><strong>INVALIDCHECK</strong></td>
+  <td>VIN has an invalid checksum</td>
+</tr>
+<tr>
+  <td><strong>INVALIDLENGTH</strong></td>
+  <td>VIN is not 17 characters in length</td>
+</tr>
+<tr>
+  <td><strong>MATCH</strong></td>
+  <td>VIN matches vehicle pattern</td>
+</tr>
+<tr>
+  <td><strong>MISSINGVIN</strong></td>
+  <td>No VIN present</td>
+</tr>
+<tr>
+  <td><strong>NOMATCH</strong></td>
+  <td>VIN does not match vehicle in database</td>
+</tr>
+<tr>
+  <td><strong>SECURITY</strong></td>
+  <td>Invalid user account</td>
+</tr>
+<tr>
+  <td><strong>UNKNOWN</strong></td>
+  <td>Unknown status</td>
+</tr>
+<tr>
+  <td><strong>VALID</strong></td>
+  <td>Successfully decoded VIN</td>
+</tr>
+<tr>
+  <td><strong>VALIDCHARACTERS</strong></td>
+  <td>VIN contains valid characters</td>
+</tr>
+<tr>
+  <td><strong>VALIDCHECK</strong></td>
+  <td>VIN has a valid checksum</td>
+</tr>
+</tbody></table>
+
+<h4><code>Trim</code> Node</h4>
+
+<p>The <code>trim</code> node represents a specific trim level for the vehicle type decoded by the VIN.  In some cases vehicles have more than one trim type, so you can have multiple <code>trim</code> nodes in a decode.  Each <code>trim</code> node will also have a collection of <code>data</code> nodes that fully describe the trim level.</p>
+
+<table><thead>
+<tr>
+  <th>Attribute</th>
+  <th>Type</th>
+  <th>Value</th>
+</tr>
+</thead><tbody>
+<tr>
+  <td>name</td>
+  <td>String</td>
+  <td>Name of the status code</td>
+</tr>
+<tr>
+  <td>message</td>
+  <td>String</td>
+  <td>Message of status</td>
+</tr>
+</tbody></table>
+
+<h4><code>Data</code> Node</h4>
+
+<p>The actual data points for the particular <code>trim</code> node that it is a child.  One data point represents one particular category of information.</p>
+
+<table><thead>
+<tr>
+  <th>Attribute</th>
+  <th>Type</th>
+  <th>Value</th>
+</tr>
+</thead><tbody>
+<tr>
+  <td>category</td>
+  <td>String</td>
+  <td>Name of category of the node</td>
+</tr>
+<tr>
+  <td>unit</td>
+  <td>String</td>
+  <td>Unit of measure</td>
+</tr>
+<tr>
+  <td>value</td>
+  <td>String</td>
+  <td>Data for this category</td>
+</tr>
+<tr>
+  <td>group</td>
+  <td>String</td>
+  <td>The grouping header</td>
+</tr>
+</tbody></table>
+
+<h4><code>Option</code> Node</h4>
+
+<p>Some <code>data</code> nodes represent multiple choices (such as transmission or colors).  In these cases the possible values are provided as child nodes to the relevant <code>data</code> node.</p>
+
+<table><thead>
+<tr>
+  <th>Attribute</th>
+  <th>Type</th>
+  <th>Value</th>
+</tr>
+</thead><tbody>
+<tr>
+  <td>id</td>
+  <td>Integer</td>
+  <td>Unique ID of option</td>
+</tr>
+</tbody></table>
+
+<h3><code>Category</code> Values</h3>
+
+<p>Each <code>data</code> node has a <code>category</code> property that defines the type of data that is represented.  The following is a list of all the defined category types:</p>
+
+<table><thead>
+<tr>
+  <th>Categories</th>
+  <th>Group</th>
+</tr>
+</thead><tbody>
+<tr>
+  <td>4WD/AWD</td>
+  <td>Drivetrain</td>
+</tr>
+<tr>
+  <td>ABS Brakes</td>
+  <td>Braking</td>
+</tr>
+<tr>
+  <td>AM/FM Radio</td>
+  <td>Entertainment</td>
+</tr>
+<tr>
+  <td>Adjustable Foot Pedals</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Air Conditioning</td>
+  <td>Comfort</td>
+</tr>
+<tr>
+  <td>Alloy Wheels</td>
+  <td>Wheels and Tires</td>
+</tr>
+<tr>
+  <td>Anti-Brake System</td>
+  <td>Braking</td>
+</tr>
+<tr>
+  <td>Automatic Headlights</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Automatic Load-Leveling</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Basic (distance)</td>
+  <td>Warranty</td>
+</tr>
+<tr>
+  <td>Basic (duration)</td>
+  <td>Warranty</td>
+</tr>
+<tr>
+  <td>Body Type</td>
+  <td>Basic</td>
+</tr>
+<tr>
+  <td>CD Changer</td>
+  <td>Entertainment</td>
+</tr>
+<tr>
+  <td>CD Player</td>
+  <td>Entertainment</td>
+</tr>
+<tr>
+  <td>Cargo Area Cover</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Cargo Area Tiedowns</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Cargo Length</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Cargo Net</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Cargo Volume</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Cassette Player</td>
+  <td>Entertainment</td>
+</tr>
+<tr>
+  <td>Child Safety Door Locks</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Chrome Wheels</td>
+  <td>Wheels and Tires</td>
+</tr>
+<tr>
+  <td>Cruise Control</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Curb Weight</td>
+  <td>Weight</td>
+</tr>
+<tr>
+  <td>DVD Player</td>
+  <td>Entertainment</td>
+</tr>
+<tr>
+  <td>Daytime Running Lights</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Dealer Invoice</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Depth</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Destination Charge</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Doors</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Driveline</td>
+  <td>Drivetrain</td>
+</tr>
+<tr>
+  <td>Driver Airbag</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Driver Multi-Adjustable Power Seat</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Electrochromic Exterior Rearview Mirror</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Electronic Brake Assistance</td>
+  <td>Braking</td>
+</tr>
+<tr>
+  <td>Electronic Parking Aid</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Engine Type</td>
+  <td>Drivetrain</td>
+</tr>
+<tr>
+  <td>Exterior Color</td>
+  <td>Colors</td>
+</tr>
+<tr>
+  <td>Fog Lights</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Front Air Dam</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Front Brake Type</td>
+  <td>Braking</td>
+</tr>
+<tr>
+  <td>Front Cooled Seat</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Front Headroom</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Front Heated Seat</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Front Hip Room</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Front Legroom</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Front Power Lumbar Support</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Front Power Memory Seat</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Front Shoulder Room</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Front Side Airbag</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Front Side Airbag with Head Protection</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Front Split Bench Seat</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Front Spring Type</td>
+  <td>Suspension</td>
+</tr>
+<tr>
+  <td>Front Suspension</td>
+  <td>Suspension</td>
+</tr>
+<tr>
+  <td>MPG (city)</td>
+  <td></td>
+</tr>
+<tr>
+  <td>MPG (hwy)</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Fuel Type</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Full Size Spare Tire</td>
+  <td>Wheels and Tires</td>
+</tr>
+<tr>
+  <td>Genuine Wood Trim</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Glass Rear Window on Convertible</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Ground Clearance</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Heated Exterior Mirror</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Heated Steering Wheel</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>High Intensity Discharge Headlights</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Interior Trim</td>
+  <td>Colors</td>
+</tr>
+<tr>
+  <td>Interval Wipers</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Invalid</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Keyless Entry</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Leather Seat</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Leather Steering Wheel</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Limited Slip Differential</td>
+  <td>Drivetrain</td>
+</tr>
+<tr>
+  <td>Load Bearing Exterior Rack</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Locking Differential</td>
+  <td>Drivetrain</td>
+</tr>
+<tr>
+  <td>Locking Pickup Truck Tailgate</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>MSRP</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Make</td>
+  <td>Basic</td>
+</tr>
+<tr>
+  <td>Manual Sunroof</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Origin</td>
+  <td>Basic</td>
+</tr>
+<tr>
+  <td>Maximum GVWR</td>
+  <td>Weight</td>
+</tr>
+<tr>
+  <td>Maximum Payload</td>
+  <td>Weight</td>
+</tr>
+<tr>
+  <td>Maximum Towing</td>
+  <td>Weight</td>
+</tr>
+<tr>
+  <td>Model</td>
+  <td>Basic</td>
+</tr>
+<tr>
+  <td>Model Year</td>
+  <td>Basic</td>
+</tr>
+<tr>
+  <td>Navigation Aid</td>
+  <td>Entertainment</td>
+</tr>
+<tr>
+  <td>OEM Code</td>
+  <td></td>
+</tr>
+<tr>
+  <td>OEM Model Number</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Optional Seating</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Height</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Length</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Width</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Passenger Airbag</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Passenger Capacity</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Passenger Multi-Adjustable Power Seat</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Passenger Volume</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Pickup Truck Bed Liner</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Pickup Truck Cargo Box Light</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Power Adjustable Exterior Mirror</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Power Door Locks</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Power Sliding Side Van Door</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Power Sunroof</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Power Trunk Lid</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Power Windows</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Powertrain (distance)</td>
+  <td>Warranty</td>
+</tr>
+<tr>
+  <td>Powertrain (duration)</td>
+  <td>Warranty</td>
+</tr>
+<tr>
+  <td>Rain Sensing Wipers</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Rear Brake Type</td>
+  <td>Braking</td>
+</tr>
+<tr>
+  <td>Rear Headroom</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Rear Hip Room</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Rear Legroom</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Rear Shoulder Room</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Rear Spoiler</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Rear Spring Type</td>
+  <td>Suspension</td>
+</tr>
+<tr>
+  <td>Rear Suspension</td>
+  <td>Suspension</td>
+</tr>
+<tr>
+  <td>Rear Window Defogger</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Rear Wiper</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Remote Ignition</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Removable Top</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Run Flat Tires</td>
+  <td>Wheels and Tires</td>
+</tr>
+<tr>
+  <td>Running Boards</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>SAE Net Horsepower @ RPM</td>
+  <td></td>
+</tr>
+<tr>
+  <td>SAE Net Torque @ RPM</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Second Row Folding Seat</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Second Row Heated Seat</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Second Row Multi-Adjustable Power Seat</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Second Row Removable Seat</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Second Row Side Airbag</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Second Row Side Airbag with Head Protection</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Second Row Sound Controls</td>
+  <td>Entertainment</td>
+</tr>
+<tr>
+  <td>Individual Climate Controls</td>
+  <td>Comfort</td>
+</tr>
+<tr>
+  <td>Side Head Curtain Airbag</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Skid Plate</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Sliding Rear Pickup Truck Window</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Splash Guards</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Standard GVWR</td>
+  <td>Weight</td>
+</tr>
+<tr>
+  <td>Standard Payload</td>
+  <td>Weight</td>
+</tr>
+<tr>
+  <td>Standard Seating</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Standard Towing</td>
+  <td>Weight</td>
+</tr>
+<tr>
+  <td>Steel Wheels</td>
+  <td>Wheels and Tires</td>
+</tr>
+<tr>
+  <td>Steering Type</td>
+  <td>Suspension</td>
+</tr>
+<tr>
+  <td>Steering Wheel Mounted Controls</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Subwoofer</td>
+  <td>Entertainment</td>
+</tr>
+<tr>
+  <td>Tachometer</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Fuel Tank</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Telematics System</td>
+  <td>Entertainment</td>
+</tr>
+<tr>
+  <td>Telescopic Steering Column</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Third Row Removable Seat</td>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Tilt Steering</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Tilt Steering Column</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Tire Pressure Monitor</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Tires</td>
+  <td>Wheels and Tires</td>
+</tr>
+<tr>
+  <td>Tow Hitch Receiver</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Towing Preparation Package</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Track Front</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Track Rear</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Traction Control</td>
+  <td>Drivetrain</td>
+</tr>
+<tr>
+  <td>Transmission (long)</td>
+  <td>Drivetrain</td>
+</tr>
+<tr>
+  <td>Transmission (short)</td>
+  <td>Drivetrain</td>
+</tr>
+<tr>
+  <td>Trim Level</td>
+  <td>Basic</td>
+</tr>
+<tr>
+  <td>Trip Computer</td>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Trunk Anti-Trap Device</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Turning Diameter</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Unknown</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Vehicle Anti-Theft</td>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Vehicle Stability Control System</td>
+  <td>Drivetrain</td>
+</tr>
+<tr>
+  <td>Voice Activated Telephone</td>
+  <td>Entertainment</td>
+</tr>
+<tr>
+  <td>Wheelbase</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Width at Wall</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Width at Wheelwell</td>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Wind Deflector for Convertibles</td>
+  <td>Feature</td>
+</tr>
+</tbody></table>
+
+<h3><code>Group</code> Names</h3>
+
+<table><thead>
+<tr>
+  <th>Groups</th>
+</tr>
+</thead><tbody>
+<tr>
+  <td>Basic</td>
+</tr>
+<tr>
+  <td>Braking</td>
+</tr>
+<tr>
+  <td>Colors</td>
+</tr>
+<tr>
+  <td>Comfort</td>
+</tr>
+<tr>
+  <td>Dimensions</td>
+</tr>
+<tr>
+  <td>Drivetrain</td>
+</tr>
+<tr>
+  <td>Entertainment</td>
+</tr>
+<tr>
+  <td>Feature</td>
+</tr>
+<tr>
+  <td>Interior</td>
+</tr>
+<tr>
+  <td>Safety</td>
+</tr>
+<tr>
+  <td>Seating</td>
+</tr>
+<tr>
+  <td>Security</td>
+</tr>
+<tr>
+  <td>Suspension</td>
+</tr>
+<tr>
+  <td>Warranty</td>
+</tr>
+<tr>
+  <td>Weight</td>
+</tr>
+<tr>
+  <td>Wheels and Tires</td>
+</tr>
+</tbody></table>
+
+</div>

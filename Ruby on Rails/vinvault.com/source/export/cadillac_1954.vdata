@@ -1,0 +1,729 @@
+cls 746, 5460([\dX]{5})
+clv 3844, 1954, Cadillac, 60, Sedan
+ci axle Semifloating
+ci year 1954
+ci make Cadillac
+ci msrp $3969.00
+ci series 60
+ci prod 16200
+ci origin United States
+ci weight 4415
+ci model 54-60S
+ci maker Fleetwood
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 11
+ci rdiff 5
+ci fuel 20
+ci oil 5
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci ftred 60
+ci wbase 133
+ci length 227.4
+ci rtred 63.1
+ci height 64.1
+ci width 79.6
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci comp 8.25
+ci etype 90 degree V8 Valve-in-head
+ci englo Boss on front face of right cylinder block.
+ci mbear 5
+ci rhp 46.5
+ci disp 331
+ci engno Same as VIN Serial Number.
+ci etype Downdraft 4-barrel
+ci trq 330@2700
+ci b&s 3 13/16 & 3 5/8
+ci bhp 230@4400
+ci etype Hydra-Matic automatic
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Alpine White
+co Apollo Gold
+co Arlington Green Metalli-Chrome
+co Aztec Red
+co Azure Blue
+co Biscay Green
+co Cabot Gray
+co Cobalt Blue Metallic
+co Copper Metallic
+co Driftwood
+co Gander Gray Metallic
+co Iris
+co Lacquer
+co Newport Blue
+co Norman Gray Metallic
+co Russet Maroon Metallic
+co Shoal Green
+co Two Tone Colors Available
+co Viking Blue Metallic
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci exha Dual
+ci ftype Premium
+ci rad Tube and center
+ci cool 19.75 Quarts
+ci batt 12
+ci sgear Power
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc On right frame side bar behind engine support bracket.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 747, 5462([\dX]{5})
+clv 3845, 1954, Cadillac, 62, Convertible Coupe
+ci axle Semifloating
+ci prod 6310
+ci make Cadillac
+ci msrp $3830.00
+ci series 62
+ci year 1954
+ci origin United States
+ci doors 2
+ci model 54-6267X
+ci maker Fisher
+ci weight 4500
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci rdiff 5
+ci trans 11
+ci tcase -NA-
+ci oil 5
+ci fuel 20
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.07
+ci width 79.6
+ci wbase 129
+ci ftred 60
+ci length 216.4
+ci height 64.1
+ci rtred 63.1
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci comp 8.25
+ci etype 90 degree V8 Valve-in-head
+ci vlift Hydraulic
+ci mbear 5
+ci rhp 46.5
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 331
+ci etype Downdraft 4-barrel
+ci trq 330@2700
+ci b&s 3 13/16 & 3 5/8
+ci bhp 230@4400
+ci etype Hydra-Matic automatic
+ci englo Boss on front face of right cylinder block.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Alpine White
+co Apollo Gold
+co Arlington Green Metalli-Chrome
+co Aztec Red
+co Azure Blue
+co Biscay Green
+co Cabot Gray
+co Cobalt Blue Metallic
+co Copper Metallic
+co Driftwood
+co Gander Gray Metallic
+co Iris
+co Lacquer
+co Newport Blue
+co Norman Gray Metallic
+co Russet Maroon Metallic
+co Shoal Green
+co Two Tone Colors Available
+co Viking Blue Metallic
+ci rad Tube and center
+ci cool 19.75 Quarts
+ci exha Dual
+ci ign Distributor and coil
+ci batt 12
+ci ftype Premium
+ci cool Centrifugal pump with thermostat
+ci sgear Power
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On right frame side bar behind engine support bracket.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 748, 5462([\dX]{5})
+clv 3846, 1954, Cadillac, 62, Coupe de Ville
+ci axle Semifloating
+ci make Cadillac
+ci year 1954
+ci msrp $3691.00
+ci series 62
+ci prod 17170
+ci origin United States
+ci weight 4320
+ci doors 2
+ci maker Fisher
+ci model 54-6237D
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci oil 5
+ci fuel 20
+ci trans 11
+ci tcase -NA-
+ci rdiff 5
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.07
+ci wbase 129
+ci ftred 60
+ci length 216.4
+ci width 79.6
+ci height 64.1
+ci rtred 63.1
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci comp 8.25
+ci etype 90 degree V8 Valve-in-head
+ci mbear 5
+ci rhp 46.5
+ci disp 331
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci b&s 3 13/16 & 3 5/8
+ci englo Boss on front face of right cylinder block.
+ci bhp 230@4400
+ci etype Hydra-Matic automatic
+ci trq 330@2700
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Alpine White
+co Apollo Gold
+co Arlington Green Metalli-Chrome
+co Aztec Red
+co Azure Blue
+co Biscay Green
+co Cabot Gray
+co Cobalt Blue Metallic
+co Copper Metallic
+co Driftwood
+co Gander Gray Metallic
+co Iris
+co Lacquer
+co Newport Blue
+co Norman Gray Metallic
+co Russet Maroon Metallic
+co Shoal Green
+co Two Tone Colors Available
+co Viking Blue Metallic
+ci cool 19.75 Quarts
+ci batt 12
+ci exha Dual
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci sgear Power
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On right frame side bar behind engine support bracket.
+ci tsize 8 x 15
+ci sloc Trunk
+cls 749, 5462([\dX]{5})
+clv 3847, 1954, Cadillac, 62, Eldorado
+ci axle Semifloating
+ci year 1954
+ci make Cadillac
+ci msrp $7196.00
+ci series 62
+ci prod 2150
+ci origin United States
+ci doors 2
+ci model 54-6267SX
+ci maker Fisher
+ci bsize 12
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci rdiff 5
+ci trans 11
+ci fuel 20
+ci oil 5
+ci tcase -NA-
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci wbase 129
+ci ftred 60
+ci length 216.4
+ci rtred 63.1
+ci height 64.1
+ci width 79.6
+ci cyl 8
+ci mbear 5
+ci comp 8.25
+ci etype 90 degree V8 Valve-in-head
+ci englo Boss on front face of right cylinder block.
+ci bhp 230@4400
+ci rhp 46.5
+ci b&s 3 13/16 & 3 5/8
+ci engno Same as VIN Serial Number.
+ci etype Downdraft 4-barrel
+ci trq 330@2700
+ci vlift Hydraulic
+ci disp 331
+ci etype Hydra-Matic automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Alpine White
+co Apollo Gold
+co Arlington Green Metalli-Chrome
+co Aztec Red
+co Azure Blue
+co Biscay Green
+co Cabot Gray
+co Cobalt Blue Metallic
+co Copper Metallic
+co Driftwood
+co Gander Gray Metallic
+co Iris
+co Lacquer
+co Newport Blue
+co Norman Gray Metallic
+co Russet Maroon Metallic
+co Shoal Green
+co Two Tone Colors Available
+co Viking Blue Metallic
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci exha Dual
+ci ftype Premium
+ci cool 19.75 Quarts
+ci rad Tube and center
+ci batt 12
+ci sgear Power
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc On right frame side bar behind engine support bracket.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 750, 5462([\dX]{5})
+clv 3848, 1954, Cadillac, 62, Sedan
+ci axle Semifloating
+ci year 1954
+ci make Cadillac
+ci msrp $3384.00
+ci series 62
+ci prod 33845
+ci origin United States
+ci weight 4225
+ci model 54-6219
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 12
+ci fuel 20
+ci oil 5
+ci tcase -NA-
+ci rdiff 5
+ci trans 11
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.07
+ci wbase 129
+ci ftred 60
+ci length 216.4
+ci rtred 63.1
+ci height 64.1
+ci width 79.6
+ci cyl 8
+ci mbear 5
+ci comp 8.25
+ci etype 90 degree V8 Valve-in-head
+ci englo Boss on front face of right cylinder block.
+ci bhp 230@4400
+ci rhp 46.5
+ci b&s 3 13/16 & 3 5/8
+ci trq 330@2700
+ci etype Downdraft 4-barrel
+ci engno Same as VIN Serial Number.
+ci vlift Hydraulic
+ci disp 331
+ci etype Hydra-Matic automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Alpine White
+co Apollo Gold
+co Arlington Green Metalli-Chrome
+co Aztec Red
+co Azure Blue
+co Biscay Green
+co Cabot Gray
+co Cobalt Blue Metallic
+co Copper Metallic
+co Driftwood
+co Gander Gray Metallic
+co Iris
+co Lacquer
+co Newport Blue
+co Norman Gray Metallic
+co Russet Maroon Metallic
+co Shoal Green
+co Two Tone Colors Available
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci ftype Premium
+ci cool 19.75 Quarts
+ci batt 12
+ci sgear Power
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc On right frame side bar behind engine support bracket.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 751, 5462([\dX]{5})
+clv 3849, 1954, Cadillac, 62, Sedan de Ville
+ci axle Semifloating
+ci make Cadillac
+ci prod 1
+ci year 1954
+ci series 62
+ci origin United States
+ci maker Fisher
+ci model 54-6219SX
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 12
+ci oil 5
+ci tcase -NA-
+ci fuel 20
+ci rdiff 5
+ci trans 11
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.07
+ci wbase 129
+ci ftred 60
+ci length 216.4
+ci rtred 63.1
+ci width 79.6
+ci height 64.1
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci mbear 5
+ci etype 90 degree V8 Valve-in-head
+ci englo Boss on front face of right cylinder block.
+ci rhp 46.5
+ci disp 331
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci b&s 3 13/16 & 3 5/8
+ci comp 8.25
+ci bhp 230@4400
+ci etype Hydra-Matic automatic
+ci trq 330@2700
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Alpine White
+co Apollo Gold
+co Arlington Green Metalli-Chrome
+co Aztec Red
+co Azure Blue
+co Biscay Green
+co Cabot Gray
+co Cobalt Blue Metallic
+co Copper Metallic
+co Driftwood
+co Gander Gray Metallic
+co Iris
+co Lacquer
+co Newport Blue
+co Norman Gray Metallic
+co Russet Maroon Metallic
+co Shoal Green
+co Two Tone Colors Available
+co Viking Blue Metallic
+ci batt 12
+ci cool 19.75 Quarts
+ci exha Dual
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci sgear Power
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On right frame side bar behind engine support bracket.
+ci tsize 8 x 15
+ci sloc Trunk
+cls 752, 5462([\dX]{5})
+clv 3850, 1954, Cadillac, 62, Sport Coupe
+ci axle Semifloating
+ci make Cadillac
+ci year 1954
+ci msrp $3295.00
+ci series 62
+ci prod 17460
+ci origin United States
+ci weight 4230
+ci doors 2
+ci maker Fisher
+ci model 54-6237
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci oil 5
+ci fuel 20
+ci trans 11
+ci tcase -NA-
+ci rdiff 5
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.07
+ci wbase 129
+ci ftred 60
+ci length 216.4
+ci width 79.6
+ci height 64.1
+ci rtred 63.1
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci comp 8.25
+ci etype 90 degree V8 Valve-in-head
+ci mbear 5
+ci rhp 46.5
+ci disp 331
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci b&s 3 13/16 & 3 5/8
+ci englo Boss on front face of right cylinder block.
+ci bhp 230@4400
+ci etype Hydra-Matic automatic
+ci trq 330@2700
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Alpine White
+co Apollo Gold
+co Arlington Green Metalli-Chrome
+co Aztec Red
+co Azure Blue
+co Biscay Green
+co Cabot Gray
+co Cobalt Blue Metallic
+co Copper Metallic
+co Driftwood
+co Gander Gray Metallic
+co Iris
+co Lacquer
+co Newport Blue
+co Norman Gray Metallic
+co Russet Maroon Metallic
+co Shoal Green
+co Two Tone Colors Available
+co Viking Blue Metallic
+ci cool 19.75 Quarts
+ci batt 12
+ci exha Dual
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci sgear Power
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On right frame side bar behind engine support bracket.
+ci tsize 8 x 15
+ci sloc Trunk
+cls 753, 5475([\dX]{5})
+clv 3851, 1954, Cadillac, 75, Imperial
+ci axle Semifloating
+ci year 1954
+ci make Cadillac
+ci msrp $5188.00
+ci series 75
+ci prod 611
+ci origin United States
+ci maker Fleetwood
+ci model 54-7533X
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci rdiff 5
+ci trans 11
+ci oil 5
+ci fuel 20
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.77
+ci diff Hypoid
+ci length 237.2
+ci ftred 60
+ci rtred 63.2
+ci width 79.6
+ci wbase 149.8
+ci height 66.2
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci mbear 5
+ci etype 90 degree V8 Valve-in-head
+ci englo Boss on front face of right cylinder block.
+ci vlift Hydraulic
+ci rhp 46.5
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 331
+ci etype Downdraft 4-barrel
+ci trq 330@2700
+ci b&s 3 13/16 & 3 5/8
+ci bhp 230@4400
+ci etype Hydra-Matic automatic
+ci comp 8.25
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Alpine White
+co Apollo Gold
+co Arlington Green Metalli-Chrome
+co Aztec Red
+co Azure Blue
+co Biscay Green
+co Cabot Gray
+co Cobalt Blue Metallic
+co Copper Metallic
+co Driftwood
+co Gander Gray Metallic
+co Iris
+co Lacquer
+co Newport Blue
+co Norman Gray Metallic
+co Russet Maroon Metallic
+co Shoal Green
+co Two Tone Colors Available
+co Viking Blue Metallic
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci exha Dual
+ci ign Distributor and coil
+ci rad Tube and center
+ci ftype Premium
+ci cool 19.75 Quarts
+ci sgear Power
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 4
+ci vloc On right frame side bar behind engine support bracket.
+ci sloc Trunk
+ci tsize 8.2 x 15
+cls 754, 5475([\dX]{5})
+clv 3852, 1954, Cadillac, 75, Sedan
+ci axle Semifloating
+ci prod 889
+ci make Cadillac
+ci msrp $4988.00
+ci year 1954
+ci series 75
+ci origin United States
+ci weight 4830
+ci maker Fleetwood
+ci model 54-7523X
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci trans 11
+ci tcase -NA-
+ci rdiff 5
+ci oil 5
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.77
+ci diff Hypoid
+ci ftred 60
+ci rtred 63.2
+ci length 237.2
+ci wbase 149.8
+ci width 79.6
+ci height 66.2
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci mbear 5
+ci etype 90 degree V8 Valve-in-head
+ci englo Boss on front face of right cylinder block.
+ci vlift Hydraulic
+ci rhp 46.5
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 331
+ci etype Downdraft 4-barrel
+ci trq 330@2700
+ci b&s 3 13/16 & 3 5/8
+ci bhp 230@4400
+ci etype Hydra-Matic automatic
+ci comp 8.25
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Alpine White
+co Apollo Gold
+co Arlington Green Metalli-Chrome
+co Aztec Red
+co Azure Blue
+co Biscay Green
+co Cabot Gray
+co Cobalt Blue Metallic
+co Copper Metallic
+co Driftwood
+co Gander Gray Metallic
+co Iris
+co Lacquer
+co Newport Blue
+co Norman Gray Metallic
+co Russet Maroon Metallic
+co Shoal Green
+co Two Tone Colors Available
+co Viking Blue Metallic
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci exha Dual
+ci ign Distributor and coil
+ci rad Tube and center
+ci ftype Premium
+ci cool 19.75 Quarts
+ci sgear Power
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 4
+ci vloc On right frame side bar behind engine support bracket.
+ci sloc Trunk
+ci tsize 8.2 x 15

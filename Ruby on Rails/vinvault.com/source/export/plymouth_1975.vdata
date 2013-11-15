@@ -1,0 +1,3798 @@
+cls 6333, VS29(\w)4(\w)([\dX]{6})
+clv 25661, 1975, Plymouth, Duster 360, Coupe
+ci axle Semifloating
+ci year 1975
+ci series Duster 360
+ci msrp $3979.00
+ci origin United States
+ci prod 1421
+ci make Plymouth
+ci model VS29
+ci doors 2
+ci maker Plymouth
+ci fbsize 10.8
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci bsize 10
+ci tcase -NA-
+ci fuel 16
+ci rdiff 4.4
+ci trans 19
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci ftred 59.1
+ci rtred 55.6
+ci width 71.7
+ci height 53.2
+ci wbase 111
+ci length 196.1
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci englo Stamped on front of block just below left cylinder head.
+ci comp 8.4
+ci etype Torqueflite automatic
+ci mbear 5
+ci vlift Hydraulic
+ci b&s 4 & 3 37/64
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 360
+ci etype V8 overhead valve
+ci bhp 230@4400
+ci rhp 51.2
+ci trq 300@3600
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci batt 12
+ci exha Dual
+ci cool Water pump
+ci ftype Regular
+ci ign Electronic
+ci equip Power steering
+ci equip Radio
+ci equip Speed control device
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 6334, VL29(\w)5(\w)([\dX]{6})
+clv 25662, 1975, Plymouth, Duster 6, Coupe
+ci axle Semifloating
+ci msrp $3243.00
+ci series Duster 6
+ci prod 79884
+ci make Plymouth
+ci year 1975
+ci origin United States
+ci model VL29
+ci maker Plymouth
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 9
+ci fbsize 10
+ci svc Hydraulic self-adjusting
+ci trans 3.6
+ci oil 4
+ci tcase -NA-
+ci rdiff 2.1
+ci fuel 16
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.76
+ci diff Hypoid
+ci wbase 111
+ci rtred 55.6
+ci width 71.7
+ci length 196.1
+ci height 53.2
+ci ftred 59.1
+ci etype Slant 6  overhead valve
+ci comp 8.4
+ci cyl 6
+ci bhp 95@3600
+ci mbear 4
+ci block Cast Iron
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 170@1600
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci rhp 27.85
+ci disp 225.54
+ci etype Single downdraft
+ci b&s 3 13/32 & 4 1/8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool 13 Quarts
+ci exha Single
+ci rad Tube and spacer
+ci ftype Regular
+ci batt 12
+ci ign Electronic
+ci cool Water pump
+ci equip Power steering
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci 2gear 1.77
+ci gears 3
+ci 1gear 2.99
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 15
+cls 6335, VH29(\w)5(\w)([\dX]{6})
+clv 25663, 1975, Plymouth, Duster Custom 6, Coupe
+ci axle Semifloating
+ci msrp $3418.00
+ci series Duster Custom 6
+ci prod 38826
+ci make Plymouth
+ci year 1975
+ci origin United States
+ci model VH29
+ci maker Plymouth
+ci doors 2
+ci ebrake Rear service brakes
+ci fbsize 10
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci trans 3.6
+ci oil 4
+ci tcase -NA-
+ci rdiff 2.1
+ci fuel 16
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.76
+ci diff Hypoid
+ci wbase 111
+ci height 53.2
+ci width 71.7
+ci ftred 59.1
+ci length 196.1
+ci rtred 55.6
+ci etype Slant 6  overhead valve
+ci comp 8.4
+ci cyl 6
+ci bhp 95@3600
+ci mbear 4
+ci block Cast Iron
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 170@1600
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci rhp 27.85
+ci disp 225.54
+ci etype Single downdraft
+ci b&s 3 13/32 & 4 1/8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool 13 Quarts
+ci exha Single
+ci rad Tube and spacer
+ci ftype Regular
+ci batt 12
+ci ign Electronic
+ci cool Water pump
+ci equip Power steering
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci 2gear 1.77
+ci gears 3
+ci 1gear 2.99
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 15
+cls 6336, VH29(\w)5(\w)([\dX]{6})
+clv 25664, 1975, Plymouth, Duster Custom V8, Coupe
+ci axle Semifloating
+ci year 1975
+ci series Duster Custom V8
+ci msrp $3539.00
+ci prod 38826
+ci origin United States
+ci make Plymouth
+ci doors 2
+ci maker Plymouth
+ci model VH29
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci fbsize 10.8
+ci trans 4.75
+ci oil 4
+ci rdiff 4.4
+ci tcase -NA-
+ci fuel 16
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 2.45
+ci rtred 55.6
+ci height 53.2
+ci length 196.1
+ci wbase 111
+ci width 71.7
+ci ftred 59.1
+ci comp 8.5
+ci b&s 3 29/32 & 3 5/16
+ci disp 317.58
+ci cyl 8
+ci vlift Hydraulic
+ci trq 255@1600
+ci mbear 5
+ci block Cast Iron
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci englo Stamped on front of block just below left cylinder head.
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 145@4000
+ci etype Fully synchronized
+ci rhp 48.83
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci exha Single
+ci ftype Regular
+ci ign Electronic
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci batt 12
+ci cool Water pump
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip 360 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.9
+ci 2gear 1.7
+ci gears 3
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.95 x 15
+ci sloc Trunk
+cls 6337, VL29(\w)5(\w)([\dX]{6})
+clv 25665, 1975, Plymouth, Duster V8, Coupe
+ci axle Semifloating
+ci prod 79884
+ci series Duster V8
+ci msrp $3364.00
+ci year 1975
+ci origin United States
+ci make Plymouth
+ci maker Plymouth
+ci model VL29
+ci doors 2
+ci bsize 10
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci fbsize 10.8
+ci trans 4.75
+ci fuel 16
+ci oil 4
+ci rdiff 4.4
+ci tcase -NA-
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.45
+ci diff Hypoid
+ci width 71.7
+ci length 196.1
+ci wbase 111
+ci height 53.2
+ci rtred 55.6
+ci ftred 59.1
+ci rhp 48.83
+ci vlift Hydraulic
+ci disp 317.58
+ci cyl 8
+ci comp 8.5
+ci englo Stamped on front of block just below left cylinder head.
+ci b&s 3 29/32 & 3 5/16
+ci block Cast Iron
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci trq 255@1600
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 145@4000
+ci etype Fully synchronized
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci exha Single
+ci ftype Regular
+ci ign Electronic
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci batt 12
+ci cool Water pump
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip 360 cu. in. V8 engine
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.9
+ci 2gear 1.7
+ci gears 3
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.95 x 15
+ci sloc Trunk
+cls 6338, RL21(\w)5(\w)([\dX]{6})
+clv 25666, 1975, Plymouth, Fury 6, Coupe
+ci axle Semifloating
+ci prod 8398
+ci series Fury 6
+ci msrp $3542.00
+ci origin United States
+ci make Plymouth
+ci year 1975
+ci maker Plymouth
+ci model RL21
+ci doors 2
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci fbsize 10.8
+ci ebrake Rear service brakes
+ci trans 4.75
+ci fuel 25.5
+ci tcase -NA-
+ci oil 4
+ci rdiff 4.4
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 3.21
+ci diff Hypoid
+ci height 52.6
+ci wbase 118
+ci length 213.8
+ci width 77.7
+ci ftred 61.9
+ci rtred 62
+ci etype Single downdraft
+ci comp 8.4
+ci rhp 27.85
+ci bhp 95@3600
+ci cyl 6
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 170@1600
+ci etype Slant 6  overhead valve
+ci disp 225.54
+ci etype Fully synchronized
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci vlift Hydraulic
+ci mbear 4
+ci b&s 3 13/32 & 4 1/8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool 13 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci batt 12
+ci cool Water pump
+ci ign Electronic
+ci ftype Regular
+ci equip Power seats
+ci equip Power windows
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Speed control device
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci rev 2.9
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.7
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6339, RL41(\w)5(\w)([\dX]{6})
+clv 25667, 1975, Plymouth, Fury 6, Sedan
+ci axle Semifloating
+ci msrp $3591.00
+ci series Fury 6
+ci origin United States
+ci prod 11432
+ci make Plymouth
+ci year 1975
+ci maker Plymouth
+ci model RL41
+ci ebrake Rear service brakes
+ci fbsize 10.8
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci trans 4.75
+ci rdiff 4.4
+ci fuel 25.5
+ci tcase -NA-
+ci oil 4
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 3.21
+ci diff Hypoid
+ci length 217.9
+ci width 77.7
+ci wbase 118
+ci ftred 61.9
+ci rtred 62
+ci height 53.9
+ci cyl 6
+ci mbear 4
+ci comp 8.4
+ci bhp 95@3600
+ci etype Single downdraft
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 170@1600
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci b&s 3 13/32 & 4 1/8
+ci etype Fully synchronized
+ci disp 225.54
+ci vlift Hydraulic
+ci rhp 27.85
+ci etype Slant 6  overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool 13 Quarts
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci rad Tube and spacer
+ci ign Electronic
+ci cool Water pump
+ci equip Power steering
+ci equip Power seats
+ci equip Power brakes
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip Power windows
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 3.08
+ci 2gear 1.7
+ci 3gear 1
+ci rev 2.9
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6340, RH23(\w)5(\w)([\dX]{6})
+clv 25668, 1975, Plymouth, Fury Custom 6, Hardtop
+ci axle Semifloating
+ci year 1975
+ci series Fury Custom 6
+ci origin United States
+ci msrp $3711.00
+ci prod 27486
+ci make Plymouth
+ci model RH23
+ci doors 2
+ci maker Plymouth
+ci fbsize 10.8
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci oil 4
+ci fuel 25.5
+ci tcase -NA-
+ci trans 4.75
+ci rdiff 4.4
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 3.21
+ci diff Hypoid
+ci width 77.7
+ci length 213.8
+ci wbase 118
+ci height 52.6
+ci rtred 62
+ci ftred 61.9
+ci etype Slant 6  overhead valve
+ci cyl 6
+ci comp 8.4
+ci bhp 95@3600
+ci b&s 3 13/32 & 4 1/8
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 27.85
+ci disp 225.54
+ci etype Single downdraft
+ci etype Fully synchronized
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci vlift Hydraulic
+ci trq 170@1600
+ci mbear 4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool Water pump
+ci rad Tube and spacer
+ci exha Single
+ci cool 13 Quarts
+ci batt 12
+ci ign Electronic
+ci ftype Regular
+ci equip Power steering
+ci equip Power seats
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Power windows
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci rev 2.9
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.7
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6341, RH41(\w)5(\w)([\dX]{6})
+clv 25669, 1975, Plymouth, Fury Custom 6, Sedan
+ci axle Semifloating
+ci year 1975
+ci series Fury Custom 6
+ci origin United States
+ci prod 31080
+ci msrp $3704.00
+ci make Plymouth
+ci model RH41
+ci maker Plymouth
+ci fbsize 10.8
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci rdiff 4.4
+ci trans 4.75
+ci tcase -NA-
+ci fuel 25.5
+ci oil 4
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 3.21
+ci diff Hypoid
+ci height 53.9
+ci length 217.9
+ci wbase 118
+ci width 77.7
+ci rtred 62
+ci ftred 61.9
+ci etype Slant 6  overhead valve
+ci cyl 6
+ci comp 8.4
+ci bhp 95@3600
+ci b&s 3 13/32 & 4 1/8
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 27.85
+ci disp 225.54
+ci etype Single downdraft
+ci etype Fully synchronized
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci vlift Hydraulic
+ci trq 170@1600
+ci mbear 4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool Water pump
+ci rad Tube and spacer
+ci exha Single
+ci cool 13 Quarts
+ci batt 12
+ci ign Electronic
+ci ftype Regular
+ci equip Power steering
+ci equip Power seats
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Power windows
+ci equip Radio
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci rev 2.9
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.7
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6342, RH23(\w)5(\w)([\dX]{6})
+clv 25670, 1975, Plymouth, Fury Custom V8, Hardtop
+ci axle Semifloating
+ci year 1975
+ci origin United States
+ci series Fury Custom V8
+ci make Plymouth
+ci msrp $3840.00
+ci prod 27486
+ci maker Plymouth
+ci model RH23
+ci doors 2
+ci bsize 10
+ci ebrake Rear service brakes
+ci fbsize 10.8
+ci svc Front disc rear self-adjusting drum
+ci fuel 25.5
+ci rdiff 4.4
+ci trans 4.75
+ci tcase -NA-
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.71
+ci diff Hypoid
+ci rtred 62
+ci width 77.7
+ci wbase 118
+ci length 213.8
+ci ftred 61.9
+ci height 52.6
+ci mbear 5
+ci rhp 48.83
+ci englo Stamped on front of block just below left cylinder head.
+ci disp 317.58
+ci cyl 8
+ci comp 8.6
+ci bhp 150@4000
+ci etype Fully synchronized
+ci block Cast Iron
+ci etype Dual downdraft
+ci trq 255@1600
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 29/32 & 3 5/16
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci rad Tube and spacer
+ci ign Electronic
+ci batt 12
+ci cool Water pump
+ci ftype Regular
+ci cool 16.5 Quarts
+ci exha Single
+ci equip 440 cu. in. V8 engine
+ci equip 400 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Air conditioning
+ci equip 360 cu. in. V8 engine
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci 3gear 1
+ci rev 2.9
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.7
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6343, RH41(\w)5(\w)([\dX]{6})
+clv 25671, 1975, Plymouth, Fury Custom V8, Sedan
+ci axle Semifloating
+ci series Fury Custom V8
+ci origin United States
+ci make Plymouth
+ci prod 31080
+ci year 1975
+ci msrp $3834.00
+ci model RH41
+ci maker Plymouth
+ci doors 4
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fbsize 10.8
+ci bsize 10
+ci fuel 25.5
+ci rdiff 4.4
+ci tcase -NA-
+ci trans 4.75
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.71
+ci rtred 62
+ci wbase 118
+ci length 217.9
+ci width 77.7
+ci ftred 61.9
+ci height 53.9
+ci bhp 150@4000
+ci rhp 48.83
+ci englo Stamped on front of block just below left cylinder head.
+ci b&s 3 29/32 & 3 5/16
+ci cyl 8
+ci comp 8.6
+ci disp 317.58
+ci trq 255@1600
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci mbear 5
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci rad Tube and spacer
+ci ign Electronic
+ci batt 12
+ci cool Water pump
+ci ftype Regular
+ci cool 16.5 Quarts
+ci exha Single
+ci equip 440 cu. in. V8 engine
+ci equip 400 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Air conditioning
+ci equip 360 cu. in. V8 engine
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci 3gear 1
+ci rev 2.9
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.7
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6344, RH45(\w)5(\w)([\dX]{6})
+clv 25672, 1975, Plymouth, Fury Suburban, Custom Suburban - 2 seat
+ci axle Semifloating
+ci origin United States
+ci msrp $4512.00
+ci series Fury Suburban
+ci prod 3890
+ci year 1975
+ci make Plymouth
+ci pass 6
+ci model RH45
+ci doors 4
+ci maker Plymouth
+ci bsize 11
+ci fbsize 10.8
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci trans 19
+ci tcase -NA-
+ci fuel 25.5
+ci oil 4
+ci rdiff 4.4
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci rtred 63.4
+ci ftred 61.9
+ci height 58.9
+ci width 79.4
+ci length 225.9
+ci wbase 124
+ci englo Stamped on front of block just below left cylinder head.
+ci block Cast Iron
+ci etype Dual downdraft
+ci mbear 5
+ci rhp 48.83
+ci comp 8.5
+ci disp 317.58
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci etype Torqueflite automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 255@1600
+ci cyl 8
+ci bhp 150@4000
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Bolivia Green
+co Edmonton Beige
+co Kitchener Green
+co Malibu Brown
+co Mexico Red
+co New Brunswick Blue
+co Peru Gray
+co Plymouth Cream
+co Rio Maroon
+co Salvador Blue
+co Trinidad Brown
+co Two Tone Colors Available
+co Yukon Gray
+ci cool Water pump
+ci batt 12
+ci cool 16.5 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ign Electronic
+ci ftype Regular
+ci equip Speed control device
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power steering
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 6345, RH46(\w)5(\w)([\dX]{6})
+clv 25673, 1975, Plymouth, Fury Suburban, Custom Suburban - 3 seat
+ci axle Semifloating
+ci origin United States
+ci msrp $4632.00
+ci series Fury Suburban
+ci prod 4285
+ci year 1975
+ci make Plymouth
+ci pass 9
+ci model RH46
+ci doors 4
+ci maker Plymouth
+ci fbsize 10.8
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci trans 19
+ci tcase -NA-
+ci oil 4
+ci rdiff 4.4
+ci fuel 25.5
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci width 79.4
+ci rtred 63.4
+ci ftred 61.9
+ci height 58.9
+ci length 225.9
+ci wbase 124
+ci englo Stamped on front of block just below left cylinder head.
+ci block Cast Iron
+ci etype Dual downdraft
+ci mbear 5
+ci rhp 48.83
+ci etype V8 overhead valve
+ci disp 317.58
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci etype Torqueflite automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 255@1600
+ci comp 8.5
+ci bhp 150@4000
+ci cyl 8
+ci color Exterior Colors
+co Bolivia Green
+co Edmonton Beige
+co Kitchener Green
+co Malibu Brown
+co Mexico Red
+co New Brunswick Blue
+co Peru Gray
+co Plymouth Cream
+co Rio Maroon
+co Salvador Blue
+co Trinidad Brown
+co Two Tone Colors Available
+co Yukon Gray
+ci cool Water pump
+ci batt 12
+ci cool 16.5 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ign Electronic
+ci ftype Regular
+ci equip Speed control device
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power steering
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 6346, RP46(\w)5(\w)([\dX]{6})
+clv 25674, 1975, Plymouth, Fury Suburban, Sport Suburban - 2 seat
+ci axle Semifloating
+ci origin United States
+ci msrp $4867.00
+ci series Fury Suburban
+ci prod 3107
+ci year 1975
+ci make Plymouth
+ci pass 9
+ci model RP46
+ci doors 4
+ci maker Plymouth
+ci bsize 11
+ci fbsize 10.8
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci trans 19
+ci tcase -NA-
+ci fuel 25.5
+ci oil 4
+ci rdiff 4.4
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci width 79.4
+ci rtred 63.4
+ci ftred 61.9
+ci length 225.9
+ci wbase 124
+ci height 58.9
+ci englo Stamped on front of block just below left cylinder head.
+ci block Cast Iron
+ci etype Dual downdraft
+ci mbear 5
+ci rhp 48.83
+ci etype V8 overhead valve
+ci comp 8.5
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci etype Torqueflite automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 255@1600
+ci cyl 8
+ci bhp 150@4000
+ci disp 317.58
+ci color Exterior Colors
+co Bolivia Green
+co Edmonton Beige
+co Kitchener Green
+co Malibu Brown
+co Mexico Red
+co New Brunswick Blue
+co Peru Gray
+co Plymouth Cream
+co Rio Maroon
+co Salvador Blue
+co Trinidad Brown
+co Two Tone Colors Available
+co Yukon Gray
+ci cool Water pump
+ci batt 12
+ci cool 16.5 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ign Electronic
+ci ftype Regular
+ci equip Speed control device
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power steering
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 6347, RL45(\w)5(\w)([\dX]{6})
+clv 25675, 1975, Plymouth, Fury Suburban, Suburban - 2 seat
+ci axle Semifloating
+ci origin United States
+ci msrp $4309.00
+ci series Fury Suburban
+ci prod 4468
+ci year 1975
+ci make Plymouth
+ci pass 6
+ci model RL45
+ci doors 4
+ci maker Plymouth
+ci fbsize 10.8
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci trans 19
+ci tcase -NA-
+ci oil 4
+ci rdiff 4.4
+ci fuel 25.5
+ci ctype Not applicable
+ci diffr 2.94
+ci diff Hypoid
+ci rtred 63.4
+ci ftred 61.9
+ci height 58.9
+ci width 79.4
+ci length 225.9
+ci wbase 124
+ci englo Stamped on front of block just below left cylinder head.
+ci block Cast Iron
+ci etype Dual downdraft
+ci mbear 5
+ci rhp 48.83
+ci comp 8.5
+ci disp 317.58
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci etype Torqueflite automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 255@1600
+ci cyl 8
+ci bhp 150@4000
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Bolivia Green
+co Edmonton Beige
+co Kitchener Green
+co Malibu Brown
+co Mexico Red
+co New Brunswick Blue
+co Peru Gray
+co Plymouth Cream
+co Rio Maroon
+co Salvador Blue
+co Trinidad Brown
+co Two Tone Colors Available
+co Yukon Gray
+ci cool Water pump
+ci batt 12
+ci cool 16.5 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ign Electronic
+ci ftype Regular
+ci equip Speed control device
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power steering
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 6348, RP45(\w)5(\w)([\dX]{6})
+clv 25676, 1975, Plymouth, Fury Suburban, Super S. Sedan
+ci axle Semifloating
+ci origin United States
+ci msrp $4770.00
+ci series Fury Suburban
+ci year 1975
+ci prod 1851
+ci make Plymouth
+ci maker Plymouth
+ci pass 6
+ci model RP45
+ci doors 4
+ci fbsize 10.8
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci tcase -NA-
+ci rdiff 4.4
+ci fuel 25.5
+ci oil 4
+ci trans 19
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.94
+ci length 225.9
+ci ftred 61.9
+ci wbase 124
+ci width 79.4
+ci height 58.9
+ci rtred 63.4
+ci englo Stamped on front of block just below left cylinder head.
+ci block Cast Iron
+ci etype Dual downdraft
+ci comp 8.5
+ci cyl 8
+ci etype V8 overhead valve
+ci mbear 5
+ci vlift Hydraulic
+ci rhp 48.83
+ci disp 317.58
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 29/32 & 3 5/16
+ci etype Torqueflite automatic
+ci trq 255@1600
+ci bhp 150@4000
+ci color Exterior Colors
+co Bolivia Green
+co Edmonton Beige
+co Kitchener Green
+co Malibu Brown
+co Mexico Red
+co New Brunswick Blue
+co Peru Gray
+co Plymouth Cream
+co Rio Maroon
+co Salvador Blue
+co Trinidad Brown
+co Two Tone Colors Available
+co Yukon Gray
+ci cool Water pump
+ci batt 12
+ci cool 16.5 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ign Electronic
+ci ftype Regular
+ci equip Speed control device
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power steering
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 6349, RL21(\w)5(\w)([\dX]{6})
+clv 25677, 1975, Plymouth, Fury V8, Coupe
+ci axle Semifloating
+ci series Fury V8
+ci origin United States
+ci make Plymouth
+ci msrp $3672.00
+ci prod 8398
+ci year 1975
+ci model RL21
+ci doors 2
+ci maker Plymouth
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fbsize 10.8
+ci rdiff 4.4
+ci tcase -NA-
+ci oil 4
+ci trans 4.75
+ci fuel 25.5
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.71
+ci width 77.7
+ci length 213.8
+ci wbase 118
+ci ftred 61.9
+ci height 52.6
+ci rtred 62
+ci rhp 48.83
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci cyl 8
+ci comp 8.6
+ci disp 317.58
+ci b&s 3 29/32 & 3 5/16
+ci englo Stamped on front of block just below left cylinder head.
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci mbear 5
+ci trq 255@1600
+ci bhp 150@4000
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool 16.5 Quarts
+ci ign Electronic
+ci batt 12
+ci exha Single
+ci rad Tube and spacer
+ci ftype Regular
+ci cool Water pump
+ci equip Power steering
+ci equip Speed control device
+ci equip Power brakes
+ci equip Power seats
+ci equip 360 cu. in. V8 engine
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip 440 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci 1gear 3.08
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.9
+ci 2gear 1.7
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 6350, RL41(\w)5(\w)([\dX]{6})
+clv 25678, 1975, Plymouth, Fury V8, Sedan
+ci axle Semifloating
+ci msrp $3720.00
+ci origin United States
+ci make Plymouth
+ci series Fury V8
+ci year 1975
+ci prod 11432
+ci model RL41
+ci doors 4
+ci maker Plymouth
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci fbsize 10.8
+ci ebrake Rear service brakes
+ci rdiff 4.4
+ci tcase -NA-
+ci trans 4.75
+ci oil 4
+ci fuel 25.5
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.71
+ci diff Hypoid
+ci rtred 62
+ci length 217.9
+ci width 77.7
+ci wbase 118
+ci height 53.9
+ci ftred 61.9
+ci mbear 5
+ci etype V8 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 317.58
+ci cyl 8
+ci comp 8.6
+ci b&s 3 29/32 & 3 5/16
+ci englo Stamped on front of block just below left cylinder head.
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci rhp 48.83
+ci trq 255@1600
+ci bhp 150@4000
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool 16.5 Quarts
+ci ign Electronic
+ci batt 12
+ci exha Single
+ci rad Tube and spacer
+ci ftype Regular
+ci cool Water pump
+ci equip Power steering
+ci equip Speed control device
+ci equip Power brakes
+ci equip Power seats
+ci equip 360 cu. in. V8 engine
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip 440 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci 1gear 3.08
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.9
+ci 2gear 1.7
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 6351, PP23(\w)5(\w)([\dX]{6})
+clv 25679, 1975, Plymouth, Gran Fury Brougham, Coupe
+ci axle Semifloating
+ci make Plymouth
+ci prod 6521
+ci origin United States
+ci msrp $5146.00
+ci year 1975
+ci series Gran Fury Brougham
+ci maker Plymouth
+ci model PP29
+ci doors 2
+ci bsize 11
+ci fbsize 11.6
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci rdiff 4.4
+ci oil 4
+ci fuel 26.5
+ci tcase -NA-
+ci trans 19
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci length 221.9
+ci ftred 64
+ci wbase 122
+ci height 54.2
+ci rtred 63.4
+ci width 79.9
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 175@4000
+ci etype V8 overhead valve
+ci comp 8.2
+ci vlift Hydraulic
+ci cyl 8
+ci etype Torqueflite automatic
+ci englo Stamped on front of block just below left cylinder head.
+ci rhp 60.27
+ci b&s 4.34 & 3 3/4
+ci trq 300@3200
+ci disp 400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool 16.5 Quarts
+ci exha Single
+ci rad Tube and spacer
+ci ftype Regular
+ci batt 12
+ci ign Electronic
+ci cool Water pump
+ci equip Radio
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power windows
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize GR78 x 15
+cls 6352, PP43(\w)5(\w)([\dX]{6})
+clv 25680, 1975, Plymouth, Gran Fury Brougham, Hardtop
+ci axle Semifloating
+ci prod 5521
+ci origin United States
+ci series Gran Fury Brougham
+ci msrp $5067.00
+ci year 1975
+ci make Plymouth
+ci doors 4
+ci maker Plymouth
+ci model PP43
+ci ebrake Rear service brakes
+ci fbsize 11.6
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci rdiff 4.4
+ci oil 4
+ci fuel 26.5
+ci trans 19
+ci tcase -NA-
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci ftred 64
+ci rtred 63.4
+ci height 54.2
+ci length 221.9
+ci wbase 122
+ci width 79.9
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 175@4000
+ci etype V8 overhead valve
+ci comp 8.2
+ci vlift Hydraulic
+ci cyl 8
+ci etype Torqueflite automatic
+ci englo Stamped on front of block just below left cylinder head.
+ci rhp 60.27
+ci b&s 4.34 & 3 3/4
+ci trq 300@3200
+ci disp 400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool 16.5 Quarts
+ci exha Single
+ci rad Tube and spacer
+ci ftype Regular
+ci batt 12
+ci ign Electronic
+ci cool Water pump
+ci equip Radio
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power windows
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize GR78 x 15
+cls 6353, PH23(\w)5(\w)([\dX]{6})
+clv 25681, 1975, Plymouth, Gran Fury Custom, Hardtop
+ci axle Semifloating
+ci series Gran Fury Custom
+ci year 1975
+ci make Plymouth
+ci msrp $4781.00
+ci origin United States
+ci prod 6041
+ci doors 2
+ci maker Plymouth
+ci model PH23
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.6
+ci rdiff 4.4
+ci tcase -NA-
+ci trans 19
+ci fuel 26.5
+ci oil 4
+ci ctype Not applicable
+ci diffr 2.71
+ci diff Hypoid
+ci wbase 122
+ci height 55.2
+ci length 221.9
+ci rtred 63.4
+ci width 79.9
+ci ftred 64
+ci cyl 8
+ci comp 8.4
+ci rhp 51.2
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci bhp 180@4000
+ci trq 290@2400
+ci vlift Hydraulic
+ci englo Stamped on front of block just below left cylinder head.
+ci b&s 4 & 3 37/64
+ci disp 360
+ci etype Torqueflite automatic
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci ign Electronic
+ci cool Water pump
+ci batt 12
+ci cool 16 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ftype Regular
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Power seats
+ci equip 440 cu. in. V8 engine
+ci equip Power windows
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize GR78 x 15
+ci sloc Trunk
+cls 6354, PH43(\w)5(\w)([\dX]{6})
+clv 25682, 1975, Plymouth, Gran Fury Custom, Hardtop
+ci axle Semifloating
+ci msrp $4837.00
+ci series Gran Fury Custom
+ci prod 11292
+ci make Plymouth
+ci year 1975
+ci origin United States
+ci model PH43
+ci maker Plymouth
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 11.6
+ci oil 4
+ci rdiff 4.4
+ci tcase -NA-
+ci trans 19
+ci fuel 26.5
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci length 221.9
+ci wbase 122
+ci height 55.2
+ci rtred 63.4
+ci ftred 64
+ci width 79.9
+ci cyl 8
+ci comp 8.4
+ci rhp 51.2
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci englo Stamped on front of block just below left cylinder head.
+ci bhp 180@4000
+ci disp 360
+ci etype Torqueflite automatic
+ci b&s 4 & 3 37/64
+ci etype V8 overhead valve
+ci trq 290@2400
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci ign Electronic
+ci cool Water pump
+ci batt 12
+ci cool 16 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ftype Regular
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Power seats
+ci equip 440 cu. in. V8 engine
+ci equip Power windows
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize GR78 x 15
+ci sloc Trunk
+cls 6355, PH41(\w)5(\w)([\dX]{6})
+clv 25683, 1975, Plymouth, Gran Fury Custom, Sedan
+ci axle Semifloating
+ci msrp $4761.00
+ci prod 10943
+ci year 1975
+ci make Plymouth
+ci origin United States
+ci series Gran Fury Custom
+ci maker Plymouth
+ci doors 4
+ci model PH41
+ci fbsize 11.6
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci oil 4
+ci rdiff 4.4
+ci tcase -NA-
+ci trans 19
+ci fuel 26.5
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci length 221.9
+ci wbase 122
+ci height 55.2
+ci rtred 63.4
+ci ftred 64
+ci width 79.9
+ci cyl 8
+ci comp 8.4
+ci rhp 51.2
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci englo Stamped on front of block just below left cylinder head.
+ci bhp 180@4000
+ci disp 360
+ci etype Torqueflite automatic
+ci b&s 4 & 3 37/64
+ci etype V8 overhead valve
+ci trq 290@2400
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci ign Electronic
+ci cool Water pump
+ci batt 12
+ci cool 16 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ftype Regular
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Power seats
+ci equip 440 cu. in. V8 engine
+ci equip Power windows
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize GR78 x 15
+ci sloc Trunk
+cls 6356, PM41(\w)5(\w)([\dX]{6})
+clv 25684, 1975, Plymouth, Gran Fury, Sedan
+ci axle Semifloating
+ci series Gran Fury
+ci year 1975
+ci make Plymouth
+ci msrp $4565.00
+ci origin United States
+ci prod 8185
+ci doors 4
+ci maker Plymouth
+ci model PM41
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fbsize 11.6
+ci tcase -NA-
+ci rdiff 4.4
+ci trans 19
+ci oil 4
+ci fuel 26.5
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci length 221.9
+ci height 55.2
+ci rtred 63.4
+ci ftred 64
+ci wbase 122
+ci width 79.9
+ci comp 8.4
+ci cyl 8
+ci rhp 51.2
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci bhp 180@4000
+ci trq 290@2400
+ci vlift Hydraulic
+ci englo Stamped on front of block just below left cylinder head.
+ci b&s 4 & 3 37/64
+ci disp 360
+ci etype Torqueflite automatic
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci ign Electronic
+ci cool Water pump
+ci batt 12
+ci cool 16 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ftype Regular
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Power seats
+ci equip 440 cu. in. V8 engine
+ci equip Power windows
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize GR78 x 15
+ci sloc Trunk
+cls 6357, PH45(\w)5(\w)([\dX]{6})
+clv 25685, 1975, Plymouth, Gran Fury Suburban, Custom Suburban - 2 seat
+ci axle Semifloating
+ci msrp $5176.00
+ci make Plymouth
+ci series Gran Fury Suburban
+ci prod 3155
+ci origin United States
+ci year 1975
+ci pass 6
+ci model PH45
+ci maker Plymouth
+ci doors 4
+ci ebrake Rear service brakes
+ci fbsize 11.6
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci rdiff 4.4
+ci oil 4
+ci tcase -NA-
+ci fuel 26.5
+ci trans 19
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci ftred 64
+ci rtred 63.4
+ci length 225.9
+ci height 58.9
+ci wbase 124
+ci width 79.4
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci englo Stamped on block forward of number 2 cylinder bore adjacent to the distributor.
+ci comp 8.2
+ci vlift Hydraulic
+ci cyl 8
+ci rhp 60.27
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 400
+ci b&s 4.34 & 3 3/4
+ci trq 300@3200
+ci etype Torqueflite automatic
+ci bhp 175@4000
+ci color Exterior Colors
+co Bolivia Green
+co Edmonton Beige
+co Kitchener Green
+co Malibu Brown
+co Mexico Red
+co New Brunswick Blue
+co Peru Gray
+co Plymouth Cream
+co Rio Maroon
+co Salvador Blue
+co Trinidad Brown
+co Two Tone Colors Available
+co Yukon Gray
+ci cool Water pump
+ci batt 12
+ci cool 16.5 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ftype Regular
+ci ign Electronic
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip Power seats
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize LR78 x 15
+cls 6358, PH46(\w)5(\w)([\dX]{6})
+clv 25686, 1975, Plymouth, Gran Fury Suburban, Custom Suburban - 3 seat
+ci axle Semifloating
+ci make Plymouth
+ci series Gran Fury Suburban
+ci prod 4500
+ci msrp $5294.00
+ci year 1975
+ci origin United States
+ci doors 4
+ci pass 9
+ci maker Plymouth
+ci model PH46
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.6
+ci rdiff 4.4
+ci tcase -NA-
+ci oil 4
+ci trans 19
+ci fuel 26.5
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci height 58.9
+ci width 79.4
+ci rtred 63.4
+ci ftred 64
+ci length 225.9
+ci wbase 124
+ci comp 8.2
+ci englo Stamped on block forward of number 2 cylinder bore adjacent to the distributor.
+ci etype V8 overhead valve
+ci bhp 175@4000
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 400
+ci b&s 4.34 & 3 3/4
+ci trq 300@3200
+ci etype Torqueflite automatic
+ci rhp 60.27
+ci color Exterior Colors
+co Bolivia Green
+co Edmonton Beige
+co Kitchener Green
+co Malibu Brown
+co Mexico Red
+co New Brunswick Blue
+co Peru Gray
+co Plymouth Cream
+co Rio Maroon
+co Salvador Blue
+co Trinidad Brown
+co Two Tone Colors Available
+co Yukon Gray
+ci cool Water pump
+ci batt 12
+ci cool 16.5 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ftype Regular
+ci ign Electronic
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip Power seats
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize LR78 x 15
+cls 6359, PP46(\w)5(\w)([\dX]{6})
+clv 25687, 1975, Plymouth, Gran Fury Suburban, Sport Suburban - 2 seat
+ci axle Semifloating
+ci make Plymouth
+ci series Gran Fury Suburban
+ci prod 4740
+ci msrp $5573.00
+ci year 1975
+ci origin United States
+ci doors 4
+ci pass 9
+ci maker Plymouth
+ci model PP46
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.6
+ci rdiff 4.4
+ci tcase -NA-
+ci oil 4
+ci trans 19
+ci fuel 26.5
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci height 58.9
+ci width 79.4
+ci rtred 63.4
+ci ftred 64
+ci length 225.9
+ci wbase 124
+ci comp 8.2
+ci englo Stamped on block forward of number 2 cylinder bore adjacent to the distributor.
+ci etype V8 overhead valve
+ci bhp 175@4000
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 400
+ci b&s 4.34 & 3 3/4
+ci trq 300@3200
+ci etype Torqueflite automatic
+ci rhp 60.27
+ci color Exterior Colors
+co Bolivia Green
+co Edmonton Beige
+co Kitchener Green
+co Malibu Brown
+co Mexico Red
+co New Brunswick Blue
+co Peru Gray
+co Plymouth Cream
+co Rio Maroon
+co Salvador Blue
+co Trinidad Brown
+co Two Tone Colors Available
+co Yukon Gray
+ci cool Water pump
+ci batt 12
+ci cool 16.5 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ftype Regular
+ci ign Electronic
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip Power seats
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize LR78 x 15
+cls 6360, PM45(\w)5(\w)([\dX]{6})
+clv 25688, 1975, Plymouth, Gran Fury Suburban, Suburban - 2 seat
+ci axle Semifloating
+ci msrp $5067.00
+ci make Plymouth
+ci series Gran Fury Suburban
+ci prod 2295
+ci origin United States
+ci year 1975
+ci pass 6
+ci model PM45
+ci doors 4
+ci maker Plymouth
+ci ebrake Rear service brakes
+ci fbsize 11.6
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci rdiff 4.4
+ci oil 4
+ci tcase -NA-
+ci fuel 26.5
+ci trans 19
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci ftred 64
+ci rtred 63.4
+ci length 225.9
+ci wbase 124
+ci height 58.9
+ci width 79.4
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci englo Stamped on block forward of number 2 cylinder bore adjacent to the distributor.
+ci comp 8.2
+ci vlift Hydraulic
+ci cyl 8
+ci rhp 60.27
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 400
+ci b&s 4.34 & 3 3/4
+ci trq 300@3200
+ci etype Torqueflite automatic
+ci bhp 175@4000
+ci color Exterior Colors
+co Bolivia Green
+co Edmonton Beige
+co Kitchener Green
+co Malibu Brown
+co Mexico Red
+co New Brunswick Blue
+co Peru Gray
+co Plymouth Cream
+co Rio Maroon
+co Salvador Blue
+co Trinidad Brown
+co Two Tone Colors Available
+co Yukon Gray
+ci cool Water pump
+ci batt 12
+ci cool 16.5 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ftype Regular
+ci ign Electronic
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip Power seats
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize LR78 x 15
+cls 6361, PP45(\w)5(\w)([\dX]{6})
+clv 25689, 1975, Plymouth, Gran Fury Suburban, Super S. Sedan
+ci axle Semifloating
+ci msrp $5455.00
+ci make Plymouth
+ci series Gran Fury Suburban
+ci year 1975
+ci prod 1508
+ci origin United States
+ci pass 6
+ci model PP45
+ci maker Plymouth
+ci doors 4
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.6
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 26.5
+ci oil 4
+ci tcase -NA-
+ci rdiff 4.4
+ci trans 19
+ci ctype Not applicable
+ci diffr 2.71
+ci diff Hypoid
+ci ftred 64
+ci rtred 63.4
+ci wbase 124
+ci length 225.9
+ci height 58.9
+ci width 79.4
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci englo Stamped on block forward of number 2 cylinder bore adjacent to the distributor.
+ci trq 300@3200
+ci vlift Hydraulic
+ci comp 8.2
+ci etype Torqueflite automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci disp 400
+ci rhp 60.27
+ci bhp 175@4000
+ci b&s 4.34 & 3 3/4
+ci color Exterior Colors
+co Bolivia Green
+co Edmonton Beige
+co Kitchener Green
+co Malibu Brown
+co Mexico Red
+co New Brunswick Blue
+co Peru Gray
+co Plymouth Cream
+co Rio Maroon
+co Salvador Blue
+co Trinidad Brown
+co Two Tone Colors Available
+co Yukon Gray
+ci cool Water pump
+ci batt 12
+ci cool 16.5 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ftype Regular
+ci ign Electronic
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip Power seats
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize LR78 x 15
+cls 6362, RM23(\w)5(\w)([\dX]{6})
+clv 25690, 1975, Plymouth, Road Runner, Coupe
+ci axle Semifloating
+ci make Plymouth
+ci prod 7183
+ci origin United States
+ci msrp $3973.00
+ci series Road Runner
+ci year 1975
+ci model RM21
+ci maker Plymouth
+ci doors 2
+ci ebrake Rear service brakes
+ci fbsize 10.8
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci tcase -NA-
+ci rdiff 4.4
+ci oil 4
+ci trans 4.75
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.21
+ci wbase 118
+ci ftred 61.9
+ci rtred 62
+ci etype Dual downdraft
+ci cyl 8
+ci comp 8.6
+ci etype V8 overhead valve
+ci disp 317.58
+ci block Cast Iron
+ci rhp 48.83
+ci bhp 150@4000
+ci trq 255@1600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci englo Stamped on front of block just below left cylinder head.
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci rad Tube and spacer
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci ign Electronic
+ci cool 16.5 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Power steering
+ci equip Power seats
+ci equip Radio
+ci equip Power brakes
+ci equip Speed control device
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci gears 3
+ci 2gear 1.7
+ci 5gear Not applicable
+ci rev 2.9
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 6363, RP23(\w)5(\w)([\dX]{6})
+clv 25691, 1975, Plymouth, Sport Fury, Hardtop
+ci axle Semifloating
+ci msrp $4105.00
+ci origin United States
+ci series Sport Fury
+ci make Plymouth
+ci year 1975
+ci prod 17782
+ci maker Plymouth
+ci model RP23
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 10
+ci fbsize 10.8
+ci svc Front disc rear self-adjusting drum
+ci oil 4
+ci trans 4.75
+ci fuel 25.5
+ci tcase -NA-
+ci rdiff 4.4
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 2.71
+ci diff Hypoid
+ci length 213.8
+ci wbase 118
+ci width 77.7
+ci height 52.6
+ci ftred 61.9
+ci rtred 62
+ci mbear 5
+ci cyl 8
+ci comp 8.6
+ci rhp 48.83
+ci disp 317.58
+ci block Cast Iron
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci bhp 150@4000
+ci b&s 3 29/32 & 3 5/16
+ci trq 255@1600
+ci vlift Hydraulic
+ci englo Stamped on front of block just below left cylinder head.
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci exha Single
+ci cool 16.5 Quarts
+ci rad Tube and spacer
+ci batt 12
+ci ftype Regular
+ci ign Electronic
+ci cool Water pump
+ci equip Power seats
+ci equip Power brakes
+ci equip Power windows
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci equip Power steering
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.9
+ci gears 3
+ci 2gear 1.7
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 6364, VL41(\w)5(\w)([\dX]{6})
+clv 25692, 1975, Plymouth, Valiant 6, Sedan
+ci axle Semifloating
+ci msrp $3247.00
+ci prod 44471
+ci series Valiant 6
+ci year 1975
+ci make Plymouth
+ci origin United States
+ci maker Plymouth
+ci model VL41
+ci bsize 9
+ci fbsize 10
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 16
+ci trans 3.6
+ci oil 4
+ci tcase -NA-
+ci rdiff 2.1
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 2.76
+ci rtred 55.6
+ci height 54.1
+ci length 199
+ci width 71
+ci wbase 111
+ci ftred 59.1
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci comp 8.4
+ci cyl 6
+ci trq 170@1600
+ci etype Slant 6  overhead valve
+ci block Cast Iron
+ci bhp 95@3600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci disp 225.54
+ci b&s 3 13/32 & 4 1/8
+ci rhp 27.85
+ci etype Single downdraft
+ci mbear 4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool 13 Quarts
+ci rad Tube and spacer
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci ign Electronic
+ci cool Water pump
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power brakes
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci 1gear 2.99
+ci 2gear 1.77
+ci gears 3
+ci rev 3.17
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.95 x 15
+ci sloc Trunk
+cls 6365, VP23(\w)5(\w)([\dX]{6})
+clv 25693, 1975, Plymouth, Valiant Brougham 6, Hardtop
+ci axle Semifloating
+ci series Valiant Brougham 6
+ci prod 5781
+ci origin United States
+ci msrp $4232.00
+ci year 1975
+ci make Plymouth
+ci maker Plymouth
+ci model VP23
+ci doors 2
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fbsize 10
+ci rdiff 2.1
+ci fuel 16
+ci tcase -NA-
+ci trans 17
+ci oil 4
+ci ctype Not applicable
+ci diffr 2.76
+ci diff Hypoid
+ci ftred 59.1
+ci wbase 111
+ci length 199
+ci height 54.1
+ci rtred 55.6
+ci width 71
+ci bhp 95@3600
+ci comp 8.4
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci vlift Hydraulic
+ci cyl 6
+ci mbear 4
+ci etype Slant 6  overhead valve
+ci etype Torqueflite automatic
+ci b&s 3 13/32 & 4 1/8
+ci trq 170@1600
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci disp 225.54
+ci rhp 27.85
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool 13 Quarts
+ci ign Electronic
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Radio
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.95 x 15
+ci sloc Trunk
+cls 6366, VP41(\w)5(\w)([\dX]{6})
+clv 25694, 1975, Plymouth, Valiant Brougham 6, Sedan
+ci axle Semifloating
+ci series Valiant Brougham 6
+ci msrp $4139.00
+ci make Plymouth
+ci origin United States
+ci prod 17803
+ci year 1975
+ci model VP41
+ci maker Plymouth
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fbsize 10
+ci fuel 16
+ci rdiff 2.1
+ci trans 17
+ci tcase -NA-
+ci oil 4
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.76
+ci wbase 111
+ci rtred 55.6
+ci height 54.1
+ci width 71
+ci length 199
+ci ftred 59.1
+ci comp 8.4
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci block Cast Iron
+ci etype Slant 6  overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci bhp 95@3600
+ci etype Torqueflite automatic
+ci etype Single downdraft
+ci cyl 6
+ci mbear 4
+ci b&s 3 13/32 & 4 1/8
+ci rhp 27.85
+ci disp 225.54
+ci trq 170@1600
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool Water pump
+ci batt 12
+ci cool 13 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ftype Regular
+ci ign Electronic
+ci equip Power brakes
+ci equip Radio
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.95 x 15
+ci sloc Trunk
+cls 6367, VP23(\w)4(\w)([\dX]{6})
+clv 25695, 1975, Plymouth, Valiant Brougham V8, Hardtop
+ci axle Semifloating
+ci series Valiant Brougham V8
+ci prod 5781
+ci msrp $4328.00
+ci origin United States
+ci make Plymouth
+ci year 1975
+ci model VP23
+ci maker Plymouth
+ci doors 2
+ci fbsize 10.8
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci bsize 10
+ci fuel 16
+ci trans 4.75
+ci tcase -NA-
+ci rdiff 4.4
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.45
+ci diff Hypoid
+ci ftred 59.1
+ci length 199
+ci rtred 55.6
+ci wbase 111
+ci width 71
+ci height 54.1
+ci block Cast Iron
+ci englo Stamped on front of block just below left cylinder head.
+ci b&s 3 29/32 & 3 5/16
+ci comp 8.5
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci trq 255@1600
+ci cyl 8
+ci vlift Hydraulic
+ci etype Torqueflite automatic
+ci disp 317.58
+ci bhp 145@4000
+ci rhp 48.83
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci batt 12
+ci cool Water pump
+ci ign Electronic
+ci ftype Regular
+ci exha Single
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip 360 cu. in. V8 engine
+ci equip Speed control device
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.95 x 15
+ci sloc Trunk
+cls 6368, VP23(\w)5(\w)([\dX]{6})
+clv 25696, 1975, Plymouth, Valiant Brougham V8, Sedan
+ci axle Semifloating
+ci prod 17803
+ci msrp $4235.00
+ci origin United States
+ci series Valiant Brougham V8
+ci year 1975
+ci make Plymouth
+ci model VP41
+ci doors 4
+ci maker Plymouth
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fbsize 10.8
+ci rdiff 4.4
+ci trans 4.75
+ci tcase -NA-
+ci oil 4
+ci fuel 16
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.45
+ci diff Hypoid
+ci ftred 59.1
+ci rtred 55.6
+ci length 199
+ci wbase 111
+ci width 71
+ci height 54.1
+ci block Cast Iron
+ci englo Stamped on front of block just below left cylinder head.
+ci b&s 3 29/32 & 3 5/16
+ci comp 8.5
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci trq 255@1600
+ci cyl 8
+ci vlift Hydraulic
+ci etype Torqueflite automatic
+ci disp 317.58
+ci bhp 145@4000
+ci mbear 5
+ci rhp 48.83
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci batt 12
+ci cool Water pump
+ci ign Electronic
+ci ftype Regular
+ci exha Single
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip 360 cu. in. V8 engine
+ci equip Speed control device
+ci sgear Power
+ci rsus Leaf spring
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.95 x 15
+ci sloc Trunk
+cls 6369, VH41(\w)5(\w)([\dX]{6})
+clv 25697, 1975, Plymouth, Valiant Custom 6, Sedan
+ci axle Semifloating
+ci prod 56258
+ci msrp $3422.00
+ci series Valiant Custom 6
+ci origin United States
+ci year 1975
+ci make Plymouth
+ci maker Plymouth
+ci doors 2
+ci model VH41
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9
+ci fbsize 10
+ci fuel 16
+ci tcase -NA-
+ci rdiff 2.1
+ci trans 3.6
+ci oil 4
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 2.76
+ci length 199
+ci rtred 55.6
+ci height 54.1
+ci ftred 59.1
+ci wbase 111
+ci width 71
+ci bhp 95@3600
+ci comp 8.4
+ci rhp 27.85
+ci etype Single downdraft
+ci disp 225.54
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype Slant 6  overhead valve
+ci b&s 3 13/32 & 4 1/8
+ci trq 170@1600
+ci mbear 4
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci rad Tube and spacer
+ci cool 13 Quarts
+ci batt 12
+ci ign Electronic
+ci cool Water pump
+ci ftype Regular
+ci exha Single
+ci equip Speed control device
+ci equip Power brakes
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 2gear 1.77
+ci gears 3
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 15
+cls 6370, VH41(\w)5(\w)([\dX]{6})
+clv 25698, 1975, Plymouth, Valiant Custom V8, Sedan
+ci axle Semifloating
+ci msrp $3544.00
+ci prod 56258
+ci year 1975
+ci origin United States
+ci series Valiant Custom V8
+ci make Plymouth
+ci model VH41
+ci maker Plymouth
+ci doors 2
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci fbsize 10.8
+ci ebrake Rear service brakes
+ci trans 4.75
+ci rdiff 4.4
+ci tcase -NA-
+ci fuel 16
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.45
+ci wbase 111
+ci width 71
+ci ftred 59.1
+ci height 54.1
+ci rtred 55.6
+ci length 199
+ci b&s 3 29/32 & 3 5/16
+ci mbear 5
+ci rhp 48.83
+ci cyl 8
+ci comp 8.5
+ci bhp 145@4000
+ci englo Stamped on front of block just below left cylinder head.
+ci block Cast Iron
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci trq 255@1600
+ci disp 317.58
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool 16 Quarts
+ci cool Water pump
+ci batt 12
+ci rad Tube and spacer
+ci ign Electronic
+ci exha Single
+ci ftype Regular
+ci equip Power steering
+ci equip Speed control device
+ci equip Radio
+ci equip 360 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power brakes
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci rev 2.9
+ci 3gear 1
+ci gears 3
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.95 x 15
+ci sloc Trunk
+cls 6371, VH23(\w)5(\w)([\dX]{6})
+clv 25699, 1975, Plymouth, Valiant Scamp 6, Hardtop
+ci axle Semifloating
+ci origin United States
+ci msrp $3518.00
+ci series Valiant Scamp 6
+ci prod 23581
+ci year 1975
+ci make Plymouth
+ci maker Plymouth
+ci doors 2
+ci model VH23
+ci svc Hydraulic self-adjusting
+ci bsize 9
+ci fbsize 10
+ci ebrake Rear service brakes
+ci rdiff 2.1
+ci tcase -NA-
+ci fuel 16
+ci oil 4
+ci trans 3.6
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 2.76
+ci diff Hypoid
+ci length 199
+ci height 52.8
+ci rtred 55.6
+ci ftred 59.1
+ci width 71
+ci wbase 111
+ci etype Single downdraft
+ci comp 8.4
+ci cyl 6
+ci bhp 95@3600
+ci disp 225.54
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci rhp 27.85
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype Slant 6  overhead valve
+ci mbear 4
+ci trq 170@1600
+ci b&s 3 13/32 & 4 1/8
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci rad Tube and spacer
+ci cool 13 Quarts
+ci batt 12
+ci ign Electronic
+ci cool Water pump
+ci ftype Regular
+ci exha Single
+ci equip Speed control device
+ci equip Power brakes
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 2gear 1.77
+ci gears 3
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 15
+cls 6372, VH23(\w)5(\w)([\dX]{6})
+clv 25700, 1975, Plymouth, Valiant Scamp V8, Hardtop
+ci axle Semifloating
+ci year 1975
+ci prod 23581
+ci series Valiant Scamp V8
+ci origin United States
+ci msrp $3640.00
+ci make Plymouth
+ci maker Plymouth
+ci doors 2
+ci model VH23
+ci fbsize 10.8
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci oil 4
+ci fuel 16
+ci trans 4.75
+ci tcase -NA-
+ci rdiff 4.4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.45
+ci diff Hypoid
+ci width 71
+ci length 199
+ci wbase 111
+ci ftred 59.1
+ci height 52.8
+ci rtred 55.6
+ci mbear 5
+ci rhp 48.83
+ci bhp 145@4000
+ci cyl 8
+ci comp 8.5
+ci etype V8 overhead valve
+ci disp 317.58
+ci block Cast Iron
+ci etype Dual downdraft
+ci b&s 3 29/32 & 3 5/16
+ci trq 255@1600
+ci englo Stamped on front of block just below left cylinder head.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci cool 16 Quarts
+ci cool Water pump
+ci batt 12
+ci rad Tube and spacer
+ci ign Electronic
+ci exha Single
+ci ftype Regular
+ci equip Power steering
+ci equip Speed control device
+ci equip Radio
+ci equip 360 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power brakes
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci rev 2.9
+ci 3gear 1
+ci gears 3
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.95 x 15
+ci sloc Trunk
+cls 6373, VL41(\w)5(\w)([\dX]{6})
+clv 25701, 1975, Plymouth, Valiant V8, Sedan
+ci axle Semifloating
+ci msrp $3369.00
+ci origin United States
+ci make Plymouth
+ci series Valiant V8
+ci prod 44471
+ci year 1975
+ci doors 4
+ci model VL41
+ci maker Plymouth
+ci bsize 10
+ci ebrake Rear service brakes
+ci fbsize 10.8
+ci svc Front disc rear self-adjusting drum
+ci oil 4
+ci trans 4.75
+ci tcase -NA-
+ci fuel 16
+ci rdiff 4.4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.45
+ci width 71
+ci wbase 111
+ci length 199
+ci ftred 59.1
+ci height 54.1
+ci rtred 55.6
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Stamped on front of block just below left cylinder head.
+ci cyl 8
+ci comp 8.5
+ci disp 317.58
+ci b&s 3 29/32 & 3 5/16
+ci block Cast Iron
+ci etype Dual downdraft
+ci bhp 145@4000
+ci trq 255@1600
+ci etype V8 overhead valve
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci rhp 48.83
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Astral Blue Met
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Bittersweet Metallic
+co Brite Red
+co Cinnamon Metallic
+co Dark Chestnut Metallic
+co Deep Sherwood Metallic
+co Formal Black
+co Frosty Green Metallic
+co Golden Fawn
+co Inca Gold Metallic
+co Lucerne Blue Metallic
+co Moondust Metallic
+co Platinum Metallic
+co Powder Blue
+co Sahara Beige
+co Sienna Metallic
+co Silver Cloud Metallic
+co Spanish Gold Metallic
+co Spinnaker White
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Vintage Red Metallic
+co Yellow Blaze
+ci exha Single
+ci ign Electronic
+ci ftype Regular
+ci batt 12
+ci rad Tube and spacer
+ci cool 16 Quarts
+ci cool Water pump
+ci equip Power steering
+ci equip Radio
+ci equip 360 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Recirculating ball
+ci fsus Independent torsion bar
+ci rsus Leaf spring
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.7
+ci 1gear 3.08
+ci gears 3
+ci rev 2.9
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 6.95 x 15
+ci sloc Trunk

@@ -1,0 +1,982 @@
+cls 4911, 519W([\dX]{5})
+clv 21404, 1951, Oldsmobile, 98, Convertible Coupe Deluxe
+ci axle Semifloating
+ci series 98
+ci make Oldsmobile
+ci origin United States
+ci year 1951
+ci msrp $2595.00
+ci prod 4468
+ci model 3867X
+ci weight 4107
+ci maker Fisher
+ci doors 2
+ci bsize 11
+ci svc Hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2
+ci fuel 18
+ci rdiff 3.75
+ci tcase -NA-
+ci oil 5
+ci carb Carter or Rochester
+ci ctype Single plate
+ci csize 10.5 inches
+ci diffr 3.90
+ci diff Hypoid
+ci wbase 122
+ci length 208
+ci height 62 5/16
+ci rtred 61.5
+ci width 80 11/16
+ci ftred 59
+ci englo Stamped on pad on left cylinder bank of block.
+ci mbear 5
+ci rhp 45.0
+ci comp 7.5
+ci disp 303.7
+ci cyl 8
+ci b&s 3 3/4 & 3 7/16
+ci etype 90 degree V8 Valve-in-head
+ci etype Helical
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 135@3600
+ci vlift Hydraulic
+ci engno Starting 8C1001
+ci etype Dual downdraft
+ci trq 263@1800
+ci color Exterior Colors
+co Algiers Blue
+co Canto Cream
+co Cascade Green
+co Chariot Red
+co Dove Gray
+co Empire Maroon
+co Flint Gray
+co Otsego Blue
+co Palm Green
+co Sand Beige
+co Serge Blue
+co Shoal Green
+co Two Tone Colors Available
+ci cool 21.5 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci batt 6
+ci rad Vee cellular
+ci equip Hydra-Matic automatic transmission
+ci sgear Ball & nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 2gear 1.53
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.39
+ci rev 2.53
+ci gears 3
+ci vloc On left front body hinge pillar.
+ci sloc Trunk
+ci tsize 7.6 x 15
+ci wsize 15 x 5.5
+ci ttype 4 ply
+cls 4912, 519W([\dX]{5})
+clv 21405, 1951, Oldsmobile, 98, Deluxe Sedan
+ci axle Semifloating
+ci prod 78122
+ci series 98
+ci origin United States
+ci make Oldsmobile
+ci msrp $2235.00
+ci year 1951
+ci weight 3787
+ci maker Fisher
+ci doors 4
+ci model 3869D
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic drum
+ci oil 5
+ci trans 2
+ci tcase -NA-
+ci rdiff 3.75
+ci fuel 18
+ci carb Carter or Rochester
+ci ctype Single plate
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 3.90
+ci wbase 122
+ci width 80 11/16
+ci length 208
+ci height 62 5/16
+ci ftred 59
+ci rtred 61.5
+ci comp 7.5
+ci disp 303.7
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci rhp 45.0
+ci cyl 8
+ci englo Stamped on pad on left cylinder bank of block.
+ci etype 90 degree V8 Valve-in-head
+ci engno Starting 8C1001
+ci trq 263@1800
+ci bhp 135@3600
+ci vlift Hydraulic
+ci etype Helical
+ci etype Dual downdraft
+ci b&s 3 3/4 & 3 7/16
+ci color Exterior Colors
+co Algiers Blue
+co Canto Cream
+co Cascade Green
+co Chariot Red
+co Dove Gray
+co Empire Maroon
+co Flint Gray
+co Otsego Blue
+co Palm Green
+co Sand Beige
+co Serge Blue
+co Shoal Green
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci cool 21.5 Quarts
+ci batt 6
+ci rad Vee cellular
+ci equip Hydra-Matic automatic transmission
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 2gear 1.53
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.39
+ci gears 3
+ci rev 2.53
+ci vloc On left front body hinge pillar.
+ci sloc Trunk
+ci tsize 7.6 x 15
+ci ttype 4 ply
+ci wsize 15 x 5.5
+cls 4913, 519W([\dX]{5})
+clv 21406, 1951, Oldsmobile, 98, Holiday Coupe
+ci axle Semifloating
+ci msrp $2225.00
+ci series 98
+ci origin United States
+ci year 1951
+ci prod 3917
+ci make Oldsmobile
+ci maker Fisher
+ci model 3837
+ci weight 3762
+ci doors 2
+ci bsize 11
+ci svc Hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2
+ci rdiff 3.75
+ci fuel 18
+ci tcase -NA-
+ci oil 5
+ci carb Carter or Rochester
+ci csize 10.5 inches
+ci ctype Single plate
+ci diff Hypoid
+ci diffr 3.90
+ci height 62 5/16
+ci length 208
+ci width 80 11/16
+ci rtred 61.5
+ci wbase 122
+ci ftred 59
+ci rhp 45.0
+ci mbear 5
+ci bhp 135@3600
+ci comp 7.5
+ci disp 303.7
+ci cyl 8
+ci b&s 3 3/4 & 3 7/16
+ci etype 90 degree V8 Valve-in-head
+ci trq 263@1800
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Helical
+ci englo Stamped on pad on left cylinder bank of block.
+ci etype Dual downdraft
+ci engno Starting 8C1001
+ci color Exterior Colors
+co Algiers Blue
+co Canto Cream
+co Cascade Green
+co Chariot Red
+co Dove Gray
+co Empire Maroon
+co Flint Gray
+co Otsego Blue
+co Palm Green
+co Sand Beige
+co Serge Blue
+co Shoal Green
+co Two Tone Colors Available
+ci cool 21.5 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci batt 6
+ci cool Centrifugal pump with thermostat
+ci rad Vee cellular
+ci equip Hydra-Matic automatic transmission
+ci sgear Ball & nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 2gear 1.53
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.39
+ci rev 2.53
+ci gears 3
+ci vloc On left front body hinge pillar.
+ci sloc Trunk
+ci tsize 7.6 x 15
+ci wsize 15 x 5.5
+ci ttype 4 ply
+cls 4914, 519W([\dX]{5})
+clv 21407, 1951, Oldsmobile, 98, Holiday Coupe DeLuxe
+ci axle Semifloating
+ci msrp $2470.00
+ci year 1951
+ci origin United States
+ci prod 14012
+ci make Oldsmobile
+ci series 98
+ci model 3837DX
+ci maker Fisher
+ci weight 3857
+ci doors 2
+ci svc Hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci oil 5
+ci fuel 18
+ci tcase -NA-
+ci rdiff 3.75
+ci trans 2
+ci carb Carter or Rochester
+ci csize 10.5 inches
+ci ctype Single plate
+ci diffr 3.90
+ci diff Hypoid
+ci ftred 59
+ci width 80 11/16
+ci length 208
+ci rtred 61.5
+ci wbase 122
+ci height 62 5/16
+ci b&s 3 3/4 & 3 7/16
+ci mbear 5
+ci rhp 45.0
+ci comp 7.5
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci englo Stamped on pad on left cylinder bank of block.
+ci etype 90 degree V8 Valve-in-head
+ci trq 263@1800
+ci disp 303.7
+ci engno Starting 8C1001
+ci vlift Hydraulic
+ci etype Helical
+ci etype Dual downdraft
+ci bhp 135@3600
+ci color Exterior Colors
+co Algiers Blue
+co Canto Cream
+co Cascade Green
+co Chariot Red
+co Dove Gray
+co Empire Maroon
+co Flint Gray
+co Otsego Blue
+co Palm Green
+co Sand Beige
+co Serge Blue
+co Shoal Green
+co Two Tone Colors Available
+ci batt 6
+ci cool 21.5 Quarts
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci exha Single
+ci rad Vee cellular
+ci equip Hydra-Matic automatic transmission
+ci sgear Ball & nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci gears 3
+ci 3gear 1
+ci 2gear 1.53
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.53
+ci 1gear 2.39
+ci vloc On left front body hinge pillar.
+ci sloc Trunk
+ci ttype 4 ply
+ci tsize 7.6 x 15
+ci wsize 15 x 5.5
+cls 4915, 518W([\dX]{5})
+clv 21408, 1951, Oldsmobile, Super 88, Club Coupe
+ci axle Semifloating
+ci make Oldsmobile
+ci year 1951
+ci origin United States
+ci series Super 88
+ci model 3627
+ci doors 2
+ci maker Fisher
+ci svc Hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 2
+ci oil 5
+ci fuel 18
+ci rdiff 3.75
+ci tcase -NA-
+ci carb Carter or Rochester
+ci ctype Single plate
+ci csize 10.5 inches
+ci diffr 3.64
+ci diff Hypoid
+ci width 75 3/16
+ci ftred 57
+ci length 202
+ci height 64 1/16
+ci wbase 119.5
+ci rtred 59
+ci bhp 135@3600
+ci disp 303.7
+ci mbear 5
+ci comp 7.5
+ci b&s 3 3/4 & 3 7/16
+ci englo Stamped on pad on left cylinder bank of block.
+ci cyl 8
+ci etype 90 degree V8 Valve-in-head
+ci trq 263@1800
+ci etype Helical
+ci engno Starting 8C1001
+ci etype Dual downdraft
+ci rhp 45.0
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Algiers Blue
+co Canto Cream
+co Cascade Green
+co Chariot Red
+co Dove Gray
+co Empire Maroon
+co Flint Gray
+co Otsego Blue
+co Palm Green
+co Sand Beige
+co Serge Blue
+co Shoal Green
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 21.5 Quarts
+ci rad Vee cellular
+ci batt 6
+ci exha Single
+ci equip Hydra-Matic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.53
+ci 1gear 2.39
+ci rev 2.53
+ci gears 3
+ci vloc On left front body hinge pillar.
+ci wsize 15 x 5.5
+ci sloc Trunk
+ci tsize 7.6 x 15
+ci ttype 4 ply
+cls 4916, 518W([\dX]{5})
+clv 21409, 1951, Oldsmobile, Super 88, Club Coupe Deluxe
+ci axle Semifloating
+ci prod 7328
+ci series Super 88
+ci origin United States
+ci year 1951
+ci msrp $1895.00
+ci make Oldsmobile
+ci model 3627D
+ci doors 2
+ci maker Fisher
+ci svc Hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci fuel 18
+ci trans 2
+ci rdiff 3.75
+ci oil 5
+ci carb Carter or Rochester
+ci ctype Single plate
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 3.64
+ci width 75 3/16
+ci wbase 119.5
+ci height 64 1/16
+ci length 202
+ci ftred 57
+ci rtred 59
+ci b&s 3 3/4 & 3 7/16
+ci engno Starting 8C1001
+ci comp 7.5
+ci mbear 5
+ci rhp 45.0
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci etype 90 degree V8 Valve-in-head
+ci bhp 135@3600
+ci etype Helical
+ci englo Stamped on pad on left cylinder bank of block.
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 303.7
+ci trq 263@1800
+ci color Exterior Colors
+co Algiers Blue
+co Canto Cream
+co Cascade Green
+co Chariot Red
+co Dove Gray
+co Empire Maroon
+co Flint Gray
+co Otsego Blue
+co Palm Green
+co Sand Beige
+co Serge Blue
+co Shoal Green
+co Two Tone Colors Available
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci batt 6
+ci cool 21.5 Quarts
+ci exha Single
+ci rad Vee cellular
+ci equip Hydra-Matic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci rev 2.53
+ci 2gear 1.53
+ci 1gear 2.39
+ci vloc On left front body hinge pillar.
+ci tsize 7.6 x 15
+ci sloc Trunk
+ci ttype 4 ply
+ci wsize 15 x 5.5
+cls 4917, 518W([\dX]{5})
+clv 21410, 1951, Oldsmobile, Super 88, Convertible Coupe Deluxe
+ci axle Semifloating
+ci msrp $2290.00
+ci origin United States
+ci series Super 88
+ci prod 3854
+ci make Oldsmobile
+ci year 1951
+ci maker Fisher
+ci doors 2
+ci model 3667DX
+ci ebrake Rear service brakes
+ci svc Hydraulic drum
+ci bsize 11
+ci tcase -NA-
+ci fuel 18
+ci oil 5
+ci rdiff 3.75
+ci trans 2
+ci carb Carter or Rochester
+ci ctype Single plate
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 3.64
+ci length 202
+ci width 75 3/16
+ci height 64 1/16
+ci rtred 59
+ci wbase 119.5
+ci ftred 57
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 45.0
+ci comp 7.5
+ci bhp 135@3600
+ci disp 303.7
+ci cyl 8
+ci etype 90 degree V8 Valve-in-head
+ci b&s 3 3/4 & 3 7/16
+ci engno Starting 8C1001
+ci englo Stamped on pad on left cylinder bank of block.
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 263@1800
+ci etype Helical
+ci color Exterior Colors
+co Algiers Blue
+co Canto Cream
+co Cascade Green
+co Chariot Red
+co Dove Gray
+co Empire Maroon
+co Flint Gray
+co Otsego Blue
+co Palm Green
+co Sand Beige
+co Serge Blue
+co Shoal Green
+co Two Tone Colors Available
+ci batt 6
+ci cool 21.5 Quarts
+ci ign Distributor and coil
+ci rad Vee cellular
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci equip Hydra-Matic automatic transmission
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.53
+ci gears 3
+ci 1gear 2.39
+ci rev 2.53
+ci vloc On left front body hinge pillar.
+ci ttype 4 ply
+ci sloc Trunk
+ci tsize 7.6 x 15
+ci wsize 15 x 5.5
+cls 4918, 518W([\dX]{5})
+clv 21411, 1951, Oldsmobile, Super 88, Deluxe Sedan
+ci axle Semifloating
+ci make Oldsmobile
+ci origin United States
+ci msrp $1935.00
+ci year 1951
+ci series Super 88
+ci prod 34963
+ci doors 2
+ci model 3611D
+ci maker Fisher
+ci svc Hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci oil 5
+ci tcase -NA-
+ci fuel 18
+ci rdiff 3.75
+ci trans 2
+ci carb Carter or Rochester
+ci csize 10.5 inches
+ci ctype Single plate
+ci diff Hypoid
+ci diffr 3.64
+ci length 202
+ci width 75 3/16
+ci height 64 1/16
+ci rtred 59
+ci wbase 119.5
+ci ftred 57
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 45.0
+ci comp 7.5
+ci bhp 135@3600
+ci disp 303.7
+ci cyl 8
+ci etype 90 degree V8 Valve-in-head
+ci b&s 3 3/4 & 3 7/16
+ci engno Starting 8C1001
+ci englo Stamped on pad on left cylinder bank of block.
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 263@1800
+ci etype Helical
+ci color Exterior Colors
+co Algiers Blue
+co Canto Cream
+co Cascade Green
+co Chariot Red
+co Dove Gray
+co Empire Maroon
+co Flint Gray
+co Otsego Blue
+co Palm Green
+co Sand Beige
+co Serge Blue
+co Shoal Green
+co Two Tone Colors Available
+ci batt 6
+ci cool 21.5 Quarts
+ci ign Distributor and coil
+ci rad Vee cellular
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci equip Hydra-Matic automatic transmission
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.53
+ci gears 3
+ci 1gear 2.39
+ci rev 2.53
+ci vloc On left front body hinge pillar.
+ci ttype 4 ply
+ci sloc Trunk
+ci tsize 7.6 x 15
+ci wsize 15 x 5.5
+cls 4919, 518W([\dX]{5})
+clv 21412, 1951, Oldsmobile, Super 88, Deluxe Sedan
+ci axle Semifloating
+ci msrp $1990.00
+ci origin United States
+ci make Oldsmobile
+ci year 1951
+ci series Super 88
+ci prod 90131
+ci maker Fisher
+ci doors 4
+ci model 3669D
+ci bsize 11
+ci svc Hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2
+ci rdiff 3.75
+ci tcase -NA-
+ci fuel 18
+ci oil 5
+ci carb Carter or Rochester
+ci csize 10.5 inches
+ci ctype Single plate
+ci diffr 3.64
+ci diff Hypoid
+ci length 202
+ci width 75 3/16
+ci wbase 119.5
+ci height 64 1/16
+ci ftred 57
+ci rtred 59
+ci etype 90 degree V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 7.5
+ci mbear 5
+ci rhp 45.0
+ci cyl 8
+ci b&s 3 3/4 & 3 7/16
+ci englo Stamped on pad on left cylinder bank of block.
+ci disp 303.7
+ci trq 263@1800
+ci bhp 135@3600
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci engno Starting 8C1001
+ci etype Helical
+ci color Exterior Colors
+co Algiers Blue
+co Canto Cream
+co Cascade Green
+co Chariot Red
+co Dove Gray
+co Empire Maroon
+co Flint Gray
+co Otsego Blue
+co Palm Green
+co Sand Beige
+co Serge Blue
+co Shoal Green
+co Two Tone Colors Available
+ci cool 21.5 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci rad Vee cellular
+ci batt 6
+ci exha Single
+ci equip Hydra-Matic automatic transmission
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.53
+ci gears 3
+ci 1gear 2.39
+ci rev 2.53
+ci vloc On left front body hinge pillar.
+ci ttype 4 ply
+ci sloc Trunk
+ci tsize 7.6 x 15
+ci wsize 15 x 5.5
+cls 4920, 518W([\dX]{5})
+clv 21413, 1951, Oldsmobile, Super 88, Holiday Coupe DeLuxe
+ci axle Semifloating
+ci msrp $2190.00
+ci origin United States
+ci prod 14180
+ci make Oldsmobile
+ci year 1951
+ci series Super 88
+ci maker Fisher
+ci model 3637D
+ci doors 2
+ci svc Hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 18
+ci oil 5
+ci tcase -NA-
+ci trans 2
+ci rdiff 3.75
+ci carb Carter or Rochester
+ci csize 10.5 inches
+ci ctype Single plate
+ci diffr 3.64
+ci diff Hypoid
+ci width 75 3/16
+ci length 202
+ci height 64 1/16
+ci rtred 59
+ci wbase 119.5
+ci ftred 57
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 45.0
+ci comp 7.5
+ci bhp 135@3600
+ci disp 303.7
+ci cyl 8
+ci etype 90 degree V8 Valve-in-head
+ci b&s 3 3/4 & 3 7/16
+ci engno Starting 8C1001
+ci englo Stamped on pad on left cylinder bank of block.
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 263@1800
+ci etype Helical
+ci color Exterior Colors
+co Algiers Blue
+co Canto Cream
+co Cascade Green
+co Chariot Red
+co Dove Gray
+co Empire Maroon
+co Flint Gray
+co Otsego Blue
+co Palm Green
+co Sand Beige
+co Serge Blue
+co Shoal Green
+co Two Tone Colors Available
+ci batt 6
+ci cool 21.5 Quarts
+ci ign Distributor and coil
+ci rad Vee cellular
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci equip Hydra-Matic automatic transmission
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.53
+ci gears 3
+ci 1gear 2.39
+ci rev 2.53
+ci vloc On left front body hinge pillar.
+ci ttype 4 ply
+ci sloc Trunk
+ci tsize 7.6 x 15
+ci wsize 15 x 5.5
+cls 4921, 518W([\dX]{5})
+clv 21414, 1951, Oldsmobile, Super 88, Sedan
+ci axle Semifloating
+ci make Oldsmobile
+ci year 1951
+ci origin United States
+ci series Super 88
+ci model 3611
+ci doors 2
+ci maker Fisher
+ci svc Hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 2
+ci oil 5
+ci fuel 18
+ci rdiff 3.75
+ci tcase -NA-
+ci carb Carter or Rochester
+ci ctype Single plate
+ci csize 10.5 inches
+ci diffr 3.64
+ci diff Hypoid
+ci width 75 3/16
+ci ftred 57
+ci length 202
+ci height 64 1/16
+ci wbase 119.5
+ci rtred 59
+ci bhp 135@3600
+ci disp 303.7
+ci mbear 5
+ci comp 7.5
+ci b&s 3 3/4 & 3 7/16
+ci englo Stamped on pad on left cylinder bank of block.
+ci cyl 8
+ci etype 90 degree V8 Valve-in-head
+ci trq 263@1800
+ci etype Helical
+ci engno Starting 8C1001
+ci etype Dual downdraft
+ci rhp 45.0
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Algiers Blue
+co Canto Cream
+co Cascade Green
+co Chariot Red
+co Dove Gray
+co Empire Maroon
+co Flint Gray
+co Otsego Blue
+co Palm Green
+co Sand Beige
+co Serge Blue
+co Shoal Green
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 21.5 Quarts
+ci rad Vee cellular
+ci batt 6
+ci exha Single
+ci equip Hydra-Matic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.53
+ci 1gear 2.39
+ci rev 2.53
+ci gears 3
+ci vloc On left front body hinge pillar.
+ci wsize 15 x 5.5
+ci sloc Trunk
+ci tsize 7.6 x 15
+ci ttype 4 ply
+cls 4922, 518W([\dX]{5})
+clv 21415, 1951, Oldsmobile, Super 88, Sedan
+ci axle Semifloating
+ci make Oldsmobile
+ci series Super 88
+ci year 1951
+ci origin United States
+ci doors 4
+ci maker Fisher
+ci model 3669
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic drum
+ci tcase -NA-
+ci fuel 18
+ci trans 2
+ci rdiff 3.75
+ci oil 5
+ci carb Carter or Rochester
+ci csize 10.5 inches
+ci ctype Single plate
+ci diff Hypoid
+ci diffr 3.64
+ci width 75 3/16
+ci ftred 57
+ci length 202
+ci height 64 1/16
+ci wbase 119.5
+ci rtred 59
+ci bhp 135@3600
+ci disp 303.7
+ci mbear 5
+ci comp 7.5
+ci b&s 3 3/4 & 3 7/16
+ci englo Stamped on pad on left cylinder bank of block.
+ci cyl 8
+ci etype 90 degree V8 Valve-in-head
+ci trq 263@1800
+ci etype Helical
+ci engno Starting 8C1001
+ci etype Dual downdraft
+ci rhp 45.0
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Algiers Blue
+co Canto Cream
+co Cascade Green
+co Chariot Red
+co Dove Gray
+co Empire Maroon
+co Flint Gray
+co Otsego Blue
+co Palm Green
+co Sand Beige
+co Serge Blue
+co Shoal Green
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 21.5 Quarts
+ci rad Vee cellular
+ci batt 6
+ci exha Single
+ci equip Hydra-Matic automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.53
+ci 1gear 2.39
+ci rev 2.53
+ci gears 3
+ci vloc On left front body hinge pillar.
+ci wsize 15 x 5.5
+ci sloc Trunk
+ci tsize 7.6 x 15
+ci ttype 4 ply

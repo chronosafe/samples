@@ -1,0 +1,801 @@
+cls 957, 6C47(\w)3(\w)([\dX]{6})
+clv 4055, 1973, Cadillac, Calais, Coupe
+ci axle Semifloating
+ci prod 4275
+ci series Calais
+ci origin United States
+ci msrp $5771.00
+ci year 1973
+ci make Cadillac
+ci weight 4797
+ci maker Fisher
+ci doors 2
+ci model 6C47
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci bsize 12
+ci trans 12.2 Quarts
+ci tcase -NA-
+ci rdiff 5
+ci fuel 27
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci wbase 130
+ci rtred 63.3
+ci length 228.5
+ci height 54.1
+ci width 79.8
+ci comp 8.5
+ci cyl 8
+ci rhp 59.2
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 6 + last 8 digits of VIN
+ci etype Downdraft 4-barrel
+ci bhp 220@4000
+ci mbear 5
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci englo On block behind intake manifold.
+ci etype V8 Overhead valve
+ci b&s 4.3 & 4.06
+ci trq 365@2400
+ci disp 472
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antigua Blue Metallic
+co Burnt Sienna Metallic
+co Cotillion White
+co Diplomat Blue Metallic
+co Dynasty Red
+co Forest Green Metallic
+co Garganey Teal Metallic
+co Georgian Silver Metallic
+co Harvest Gold
+co Laredo Tan Metallic
+co Mirage Taupe Metallic
+co Oceanic Teal Firemist Metallic
+co Park Avenue Gray Metallic
+co Phoenix Gold Firemist Metallic
+co Renaissance Gold Metallic
+co Sable Black
+co Sage Metallic
+co Saturn Bronze Firemist Metallic
+co Shadow Taupe Firemist Metallic
+co St. Tropez Blue Firemist Metallic
+co Two Tone Colors Available
+co Viridian Firemist Metallic
+ci cool 21.3 Quarts
+ci exha Single
+ci rad Tube and center
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power brakes
+ci equip Power antenna
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15B
+cls 958, 6C49(\w)3(\w)([\dX]{6})
+clv 4056, 1973, Cadillac, Calais, Sedan
+ci axle Semifloating
+ci series Calais
+ci origin United States
+ci make Cadillac
+ci msrp $5938.00
+ci year 1973
+ci prod 3795
+ci weight 4850
+ci model 6C49
+ci maker Fisher
+ci doors 4
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci bsize 12
+ci tcase -NA-
+ci fuel 27
+ci trans 12.2 Quarts
+ci oil 5
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci rtred 63.3
+ci height 54.6
+ci wbase 130
+ci length 228.5
+ci width 79.8
+ci comp 8.5
+ci cyl 8
+ci rhp 59.2
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 6 + last 8 digits of VIN
+ci etype Downdraft 4-barrel
+ci bhp 220@4000
+ci mbear 5
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci englo On block behind intake manifold.
+ci etype V8 Overhead valve
+ci b&s 4.3 & 4.06
+ci trq 365@2400
+ci disp 472
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antigua Blue Metallic
+co Burnt Sienna Metallic
+co Cotillion White
+co Diplomat Blue Metallic
+co Dynasty Red
+co Forest Green Metallic
+co Garganey Teal Metallic
+co Georgian Silver Metallic
+co Harvest Gold
+co Laredo Tan Metallic
+co Mirage Taupe Metallic
+co Oceanic Teal Firemist Metallic
+co Park Avenue Gray Metallic
+co Phoenix Gold Firemist Metallic
+co Renaissance Gold Metallic
+co Sable Black
+co Sage Metallic
+co Saturn Bronze Firemist Metallic
+co Shadow Taupe Firemist Metallic
+co St. Tropez Blue Firemist Metallic
+co Two Tone Colors Available
+co Viridian Firemist Metallic
+ci cool 21.3 Quarts
+ci exha Single
+ci rad Tube and center
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power brakes
+ci equip Power antenna
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15B
+cls 959, 6D47(\w)3(\w)([\dX]{6})
+clv 4057, 1973, Cadillac, De Ville, Coupe de Ville
+ci axle Semifloating
+ci year 1973
+ci msrp $6168.00
+ci series De Ville
+ci make Cadillac
+ci origin United States
+ci prod 112849
+ci doors 2
+ci maker Fisher
+ci model 6D47
+ci weight 7822
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci oil 5
+ci fuel 27
+ci trans 12.2 Quarts
+ci rdiff 5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci wbase 130
+ci rtred 63.3
+ci width 79.8
+ci height 54.1
+ci length 228.5
+ci b&s 4.3 & 4.06
+ci trq 365@2400
+ci block Cast Iron
+ci etype Turbo Hydra-matic
+ci comp 8.5
+ci bhp 220@4000
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci engno Prefix 6 + last 8 digits of VIN
+ci vlift Hydraulic
+ci englo On block behind intake manifold.
+ci mbear 5
+ci etype V8 Overhead valve
+ci rhp 59.2
+ci disp 472
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antigua Blue Metallic
+co Burnt Sienna Metallic
+co Cotillion White
+co Diplomat Blue Metallic
+co Dynasty Red
+co Forest Green Metallic
+co Garganey Teal Metallic
+co Georgian Silver Metallic
+co Harvest Gold
+co Laredo Tan Metallic
+co Mirage Taupe Metallic
+co Oceanic Teal Firemist Metallic
+co Park Avenue Gray Metallic
+co Phoenix Gold Firemist Metallic
+co Renaissance Gold Metallic
+co Sable Black
+co Sage Metallic
+co Saturn Bronze Firemist Metallic
+co Shadow Taupe Firemist Metallic
+co St. Tropez Blue Firemist Metallic
+co Two Tone Colors Available
+co Viridian Firemist Metallic
+ci cool Centrifugal water  pump
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool 21.3 Quarts
+ci rad Tube and center
+ci equip Radio
+ci equip Power antenna
+ci equip Power steering
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power brakes
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15B
+ci sloc Trunk
+cls 960, 6D49(\w)3(\w)([\dX]{6})
+clv 4058, 1973, Cadillac, De Ville, Sedan de Ville
+ci axle Semifloating
+ci make Cadillac
+ci msrp $6390.00
+ci prod 103394
+ci year 1973
+ci origin United States
+ci series De Ville
+ci maker Fisher
+ci doors 4
+ci model 6D49
+ci weight 4882
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci bsize 12
+ci rdiff 5
+ci tcase -NA-
+ci fuel 27
+ci oil 5
+ci trans 12.2 Quarts
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci rtred 63.3
+ci wbase 130
+ci width 79.8
+ci height 54.6
+ci length 228.5
+ci b&s 4.3 & 4.06
+ci trq 365@2400
+ci block Cast Iron
+ci etype Turbo Hydra-matic
+ci comp 8.5
+ci bhp 220@4000
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci engno Prefix 6 + last 8 digits of VIN
+ci vlift Hydraulic
+ci englo On block behind intake manifold.
+ci rhp 59.2
+ci etype V8 Overhead valve
+ci mbear 5
+ci disp 472
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antigua Blue Metallic
+co Burnt Sienna Metallic
+co Cotillion White
+co Diplomat Blue Metallic
+co Dynasty Red
+co Forest Green Metallic
+co Garganey Teal Metallic
+co Georgian Silver Metallic
+co Harvest Gold
+co Laredo Tan Metallic
+co Mirage Taupe Metallic
+co Oceanic Teal Firemist Metallic
+co Park Avenue Gray Metallic
+co Phoenix Gold Firemist Metallic
+co Renaissance Gold Metallic
+co Sable Black
+co Sage Metallic
+co Saturn Bronze Firemist Metallic
+co Shadow Taupe Firemist Metallic
+co St. Tropez Blue Firemist Metallic
+co Two Tone Colors Available
+co Viridian Firemist Metallic
+ci cool Centrifugal water  pump
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool 21.3 Quarts
+ci rad Tube and center
+ci equip Radio
+ci equip Power antenna
+ci equip Power steering
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power brakes
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15B
+ci sloc Trunk
+cls 961, 6L67(\w)3(\w)([\dX]{6})
+clv 4059, 1973, Cadillac, Eldorado, Convertible
+ci msrp $7546.00
+ci prod 9315
+ci make Cadillac
+ci origin United States
+ci series Eldorado
+ci year 1973
+ci doors 2
+ci maker Fleetwood
+ci model 6L67
+ci weight 4863
+ci bsize 12
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci oil 6
+ci rdiff Not applicable
+ci trans 12.2 Quarts
+ci tcase -NA-
+ci fdiff 5
+ci fuel 27
+ci carb Rochester
+ci diffr 3.07
+ci ftred 63.66
+ci rtred 63.59
+ci wbase 126.3
+ci length 222
+ci width 79.8
+ci height 54.3
+ci bhp 235@3800
+ci disp 500
+ci cyl 8
+ci comp 8.5
+ci block Cast Iron
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci trq 385@2400
+ci engno Prefix 6 + last 8 digits of VIN
+ci rhp 59.17
+ci etype V8 Overhead valve
+ci englo On block behind intake manifold.
+ci vlift Hydraulic
+ci b&s 4.3 & 4.3
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antigua Blue Metallic
+co Burnt Sienna Metallic
+co Cotillion White
+co Diplomat Blue Metallic
+co Dynasty Red
+co Forest Green Metallic
+co Garganey Teal Metallic
+co Georgian Silver Metallic
+co Harvest Gold
+co Laredo Tan Metallic
+co Mirage Taupe Metallic
+co Oceanic Teal Firemist Metallic
+co Park Avenue Gray Metallic
+co Phoenix Gold Firemist Metallic
+co Renaissance Gold Metallic
+co Sable Black
+co Sage Metallic
+co Saturn Bronze Firemist Metallic
+co Shadow Taupe Firemist Metallic
+co St. Tropez Blue Firemist Metallic
+co Two Tone Colors Available
+co Viridian Firemist Metallic
+ci ign Distributor and coil
+ci cool 21.3 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci equip Power brakes
+ci equip Power antenna
+ci equip Radio
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power steering
+ci sgear Variable-ratio power
+ci fsus Torsion bar
+ci rsus Helical coil
+ci drive Front wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15B
+cls 962, 6L47(\w)3(\w)([\dX]{6})
+clv 4060, 1973, Cadillac, Eldorado, Coupe
+ci msrp $7230.00
+ci origin United States
+ci make Cadillac
+ci series Eldorado
+ci prod 42136
+ci year 1973
+ci doors 2
+ci maker Fleetwood
+ci model 6L47
+ci weight 4777
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci rdiff Not applicable
+ci fuel 27
+ci oil 6
+ci trans 12.2 Quarts
+ci fdiff 5
+ci carb Rochester
+ci diffr 3.07
+ci height 53.9
+ci length 222
+ci rtred 63.59
+ci ftred 63.66
+ci wbase 126.3
+ci width 79.8
+ci cyl 8
+ci comp 8.5
+ci rhp 59.17
+ci bhp 235@3800
+ci block Cast Iron
+ci disp 500
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci etype V8 Overhead valve
+ci engno Prefix 6 + last 8 digits of VIN
+ci trq 385@2400
+ci englo On block behind intake manifold.
+ci b&s 4.3 & 4.3
+ci vlift Hydraulic
+ci etype Turbo Hydra-matic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antigua Blue Metallic
+co Burnt Sienna Metallic
+co Cotillion White
+co Diplomat Blue Metallic
+co Dynasty Red
+co Forest Green Metallic
+co Garganey Teal Metallic
+co Georgian Silver Metallic
+co Harvest Gold
+co Laredo Tan Metallic
+co Mirage Taupe Metallic
+co Oceanic Teal Firemist Metallic
+co Park Avenue Gray Metallic
+co Phoenix Gold Firemist Metallic
+co Renaissance Gold Metallic
+co Sable Black
+co Sage Metallic
+co Saturn Bronze Firemist Metallic
+co Shadow Taupe Firemist Metallic
+co St. Tropez Blue Firemist Metallic
+co Two Tone Colors Available
+co Viridian Firemist Metallic
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci batt 12
+ci cool 21.3 Quarts
+ci exha Single
+ci equip Power brakes
+ci equip Power antenna
+ci equip Radio
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Power steering
+ci sgear Variable-ratio power
+ci fsus Torsion bar
+ci rsus Helical coil
+ci gears 3
+ci drive Front wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15B
+cls 963, 6B69(\w)3(\w)([\dX]{6})
+clv 4061, 1973, Cadillac, Fleetwood, Brougham
+ci axle Semifloating
+ci prod 24800
+ci series Fleetwood
+ci origin United States
+ci msrp $7637.00
+ci year 1973
+ci make Cadillac
+ci weight 4999
+ci model 6B69
+ci maker Fleetwood
+ci doors 4
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci bsize 12
+ci tcase -NA-
+ci rdiff 5
+ci trans 12.2 Quarts
+ci fuel 27
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.93
+ci height 55.5
+ci rtred 63.3
+ci length 231.5
+ci wbase 133
+ci width 79.8
+ci comp 8.5
+ci cyl 8
+ci block Cast Iron
+ci engno Prefix 6 + last 8 digits of VIN
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 220@4000
+ci rhp 59.2
+ci mbear 5
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci englo On block behind intake manifold.
+ci etype V8 Overhead valve
+ci b&s 4.3 & 4.06
+ci trq 365@2400
+ci disp 472
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antigua Blue Metallic
+co Burnt Sienna Metallic
+co Cotillion White
+co Diplomat Blue Metallic
+co Dynasty Red
+co Forest Green Metallic
+co Garganey Teal Metallic
+co Georgian Silver Metallic
+co Harvest Gold
+co Laredo Tan Metallic
+co Mirage Taupe Metallic
+co Oceanic Teal Firemist Metallic
+co Park Avenue Gray Metallic
+co Phoenix Gold Firemist Metallic
+co Renaissance Gold Metallic
+co Sable Black
+co Sage Metallic
+co Saturn Bronze Firemist Metallic
+co Shadow Taupe Firemist Metallic
+co St. Tropez Blue Firemist Metallic
+co Two Tone Colors Available
+co Viridian Firemist Metallic
+ci cool 21.3 Quarts
+ci exha Single
+ci rad Tube and center
+ci batt 12
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power brakes
+ci equip Power antenna
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15B
+cls 964, 6F33(\w)3(\w)([\dX]{6})
+clv 4062, 1973, Cadillac, 75 6DF, Limousine
+ci axle Semifloating
+ci series 75 6DF
+ci origin United States
+ci prod 1017
+ci year 1973
+ci msrp $11880.00
+ci make Cadillac
+ci doors 4
+ci model 6F33
+ci maker Fleetwood
+ci weight 5759
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci trans 13.2 Quarts
+ci fuel 27
+ci oil 5
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.15
+ci diff Hypoid
+ci rtred 63.3
+ci height 57.7
+ci length 250
+ci width 79.8
+ci wbase 151.5
+ci disp 472
+ci etype V8 Overhead valve
+ci cyl 8
+ci block Cast Iron
+ci engno Prefix 6 + last 8 digits of VIN
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci trq 365@2400
+ci rhp 59.2
+ci bhp 220@4000
+ci vlift Hydraulic
+ci etype Turbo Hydra-matic
+ci b&s 4.3 & 4.06
+ci englo On block behind intake manifold.
+ci comp 8.5
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antigua Blue Metallic
+co Burnt Sienna Metallic
+co Cotillion White
+co Diplomat Blue Metallic
+co Dynasty Red
+co Forest Green Metallic
+co Garganey Teal Metallic
+co Georgian Silver Metallic
+co Harvest Gold
+co Laredo Tan Metallic
+co Mirage Taupe Metallic
+co Oceanic Teal Firemist Metallic
+co Park Avenue Gray Metallic
+co Phoenix Gold Firemist Metallic
+co Renaissance Gold Metallic
+co Sable Black
+co Sage Metallic
+co Saturn Bronze Firemist Metallic
+co Shadow Taupe Firemist Metallic
+co St. Tropez Blue Firemist Metallic
+co Two Tone Colors Available
+co Viridian Firemist Metallic
+ci cool 26.8 Quarts
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power antenna
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power brakes
+ci equip Speed control device
+ci sgear Hydraulic power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15D
+cls 965, 6F23(\w)3(\w)([\dX]{6})
+clv 4063, 1973, Cadillac, 75 6DF, Sedan
+ci axle Semifloating
+ci series 75 6DF
+ci origin United States
+ci prod 1043
+ci year 1973
+ci msrp $11748.00
+ci make Cadillac
+ci doors 4
+ci weight 5637
+ci maker Fleetwood
+ci model 6F23
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci trans 13.2 Quarts
+ci fuel 27
+ci oil 5
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.15
+ci diff Hypoid
+ci rtred 63.3
+ci height 57.8
+ci length 250
+ci width 79.8
+ci wbase 151.5
+ci disp 472
+ci etype V8 Overhead valve
+ci cyl 8
+ci block Cast Iron
+ci engno Prefix 6 + last 8 digits of VIN
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci trq 365@2400
+ci rhp 59.2
+ci bhp 220@4000
+ci vlift Hydraulic
+ci etype Turbo Hydra-matic
+ci b&s 4.3 & 4.06
+ci englo On block behind intake manifold.
+ci comp 8.5
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antigua Blue Metallic
+co Burnt Sienna Metallic
+co Cotillion White
+co Diplomat Blue Metallic
+co Dynasty Red
+co Forest Green Metallic
+co Garganey Teal Metallic
+co Georgian Silver Metallic
+co Harvest Gold
+co Laredo Tan Metallic
+co Mirage Taupe Metallic
+co Oceanic Teal Firemist Metallic
+co Park Avenue Gray Metallic
+co Phoenix Gold Firemist Metallic
+co Renaissance Gold Metallic
+co Sable Black
+co Sage Metallic
+co Saturn Bronze Firemist Metallic
+co Shadow Taupe Firemist Metallic
+co St. Tropez Blue Firemist Metallic
+co Two Tone Colors Available
+co Viridian Firemist Metallic
+ci cool 26.8 Quarts
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Power antenna
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power brakes
+ci equip Speed control device
+ci sgear Hydraulic power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15D

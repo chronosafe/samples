@@ -1,0 +1,2223 @@
+cls 5028, 612(\w)([\dX]{5})
+clv 21543, 1961, Oldsmobile, Dynamic, Celebrity Sedan
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $2634.00
+ci origin United States
+ci year 1961
+ci prod 42597
+ci series Dynamic
+ci maker Fisher
+ci weight 4031
+ci doors 4
+ci model 3269
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Duo-servo self-adjusting on 4 wheels
+ci oil 4
+ci rdiff 5.25
+ci trans 2.5
+ci fuel 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.42
+ci diff Hypoid
+ci width 77.2
+ci height 57.5
+ci length 212
+ci rtred 61
+ci wbase 123
+ci rhp 54.45
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.75
+ci engno Starting F001001
+ci englo Stamped on left cylinder head.
+ci bhp 250@4200
+ci disp 394.24
+ci etype Dual throat
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 405@2400
+ci etype Helical
+ci vlift Hydraulic
+ci b&s 4 1/8 & 3 11/16
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci batt 12
+ci ign Distributor and coil
+ci exha Single with crossover
+ci cool 19.3 Quarts
+ci equip Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci gears 3
+ci 2gear 1.37
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.15
+ci rev 2.28
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5029, 612(\w)([\dX]{5})
+clv 21544, 1961, Oldsmobile, Dynamic, Convertible Coupe
+ci axle Semifloating
+ci series Dynamic
+ci prod 9051
+ci origin United States
+ci msrp $2991.00
+ci make Oldsmobile
+ci year 1961
+ci maker Fisher
+ci doors 2
+ci weight 4068
+ci model 3267
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 2.5
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci rdiff 5.25
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.42
+ci length 212
+ci wbase 123
+ci width 77.2
+ci height 57.5
+ci rtred 61
+ci mbear 5
+ci cyl 8
+ci engno Starting F001001
+ci comp 8.75
+ci b&s 4 1/8 & 3 11/16
+ci englo Stamped on left cylinder head.
+ci trq 405@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci etype Dual throat
+ci disp 394.24
+ci rhp 54.45
+ci vlift Hydraulic
+ci bhp 250@4200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci exha Single with crossover
+ci rad Tube and center
+ci cool 19.3 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Ball & nut
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 2gear 1.37
+ci rev 2.28
+ci 1gear 2.15
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5030, 612(\w)([\dX]{5})
+clv 21545, 1961, Oldsmobile, Dynamic, Fiesta Sedan - 2 seats
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $3065.00
+ci origin United States
+ci year 1961
+ci prod 5375
+ci series Dynamic
+ci maker Fisher
+ci weight 4354
+ci doors 4
+ci model 3235
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Duo-servo self-adjusting on 4 wheels
+ci oil 4
+ci rdiff 5.25
+ci trans 2.5
+ci fuel 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.42
+ci diff Hypoid
+ci length 212
+ci height 57.5
+ci width 77.2
+ci rtred 61
+ci wbase 123
+ci rhp 54.45
+ci etype V8 Valve-in-head
+ci cyl 8
+ci engno Starting F001001
+ci comp 8.75
+ci englo Stamped on left cylinder head.
+ci bhp 250@4200
+ci disp 394.24
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual throat
+ci mbear 5
+ci etype Helical
+ci trq 405@2400
+ci vlift Hydraulic
+ci b&s 4 1/8 & 3 11/16
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci rad Tube and center
+ci cool 19.3 Quarts
+ci batt 12
+ci exha Single with crossover
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Hydramatic automatic transmission
+ci sgear Ball & nut
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 2gear 1.37
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.28
+ci 3gear 1
+ci 1gear 2.15
+ci vloc On left front door pillar.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 5031, 612(\w)([\dX]{5})
+clv 21546, 1961, Oldsmobile, Dynamic, Fiesta Sedan - 3 seats
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $3165.00
+ci origin United States
+ci prod 4021
+ci year 1961
+ci series Dynamic
+ci weight 4428
+ci maker Fisher
+ci doors 4
+ci model 3245
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Duo-servo self-adjusting on 4 wheels
+ci oil 4
+ci rdiff 5.25
+ci trans 2.5
+ci fuel 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.42
+ci diff Hypoid
+ci width 77.2
+ci height 57.5
+ci length 212
+ci rtred 61
+ci wbase 123
+ci rhp 54.45
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.75
+ci engno Starting F001001
+ci englo Stamped on left cylinder head.
+ci bhp 250@4200
+ci disp 394.24
+ci etype Dual throat
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 405@2400
+ci etype Helical
+ci vlift Hydraulic
+ci b&s 4 1/8 & 3 11/16
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci batt 12
+ci ign Distributor and coil
+ci exha Single with crossover
+ci cool 19.3 Quarts
+ci equip Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci gears 3
+ci 2gear 1.37
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.15
+ci rev 2.28
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5032, 612(\w)([\dX]{5})
+clv 21547, 1961, Oldsmobile, Dynamic, Holiday Coupe
+ci axle Semifloating
+ci make Oldsmobile
+ci series Dynamic
+ci origin United States
+ci msrp $2687.00
+ci prod 19906
+ci year 1961
+ci weight 3981
+ci model 3237
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 11
+ci fuel 20
+ci trans 2.5
+ci oil 4
+ci rdiff 5.25
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.42
+ci diff Hypoid
+ci wbase 123
+ci width 77.2
+ci length 212
+ci rtred 61
+ci height 57.5
+ci rhp 54.45
+ci mbear 5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.75
+ci etype Helical
+ci trq 405@2400
+ci englo Stamped on left cylinder head.
+ci disp 394.24
+ci etype Dual throat
+ci bhp 250@4200
+ci engno Starting F001001
+ci vlift Hydraulic
+ci b&s 4 1/8 & 3 11/16
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single with crossover
+ci batt 12
+ci cool 19.3 Quarts
+ci cool Centrifugal pump with thermostat
+ci equip Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Ball & nut
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 3gear 1
+ci 1gear 2.15
+ci rev 2.28
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.37
+ci gears 3
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5033, 612(\w)([\dX]{5})
+clv 21548, 1961, Oldsmobile, Dynamic, Holiday Sedan
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $2759.00
+ci origin United States
+ci year 1961
+ci prod 51588
+ci series Dynamic
+ci maker Fisher
+ci weight 4074
+ci doors 4
+ci model 3239
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Duo-servo self-adjusting on 4 wheels
+ci oil 4
+ci rdiff 5.25
+ci trans 2.5
+ci fuel 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.42
+ci diff Hypoid
+ci length 212
+ci height 57.5
+ci width 77.2
+ci rtred 61
+ci wbase 123
+ci rhp 54.45
+ci etype V8 Valve-in-head
+ci cyl 8
+ci engno Starting F001001
+ci comp 8.75
+ci englo Stamped on left cylinder head.
+ci bhp 250@4200
+ci disp 394.24
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual throat
+ci mbear 5
+ci etype Helical
+ci trq 405@2400
+ci vlift Hydraulic
+ci b&s 4 1/8 & 3 11/16
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci rad Tube and center
+ci cool 19.3 Quarts
+ci batt 12
+ci exha Single with crossover
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Hydramatic automatic transmission
+ci sgear Ball & nut
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 2gear 1.37
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.28
+ci 3gear 1
+ci 1gear 2.15
+ci vloc On left front door pillar.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 5034, 612(\w)([\dX]{5})
+clv 21549, 1961, Oldsmobile, Dynamic, Sedan
+ci axle Semifloating
+ci prod 4921
+ci series Dynamic
+ci origin United States
+ci msrp $2574.00
+ci make Oldsmobile
+ci year 1961
+ci maker Fisher
+ci doors 2
+ci weight 3966
+ci model 3211
+ci bsize 11
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci trans 2.5
+ci fuel 20
+ci rdiff 5.25
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.42
+ci length 212
+ci wbase 123
+ci width 77.2
+ci rtred 61
+ci height 57.5
+ci trq 405@2400
+ci b&s 4 1/8 & 3 11/16
+ci cyl 8
+ci engno Starting F001001
+ci comp 8.75
+ci englo Stamped on left cylinder head.
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci etype Dual throat
+ci disp 394.24
+ci rhp 54.45
+ci vlift Hydraulic
+ci bhp 250@4200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci exha Single with crossover
+ci rad Tube and center
+ci cool 19.3 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Ball & nut
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 2gear 1.37
+ci rev 2.28
+ci 1gear 2.15
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5035, 611(\w)([\dX]{5})
+clv 21550, 1961, Oldsmobile, F85 DeLuxe, Cutlass Coupe
+ci axle Semifloating
+ci series F85 DeLuxe
+ci prod 9944
+ci year 1961
+ci origin United States
+ci make Oldsmobile
+ci doors 2
+ci maker Fisher
+ci model 3117
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci fuel 16
+ci oil 4
+ci trans 2
+ci tcase -NA-
+ci rdiff 5.25
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.07
+ci wbase 112
+ci length 188.2
+ci width 71.5
+ci height 54.3
+ci rtred 56
+ci rhp 39.2
+ci mbear 5
+ci cyl 8
+ci comp 8.75
+ci engno Starting S001001
+ci b&s 3 1/2 & 2 51/64
+ci disp 215.27
+ci trq 210@3200
+ci bhp 155@4800
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual throat
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci englo Stamped on front of right cylinder head.
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+ci exha Single with crossover
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci cool 11 Quarts
+ci batt 12
+ci equip Tempest Torque automatic transmission
+ci equip Power steering
+ci equip 215 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci sgear Ball & nut
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.55
+ci 1gear 2.57
+ci gears 3
+ci rev 3.49
+ci vloc On left front door pillar.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 5036, 611(\w)([\dX]{5})
+clv 21551, 1961, Oldsmobile, F85 DeLuxe, Sedan
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $2300.00
+ci origin United States
+ci series F85 DeLuxe
+ci year 1961
+ci prod 26330
+ci doors 4
+ci model 3119
+ci maker Fisher
+ci weight 2547
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci rdiff 5.25
+ci trans 2
+ci tcase -NA-
+ci fuel 16
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.07
+ci wbase 112
+ci width 71.5
+ci rtred 56
+ci length 188.2
+ci height 54.3
+ci rhp 39.2
+ci etype V8 Valve-in-head
+ci mbear 5
+ci cyl 8
+ci comp 8.75
+ci engno Starting S001001
+ci englo Stamped on front of right cylinder head.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Unknown at time of publication
+ci trq 210@3200
+ci etype Dual throat
+ci b&s 3 1/2 & 2 51/64
+ci disp 215.27
+ci vlift Hydraulic
+ci bhp 155@4800
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci rad Fin and tube
+ci cool 11 Quarts
+ci equip 215 cu. in. V8 engine
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Tempest Torque automatic transmission
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci gears 3
+ci 2gear 1.55
+ci 1gear 2.57
+ci drive Rear wheel drive
+ci rev 3.49
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 5037, 611(\w)([\dX]{5})
+clv 21552, 1961, Oldsmobile, F85 DeLuxe, Station Wagon 2-seat
+ci axle Semifloating
+ci prod 527
+ci msrp $2550.00
+ci origin United States
+ci make Oldsmobile
+ci year 1961
+ci series F85 DeLuxe
+ci model 3135
+ci weight 2731
+ci maker Fisher
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 9.5
+ci fuel 16
+ci trans 2
+ci oil 4
+ci rdiff 5.25
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.07
+ci width 71.5
+ci length 188.2
+ci wbase 112
+ci rtred 56
+ci height 54.3
+ci disp 215.27
+ci mbear 5
+ci rhp 39.2
+ci cyl 8
+ci comp 8.75
+ci trq 210@3200
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Stamped on front of right cylinder head.
+ci b&s 3 1/2 & 2 51/64
+ci engno Starting S001001
+ci etype Dual throat
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci bhp 155@4800
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+ci rad Fin and tube
+ci ign Distributor and coil
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci cool 11 Quarts
+ci batt 12
+ci equip Tempest Torque automatic transmission
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip 215 cu. in. V8 engine
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci 3gear 1
+ci 2gear 1.55
+ci 5gear Not applicable
+ci rev 3.49
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 2.57
+ci vloc On left front door pillar.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 5038, 611(\w)([\dX]{5})
+clv 21553, 1961, Oldsmobile, F85 DeLuxe, Station Wagon 3-seat
+ci axle Semifloating
+ci make Oldsmobile
+ci prod 759
+ci year 1961
+ci series F85 DeLuxe
+ci origin United States
+ci maker Fisher
+ci model 3145
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 2
+ci oil 4
+ci rdiff 5.25
+ci tcase -NA-
+ci fuel 16
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.07
+ci diff Hypoid
+ci length 188.2
+ci width 71.5
+ci wbase 112
+ci rtred 56
+ci height 54.3
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci etype Unknown at time of publication
+ci cyl 8
+ci comp 8.75
+ci rhp 39.2
+ci engno Starting S001001
+ci b&s 3 1/2 & 2 51/64
+ci bhp 155@4800
+ci disp 215.27
+ci etype Dual throat
+ci trq 210@3200
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci englo Stamped on front of right cylinder head.
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+ci exha Single with crossover
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci cool 11 Quarts
+ci batt 12
+ci equip Tempest Torque automatic transmission
+ci equip Power steering
+ci equip 215 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci sgear Ball & nut
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.55
+ci 1gear 2.57
+ci gears 3
+ci rev 3.49
+ci vloc On left front door pillar.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 5039, 610(\w)([\dX]{5})
+clv 21554, 1961, Oldsmobile, F85 Standard, Coupe
+ci axle Semifloating
+ci prod 2338
+ci year 1961
+ci series F85 Standard
+ci make Oldsmobile
+ci origin United States
+ci model 3027
+ci maker Fisher
+ci doors 2
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci rdiff 5.25
+ci trans 2
+ci tcase -NA-
+ci oil 4
+ci fuel 16
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.07
+ci wbase 112
+ci length 188.2
+ci width 71.5
+ci height 54.3
+ci rtred 56
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.75
+ci mbear 5
+ci rhp 39.2
+ci englo Stamped on front of right cylinder head.
+ci b&s 3 1/2 & 2 51/64
+ci etype Unknown at time of publication
+ci etype Dual throat
+ci engno Starting S001001
+ci bhp 155@4800
+ci disp 215.27
+ci vlift Hydraulic
+ci trq 210@3200
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci rad Fin and tube
+ci batt 12
+ci cool 11 Quarts
+ci ign Distributor and coil
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci 1gear 2.57
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.55
+ci rev 3.49
+ci gears 3
+ci 3gear 1
+ci vloc On left front door pillar.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 5040, 610(\w)([\dX]{5})
+clv 21555, 1961, Oldsmobile, F85 Standard, Sedan
+ci axle Semifloating
+ci msrp $2175.00
+ci origin United States
+ci make Oldsmobile
+ci prod 19774
+ci series F85 Standard
+ci year 1961
+ci model 3019
+ci doors 4
+ci weight 2541
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Duo-servo self-adjusting on 4 wheels
+ci tcase -NA-
+ci fuel 16
+ci trans 2
+ci rdiff 5.25
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.07
+ci length 188.2
+ci wbase 112
+ci width 71.5
+ci height 54.3
+ci rtred 56
+ci rhp 39.2
+ci mbear 5
+ci cyl 8
+ci comp 8.75
+ci b&s 3 1/2 & 2 51/64
+ci disp 215.27
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 210@3200
+ci bhp 155@4800
+ci etype Dual throat
+ci englo Stamped on front of right cylinder head.
+ci engno Starting S001001
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci cool 11 Quarts
+ci cool Centrifugal pump with thermostat
+ci rad Fin and tube
+ci ign Distributor and coil
+ci exha Single with crossover
+ci batt 12
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Hydramatic automatic transmission
+ci sgear Ball & nut
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 1gear 2.57
+ci gears 3
+ci rev 3.49
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.55
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 5041, 610(\w)([\dX]{5})
+clv 21556, 1961, Oldsmobile, F85 Standard, Station Wagon 2-seat
+ci axle Semifloating
+ci msrp $2425.00
+ci series F85 Standard
+ci origin United States
+ci year 1961
+ci make Oldsmobile
+ci prod 6680
+ci weight 2716
+ci model 3035
+ci doors 4
+ci maker Fisher
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci oil 4
+ci trans 2
+ci rdiff 5.25
+ci tcase -NA-
+ci fuel 16
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.07
+ci wbase 112
+ci length 188.2
+ci height 54.3
+ci rtred 56
+ci width 71.5
+ci b&s 3 1/2 & 2 51/64
+ci mbear 5
+ci cyl 8
+ci comp 8.75
+ci rhp 39.2
+ci etype V8 Valve-in-head
+ci etype Unknown at time of publication
+ci engno Starting S001001
+ci englo Stamped on front of right cylinder head.
+ci etype Dual throat
+ci bhp 155@4800
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci disp 215.27
+ci trq 210@3200
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci cool Centrifugal pump with thermostat
+ci rad Fin and tube
+ci ign Distributor and coil
+ci exha Single with crossover
+ci batt 12
+ci cool 11 Quarts
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Hydramatic automatic transmission
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci 1gear 2.57
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.55
+ci rev 3.49
+ci vloc On left front door pillar.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 5042, 610(\w)([\dX]{5})
+clv 21557, 1961, Oldsmobile, F85 Standard, Station Wagon 3-seat
+ci axle Semifloating
+ci prod 10096
+ci origin United States
+ci year 1961
+ci series F85 Standard
+ci make Oldsmobile
+ci model 3045
+ci doors 4
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 9.5
+ci rdiff 5.25
+ci trans 2
+ci tcase -NA-
+ci oil 4
+ci fuel 16
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.07
+ci length 188.2
+ci wbase 112
+ci width 71.5
+ci height 54.3
+ci rtred 56
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.75
+ci mbear 5
+ci rhp 39.2
+ci englo Stamped on front of right cylinder head.
+ci b&s 3 1/2 & 2 51/64
+ci etype Unknown at time of publication
+ci etype Dual throat
+ci engno Starting S001001
+ci bhp 155@4800
+ci disp 215.27
+ci vlift Hydraulic
+ci trq 210@3200
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci rad Fin and tube
+ci batt 12
+ci cool 11 Quarts
+ci ign Distributor and coil
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci 1gear 2.57
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.55
+ci rev 3.49
+ci gears 3
+ci 3gear 1
+ci vloc On left front door pillar.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 5043, 618(\w)([\dX]{5})
+clv 21558, 1961, Oldsmobile, 98, Celebrity Sedan
+ci axle Semifloating
+ci msrp $3533.00
+ci series 98
+ci make Oldsmobile
+ci prod 9088
+ci year 1961
+ci origin United States
+ci maker Fisher
+ci weight 4231
+ci model 3819
+ci bsize 11
+ci svc Power hydraulic
+ci ebrake Rear service brakes
+ci rdiff 5.25
+ci tcase -NA-
+ci trans 11
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 61
+ci height 58.3
+ci width 77.2
+ci wbase 126
+ci length 218
+ci cyl 8
+ci rhp 54.45
+ci disp 394.24
+ci mbear 5
+ci engno Starting G001001
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 435@2800
+ci etype Hydra-Matic automatic
+ci vlift Hydraulic
+ci bhp 325@4600
+ci b&s 4 1/8 & 3 11/16
+ci comp 10.0
+ci englo Stamped on left cylinder head.
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci batt 12
+ci cool 19.3 Quarts
+ci ign Distributor and coil
+ci exha Single with crossover
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5044, 618(\w)([\dX]{5})
+clv 21559, 1961, Oldsmobile, 98, Convertible Coupe
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $3975.00
+ci origin United States
+ci year 1961
+ci prod 3804
+ci series 98
+ci maker Fisher
+ci doors 2
+ci model 3567
+ci weight 4225
+ci svc Power hydraulic
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 20
+ci trans 11
+ci rdiff 5.25
+ci oil 4
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.23
+ci diff Hypoid
+ci length 218
+ci wbase 126
+ci rtred 61
+ci width 77.2
+ci height 58.3
+ci engno Starting G001001
+ci englo Stamped on left cylinder head.
+ci cyl 8
+ci rhp 54.45
+ci mbear 5
+ci trq 435@2800
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 1/8 & 3 11/16
+ci etype Hydra-Matic automatic
+ci vlift Hydraulic
+ci comp 10.0
+ci disp 394.24
+ci bhp 325@4600
+ci etype V8 Valve-in-head
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci cool 19.3 Quarts
+ci batt 12
+ci rad Tube and center
+ci exha Single with crossover
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5045, 618(\w)([\dX]{5})
+clv 21560, 1961, Oldsmobile, 98, Holiday Coupe
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $3715.00
+ci origin United States
+ci year 1961
+ci prod 4446
+ci series 98
+ci weight 4187
+ci doors 2
+ci maker Fisher
+ci model 3837
+ci svc Power hydraulic
+ci ebrake Rear service brakes
+ci bsize 11
+ci rdiff 5.25
+ci trans 11
+ci fuel 20
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.23
+ci length 218
+ci wbase 126
+ci rtred 61
+ci width 77.2
+ci height 58.3
+ci engno Starting G001001
+ci englo Stamped on left cylinder head.
+ci cyl 8
+ci rhp 54.45
+ci mbear 5
+ci trq 435@2800
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 1/8 & 3 11/16
+ci etype Hydra-Matic automatic
+ci vlift Hydraulic
+ci comp 10.0
+ci disp 394.24
+ci bhp 325@4600
+ci etype V8 Valve-in-head
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci cool 19.3 Quarts
+ci batt 12
+ci rad Tube and center
+ci exha Single with crossover
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 4
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5046, 618(\w)([\dX]{5})
+clv 21561, 1961, Oldsmobile, 98, Holiday Sedan
+ci axle Semifloating
+ci series 98
+ci msrp $3658.00
+ci make Oldsmobile
+ci origin United States
+ci prod 1339
+ci year 1961
+ci maker Fisher
+ci model 3829
+ci weight 4269
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power hydraulic
+ci fuel 20
+ci rdiff 5.25
+ci oil 4
+ci trans 11
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 126
+ci length 218
+ci rtred 61
+ci width 77.2
+ci height 58.3
+ci b&s 4 1/8 & 3 11/16
+ci cyl 8
+ci bhp 325@4600
+ci rhp 54.45
+ci disp 394.24
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Starting G001001
+ci etype Hydra-Matic automatic
+ci vlift Hydraulic
+ci englo Stamped on left cylinder head.
+ci trq 435@2800
+ci comp 10.0
+ci mbear 5
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci batt 12
+ci cool 19.3 Quarts
+ci ign Distributor and coil
+ci exha Single with crossover
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5047, 618(\w)([\dX]{5})
+clv 21562, 1961, Oldsmobile, 98, Holiday Sport Sedan
+ci axle Semifloating
+ci series 98
+ci msrp $3786.00
+ci make Oldsmobile
+ci origin United States
+ci prod 12343
+ci year 1961
+ci maker Fisher
+ci model 3839
+ci weight 4319
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power hydraulic
+ci fuel 20
+ci rdiff 5.25
+ci oil 4
+ci trans 11
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 126
+ci length 218
+ci rtred 61
+ci width 77.2
+ci height 58.3
+ci b&s 4 1/8 & 3 11/16
+ci cyl 8
+ci bhp 325@4600
+ci rhp 54.45
+ci disp 394.24
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Starting G001001
+ci etype Hydra-Matic automatic
+ci vlift Hydraulic
+ci englo Stamped on left cylinder head.
+ci trq 435@2800
+ci comp 10.0
+ci mbear 5
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci batt 12
+ci cool 19.3 Quarts
+ci ign Distributor and coil
+ci exha Single with crossover
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8.5 x 14
+cls 5048, 616(\w)([\dX]{5})
+clv 21563, 1961, Oldsmobile, Starfire, Convertible Coupe
+ci axle Semifloating
+ci msrp $4647.00
+ci prod 7604
+ci origin United States
+ci year 1961
+ci series Starfire
+ci make Oldsmobile
+ci doors 2
+ci model 3667
+ci weight 4305
+ci maker Fisher
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 2.5
+ci rdiff 5.25
+ci tcase -NA-
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci width 77.2
+ci wbase 123
+ci length 212
+ci height 57.5
+ci rtred 61
+ci cyl 8
+ci b&s 4 1/8 & 3 11/16
+ci rhp 54.45
+ci mbear 5
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Stamped on left cylinder head.
+ci bhp 330@4600
+ci etype Downdraft 4-barrel
+ci comp 10.25
+ci disp 394.24
+ci engno Starting G001001
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+ci ign Distributor and coil
+ci rad Tube and center
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci cool 19.3 Quarts
+ci equip Hydra-Matic automatic transmission
+ci equip Power steering
+ci sgear Ball & nut
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 1gear 2.15
+ci rev 2.28
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.37
+ci 5gear Not applicable
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5049, 615(\w)([\dX]{5})
+clv 21564, 1961, Oldsmobile, Super 88, Celebrity Sedan
+ci axle Semifloating
+ci msrp $2881.00
+ci series Super 88
+ci make Oldsmobile
+ci prod 15335
+ci origin United States
+ci year 1961
+ci model 3569
+ci maker Fisher
+ci doors 4
+ci weight 4065
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 2.5
+ci oil 4
+ci rdiff 5.25
+ci tcase -NA-
+ci fuel 20
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.42
+ci length 212
+ci width 77.2
+ci rtred 61
+ci wbase 123
+ci height 57.5
+ci b&s 4 1/8 & 3 11/16
+ci mbear 5
+ci trq 435@2800
+ci cyl 8
+ci rhp 54.45
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 394.24
+ci bhp 325@4600
+ci etype Downdraft 4-barrel
+ci englo Stamped on left cylinder head.
+ci engno Starting G001001
+ci comp 10.0
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 19.3 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Ball & nut
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 3gear 1
+ci 1gear 2.15
+ci rev 2.28
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.37
+ci 5gear Not applicable
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5050, 615(\w)([\dX]{5})
+clv 21565, 1961, Oldsmobile, Super 88, Convertible Coupe
+ci axle Semifloating
+ci msrp $3268.00
+ci series Super 88
+ci prod 2626
+ci origin United States
+ci make Oldsmobile
+ci year 1961
+ci weight 4099
+ci model 3567
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 2.5
+ci fuel 20
+ci tcase -NA-
+ci oil 4
+ci rdiff 5.25
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.42
+ci length 212
+ci width 77.2
+ci rtred 61
+ci wbase 123
+ci height 57.5
+ci b&s 4 1/8 & 3 11/16
+ci mbear 5
+ci trq 435@2800
+ci cyl 8
+ci rhp 54.45
+ci disp 394.24
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 325@4600
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci englo Stamped on left cylinder head.
+ci engno Starting G001001
+ci comp 10.0
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool 19.3 Quarts
+ci exha Single with crossover
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Hydramatic automatic transmission
+ci sgear Ball & nut
+ci fsus Independent coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 1gear 2.15
+ci gears 3
+ci rev 2.28
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.37
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5051, 615(\w)([\dX]{5})
+clv 21566, 1961, Oldsmobile, Super 88, Fiesta Sedan - 2 seats
+ci axle Semifloating
+ci make Oldsmobile
+ci series Super 88
+ci origin United States
+ci year 1961
+ci msrp $3336.00
+ci prod 2763
+ci model 3535
+ci maker Fisher
+ci weight 4382
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 2.5
+ci oil 4
+ci rdiff 5.25
+ci fuel 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.42
+ci diff Hypoid
+ci width 77.2
+ci length 212
+ci rtred 61
+ci wbase 123
+ci height 57.5
+ci b&s 4 1/8 & 3 11/16
+ci mbear 5
+ci trq 435@2800
+ci cyl 8
+ci rhp 54.45
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 394.24
+ci bhp 325@4600
+ci etype Downdraft 4-barrel
+ci englo Stamped on left cylinder head.
+ci engno Starting G001001
+ci comp 10.0
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 19.3 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Ball & nut
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 3gear 1
+ci 1gear 2.15
+ci rev 2.28
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.37
+ci 5gear Not applicable
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5052, 615(\w)([\dX]{5})
+clv 21567, 1961, Oldsmobile, Super 88, Fiesta Sedan - 3 seats
+ci axle Semifloating
+ci make Oldsmobile
+ci series Super 88
+ci origin United States
+ci year 1961
+ci msrp $3436.00
+ci prod 2179
+ci model 3545
+ci maker Fisher
+ci weight 4445
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 2.5
+ci oil 4
+ci rdiff 5.25
+ci fuel 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.42
+ci diff Hypoid
+ci width 77.2
+ci length 212
+ci rtred 61
+ci wbase 123
+ci height 57.5
+ci b&s 4 1/8 & 3 11/16
+ci mbear 5
+ci trq 435@2800
+ci cyl 8
+ci rhp 54.45
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 394.24
+ci bhp 325@4600
+ci etype Downdraft 4-barrel
+ci englo Stamped on left cylinder head.
+ci engno Starting G001001
+ci comp 10.0
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 19.3 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Ball & nut
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 3gear 1
+ci 1gear 2.15
+ci rev 2.28
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.37
+ci 5gear Not applicable
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5053, 615(\w)([\dX]{5})
+clv 21568, 1961, Oldsmobile, Super 88, Holiday Coupe
+ci axle Semifloating
+ci prod 7035
+ci series Super 88
+ci origin United States
+ci msrp $3020.00
+ci year 1961
+ci make Oldsmobile
+ci doors 2
+ci model 3537
+ci weight 4024
+ci maker Fisher
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 2.5
+ci rdiff 5.25
+ci tcase -NA-
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.42
+ci width 77.2
+ci length 212
+ci wbase 123
+ci rtred 61
+ci height 57.5
+ci disp 394.24
+ci mbear 5
+ci rhp 54.45
+ci cyl 8
+ci trq 435@2800
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Stamped on left cylinder head.
+ci bhp 325@4600
+ci etype Downdraft 4-barrel
+ci engno Starting G001001
+ci b&s 4 1/8 & 3 11/16
+ci comp 10.0
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 19.3 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Ball & nut
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 3gear 1
+ci 1gear 2.15
+ci rev 2.28
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.37
+ci 5gear Not applicable
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5054, 615(\w)([\dX]{5})
+clv 21569, 1961, Oldsmobile, Super 88, Holiday Sedan
+ci axle Semifloating
+ci make Oldsmobile
+ci series Super 88
+ci origin United States
+ci year 1961
+ci msrp $3092.00
+ci prod 23298
+ci model 3539
+ci maker Fisher
+ci weight 4099
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 2.5
+ci oil 4
+ci rdiff 5.25
+ci fuel 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.42
+ci diff Hypoid
+ci rtred 61
+ci width 77.2
+ci length 212
+ci wbase 123
+ci height 57.5
+ci b&s 4 1/8 & 3 11/16
+ci mbear 5
+ci trq 435@2800
+ci cyl 8
+ci rhp 54.45
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 394.24
+ci bhp 325@4600
+ci etype Downdraft 4-barrel
+ci englo Stamped on left cylinder head.
+ci engno Starting G001001
+ci comp 10.0
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alpine Green
+co Aqua
+co Autumn Mist Metallic
+co Azure Mist Metallic
+co Cordovan Mist Metallic
+co Fawn Mist Metallic
+co Garnet Mist Metallic
+co Glacier Blue
+co Lacquer
+co Platinum Mist Metallic
+co Provincial White
+co Sandalwood
+co Tropic Mist Metallic
+co Turquoise Mist Metallic
+co Twilight Mist Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 19.3 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Ball & nut
+ci rsus Coil springs
+ci fsus Independent coil springs
+ci 3gear 1
+ci 1gear 2.15
+ci rev 2.28
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.37
+ci 5gear Not applicable
+ci vloc On left front door pillar.
+ci sloc Trunk
+ci tsize 8 x 14

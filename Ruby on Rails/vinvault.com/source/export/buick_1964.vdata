@@ -1,0 +1,2528 @@
+cls 283, 8K(\w)([\dX]{6})
+clv 2158, 1964, Buick, Electra 225, Sedan
+ci axle Semifloating
+ci msrp $4251.00
+ci prod 11663
+ci make Buick
+ci year 1964
+ci origin United States
+ci series Electra 225
+ci model 4829
+ci weight 4231
+ci maker Fisher
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Power self-adjusting
+ci bsize 12
+ci trans 24
+ci tcase -NA-
+ci oil 4
+ci rdiff 4.5
+ci fuel 20
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci wbase 126
+ci length 222.8
+ci width 78
+ci rtred 61
+ci ftred 62
+ci height 57.5
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci rhp 56.11
+ci mbear 5
+ci etype Super Turbine automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci trq 445@2800
+ci comp 10.25
+ci disp 401.11
+ci etype V8 Valve-in-head
+ci b&s 4 3/16 & 3 41/64
+ci englo On block forward of right cylinder head.
+ci bhp 325@4400
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci exha Single
+ci batt 12
+ci cool 18.5 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Water pump
+ci equip 425 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 15
+ci sloc Trunk
+cls 284, 8K(\w)([\dX]{6})
+clv 2159, 1964, Buick, Electra 225, Sport Coupe
+ci axle Semifloating
+ci series Electra 225
+ci msrp $4059.00
+ci origin United States
+ci prod 9045
+ci year 1964
+ci make Buick
+ci doors 2
+ci weight 4113
+ci maker Fisher
+ci model 4847
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Power self-adjusting
+ci trans 24
+ci fuel 20
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 4
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.07
+ci rtred 61
+ci height 57.5
+ci wbase 126
+ci ftred 62
+ci width 78
+ci length 222.8
+ci etype V8 Valve-in-head
+ci b&s 4 3/16 & 3 41/64
+ci cyl 8
+ci rhp 56.11
+ci comp 10.25
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci disp 401.11
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On block forward of right cylinder head.
+ci vlift Hydraulic
+ci trq 445@2800
+ci etype Super Turbine automatic
+ci bhp 325@4400
+ci engno Same as VIN Serial Number.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci cool 18.5 Quarts
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Water pump
+ci equip 425 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 15
+ci sloc Trunk
+cls 285, 4K(\w)([\dX]{6})
+clv 2160, 1964, Buick, Le Sabre, Convertible
+ci axle Semifloating
+ci msrp $3304.00
+ci series Le Sabre
+ci make Buick
+ci origin United States
+ci year 1964
+ci prod 6685
+ci maker Fisher
+ci weight 3756
+ci doors 2
+ci model 4467
+ci svc Hydraulic self-adjusting
+ci bsize 12
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 2
+ci fuel 20
+ci rdiff 4.5
+ci oil 4
+ci carb Rochester
+ci csize 10.4 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 123
+ci width 78
+ci rtred 61
+ci ftred 62
+ci length 218.8
+ci height 56.4
+ci rhp 45
+ci cyl 8
+ci comp 9.0
+ci trq 310@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 valve-in-head
+ci etype Dual downdraft
+ci etype Unknown at time of publication
+ci disp 300
+ci vlift Hydraulic
+ci engno Same as VIN Serial Number.
+ci englo On block forward of right cylinder head.
+ci bhp 210@4600
+ci b&s 3 3/4 & 3 13/32
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci batt 12
+ci rad Tube and center
+ci cool 18.5 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip Super Turbine 400 automatic transmission
+ci equip Super Turbine 300 automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.48
+ci 3gear 1
+ci rev 2.58
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.10 x 15
+cls 286, 4KC(\w)([\dX]{6})
+clv 2161, 1964, Buick, Le Sabre, Estate Wagon - 2 seat
+ci axle Semifloating
+ci msrp $3544.00
+ci series Le Sabre
+ci make Buick
+ci origin United States
+ci year 1964
+ci prod 6517
+ci weight 4326
+ci doors 4
+ci model 4635
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 12
+ci fuel 20
+ci oil 4
+ci rdiff 4.5
+ci trans 2
+ci tcase -NA-
+ci carb Rochester
+ci csize 10.4 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci width 78
+ci length 218.8
+ci rtred 61
+ci ftred 62
+ci wbase 123
+ci height 56.4
+ci rhp 45
+ci cyl 8
+ci comp 9.0
+ci trq 310@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 valve-in-head
+ci etype Dual downdraft
+ci etype Unknown at time of publication
+ci disp 300
+ci vlift Hydraulic
+ci engno Same as VIN Serial Number.
+ci englo On block forward of right cylinder head.
+ci bhp 210@4600
+ci b&s 3 3/4 & 3 13/32
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci batt 12
+ci rad Tube and center
+ci cool 18.5 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip Super Turbine 400 automatic transmission
+ci equip Super Turbine 300 automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.48
+ci 3gear 1
+ci rev 2.58
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.60 x 15
+cls 287, 4KC(\w)([\dX]{6})
+clv 2162, 1964, Buick, Le Sabre, Estate Wagon - 3 seat
+ci axle Semifloating
+ci origin United States
+ci msrp $3624.00
+ci year 1964
+ci make Buick
+ci series Le Sabre
+ci prod 33358
+ci doors 4
+ci maker Fisher
+ci weight 4370
+ci model 4645
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 12
+ci trans 2
+ci tcase -NA-
+ci fuel 20
+ci rdiff 4.5
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10.4 inches
+ci diff Hypoid
+ci diffr 3.23
+ci length 218.8
+ci wbase 123
+ci height 56.4
+ci rtred 61
+ci ftred 62
+ci width 78
+ci rhp 45
+ci cyl 8
+ci comp 9.0
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 210@4600
+ci englo On block forward of right cylinder head.
+ci etype Dual downdraft
+ci engno Same as VIN Serial Number.
+ci b&s 3 3/4 & 3 13/32
+ci vlift Hydraulic
+ci etype V8 valve-in-head
+ci disp 300
+ci etype Unknown at time of publication
+ci trq 310@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 18.5 Quarts
+ci exha Single
+ci batt 12
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip Super Turbine 400 automatic transmission
+ci equip Super Turbine 300 automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.48
+ci 3gear 1
+ci rev 2.58
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.60 x 15
+cls 288, 4K(\w)([\dX]{6})
+clv 2163, 1964, Buick, Le Sabre, Hardtop
+ci axle Semifloating
+ci prod 37052
+ci msrp $3111.00
+ci origin United States
+ci make Buick
+ci year 1964
+ci series Le Sabre
+ci model 4439
+ci maker Fisher
+ci weight 3712
+ci doors 4
+ci bsize 12
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 2
+ci fuel 20
+ci carb Rochester
+ci csize 10.4 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci height 56.4
+ci width 78
+ci length 218.8
+ci rtred 61
+ci ftred 62
+ci wbase 123
+ci rhp 45
+ci cyl 8
+ci comp 9.0
+ci trq 310@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 valve-in-head
+ci etype Dual downdraft
+ci etype Unknown at time of publication
+ci disp 300
+ci vlift Hydraulic
+ci engno Same as VIN Serial Number.
+ci englo On block forward of right cylinder head.
+ci bhp 210@4600
+ci b&s 3 3/4 & 3 13/32
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci batt 12
+ci rad Tube and center
+ci cool 18.5 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip Super Turbine 400 automatic transmission
+ci equip Super Turbine 300 automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.48
+ci 3gear 1
+ci rev 2.58
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.10 x 15
+cls 289, 4K(\w)([\dX]{6})
+clv 2164, 1964, Buick, Le Sabre, Sedan
+ci axle Semifloating
+ci year 1964
+ci origin United States
+ci msrp $2969.00
+ci make Buick
+ci prod 56729
+ci series Le Sabre
+ci model 4469
+ci weight 3676
+ci maker Fisher
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 12
+ci fuel 20
+ci rdiff 4.5
+ci oil 4
+ci tcase -NA-
+ci trans 2
+ci carb Rochester
+ci csize 10.4 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci width 78
+ci length 218.8
+ci wbase 123
+ci rtred 61
+ci ftred 62
+ci height 56.4
+ci rhp 45
+ci cyl 8
+ci comp 9.0
+ci trq 310@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 valve-in-head
+ci etype Dual downdraft
+ci etype Unknown at time of publication
+ci disp 300
+ci vlift Hydraulic
+ci engno Same as VIN Serial Number.
+ci englo On block forward of right cylinder head.
+ci bhp 210@4600
+ci b&s 3 3/4 & 3 13/32
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci batt 12
+ci rad Tube and center
+ci cool 18.5 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip Super Turbine 400 automatic transmission
+ci equip Super Turbine 300 automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.48
+ci 3gear 1
+ci rev 2.58
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.10 x 15
+cls 290, 4K(\w)([\dX]{6})
+clv 2165, 1964, Buick, Le Sabre, Sport Coupe
+ci axle Semifloating
+ci msrp $3051.00
+ci series Le Sabre
+ci make Buick
+ci origin United States
+ci year 1964
+ci prod 24177
+ci weight 3605
+ci maker Fisher
+ci doors 2
+ci model 4447
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci fuel 20
+ci tcase -NA-
+ci trans 2
+ci rdiff 4.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10.4 inches
+ci diff Hypoid
+ci diffr 3.23
+ci length 218.8
+ci width 78
+ci height 56.4
+ci rtred 61
+ci ftred 62
+ci wbase 123
+ci rhp 45
+ci cyl 8
+ci comp 9.0
+ci trq 310@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 valve-in-head
+ci etype Dual downdraft
+ci etype Unknown at time of publication
+ci disp 300
+ci vlift Hydraulic
+ci engno Same as VIN Serial Number.
+ci englo On block forward of right cylinder head.
+ci bhp 210@4600
+ci b&s 3 3/4 & 3 13/32
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci batt 12
+ci rad Tube and center
+ci cool 18.5 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip Super Turbine 400 automatic transmission
+ci equip Super Turbine 300 automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.48
+ci 3gear 1
+ci rev 2.58
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.10 x 15
+cls 291, 7K(\w)([\dX]{6})
+clv 2166, 1964, Buick, Riviera, Sport Coupe
+ci axle Semifloating
+ci make Buick
+ci msrp $4374.00
+ci series Riviera
+ci prod 37658
+ci origin United States
+ci year 1964
+ci doors 2
+ci model 4747
+ci maker Fisher
+ci weight 3923
+ci svc Power self-adjusting
+ci ebrake Rear service brakes
+ci bsize 12
+ci trans 24
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.78
+ci height 57.5
+ci rtred 59
+ci length 222.8
+ci ftred 60
+ci wbase 117
+ci width 78
+ci etype Super Turbine automatic
+ci cyl 8
+ci rhp 59.51
+ci engno Same as VIN Serial Number.
+ci trq 465@2800
+ci etype Downdraft 4-barrel
+ci comp 10.25
+ci disp 425
+ci vlift Hydraulic
+ci b&s 4.3125 & 3.64
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 340@4400
+ci etype V8 valve-in-head
+ci englo On block forward of right cylinder head.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci cool Water pump
+ci rad Tube and center
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool 18.5 Quarts
+ci equip 425 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.10 x 15
+ci sloc Trunk
+cls 292, CK(\w)([\dX]{6})
+clv 2167, 1964, Buick, Skylark, Convertible
+ci axle Semifloating
+ci prod 10225
+ci year 1964
+ci series Skylark
+ci msrp $2823.00
+ci make Buick
+ci origin United States
+ci maker Fisher
+ci doors 2
+ci model 4367
+ci weight 3100
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci rdiff 2.5
+ci fuel 20
+ci oil 4
+ci trans 2
+ci tcase -NA-
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci height 54.4
+ci rtred 58
+ci wbase 115
+ci length 203.5
+ci width 73.4
+ci etype Single downdraft
+ci disp 225
+ci comp 9.0
+ci bhp 155@4400
+ci englo On block forward of right cylinder head.
+ci engno Same as VIN Serial Number.
+ci cyl 6
+ci trq 225@2400
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci etype V6 valve-in-head
+ci b&s 3 3/4 & 3 13/32
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 33.75
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci rad Tube and center
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci exha Single
+ci equip 300 cu. in. V8 engine
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Super Turbine 300 automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 2.58
+ci gears 3
+ci 3gear 1
+ci 2gear 1.48
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 6.50 x 14
+ci sloc Trunk
+cls 293, CK(\w)([\dX]{6})
+clv 2168, 1964, Buick, Skylark, Custom Station Wagon 2-seat
+ci axle Semifloating
+ci prod 3913
+ci series Skylark
+ci make Buick
+ci year 1964
+ci origin United States
+ci model 4355
+ci maker Fisher
+ci doors 4
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci rdiff 2.5
+ci trans 2
+ci fuel 20
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 58
+ci wbase 115
+ci etype Unknown at time of publication
+ci cyl 6
+ci disp 225
+ci trq 225@2400
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci englo On block forward of right cylinder head.
+ci bhp 155@4400
+ci vlift Hydraulic
+ci b&s 3 3/4 & 3 13/32
+ci engno Same as VIN Serial Number.
+ci etype V6 valve-in-head
+ci rhp 33.75
+ci comp 9.0
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci cool Water pump
+ci equip Super Turbine 300 automatic transmission
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip 300 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 2gear 1.48
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.58
+ci 3gear 1
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.5 x 15
+ci sloc Trunk
+cls 294, CK(\w)([\dX]{6})
+clv 2169, 1964, Buick, Skylark, Custom Station Wagon 3-seat
+ci axle Semifloating
+ci make Buick
+ci prod 4446
+ci series Skylark
+ci origin United States
+ci year 1964
+ci model 4365
+ci maker Fisher
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci rdiff 2.5
+ci fuel 20
+ci trans 2
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 58
+ci wbase 115
+ci etype Unknown at time of publication
+ci cyl 6
+ci disp 225
+ci trq 225@2400
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci englo On block forward of right cylinder head.
+ci bhp 155@4400
+ci vlift Hydraulic
+ci b&s 3 3/4 & 3 13/32
+ci engno Same as VIN Serial Number.
+ci etype V6 valve-in-head
+ci rhp 33.75
+ci comp 9.0
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci cool Water pump
+ci equip Super Turbine 300 automatic transmission
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip 300 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 2gear 1.48
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.58
+ci 3gear 1
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.5 x 15
+ci sloc Trunk
+cls 295, CK(\w)([\dX]{6})
+clv 2170, 1964, Buick, Skylark, Sedan
+ci axle Semifloating
+ci msrp $2658.00
+ci make Buick
+ci series Skylark
+ci origin United States
+ci year 1964
+ci prod 19635
+ci model 4369
+ci maker Fisher
+ci weight 3025
+ci doors 4
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 20
+ci rdiff 2.5
+ci oil 4
+ci trans 2
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diffr 3.23
+ci diff Hypoid
+ci height 54.4
+ci rtred 58
+ci length 203.5
+ci wbase 115
+ci width 73.4
+ci trq 225@2400
+ci cyl 6
+ci comp 9.0
+ci etype Unknown at time of publication
+ci englo On block forward of right cylinder head.
+ci engno Same as VIN Serial Number.
+ci bhp 155@4400
+ci disp 225
+ci etype V6 valve-in-head
+ci vlift Hydraulic
+ci b&s 3 3/4 & 3 13/32
+ci rhp 33.75
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci rad Tube and center
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci exha Single
+ci equip 300 cu. in. V8 engine
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Super Turbine 300 automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 2.58
+ci gears 3
+ci 3gear 1
+ci 2gear 1.48
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 6.50 x 14
+ci sloc Trunk
+cls 296, CK(\w)([\dX]{6})
+clv 2171, 1964, Buick, Skylark, Sport Coupe
+ci axle Semifloating
+ci msrp $2669.00
+ci series Skylark
+ci prod 42356
+ci origin United States
+ci make Buick
+ci year 1964
+ci doors 2
+ci weight 3010
+ci maker Fisher
+ci model 4337
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci oil 4
+ci tcase -NA-
+ci fuel 20
+ci trans 2
+ci rdiff 2.5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 58
+ci height 54.4
+ci wbase 115
+ci length 203.5
+ci width 73.4
+ci bhp 155@4400
+ci etype Single downdraft
+ci rhp 33.75
+ci disp 225
+ci englo On block forward of right cylinder head.
+ci engno Same as VIN Serial Number.
+ci b&s 3 3/4 & 3 13/32
+ci cyl 6
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci etype V6 valve-in-head
+ci trq 225@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.0
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci rad Tube and center
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci exha Single
+ci equip 300 cu. in. V8 engine
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Super Turbine 300 automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 2.58
+ci gears 3
+ci 3gear 1
+ci 2gear 1.48
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 6.50 x 14
+ci sloc Trunk
+cls 297, BK(\w)([\dX]{6})
+clv 2172, 1964, Buick, Skylark, Station Wagon 2-seat
+ci axle Semifloating
+ci prod 2709
+ci series Skylark
+ci make Buick
+ci year 1964
+ci origin United States
+ci maker Fisher
+ci model 4255
+ci doors 4
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci trans 2
+ci rdiff 2.5
+ci fuel 20
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 58
+ci wbase 115
+ci etype Unknown at time of publication
+ci trq 225@2400
+ci disp 225
+ci comp 9.0
+ci block Cast Iron
+ci englo On block forward of right cylinder head.
+ci bhp 155@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 3/4 & 3 13/32
+ci vlift Hydraulic
+ci etype V6 valve-in-head
+ci engno Same as VIN Serial Number.
+ci etype Single downdraft
+ci rhp 33.75
+ci cyl 6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci rad Tube and center
+ci exha Single
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci equip 300 cu. in. V8 engine
+ci equip Super Turbine 300 automatic transmission
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.48
+ci rev 2.58
+ci drive Rear wheel drive
+ci 3gear 1
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7 x 15
+cls 298, BK(\w)([\dX]{6})
+clv 2173, 1964, Buick, Skylark, Station Wagon 3-seat
+ci axle Semifloating
+ci prod 2586
+ci series Skylark
+ci make Buick
+ci year 1964
+ci origin United States
+ci maker Fisher
+ci model 4265
+ci doors 4
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci trans 2
+ci rdiff 2.5
+ci fuel 20
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 58
+ci wbase 115
+ci etype Unknown at time of publication
+ci trq 225@2400
+ci disp 225
+ci comp 9.0
+ci block Cast Iron
+ci englo On block forward of right cylinder head.
+ci bhp 155@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 3/4 & 3 13/32
+ci vlift Hydraulic
+ci etype V6 valve-in-head
+ci engno Same as VIN Serial Number.
+ci etype Single downdraft
+ci rhp 33.75
+ci cyl 6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci rad Tube and center
+ci exha Single
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci equip 300 cu. in. V8 engine
+ci equip Super Turbine 300 automatic transmission
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.48
+ci rev 2.58
+ci drive Rear wheel drive
+ci 3gear 1
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7 x 15
+cls 299, BK(\w)([\dX]{6})
+clv 2174, 1964, Buick, Special Deluxe, Coupe
+ci axle Semifloating
+ci make Buick
+ci series Special Deluxe
+ci msrp $2447.00
+ci prod 11962
+ci origin United States
+ci year 1964
+ci model 4127
+ci doors 2
+ci weight 2951
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci trans 2
+ci rdiff 2.5
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 58
+ci height 54.4
+ci width 73.4
+ci wbase 115
+ci length 203.5
+ci comp 9.0
+ci disp 225
+ci cyl 6
+ci bhp 155@4400
+ci englo On block forward of right cylinder head.
+ci engno Same as VIN Serial Number.
+ci trq 225@2400
+ci b&s 3 3/4 & 3 13/32
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci etype V6 valve-in-head
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 33.75
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci exha Single
+ci rad Tube and center
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci equip Pushbutton Radio
+ci equip Super Turbine 300 automatic transmission
+ci equip 300 cu. in. V8 engine
+ci equip Power steering
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 2.58
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.48
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 300, BK(\w)([\dX]{6})
+clv 2175, 1964, Buick, Special Deluxe, Sedan
+ci axle Semifloating
+ci msrp $2479.00
+ci make Buick
+ci prod 31742
+ci origin United States
+ci year 1964
+ci series Special Deluxe
+ci weight 2977
+ci maker Fisher
+ci model 4169
+ci doors 4
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci oil 4
+ci rdiff 2.5
+ci trans 2
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 115
+ci rtred 58
+ci width 73.4
+ci height 54.4
+ci length 203.5
+ci comp 9.0
+ci bhp 155@4400
+ci rhp 33.75
+ci etype Unknown at time of publication
+ci block Cast Iron
+ci cyl 6
+ci etype Single downdraft
+ci englo On block forward of right cylinder head.
+ci etype V6 valve-in-head
+ci vlift Hydraulic
+ci trq 225@2400
+ci disp 225
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Same as VIN Serial Number.
+ci b&s 3 3/4 & 3 13/32
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci exha Single
+ci rad Tube and center
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci equip Pushbutton Radio
+ci equip Super Turbine 300 automatic transmission
+ci equip 300 cu. in. V8 engine
+ci equip Power steering
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 2.58
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.48
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 301, BK(\w)([\dX]{6})
+clv 2176, 1964, Buick, Special Deluxe, Station Wagon 2-seat
+ci axle Semifloating
+ci make Buick
+ci series Special Deluxe
+ci origin United States
+ci msrp $2776.00
+ci prod 9467
+ci year 1964
+ci weight 3235
+ci doors 4
+ci maker Fisher
+ci model 4135
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 2.5
+ci oil 4
+ci fuel 20
+ci trans 2
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 58
+ci length 203.5
+ci width 73.4
+ci wbase 115
+ci height 54.4
+ci etype Unknown at time of publication
+ci etype V6 valve-in-head
+ci b&s 3 3/4 & 3 13/32
+ci block Cast Iron
+ci rhp 33.75
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 155@4400
+ci englo On block forward of right cylinder head.
+ci vlift Hydraulic
+ci trq 225@2400
+ci disp 225
+ci comp 9.0
+ci cyl 6
+ci etype Single downdraft
+ci engno Same as VIN Serial Number.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Water pump
+ci equip Power brakes
+ci equip Super Turbine 300 automatic transmission
+ci equip 300 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.48
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.58
+ci 3gear 1
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+cls 302, AK(\w)([\dX]{6})
+clv 2177, 1964, Buick, Special, Convertible
+ci axle Semifloating
+ci prod 6308
+ci series Special
+ci msrp $2594.00
+ci origin United States
+ci make Buick
+ci year 1964
+ci doors 2
+ci weight 3036
+ci model 4067
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci oil 4
+ci tcase -NA-
+ci fuel 20
+ci trans 2
+ci rdiff 2.5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 203.5
+ci rtred 58
+ci wbase 115
+ci height 54.4
+ci width 73.4
+ci bhp 155@4400
+ci etype Single downdraft
+ci rhp 33.75
+ci disp 225
+ci block Cast Iron
+ci engno Same as VIN Serial Number.
+ci englo On block forward of right cylinder head.
+ci trq 225@2400
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci etype V6 valve-in-head
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.0
+ci b&s 3 3/4 & 3 13/32
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci exha Single
+ci rad Tube and center
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci equip Pushbutton Radio
+ci equip Super Turbine 300 automatic transmission
+ci equip 300 cu. in. V8 engine
+ci equip Power steering
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 2.58
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.48
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 303, AK(\w)([\dX]{6})
+clv 2178, 1964, Buick, Special, Coupe
+ci axle Semifloating
+ci make Buick
+ci series Special
+ci msrp $2332.00
+ci origin United States
+ci prod 15030
+ci year 1964
+ci model 4027
+ci doors 2
+ci weight 2930
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci trans 2
+ci rdiff 2.5
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 58
+ci height 54.4
+ci width 73.4
+ci wbase 115
+ci length 203.5
+ci comp 9.0
+ci disp 225
+ci cyl 6
+ci bhp 155@4400
+ci englo On block forward of right cylinder head.
+ci engno Same as VIN Serial Number.
+ci trq 225@2400
+ci b&s 3 3/4 & 3 13/32
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci etype V6 valve-in-head
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 33.75
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci exha Single
+ci rad Tube and center
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci equip Pushbutton Radio
+ci equip Super Turbine 300 automatic transmission
+ci equip 300 cu. in. V8 engine
+ci equip Power steering
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 2.58
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.48
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 304, AK(\w)([\dX]{6})
+clv 2179, 1964, Buick, Special, Sedan
+ci axle Semifloating
+ci series Special
+ci make Buick
+ci origin United States
+ci msrp $2386.00
+ci year 1964
+ci prod 17983
+ci weight 2956
+ci doors 4
+ci model 4069
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci tcase -NA-
+ci fuel 20
+ci trans 2
+ci rdiff 2.5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci width 73.4
+ci rtred 58
+ci length 203.5
+ci wbase 115
+ci height 54.4
+ci comp 9.0
+ci cyl 6
+ci rhp 33.75
+ci b&s 3 3/4 & 3 13/32
+ci block Cast Iron
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V6 valve-in-head
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci englo On block forward of right cylinder head.
+ci disp 225
+ci engno Same as VIN Serial Number.
+ci bhp 155@4400
+ci trq 225@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci rad Tube and center
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power steering
+ci equip Super Turbine 300 automatic transmission
+ci equip 300 cu. in. V8 engine
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.48
+ci 3gear 1
+ci rev 2.58
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 305, AK(\w)([\dX]{6})
+clv 2180, 1964, Buick, Special, Station Wagon 2-seat
+ci axle Semifloating
+ci make Buick
+ci series Special
+ci origin United States
+ci msrp $2678.00
+ci prod 6270
+ci year 1964
+ci weight 3214
+ci doors 4
+ci maker Fisher
+ci model 4035
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci rdiff 2.5
+ci trans 2
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 58
+ci length 203.5
+ci height 54.4
+ci width 73.4
+ci wbase 115
+ci etype Unknown at time of publication
+ci etype V6 valve-in-head
+ci b&s 3 3/4 & 3 13/32
+ci block Cast Iron
+ci rhp 33.75
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 155@4400
+ci englo On block forward of right cylinder head.
+ci vlift Hydraulic
+ci trq 225@2400
+ci disp 225
+ci comp 9.0
+ci cyl 6
+ci etype Single downdraft
+ci engno Same as VIN Serial Number.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Water pump
+ci equip Power brakes
+ci equip Super Turbine 300 automatic transmission
+ci equip 300 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.48
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.58
+ci 3gear 1
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+cls 306, 6K(\w)([\dX]{6})
+clv 2181, 1964, Buick, Wildcat 8, Convertible
+ci axle Semifloating
+ci make Buick
+ci msrp $3445.00
+ci origin United States
+ci year 1964
+ci prod 7850
+ci series Wildcat 8
+ci weight 4078
+ci maker Fisher
+ci model 4667
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci fuel 20
+ci oil 4
+ci rdiff 4.5
+ci trans 3.5
+ci carb Carter or Rochester
+ci csize 11 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 123
+ci width 78
+ci length 218.8
+ci ftred 62
+ci rtred 61
+ci height 56.4
+ci disp 401.11
+ci mbear 5
+ci etype V8 Valve-in-head
+ci trq 445@2800
+ci etype Unknown at time of publication
+ci engno Same as VIN Serial Number.
+ci comp 10.25
+ci rhp 56.11
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 325@4400
+ci etype Downdraft 4-barrel
+ci englo On block forward of right cylinder head.
+ci b&s 4 3/16 & 3 41/64
+ci vlift Hydraulic
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci batt 12
+ci cool Water pump
+ci rad Tube and center
+ci exha Single
+ci cool 18.5 Quarts
+ci ign Distributor and coil
+ci equip Super Turbine 400 automatic transmission
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip 425 cu. in. V8 engine
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 3.15
+ci 2gear 1.59
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.49
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.60 x 15
+cls 307, 6K(\w)([\dX]{6})
+clv 2182, 1964, Buick, Wildcat 8, Hardtop
+ci axle Semifloating
+ci make Buick
+ci msrp $3317.00
+ci origin United States
+ci prod 4003
+ci year 1964
+ci series Wildcat 8
+ci doors 4
+ci maker Fisher
+ci model 4639
+ci weight 4086
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 12
+ci rdiff 4.5
+ci oil 4
+ci trans 3.5
+ci fuel 20
+ci tcase -NA-
+ci carb Carter or Rochester
+ci csize 11 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 123
+ci width 78
+ci ftred 62
+ci length 218.8
+ci rtred 61
+ci height 56.4
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci trq 445@2800
+ci etype V8 Valve-in-head
+ci etype Unknown at time of publication
+ci cyl 8
+ci comp 10.25
+ci disp 401.11
+ci engno Same as VIN Serial Number.
+ci rhp 56.11
+ci etype Downdraft 4-barrel
+ci englo On block forward of right cylinder head.
+ci b&s 4 3/16 & 3 41/64
+ci vlift Hydraulic
+ci bhp 325@4400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci exha Single
+ci cool Water pump
+ci ign Distributor and coil
+ci batt 12
+ci cool 18.5 Quarts
+ci rad Tube and center
+ci equip Super Turbine 400 automatic transmission
+ci equip 425 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 3.15
+ci 2gear 1.59
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.49
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.60 x 15
+cls 308, 6K(\w)([\dX]{6})
+clv 2183, 1964, Buick, Wildcat 8, Sedan
+ci axle Semifloating
+ci make Buick
+ci msrp $3153.00
+ci origin United States
+ci year 1964
+ci prod 20144
+ci series Wildcat 8
+ci maker Fisher
+ci doors 4
+ci weight 3994
+ci model 4669
+ci bsize 12
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci fuel 20
+ci carb Carter or Rochester
+ci csize 11 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 123
+ci width 78
+ci ftred 62
+ci length 218.8
+ci rtred 61
+ci height 56.4
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci trq 445@2800
+ci etype V8 Valve-in-head
+ci etype Unknown at time of publication
+ci disp 401.11
+ci comp 10.25
+ci b&s 4 3/16 & 3 41/64
+ci engno Same as VIN Serial Number.
+ci rhp 56.11
+ci etype Downdraft 4-barrel
+ci englo On block forward of right cylinder head.
+ci bhp 325@4400
+ci vlift Hydraulic
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci exha Single
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci cool 18.5 Quarts
+ci rad Tube and center
+ci equip Super Turbine 400 automatic transmission
+ci equip 425 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 2gear 1.59
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 2.49
+ci rev 3.15
+ci 3gear 1
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.60 x 15
+cls 309, 6K(\w)([\dX]{6})
+clv 2184, 1964, Buick, Wildcat 8, Sport Coupe
+ci axle Semifloating
+ci make Buick
+ci msrp $3256.00
+ci origin United States
+ci year 1964
+ci prod 22893
+ci series Wildcat 8
+ci weight 3973
+ci model 4647
+ci maker Fisher
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci tcase -NA-
+ci oil 4
+ci trans 3.5
+ci rdiff 4.5
+ci carb Carter or Rochester
+ci csize 11 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 123
+ci width 78
+ci ftred 62
+ci length 218.8
+ci rtred 61
+ci height 56.4
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci trq 445@2800
+ci etype V8 Valve-in-head
+ci etype Unknown at time of publication
+ci disp 401.11
+ci comp 10.25
+ci b&s 4 3/16 & 3 41/64
+ci engno Same as VIN Serial Number.
+ci rhp 56.11
+ci etype Downdraft 4-barrel
+ci englo On block forward of right cylinder head.
+ci bhp 325@4400
+ci vlift Hydraulic
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci exha Single
+ci batt 12
+ci cool Water pump
+ci ign Distributor and coil
+ci cool 18.5 Quarts
+ci rad Tube and center
+ci equip Super Turbine 400 automatic transmission
+ci equip 425 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 2gear 1.59
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 2.49
+ci rev 3.15
+ci 3gear 1
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.60 x 15
+cls 280, 8K(\w)([\dX]{6})
+clv 2155, 1964, Buick, Electra 225, Convertible
+ci axle Semifloating
+ci series Electra 225
+ci msrp $4364.00
+ci make Buick
+ci origin United States
+ci year 1964
+ci prod 7181
+ci doors 2
+ci model 4867
+ci weight 4246
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc Power self-adjusting
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci trans 24
+ci rdiff 4.5
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci length 222.8
+ci height 57.5
+ci width 78
+ci ftred 62
+ci wbase 126
+ci rtred 61
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci rhp 56.11
+ci mbear 5
+ci etype Super Turbine automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci trq 445@2800
+ci comp 10.25
+ci disp 401.11
+ci etype V8 Valve-in-head
+ci b&s 4 3/16 & 3 41/64
+ci englo On block forward of right cylinder head.
+ci bhp 325@4400
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci exha Single
+ci batt 12
+ci cool 18.5 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Water pump
+ci equip 425 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 15
+ci sloc Trunk
+cls 281, 8K(\w)([\dX]{6})
+clv 2156, 1964, Buick, Electra 225, Hardtop
+ci axle Semifloating
+ci origin United States
+ci msrp $4183.00
+ci prod 24935
+ci series Electra 225
+ci make Buick
+ci year 1964
+ci weight 4200
+ci maker Fisher
+ci model 4839
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Power self-adjusting
+ci bsize 12
+ci trans 24
+ci tcase -NA-
+ci oil 4
+ci rdiff 4.5
+ci fuel 20
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci wbase 126
+ci length 222.8
+ci width 78
+ci rtred 61
+ci ftred 62
+ci height 57.5
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci rhp 56.11
+ci mbear 5
+ci etype Super Turbine automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci trq 445@2800
+ci comp 10.25
+ci disp 401.11
+ci etype V8 Valve-in-head
+ci b&s 4 3/16 & 3 41/64
+ci englo On block forward of right cylinder head.
+ci bhp 325@4400
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci exha Single
+ci batt 12
+ci cool 18.5 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Water pump
+ci equip 425 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 15
+ci sloc Trunk
+cls 282, 8K(\w)([\dX]{6})
+clv 2157, 1964, Buick, Electra 225, Sedan
+ci axle Semifloating
+ci year 1964
+ci msrp $4049.00
+ci make Buick
+ci series Electra 225
+ci origin United States
+ci prod 15968
+ci model 4819
+ci weight 4184
+ci maker Fisher
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Power self-adjusting
+ci bsize 12
+ci trans 24
+ci tcase -NA-
+ci oil 4
+ci rdiff 4.5
+ci fuel 20
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci wbase 126
+ci length 222.8
+ci width 78
+ci rtred 61
+ci ftred 62
+ci height 57.5
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci rhp 56.11
+ci mbear 5
+ci etype Super Turbine automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci trq 445@2800
+ci comp 10.25
+ci disp 401.11
+ci etype V8 Valve-in-head
+ci b&s 4 3/16 & 3 41/64
+ci englo On block forward of right cylinder head.
+ci bhp 325@4400
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Arctic White
+co Bronze Mist Metallic
+co Claret Mist Metallic
+co Coral Mist Metallic
+co Desert Beige
+co Diplomat Blue Metallic
+co Granada Red
+co Marlin Blue Metallic
+co Regal Black
+co Silver Cloud Metallic
+co Sunburst
+co Surf Green Metallic
+co Tawny Mist Metallic
+co Teal Mist Metallic
+co Wedgewood Blue
+ci exha Single
+ci batt 12
+ci cool 18.5 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Water pump
+ci equip 425 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 15
+ci sloc Trunk

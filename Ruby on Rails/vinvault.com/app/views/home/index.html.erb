@@ -1,0 +1,59 @@
+<% title 'VIN Decoding Services' %>
+<div id="welcome" class="jumbotron masthead">
+  <h1>Supercharge your Application</h1>
+  <p>Accurate VIN Decoding API Services</p>
+  <div>
+      <%= link_to 'Subscribe', plans_path, class: 'btn btn-primary btn-large' %>
+  </div>
+  <br/>
+  <ul class="masthead-links">
+    <li>
+      <%= link_to 'Documentation', docs_path %>
+     </li>
+    <li>
+      <%= link_to 'Sample Code', samples_path %>
+    </li>
+    <li>
+      <%= link_to 'Mobile ready', mobile_path %>
+    </li>
+    <li>
+      Current API version: 1
+    </li>
+  </ul>
+
+</div>
+<div style="margin-top: 10px">
+  <div class="span12">
+
+    <div class="span3 box" style="margin-bottom: 0">
+      <div class="box-header purple-background">
+        <div class="title">Statistics</div>
+        <div class="actions">
+          <a class="btn box-remove btn-mini btn-link" href="#"><i class="icon-remove"></i>
+          </a>
+
+          <a class="btn box-collapse btn-mini btn-link" href="#"><i></i>
+          </a>
+        </div>
+      </div>
+      <div class="box-content">
+        <%= render 'counts' %>
+      </div>
+    </div>
+
+    <div class="span9" style="margin-bottom: 0">
+      <h1>Data Driven Applications</h1>
+      <p>Are you developing an automotive application?  If you are you know the value of an accurate and up to date source for VIN (Vehicle Identification Number)
+        information.  Your application needs to rely on it's data, and be able to easily access it.  <strong><%= ENV['Site_Name'] %></strong> was created by developers to suit just this need.</p>
+      <p>Our data covers consumer vehicles sold in North America from 1981 through <%= DateTime.now.year+1 %>.  This data </p>
+      <h2>Made by Developers for Developers</h2>
+      <p>We consume this data ourselves every day.  Our goal was to create a service that can easily fit the needs of a variety of customers. Whether you're
+      powering an AJAX-based dynamic application, a mobile app, or a traditional desktop or web application, we can provide data to suit your needs.  We also provide
+      self-service <strong>bulk decoding</strong> services for those who need a large number of VINs decoded immediately.</p>
+      <h2>Services</h2>
+      <p>Our data is available in the format you need.  XML, JSON, and JSONP endpoints are available through POST requests.  The data is uniform across
+      formats, so whatever format you require we can serve.</p>
+    </div>
+  </div>
+</div>
+

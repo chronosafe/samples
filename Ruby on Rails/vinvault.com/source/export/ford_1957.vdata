@@ -1,0 +1,3898 @@
+cls 3392, (\w)7(\w)G([\dX]{6})
+clv 12240, 1957, Ford, Custom 300, Fordor
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $1909.00
+ci series Custom 300
+ci origin United States
+ci year 1957
+ci prod 194877
+ci make Ford
+ci maker Ford
+ci model 73B
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci oil 4
+ci rdiff 4.5
+ci tcase -NA-
+ci trans 3.25
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci length 201.7
+ci wbase 116
+ci width 77
+ci rtred 56.4
+ci height 58.9
+ci ftred 59
+ci bhp 144@4200
+ci cyl 6
+ci mbear 4
+ci b&s 3 5/8 & 3 39/64
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci etype In line Valve-in-head
+ci disp 223.5
+ci trq 212@2400
+ci etype Single downdraft
+ci etype Helical
+ci rhp 31.54
+ci vlift Mechanical
+ci color Exterior Colors
+co Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Cumberland Green & Willow Green
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Dresden Blue & Colonial White
+co Dresden Blue & Starmist Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co GunMetallical Gray & Woodsmoke Gray
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci exha Single
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.38
+ci drive Rear wheel drive
+ci 1gear 2.78
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3393, (\w)7(\w)b([\dX]{6})
+clv 12241, 1957, Ford, Custom 300, Tudor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $1861.00
+ci prod 160360
+ci origin United States
+ci year 1957
+ci make Ford
+ci series Custom 300
+ci doors 2
+ci model 70B
+ci maker Ford
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci oil 4
+ci trans 3.25
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 201.7
+ci wbase 116
+ci width 77
+ci rtred 56.4
+ci ftred 59
+ci height 58.9
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci rhp 31.54
+ci comp 8.6
+ci b&s 3 5/8 & 3 39/64
+ci block Cast Iron
+ci vlift Mechanical
+ci bhp 144@4200
+ci etype In line Valve-in-head
+ci etype Single downdraft
+ci etype Helical
+ci trq 212@2400
+ci disp 223.5
+ci color Exterior Colors
+co Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Cumberland Green & Willow Green
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Dresden Blue & Colonial White
+co Dresden Blue & Starmist Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co GunMetallical Gray & Woodsmoke Gray
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci ign Distributor and coil
+ci exha Single
+ci cool 15 Quarts
+ci rad Fin and tube
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.38
+ci 2gear 1.61
+ci 1gear 2.78
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3394, (\w)7(\w)G([\dX]{6})
+clv 12242, 1957, Ford, Custom 300, Fordor
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci origin United States
+ci series Custom 300
+ci year 1957
+ci prod 194877
+ci msrp $2002.00
+ci weight 3334
+ci maker Ford
+ci doors 4
+ci model 73B
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci rdiff 4.5
+ci fuel 20
+ci oil 5
+ci tcase -NA-
+ci trans 3.25
+ci carb Own
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.56
+ci diff Hypoid
+ci width 77
+ci length 201.7
+ci ftred 59
+ci wbase 116
+ci rtred 56.4
+ci height 58.9
+ci rhp 42.05
+ci mbear 5
+ci b&s 3 5/8 & 3 19/64
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.6
+ci disp 272.21
+ci etype V8 Valve-in-head
+ci trq 270@2700
+ci etype Dual downdraft
+ci etype Helical
+ci bhp 190@4500
+ci vlift Mechanical
+ci color Exterior Colors
+co Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Cumberland Green & Willow Green
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Dresden Blue & Colonial White
+co Dresden Blue & Starmist Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co GunMetallical Gray & Woodsmoke Gray
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci batt 12
+ci cool 19 Quarts
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.61
+ci 2gear 1.62
+ci gears 3
+ci rev 3.1
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3395, (\w)7(\w)b([\dX]{6})
+clv 12243, 1957, Ford, Custom 300, Tudor
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci origin United States
+ci series Custom 300
+ci msrp $1954.00
+ci prod 160360
+ci year 1957
+ci weight 3289
+ci model 70B
+ci doors 2
+ci maker Ford
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci oil 5
+ci fuel 20
+ci trans 3.25
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Own
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci ftred 59
+ci wbase 116
+ci width 77
+ci length 201.7
+ci rtred 56.4
+ci height 58.9
+ci mbear 5
+ci rhp 42.05
+ci b&s 3 5/8 & 3 19/64
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.6
+ci disp 272.21
+ci etype V8 Valve-in-head
+ci trq 270@2700
+ci etype Dual downdraft
+ci etype Helical
+ci bhp 190@4500
+ci vlift Mechanical
+ci color Exterior Colors
+co Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Cumberland Green & Willow Green
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Dresden Blue & Colonial White
+co Dresden Blue & Starmist Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co GunMetallical Gray & Woodsmoke Gray
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci batt 12
+ci cool 19 Quarts
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.61
+ci 2gear 1.62
+ci gears 3
+ci rev 3.1
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3396, (\w)7(\w)b([\dX]{6})
+clv 12244, 1957, Ford, Custom, Business Tudor
+ser 6 1 499999
+ci axle Semifloating
+ci prod 6888
+ci series Custom
+ci origin United States
+ci msrp $1685.00
+ci year 1957
+ci make Ford
+ci maker Ford
+ci model 70D
+ci doors 2
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci tcase -NA-
+ci rdiff 4.5
+ci oil 4
+ci fuel 20
+ci trans 3.25
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci rtred 56.4
+ci length 201.7
+ci width 77
+ci height 58.9
+ci ftred 59
+ci wbase 116
+ci bhp 144@4200
+ci vlift Mechanical
+ci cyl 6
+ci rhp 31.54
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci etype In line Valve-in-head
+ci disp 223.5
+ci trq 212@2400
+ci etype Single downdraft
+ci etype Helical
+ci mbear 4
+ci b&s 3 5/8 & 3 39/64
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci exha Single
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.37
+ci drive Rear wheel drive
+ci 1gear 2.84
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3397, (\w)7(\w)G([\dX]{6})
+clv 12245, 1957, Ford, Custom, Fordor
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $1836.00
+ci prod 68924
+ci year 1957
+ci origin United States
+ci make Ford
+ci series Custom
+ci model 73A
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci rdiff 4.5
+ci trans 3.25
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.70
+ci rtred 56.4
+ci width 77
+ci length 201.7
+ci height 58.9
+ci ftred 59
+ci wbase 116
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci b&s 3 5/8 & 3 39/64
+ci etype Single downdraft
+ci comp 8.6
+ci disp 223.5
+ci block Cast Iron
+ci bhp 144@4200
+ci trq 212@2400
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci rhp 31.54
+ci mbear 4
+ci etype Helical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci ftype Regular
+ci cool 15 Quarts
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci ign Distributor and coil
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.84
+ci rev 3.37
+ci 2gear 1.61
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3398, (\w)7(\w)b([\dX]{6})
+clv 12246, 1957, Ford, Custom, Tudor Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $1788.00
+ci year 1957
+ci origin United States
+ci make Ford
+ci prod 116963
+ci series Custom
+ci model 70A
+ci doors 2
+ci maker Ford
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci oil 4
+ci trans 3.25
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 201.7
+ci wbase 116
+ci width 77
+ci rtred 56.4
+ci ftred 59
+ci height 58.9
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci rhp 31.54
+ci comp 8.6
+ci b&s 3 5/8 & 3 39/64
+ci block Cast Iron
+ci vlift Mechanical
+ci bhp 144@4200
+ci etype In line Valve-in-head
+ci etype Single downdraft
+ci etype Helical
+ci trq 212@2400
+ci disp 223.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci ign Distributor and coil
+ci exha Single
+ci cool 15 Quarts
+ci rad Fin and tube
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.37
+ci 2gear 1.61
+ci 1gear 2.84
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3399, (\w)7(\w)b([\dX]{6})
+clv 12247, 1957, Ford, Custom, Business Tudor
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci origin United States
+ci series Custom
+ci prod 6888
+ci year 1957
+ci msrp $1778.00
+ci weight 3276
+ci maker Ford
+ci doors 2
+ci model 70D
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci oil 5
+ci rdiff 4.5
+ci fuel 20
+ci tcase -NA-
+ci trans 3.25
+ci carb Own
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.56
+ci diff Hypoid
+ci width 77
+ci length 201.7
+ci wbase 116
+ci rtred 56.4
+ci height 58.9
+ci ftred 59
+ci mbear 5
+ci rhp 42.05
+ci b&s 3 5/8 & 3 19/64
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.6
+ci disp 272.21
+ci etype V8 Valve-in-head
+ci trq 270@2700
+ci etype Dual downdraft
+ci etype Helical
+ci bhp 190@4500
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci batt 12
+ci cool 19 Quarts
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.61
+ci 2gear 1.62
+ci gears 3
+ci rev 3.1
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3400, (\w)7(\w)G([\dX]{6})
+clv 12248, 1957, Ford, Custom, Fordor
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci origin United States
+ci series Custom
+ci prod 68924
+ci year 1957
+ci msrp $1929.00
+ci doors 4
+ci maker Ford
+ci weight 3267
+ci model 73A
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci oil 5
+ci fuel 20
+ci rdiff 4.5
+ci trans 3.25
+ci carb Own
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.56
+ci width 77
+ci length 201.7
+ci wbase 116
+ci rtred 56.4
+ci height 58.9
+ci ftred 59
+ci mbear 5
+ci rhp 42.05
+ci b&s 3 5/8 & 3 19/64
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.6
+ci disp 272.21
+ci etype V8 Valve-in-head
+ci trq 270@2700
+ci etype Dual downdraft
+ci etype Helical
+ci bhp 190@4500
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci batt 12
+ci cool 19 Quarts
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.61
+ci 2gear 1.62
+ci gears 3
+ci rev 3.1
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3401, (\w)7(\w)b([\dX]{6})
+clv 12249, 1957, Ford, Custom, Tudor
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci origin United States
+ci series Custom
+ci msrp $1881.00
+ci year 1957
+ci prod 116963
+ci weight 3319
+ci model 70A
+ci doors 2
+ci maker Ford
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci oil 5
+ci fuel 20
+ci trans 3.25
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Own
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci ftred 59
+ci wbase 116
+ci width 77
+ci length 201.7
+ci rtred 56.4
+ci height 58.9
+ci mbear 5
+ci rhp 42.05
+ci b&s 3 5/8 & 3 19/64
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.6
+ci disp 272.21
+ci etype V8 Valve-in-head
+ci trq 270@2700
+ci etype Dual downdraft
+ci etype Helical
+ci bhp 190@4500
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci batt 12
+ci cool 19 Quarts
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.61
+ci 2gear 1.62
+ci gears 3
+ci rev 3.1
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3402, (\w)7(\w)G([\dX]{6})
+clv 12250, 1957, Ford, Fairlane 500, Club Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 93753
+ci series Fairlane 500
+ci origin United States
+ci msrp $2011.00
+ci year 1957
+ci make Ford
+ci model 64B
+ci maker Ford
+ci doors 2
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 3.25
+ci fuel 20
+ci oil 4
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci length 207.7
+ci width 77
+ci rtred 56.4
+ci height 57.9
+ci ftred 59
+ci wbase 118
+ci bhp 144@4200
+ci vlift Mechanical
+ci cyl 6
+ci comp 8.6
+ci rhp 31.54
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci etype In line Valve-in-head
+ci disp 223.5
+ci trq 212@2400
+ci etype Single downdraft
+ci etype Helical
+ci mbear 4
+ci b&s 3 5/8 & 3 39/64
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci exha Single
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.38
+ci drive Rear wheel drive
+ci 1gear 2.78
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3403, (\w)7(\w)V([\dX]{6})
+clv 12251, 1957, Ford, Fairlane 500, Club Victoria
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2064.00
+ci prod 183202
+ci origin United States
+ci year 1957
+ci make Ford
+ci series Fairlane 500
+ci doors 2
+ci model 63A
+ci maker Ford
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci oil 4
+ci trans 3.25
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 207.7
+ci wbase 118
+ci width 77
+ci rtred 56.4
+ci ftred 59
+ci height 57.9
+ci cyl 6
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 31.54
+ci comp 8.6
+ci b&s 3 5/8 & 3 39/64
+ci block Cast Iron
+ci vlift Mechanical
+ci bhp 144@4200
+ci etype In line Valve-in-head
+ci etype Single downdraft
+ci etype Helical
+ci trq 212@2400
+ci disp 223.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci ign Distributor and coil
+ci exha Single
+ci cool 15 Quarts
+ci rad Fin and tube
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.38
+ci 2gear 1.61
+ci 1gear 2.78
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3404, (\w)7(\w)C([\dX]{6})
+clv 12252, 1957, Ford, Fairlane 500, Sunliner
+ser 6 1 499999
+ci axle Semifloating
+ci prod 77728
+ci series Fairlane 500
+ci origin United States
+ci msrp $2261.00
+ci year 1957
+ci make Ford
+ci model 76B
+ci doors 2
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 4.5
+ci fuel 20
+ci trans 3.25
+ci oil 4
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci length 207.7
+ci width 77
+ci rtred 56.4
+ci height 57.9
+ci ftred 59
+ci wbase 118
+ci bhp 144@4200
+ci cyl 6
+ci vlift Mechanical
+ci rhp 31.54
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci etype In line Valve-in-head
+ci disp 223.5
+ci trq 212@2400
+ci etype Single downdraft
+ci etype Helical
+ci mbear 4
+ci b&s 3 5/8 & 3 39/64
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci exha Single
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.38
+ci drive Rear wheel drive
+ci 1gear 2.78
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3405, (\w)7(\w)T([\dX]{6})
+clv 12253, 1957, Ford, Fairlane 500, Town Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2059.00
+ci series Fairlane 500
+ci origin United States
+ci year 1957
+ci prod 193162
+ci make Ford
+ci model 58B
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 3.25
+ci rdiff 4.5
+ci oil 4
+ci tcase -NA-
+ci fuel 20
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.70
+ci diff Hypoid
+ci wbase 118
+ci width 77
+ci ftred 59
+ci rtred 56.4
+ci height 57.9
+ci length 207.7
+ci bhp 144@4200
+ci cyl 6
+ci mbear 4
+ci b&s 3 5/8 & 3 39/64
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci etype In line Valve-in-head
+ci disp 223.5
+ci trq 212@2400
+ci etype Single downdraft
+ci etype Helical
+ci rhp 31.54
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci exha Single
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.38
+ci drive Rear wheel drive
+ci 1gear 2.78
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3406, (\w)7(\w)V([\dX]{6})
+clv 12254, 1957, Ford, Fairlane 500, Town Victoria
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2125.00
+ci year 1957
+ci prod 68550
+ci origin United States
+ci make Ford
+ci series Fairlane 500
+ci model 57A
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci rdiff 4.5
+ci trans 3.25
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.70
+ci rtred 56.4
+ci width 77
+ci length 207.7
+ci height 57.9
+ci wbase 118
+ci ftred 59
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 5/8 & 3 39/64
+ci cyl 6
+ci etype Single downdraft
+ci comp 8.6
+ci disp 223.5
+ci block Cast Iron
+ci bhp 144@4200
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci trq 212@2400
+ci rhp 31.54
+ci mbear 4
+ci etype Helical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci ftype Regular
+ci cool 15 Quarts
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci ign Distributor and coil
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 1gear 2.78
+ci rev 3.38
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3407, (\w)7(\w)G([\dX]{6})
+clv 12255, 1957, Ford, Fairlane 500, Club Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 93753
+ci origin United States
+ci make Ford
+ci msrp $2104.00
+ci year 1957
+ci series Fairlane 500
+ci weight 3407
+ci maker Ford
+ci doors 2
+ci model 64B
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci oil 5
+ci fuel 20
+ci trans 3.25
+ci rdiff 4.5
+ci carb Own
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci ftred 59
+ci wbase 118
+ci length 207.7
+ci rtred 56.4
+ci height 57.9
+ci width 77
+ci disp 291.3
+ci bhp 206@4500
+ci trq 297@2700
+ci cyl 8
+ci comp 9.1
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci etype V8 Valve-in-head
+ci rhp 45
+ci etype Helical
+ci etype Dual downdraft
+ci b&s 3 3/4 & 3 19/64
+ci mbear 5
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci exha Dual
+ci ftype Regular
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci batt 12
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci rev 2.86
+ci 2gear 1.49
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3408, (\w)7(\w)V([\dX]{6})
+clv 12256, 1957, Ford, Fairlane 500, Club Victoria
+ser 6 1 499999
+ci axle Semifloating
+ci prod 183202
+ci origin United States
+ci make Ford
+ci year 1957
+ci msrp $2157.00
+ci series Fairlane 500
+ci weight 3442
+ci maker Ford
+ci doors 2
+ci model 63A
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci fuel 20
+ci oil 5
+ci trans 3.25
+ci rdiff 4.5
+ci carb Own
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.56
+ci width 77
+ci wbase 118
+ci length 207.7
+ci ftred 59
+ci rtred 56.4
+ci height 57.9
+ci b&s 3 3/4 & 3 19/64
+ci mbear 5
+ci bhp 206@4500
+ci disp 291.3
+ci cyl 8
+ci comp 9.1
+ci block Cast Iron
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci etype Dual downdraft
+ci trq 297@2700
+ci rhp 45
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci exha Dual
+ci ftype Regular
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci batt 12
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci rev 2.86
+ci 2gear 1.49
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3409, (\w)7(\w)W([\dX]{6})
+clv 12257, 1957, Ford, Fairlane 500, Skyliner
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2942.00
+ci origin United States
+ci make Ford
+ci prod 20766
+ci year 1957
+ci series Fairlane 500
+ci model 51A
+ci maker Ford
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci tcase -NA-
+ci oil 5
+ci rdiff 4.5
+ci trans 3.25
+ci carb Own
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci rtred 56.4
+ci wbase 118
+ci ftred 59
+ci length 210.8
+ci width 77
+ci bhp 206@4500
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 291.3
+ci cyl 8
+ci comp 9.1
+ci block Cast Iron
+ci etype V8 Valve-in-head
+ci trq 297@2700
+ci etype Helical
+ci etype Dual downdraft
+ci b&s 3 3/4 & 3 19/64
+ci rhp 45
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci exha Dual
+ci ftype Regular
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci batt 12
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci rev 2.86
+ci 2gear 1.49
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3410, (\w)7(\w)C([\dX]{6})
+clv 12258, 1957, Ford, Fairlane 500, Sunliner
+ser 6 1 499999
+ci axle Semifloating
+ci prod 77728
+ci origin United States
+ci make Ford
+ci msrp $2354.00
+ci year 1957
+ci series Fairlane 500
+ci weight 3597
+ci maker Ford
+ci doors 2
+ci model 76B
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci oil 5
+ci trans 3.25
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Own
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci ftred 59
+ci wbase 118
+ci length 207.7
+ci rtred 56.4
+ci height 57.9
+ci width 77
+ci disp 291.3
+ci bhp 206@4500
+ci trq 297@2700
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 9.1
+ci block Cast Iron
+ci etype V8 Valve-in-head
+ci rhp 45
+ci etype Helical
+ci etype Dual downdraft
+ci b&s 3 3/4 & 3 19/64
+ci mbear 5
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci exha Dual
+ci ftype Regular
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci batt 12
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci rev 2.86
+ci 2gear 1.49
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3411, (\w)7(\w)T([\dX]{6})
+clv 12259, 1957, Ford, Fairlane 500, Town Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2152.00
+ci origin United States
+ci make Ford
+ci year 1957
+ci prod 193162
+ci series Fairlane 500
+ci weight 3452
+ci maker Ford
+ci model 58B
+ci doors 4
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci rdiff 4.5
+ci oil 5
+ci tcase -NA-
+ci trans 3.25
+ci fuel 20
+ci carb Own
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci ftred 59
+ci width 77
+ci wbase 118
+ci length 207.7
+ci rtred 56.4
+ci height 57.9
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci bhp 206@4500
+ci disp 291.3
+ci cyl 8
+ci comp 9.1
+ci block Cast Iron
+ci etype V8 Valve-in-head
+ci trq 297@2700
+ci etype Helical
+ci etype Dual downdraft
+ci b&s 3 3/4 & 3 19/64
+ci rhp 45
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci exha Dual
+ci ftype Regular
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci batt 12
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci rev 2.86
+ci 2gear 1.49
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3412, (\w)7(\w)V([\dX]{6})
+clv 12260, 1957, Ford, Fairlane 500, Town Victoria
+ser 6 1 499999
+ci axle Semifloating
+ci prod 68550
+ci origin United States
+ci make Ford
+ci msrp $2218.00
+ci year 1957
+ci series Fairlane 500
+ci doors 4
+ci maker Ford
+ci model 57A
+ci weight 3487
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci fuel 20
+ci tcase -NA-
+ci trans 3.25
+ci rdiff 4.5
+ci oil 5
+ci carb Own
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci ftred 59
+ci width 77
+ci wbase 118
+ci rtred 56.4
+ci height 57.9
+ci length 207.7
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 206@4500
+ci disp 291.3
+ci trq 297@2700
+ci cyl 8
+ci comp 9.1
+ci block Cast Iron
+ci etype V8 Valve-in-head
+ci rhp 45
+ci etype Helical
+ci etype Dual downdraft
+ci b&s 3 3/4 & 3 19/64
+ci mbear 5
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Cumberland Green
+co Doeskin Tan
+co Dresden Blue
+co Enamel
+co Flame Red
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Two Tone Colors Available
+co Willow Green
+co Woodsmoke Gray
+ci exha Dual
+ci ftype Regular
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci batt 12
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci rev 2.86
+ci 2gear 1.49
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3413, (\w)7(\w)G([\dX]{6})
+clv 12261, 1957, Ford, Fairlane, Club Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane
+ci make Ford
+ci origin United States
+ci msrp $1957.00
+ci year 1957
+ci prod 39843
+ci maker Ford
+ci model 64A
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci trans 3.25
+ci fuel 20
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 4
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci width 77
+ci length 207.7
+ci wbase 118
+ci rtred 56.4
+ci height 57.9
+ci ftred 59
+ci vlift Mechanical
+ci disp 223.5
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.6
+ci trq 212@2400
+ci block Cast Iron
+ci etype In line Valve-in-head
+ci rhp 31.54
+ci mbear 4
+ci etype Single downdraft
+ci etype Helical
+ci bhp 144@4200
+ci b&s 3 5/8 & 3 39/64
+ci color Exterior Colors
+co Colonial White
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Cumberland Green & Willow Green
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Dresden Blue & Colonial White
+co Dresden Blue & Starmist Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co GunMetallical Gray & Woodsmoke Gray
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Silver Mocha & Doeskin Tan
+co Silver Mocha & Inca Gold
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci exha Single
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.38
+ci drive Rear wheel drive
+ci 1gear 2.78
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3414, (\w)7(\w)V([\dX]{6})
+clv 12262, 1957, Ford, Fairlane, Club Victoria
+ser 6 1 499999
+ci axle Semifloating
+ci prod 44127
+ci series Fairlane
+ci origin United States
+ci msrp $2011.00
+ci year 1957
+ci make Ford
+ci maker Ford
+ci doors 2
+ci model 63B
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci oil 4
+ci trans 3.25
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 207.7
+ci width 77
+ci wbase 118
+ci rtred 56.4
+ci height 57.9
+ci ftred 59
+ci bhp 144@4200
+ci cyl 6
+ci vlift Mechanical
+ci rhp 31.54
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci etype In line Valve-in-head
+ci disp 223.5
+ci trq 212@2400
+ci etype Single downdraft
+ci etype Helical
+ci mbear 4
+ci b&s 3 5/8 & 3 39/64
+ci color Exterior Colors
+co Colonial White
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Cumberland Green & Willow Green
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Dresden Blue & Colonial White
+co Dresden Blue & Starmist Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co GunMetallical Gray & Woodsmoke Gray
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Silver Mocha & Doeskin Tan
+co Silver Mocha & Inca Gold
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci exha Single
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.38
+ci drive Rear wheel drive
+ci 1gear 2.78
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3415, (\w)7(\w)T([\dX]{6})
+clv 12263, 1957, Ford, Fairlane, Town Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2006.00
+ci prod 52060
+ci year 1957
+ci origin United States
+ci make Ford
+ci series Fairlane
+ci model 58A
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci rdiff 4.5
+ci trans 3.25
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.70
+ci ftred 59
+ci width 77
+ci length 207.7
+ci rtred 56.4
+ci height 57.9
+ci wbase 118
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci b&s 3 5/8 & 3 39/64
+ci etype Single downdraft
+ci comp 8.6
+ci disp 223.5
+ci block Cast Iron
+ci bhp 144@4200
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci trq 212@2400
+ci rhp 31.54
+ci mbear 4
+ci etype Helical
+ci color Exterior Colors
+co Colonial White
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Cumberland Green & Willow Green
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Dresden Blue & Colonial White
+co Dresden Blue & Starmist Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co GunMetallical Gray & Woodsmoke Gray
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Silver Mocha & Doeskin Tan
+co Silver Mocha & Inca Gold
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci ftype Regular
+ci cool 15 Quarts
+ci rad Fin and tube
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci ign Distributor and coil
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 1gear 2.78
+ci rev 3.38
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3416, (\w)7(\w)V([\dX]{6})
+clv 12264, 1957, Ford, Fairlane, Town Victoria
+ser 6 1 499999
+ci axle Semifloating
+ci prod 12695
+ci series Fairlane
+ci origin United States
+ci year 1957
+ci msrp $2072.00
+ci make Ford
+ci model 57B
+ci maker Ford
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 3.25
+ci rdiff 4.5
+ci oil 4
+ci tcase -NA-
+ci fuel 20
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.70
+ci diff Hypoid
+ci wbase 118
+ci width 77
+ci ftred 59
+ci rtred 56.4
+ci height 57.9
+ci length 207.7
+ci bhp 144@4200
+ci cyl 6
+ci mbear 4
+ci b&s 3 5/8 & 3 39/64
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci etype In line Valve-in-head
+ci disp 223.5
+ci trq 212@2400
+ci etype Single downdraft
+ci etype Helical
+ci rhp 31.54
+ci vlift Mechanical
+ci color Exterior Colors
+co Colonial White
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Cumberland Green & Willow Green
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Dresden Blue & Colonial White
+co Dresden Blue & Starmist Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co GunMetallical Gray & Woodsmoke Gray
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Silver Mocha & Doeskin Tan
+co Silver Mocha & Inca Gold
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci exha Single
+ci cool 15 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.38
+ci drive Rear wheel drive
+ci 1gear 2.78
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3417, (\w)7(\w)G([\dX]{6})
+clv 12265, 1957, Ford, Fairlane, Club Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 39843
+ci origin United States
+ci make Ford
+ci msrp $2050.00
+ci year 1957
+ci series Fairlane
+ci weight 3392
+ci maker Ford
+ci doors 2
+ci model 64A
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 3.25
+ci oil 5
+ci carb Own
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci ftred 59
+ci width 77
+ci wbase 118
+ci length 207.7
+ci rtred 56.4
+ci height 57.9
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 206@4500
+ci mbear 5
+ci disp 291.3
+ci cyl 8
+ci comp 9.1
+ci block Cast Iron
+ci etype V8 Valve-in-head
+ci trq 297@2700
+ci etype Helical
+ci etype Dual downdraft
+ci b&s 3 3/4 & 3 19/64
+ci rhp 45
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Cumberland Green & Willow Green
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Dresden Blue & Colonial White
+co Dresden Blue & Starmist Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co GunMetallical Gray & Woodsmoke Gray
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Silver Mocha & Doeskin Tan
+co Silver Mocha & Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Two Tone Colors Available
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci exha Dual
+ci ftype Regular
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci batt 12
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci rev 2.86
+ci 2gear 1.49
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3418, (\w)7(\w)V([\dX]{6})
+clv 12266, 1957, Ford, Fairlane, Club Victoria
+ser 6 1 499999
+ci axle Semifloating
+ci prod 44127
+ci origin United States
+ci make Ford
+ci msrp $2104.00
+ci year 1957
+ci series Fairlane
+ci weight 3427
+ci maker Ford
+ci doors 2
+ci model 63B
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci tcase -NA-
+ci trans 3.25
+ci rdiff 4.5
+ci oil 5
+ci carb Own
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci ftred 59
+ci width 77
+ci wbase 118
+ci length 207.7
+ci rtred 56.4
+ci height 57.9
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 206@4500
+ci mbear 5
+ci disp 291.3
+ci cyl 8
+ci comp 9.1
+ci block Cast Iron
+ci etype V8 Valve-in-head
+ci trq 297@2700
+ci etype Helical
+ci etype Dual downdraft
+ci b&s 3 3/4 & 3 19/64
+ci rhp 45
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Cumberland Green & Willow Green
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Dresden Blue & Colonial White
+co Dresden Blue & Starmist Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co GunMetallical Gray & Woodsmoke Gray
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Silver Mocha & Doeskin Tan
+co Silver Mocha & Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Two Tone Colors Available
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci exha Dual
+ci ftype Regular
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci batt 12
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci rev 2.86
+ci 2gear 1.49
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3419, (\w)7(\w)T([\dX]{6})
+clv 12267, 1957, Ford, Fairlane, Town Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 52060
+ci origin United States
+ci make Ford
+ci msrp $2099.00
+ci year 1957
+ci series Fairlane
+ci doors 4
+ci maker Ford
+ci model 58A
+ci weight 3437
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci tcase -NA-
+ci trans 3.25
+ci rdiff 4.5
+ci oil 5
+ci carb Own
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci ftred 59
+ci width 77
+ci wbase 118
+ci length 207.7
+ci rtred 56.4
+ci height 57.9
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 291.3
+ci bhp 206@4500
+ci trq 297@2700
+ci cyl 8
+ci comp 9.1
+ci block Cast Iron
+ci etype V8 Valve-in-head
+ci rhp 45
+ci etype Helical
+ci etype Dual downdraft
+ci b&s 3 3/4 & 3 19/64
+ci mbear 5
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Cumberland Green & Willow Green
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Dresden Blue & Colonial White
+co Dresden Blue & Starmist Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co GunMetallical Gray & Woodsmoke Gray
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Silver Mocha & Doeskin Tan
+co Silver Mocha & Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Two Tone Colors Available
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci exha Dual
+ci ftype Regular
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci batt 12
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci rev 2.86
+ci 2gear 1.49
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3420, (\w)7(\w)V([\dX]{6})
+clv 12268, 1957, Ford, Fairlane, Town Victoria
+ser 6 1 499999
+ci axle Semifloating
+ci prod 12695
+ci origin United States
+ci make Ford
+ci year 1957
+ci msrp $2165.00
+ci series Fairlane
+ci weight 3471
+ci maker Ford
+ci model 57B
+ci doors 4
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci rdiff 4.5
+ci oil 5
+ci tcase -NA-
+ci trans 3.25
+ci fuel 20
+ci carb Own
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci ftred 59
+ci width 77
+ci wbase 118
+ci length 207.7
+ci rtred 56.4
+ci height 57.9
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci bhp 206@4500
+ci disp 291.3
+ci cyl 8
+ci comp 9.1
+ci block Cast Iron
+ci etype V8 Valve-in-head
+ci trq 297@2700
+ci etype Helical
+ci etype Dual downdraft
+ci b&s 3 3/4 & 3 19/64
+ci rhp 45
+ci vlift Mechanical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Colonial White
+co Coral Sand
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Cumberland Green & Willow Green
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Dresden Blue & Colonial White
+co Dresden Blue & Starmist Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co GunMetallical Gray & Woodsmoke Gray
+co Gunmetal Gray Metallic
+co Gunmetal Gray Metallic No.  2
+co Inca Gold
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Silver Mocha & Doeskin Tan
+co Silver Mocha & Inca Gold
+co Silver Mocha Metallic
+co Silver Mocha Metallic No. 2
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Two Tone Colors Available
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci exha Dual
+ci ftype Regular
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 19 Quarts
+ci batt 12
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci rev 2.86
+ci 2gear 1.49
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3421, (\w)7(\w)X([\dX]{6})
+clv 12269, 1957, Ford, Station Wagon, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Station Wagon
+ci origin United States
+ci prod 137251
+ci msrp $2181.00
+ci year 1957
+ci maker Ford
+ci model 79D
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 20
+ci trans 3.25
+ci oil 4
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.70
+ci wbase 116
+ci length 203.5
+ci width 77
+ci rtred 56.4
+ci ftred 59
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 5/8 & 3 39/64
+ci etype Single downdraft
+ci cyl 6
+ci comp 8.6
+ci disp 223.5
+ci block Cast Iron
+ci bhp 144@4200
+ci vlift Mechanical
+ci etype Helical
+ci etype In line Valve-in-head
+ci trq 212@2400
+ci mbear 4
+ci rhp 31.54
+ci color Exterior Colors
+co Colonial White
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci ign Distributor and coil
+ci exha Single
+ci rad Fin and tube
+ci batt 12
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci cool 15 Quarts
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 1gear 2.78
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.61
+ci rev 3.38
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3422, (\w)7(\w)X([\dX]{6})
+clv 12270, 1957, Ford, Station Wagon, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 49638
+ci series Station Wagon
+ci origin United States
+ci msrp $2280.00
+ci make Ford
+ci year 1957
+ci maker Ford
+ci pass 9
+ci model 79C
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 4
+ci trans 3.25
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 203.5
+ci wbase 116
+ci rtred 56.4
+ci ftred 59
+ci width 77
+ci etype Single downdraft
+ci b&s 3 5/8 & 3 39/64
+ci disp 223.5
+ci comp 8.6
+ci cyl 6
+ci mbear 4
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 144@4200
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci rhp 31.54
+ci trq 212@2400
+ci etype Helical
+ci color Exterior Colors
+co Colonial White
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci ftype Regular
+ci exha Single
+ci rad Fin and tube
+ci cool 15 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci equip Fordomatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.78
+ci gears 3
+ci rev 3.38
+ci 2gear 1.61
+ci vloc Plate on left front door pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 3423, (\w)7(\w)Y([\dX]{6})
+clv 12271, 1957, Ford, Station Wagon, Country Squire
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2402.00
+ci series Station Wagon
+ci year 1957
+ci prod 27690
+ci origin United States
+ci make Ford
+ci model 79E
+ci maker Ford
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci trans 3.25
+ci rdiff 4.5
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.70
+ci wbase 116
+ci length 203.5
+ci width 77
+ci rtred 56.4
+ci ftred 59
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 5/8 & 3 39/64
+ci etype Single downdraft
+ci cyl 6
+ci comp 8.6
+ci disp 223.5
+ci block Cast Iron
+ci bhp 144@4200
+ci vlift Mechanical
+ci etype Helical
+ci etype In line Valve-in-head
+ci trq 212@2400
+ci mbear 4
+ci rhp 31.54
+ci color Exterior Colors
+co Colonial White
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci ign Distributor and coil
+ci exha Single
+ci rad Fin and tube
+ci batt 12
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci cool 15 Quarts
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 1gear 2.78
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.61
+ci rev 3.38
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3424, (\w)7(\w)R([\dX]{6})
+clv 12272, 1957, Ford, Station Wagon, Del Rio Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci year 1957
+ci series Station Wagon
+ci origin United States
+ci prod 46105
+ci msrp $2137.00
+ci make Ford
+ci model 59B
+ci maker Ford
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 3.25
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.70
+ci wbase 116
+ci length 203.5
+ci width 77
+ci rtred 56.4
+ci ftred 59
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci b&s 3 5/8 & 3 39/64
+ci etype Single downdraft
+ci comp 8.6
+ci disp 223.5
+ci block Cast Iron
+ci bhp 144@4200
+ci vlift Mechanical
+ci etype Helical
+ci etype In line Valve-in-head
+ci trq 212@2400
+ci rhp 31.54
+ci mbear 4
+ci color Exterior Colors
+co Colonial White
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci ign Distributor and coil
+ci exha Single
+ci rad Fin and tube
+ci batt 12
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci cool 15 Quarts
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 1gear 2.78
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.61
+ci rev 3.38
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3425, (\w)7(\w)R([\dX]{6})
+clv 12273, 1957, Ford, Station Wagon, Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci year 1957
+ci series Station Wagon
+ci origin United States
+ci prod 60486
+ci msrp $2077.00
+ci make Ford
+ci model 59A
+ci maker Ford
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 3.25
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.70
+ci wbase 116
+ci length 203.5
+ci rtred 56.4
+ci ftred 59
+ci width 77
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci b&s 3 5/8 & 3 39/64
+ci cyl 6
+ci comp 8.6
+ci disp 223.5
+ci block Cast Iron
+ci bhp 144@4200
+ci vlift Mechanical
+ci etype Helical
+ci etype In line Valve-in-head
+ci trq 212@2400
+ci rhp 31.54
+ci mbear 4
+ci color Exterior Colors
+co Colonial White
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci ign Distributor and coil
+ci exha Single
+ci rad Fin and tube
+ci batt 12
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci cool 15 Quarts
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 1gear 2.78
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.61
+ci rev 3.38
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3426, (\w)7(\w)X([\dX]{6})
+clv 12274, 1957, Ford, Station Wagon, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci origin United States
+ci series Station Wagon
+ci msrp $2274.00
+ci prod 137251
+ci year 1957
+ci maker Ford
+ci weight 3590
+ci doors 4
+ci model 79D
+ci pass 6
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci rdiff 4.5
+ci trans 3.25
+ci tcase -NA-
+ci fuel 20
+ci oil 5
+ci carb Own
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci length 203.5
+ci width 77
+ci wbase 116
+ci rtred 56.4
+ci ftred 59
+ci comp 9.1
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci b&s 3 3/4 & 3 19/64
+ci bhp 206@4500
+ci block Cast Iron
+ci etype V8 Valve-in-head
+ci trq 297@2700
+ci etype Helical
+ci etype Dual downdraft
+ci disp 291.3
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci color Exterior Colors
+co Colonial White
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci ign Distributor and coil
+ci exha Dual
+ci rad Fin and tube
+ci ftype Regular
+ci cool 19 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.49
+ci 1gear 2.4
+ci rev 2.86
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3427, (\w)7(\w)X([\dX]{6})
+clv 12275, 1957, Ford, Station Wagon, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2373.00
+ci series Station Wagon
+ci origin United States
+ci prod 49638
+ci year 1957
+ci make Ford
+ci maker Ford
+ci weight 3679
+ci model 79C
+ci pass 9
+ci doors 4
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci oil 5
+ci rdiff 4.5
+ci fuel 20
+ci trans 3.25
+ci tcase -NA-
+ci carb Own
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.56
+ci diff Hypoid
+ci width 77
+ci length 203.5
+ci wbase 116
+ci rtred 56.4
+ci ftred 59
+ci comp 9.1
+ci mbear 5
+ci cyl 8
+ci disp 291.3
+ci rhp 45
+ci bhp 206@4500
+ci block Cast Iron
+ci b&s 3 3/4 & 3 19/64
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Valve-in-head
+ci etype Dual downdraft
+ci trq 297@2700
+ci etype Helical
+ci vlift Mechanical
+ci color Exterior Colors
+co Colonial White
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci exha Dual
+ci rad Fin and tube
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci cool 19 Quarts
+ci equip Power brakes
+ci equip Power steering
+ci equip Fordomatic automatic transmission
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.4
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.86
+ci gears 3
+ci 3gear 1
+ci 2gear 1.49
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3428, (\w)7(\w)Y([\dX]{6})
+clv 12276, 1957, Ford, Station Wagon, Country Squire
+ser 6 1 499999
+ci axle Semifloating
+ci prod 27690
+ci origin United States
+ci make Ford
+ci msrp $2495.00
+ci year 1957
+ci series Station Wagon
+ci weight 3693
+ci maker Ford
+ci doors 4
+ci model 79E
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci rdiff 4.5
+ci tcase -NA-
+ci trans 3.25
+ci fuel 20
+ci oil 5
+ci carb Own
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.56
+ci diff Hypoid
+ci length 203.5
+ci rtred 56.4
+ci ftred 59
+ci width 77
+ci wbase 116
+ci mbear 5
+ci b&s 3 3/4 & 3 19/64
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 9.1
+ci block Cast Iron
+ci disp 291.3
+ci vlift Mechanical
+ci bhp 206@4500
+ci etype Dual downdraft
+ci etype Helical
+ci rhp 45
+ci trq 297@2700
+ci color Exterior Colors
+co Colonial White
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci exha Dual
+ci rad Fin and tube
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci cool 19 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci rev 2.86
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.49
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3429, (\w)7(\w)R([\dX]{6})
+clv 12277, 1957, Ford, Station Wagon, Del Rio Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci origin United States
+ci prod 46105
+ci msrp $2230.00
+ci year 1957
+ci series Station Wagon
+ci weight 3527
+ci maker Ford
+ci doors 2
+ci model 59B
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci rdiff 4.5
+ci tcase -NA-
+ci fuel 20
+ci trans 3.25
+ci oil 5
+ci carb Own
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.56
+ci diff Hypoid
+ci length 203.5
+ci rtred 56.4
+ci ftred 59
+ci width 77
+ci wbase 116
+ci mbear 5
+ci rhp 45
+ci b&s 3 3/4 & 3 19/64
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.1
+ci block Cast Iron
+ci disp 291.3
+ci vlift Mechanical
+ci bhp 206@4500
+ci etype Dual downdraft
+ci etype Helical
+ci etype V8 Valve-in-head
+ci trq 297@2700
+ci color Exterior Colors
+co Colonial White
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci exha Dual
+ci rad Fin and tube
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci cool 19 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci rev 2.86
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.49
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3430, (\w)7(\w)R([\dX]{6})
+clv 12278, 1957, Ford, Station Wagon, Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci origin United States
+ci prod 60486
+ci msrp $2170.00
+ci year 1957
+ci series Station Wagon
+ci weight 3520
+ci maker Ford
+ci doors 2
+ci model 59A
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci tcase -NA-
+ci fuel 20
+ci trans 3.25
+ci rdiff 4.5
+ci carb Own
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.56
+ci width 77
+ci ftred 59
+ci length 203.5
+ci rtred 56.4
+ci wbase 116
+ci rhp 45
+ci etype V8 Valve-in-head
+ci b&s 3 3/4 & 3 19/64
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.1
+ci block Cast Iron
+ci disp 291.3
+ci vlift Mechanical
+ci bhp 206@4500
+ci etype Dual downdraft
+ci etype Helical
+ci mbear 5
+ci trq 297@2700
+ci color Exterior Colors
+co Colonial White
+co Coral Sand & Colonial White
+co Cumberland Green
+co Cumberland Green & Colonial White
+co Doeskin Tan
+co Doeskin Tan & Colonial White
+co Dresden Blue
+co Enamel
+co Flame Red
+co Flame Red & Colonial White
+co GunMetallical Gray
+co GunMetallical Gray & Colonial White
+co Inca Gold & Colonial White
+co Raven Black
+co Raven Black & Colonia lWhite
+co Silver Mocha
+co Silver Mocha & Colonial White
+co Starmist Blue
+co Starmist Blue & Colonial White
+co Willow Green
+co Willow Green & Colonial White
+co Woodsmoke Gray
+co Woodsmoke Gray & Colonial White
+ci exha Dual
+ci rad Fin and tube
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci cool 19 Quarts
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci rev 2.86
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.49
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3431, (\w)7(\w)H([\dX]{6})
+clv 12279, 1957, Ford, Thunderbird, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci prod 21380
+ci origin United States
+ci year 1957
+ci msrp $2995.00
+ci series Thunderbird
+ci make Ford
+ci maker Ford
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 20
+ci rdiff 3.8
+ci oil 5
+ci tcase -NA-
+ci trans 3.25
+ci carb Holley
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci rtred 56
+ci width 72.8
+ci wbase 102
+ci height 49.6
+ci length 181.4
+ci mbear 5
+ci etype V8 Valve-in-head
+ci englo On engine side of dash under hood.
+ci b&s 3 3/4 & 3 19/64
+ci cyl 8
+ci comp 9.1
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 297@2700
+ci vlift Mechanical
+ci disp 291.3
+ci bhp 212@4500
+ci etype Dual downdraft
+ci etype Helical
+ci rhp 45
+ci block Cast Iron
+ci color Exterior Colors
+co Bronze Metallic
+co Dusk Rose (Pink)
+co Enamel
+ci batt 12
+ci exha Dual
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 20 Quarts
+ci rad Corrugated fin and tube
+ci cool Centrifugal pump with thermostat
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.49
+ci 1gear 2.4
+ci drive Rear wheel drive
+ci rev 2.86
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3432, (\w)7(\w)H([\dX]{6})
+clv 12280, 1957, Ford, Thunderbird, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci prod 21380
+ci origin United States
+ci year 1957
+ci msrp $3065.00
+ci series Thunderbird
+ci make Ford
+ci maker Ford
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 20
+ci rdiff 3.8
+ci oil 5
+ci tcase -NA-
+ci trans 3.25
+ci carb Holley
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci rtred 56
+ci width 72.8
+ci wbase 102
+ci height 49.6
+ci length 181.4
+ci mbear 5
+ci etype V8 Valve-in-head
+ci englo On engine side of dash under hood.
+ci b&s 3 3/4 & 3 19/64
+ci cyl 8
+ci comp 9.1
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 297@2700
+ci vlift Mechanical
+ci disp 291.3
+ci bhp 212@4500
+ci etype Dual downdraft
+ci etype Helical
+ci rhp 45
+ci block Cast Iron
+ci color Exterior Colors
+co Bronze Metallic
+co Dusk Rose (Pink)
+co Enamel
+ci batt 12
+ci exha Dual
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 20 Quarts
+ci rad Corrugated fin and tube
+ci cool Centrifugal pump with thermostat
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.49
+ci 1gear 2.4
+ci drive Rear wheel drive
+ci rev 2.86
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3433, (\w)7(\w)H([\dX]{6})
+clv 12281, 1957, Ford, Thunderbird, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci prod 21380
+ci origin United States
+ci year 1957
+ci msrp $3088.00
+ci series Thunderbird
+ci make Ford
+ci weight 3134
+ci maker Ford
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci rdiff 3.8
+ci trans 3.25
+ci oil 5
+ci tcase -NA-
+ci carb Holley
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci height 49.6
+ci length 181.4
+ci wbase 102
+ci width 72.8
+ci rtred 56
+ci cyl 8
+ci mbear 5
+ci englo On engine side of dash under hood.
+ci etype V8 Valve-in-head
+ci trq 297@2700
+ci comp 9.1
+ci disp 291.3
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci bhp 212@4500
+ci b&s 3 3/4 & 3 19/64
+ci etype Dual downdraft
+ci etype Helical
+ci rhp 45
+ci block Cast Iron
+ci color Exterior Colors
+co Bronze Metallic
+co Dusk Rose (Pink)
+co Enamel
+ci batt 12
+ci exha Dual
+ci ign Distributor and coil
+ci cool 19 Quarts
+ci ftype Regular
+ci rad Corrugated fin and tube
+ci cool Centrifugal pump with thermostat
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci rev 2.86
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.49
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3434, (\w)7(\w)H([\dX]{6})
+clv 12282, 1957, Ford, Thunderbird, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci prod 21380
+ci origin United States
+ci year 1957
+ci msrp $3158.00
+ci series Thunderbird
+ci make Ford
+ci weight 3299
+ci maker Ford
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci rdiff 3.8
+ci trans 3.25
+ci oil 5
+ci tcase -NA-
+ci carb Holley
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci height 49.6
+ci length 181.4
+ci wbase 102
+ci width 72.8
+ci rtred 56
+ci cyl 8
+ci mbear 5
+ci englo On engine side of dash under hood.
+ci etype V8 Valve-in-head
+ci trq 297@2700
+ci comp 9.1
+ci disp 291.3
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci bhp 212@4500
+ci b&s 3 3/4 & 3 19/64
+ci etype Dual downdraft
+ci etype Helical
+ci rhp 45
+ci block Cast Iron
+ci color Exterior Colors
+co Bronze Metallic
+co Dusk Rose (Pink)
+co Enamel
+ci batt 12
+ci exha Dual
+ci ign Distributor and coil
+ci cool 19 Quarts
+ci ftype Regular
+ci rad Corrugated fin and tube
+ci cool Centrifugal pump with thermostat
+ci equip Fordomatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci rev 2.86
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.49
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.4
+ci vloc Plate on left front door pillar post.
+ci tsize 7.5 x 14
+ci sloc Trunk

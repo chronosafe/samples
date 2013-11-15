@@ -1,0 +1,32 @@
+# Add account credentials and API keys here.
+# See http://railsapps.github.io/rails-environment-variables.html
+# This file should be listed in .gitignore to keep your settings secret!
+# Each entry sets a local environment variable and overrides ENV variables in the Unix shell.
+# For example, setting:
+# GMAIL_USERNAME: Your_Gmail_Username
+# makes 'Your_Gmail_Username' available as ENV["GMAIL_USERNAME"]
+# Add application configuration variables here, as shown below.
+#
+
+ADMIN_NAME: Administrator
+ADMIN_EMAIL: admin@vinvault.com
+ADMIN_PASSWORD: ##############
+ROLES: [admin, bronze, silver, gold, platinum, vinhunter, guest]
+Site_Name: VINVault
+SITE_NAME: VINVault
+SITE_DOMAIN: vinvault.com
+CONTACT_EMAIL: info@vinvault.com
+SUPPORT_EMAIL: support@vinvault.com
+SITE_COLOR: contrast-blue
+UPDATES_ENABLED: false
+SAMPLE_TOKEN: RLBVPvj8riQmRuPzcT
+SAMPLE_VIN: '1D7RB1CT8AS203937'
+# Email stuff
+POSTMARK_API_KEY: #################################
+POSTMARK_SMTP_SERVER: smtp.postmarkapp.com
+CURRENT_API_VERSION: 1
+# Daily trial cap
+DAILY_TRIAL_CAP: 100
+MONTHLY_TRIAL_CAP: 3000
+STRIPE_SUBSCRIPTION: 1
+INVOICE_SUBSCRIPTION: 2

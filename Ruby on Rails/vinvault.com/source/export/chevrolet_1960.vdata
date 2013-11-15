@@ -1,0 +1,3824 @@
+cls 1237, 01839(\w)([\dX]{6})
+clv 5293, 1960, Chevrolet, Impala V8, Sport Sedan
+ci axle Semifloating
+ci series Impala V8
+ci origin United States
+ci msrp $2528.00
+ci prod 169016
+ci make Chevrolet
+ci year 1960
+ci maker Fisher
+ci doors 4
+ci weight 3630
+ci model 1839
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci rdiff 4
+ci oil 4
+ci tcase -NA-
+ci trans 2
+ci fuel 20
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci height 54
+ci wbase 119
+ci length 210.8
+ci width 80
+ci ftred 60.3
+ci rtred 59.3
+ci englo On front right side of block.
+ci mbear 5
+ci rhp 48.05
+ci b&s 3 7/8 & 3
+ci cyl 8
+ci comp 8.5
+ci trq 275@2200
+ci disp 283.04
+ci bhp 170@4200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci exha Single with crossover
+ci cool 16.5 Quarts
+ci equip Flightomatic automatic transmission
+ci equip Air conditioning
+ci equip Power brakes
+ci equip 348 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Turboglide automatic transmission
+ci equip Power seats
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.53
+ci rev 2.80
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1238, 01835(\w)([\dX]{6})
+clv 5294, 1960, Chevrolet, Impala V8, Station Wagon
+ci axle Semifloating
+ci series Impala V8
+ci make Chevrolet
+ci origin United States
+ci prod 198066
+ci year 1960
+ci msrp $2739.00
+ci model 1835
+ci maker Fisher
+ci weight 3960
+ci doors 4
+ci pass 6
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci fuel 20
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.36
+ci width 80
+ci wbase 119
+ci length 210.8
+ci ftred 60.3
+ci rtred 59.3
+ci height 56.3
+ci disp 283.04
+ci rhp 48.05
+ci etype V8 Valve-in-head
+ci cyl 8
+ci etype Unknown at time of publication
+ci comp 8.5
+ci b&s 3 7/8 & 3
+ci bhp 170@4200
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci trq 275@2200
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci englo On front right side of block.
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single with crossover
+ci batt 12
+ci cool 16.5 Quarts
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci equip 348 cu. in. V8 engine
+ci equip Turboglide automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Air conditioning
+ci equip Powerglide automatic transmission
+ci equip Flightomatic automatic transmission
+ci equip Power windows
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.47
+ci rev 2.80
+ci 2gear 1.53
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 1194, 01511(\w)([\dX]{6})
+clv 5250, 1960, Chevrolet, Bel Air 6, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci year 1960
+ci msrp $2384.00
+ci series Bel Air 6
+ci prod 228322
+ci origin United States
+ci model 1511
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci fuel 20
+ci oil 5
+ci rdiff 4
+ci tcase -NA-
+ci trans 2
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.55
+ci width 80
+ci wbase 119
+ci length 210.8
+ci height 56
+ci rtred 59.3
+ci ftred 60.3
+ci cyl 6
+ci etype Single downdraft
+ci comp 8.25
+ci mbear 4
+ci rhp 30.4
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 9/16 & 3 15/16
+ci bhp 135@400
+ci disp 235.5
+ci etype In line Valve-in-head
+ci vlift Hydraulic
+ci etype Helical
+ci trq 217@2200
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci ftype Regular
+ci rad Tube and center
+ci cool 17 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Power brakes
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.94
+ci gears 3
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1195, 01519(\w)([\dX]{6})
+clv 5251, 1960, Chevrolet, Bel Air 6, Sedan
+ci axle Semifloating
+ci series Bel Air 6
+ci make Chevrolet
+ci msrp $2170.00
+ci prod 497048
+ci year 1960
+ci origin United States
+ci model 1519
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 20
+ci rdiff 4
+ci tcase -NA-
+ci trans 2
+ci oil 5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.55
+ci width 80
+ci wbase 119
+ci length 210.8
+ci ftred 60.3
+ci rtred 59.3
+ci height 56
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.25
+ci mbear 4
+ci rhp 30.4
+ci etype Helical
+ci disp 235.5
+ci englo On right side of block behind the distributor.
+ci trq 217@2200
+ci etype In line Valve-in-head
+ci etype Single downdraft
+ci vlift Hydraulic
+ci bhp 135@400
+ci b&s 3 9/16 & 3 15/16
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 17 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci equip Power brakes
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.94
+ci 2gear 1.68
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 1196, 01537(\w)([\dX]{6})
+clv 5252, 1960, Chevrolet, Bel Air 6, Sport Coupe
+ci axle Semifloating
+ci make Chevrolet
+ci year 1960
+ci msrp $2220.00
+ci series Bel Air 6
+ci prod 204467
+ci origin United States
+ci model 1537
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci fuel 20
+ci rdiff 4
+ci oil 5
+ci tcase -NA-
+ci trans 2
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.55
+ci width 80
+ci wbase 119
+ci length 210.8
+ci height 56
+ci rtred 59.3
+ci ftred 60.3
+ci cyl 6
+ci etype Single downdraft
+ci comp 8.25
+ci mbear 4
+ci rhp 30.4
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 9/16 & 3 15/16
+ci bhp 135@400
+ci disp 235.5
+ci trq 217@2200
+ci etype In line Valve-in-head
+ci etype Helical
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tube and center
+ci cool 17 Quarts
+ci exha Single
+ci batt 12
+ci equip Power steering
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Power brakes
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.94
+ci gears 3
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1197, 01539(\w)([\dX]{6})
+clv 5253, 1960, Chevrolet, Bel Air 6, Sport Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci prod 169016
+ci msrp $2268.00
+ci series Bel Air 6
+ci year 1960
+ci origin United States
+ci model 1539
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci fuel 20
+ci trans 2
+ci oil 5
+ci rdiff 4
+ci tcase -NA-
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.55
+ci diff Hypoid
+ci length 210.8
+ci wbase 119
+ci width 80
+ci height 56
+ci rtred 59.3
+ci ftred 60.3
+ci cyl 6
+ci etype Single downdraft
+ci comp 8.25
+ci mbear 4
+ci rhp 30.4
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 9/16 & 3 15/16
+ci bhp 135@400
+ci disp 235.5
+ci trq 217@2200
+ci etype In line Valve-in-head
+ci etype Helical
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci cool 17 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci rad Tube and center
+ci equip Power steering
+ci equip Power seats
+ci equip Power brakes
+ci equip Power windows
+ci equip Air conditioning
+ci equip Powerglide automatic transmission
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.94
+ci gears 3
+ci 2gear 1.68
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 1198, 01535(\w)([\dX]{6})
+clv 5254, 1960, Chevrolet, Bel Air 6, Station Wagon
+ci axle Semifloating
+ci make Chevrolet
+ci prod 14663
+ci msrp $2328.00
+ci series Bel Air 6
+ci year 1960
+ci origin United States
+ci model 1535
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci rdiff 4
+ci fuel 20
+ci trans 2
+ci oil 5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.55
+ci ftred 60.3
+ci wbase 119
+ci length 210.8
+ci height 56.3
+ci rtred 59.3
+ci width 80
+ci bhp 135@400
+ci etype Single downdraft
+ci comp 8.25
+ci cyl 6
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 30.4
+ci etype In line Valve-in-head
+ci b&s 3 9/16 & 3 15/16
+ci disp 235.5
+ci vlift Hydraulic
+ci etype Helical
+ci trq 217@2200
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci rad Tube and center
+ci cool 17 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Power seats
+ci equip Power brakes
+ci equip Power windows
+ci equip Air conditioning
+ci equip Powerglide automatic transmission
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.94
+ci gears 3
+ci 2gear 1.68
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 1199, 01545(\w)([\dX]{6})
+clv 5255, 1960, Chevrolet, Bel Air 6, Station Wagon
+ci axle Semifloating
+ci make Chevrolet
+ci year 1960
+ci msrp $2507.00
+ci series Bel Air 6
+ci prod 198066
+ci origin United States
+ci model 1545
+ci pass 9
+ci maker Fisher
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 20
+ci oil 5
+ci trans 2
+ci tcase -NA-
+ci rdiff 4
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.55
+ci wbase 119
+ci length 210.8
+ci height 56.3
+ci rtred 59.3
+ci width 80
+ci ftred 60.3
+ci etype Single downdraft
+ci comp 8.25
+ci cyl 6
+ci mbear 4
+ci rhp 30.4
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 9/16 & 3 15/16
+ci bhp 135@400
+ci disp 235.5
+ci trq 217@2200
+ci etype In line Valve-in-head
+ci etype Helical
+ci vlift Hydraulic
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool 17 Quarts
+ci exha Single
+ci rad Tube and center
+ci equip Power steering
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Power brakes
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.94
+ci gears 3
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 1200, 01611(\w)([\dX]{6})
+clv 5256, 1960, Chevrolet, Bel Air V8, Sedan
+ci axle Semifloating
+ci series Bel Air V8
+ci origin United States
+ci make Chevrolet
+ci msrp $2270.00
+ci prod 228322
+ci year 1960
+ci weight 3505
+ci model 1611
+ci doors 2
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci oil 4
+ci fuel 20
+ci rdiff 4
+ci trans 2
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.36
+ci diff Hypoid
+ci wbase 119
+ci length 210.8
+ci width 80
+ci ftred 60.3
+ci rtred 59.3
+ci height 56
+ci bhp 170@4200
+ci rhp 48.05
+ci mbear 5
+ci englo On front right side of block.
+ci cyl 8
+ci comp 8.5
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 283.04
+ci trq 275@2200
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci b&s 3 7/8 & 3
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Cascade Green Metallic
+co Crocus Cream
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Two Tone Colors Available
+ci batt 12
+ci ftype Regular
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 16.5 Quarts
+ci equip Air conditioning
+ci equip Turboglide automatic transmission
+ci equip Power brakes
+ci equip 348 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Flightomatic automatic transmission
+ci equip Power seats
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.53
+ci rev 2.80
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1201, 01619(\w)([\dX]{6})
+clv 5257, 1960, Chevrolet, Bel Air V8, Sedan
+ci axle Semifloating
+ci series Bel Air V8
+ci origin United States
+ci make Chevrolet
+ci prod 497048
+ci msrp $2320.00
+ci year 1960
+ci weight 3575
+ci model 1619
+ci doors 4
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 20
+ci trans 2
+ci oil 4
+ci tcase -NA-
+ci rdiff 4
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 119
+ci ftred 60.3
+ci width 80
+ci rtred 59.3
+ci length 210.8
+ci height 56
+ci rhp 48.05
+ci mbear 5
+ci bhp 170@4200
+ci englo On front right side of block.
+ci cyl 8
+ci comp 8.5
+ci b&s 3 7/8 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 283.04
+ci trq 275@2200
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Cascade Green Metallic
+co Crocus Cream
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Two Tone Colors Available
+ci batt 12
+ci ftype Regular
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 16.5 Quarts
+ci equip Air conditioning
+ci equip Turboglide automatic transmission
+ci equip Power brakes
+ci equip 348 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Flightomatic automatic transmission
+ci equip Power seats
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.53
+ci rev 2.80
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1202, 01637(\w)([\dX]{6})
+clv 5258, 1960, Chevrolet, Bel Air V8, Sport Coupe
+ci axle Semifloating
+ci series Bel Air V8
+ci origin United States
+ci make Chevrolet
+ci msrp $2368.00
+ci prod 204467
+ci year 1960
+ci weight 3530
+ci model 1637
+ci doors 2
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci oil 4
+ci fuel 20
+ci rdiff 4
+ci trans 2
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.36
+ci diff Hypoid
+ci length 210.8
+ci width 80
+ci wbase 119
+ci ftred 60.3
+ci rtred 59.3
+ci height 56
+ci bhp 170@4200
+ci rhp 48.05
+ci mbear 5
+ci englo On front right side of block.
+ci cyl 8
+ci comp 8.5
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 283.04
+ci trq 275@2200
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci b&s 3 7/8 & 3
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Cascade Green Metallic
+co Crocus Cream
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Two Tone Colors Available
+ci batt 12
+ci ftype Regular
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 16.5 Quarts
+ci equip Air conditioning
+ci equip Turboglide automatic transmission
+ci equip Power brakes
+ci equip 348 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Flightomatic automatic transmission
+ci equip Power seats
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.53
+ci rev 2.80
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1203, 01639(\w)([\dX]{6})
+clv 5259, 1960, Chevrolet, Bel Air V8, Sport Sedan
+ci axle Semifloating
+ci series Bel Air V8
+ci origin United States
+ci make Chevrolet
+ci msrp $2428.00
+ci year 1960
+ci prod 169016
+ci doors 4
+ci model 1639
+ci weight 3620
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci oil 4
+ci fuel 20
+ci trans 2
+ci tcase -NA-
+ci rdiff 4
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 119
+ci length 210.8
+ci width 80
+ci ftred 60.3
+ci rtred 59.3
+ci height 56
+ci englo On front right side of block.
+ci rhp 48.05
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci cyl 8
+ci comp 8.5
+ci b&s 3 7/8 & 3
+ci disp 283.04
+ci trq 275@2200
+ci etype Dual downdraft
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci bhp 170@4200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Cascade Green Metallic
+co Crocus Cream
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Two Tone Colors Available
+ci batt 12
+ci ftype Regular
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 16.5 Quarts
+ci equip Air conditioning
+ci equip Turboglide automatic transmission
+ci equip Power brakes
+ci equip 348 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Flightomatic automatic transmission
+ci equip Power seats
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.53
+ci rev 2.80
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1204, 01635(\w)([\dX]{6})
+clv 5260, 1960, Chevrolet, Bel Air V8, Station Wagon
+ci axle Semifloating
+ci year 1960
+ci series Bel Air V8
+ci origin United States
+ci msrp $2607.00
+ci prod 14663
+ci make Chevrolet
+ci model 1635
+ci maker Fisher
+ci pass 6
+ci weight 3955
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci trans 2
+ci rdiff 4
+ci oil 4
+ci fuel 20
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.36
+ci diff Hypoid
+ci width 80
+ci wbase 119
+ci length 210.8
+ci ftred 60.3
+ci rtred 59.3
+ci height 56.3
+ci disp 283.04
+ci rhp 48.05
+ci etype V8 Valve-in-head
+ci cyl 8
+ci etype Unknown at time of publication
+ci comp 8.5
+ci b&s 3 7/8 & 3
+ci bhp 170@4200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci mbear 5
+ci vlift Hydraulic
+ci trq 275@2200
+ci englo On front right side of block.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Cascade Green Metallic
+co Crocus Cream
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 16.5 Quarts
+ci rad Tube and center
+ci exha Single with crossover
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci equip Turboglide automatic transmission
+ci equip Flightomatic automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Air conditioning
+ci equip 348 cu. in. V8 engine
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 1gear 2.47
+ci 2gear 1.53
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci rev 2.80
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 1205, 01645(\w)([\dX]{6})
+clv 5261, 1960, Chevrolet, Bel Air V8, Station Wagon
+ci axle Semifloating
+ci prod 198066
+ci series Bel Air V8
+ci origin United States
+ci year 1960
+ci msrp $2703.00
+ci make Chevrolet
+ci doors 4
+ci model 1645
+ci maker Fisher
+ci weight 4000
+ci pass 9
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 2
+ci oil 4
+ci rdiff 4
+ci fuel 20
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 119
+ci width 80
+ci length 210.8
+ci ftred 60.3
+ci rtred 59.3
+ci height 56.3
+ci disp 283.04
+ci rhp 48.05
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.5
+ci etype Unknown at time of publication
+ci b&s 3 7/8 & 3
+ci bhp 170@4200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci mbear 5
+ci vlift Hydraulic
+ci trq 275@2200
+ci englo On front right side of block.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Cascade Green Metallic
+co Crocus Cream
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci exha Single with crossover
+ci batt 12
+ci cool 16.5 Quarts
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci equip Power windows
+ci equip 348 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Flightomatic automatic transmission
+ci equip Air conditioning
+ci equip Turboglide automatic transmission
+ci equip Powerglide automatic transmission
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci rev 2.80
+ci 2gear 1.53
+ci 1gear 2.47
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 1206, 01111(\w)([\dX]{6})
+clv 5262, 1960, Chevrolet, Biscayne 6, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci year 1960
+ci msrp $2056.00
+ci series Biscayne 6
+ci prod 228322
+ci origin United States
+ci maker Fisher
+ci model 1111
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 20
+ci oil 5
+ci trans 2
+ci rdiff 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.55
+ci ftred 60.3
+ci wbase 119
+ci length 210.8
+ci height 56
+ci rtred 59.3
+ci width 80
+ci bhp 135@400
+ci etype Single downdraft
+ci comp 8.25
+ci cyl 6
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 30.4
+ci etype In line Valve-in-head
+ci b&s 3 9/16 & 3 15/16
+ci disp 235.5
+ci vlift Hydraulic
+ci etype Helical
+ci trq 217@2200
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci rad Tube and center
+ci cool 17 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Power brakes
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.94
+ci gears 3
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1207, 01119(\w)([\dX]{6})
+clv 5263, 1960, Chevrolet, Biscayne 6, Sedan
+ci axle Semifloating
+ci series Biscayne 6
+ci make Chevrolet
+ci msrp $2106.00
+ci prod 497048
+ci year 1960
+ci origin United States
+ci maker Fisher
+ci model 1119
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 20
+ci trans 2
+ci tcase -NA-
+ci rdiff 4
+ci oil 5
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.55
+ci width 80
+ci length 210.8
+ci wbase 119
+ci height 56
+ci rtred 59.3
+ci ftred 60.3
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci comp 8.25
+ci trq 217@2200
+ci disp 235.5
+ci etype Helical
+ci etype Single downdraft
+ci englo On right side of block behind the distributor.
+ci mbear 4
+ci etype In line Valve-in-head
+ci rhp 30.4
+ci vlift Hydraulic
+ci bhp 135@400
+ci b&s 3 9/16 & 3 15/16
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 17 Quarts
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci equip Power brakes
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci rev 2.94
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci 5gear Not applicable
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 1208, 01170(\w)([\dX]{6})
+clv 5264, 1960, Chevrolet, Biscayne 6, Sedan Delivery
+ci axle Semifloating
+ci year 1960
+ci origin United States
+ci series Biscayne 6
+ci make Chevrolet
+ci maker Fisher
+ci model 1170
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 2
+ci fuel 20
+ci oil 5
+ci tcase -NA-
+ci rdiff 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.55
+ci diff Hypoid
+ci length 210.8
+ci width 80
+ci wbase 119
+ci ftred 60.3
+ci rtred 59.3
+ci height 56
+ci cyl 6
+ci comp 8.25
+ci mbear 4
+ci rhp 30.4
+ci bhp 135@400
+ci b&s 3 9/16 & 3 15/16
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci disp 235.5
+ci etype In line Valve-in-head
+ci vlift Hydraulic
+ci trq 217@2200
+ci etype Helical
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tube and center
+ci cool 17 Quarts
+ci cool Centrifugal pump with thermostat
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Air conditioning
+ci equip Power brakes
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 2gear 1.68
+ci rev 2.94
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci sloc Trunk
+cls 1209, 01180(\w)([\dX]{6})
+clv 5265, 1960, Chevrolet, Biscayne 6, Sedan Pickup
+ci axle Semifloating
+ci year 1960
+ci make Chevrolet
+ci origin United States
+ci series Biscayne 6
+ci maker Fisher
+ci model 1180
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 2
+ci fuel 20
+ci oil 5
+ci tcase -NA-
+ci rdiff 4
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.55
+ci length 210.8
+ci width 80
+ci wbase 119
+ci ftred 60.3
+ci rtred 59.3
+ci height 56
+ci cyl 6
+ci etype In line Valve-in-head
+ci comp 8.25
+ci mbear 4
+ci rhp 30.4
+ci b&s 3 9/16 & 3 15/16
+ci etype Single downdraft
+ci englo On right side of block behind the distributor.
+ci disp 235.5
+ci trq 217@2200
+ci etype Helical
+ci bhp 135@400
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci ftype Regular
+ci exha Single
+ci cool 17 Quarts
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Powerglide automatic transmission
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.94
+ci gears 3
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1210, 01115(\w)([\dX]{6})
+clv 5266, 1960, Chevrolet, Biscayne 6, Station Wagon
+ci axle Semifloating
+ci make Chevrolet
+ci prod 14663
+ci msrp $2357.00
+ci series Biscayne 6
+ci year 1960
+ci origin United States
+ci model 1115
+ci maker Fisher
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 20
+ci oil 5
+ci rdiff 4
+ci trans 2
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.55
+ci ftred 60.3
+ci length 210.8
+ci wbase 119
+ci height 56.3
+ci rtred 59.3
+ci width 80
+ci bhp 135@400
+ci etype Single downdraft
+ci comp 8.25
+ci cyl 6
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 30.4
+ci etype In line Valve-in-head
+ci b&s 3 9/16 & 3 15/16
+ci disp 235.5
+ci vlift Hydraulic
+ci etype Helical
+ci trq 217@2200
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci cool 17 Quarts
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Power brakes
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.94
+ci gears 3
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 1211, 01135(\w)([\dX]{6})
+clv 5267, 1960, Chevrolet, Biscayne 6, Station Wagon
+ci axle Semifloating
+ci make Chevrolet
+ci year 1960
+ci msrp $2653.00
+ci series Biscayne 6
+ci prod 198066
+ci origin United States
+ci model 1135
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci oil 5
+ci fuel 20
+ci tcase -NA-
+ci rdiff 4
+ci trans 2
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.55
+ci ftred 60.3
+ci length 210.8
+ci wbase 119
+ci height 56.3
+ci rtred 59.3
+ci width 80
+ci bhp 135@400
+ci etype Single downdraft
+ci comp 8.25
+ci cyl 6
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 30.4
+ci etype In line Valve-in-head
+ci b&s 3 9/16 & 3 15/16
+ci disp 235.5
+ci vlift Hydraulic
+ci etype Helical
+ci trq 217@2200
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci rad Tube and center
+ci cool 17 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Power seats
+ci equip Power brakes
+ci equip Power windows
+ci equip Air conditioning
+ci equip Powerglide automatic transmission
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.94
+ci gears 3
+ci 2gear 1.68
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 1212, 01121(\w)([\dX]{6})
+clv 5268, 1960, Chevrolet, Biscayne 6, Utility Sedan
+ci axle Semifloating
+ci year 1960
+ci msrp $2175.00
+ci make Chevrolet
+ci series Biscayne 6
+ci origin United States
+ci maker Fisher
+ci doors 2
+ci model 1121
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci trans 2
+ci fuel 20
+ci oil 5
+ci tcase -NA-
+ci rdiff 4
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.55
+ci rtred 59.3
+ci wbase 119
+ci length 210.8
+ci height 56
+ci width 80
+ci ftred 60.3
+ci etype Helical
+ci etype Single downdraft
+ci comp 8.25
+ci cyl 6
+ci mbear 4
+ci disp 235.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype In line Valve-in-head
+ci bhp 135@400
+ci trq 217@2200
+ci rhp 30.4
+ci vlift Hydraulic
+ci b&s 3 9/16 & 3 15/16
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 17 Quarts
+ci batt 12
+ci equip Power steering
+ci equip Power seats
+ci equip Power brakes
+ci equip Power windows
+ci equip Air conditioning
+ci equip Powerglide automatic transmission
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.94
+ci gears 3
+ci 2gear 1.68
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 1213, 01311(\w)([\dX]{6})
+clv 5269, 1960, Chevrolet, Biscayne Fleetmaster 6, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci year 1960
+ci msrp $2230.00
+ci series Biscayne Fleetmaster 6
+ci prod 228322
+ci origin United States
+ci maker Fisher
+ci doors 2
+ci model 1311
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci trans 2
+ci oil 5
+ci rdiff 4
+ci tcase -NA-
+ci fuel 20
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.55
+ci diff Hypoid
+ci ftred 60.3
+ci wbase 119
+ci length 210.8
+ci height 56
+ci rtred 59.3
+ci width 80
+ci bhp 135@400
+ci etype Single downdraft
+ci comp 8.25
+ci cyl 6
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 30.4
+ci vlift Mechanical
+ci b&s 3 9/16 & 3 15/16
+ci disp 235.5
+ci etype In line Valve-in-head
+ci etype Helical
+ci trq 217@2200
+ci englo On right side of block behind the distributor.
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci rad Tube and center
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci cool 17 Quarts
+ci exha Single
+ci batt 12
+ci equip Power steering
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Power brakes
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.94
+ci gears 3
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1214, 01319(\w)([\dX]{6})
+clv 5270, 1960, Chevrolet, Biscayne Fleetmaster 6, Sedan
+ci axle Semifloating
+ci series Biscayne Fleetmaster 6
+ci make Chevrolet
+ci msrp $2284.00
+ci prod 497048
+ci year 1960
+ci origin United States
+ci maker Fisher
+ci model 1319
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 20
+ci trans 2
+ci tcase -NA-
+ci rdiff 4
+ci oil 5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.55
+ci diff Hypoid
+ci width 80
+ci wbase 119
+ci length 210.8
+ci height 56
+ci rtred 59.3
+ci ftred 60.3
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci comp 8.25
+ci trq 217@2200
+ci disp 235.5
+ci etype Helical
+ci etype Single downdraft
+ci englo On right side of block behind the distributor.
+ci mbear 4
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci rhp 30.4
+ci bhp 135@400
+ci b&s 3 9/16 & 3 15/16
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 17 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci equip Power brakes
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.94
+ci 2gear 1.68
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 1215, 01411(\w)([\dX]{6})
+clv 5271, 1960, Chevrolet, Biscayne Fleetmaster V8, Sedan
+ci axle Semifloating
+ci year 1960
+ci origin United States
+ci series Biscayne Fleetmaster V8
+ci make Chevrolet
+ci msrp $2337.00
+ci prod 228322
+ci model 1411
+ci doors 2
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 20
+ci trans 2
+ci tcase -NA-
+ci oil 4
+ci rdiff 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.36
+ci length 210.8
+ci wbase 119
+ci width 80
+ci ftred 60.3
+ci rtred 59.3
+ci height 56
+ci bhp 170@4200
+ci rhp 48.05
+ci mbear 5
+ci englo On front right side of block.
+ci cyl 8
+ci comp 8.5
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 283.04
+ci trq 275@2200
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci b&s 3 7/8 & 3
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci batt 12
+ci ftype Regular
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 16.5 Quarts
+ci equip Air conditioning
+ci equip Turboglide automatic transmission
+ci equip Power brakes
+ci equip 348 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Flightomatic automatic transmission
+ci equip Power seats
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.53
+ci rev 2.80
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1216, 01419(\w)([\dX]{6})
+clv 5272, 1960, Chevrolet, Biscayne Fleetmaster V8, Sedan
+ci axle Semifloating
+ci prod 497048
+ci origin United States
+ci series Biscayne Fleetmaster V8
+ci make Chevrolet
+ci year 1960
+ci msrp $2391.00
+ci model 1419
+ci doors 4
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci trans 2
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci rdiff 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.36
+ci ftred 60.3
+ci wbase 119
+ci width 80
+ci rtred 59.3
+ci length 210.8
+ci height 56
+ci rhp 48.05
+ci mbear 5
+ci b&s 3 7/8 & 3
+ci englo On front right side of block.
+ci cyl 8
+ci comp 8.5
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 283.04
+ci trq 275@2200
+ci bhp 170@4200
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci batt 12
+ci ftype Regular
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 16.5 Quarts
+ci equip Air conditioning
+ci equip Turboglide automatic transmission
+ci equip Power brakes
+ci equip 348 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Flightomatic automatic transmission
+ci equip Power seats
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.53
+ci rev 2.80
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1217, 01211(\w)([\dX]{6})
+clv 5273, 1960, Chevrolet, Biscayne V8, Sedan
+ci axle Semifloating
+ci series Biscayne V8
+ci make Chevrolet
+ci origin United States
+ci year 1960
+ci msrp $2156.00
+ci prod 228322
+ci model 1211
+ci weight 3500
+ci doors 2
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci oil 4
+ci tcase -NA-
+ci rdiff 4
+ci trans 2
+ci fuel 20
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.36
+ci diff Hypoid
+ci length 210.8
+ci wbase 119
+ci ftred 60.3
+ci width 80
+ci rtred 59.3
+ci height 56
+ci trq 275@2200
+ci rhp 48.05
+ci etype Unknown at time of publication
+ci bhp 170@4200
+ci cyl 8
+ci comp 8.5
+ci b&s 3 7/8 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci englo On front right side of block.
+ci disp 283.04
+ci vlift Hydraulic
+ci mbear 5
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single with crossover
+ci batt 12
+ci cool 16.5 Quarts
+ci equip Turboglide automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip 348 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.53
+ci rev 2.80
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1218, 01219(\w)([\dX]{6})
+clv 5274, 1960, Chevrolet, Biscayne V8, Sedan
+ci axle Semifloating
+ci series Biscayne V8
+ci origin United States
+ci make Chevrolet
+ci prod 497048
+ci msrp $2206.00
+ci year 1960
+ci model 1219
+ci weight 3570
+ci doors 4
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 20
+ci trans 2
+ci oil 4
+ci tcase -NA-
+ci rdiff 4
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 119
+ci ftred 60.3
+ci width 80
+ci rtred 59.3
+ci length 210.8
+ci height 56
+ci rhp 48.05
+ci mbear 5
+ci bhp 170@4200
+ci englo On front right side of block.
+ci cyl 8
+ci comp 8.5
+ci b&s 3 7/8 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 283.04
+ci trq 275@2200
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci batt 12
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single with crossover
+ci cool 16.5 Quarts
+ci equip Air conditioning
+ci equip Power brakes
+ci equip 348 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Turboglide automatic transmission
+ci equip Power seats
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.53
+ci rev 2.80
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1219, 01270(\w)([\dX]{6})
+clv 5275, 1960, Chevrolet, Biscayne V8, Sedan Delivery
+ci axle Semifloating
+ci make Chevrolet
+ci series Biscayne V8
+ci year 1960
+ci origin United States
+ci maker Fisher
+ci model 1270
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci rdiff 4
+ci trans 2
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.36
+ci diff Hypoid
+ci ftred 60.3
+ci width 80
+ci length 210.8
+ci wbase 119
+ci height 56
+ci rtred 59.3
+ci mbear 5
+ci rhp 48.05
+ci etype V8 Valve-in-head
+ci cyl 8
+ci comp 8.5
+ci b&s 3 7/8 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Unknown at time of publication
+ci englo On front right side of block.
+ci disp 283.04
+ci bhp 170@4200
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci trq 275@2200
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single with crossover
+ci cool 16.5 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Turboglide automatic transmission
+ci equip Powerglide automatic transmission
+ci equip Air conditioning
+ci equip 348 cu. in. V8 engine
+ci equip Power windows
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.53
+ci 1gear 2.47
+ci gears 3
+ci rev 2.80
+ci 3gear 1
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci sloc Trunk
+cls 1220, 01280(\w)([\dX]{6})
+clv 5276, 1960, Chevrolet, Biscayne V8, Sedan Pickup
+ci axle Semifloating
+ci series Biscayne V8
+ci year 1960
+ci origin United States
+ci make Chevrolet
+ci model 1280
+ci maker Fisher
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 4
+ci fuel 20
+ci oil 4
+ci trans 2
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.36
+ci rtred 59.3
+ci length 210.8
+ci width 80
+ci wbase 119
+ci ftred 60.3
+ci height 56
+ci etype V8 Valve-in-head
+ci mbear 5
+ci rhp 48.05
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.5
+ci etype Unknown at time of publication
+ci englo On front right side of block.
+ci b&s 3 7/8 & 3
+ci bhp 170@4200
+ci vlift Hydraulic
+ci disp 283.04
+ci etype Dual downdraft
+ci trq 275@2200
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci ign Distributor and coil
+ci rad Tube and center
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci cool 16.5 Quarts
+ci batt 12
+ci exha Single with crossover
+ci equip Turboglide automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip 348 cu. in. V8 engine
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Air conditioning
+ci equip Power steering
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.53
+ci rev 2.80
+ci 1gear 2.47
+ci gears 3
+ci 3gear 1
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 1221, 01215(\w)([\dX]{6})
+clv 5277, 1960, Chevrolet, Biscayne V8, Station Wagon
+ci axle Semifloating
+ci make Chevrolet
+ci series Biscayne V8
+ci origin United States
+ci prod 14663
+ci msrp $2457.00
+ci year 1960
+ci model 1215
+ci maker Fisher
+ci weight 3855
+ci pass 6
+ci doors 2
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci rdiff 4
+ci fuel 20
+ci tcase -NA-
+ci trans 2
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.36
+ci diff Hypoid
+ci ftred 60.3
+ci width 80
+ci length 210.8
+ci wbase 119
+ci rtred 59.3
+ci height 56.3
+ci trq 275@2200
+ci rhp 48.05
+ci etype Unknown at time of publication
+ci cyl 8
+ci bhp 170@4200
+ci comp 8.5
+ci b&s 3 7/8 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci englo On front right side of block.
+ci disp 283.04
+ci vlift Hydraulic
+ci mbear 5
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single with crossover
+ci batt 12
+ci cool 16.5 Quarts
+ci equip Turboglide automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip 348 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.53
+ci rev 2.80
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 1222, 01235(\w)([\dX]{6})
+clv 5278, 1960, Chevrolet, Biscayne V8, Station Wagon
+ci axle Semifloating
+ci prod 198066
+ci series Biscayne V8
+ci origin United States
+ci year 1960
+ci msrp $2519.00
+ci make Chevrolet
+ci model 1235
+ci maker Fisher
+ci weight 3940
+ci pass 6
+ci doors 4
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 2
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci fuel 20
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.36
+ci diff Hypoid
+ci width 80
+ci wbase 119
+ci length 210.8
+ci ftred 60.3
+ci rtred 59.3
+ci height 56.3
+ci disp 283.04
+ci rhp 48.05
+ci etype Unknown at time of publication
+ci cyl 8
+ci bhp 170@4200
+ci comp 8.5
+ci b&s 3 7/8 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci englo On front right side of block.
+ci mbear 5
+ci vlift Hydraulic
+ci trq 275@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single with crossover
+ci batt 12
+ci cool 16.5 Quarts
+ci equip Turboglide automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip 348 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.53
+ci rev 2.80
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 1223, 01221(\w)([\dX]{6})
+clv 5279, 1960, Chevrolet, Biscayne V8, Utility Sedan
+ci axle Semifloating
+ci msrp $2282.00
+ci origin United States
+ci series Biscayne V8
+ci make Chevrolet
+ci year 1960
+ci doors 2
+ci model 1221
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 2
+ci tcase -NA-
+ci oil 4
+ci rdiff 4
+ci fuel 20
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 119
+ci length 210.8
+ci width 80
+ci ftred 60.3
+ci rtred 59.3
+ci height 56
+ci bhp 170@4200
+ci rhp 48.05
+ci mbear 5
+ci englo On front right side of block.
+ci cyl 8
+ci comp 8.5
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 283.04
+ci trq 275@2200
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci b&s 3 7/8 & 3
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci batt 12
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single with crossover
+ci cool 16.5 Quarts
+ci equip Air conditioning
+ci equip Power brakes
+ci equip 348 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Turboglide automatic transmission
+ci equip Power seats
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.53
+ci rev 2.80
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1224, 0727a(\w)([\dX]{6})
+clv 5280, 1960, Chevrolet, Corvair Deluxe, Club Coupe
+ci axle Transaxle
+ci series Corvair Deluxe
+ci year 1960
+ci msrp $1870.00
+ci make Chevrolet
+ci prod 36562
+ci origin United States
+ci pass 5
+ci weight 2292
+ci model 727
+ci doors 2
+ci maker Fisher
+ci bsize 9
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 3
+ci trans 1.9
+ci fuel 11
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.1 inches
+ci diffr 3.55
+ci rtred 54
+ci height 51.3
+ci wbase 108
+ci length 180
+ci width 66.9
+ci b&s 3 3/8 & 2 39/64
+ci cyl 6
+ci comp 8
+ci bhp 80@4400
+ci disp 140.06
+ci rhp 27.34
+ci etype Synchronous meshing
+ci vlift Hydraulic
+ci mbear 4
+ci etype Horizontally opposed Valve-in-head
+ci englo On top of block, forward of generator-oil filter adapter.
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 125@2400
+ci etype Single downdraft
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Tasco Turquoise Metallic
+ci cool Air cooled
+ci ftype Regular
+ci ign Distributor and coil
+ci exha Single with crossover
+ci batt 12
+ci rad Not applicable
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Flightomatic automatic transmission
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Power seats
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 3.65
+ci drive Rear wheel drive
+ci 2gear 1.84
+ci 1gear 3.22
+ci 3gear 1
+ci gears 3
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 1225, 0769a(\w)([\dX]{6})
+clv 5281, 1960, Chevrolet, Corvair Deluxe, Sedan
+ci axle Transaxle
+ci series Corvair Deluxe
+ci prod 139208
+ci msrp $1920.00
+ci make Chevrolet
+ci year 1960
+ci origin United States
+ci weight 2338
+ci maker Fisher
+ci model 769
+ci bsize 9
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 1.9
+ci fuel 11
+ci oil 4
+ci rdiff 3
+ci tcase -NA-
+ci carb Rochester
+ci csize 9.1 inches
+ci ctype Single plate dry disc
+ci diffr 3.55
+ci wbase 108
+ci height 51.3
+ci rtred 54
+ci length 180
+ci width 66.9
+ci trq 125@2400
+ci cyl 6
+ci comp 8
+ci bhp 80@4400
+ci mbear 4
+ci etype Synchronous meshing
+ci etype Single downdraft
+ci disp 140.06
+ci rhp 27.34
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 3/8 & 2 39/64
+ci vlift Hydraulic
+ci etype Horizontally opposed Valve-in-head
+ci englo On top of block, forward of generator-oil filter adapter.
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Tasco Turquoise Metallic
+ci ign Distributor and coil
+ci cool Air cooled
+ci ftype Regular
+ci exha Single with crossover
+ci batt 12
+ci rad Not applicable
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Flightomatic automatic transmission
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Power steering
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.84
+ci 1gear 3.22
+ci 3gear 1
+ci rev 3.65
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 1226, 0527a(\w)([\dX]{6})
+clv 5282, 1960, Chevrolet, Corvair Standard, Club Coupe
+ci axle Transaxle
+ci series Corvair Standard
+ci prod 14628
+ci msrp $1810.00
+ci make Chevrolet
+ci year 1960
+ci origin United States
+ci pass 5
+ci weight 2272
+ci maker Fisher
+ci doors 2
+ci model 527
+ci svc 4 wheel hydraulic drum
+ci bsize 9
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 1.9
+ci rdiff 3
+ci fuel 11
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.1 inches
+ci diffr 3.55
+ci wbase 108
+ci height 51.3
+ci length 180
+ci rtred 54
+ci width 66.9
+ci etype Synchronous meshing
+ci etype Single downdraft
+ci comp 8
+ci bhp 80@4400
+ci disp 140.06
+ci rhp 27.34
+ci mbear 4
+ci vlift Hydraulic
+ci englo On top of block, forward of generator-oil filter adapter.
+ci etype Horizontally opposed Valve-in-head
+ci b&s 3 3/8 & 2 39/64
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 125@2400
+ci cyl 6
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Tasco Turquoise Metallic
+ci cool Air cooled
+ci ftype Regular
+ci ign Distributor and coil
+ci exha Single with crossover
+ci batt 12
+ci rad Not applicable
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Flightomatic automatic transmission
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Heater and Defroster
+ci equip Radio
+ci equip Power seats
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 3.65
+ci drive Rear wheel drive
+ci 2gear 1.84
+ci 1gear 3.22
+ci 3gear 1
+ci gears 3
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 1227, 0569a(\w)([\dX]{6})
+clv 5283, 1960, Chevrolet, Corvair Standard, Sedan
+ci axle Transaxle
+ci make Chevrolet
+ci series Corvair Standard
+ci msrp $1860.00
+ci year 1960
+ci prod 47683
+ci origin United States
+ci maker Fisher
+ci weight 2335
+ci model 569
+ci ebrake Rear service brakes
+ci bsize 9
+ci svc 4 wheel hydraulic drum
+ci trans 1.9
+ci fuel 11
+ci rdiff 3
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci csize 9.1 inches
+ci ctype Single plate dry disc
+ci diffr 3.55
+ci wbase 108
+ci height 51.3
+ci rtred 54
+ci length 180
+ci width 66.9
+ci etype Single downdraft
+ci cyl 6
+ci comp 8
+ci bhp 80@4400
+ci mbear 4
+ci englo On top of block, forward of generator-oil filter adapter.
+ci b&s 3 3/8 & 2 39/64
+ci etype Synchronous meshing
+ci rhp 27.34
+ci vlift Hydraulic
+ci disp 140.06
+ci etype Horizontally opposed Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 125@2400
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Lacquer
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Tasco Turquoise Metallic
+ci ftype Regular
+ci ign Distributor and coil
+ci rad Not applicable
+ci exha Single with crossover
+ci batt 12
+ci cool Air cooled
+ci equip Power windows
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Heater and Defroster
+ci equip Powerglide automatic transmission
+ci equip Flightomatic automatic transmission
+ci equip Radio
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 3.22
+ci drive Rear wheel drive
+ci rev 3.65
+ci 2gear 1.84
+ci 3gear 1
+ci gears 3
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 1228, 00867(\w)([\dX]{6})
+clv 5284, 1960, Chevrolet, Corvette, Convertible
+ci axle Semifloating
+ci year 1960
+ci origin United States
+ci make Chevrolet
+ci msrp $3872.00
+ci prod 10261
+ci series Corvette
+ci doors 2
+ci maker Fisher
+ci weight 2840
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 2
+ci oil 5
+ci fuel 16.5
+ci tcase -NA-
+ci rdiff 4
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.70
+ci diff Hypoid
+ci wbase 102
+ci width 72.8
+ci rtred 59
+ci ftred 57
+ci length 177.2
+ci height 52
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 48.05
+ci mbear 5
+ci b&s 3 7/8 & 3
+ci cyl 8
+ci comp 9.5
+ci disp 283.04
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci etype Helical
+ci englo On front right side of block.
+ci etype V8 Valve-in-head
+ci trq 300@3000
+ci bhp 230@4800
+ci color Exterior Colors
+co Cascade Green Metallic
+co Ermine White
+co Honduras Maroon Metallic
+co Horizon Blue Metallic
+co Lacquer
+co Roman Red
+co Sateen Silver Metallic
+co Tasco Turquoise Metallic
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci exha Dual
+ci batt 12
+ci cool 15.5 Quarts
+ci rad Cellular
+ci equip 4-Speed manual transmission
+ci equip Air conditioning
+ci equip Auxiliary hardtop for convertibles
+ci equip Fuel Injection
+ci equip Power windows
+ci equip Flightomatic automatic transmission
+ci equip Powerglide automatic transmission
+ci equip Power brakes
+ci equip Power convertible top
+ci equip Power seats
+ci equip Power steering
+ci sgear Worm & ball bearing sector
+ci rsus Outrigger mounted leaf springs
+ci fsus Independent coil springs
+ci rev 2.21
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.32
+ci 5gear Not applicable
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1229, 01767(\w)([\dX]{6})
+clv 5285, 1960, Chevrolet, Impala 6, Convertible
+ci axle Semifloating
+ci series Impala 6
+ci year 1960
+ci msrp $2428.00
+ci make Chevrolet
+ci prod 79903
+ci origin United States
+ci maker Fisher
+ci model 1767
+ci doors 2
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 20
+ci trans 2
+ci tcase -NA-
+ci oil 5
+ci rdiff 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.55
+ci ftred 60.3
+ci height 54
+ci length 210.8
+ci rtred 59.3
+ci wbase 119
+ci width 80
+ci b&s 3 9/16 & 3 15/16
+ci etype Single downdraft
+ci comp 8.25
+ci vlift Hydraulic
+ci rhp 30.4
+ci etype In line Valve-in-head
+ci disp 235.5
+ci cyl 6
+ci trq 217@2200
+ci englo On right side of block behind the distributor.
+ci mbear 4
+ci bhp 135@400
+ci etype Helical
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci ftype Regular
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci rad Tube and center
+ci cool 17 Quarts
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Powerglide automatic transmission
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.94
+ci gears 3
+ci 2gear 1.68
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 1230, 01719(\w)([\dX]{6})
+clv 5286, 1960, Chevrolet, Impala 6, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci series Impala 6
+ci msrp $2603.00
+ci year 1960
+ci prod 497048
+ci origin United States
+ci model 1719
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci tcase -NA-
+ci trans 2
+ci rdiff 4
+ci oil 5
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.55
+ci diff Hypoid
+ci height 54
+ci length 210.8
+ci wbase 119
+ci width 80
+ci rtred 59.3
+ci ftred 60.3
+ci trq 217@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.25
+ci disp 235.5
+ci cyl 6
+ci englo On right side of block behind the distributor.
+ci b&s 3 9/16 & 3 15/16
+ci rhp 30.4
+ci vlift Hydraulic
+ci etype In line Valve-in-head
+ci mbear 4
+ci bhp 135@400
+ci etype Helical
+ci etype Single downdraft
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci cool 17 Quarts
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Powerglide automatic transmission
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 2gear 1.68
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.94
+ci drive Rear wheel drive
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1231, 01737(\w)([\dX]{6})
+clv 5287, 1960, Chevrolet, Impala 6, Sport Coupe
+ci axle Semifloating
+ci series Impala 6
+ci year 1960
+ci msrp $2462.00
+ci make Chevrolet
+ci prod 204467
+ci origin United States
+ci maker Fisher
+ci model 1737
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 2
+ci tcase -NA-
+ci oil 5
+ci rdiff 4
+ci fuel 20
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.55
+ci diff Hypoid
+ci length 210.8
+ci width 80
+ci wbase 119
+ci height 54
+ci rtred 59.3
+ci ftred 60.3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci comp 8.25
+ci vlift Hydraulic
+ci mbear 4
+ci etype In line Valve-in-head
+ci rhp 30.4
+ci b&s 3 9/16 & 3 15/16
+ci disp 235.5
+ci englo On right side of block behind the distributor.
+ci trq 217@2200
+ci bhp 135@400
+ci etype Helical
+ci cyl 6
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci ftype Regular
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci rad Tube and center
+ci cool 17 Quarts
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Powerglide automatic transmission
+ci sgear Semi-reversible recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.94
+ci gears 3
+ci 2gear 1.68
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 1232, 01739(\w)([\dX]{6})
+clv 5288, 1960, Chevrolet, Impala 6, Sport Sedan
+ci axle Semifloating
+ci series Impala 6
+ci prod 169016
+ci msrp $2368.00
+ci make Chevrolet
+ci year 1960
+ci origin United States
+ci maker Fisher
+ci model 1739
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci trans 2
+ci fuel 20
+ci rdiff 4
+ci tcase -NA-
+ci oil 5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.55
+ci ftred 60.3
+ci wbase 119
+ci length 210.8
+ci height 54
+ci rtred 59.3
+ci width 80
+ci bhp 135@400
+ci etype Single downdraft
+ci comp 8.25
+ci cyl 6
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci etype In line Valve-in-head
+ci rhp 30.4
+ci b&s 3 9/16 & 3 15/16
+ci englo On right side of block behind the distributor.
+ci trq 217@2200
+ci vlift Hydraulic
+ci etype Helical
+ci disp 235.5
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci batt 12
+ci cool 17 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Power seats
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.94
+ci gears 3
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1233, 01735(\w)([\dX]{6})
+clv 5289, 1960, Chevrolet, Impala 6, Station Wagon
+ci axle Semifloating
+ci series Impala 6
+ci year 1960
+ci msrp $2600.00
+ci make Chevrolet
+ci prod 198066
+ci origin United States
+ci maker Fisher
+ci model 1735
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 2
+ci fuel 20
+ci tcase -NA-
+ci oil 5
+ci rdiff 4
+ci carb Rochester
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.55
+ci diff Hypoid
+ci ftred 60.3
+ci height 56.3
+ci length 210.8
+ci wbase 119
+ci rtred 59.3
+ci width 80
+ci b&s 3 9/16 & 3 15/16
+ci etype Single downdraft
+ci comp 8.25
+ci cyl 6
+ci vlift Hydraulic
+ci etype In line Valve-in-head
+ci disp 235.5
+ci rhp 30.4
+ci trq 217@2200
+ci englo On right side of block behind the distributor.
+ci mbear 4
+ci bhp 135@400
+ci etype Helical
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci ftype Regular
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci batt 12
+ci cool 17 Quarts
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Power seats
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.94
+ci gears 3
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 1234, 01867(\w)([\dX]{6})
+clv 5290, 1960, Chevrolet, Impala V8, Convertible
+ci axle Semifloating
+ci year 1960
+ci origin United States
+ci prod 79903
+ci series Impala V8
+ci make Chevrolet
+ci msrp $2700.00
+ci doors 2
+ci maker Fisher
+ci model 1867
+ci weight 3635
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 20
+ci trans 2
+ci tcase -NA-
+ci rdiff 4
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.36
+ci height 54
+ci wbase 119
+ci length 210.8
+ci width 80
+ci ftred 60.3
+ci rtred 59.3
+ci cyl 8
+ci mbear 5
+ci trq 275@2200
+ci b&s 3 7/8 & 3
+ci englo On front right side of block.
+ci comp 8.5
+ci rhp 48.05
+ci disp 283.04
+ci bhp 170@4200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci exha Single with crossover
+ci cool 16.5 Quarts
+ci equip Flightomatic automatic transmission
+ci equip Air conditioning
+ci equip Power brakes
+ci equip 348 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Turboglide automatic transmission
+ci equip Power seats
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.53
+ci rev 2.80
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 1235, 01819(\w)([\dX]{6})
+clv 5291, 1960, Chevrolet, Impala V8, Sedan
+ci axle Semifloating
+ci series Impala V8
+ci origin United States
+ci make Chevrolet
+ci prod 497048
+ci year 1960
+ci msrp $2562.00
+ci doors 4
+ci weight 3580
+ci model 1819
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 20
+ci trans 2
+ci oil 4
+ci tcase -NA-
+ci rdiff 4
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 119
+ci ftred 60.3
+ci width 80
+ci rtred 59.3
+ci length 210.8
+ci height 54
+ci rhp 48.05
+ci mbear 5
+ci bhp 170@4200
+ci englo On front right side of block.
+ci cyl 8
+ci comp 8.5
+ci b&s 3 7/8 & 3
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 283.04
+ci etype Unknown at time of publication
+ci trq 275@2200
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci exha Single with crossover
+ci cool 16.5 Quarts
+ci equip Flightomatic automatic transmission
+ci equip Air conditioning
+ci equip Power brakes
+ci equip 348 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Turboglide automatic transmission
+ci equip Power seats
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.53
+ci rev 2.80
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 1236, 01837(\w)([\dX]{6})
+clv 5292, 1960, Chevrolet, Impala V8, Sport Coupe
+ci axle Semifloating
+ci series Impala V8
+ci origin United States
+ci prod 204467
+ci make Chevrolet
+ci msrp $2468.00
+ci year 1960
+ci weight 3540
+ci maker Fisher
+ci doors 2
+ci model 1837
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci rdiff 4
+ci oil 4
+ci trans 2
+ci tcase -NA-
+ci fuel 20
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.36
+ci diff Hypoid
+ci length 210.8
+ci wbase 119
+ci ftred 60.3
+ci width 80
+ci rtred 59.3
+ci height 54
+ci b&s 3 7/8 & 3
+ci rhp 48.05
+ci mbear 5
+ci englo On front right side of block.
+ci cyl 8
+ci comp 8.5
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 283.04
+ci trq 275@2200
+ci bhp 170@4200
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cascade Green Metallic
+co Crocus Cream
+co Ermine White
+co Fawn Beige
+co Horizon Blue Metallic
+co Jade Green Metallic
+co Roman Red
+co Royal Blue Metallic
+co Sateen Silver Metallic
+co Shadow Gray Metallic
+co Suntan Copper Metallic
+co Tasco Turquoise Metallic
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci exha Single with crossover
+ci cool 16.5 Quarts
+ci equip Flightomatic automatic transmission
+ci equip Air conditioning
+ci equip Power brakes
+ci equip 348 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Powerglide automatic transmission
+ci equip Turboglide automatic transmission
+ci equip Power seats
+ci sgear Semi-reversible recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.53
+ci rev 2.80
+ci 1gear 2.47
+ci vloc On left front body hinge pillar directly below the upper door hinge.
+ci tsize 7.5 x 14
+ci sloc Trunk

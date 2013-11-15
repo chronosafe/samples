@@ -1,0 +1,4024 @@
+cls 3230, JH23(\w)4(\w)([\dX]{6})
+clv 10135, 1974, Dodge, Challenger V8, Hardtop
+ci axle Semifloating
+ci series Challenger V8
+ci origin United States
+ci year 1974
+ci msrp $3320.00
+ci make Dodge
+ci prod 11354
+ci doors 2
+ci maker Dodge
+ci weight 3330
+ci model JH23
+ci bsize 10
+ci ebrake Rear service brakes
+ci fbsize 10.98
+ci svc Front disc rear self-adjusting drum
+ci oil 4
+ci tcase -NA-
+ci trans 4.75
+ci fuel 16
+ci rdiff 4
+ci carb Holley
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 55.4
+ci length 199
+ci ftred 59.1
+ci wbase 110
+ci etype V8 overhead valve
+ci mbear 5
+ci cyl 8
+ci comp 8.6
+ci etype Fully synchronized
+ci rhp 48.83
+ci disp 317.58
+ci bhp 150@4000
+ci englo Stamped on front of block just below left cylinder head.
+ci b&s 3 29/32 & 3 5/16
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci trq 255@2200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci cool 15 Quarts
+ci batt 12
+ci ign Electronic
+ci rad Tube and spacer
+ci exha Single
+ci cool Water pump
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip 360 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 3.08
+ci 3gear 1
+ci rev 2.9
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize D78 x 14
+cls 3231, WL21(\w)4(\w)([\dX]{6})
+clv 10136, 1974, Dodge, Charger 6, Coupe
+ci axle Semifloating
+ci series Charger 6
+ci origin United States
+ci prod 3315
+ci make Dodge
+ci year 1974
+ci msrp $3025.00
+ci maker Dodge
+ci weight 3470
+ci model WL21
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 10
+ci fbsize 10.98
+ci svc Front disc rear self-adjusting drum
+ci fuel 19.5
+ci tcase -NA-
+ci oil 4
+ci rdiff 2
+ci trans 4.75
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.21
+ci rtred 62
+ci wbase 115
+ci height 52.2
+ci width 77
+ci ftred 61.9
+ci length 214
+ci cyl 6
+ci comp 8.4
+ci disp 225.54
+ci etype Slant 6  overhead valve
+ci block Cast Iron
+ci rhp 27.85
+ci bhp 105@3600
+ci trq 180@1600
+ci mbear 4
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci etype Single downdraft
+ci vlift Mechanical
+ci etype Synchronous in 2nd & 3rd
+ci b&s 3 13/32 & 4 1/8
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci ign Electronic
+ci exha Single
+ci batt 12
+ci rad Tube and spacer
+ci cool 12 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Power steering
+ci equip Power brakes
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.8
+ci 3gear 1
+ci gears 3
+ci 2gear 1.83
+ci 1gear 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3232, WL23(\w)4(\w)([\dX]{6})
+clv 10137, 1974, Dodge, Charger 6, Hardtop
+ci axle Semifloating
+ci series Charger 6
+ci origin United States
+ci prod 3315
+ci make Dodge
+ci year 1974
+ci msrp $3219.00
+ci maker Dodge
+ci weight 3490
+ci model WL23
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 10
+ci fbsize 10.98
+ci svc Front disc rear self-adjusting drum
+ci fuel 19.5
+ci tcase -NA-
+ci oil 4
+ci rdiff 2
+ci trans 4.75
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.21
+ci rtred 62
+ci wbase 115
+ci height 52.2
+ci width 77
+ci ftred 61.9
+ci length 214
+ci cyl 6
+ci comp 8.4
+ci disp 225.54
+ci etype Slant 6  overhead valve
+ci block Cast Iron
+ci rhp 27.85
+ci bhp 105@3600
+ci trq 180@1600
+ci mbear 4
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci etype Single downdraft
+ci vlift Mechanical
+ci etype Synchronous in 2nd & 3rd
+ci b&s 3 13/32 & 4 1/8
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci ign Electronic
+ci exha Single
+ci batt 12
+ci rad Tube and spacer
+ci cool 12 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Power steering
+ci equip Power brakes
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.8
+ci 3gear 1
+ci gears 3
+ci 2gear 1.83
+ci 1gear 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3233, WP29(\w)4(\w)([\dX]{6})
+clv 10138, 1974, Dodge, Charger SE, Coupe
+ci axle Semifloating
+ci year 1974
+ci origin United States
+ci prod 2698
+ci msrp $3540.00
+ci make Dodge
+ci series Charger SE
+ci model WP29
+ci doors 2
+ci maker Dodge
+ci weight 3625
+ci bsize 10
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci fbsize 10.98
+ci trans 4.75
+ci tcase -NA-
+ci oil 4
+ci rdiff 4
+ci fuel 19.5
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 2.94
+ci diff Hypoid
+ci wbase 115
+ci length 214
+ci height 52.5
+ci rtred 62
+ci ftred 61.9
+ci width 77
+ci mbear 5
+ci rhp 48.83
+ci bhp 150@4000
+ci trq 255@2200
+ci cyl 8
+ci comp 8.6
+ci vlift Hydraulic
+ci disp 317.58
+ci block Cast Iron
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 29/32 & 3 5/16
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci englo Stamped on front of block just below left cylinder head.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci cool 15 Quarts
+ci batt 12
+ci ign Electronic
+ci rad Tube and spacer
+ci exha Single
+ci cool Water pump
+ci equip Power brakes
+ci equip Speed control device
+ci equip 360 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip 440 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.7
+ci rev 2.9
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 3234, WL21(\w)4(\w)([\dX]{6})
+clv 10139, 1974, Dodge, Charger V8, Coupe
+ci axle Semifloating
+ci year 1974
+ci origin United States
+ci prod 2698
+ci msrp $3137.00
+ci make Dodge
+ci series Charger V8
+ci model WL21
+ci doors 2
+ci maker Dodge
+ci weight 3550
+ci bsize 10
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci fbsize 10.98
+ci trans 4.75
+ci tcase -NA-
+ci oil 4
+ci rdiff 4
+ci fuel 19.5
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci length 214
+ci wbase 115
+ci height 52.2
+ci rtred 62
+ci ftred 61.9
+ci width 77
+ci mbear 5
+ci rhp 48.83
+ci bhp 150@4000
+ci trq 255@2200
+ci cyl 8
+ci comp 8.6
+ci vlift Hydraulic
+ci disp 317.58
+ci block Cast Iron
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 29/32 & 3 5/16
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci englo Stamped on front of block just below left cylinder head.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci cool 15 Quarts
+ci batt 12
+ci ign Electronic
+ci rad Tube and spacer
+ci exha Single
+ci cool Water pump
+ci equip Power brakes
+ci equip Speed control device
+ci equip 360 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip 440 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.7
+ci rev 2.9
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 3235, WL23(\w)4(\w)([\dX]{6})
+clv 10140, 1974, Dodge, Charger V8, Hardtop
+ci axle Semifloating
+ci year 1974
+ci origin United States
+ci prod 2698
+ci msrp $3331.00
+ci make Dodge
+ci series Charger V8
+ci model WL23
+ci doors 2
+ci maker Dodge
+ci weight 3565
+ci bsize 10
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci fbsize 10.98
+ci trans 4.75
+ci tcase -NA-
+ci oil 4
+ci rdiff 4
+ci fuel 19.5
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci length 214
+ci wbase 115
+ci height 52.2
+ci rtred 62
+ci ftred 61.9
+ci width 77
+ci mbear 5
+ci rhp 48.83
+ci bhp 150@4000
+ci trq 255@2200
+ci cyl 8
+ci comp 8.6
+ci vlift Hydraulic
+ci disp 317.58
+ci block Cast Iron
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 29/32 & 3 5/16
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci englo Stamped on front of block just below left cylinder head.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci cool 15 Quarts
+ci batt 12
+ci ign Electronic
+ci rad Tube and spacer
+ci exha Single
+ci cool Water pump
+ci equip Power brakes
+ci equip Speed control device
+ci equip 360 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip 440 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.7
+ci rev 2.9
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 3236, WL41(\w)4(\w)([\dX]{6})
+clv 10141, 1974, Dodge, Coronet 6, Sedan
+ci axle Semifloating
+ci year 1974
+ci origin United States
+ci prod 3315
+ci msrp $3082.00
+ci series Coronet 6
+ci make Dodge
+ci maker Dodge
+ci model WL41
+ci weight 3610
+ci bsize 10
+ci fbsize 10.98
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci fuel 19.5
+ci rdiff 2
+ci tcase -NA-
+ci oil 4
+ci trans 4.75
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diffr 3.21
+ci diff Hypoid
+ci height 53.6
+ci length 212.4
+ci wbase 117
+ci width 77.8
+ci ftred 61.9
+ci rtred 62
+ci block Cast Iron
+ci comp 8.4
+ci etype Single downdraft
+ci mbear 4
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci bhp 105@3600
+ci b&s 3 13/32 & 4 1/8
+ci rhp 27.85
+ci disp 225.54
+ci vlift Mechanical
+ci etype Synchronous in 2nd & 3rd
+ci etype Slant 6  overhead valve
+ci trq 180@1600
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci cool Water pump
+ci cool 12 Quarts
+ci ign Electronic
+ci exha Single
+ci equip Power steering
+ci equip Radio
+ci equip Power brakes
+ci equip Speed control device
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci gears 3
+ci 1gear 2.95
+ci drive Rear wheel drive
+ci rev 3.8
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.83
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3237, WP45(\w)4(\w)([\dX]{6})
+clv 10142, 1974, Dodge, Coronet Crestwood, Station Wagon 2-seat
+ci axle Semifloating
+ci year 1974
+ci msrp $3905.00
+ci prod 2698
+ci series Coronet Crestwood
+ci make Dodge
+ci origin United States
+ci maker Dodge
+ci weight 4100
+ci pass 6
+ci doors 4
+ci model WP45
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 10.98
+ci bsize 10
+ci ebrake Rear service brakes
+ci trans 4.75
+ci tcase -NA-
+ci rdiff 4
+ci fuel 19
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci height 56.4
+ci width 78.8
+ci length 220.7
+ci wbase 117.5
+ci ftred 61.9
+ci rtred 62
+ci cyl 8
+ci mbear 5
+ci comp 8.6
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 48.83
+ci block Cast Iron
+ci bhp 150@4000
+ci englo Stamped on front of block just below left cylinder head.
+ci trq 255@2200
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci etype Fully synchronized
+ci disp 317.58
+ci b&s 3 29/32 & 3 5/16
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci cool Water pump
+ci batt 12
+ci cool 15 Quarts
+ci ign Electronic
+ci exha Single
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 1gear 3.08
+ci rev 2.9
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.7
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 14
+cls 3238, WP46(\w)4(\w)([\dX]{6})
+clv 10143, 1974, Dodge, Coronet Crestwood, Station Wagon 3-seat
+ci axle Semifloating
+ci year 1974
+ci msrp $4212.00
+ci prod 2698
+ci series Coronet Crestwood
+ci make Dodge
+ci origin United States
+ci maker Dodge
+ci weight 4135
+ci pass 9
+ci doors 4
+ci model WP46
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 10.98
+ci bsize 10
+ci ebrake Rear service brakes
+ci trans 4.75
+ci tcase -NA-
+ci rdiff 4
+ci fuel 19
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci height 56.4
+ci wbase 117.5
+ci length 220.7
+ci ftred 61.9
+ci rtred 62
+ci width 78.8
+ci comp 8.6
+ci cyl 8
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 48.83
+ci block Cast Iron
+ci bhp 150@4000
+ci englo Stamped on front of block just below left cylinder head.
+ci trq 255@2200
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci etype Fully synchronized
+ci disp 317.58
+ci b&s 3 29/32 & 3 5/16
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci cool Water pump
+ci batt 12
+ci cool 15 Quarts
+ci ign Electronic
+ci exha Single
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 1gear 3.08
+ci rev 2.9
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.7
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 14
+cls 3239, WH41(\w)4(\w)([\dX]{6})
+clv 10144, 1974, Dodge, Coronet Custom 6, Sedan
+ci axle Semifloating
+ci year 1974
+ci origin United States
+ci prod 3315
+ci msrp $3182.00
+ci series Coronet Custom 6
+ci make Dodge
+ci maker Dodge
+ci model WH41
+ci weight 3500
+ci bsize 10
+ci fbsize 10.98
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci fuel 19.5
+ci rdiff 2
+ci tcase -NA-
+ci oil 4
+ci trans 4.75
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diffr 3.21
+ci diff Hypoid
+ci height 53.6
+ci length 212.4
+ci wbase 117
+ci width 77.8
+ci ftred 61.9
+ci rtred 62
+ci block Cast Iron
+ci comp 8.4
+ci etype Single downdraft
+ci mbear 4
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci bhp 105@3600
+ci b&s 3 13/32 & 4 1/8
+ci rhp 27.85
+ci disp 225.54
+ci vlift Mechanical
+ci etype Synchronous in 2nd & 3rd
+ci etype Slant 6  overhead valve
+ci trq 180@1600
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci cool Water pump
+ci cool 12 Quarts
+ci ign Electronic
+ci exha Single
+ci equip Power steering
+ci equip Radio
+ci equip Power brakes
+ci equip Speed control device
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci gears 3
+ci 1gear 2.95
+ci drive Rear wheel drive
+ci rev 3.8
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.83
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3240, WH41(\w)4(\w)([\dX]{6})
+clv 10145, 1974, Dodge, Coronet Custom V8, Sedan
+ci axle Semifloating
+ci year 1974
+ci origin United States
+ci prod 2698
+ci msrp $3294.00
+ci make Dodge
+ci series Coronet Custom V8
+ci model WH41
+ci weight 3575
+ci maker Dodge
+ci doors 4
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fbsize 10.98
+ci trans 4.75
+ci tcase -NA-
+ci rdiff 4
+ci fuel 19.5
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci width 77.8
+ci length 212.4
+ci wbase 117
+ci rtred 62
+ci ftred 61.9
+ci height 53.6
+ci block Cast Iron
+ci rhp 48.83
+ci bhp 150@4000
+ci disp 317.58
+ci cyl 8
+ci comp 8.6
+ci trq 255@2200
+ci englo Stamped on front of block just below left cylinder head.
+ci mbear 5
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci b&s 3 29/32 & 3 5/16
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci batt 12
+ci exha Single
+ci ign Electronic
+ci rad Tube and spacer
+ci cool 15 Quarts
+ci cool Water pump
+ci equip Power brakes
+ci equip Speed control device
+ci equip 360 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip 440 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.7
+ci rev 2.9
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 3241, WH45(\w)4(\w)([\dX]{6})
+clv 10146, 1974, Dodge, Coronet Custom V8, Station Wagon 2-seat
+ci axle Semifloating
+ci msrp $3676.00
+ci year 1974
+ci prod 2698
+ci series Coronet Custom V8
+ci make Dodge
+ci origin United States
+ci maker Dodge
+ci weight 4090
+ci pass 6
+ci model WH45
+ci doors 4
+ci fbsize 10.98
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fuel 19.5
+ci trans 4.75
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci width 78.8
+ci length 220.7
+ci wbase 117
+ci rtred 62
+ci height 56.4
+ci ftred 61.9
+ci bhp 150@4000
+ci mbear 5
+ci rhp 48.83
+ci trq 255@2200
+ci cyl 8
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Stamped on front of block just below left cylinder head.
+ci disp 317.58
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci comp 8.6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci cool 15 Quarts
+ci batt 12
+ci ign Electronic
+ci rad Tube and spacer
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip Speed control device
+ci equip Power brakes
+ci equip 360 cu. in. V8 engine
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip 440 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.7
+ci rev 2.9
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 3242, WH46(\w)4(\w)([\dX]{6})
+clv 10147, 1974, Dodge, Coronet Custom V8, Station Wagon 3-seat
+ci axle Semifloating
+ci msrp $3981.00
+ci year 1974
+ci prod 2698
+ci series Coronet Custom V8
+ci make Dodge
+ci origin United States
+ci maker Dodge
+ci weight 4130
+ci pass 9
+ci model WH46
+ci doors 4
+ci fbsize 10.98
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fuel 19.5
+ci trans 4.75
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci width 78.8
+ci length 220.7
+ci wbase 117
+ci height 56.4
+ci ftred 61.9
+ci rtred 62
+ci mbear 5
+ci rhp 48.83
+ci trq 255@2200
+ci cyl 8
+ci comp 8.6
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci b&s 3 29/32 & 3 5/16
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Stamped on front of block just below left cylinder head.
+ci disp 317.58
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci bhp 150@4000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci cool 15 Quarts
+ci batt 12
+ci ign Electronic
+ci rad Tube and spacer
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip Speed control device
+ci equip Power brakes
+ci equip 360 cu. in. V8 engine
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip 440 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.7
+ci rev 2.9
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 3243, WL41(\w)4(\w)([\dX]{6})
+clv 10148, 1974, Dodge, Coronet V8, Sedan
+ci axle Semifloating
+ci year 1974
+ci origin United States
+ci prod 2698
+ci msrp $3194.00
+ci make Dodge
+ci series Coronet V8
+ci model WL41
+ci weight 3685
+ci maker Dodge
+ci doors 4
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fbsize 10.98
+ci trans 4.75
+ci tcase -NA-
+ci rdiff 4
+ci fuel 19.5
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 2.94
+ci diff Hypoid
+ci width 77.8
+ci length 212.4
+ci wbase 117
+ci rtred 62
+ci ftred 61.9
+ci height 53.6
+ci block Cast Iron
+ci rhp 48.83
+ci bhp 150@4000
+ci disp 317.58
+ci cyl 8
+ci comp 8.6
+ci trq 255@2200
+ci englo Stamped on front of block just below left cylinder head.
+ci mbear 5
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci b&s 3 29/32 & 3 5/16
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci batt 12
+ci exha Single
+ci ign Electronic
+ci rad Tube and spacer
+ci cool 15 Quarts
+ci cool Water pump
+ci equip Power brakes
+ci equip Speed control device
+ci equip 360 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip 440 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.7
+ci rev 2.9
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 3244, WL45(\w)4(\w)([\dX]{6})
+clv 10149, 1974, Dodge, Coronet V8, Station Wagon 2-seat
+ci axle Semifloating
+ci msrp $3498.00
+ci prod 2698
+ci year 1974
+ci series Coronet V8
+ci origin United States
+ci make Dodge
+ci maker Dodge
+ci weight 4185
+ci model WL45
+ci doors 4
+ci ebrake Rear service brakes
+ci fbsize 10.98
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci fuel 19.5
+ci trans 4.75
+ci oil 4
+ci rdiff 4
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci csize 10.5 inches
+ci diffr 2.94
+ci diff Hypoid
+ci ftred 61.9
+ci length 220.7
+ci wbase 117
+ci width 78.8
+ci rtred 62
+ci height 56.4
+ci disp 317.58
+ci mbear 5
+ci rhp 48.83
+ci bhp 150@4000
+ci cyl 8
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci trq 255@2200
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 29/32 & 3 5/16
+ci englo Stamped on front of block just below left cylinder head.
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci comp 8.6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci cool 15 Quarts
+ci batt 12
+ci ign Electronic
+ci rad Tube and spacer
+ci exha Single
+ci cool Water pump
+ci equip Power brakes
+ci equip Speed control device
+ci equip 360 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Air conditioning
+ci equip 440 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 1gear 3.08
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.7
+ci rev 2.9
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 3245, LL41(\w)4(\w)([\dX]{6})
+clv 10150, 1974, Dodge, Dart 6, Sedan
+ci axle Semifloating
+ci msrp $2804.00
+ci year 1974
+ci make Dodge
+ci origin United States
+ci series Dart 6
+ci model LL41
+ci weight 3055
+ci doors 4
+ci maker Dodge
+ci svc Hydraulic self-adjusting
+ci fbsize 10
+ci ebrake Rear service brakes
+ci bsize 9
+ci fuel 16
+ci trans 6.5
+ci oil 4
+ci rdiff 2
+ci tcase -NA-
+ci carb Holley
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diff Hypoid
+ci diffr 3.23
+ci width 69.6
+ci ftred 59.1
+ci height 54.1
+ci length 201.7
+ci wbase 111
+ci rtred 55.4
+ci comp 8.4
+ci vlift Mechanical
+ci cyl 6
+ci bhp 95@4000
+ci etype Single downdraft
+ci b&s 3.4 & 3.64
+ci rhp 27.74
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci etype Inline 6 overhead valve
+ci trq 145@2000
+ci etype Synchronous in 2nd & 3rd
+ci disp 198
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci exha Single
+ci batt 12
+ci ign Electronic
+ci rad Tube and spacer
+ci cool 12 Quarts
+ci cool Water pump
+ci equip Power brakes
+ci equip 225 cu. in. Inline 6 engine
+ci equip Air conditioning
+ci equip Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.8
+ci 2gear 1.83
+ci 3gear 1
+ci 1gear 2.95
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3246, LH41(\w)4(\w)([\dX]{6})
+clv 10151, 1974, Dodge, Dart Custom 6, Sedan
+ci axle Semifloating
+ci msrp $2958.00
+ci year 1974
+ci origin United States
+ci make Dodge
+ci prod 50047
+ci series Dart Custom 6
+ci maker Dodge
+ci weight 3055
+ci model LH41
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci fbsize 10
+ci bsize 9
+ci ebrake Rear service brakes
+ci trans 6.5
+ci tcase -NA-
+ci fuel 16
+ci oil 4
+ci rdiff 2
+ci carb Holley
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 55.4
+ci ftred 59.1
+ci height 54.1
+ci wbase 111
+ci length 201.7
+ci width 69.6
+ci comp 8.4
+ci disp 198
+ci rhp 27.74
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci b&s 3.4 & 3.64
+ci etype Single downdraft
+ci etype Synchronous in 2nd & 3rd
+ci etype Inline 6 overhead valve
+ci trq 145@2000
+ci cyl 6
+ci bhp 95@4000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci exha Single
+ci ign Electronic
+ci cool Water pump
+ci rad Tube and spacer
+ci cool 12 Quarts
+ci batt 12
+ci equip 225 cu. in. Inline 6 engine
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci gears 3
+ci rev 3.8
+ci 1gear 2.95
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.83
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3247, LH41(\w)4(\w)([\dX]{6})
+clv 10152, 1974, Dodge, Dart Custom V8, Sedan
+ci axle Semifloating
+ci prod 28169
+ci origin United States
+ci year 1974
+ci msrp $3105.00
+ci series Dart Custom V8
+ci make Dodge
+ci maker Dodge
+ci weight 3205
+ci doors 4
+ci model LH41
+ci bsize 10
+ci fbsize 10.98
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci rdiff 4
+ci tcase -NA-
+ci trans 4.75
+ci fuel 16
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci length 201.7
+ci wbase 111
+ci width 69.6
+ci height 54.1
+ci rtred 55.4
+ci ftred 59.1
+ci comp 8.6
+ci cyl 8
+ci mbear 5
+ci trq 255@2200
+ci disp 317.58
+ci block Cast Iron
+ci etype V8 overhead valve
+ci bhp 150@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 29/32 & 3 5/16
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci englo Stamped on front of block just below left cylinder head.
+ci rhp 48.83
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci exha Single
+ci cool 15 Quarts
+ci batt 12
+ci rad Tube and spacer
+ci ign Electronic
+ci cool Water pump
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.7
+ci 1gear 3.08
+ci rev 2.9
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize D78 x 14
+ci sloc Trunk
+cls 3248, LL29(\w)4(\w)([\dX]{6})
+clv 10153, 1974, Dodge, Dart Sport 6, Coupe
+ci axle Semifloating
+ci prod 40293
+ci year 1974
+ci origin United States
+ci msrp $2724.00
+ci series Dart Sport 6
+ci make Dodge
+ci maker Dodge
+ci doors 2
+ci model LL29
+ci weight 2990
+ci fbsize 10
+ci ebrake Rear service brakes
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci fuel 16
+ci oil 4
+ci rdiff 2
+ci trans 6.5
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 200
+ci ftred 59.1
+ci wbase 108
+ci height 53.1
+ci rtred 55.4
+ci width 71.8
+ci b&s 3.4 & 3.64
+ci trq 145@2000
+ci disp 198
+ci comp 8.4
+ci vlift Mechanical
+ci etype Single downdraft
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci cyl 6
+ci etype Synchronous in 2nd & 3rd
+ci etype Inline 6 overhead valve
+ci rhp 27.74
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 95@4000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci exha Single
+ci ign Electronic
+ci cool Water pump
+ci rad Tube and spacer
+ci cool 12 Quarts
+ci batt 12
+ci equip 225 cu. in. Inline 6 engine
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci gears 3
+ci rev 3.8
+ci 1gear 2.95
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.83
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3249, LL29(\w)4(\w)([\dX]{6})
+clv 10154, 1974, Dodge, Dart Sport V8, Coupe
+ci axle Semifloating
+ci prod 23225
+ci origin United States
+ci year 1974
+ci msrp $2871.00
+ci series Dart Sport V8
+ci make Dodge
+ci maker Dodge
+ci weight 3140
+ci doors 2
+ci model LL29
+ci bsize 10
+ci fbsize 10.98
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci rdiff 4
+ci trans 4.75
+ci tcase -NA-
+ci fuel 16
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci length 200
+ci wbase 108
+ci width 71.8
+ci height 53.1
+ci rtred 55.4
+ci ftred 59.1
+ci comp 8.6
+ci cyl 8
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 317.58
+ci block Cast Iron
+ci trq 255@2200
+ci bhp 150@4000
+ci etype V8 overhead valve
+ci englo Stamped on front of block just below left cylinder head.
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci b&s 3 29/32 & 3 5/16
+ci vlift Hydraulic
+ci rhp 48.83
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci cool 15 Quarts
+ci batt 12
+ci rad Tube and spacer
+ci exha Single
+ci ign Electronic
+ci cool Water pump
+ci equip Power steering
+ci equip Radio
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 2.9
+ci gears 3
+ci 2gear 1.7
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize D78 x 14
+cls 3250, LM29(\w)4(\w)([\dX]{6})
+clv 10155, 1974, Dodge, Dart Swinger 360 Sport, Coupe
+ci axle Semifloating
+ci series Dart Swinger 360 Sport
+ci origin United States
+ci msrp $3153.00
+ci year 1974
+ci make Dodge
+ci prod 3951
+ci maker Dodge
+ci weight 3330
+ci model LM29
+ci doors 2
+ci fbsize 10.98
+ci bsize 10
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 4
+ci oil 4
+ci fuel 16
+ci trans 4.75
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 3.21
+ci diff Hypoid
+ci length 200
+ci wbase 111
+ci width 71.8
+ci height 53.1
+ci rtred 55.4
+ci ftred 59.1
+ci disp 360
+ci cyl 8
+ci comp 8.4
+ci mbear 5
+ci rhp 51.2
+ci bhp 245@4800
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci trq 320@3600
+ci b&s 4 & 3 37/64
+ci etype Fully synchronized
+ci englo Stamped on front of block just below left cylinder head.
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci batt 12
+ci exha Dual
+ci ign Electronic
+ci cool 15 Quarts
+ci rad Tube and spacer
+ci cool Water pump
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.49
+ci gears 3
+ci 1gear 2.55
+ci rev 3.34
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize D78 x 14
+ci sloc Trunk
+cls 3251, LH23(\w)4(\w)([\dX]{6})
+clv 10156, 1974, Dodge, Dart Swinger 6, Hardtop
+ci axle Semifloating
+ci series Dart Swinger 6
+ci make Dodge
+ci origin United States
+ci msrp $2917.00
+ci year 1974
+ci prod 56126
+ci maker Dodge
+ci weight 3030
+ci doors 2
+ci model LH23
+ci svc Hydraulic self-adjusting
+ci fbsize 10
+ci bsize 9
+ci ebrake Rear service brakes
+ci rdiff 2
+ci tcase -NA-
+ci oil 4
+ci fuel 16
+ci trans 6.5
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci ftred 59.1
+ci rtred 55.4
+ci wbase 111
+ci height 54.1
+ci length 201.7
+ci width 69.6
+ci trq 145@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.4
+ci bhp 95@4000
+ci cyl 6
+ci vlift Mechanical
+ci disp 198
+ci etype Single downdraft
+ci etype Inline 6 overhead valve
+ci etype Synchronous in 2nd & 3rd
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci rhp 27.74
+ci b&s 3.4 & 3.64
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci ign Electronic
+ci cool 12 Quarts
+ci exha Single
+ci cool Water pump
+ci equip Power brakes
+ci equip Power steering
+ci equip 225 cu. in. Inline 6 engine
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci 2gear 1.83
+ci rev 3.8
+ci gears 3
+ci 5gear Not applicable
+ci 1gear 2.95
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3252, LL23(\w)4(\w)([\dX]{6})
+clv 10157, 1974, Dodge, Dart Swinger Special 6, Hardtop
+ci axle Semifloating
+ci year 1974
+ci msrp $2762.00
+ci origin United States
+ci series Dart Swinger Special 6
+ci make Dodge
+ci prod 14211
+ci maker Dodge
+ci doors 2
+ci weight 3035
+ci model LL23
+ci fbsize 10
+ci bsize 9
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci oil 4
+ci fuel 16
+ci rdiff 2
+ci trans 6.5
+ci carb Holley
+ci csize 9.25 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 201.7
+ci ftred 59.1
+ci wbase 111
+ci height 54.1
+ci rtred 55.4
+ci width 69.6
+ci bhp 95@4000
+ci trq 145@2000
+ci disp 198
+ci comp 8.4
+ci vlift Mechanical
+ci b&s 3.4 & 3.64
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci cyl 6
+ci etype Synchronous in 2nd & 3rd
+ci etype Inline 6 overhead valve
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 27.74
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci exha Single
+ci ign Electronic
+ci cool Water pump
+ci rad Tube and spacer
+ci cool 12 Quarts
+ci batt 12
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Radio
+ci equip 225 cu. in. Inline 6 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci rev 3.8
+ci 1gear 2.95
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.83
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3253, LP23(\w)4(\w)([\dX]{6})
+clv 10158, 1974, Dodge, Dart Swinger Special Edition 6, Hardtop
+ci axle Semifloating
+ci series Dart Swinger Special Edition 6
+ci make Dodge
+ci origin United States
+ci msrp $3794.00
+ci year 1974
+ci prod 3111
+ci model LP23
+ci maker Dodge
+ci weight 3599
+ci doors 2
+ci fbsize 10
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9
+ci rdiff 2
+ci oil 4
+ci tcase -NA-
+ci trans 6.5
+ci fuel 16
+ci carb Holley
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 55.4
+ci ftred 59.1
+ci length 201.7
+ci height 54.1
+ci wbase 111
+ci width 69.6
+ci etype Single downdraft
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci b&s 3.4 & 3.64
+ci bhp 95@4000
+ci comp 8.4
+ci etype Synchronous in 2nd & 3rd
+ci rhp 27.74
+ci disp 198
+ci vlift Mechanical
+ci etype Inline 6 overhead valve
+ci cyl 6
+ci trq 145@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Yellow
+co Yellow Blaze
+ci cool 12 Quarts
+ci cool Water pump
+ci ign Electronic
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip 225 cu. in. Inline 6 engine
+ci equip Radio
+ci equip Speed control device
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci rev 3.8
+ci 1gear 2.95
+ci 2gear 1.83
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3254, LP41(\w)4(\w)([\dX]{6})
+clv 10159, 1974, Dodge, Dart Swinger Special Edition 6, Sedan
+ci axle Semifloating
+ci prod 3111
+ci year 1974
+ci origin United States
+ci make Dodge
+ci msrp $3837.00
+ci series Dart Swinger Special Edition 6
+ci doors 4
+ci maker Dodge
+ci model LP41
+ci weight 3641
+ci svc Hydraulic self-adjusting
+ci fbsize 10
+ci bsize 9
+ci ebrake Rear service brakes
+ci trans 6.5
+ci tcase -NA-
+ci fuel 16
+ci oil 4
+ci rdiff 2
+ci carb Holley
+ci ctype Single dry plate
+ci csize 9.25 inches
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 55.4
+ci ftred 59.1
+ci height 54.1
+ci wbase 111
+ci length 201.7
+ci width 69.6
+ci comp 8.4
+ci disp 198
+ci rhp 27.74
+ci bhp 95@4000
+ci vlift Mechanical
+ci englo Stamped on joint face at right corner, adjacent to number 1 cylinder bore.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci etype Synchronous in 2nd & 3rd
+ci etype Inline 6 overhead valve
+ci trq 145@2000
+ci cyl 6
+ci b&s 3.4 & 3.64
+ci color Exterior Colors
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Yellow
+co Yellow Blaze
+ci cool 12 Quarts
+ci ign Electronic
+ci cool Water pump
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci equip Speed control device
+ci equip 225 cu. in. Inline 6 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci gears 3
+ci 1gear 2.95
+ci rev 3.8
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.83
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3255, LP23(\w)4(\w)([\dX]{6})
+clv 10160, 1974, Dodge, Dart Swinger Special Edition 8, Hardtop
+ci axle Semifloating
+ci year 1974
+ci origin United States
+ci prod 9274
+ci make Dodge
+ci series Dart Swinger Special Edition 8
+ci msrp $3945.00
+ci model LP23
+ci doors 2
+ci maker Dodge
+ci weight 3749
+ci ebrake Rear service brakes
+ci bsize 10
+ci fbsize 10.98
+ci svc Front disc rear self-adjusting drum
+ci rdiff 4
+ci trans 4.75
+ci oil 4
+ci fuel 16
+ci tcase -NA-
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci width 69.6
+ci length 201.7
+ci height 54.1
+ci rtred 55.4
+ci ftred 59.1
+ci wbase 111
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.6
+ci bhp 150@4000
+ci disp 317.58
+ci cyl 8
+ci block Cast Iron
+ci englo Stamped on front of block just below left cylinder head.
+ci rhp 48.83
+ci etype Fully synchronized
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci trq 255@2200
+ci vlift Hydraulic
+ci mbear 5
+ci b&s 3 29/32 & 3 5/16
+ci color Exterior Colors
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Yellow
+co Yellow Blaze
+ci ign Electronic
+ci rad Tube and spacer
+ci batt 12
+ci cool 15 Quarts
+ci exha Single
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci rev 2.9
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.7
+ci 1gear 3.08
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize D78 x 14
+ci sloc Trunk
+cls 3256, LP41(\w)4(\w)([\dX]{6})
+clv 10161, 1974, Dodge, Dart Swinger Special Edition 8, Sedan
+ci axle Semifloating
+ci msrp $3988.00
+ci origin United States
+ci year 1974
+ci make Dodge
+ci prod 9274
+ci series Dart Swinger Special Edition 8
+ci model LP41
+ci weight 3791
+ci doors 4
+ci maker Dodge
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci fbsize 10.98
+ci ebrake Rear service brakes
+ci fuel 16
+ci oil 4
+ci tcase -NA-
+ci rdiff 4
+ci trans 4.75
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.94
+ci length 201.7
+ci wbase 111
+ci height 54.1
+ci rtred 55.4
+ci ftred 59.1
+ci width 69.6
+ci mbear 5
+ci comp 8.6
+ci cyl 8
+ci etype V8 overhead valve
+ci rhp 48.83
+ci block Cast Iron
+ci disp 317.58
+ci b&s 3 29/32 & 3 5/16
+ci englo Stamped on front of block just below left cylinder head.
+ci trq 255@2200
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci bhp 150@4000
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Yellow
+co Yellow Blaze
+ci batt 12
+ci cool 15 Quarts
+ci rad Tube and spacer
+ci exha Single
+ci ign Electronic
+ci cool Water pump
+ci equip Power brakes
+ci equip Speed control device
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci 1gear 3.08
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.7
+ci gears 3
+ci 3gear 1
+ci rev 2.9
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize D78 x 14
+cls 3257, LL23(\w)4(\w)([\dX]{6})
+clv 10162, 1974, Dodge, Dart Swinger Special V8, Hardtop
+ci axle Semifloating
+ci make Dodge
+ci origin United States
+ci msrp $2909.00
+ci series Dart Swinger Special V8
+ci prod 1944
+ci year 1974
+ci maker Dodge
+ci doors 2
+ci model LL23
+ci weight 3185
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci fbsize 10.98
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 4.75
+ci oil 4
+ci rdiff 4
+ci fuel 16
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci length 201.7
+ci wbase 111
+ci width 69.6
+ci height 54.1
+ci rtred 55.4
+ci ftred 59.1
+ci cyl 8
+ci mbear 5
+ci comp 8.6
+ci englo Stamped on front of block just below left cylinder head.
+ci rhp 48.83
+ci block Cast Iron
+ci etype Fully synchronized
+ci b&s 3 29/32 & 3 5/16
+ci bhp 150@4000
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci disp 317.58
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 255@2200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci ign Electronic
+ci rad Tube and spacer
+ci batt 12
+ci cool 15 Quarts
+ci exha Single
+ci cool Water pump
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci rev 2.9
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.7
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize D78 x 14
+ci sloc Trunk
+cls 3258, LH23(\w)4(\w)([\dX]{6})
+clv 10163, 1974, Dodge, Dart Swinger V8, Hardtop
+ci axle Semifloating
+ci series Dart Swinger V8
+ci origin United States
+ci year 1974
+ci msrp $3064.00
+ci make Dodge
+ci prod 33116
+ci maker Dodge
+ci doors 2
+ci model LH23
+ci weight 3180
+ci bsize 10
+ci fbsize 10.98
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci rdiff 4
+ci tcase -NA-
+ci trans 4.75
+ci fuel 16
+ci oil 4
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci length 201.7
+ci wbase 111
+ci width 69.6
+ci height 54.1
+ci rtred 55.4
+ci ftred 59.1
+ci comp 8.6
+ci cyl 8
+ci mbear 5
+ci trq 255@2200
+ci disp 317.58
+ci block Cast Iron
+ci etype V8 overhead valve
+ci bhp 150@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 29/32 & 3 5/16
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci englo Stamped on front of block just below left cylinder head.
+ci rhp 48.83
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci exha Single
+ci cool 15 Quarts
+ci batt 12
+ci rad Tube and spacer
+ci ign Electronic
+ci cool Water pump
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.7
+ci 1gear 3.08
+ci rev 2.9
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize D78 x 14
+ci sloc Trunk
+cls 3259, LL41(\w)4(\w)([\dX]{6})
+clv 10164, 1974, Dodge, Dart V8, Sedan
+ci axle Semifloating
+ci series Dart V8
+ci origin United States
+ci year 1974
+ci make Dodge
+ci msrp $2951.00
+ci maker Dodge
+ci model LL41
+ci weight 3205
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 10
+ci fbsize 10.98
+ci svc Front disc rear self-adjusting drum
+ci rdiff 4
+ci oil 4
+ci trans 4.75
+ci fuel 16
+ci tcase -NA-
+ci carb Carter
+ci csize 10.5 inches
+ci ctype Single dry plate
+ci diffr 2.94
+ci diff Hypoid
+ci ftred 59.1
+ci length 201.7
+ci wbase 111
+ci height 54.1
+ci rtred 55.4
+ci width 69.6
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.6
+ci disp 317.58
+ci bhp 150@4000
+ci block Cast Iron
+ci englo Stamped on front of block just below left cylinder head.
+ci mbear 5
+ci etype Fully synchronized
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci trq 255@2200
+ci vlift Hydraulic
+ci rhp 48.83
+ci b&s 3 29/32 & 3 5/16
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci ign Electronic
+ci rad Tube and spacer
+ci batt 12
+ci cool 15 Quarts
+ci exha Single
+ci cool Water pump
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci rev 2.9
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.7
+ci 1gear 3.08
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize D78 x 14
+ci sloc Trunk
+cls 3260, DP23(\w)4(\w)([\dX]{6})
+clv 10165, 1974, Dodge, Monaco Brougham, Hardtop
+ci axle Semifloating
+ci origin United States
+ci series Monaco Brougham
+ci make Dodge
+ci msrp $4729.00
+ci prod 18226
+ci year 1974
+ci model DP23
+ci weight 4445
+ci doors 4
+ci maker Dodge
+ci fbsize 11.75
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 19
+ci oil 4
+ci fuel 25
+ci rdiff 4
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci rtred 63.4
+ci height 54.2
+ci ftred 64
+ci width 79.3
+ci length 220.5
+ci wbase 121.5
+ci b&s 4.34 & 3.38
+ci bhp 185@4000
+ci trq 315@2400
+ci comp 8.2
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci rhp 60.27
+ci disp 400
+ci vlift Hydraulic
+ci etype V8 valve-in-head
+ci etype Torqueflite automatic
+ci englo Stamped on block just forward of number 2 cylinder bore adjacdnt to the distributor.
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci exha Single
+ci ign Electronic
+ci batt 12
+ci cool 16 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip 400 cu. in. V8 engine
+ci equip 440 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Power
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize JR78 x 15
+ci sloc Trunk
+cls 3261, DP43(\w)4(\w)([\dX]{6})
+clv 10166, 1974, Dodge, Monaco Brougham, Hardtop
+ci axle Semifloating
+ci origin United States
+ci series Monaco Brougham
+ci make Dodge
+ci msrp $4682.00
+ci prod 18226
+ci year 1974
+ci model DP43
+ci weight 4370
+ci maker Dodge
+ci doors 2
+ci bsize 11
+ci fbsize 11.75
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci trans 19
+ci oil 4
+ci fuel 25
+ci rdiff 4
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci rtred 63.4
+ci height 54.2
+ci ftred 64
+ci width 79.3
+ci length 220.5
+ci wbase 121.5
+ci b&s 4.34 & 3.38
+ci bhp 185@4000
+ci trq 315@2400
+ci comp 8.2
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci rhp 60.27
+ci etype V8 valve-in-head
+ci vlift Hydraulic
+ci disp 400
+ci etype Torqueflite automatic
+ci englo Stamped on block just forward of number 2 cylinder bore adjacdnt to the distributor.
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci exha Single
+ci ign Electronic
+ci batt 12
+ci cool 16 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip 400 cu. in. V8 engine
+ci equip 440 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Power
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize JR78 x 15
+ci sloc Trunk
+cls 3262, DP41(\w)4(\w)([\dX]{6})
+clv 10167, 1974, Dodge, Monaco Brougham, Sedan
+ci axle Semifloating
+ci origin United States
+ci series Monaco Brougham
+ci make Dodge
+ci msrp $4624.00
+ci prod 18226
+ci year 1974
+ci model DP41
+ci weight 4410
+ci doors 4
+ci maker Dodge
+ci fbsize 11.75
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 19
+ci oil 4
+ci fuel 25
+ci rdiff 4
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci rtred 63.4
+ci height 54.2
+ci ftred 64
+ci width 79.3
+ci length 220.5
+ci wbase 121.5
+ci b&s 4.34 & 3.38
+ci bhp 185@4000
+ci trq 315@2400
+ci comp 8.2
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci rhp 60.27
+ci disp 400
+ci vlift Hydraulic
+ci etype V8 valve-in-head
+ci etype Torqueflite automatic
+ci englo Stamped on block just forward of number 2 cylinder bore adjacdnt to the distributor.
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci exha Single
+ci ign Electronic
+ci batt 12
+ci cool 16 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip 400 cu. in. V8 engine
+ci equip 440 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Power
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize JR78 x 15
+ci sloc Trunk
+cls 3263, DP45(\w)4(\w)([\dX]{6})
+clv 10168, 1974, Dodge, Monaco Brougham, Station Wagon 2-seat
+ci axle Semifloating
+ci origin United States
+ci make Dodge
+ci year 1974
+ci msrp $5080.00
+ci prod 18226
+ci series Monaco Brougham
+ci weight 4860
+ci maker Dodge
+ci model DP45
+ci doors 4
+ci pass 6
+ci fbsize 11.75
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fuel 25
+ci oil 4
+ci trans 19
+ci tcase -NA-
+ci rdiff 4
+ci carb Holley
+ci ctype Not applicable
+ci diffr 2.71
+ci diff Hypoid
+ci rtred 63.4
+ci height 58.5
+ci ftred 64
+ci width 79.4
+ci length 223.6
+ci wbase 121.5
+ci b&s 4.34 & 3.38
+ci bhp 185@4000
+ci trq 315@2400
+ci comp 8.2
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci rhp 60.27
+ci disp 400
+ci vlift Hydraulic
+ci etype V8 valve-in-head
+ci etype Torqueflite automatic
+ci englo Stamped on block just forward of number 2 cylinder bore adjacdnt to the distributor.
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci exha Single
+ci ign Electronic
+ci batt 12
+ci cool 16 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip 440 cu. in. V8 engine
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Power
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize LR78 x 15
+ci sloc Trunk
+cls 3264, DP46(\w)4(\w)([\dX]{6})
+clv 10169, 1974, Dodge, Monaco Brougham, Station Wagon 3-seat
+ci axle Semifloating
+ci origin United States
+ci make Dodge
+ci year 1974
+ci msrp $5193.00
+ci prod 18226
+ci series Monaco Brougham
+ci weight 4905
+ci maker Dodge
+ci model DP46
+ci doors 4
+ci pass 9
+ci fbsize 11.75
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fuel 25
+ci oil 4
+ci trans 19
+ci tcase -NA-
+ci rdiff 4
+ci carb Holley
+ci ctype Not applicable
+ci diffr 2.71
+ci diff Hypoid
+ci ftred 64
+ci rtred 63.4
+ci width 79.4
+ci height 58.5
+ci length 223.6
+ci wbase 121.5
+ci b&s 4.34 & 3.38
+ci bhp 185@4000
+ci trq 315@2400
+ci disp 400
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.2
+ci cyl 8
+ci rhp 60.27
+ci vlift Hydraulic
+ci etype V8 valve-in-head
+ci etype Torqueflite automatic
+ci englo Stamped on block just forward of number 2 cylinder bore adjacdnt to the distributor.
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci exha Single
+ci ign Electronic
+ci batt 12
+ci cool 16 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip 440 cu. in. V8 engine
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Power
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent torsion bar
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize LR78 x 15
+ci sloc Trunk
+cls 3265, DH23(\w)4(\w)([\dX]{6})
+clv 10170, 1974, Dodge, Monaco Custom, Hardtop
+ci axle Semifloating
+ci make Dodge
+ci msrp $4185.00
+ci series Monaco Custom
+ci year 1974
+ci origin United States
+ci prod 34414
+ci weight 4205
+ci maker Dodge
+ci model DH23
+ci doors 4
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fbsize 11.75
+ci tcase -NA-
+ci oil 4
+ci trans 19
+ci rdiff 4
+ci fuel 25
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.71
+ci diff Hypoid
+ci rtred 63.4
+ci height 54.2
+ci length 220.5
+ci wbase 121.5
+ci width 79.3
+ci ftred 64
+ci bhp 185@4000
+ci englo Stamped on block just forward of number 2 cylinder bore adjacdnt to the distributor.
+ci cyl 8
+ci comp 8.2
+ci disp 360
+ci b&s 4 & 3 37/64
+ci etype Dual downdraft
+ci rhp 51.2
+ci trq 315@2400
+ci vlift Hydraulic
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci etype Torqueflite automatic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci exha Single
+ci cool 16 Quarts
+ci ign Electronic
+ci cool Water pump
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip 440 cu. in. V8 engine
+ci equip Power seats
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize JR78 x 15
+cls 3266, DH43(\w)4(\w)([\dX]{6})
+clv 10171, 1974, Dodge, Monaco Custom, Hardtop
+ci axle Semifloating
+ci series Monaco Custom
+ci make Dodge
+ci year 1974
+ci msrp $4112.00
+ci prod 34414
+ci origin United States
+ci model DH43
+ci maker Dodge
+ci doors 2
+ci weight 4155
+ci ebrake Rear service brakes
+ci fbsize 11.75
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci trans 19
+ci fuel 25
+ci rdiff 4
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci ftred 64
+ci height 54.2
+ci rtred 63.4
+ci wbase 121.5
+ci width 79.3
+ci length 220.5
+ci comp 8.2
+ci mbear 5
+ci cyl 8
+ci etype V8 overhead valve
+ci rhp 51.2
+ci englo Stamped on block just forward of number 2 cylinder bore adjacdnt to the distributor.
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3 37/64
+ci vlift Hydraulic
+ci trq 315@2400
+ci etype Torqueflite automatic
+ci bhp 185@4000
+ci disp 360
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci cool Water pump
+ci cool 16 Quarts
+ci ign Electronic
+ci equip Radio
+ci equip Power windows
+ci equip Air conditioning
+ci equip Power seats
+ci equip 400 cu. in. V8 engine
+ci equip Speed control device
+ci equip 440 cu. in. V8 engine
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize JR78 x 15
+cls 3267, DH41(\w)4(\w)([\dX]{6})
+clv 10172, 1974, Dodge, Monaco Custom, Sedan
+ci axle Semifloating
+ci make Dodge
+ci msrp $4095.00
+ci series Monaco Custom
+ci year 1974
+ci origin United States
+ci prod 34414
+ci weight 4175
+ci maker Dodge
+ci model DH41
+ci doors 4
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fbsize 11.75
+ci tcase -NA-
+ci oil 4
+ci trans 19
+ci rdiff 4
+ci fuel 25
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.71
+ci diff Hypoid
+ci rtred 63.4
+ci height 54.2
+ci length 220.5
+ci wbase 121.5
+ci width 79.3
+ci ftred 64
+ci bhp 185@4000
+ci englo Stamped on block just forward of number 2 cylinder bore adjacdnt to the distributor.
+ci cyl 8
+ci comp 8.2
+ci disp 360
+ci b&s 4 & 3 37/64
+ci etype Dual downdraft
+ci rhp 51.2
+ci trq 315@2400
+ci vlift Hydraulic
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci etype Torqueflite automatic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci exha Single
+ci cool 16 Quarts
+ci ign Electronic
+ci cool Water pump
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip 440 cu. in. V8 engine
+ci equip Power seats
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize JR78 x 15
+cls 3268, DH45(\w)4(\w)([\dX]{6})
+clv 10173, 1974, Dodge, Monaco Custom, Station Wagon 2-seat
+ci axle Semifloating
+ci origin United States
+ci make Dodge
+ci prod 34414
+ci msrp $4477.00
+ci year 1974
+ci series Monaco Custom
+ci doors 4
+ci weight 4770
+ci maker Dodge
+ci pass 6
+ci model DH45
+ci fbsize 11.75
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci trans 19
+ci fuel 25
+ci rdiff 4
+ci tcase -NA-
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.71
+ci diff Hypoid
+ci rtred 63.4
+ci wbase 121.5
+ci height 58.5
+ci ftred 64
+ci width 79.4
+ci length 223.6
+ci disp 360
+ci bhp 185@4000
+ci cyl 8
+ci etype V8 overhead valve
+ci rhp 51.2
+ci mbear 5
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3 37/64
+ci vlift Hydraulic
+ci trq 315@2400
+ci englo Stamped on block just forward of number 2 cylinder bore adjacdnt to the distributor.
+ci etype Torqueflite automatic
+ci comp 8.2
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci exha Single
+ci batt 12
+ci ign Electronic
+ci cool 16 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip Air conditioning
+ci equip 440 cu. in. V8 engine
+ci equip 400 cu. in. V8 engine
+ci equip Speed control device
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize LR78 x 15
+cls 3269, DH46(\w)4(\w)([\dX]{6})
+clv 10174, 1974, Dodge, Monaco Custom, Station Wagon 3-seat
+ci axle Semifloating
+ci origin United States
+ci make Dodge
+ci prod 34414
+ci msrp $4591.00
+ci year 1974
+ci series Monaco Custom
+ci doors 4
+ci weight 4815
+ci maker Dodge
+ci pass 9
+ci model DH46
+ci fbsize 11.75
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci trans 19
+ci fuel 25
+ci rdiff 4
+ci tcase -NA-
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.71
+ci diff Hypoid
+ci ftred 64
+ci rtred 63.4
+ci height 58.5
+ci width 79.4
+ci wbase 121.5
+ci length 223.6
+ci disp 360
+ci bhp 185@4000
+ci comp 8.2
+ci cyl 8
+ci rhp 51.2
+ci mbear 5
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3 37/64
+ci vlift Hydraulic
+ci trq 315@2400
+ci englo Stamped on block just forward of number 2 cylinder bore adjacdnt to the distributor.
+ci etype Torqueflite automatic
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci exha Single
+ci batt 12
+ci ign Electronic
+ci cool 16 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip Air conditioning
+ci equip 440 cu. in. V8 engine
+ci equip 400 cu. in. V8 engine
+ci equip Speed control device
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize LR78 x 15
+cls 3270, DM23(\w)4(\w)([\dX]{6})
+clv 10175, 1974, Dodge, Monaco, Hardtop
+ci axle Semifloating
+ci series Monaco
+ci make Dodge
+ci year 1974
+ci msrp $3936.00
+ci prod 20810
+ci origin United States
+ci model DM23
+ci maker Dodge
+ci doors 2
+ci weight 4150
+ci ebrake Rear service brakes
+ci fbsize 11.75
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci tcase -NA-
+ci trans 19
+ci fuel 25
+ci rdiff 4
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci ftred 64
+ci height 54.2
+ci rtred 63.4
+ci length 220.5
+ci width 79.3
+ci wbase 121.5
+ci etype V8 overhead valve
+ci cyl 8
+ci bhp 185@4000
+ci comp 8.2
+ci englo Stamped on block just forward of number 2 cylinder bore adjacdnt to the distributor.
+ci b&s 4 & 3 37/64
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 315@2400
+ci vlift Hydraulic
+ci etype Torqueflite automatic
+ci mbear 5
+ci rhp 51.2
+ci disp 360
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci rad Tube and spacer
+ci batt 12
+ci exha Single
+ci cool Water pump
+ci cool 16 Quarts
+ci ign Electronic
+ci equip Radio
+ci equip Power windows
+ci equip Air conditioning
+ci equip Power seats
+ci equip 400 cu. in. V8 engine
+ci equip Speed control device
+ci equip 440 cu. in. V8 engine
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize JR78 x 15
+cls 3271, DM41(\w)4(\w)([\dX]{6})
+clv 10176, 1974, Dodge, Monaco, Sedan
+ci axle Semifloating
+ci make Dodge
+ci msrp $3913.00
+ci series Monaco
+ci year 1974
+ci origin United States
+ci prod 20810
+ci weight 4170
+ci maker Dodge
+ci model DM41
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.75
+ci tcase -NA-
+ci trans 19
+ci fuel 25
+ci rdiff 4
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci ftred 64
+ci height 54.2
+ci rtred 63.4
+ci wbase 121.5
+ci width 79.3
+ci length 220.5
+ci comp 8.2
+ci englo Stamped on block just forward of number 2 cylinder bore adjacdnt to the distributor.
+ci mbear 5
+ci bhp 185@4000
+ci cyl 8
+ci rhp 51.2
+ci etype Dual downdraft
+ci b&s 4 & 3 37/64
+ci disp 360
+ci vlift Hydraulic
+ci trq 315@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci etype Torqueflite automatic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci exha Single
+ci cool 16 Quarts
+ci ign Electronic
+ci cool Water pump
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip 440 cu. in. V8 engine
+ci equip Power seats
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize JR78 x 15
+cls 3272, DM45(\w)4(\w)([\dX]{6})
+clv 10177, 1974, Dodge, Monaco, Station Wagon 2-seat
+ci axle Semifloating
+ci make Dodge
+ci msrp $4347.00
+ci series Monaco
+ci year 1974
+ci origin United States
+ci prod 20810
+ci weight 4760
+ci maker Dodge
+ci model DM45
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.75
+ci tcase -NA-
+ci trans 19
+ci fuel 25
+ci rdiff 4
+ci oil 4
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.71
+ci ftred 64
+ci height 58.5
+ci rtred 63.4
+ci wbase 121.5
+ci width 79.4
+ci length 223.6
+ci comp 8.2
+ci englo Stamped on block just forward of number 2 cylinder bore adjacdnt to the distributor.
+ci mbear 5
+ci bhp 185@4000
+ci cyl 8
+ci rhp 51.2
+ci etype Dual downdraft
+ci b&s 4 & 3 37/64
+ci disp 360
+ci vlift Hydraulic
+ci trq 315@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci etype Torqueflite automatic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Avocado Gold Metallic
+co Aztec Gold Metallic
+co Black
+co Bright Red
+co Dark Chestnut Metallic
+co Dark Gold Metallic
+co Dark Moonstone Metallic
+co Dark Silver Metallic
+co Deep Sherwood Metallic
+co Eggshell White
+co Frosty Green Metallic
+co Gold Metallic
+co Golden Fawn
+co Lucerne Blue
+co Parchment
+co Powder Blue
+co Sienna Metallic
+co Starlight Blue Metallic
+co Two Tone Colors Available
+co Yellow
+co Yellow Blaze
+ci batt 12
+ci rad Tube and spacer
+ci exha Single
+ci cool 16 Quarts
+ci ign Electronic
+ci cool Water pump
+ci equip Speed control device
+ci equip Radio
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip 440 cu. in. V8 engine
+ci equip Power seats
+ci sgear Power
+ci fsus Independent torsion bar
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize LR78 x 15

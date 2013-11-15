@@ -1,0 +1,255 @@
+cls 4226, 1(\w)86(\w)([\dX]{6})
+clv 17394, 1961, Lincoln, Continental, Convertible
+ci axle Semifloating
+ci origin United States
+ci make Lincoln
+ci series Continental
+ci msrp $6166.00
+ci year 1961
+ci prod 2857
+ci weight 5215
+ci maker Lincoln
+ci model 74A
+ci doors 2
+ci bsize 11
+ci svc Power hydraulic
+ci ebrake Rear service brakes
+ci trans 23
+ci tcase -NA-
+ci rdiff 4.75
+ci oil 5
+ci fuel 21
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.89
+ci diff Hypoid
+ci height 55.1
+ci rtred 61
+ci length 212.4
+ci wbase 123
+ci width 78.6
+ci ftred 62.1
+ci bhp 300@4100
+ci cyl 8
+ci b&s 4 19/64 & 3 45/64
+ci comp 10.0
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual throat
+ci etype Turbo Drive
+ci englo On left front door hinge post below upper hinge opening.
+ci disp 429.59
+ci vlift Hydraulic
+ci rhp 59.08
+ci trq 465@2000
+ci mbear 5
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Black Cherry Metallic
+co Blue Haze
+co Briar Brown Metallic
+co Columbia Blue Metallic
+co Corinthian White
+co Crystal Green Metallic
+co Desert Frost Metallic
+co Empress Blue Metallic
+co Enamel
+co Executive Gray Metallic
+co Green Velvet Metallic
+co Honey Beige
+co Monte Carlo Red
+co Platinum
+co Regency Turquoise Metallic
+co Rose Glow Metallic
+co Royal Red Metallic
+co Saxon Green Metallic
+co Sheffield Gray Metallic
+co Sultana White
+co Summer Rose
+co Sunburst Yellow
+co Turquoise Mist
+co Two Tone Colors Available
+ci batt 12
+ci cool 22 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci exha Dual with crossover
+ci cool Centrifugal pump with thermostat
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci sloc Trunk
+ci tsize 9 x 14
+cls 4227, 1(\w)86(\w)([\dX]{6})
+clv 17395, 1961, Lincoln, Continental, Hardtop
+ci axle Semifloating
+ci series Continental
+ci origin United States
+ci make Lincoln
+ci year 1961
+ci maker Lincoln
+ci model 57C
+ci doors 4
+ci bsize 11
+ci svc Power hydraulic
+ci ebrake Rear service brakes
+ci trans 23
+ci fuel 21
+ci oil 5
+ci rdiff 4.75
+ci tcase -NA-
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.89
+ci diff Hypoid
+ci wbase 123
+ci height 55.1
+ci rtred 61
+ci ftred 62.1
+ci width 78.6
+ci length 212.4
+ci comp 10.0
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci bhp 300@4100
+ci etype Dual throat
+ci englo On left front door hinge post below upper hinge opening.
+ci b&s 4 19/64 & 3 45/64
+ci disp 429.59
+ci vlift Hydraulic
+ci rhp 59.08
+ci trq 465@2000
+ci mbear 5
+ci etype Turbo Drive
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Black Cherry Metallic
+co Blue Haze
+co Briar Brown Metallic
+co Columbia Blue Metallic
+co Corinthian White
+co Crystal Green Metallic
+co Desert Frost Metallic
+co Empress Blue Metallic
+co Enamel
+co Executive Gray Metallic
+co Green Velvet Metallic
+co Honey Beige
+co Monte Carlo Red
+co Platinum
+co Regency Turquoise Metallic
+co Rose Glow Metallic
+co Royal Red Metallic
+co Saxon Green Metallic
+co Sheffield Gray Metallic
+co Sultana White
+co Summer Rose
+co Sunburst Yellow
+co Turquoise Mist
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool 22 Quarts
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci exha Dual with crossover
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci sloc Trunk
+ci tsize 9 x 14
+cls 4228, 1(\w)82(\w)([\dX]{6})
+clv 17396, 1961, Lincoln, Continental, Sedan
+ci axle Semifloating
+ci year 1961
+ci make Lincoln
+ci origin United States
+ci msrp $5565.00
+ci series Continental
+ci prod 22303
+ci weight 4927
+ci doors 4
+ci model 53A
+ci maker Lincoln
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power hydraulic
+ci trans 23
+ci tcase -NA-
+ci rdiff 4.75
+ci fuel 21
+ci oil 5
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.89
+ci height 55.1
+ci wbase 123
+ci rtred 61
+ci length 212.4
+ci width 78.6
+ci ftred 62.1
+ci b&s 4 19/64 & 3 45/64
+ci cyl 8
+ci disp 429.59
+ci comp 10.0
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual throat
+ci bhp 300@4100
+ci englo On left front door hinge post below upper hinge opening.
+ci rhp 59.08
+ci vlift Hydraulic
+ci mbear 5
+ci etype Turbo Drive
+ci trq 465@2000
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aquamarine
+co Black Cherry Metallic
+co Blue Haze
+co Briar Brown Metallic
+co Columbia Blue Metallic
+co Corinthian White
+co Crystal Green Metallic
+co Desert Frost Metallic
+co Empress Blue Metallic
+co Enamel
+co Executive Gray Metallic
+co Green Velvet Metallic
+co Honey Beige
+co Monte Carlo Red
+co Platinum
+co Regency Turquoise Metallic
+co Rose Glow Metallic
+co Royal Red Metallic
+co Saxon Green Metallic
+co Sheffield Gray Metallic
+co Sultana White
+co Summer Rose
+co Sunburst Yellow
+co Turquoise Mist
+co Two Tone Colors Available
+ci batt 12
+ci cool 22 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci exha Dual with crossover
+ci cool Centrifugal pump with thermostat
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci sloc Trunk
+ci tsize 9 x 14

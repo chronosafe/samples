@@ -1,0 +1,1221 @@
+cls 6562, 859(\w)([\dX]{5})
+clv 26219, 1959, Pontiac, Bonneville, Convertible Coupe
+ci axle Semifloating
+ci series Bonneville
+ci origin United States
+ci make Pontiac
+ci prod 11426
+ci year 1959
+ci msrp $3175.00
+ci model 2867
+ci doors 2
+ci weight 4060
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci fuel 21.5
+ci oil 5
+ci trans 2.5
+ci rdiff 5.5
+ci tcase -NA-
+ci carb Carter
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 124
+ci ftred 63.7
+ci rtred 64
+ci width 80.7
+ci length 220.7
+ci height 54
+ci mbear 5
+ci trq 400@2800
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.6
+ci b&s 4 1/16 & 3 3/4
+ci block Alloy cast iron
+ci etype Unknown at time of publication
+ci disp 388.86
+ci englo On pad at front of right side of block.
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci bhp 260@4200
+ci rhp 52.81
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cameo Ivory
+co Canyon Copper Metallic
+co Castle Blue
+co Concord Blue Metallic
+co Dundee Green Metallic
+co Gulfstream Blue Metallic
+co Jademist Green
+co Lacquer
+co Mandalay Red
+co Royal Amethyst Metallic
+co Seaspray Green
+co Shoreline Gold Metallic
+co Silver Satin Metallic
+co Silvermist Gray Metallic
+co Sunset Glow Metallic
+co Two Tone Colors Available
+co Vanguard Blue Metallic
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci cool 21.4 Quarts
+ci batt 12
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Recirculating ball bearing
+ci rsus Pivoted control arms
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.21
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.51
+ci 5gear Not applicable
+ci 2gear 1.32
+ci gears 3
+ci vloc Plate on left front hinge pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 6563, 759(\w)([\dX]{5})
+clv 26220, 1959, Pontiac, Bonneville, Custom Safari
+ci axle Semifloating
+ci series Bonneville
+ci prod 4673
+ci origin United States
+ci msrp $3225.00
+ci make Pontiac
+ci year 1959
+ci maker Fisher
+ci pass 6
+ci weight 4355
+ci doors 4
+ci model 2735
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 2.5
+ci oil 5
+ci tcase -NA-
+ci rdiff 5.5
+ci fuel 21.5
+ci carb Carter
+ci ctype Single plate dry disc
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 64
+ci width 80.7
+ci length 214.3
+ci ftred 63.7
+ci height 56.3
+ci wbase 124
+ci disp 388.86
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.6
+ci trq 400@2800
+ci block Alloy cast iron
+ci b&s 4 1/16 & 3 3/4
+ci rhp 52.81
+ci etype Unknown at time of publication
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci bhp 260@4200
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Cameo Ivory
+co Canyon Copper Metallic
+co Castle Blue
+co Concord Blue Metallic
+co Dundee Green Metallic
+co Gulfstream Blue Metallic
+co Jademist Green
+co Lacquer
+co Mandalay Red
+co Royal Amethyst Metallic
+co Seaspray Green
+co Shoreline Gold Metallic
+co Silver Satin Metallic
+co Silvermist Gray Metallic
+co Sunset Glow Metallic
+co Two Tone Colors Available
+co Vanguard Blue Metallic
+ci cool 21.4 Quarts
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci ign Distributor and coil
+ci batt 12
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Recirculating ball bearing
+ci fsus Independent ball joint with coil springs
+ci rsus Pivoted control arms
+ci rev 2.51
+ci drive Rear wheel drive
+ci 1gear 2.21
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.32
+ci vloc Plate on left front hinge pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 6564, 859(\w)([\dX]{5})
+clv 26221, 1959, Pontiac, Bonneville, Sport Coupe
+ci axle Semifloating
+ci make Pontiac
+ci origin United States
+ci series Bonneville
+ci prod 27769
+ci msrp $2970.00
+ci year 1959
+ci weight 3970
+ci doors 2
+ci model 2837
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 5.5
+ci trans 2.5
+ci oil 5
+ci fuel 21.5
+ci carb Carter
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 124
+ci rtred 64
+ci width 80.7
+ci length 220.7
+ci ftred 63.7
+ci height 54
+ci rhp 52.81
+ci mbear 5
+ci cyl 8
+ci trq 400@2800
+ci comp 8.6
+ci disp 388.86
+ci block Alloy cast iron
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci englo On pad at front of right side of block.
+ci bhp 260@4200
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 1/16 & 3 3/4
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cameo Ivory
+co Canyon Copper Metallic
+co Castle Blue
+co Concord Blue Metallic
+co Dundee Green Metallic
+co Gulfstream Blue Metallic
+co Jademist Green
+co Lacquer
+co Mandalay Red
+co Royal Amethyst Metallic
+co Seaspray Green
+co Shoreline Gold Metallic
+co Silver Satin Metallic
+co Silvermist Gray Metallic
+co Sunset Glow Metallic
+co Two Tone Colors Available
+co Vanguard Blue Metallic
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci cool 21.4 Quarts
+ci batt 12
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Recirculating ball bearing
+ci rsus Pivoted control arms
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.21
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.51
+ci 5gear Not applicable
+ci 2gear 1.32
+ci gears 3
+ci vloc Plate on left front hinge pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 6565, 859(\w)([\dX]{5})
+clv 26222, 1959, Pontiac, Bonneville, Vista Sedan
+ci axle Semifloating
+ci series Bonneville
+ci prod 38696
+ci origin United States
+ci msrp $3040.00
+ci year 1959
+ci make Pontiac
+ci weight 4070
+ci maker Fisher
+ci doors 4
+ci model 2839
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci fuel 21.5
+ci trans 2.5
+ci rdiff 5.5
+ci tcase -NA-
+ci oil 5
+ci carb Carter
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 124
+ci rtred 64
+ci height 54.6
+ci length 220.7
+ci ftred 63.7
+ci width 80.7
+ci rhp 52.81
+ci mbear 5
+ci cyl 8
+ci etype Unknown at time of publication
+ci comp 8.6
+ci trq 400@2800
+ci block Alloy cast iron
+ci b&s 4 1/16 & 3 3/4
+ci disp 388.86
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci bhp 260@4200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cameo Ivory
+co Canyon Copper Metallic
+co Castle Blue
+co Concord Blue Metallic
+co Dundee Green Metallic
+co Gulfstream Blue Metallic
+co Jademist Green
+co Lacquer
+co Mandalay Red
+co Royal Amethyst Metallic
+co Seaspray Green
+co Shoreline Gold Metallic
+co Silver Satin Metallic
+co Silvermist Gray Metallic
+co Sunset Glow Metallic
+co Two Tone Colors Available
+co Vanguard Blue Metallic
+ci cool 21.4 Quarts
+ci exha Single with crossover
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Recirculating ball bearing
+ci fsus Independent ball joint with coil springs
+ci rsus Pivoted control arms
+ci rev 2.51
+ci drive Rear wheel drive
+ci 1gear 2.21
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.32
+ci vloc Plate on left front hinge pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 6566, 159(\w)([\dX]{5})
+clv 26223, 1959, Pontiac, Catalina, Convertible Coupe
+ci axle Semifloating
+ci series Catalina
+ci year 1959
+ci origin United States
+ci msrp $2805.00
+ci prod 14515
+ci make Pontiac
+ci weight 3955
+ci doors 2
+ci model 2167
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci oil 5
+ci fuel 21.5
+ci tcase -NA-
+ci rdiff 5.5
+ci trans 2.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.23
+ci diff Hypoid
+ci length 213.7
+ci rtred 64
+ci height 54
+ci wbase 122
+ci ftred 63.7
+ci width 80.7
+ci rhp 52.81
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.6
+ci b&s 4 1/16 & 3 3/4
+ci block Alloy cast iron
+ci trq 392@2000
+ci etype Unknown at time of publication
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 388.86
+ci bhp 245@4200
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Cameo Ivory
+co Canyon Copper Metallic
+co Castle Blue
+co Concord Blue Metallic
+co Dundee Green Metallic
+co Gulfstream Blue Metallic
+co Jademist Green
+co Lacquer
+co Mandalay Red
+co Royal Amethyst Metallic
+co Seaspray Green
+co Shoreline Gold Metallic
+co Silver Satin Metallic
+co Silvermist Gray Metallic
+co Sunset Glow Metallic
+co Two Tone Colors Available
+co Vanguard Blue Metallic
+ci exha Single with crossover
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 21.4 Quarts
+ci equip Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball bearing
+ci fsus Independent ball joint with coil springs
+ci rsus Pivoted control arms
+ci gears 3
+ci 1gear 2.21
+ci drive Rear wheel drive
+ci 2gear 1.32
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.51
+ci vloc Plate on left front hinge pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 6567, 159(\w)([\dX]{5})
+clv 26224, 1959, Pontiac, Catalina, Safari - 2 seat
+ci axle Semifloating
+ci prod 21162
+ci make Pontiac
+ci origin United States
+ci msrp $2825.00
+ci year 1959
+ci series Catalina
+ci maker Fisher
+ci doors 4
+ci model 2135
+ci weight 4315
+ci pass 6
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci trans 2.5
+ci oil 5
+ci rdiff 5.5
+ci fuel 21.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 122
+ci rtred 64
+ci length 214.3
+ci ftred 63.7
+ci height 56.3
+ci width 80.7
+ci comp 8.6
+ci mbear 5
+ci cyl 8
+ci etype Unknown at time of publication
+ci rhp 52.81
+ci b&s 4 1/16 & 3 3/4
+ci block Alloy cast iron
+ci trq 392@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci englo On pad at front of right side of block.
+ci disp 388.86
+ci bhp 245@4200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cameo Ivory
+co Canyon Copper Metallic
+co Castle Blue
+co Concord Blue Metallic
+co Dundee Green Metallic
+co Gulfstream Blue Metallic
+co Jademist Green
+co Lacquer
+co Mandalay Red
+co Royal Amethyst Metallic
+co Seaspray Green
+co Shoreline Gold Metallic
+co Silver Satin Metallic
+co Silvermist Gray Metallic
+co Sunset Glow Metallic
+co Two Tone Colors Available
+co Vanguard Blue Metallic
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci cool 21.4 Quarts
+ci exha Single with crossover
+ci ign Distributor and coil
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Hydramatic automatic transmission
+ci sgear Recirculating ball bearing
+ci fsus Independent ball joint with coil springs
+ci rsus Pivoted control arms
+ci rev 2.51
+ci 1gear 2.21
+ci drive Rear wheel drive
+ci 2gear 1.32
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci vloc Plate on left front hinge pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 6568, 159(\w)([\dX]{5})
+clv 26225, 1959, Pontiac, Catalina, Safari - 3 seat
+ci axle Semifloating
+ci year 1959
+ci series Catalina
+ci origin United States
+ci msrp $2925.00
+ci prod 14084
+ci make Pontiac
+ci pass 9
+ci weight 4390
+ci maker Fisher
+ci doors 4
+ci model 2145
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci fuel 21.5
+ci rdiff 5.5
+ci oil 5
+ci trans 2.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 122
+ci ftred 63.7
+ci length 214.3
+ci rtred 64
+ci height 56.3
+ci width 80.7
+ci rhp 52.81
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.6
+ci mbear 5
+ci b&s 4 1/16 & 3 3/4
+ci block Alloy cast iron
+ci trq 392@2000
+ci etype Unknown at time of publication
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 388.86
+ci bhp 245@4200
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Cameo Ivory
+co Canyon Copper Metallic
+co Castle Blue
+co Concord Blue Metallic
+co Dundee Green Metallic
+co Gulfstream Blue Metallic
+co Jademist Green
+co Lacquer
+co Mandalay Red
+co Royal Amethyst Metallic
+co Seaspray Green
+co Shoreline Gold Metallic
+co Silver Satin Metallic
+co Silvermist Gray Metallic
+co Sunset Glow Metallic
+co Two Tone Colors Available
+co Vanguard Blue Metallic
+ci exha Single with crossover
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 21.4 Quarts
+ci equip Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball bearing
+ci fsus Independent ball joint with coil springs
+ci rsus Pivoted control arms
+ci gears 3
+ci 1gear 2.21
+ci drive Rear wheel drive
+ci 2gear 1.32
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.51
+ci vloc Plate on left front hinge pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 6569, 159(\w)([\dX]{5})
+clv 26226, 1959, Pontiac, Catalina, Sedan
+ci axle Semifloating
+ci prod 72377
+ci make Pontiac
+ci origin United States
+ci msrp $2456.00
+ci year 1959
+ci series Catalina
+ci doors 4
+ci model 2119
+ci weight 3940
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci trans 2.5
+ci rdiff 5.5
+ci fuel 21.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.23
+ci diff Hypoid
+ci length 213.7
+ci wbase 122
+ci ftred 63.7
+ci rtred 64
+ci height 56.4
+ci width 80.7
+ci rhp 52.81
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.6
+ci b&s 4 1/16 & 3 3/4
+ci block Alloy cast iron
+ci trq 392@2000
+ci etype Unknown at time of publication
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 388.86
+ci bhp 245@4200
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Cameo Ivory
+co Canyon Copper Metallic
+co Castle Blue
+co Concord Blue Metallic
+co Dundee Green Metallic
+co Gulfstream Blue Metallic
+co Jademist Green
+co Lacquer
+co Mandalay Red
+co Royal Amethyst Metallic
+co Seaspray Green
+co Shoreline Gold Metallic
+co Silver Satin Metallic
+co Silvermist Gray Metallic
+co Sunset Glow Metallic
+co Two Tone Colors Available
+co Vanguard Blue Metallic
+ci exha Single with crossover
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 21.4 Quarts
+ci equip Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball bearing
+ci fsus Independent ball joint with coil springs
+ci rsus Pivoted control arms
+ci gears 3
+ci 1gear 2.21
+ci drive Rear wheel drive
+ci 2gear 1.32
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.51
+ci vloc Plate on left front hinge pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 6570, 159(\w)([\dX]{5})
+clv 26227, 1959, Pontiac, Catalina, Sport Coupe
+ci axle Semifloating
+ci make Pontiac
+ci series Catalina
+ci origin United States
+ci msrp $2515.00
+ci prod 38309
+ci year 1959
+ci doors 2
+ci model 2137
+ci maker Fisher
+ci weight 3885
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 21.5
+ci rdiff 5.5
+ci trans 2.5
+ci oil 5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.23
+ci length 213.7
+ci wbase 122
+ci width 80.7
+ci rtred 64
+ci ftred 63.7
+ci height 54
+ci comp 8.6
+ci disp 388.86
+ci cyl 8
+ci etype Unknown at time of publication
+ci rhp 52.81
+ci trq 392@2000
+ci block Alloy cast iron
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci bhp 245@4200
+ci b&s 4 1/16 & 3 3/4
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cameo Ivory
+co Canyon Copper Metallic
+co Castle Blue
+co Concord Blue Metallic
+co Dundee Green Metallic
+co Gulfstream Blue Metallic
+co Jademist Green
+co Lacquer
+co Mandalay Red
+co Royal Amethyst Metallic
+co Seaspray Green
+co Shoreline Gold Metallic
+co Silver Satin Metallic
+co Silvermist Gray Metallic
+co Sunset Glow Metallic
+co Two Tone Colors Available
+co Vanguard Blue Metallic
+ci rad Tube and center
+ci cool 21.4 Quarts
+ci exha Single with crossover
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci equip Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball bearing
+ci rsus Pivoted control arms
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.51
+ci 2gear 1.32
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.21
+ci vloc Plate on left front hinge pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 6571, 159(\w)([\dX]{5})
+clv 26228, 1959, Pontiac, Catalina, Sport Sedan
+ci axle Semifloating
+ci prod 26102
+ci series Catalina
+ci origin United States
+ci msrp $2390.00
+ci year 1959
+ci make Pontiac
+ci doors 2
+ci maker Fisher
+ci weight 3855
+ci model 2111
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci fuel 21.5
+ci rdiff 5.5
+ci trans 2.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.23
+ci length 213.7
+ci rtred 64
+ci height 56.4
+ci wbase 122
+ci ftred 63.7
+ci width 80.7
+ci rhp 52.81
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.6
+ci b&s 4 1/16 & 3 3/4
+ci block Alloy cast iron
+ci trq 392@2000
+ci etype Unknown at time of publication
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 388.86
+ci bhp 245@4200
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Cameo Ivory
+co Canyon Copper Metallic
+co Castle Blue
+co Concord Blue Metallic
+co Dundee Green Metallic
+co Gulfstream Blue Metallic
+co Jademist Green
+co Lacquer
+co Mandalay Red
+co Royal Amethyst Metallic
+co Seaspray Green
+co Shoreline Gold Metallic
+co Silver Satin Metallic
+co Silvermist Gray Metallic
+co Sunset Glow Metallic
+co Two Tone Colors Available
+co Vanguard Blue Metallic
+ci exha Single with crossover
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 21.4 Quarts
+ci equip Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball bearing
+ci fsus Independent ball joint with coil springs
+ci rsus Pivoted control arms
+ci gears 3
+ci 1gear 2.21
+ci drive Rear wheel drive
+ci 2gear 1.32
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.51
+ci vloc Plate on left front hinge pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 6572, 159(\w)([\dX]{5})
+clv 26229, 1959, Pontiac, Catalina, Vista Sedan
+ci axle Semifloating
+ci prod 45012
+ci make Pontiac
+ci origin United States
+ci msrp $2586.00
+ci year 1959
+ci series Catalina
+ci doors 4
+ci model 2139
+ci weight 3990
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci oil 5
+ci trans 2.5
+ci rdiff 5.5
+ci fuel 21.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 122
+ci rtred 64
+ci height 54.6
+ci length 213.7
+ci ftred 63.7
+ci width 80.7
+ci rhp 52.81
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.6
+ci b&s 4 1/16 & 3 3/4
+ci block Alloy cast iron
+ci trq 392@2000
+ci etype Unknown at time of publication
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 388.86
+ci bhp 245@4200
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Cameo Ivory
+co Canyon Copper Metallic
+co Castle Blue
+co Concord Blue Metallic
+co Dundee Green Metallic
+co Gulfstream Blue Metallic
+co Jademist Green
+co Lacquer
+co Mandalay Red
+co Royal Amethyst Metallic
+co Seaspray Green
+co Shoreline Gold Metallic
+co Silver Satin Metallic
+co Silvermist Gray Metallic
+co Sunset Glow Metallic
+co Two Tone Colors Available
+co Vanguard Blue Metallic
+ci exha Single with crossover
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 21.4 Quarts
+ci equip Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball bearing
+ci fsus Independent ball joint with coil springs
+ci rsus Pivoted control arms
+ci gears 3
+ci 1gear 2.21
+ci drive Rear wheel drive
+ci 2gear 1.32
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.51
+ci vloc Plate on left front hinge pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 6573, 459(\w)([\dX]{5})
+clv 26230, 1959, Pontiac, Star Chief, Sedan
+ci axle Semifloating
+ci msrp $2736.00
+ci series Star Chief
+ci make Pontiac
+ci prod 27872
+ci origin United States
+ci year 1959
+ci maker Fisher
+ci model 2419
+ci weight 3990
+ci doors 4
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 2.5
+ci oil 5
+ci rdiff 5.5
+ci tcase -NA-
+ci fuel 21.5
+ci carb Carter
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.23
+ci length 220.7
+ci wbase 124
+ci width 80.7
+ci rtred 64
+ci ftred 63.7
+ci height 56.4
+ci comp 8.6
+ci disp 388.86
+ci cyl 8
+ci etype Unknown at time of publication
+ci rhp 52.81
+ci trq 392@2000
+ci block Alloy cast iron
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci bhp 245@4200
+ci b&s 4 1/16 & 3 3/4
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Cameo Ivory
+co Canyon Copper Metallic
+co Castle Blue
+co Concord Blue Metallic
+co Dundee Green Metallic
+co Gulfstream Blue Metallic
+co Jademist Green
+co Lacquer
+co Mandalay Red
+co Royal Amethyst Metallic
+co Seaspray Green
+co Shoreline Gold Metallic
+co Silver Satin Metallic
+co Silvermist Gray Metallic
+co Sunset Glow Metallic
+co Two Tone Colors Available
+co Vanguard Blue Metallic
+ci rad Tube and center
+ci cool 21.4 Quarts
+ci exha Single with crossover
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci equip Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball bearing
+ci rsus Pivoted control arms
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.51
+ci 3gear 1
+ci 2gear 1.32
+ci 5gear Not applicable
+ci 1gear 2.21
+ci vloc Plate on left front hinge pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 6574, 459(\w)([\dX]{5})
+clv 26231, 1959, Pontiac, Star Chief, Sport Sedan
+ci axle Semifloating
+ci prod 10254
+ci series Star Chief
+ci origin United States
+ci msrp $2670.00
+ci year 1959
+ci make Pontiac
+ci model 2411
+ci doors 2
+ci weight 3915
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci oil 5
+ci fuel 21.5
+ci tcase -NA-
+ci rdiff 5.5
+ci trans 2.5
+ci carb Carter
+ci ctype Single plate dry disc
+ci diffr 3.23
+ci diff Hypoid
+ci length 220.7
+ci rtred 64
+ci height 56.4
+ci wbase 124
+ci ftred 63.7
+ci width 80.7
+ci rhp 52.81
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci comp 8.6
+ci b&s 4 1/16 & 3 3/4
+ci block Alloy cast iron
+ci trq 392@2000
+ci etype Unknown at time of publication
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 388.86
+ci bhp 245@4200
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Cameo Ivory
+co Canyon Copper Metallic
+co Castle Blue
+co Concord Blue Metallic
+co Dundee Green Metallic
+co Gulfstream Blue Metallic
+co Jademist Green
+co Lacquer
+co Mandalay Red
+co Royal Amethyst Metallic
+co Seaspray Green
+co Shoreline Gold Metallic
+co Silver Satin Metallic
+co Silvermist Gray Metallic
+co Sunset Glow Metallic
+co Two Tone Colors Available
+co Vanguard Blue Metallic
+ci exha Single with crossover
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 21.4 Quarts
+ci equip Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball bearing
+ci fsus Independent ball joint with coil springs
+ci rsus Pivoted control arms
+ci gears 3
+ci 1gear 2.21
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.32
+ci 3gear 1
+ci rev 2.51
+ci vloc Plate on left front hinge pillar post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 6575, 459(\w)([\dX]{5})
+clv 26232, 1959, Pontiac, Star Chief, Vista Sedan
+ci axle Semifloating
+ci msrp $2859.00
+ci series Star Chief
+ci origin United States
+ci make Pontiac
+ci year 1959
+ci prod 30689
+ci maker Fisher
+ci weight 4040
+ci doors 4
+ci model 2439
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 5.5
+ci fuel 21.5
+ci trans 2.5
+ci oil 5
+ci carb Carter
+ci ctype Single plate dry disc
+ci diffr 3.23
+ci diff Hypoid
+ci height 54.6
+ci width 80.7
+ci wbase 124
+ci length 220.7
+ci rtred 64
+ci ftred 63.7
+ci etype V8 Valve-in-head
+ci rhp 52.81
+ci cyl 8
+ci englo On pad at front of right side of block.
+ci comp 8.6
+ci mbear 5
+ci block Alloy cast iron
+ci b&s 4 1/16 & 3 3/4
+ci etype Unknown at time of publication
+ci bhp 245@4200
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 392@2000
+ci disp 388.86
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Cameo Ivory
+co Canyon Copper Metallic
+co Castle Blue
+co Concord Blue Metallic
+co Dundee Green Metallic
+co Gulfstream Blue Metallic
+co Jademist Green
+co Lacquer
+co Mandalay Red
+co Royal Amethyst Metallic
+co Seaspray Green
+co Shoreline Gold Metallic
+co Silver Satin Metallic
+co Silvermist Gray Metallic
+co Sunset Glow Metallic
+co Two Tone Colors Available
+co Vanguard Blue Metallic
+ci batt 12
+ci cool 21.4 Quarts
+ci ign Distributor and coil
+ci exha Single with crossover
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Hydramatic automatic transmission
+ci equip Power steering
+ci sgear Recirculating ball bearing
+ci rsus Pivoted control arms
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci rev 2.51
+ci 2gear 1.32
+ci 3gear 1
+ci 1gear 2.21
+ci vloc Plate on left front hinge pillar post.
+ci tsize 8 x 14
+ci sloc Trunk

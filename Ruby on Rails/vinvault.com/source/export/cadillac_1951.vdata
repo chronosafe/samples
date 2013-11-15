@@ -1,0 +1,777 @@
+cls 721, 5160([\dX]{5})
+clv 3819, 1951, Cadillac, 60 Special, Sedan
+ci axle Semifloating
+ci prod 18631
+ci make Cadillac
+ci msrp $3565.00
+ci series 60 Special
+ci year 1951
+ci origin United States
+ci maker Fleetwood
+ci model 51-6019
+ci weight 4200
+ci svc Hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 5
+ci fuel 20
+ci trans 24
+ci tcase -NA-
+ci oil 5
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.36
+ci length 224.5
+ci ftred 59
+ci wbase 130
+ci width 80.125
+ci height 62 11/16
+ci rtred 63
+ci trq 312@1800
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 7.5
+ci bhp 160@3800
+ci etype 90 degree V8 Valve-in-head
+ci etype Hydra-Matic automatic
+ci mbear 5
+ci rhp 46.5
+ci b&s 3 13/16 & 3 5/8
+ci engno Same as VIN Serial Number.
+ci etype Dual downdraft
+ci disp 331
+ci vlift Hydraulic
+ci cyl 8
+ci englo Boss on front face of right cylinder block.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bolero Maroon
+co Cadet Blue
+co Capri Green
+co Chester Green
+co Corinth Blue
+co Empress Blue
+co Exter Green
+co Fiesta Ivory
+co Mist Gray
+co Savoy Gray
+co Tucson Beige
+co Two Tone Colors Available
+ci batt 6
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci cool 18 Quarts
+ci sgear Recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On right frame side bar behind engine support bracket.
+ci tsize 8 x 15
+ci wsize 15 x 6
+ci sloc Trunk
+ci ttype 4 ply
+cls 722, 5161([\dX]{5})
+clv 3820, 1951, Cadillac, 61, Coupe
+ci axle Semifloating
+ci make Cadillac
+ci year 1951
+ci msrp $2590.00
+ci series 61
+ci prod 2400
+ci origin United States
+ci maker Fisher
+ci model 51-6137
+ci weight 3870
+ci doors 2
+ci svc Hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci rdiff 5
+ci oil 5
+ci tcase -NA-
+ci fuel 20
+ci trans 3.75
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 3.36
+ci height 61 11/16
+ci wbase 122
+ci length 211.5
+ci rtred 63
+ci ftred 59
+ci width 80.125
+ci bhp 160@3800
+ci mbear 5
+ci rhp 46.5
+ci comp 7.5
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype 90 degree V8 Valve-in-head
+ci englo Boss on front face of right cylinder block.
+ci b&s 3 13/16 & 3 5/8
+ci disp 331
+ci trq 312@1800
+ci etype Helical
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bolero Maroon
+co Cadet Blue
+co Capri Green
+co Chester Green
+co Corinth Blue
+co Empress Blue
+co Exter Green
+co Fiesta Ivory
+co Mist Gray
+co Savoy Gray
+co Tucson Beige
+co Two Tone Colors Available
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool 18 Quarts
+ci batt 6
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci 3gear 1
+ci 2gear 1.53
+ci gears 3
+ci drive Rear wheel drive
+ci rev 2.39
+ci 5gear Not applicable
+ci vloc On right frame side bar behind engine support bracket.
+ci wsize 15 x 6
+ci ttype 4 ply
+ci sloc Trunk
+ci tsize 8 x 15
+cls 723, 5161([\dX]{5})
+clv 3821, 1951, Cadillac, 61, Sedan
+ci axle Semifloating
+ci make Cadillac
+ci year 1951
+ci msrp $2690.00
+ci series 61
+ci prod 2300
+ci origin United States
+ci maker Fisher
+ci model 51-6169
+ci weight 3890
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Hydraulic drum
+ci bsize 11
+ci tcase -NA-
+ci fuel 20
+ci oil 5
+ci trans 3.75
+ci rdiff 5
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 10.5 inches
+ci diff Hypoid
+ci diffr 3.36
+ci rtred 63
+ci length 211.5
+ci height 61 11/16
+ci wbase 122
+ci ftred 59
+ci width 80.125
+ci bhp 160@3800
+ci mbear 5
+ci rhp 46.5
+ci comp 7.5
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype 90 degree V8 Valve-in-head
+ci englo Boss on front face of right cylinder block.
+ci b&s 3 13/16 & 3 5/8
+ci disp 331
+ci trq 312@1800
+ci etype Helical
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bolero Maroon
+co Cadet Blue
+co Capri Green
+co Chester Green
+co Corinth Blue
+co Empress Blue
+co Exter Green
+co Fiesta Ivory
+co Mist Gray
+co Savoy Gray
+co Tucson Beige
+co Two Tone Colors Available
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool 18 Quarts
+ci batt 6
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci 3gear 1
+ci 2gear 1.53
+ci gears 3
+ci drive Rear wheel drive
+ci rev 2.39
+ci 5gear Not applicable
+ci vloc On right frame side bar behind engine support bracket.
+ci wsize 15 x 6
+ci ttype 4 ply
+ci sloc Trunk
+ci tsize 8 x 15
+cls 724, 5162([\dX]{5})
+clv 3822, 1951, Cadillac, 62, Convertible Coupe
+ci axle Semifloating
+ci year 1951
+ci make Cadillac
+ci msrp $3440.00
+ci series 62
+ci prod 6117
+ci origin United States
+ci doors 2
+ci model 51-6267
+ci maker Fisher
+ci weight 4340
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic drum
+ci oil 5
+ci tcase -NA-
+ci rdiff 5
+ci trans 24
+ci fuel 20
+ci carb Carter
+ci ctype Not applicable
+ci diffr 3.36
+ci diff Hypoid
+ci wbase 126
+ci length 215.5
+ci ftred 59
+ci width 80.125
+ci height 62 11/16
+ci rtred 63
+ci etype 90 degree V8 Valve-in-head
+ci cyl 8
+ci b&s 3 13/16 & 3 5/8
+ci bhp 160@3800
+ci comp 7.5
+ci englo Boss on front face of right cylinder block.
+ci engno Same as VIN Serial Number.
+ci trq 312@1800
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 331
+ci etype Dual downdraft
+ci etype Hydra-Matic automatic
+ci vlift Hydraulic
+ci mbear 5
+ci rhp 46.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bolero Maroon
+co Cadet Blue
+co Capri Green
+co Chester Green
+co Corinth Blue
+co Empress Blue
+co Exter Green
+co Fiesta Ivory
+co Mist Gray
+co Savoy Gray
+co Tucson Beige
+co Two Tone Colors Available
+ci cool 18 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci batt 6
+ci sgear Recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On right frame side bar behind engine support bracket.
+ci ttype 4 ply
+ci tsize 8 x 15
+ci sloc Trunk
+ci wsize 15 x 6
+cls 725, 5162([\dX]{5})
+clv 3823, 1951, Cadillac, 62, Coupe
+ci axle Semifloating
+ci make Cadillac
+ci msrp $2960.00
+ci prod 10132
+ci year 1951
+ci series 62
+ci origin United States
+ci maker Fisher
+ci doors 2
+ci model 51-6237
+ci weight 4050
+ci svc Hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 5
+ci fuel 20
+ci trans 24
+ci tcase -NA-
+ci oil 5
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.36
+ci length 215.5
+ci ftred 59
+ci wbase 126
+ci width 80.125
+ci height 62 11/16
+ci rtred 63
+ci trq 312@1800
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 7.5
+ci bhp 160@3800
+ci etype Hydra-Matic automatic
+ci englo Boss on front face of right cylinder block.
+ci mbear 5
+ci rhp 46.5
+ci b&s 3 13/16 & 3 5/8
+ci engno Same as VIN Serial Number.
+ci etype Dual downdraft
+ci disp 331
+ci vlift Hydraulic
+ci cyl 8
+ci etype 90 degree V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bolero Maroon
+co Cadet Blue
+co Capri Green
+co Chester Green
+co Corinth Blue
+co Empress Blue
+co Exter Green
+co Fiesta Ivory
+co Mist Gray
+co Savoy Gray
+co Tucson Beige
+co Two Tone Colors Available
+ci batt 6
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci cool 18 Quarts
+ci sgear Recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On right frame side bar behind engine support bracket.
+ci tsize 8 x 15
+ci wsize 15 x 6
+ci sloc Trunk
+ci ttype 4 ply
+cls 726, 5162([\dX]{5})
+clv 3824, 1951, Cadillac, 62, Coupe de Ville
+ci axle Semifloating
+ci make Cadillac
+ci msrp $3315.00
+ci prod 10241
+ci year 1951
+ci series 62
+ci origin United States
+ci maker Fisher
+ci doors 2
+ci model 51-6237D
+ci weight 4120
+ci svc Hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 5
+ci fuel 20
+ci trans 24
+ci tcase -NA-
+ci oil 5
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.36
+ci length 215.5
+ci ftred 59
+ci wbase 126
+ci width 80.125
+ci height 62 11/16
+ci rtred 63
+ci trq 312@1800
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 7.5
+ci bhp 160@3800
+ci etype Hydra-Matic automatic
+ci englo Boss on front face of right cylinder block.
+ci mbear 5
+ci rhp 46.5
+ci b&s 3 13/16 & 3 5/8
+ci engno Same as VIN Serial Number.
+ci etype Dual downdraft
+ci disp 331
+ci vlift Hydraulic
+ci cyl 8
+ci etype 90 degree V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bolero Maroon
+co Cadet Blue
+co Capri Green
+co Chester Green
+co Corinth Blue
+co Empress Blue
+co Exter Green
+co Fiesta Ivory
+co Mist Gray
+co Savoy Gray
+co Tucson Beige
+co Two Tone Colors Available
+ci batt 6
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool Centrifugal pump with thermostat
+ci cool 18 Quarts
+ci sgear Recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On right frame side bar behind engine support bracket.
+ci tsize 8 x 15
+ci wsize 15 x 6
+ci sloc Trunk
+ci ttype 4 ply
+cls 727, 5162([\dX]{5})
+clv 3825, 1951, Cadillac, 62, Sedan
+ci axle Semifloating
+ci year 1951
+ci make Cadillac
+ci msrp $3040.00
+ci series 62
+ci prod 54596
+ci origin United States
+ci model 51-6219
+ci weight 4040
+ci maker Fisher
+ci bsize 11
+ci svc Hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci oil 5
+ci rdiff 5
+ci trans 24
+ci carb Carter
+ci ctype Not applicable
+ci diffr 3.36
+ci diff Hypoid
+ci length 215.5
+ci ftred 59
+ci wbase 126
+ci width 80.125
+ci height 62 11/16
+ci rtred 63
+ci englo Boss on front face of right cylinder block.
+ci cyl 8
+ci b&s 3 13/16 & 3 5/8
+ci bhp 160@3800
+ci etype 90 degree V8 Valve-in-head
+ci comp 7.5
+ci engno Same as VIN Serial Number.
+ci trq 312@1800
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 331
+ci etype Dual downdraft
+ci etype Hydra-Matic automatic
+ci vlift Hydraulic
+ci mbear 5
+ci rhp 46.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bolero Maroon
+co Cadet Blue
+co Capri Green
+co Chester Green
+co Corinth Blue
+co Empress Blue
+co Exter Green
+co Fiesta Ivory
+co Mist Gray
+co Savoy Gray
+co Tucson Beige
+co Two Tone Colors Available
+ci batt 6
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 18 Quarts
+ci sgear Recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On right frame side bar behind engine support bracket.
+ci ttype 4 ply
+ci tsize 8 x 15
+ci sloc Trunk
+ci wsize 15 x 6
+cls 728, 5175([\dX]{5})
+clv 3826, 1951, Cadillac, 75, Business Sedan
+ci axle Semifloating
+ci series 75
+ci prod 30
+ci origin United States
+ci make Cadillac
+ci year 1951
+ci doors 4
+ci maker Fleetwood
+ci model 51-7523L
+ci bsize 12
+ci svc Hydraulic drum
+ci ebrake Rear service brakes
+ci rdiff 5
+ci fuel 20
+ci oil 5
+ci tcase -NA-
+ci trans 3.75
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 11 inches
+ci diffr 4.27
+ci diff Hypoid
+ci rtred 63
+ci wbase 146.75
+ci height 64 1/16
+ci ftred 59
+ci length 236.25
+ci width 80.125
+ci mbear 5
+ci rhp 46.5
+ci comp 7.5
+ci disp 331
+ci trq 312@1800
+ci b&s 3 13/16 & 3 5/8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype 90 degree V8 Valve-in-head
+ci englo Boss on front face of right cylinder block.
+ci engno Same as VIN Serial Number.
+ci bhp 160@3800
+ci vlift Hydraulic
+ci etype Helical
+ci etype Dual downdraft
+ci cyl 8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bolero Maroon
+co Cadet Blue
+co Capri Green
+co Chester Green
+co Corinth Blue
+co Empress Blue
+co Exter Green
+co Fiesta Ivory
+co Mist Gray
+co Savoy Gray
+co Tucson Beige
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool 18 Quarts
+ci cool Centrifugal pump with thermostat
+ci batt 6
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent coil springs
+ci 2gear 1.53
+ci 5gear Not applicable
+ci rev 2.39
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci vloc On right frame side bar behind engine support bracket.
+ci tsize 8.2 x 15
+ci wsize 15 x 6
+ci sloc Trunk
+ci ttype 6 ply
+cls 729, 5175([\dX]{5})
+clv 3827, 1951, Cadillac, 75, Imperial
+ci axle Semifloating
+ci prod 1085
+ci make Cadillac
+ci msrp $4660.00
+ci series 75
+ci year 1951
+ci origin United States
+ci weight 4710
+ci doors 4
+ci model 51-7533
+ci maker Fleetwood
+ci pass 9
+ci ebrake Rear service brakes
+ci svc Hydraulic drum
+ci bsize 12
+ci oil 5
+ci tcase -NA-
+ci rdiff 5
+ci fuel 20
+ci trans 3.75
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 11 inches
+ci diff Hypoid
+ci diffr 4.27
+ci width 80.125
+ci length 236.25
+ci ftred 59
+ci wbase 146.75
+ci height 64 1/16
+ci rtred 63
+ci bhp 160@3800
+ci comp 7.5
+ci vlift Hydraulic
+ci cyl 8
+ci engno Same as VIN Serial Number.
+ci b&s 3 13/16 & 3 5/8
+ci trq 312@1800
+ci etype 90 degree V8 Valve-in-head
+ci englo Boss on front face of right cylinder block.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci rhp 46.5
+ci disp 331
+ci etype Dual downdraft
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bolero Maroon
+co Cadet Blue
+co Capri Green
+co Chester Green
+co Corinth Blue
+co Empress Blue
+co Exter Green
+co Fiesta Ivory
+co Mist Gray
+co Savoy Gray
+co Tucson Beige
+co Two Tone Colors Available
+ci rad Fin and tube
+ci cool 18 Quarts
+ci cool Centrifugal pump with thermostat
+ci batt 6
+ci ign Distributor and coil
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci 2gear 1.53
+ci rev 2.39
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On right frame side bar behind engine support bracket.
+ci ttype 6 ply
+ci tsize 8.2 x 15
+ci sloc Trunk
+ci wsize 15 x 6
+cls 730, 5175([\dX]{5})
+clv 3828, 1951, Cadillac, 75, Sedan
+ci axle Semifloating
+ci prod 1090
+ci make Cadillac
+ci msrp $4480.00
+ci series 75
+ci year 1951
+ci origin United States
+ci doors 4
+ci model 51-7523
+ci weight 4690
+ci maker Fleetwood
+ci bsize 12
+ci svc Hydraulic drum
+ci ebrake Rear service brakes
+ci rdiff 5
+ci fuel 20
+ci tcase -NA-
+ci oil 5
+ci trans 3.75
+ci carb Carter
+ci csize 11 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 4.27
+ci length 236.25
+ci wbase 146.75
+ci rtred 63
+ci ftred 59
+ci height 64 1/16
+ci width 80.125
+ci trq 312@1800
+ci b&s 3 13/16 & 3 5/8
+ci comp 7.5
+ci mbear 5
+ci cyl 8
+ci bhp 160@3800
+ci rhp 46.5
+ci etype 90 degree V8 Valve-in-head
+ci englo Boss on front face of right cylinder block.
+ci engno Same as VIN Serial Number.
+ci etype Helical
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci disp 331
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bolero Maroon
+co Cadet Blue
+co Capri Green
+co Chester Green
+co Corinth Blue
+co Empress Blue
+co Exter Green
+co Fiesta Ivory
+co Mist Gray
+co Savoy Gray
+co Tucson Beige
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool 18 Quarts
+ci cool Centrifugal pump with thermostat
+ci batt 6
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.53
+ci rev 2.39
+ci drive Rear wheel drive
+ci vloc On right frame side bar behind engine support bracket.
+ci ttype 6 ply
+ci tsize 8.2 x 15
+ci sloc Trunk
+ci wsize 15 x 6

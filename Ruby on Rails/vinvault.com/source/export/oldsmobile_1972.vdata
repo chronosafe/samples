@@ -1,0 +1,2516 @@
+cls 5420, 3R35(\w)2(\w)([\dX]{6})
+clv 21935, 1972, Oldsmobile, Custom Cruiser, Station Wagon 2-seat
+ci axle Semifloating
+ci prod 6907
+ci msrp $4700.00
+ci series Custom Cruiser
+ci year 1972
+ci origin United States
+ci make Oldsmobile
+ci maker Fisher
+ci doors 4
+ci model 36835
+ci weight 4987
+ci pass 6
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.88
+ci bsize 12
+ci ebrake Rear service brakes
+ci oil 4
+ci trans 4.9
+ci rdiff 5.5
+ci tcase -NA-
+ci fuel 23
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci height 57.2
+ci rtred 63.7
+ci wbase 124
+ci length 225.3
+ci width 79.4
+ci ftred 63.8
+ci comp 8.5
+ci etype V8 valve-in-head
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci cyl 8
+ci mbear 5
+ci etype Turbo Hydra-matic
+ci etype Downdraft 4-barrel
+ci rhp 54.48
+ci bhp 225@3600
+ci vlift Hydraulic
+ci b&s 4.125 & 4 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 360@2600
+ci engno US
+ci disp 455
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ftype Premium
+ci cool Water pump
+ci batt 12
+ci cool 17 Quarts
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci equip Radio
+ci equip Power windows
+ci equip 455 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15
+cls 5421, 3R45(\w)2(\w)([\dX]{6})
+clv 21936, 1972, Oldsmobile, Custom Cruiser, Station Wagon 3-seat
+ci axle Semifloating
+ci prod 18087
+ci msrp $4834.00
+ci series Custom Cruiser
+ci year 1972
+ci origin United States
+ci make Oldsmobile
+ci weight 5082
+ci maker Fisher
+ci model 36845
+ci doors 4
+ci pass 9
+ci svc Power front disc rear self-adjusting drum
+ci bsize 12
+ci fbsize 11.88
+ci ebrake Rear service brakes
+ci trans 4.9
+ci oil 4
+ci rdiff 5.5
+ci tcase -NA-
+ci fuel 23
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.93
+ci ftred 63.8
+ci rtred 63.7
+ci height 57.2
+ci width 79.4
+ci length 225.3
+ci wbase 124
+ci rhp 54.48
+ci etype V8 valve-in-head
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci mbear 5
+ci etype Turbo Hydra-matic
+ci comp 8.5
+ci etype Downdraft 4-barrel
+ci disp 455
+ci cyl 8
+ci vlift Hydraulic
+ci trq 360@2600
+ci lube Pressure to all bearings excluding wrist pin
+ci engno US
+ci bhp 225@3600
+ci b&s 4.125 & 4 1/4
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ftype Premium
+ci cool Water pump
+ci batt 12
+ci cool 17 Quarts
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci equip Radio
+ci equip Power windows
+ci equip 455 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15
+cls 5422, 3G87(\w)2(\w)([\dX]{6})
+clv 21937, 1972, Oldsmobile, Cutlass S, Hardtop
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $3087.00
+ci origin United States
+ci year 1972
+ci prod 78461
+ci series Cutlass S
+ci weight 3405
+ci maker Fisher
+ci doors 2
+ci model 33687
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci trans 3.5
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diff Hypoid
+ci diffr 3.23
+ci height 53.5
+ci wbase 112
+ci length 207.6
+ci rtred 59.2
+ci ftred 59.7
+ci width 76.3
+ci b&s 4.057 & 3.385
+ci bhp 160@4000
+ci comp 8.5
+ci etype Rocket V8 valve-in-head
+ci engno QA
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci rhp 52.67
+ci etype Fully synchronous 3-speed manual
+ci mbear 5
+ci etype Dual downdraft
+ci trq 275@2400
+ci vlift Hydraulic
+ci disp 350
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tubular and fin
+ci cool 16 Quarts
+ci batt 12
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci equip Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 5423, 3G77(\w)2(\w)([\dX]{6})
+clv 21938, 1972, Oldsmobile, Cutlass S, Sport Coupe
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $3027.00
+ci origin United States
+ci year 1972
+ci prod 4141
+ci series Cutlass S
+ci weight 3399
+ci maker Fisher
+ci doors 2
+ci model 33677
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci trans 3.5
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diff Hypoid
+ci diffr 3.23
+ci width 76.3
+ci wbase 112
+ci length 207.6
+ci height 53.5
+ci rtred 59.2
+ci ftred 59.7
+ci b&s 4.057 & 3.385
+ci bhp 160@4000
+ci comp 8.5
+ci rhp 52.67
+ci engno QA
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci mbear 5
+ci etype Fully synchronous 3-speed manual
+ci etype Rocket V8 valve-in-head
+ci etype Dual downdraft
+ci trq 275@2400
+ci vlift Hydraulic
+ci disp 350
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tubular and fin
+ci cool 16 Quarts
+ci batt 12
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci equip Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.68
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 5424, 3J67(\w)2(\w)([\dX]{6})
+clv 21939, 1972, Oldsmobile, Cutlass Supreme, Convertible
+ci axle Semifloating
+ci msrp $3433.00
+ci year 1972
+ci origin United States
+ci make Oldsmobile
+ci prod 11571
+ci series Cutlass Supreme
+ci maker Fisher
+ci weight 3510
+ci model 34267
+ci doors 2
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 20
+ci rdiff 4.25
+ci tcase -NA-
+ci trans 3.5
+ci oil 4
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 203.6
+ci width 76.3
+ci wbase 116
+ci ftred 59.7
+ci rtred 59.2
+ci height 52.9
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci b&s 4.057 & 3.385
+ci cyl 8
+ci comp 8.5
+ci rhp 52.67
+ci disp 350
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci trq 275@2800
+ci engno QD
+ci bhp 180@4000
+ci etype Downdraft 4-barrel
+ci etype Rocket V8 valve-in-head
+ci vlift Hydraulic
+ci etype Wide ratio synchronized
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci cool Water pump
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tubular and fin
+ci ftype Premium
+ci equip Speed control device
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip 455 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 4
+ci 2gear 1.88
+ci rev 2.59
+ci 3gear 1.46
+ci 4gear 1
+ci 1gear 2.52
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 5425, 3J57(\w)2(\w)([\dX]{6})
+clv 21940, 1972, Oldsmobile, Cutlass Supreme, Hardtop
+ci axle Semifloating
+ci msrp $3258.00
+ci year 1972
+ci origin United States
+ci make Oldsmobile
+ci prod 105087
+ci series Cutlass Supreme
+ci maker Fisher
+ci model 34257
+ci weight 3416
+ci doors 2
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 20
+ci rdiff 4.25
+ci tcase -NA-
+ci trans 3.5
+ci oil 4
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 203.6
+ci width 76.3
+ci wbase 116
+ci ftred 59.7
+ci rtred 59.2
+ci height 52.9
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci b&s 4.057 & 3.385
+ci cyl 8
+ci comp 8.5
+ci rhp 52.67
+ci disp 350
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci trq 275@2800
+ci engno QD
+ci bhp 180@4000
+ci etype Downdraft 4-barrel
+ci etype Rocket V8 valve-in-head
+ci vlift Hydraulic
+ci etype Wide ratio synchronized
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci cool Water pump
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tubular and fin
+ci ftype Premium
+ci equip Speed control device
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip 455 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 4
+ci 2gear 1.88
+ci rev 2.59
+ci 3gear 1.46
+ci 4gear 1
+ci 1gear 2.52
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 5426, 3J39(\w)2(\w)([\dX]{6})
+clv 21941, 1972, Oldsmobile, Cutlass Supreme, Hardtop
+ci axle Semifloating
+ci msrp $3329.00
+ci series Cutlass Supreme
+ci origin United States
+ci make Oldsmobile
+ci prod 14955
+ci year 1972
+ci maker Fisher
+ci weight 3538
+ci model 34239
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci rdiff 4.25
+ci trans 3.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diffr 3.23
+ci diff Hypoid
+ci length 203.6
+ci wbase 116
+ci width 76.3
+ci ftred 59.7
+ci rtred 59.2
+ci height 52.9
+ci disp 350
+ci mbear 5
+ci etype Rocket V8 valve-in-head
+ci cyl 8
+ci comp 8.5
+ci b&s 4.057 & 3.385
+ci engno QD
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 52.67
+ci bhp 180@4000
+ci etype Downdraft 4-barrel
+ci trq 275@2800
+ci vlift Hydraulic
+ci etype Wide ratio synchronized
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci cool Water pump
+ci cool 16 Quarts
+ci batt 12
+ci ftype Premium
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci equip Speed control device
+ci equip 455 cu. in. V8 engine
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.59
+ci 2gear 1.88
+ci gears 4
+ci 3gear 1.46
+ci drive Rear wheel drive
+ci 4gear 1
+ci 1gear 2.52
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 5427, 3G87(\w)2(\w)([\dX]{6})
+clv 21942, 1972, Oldsmobile, Cutlass V8, Hardtop
+ci axle Semifloating
+ci msrp $2973.00
+ci origin United States
+ci make Oldsmobile
+ci series Cutlass V8
+ci year 1972
+ci weight 3405
+ci doors 2
+ci maker Fisher
+ci model 33687
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diff Hypoid
+ci diffr 3.23
+ci width 76.3
+ci wbase 116
+ci length 207.6
+ci ftred 59.7
+ci height 53.5
+ci rtred 59.2
+ci engno QA
+ci rhp 52.67
+ci cyl 8
+ci comp 8.5
+ci mbear 5
+ci etype Rocket V8 valve-in-head
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci trq 275@2400
+ci bhp 160@4000
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci disp 350
+ci etype Fully synchronous 3-speed manual
+ci b&s 4.057 & 3.385
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci batt 12
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci rad Tubular and fin
+ci ftype Regular
+ci cool Water pump
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip 455 cu. in. V8 engine
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.85
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 5428, 3G69(\w)2(\w)([\dX]{6})
+clv 21943, 1972, Oldsmobile, Cutlass V8, Sedan
+ci axle Semifloating
+ci msrp $3066.00
+ci series Cutlass V8
+ci make Oldsmobile
+ci year 1972
+ci origin United States
+ci prod 38893
+ci doors 4
+ci model 33669
+ci weight 3445
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci tcase -NA-
+ci rdiff 4.25
+ci trans 3.5
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci width 76.3
+ci wbase 116
+ci ftred 59.7
+ci length 207.6
+ci height 53.5
+ci rtred 59.2
+ci etype Fully synchronous 3-speed manual
+ci mbear 5
+ci cyl 8
+ci comp 8.5
+ci engno QA
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci trq 275@2400
+ci b&s 4.057 & 3.385
+ci etype Rocket V8 valve-in-head
+ci etype Dual downdraft
+ci bhp 160@4000
+ci vlift Hydraulic
+ci rhp 52.67
+ci disp 350
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci exha Single
+ci cool Water pump
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 16 Quarts
+ci ftype Regular
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip 455 cu. in. V8 engine
+ci equip Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.68
+ci rev 2.95
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 5429, 3G36(\w)2(\w)([\dX]{6})
+clv 21944, 1972, Oldsmobile, Cutlass V8, Station Wagon 2-seat
+ci axle Semifloating
+ci prod 7979
+ci series Cutlass V8
+ci origin United States
+ci year 1972
+ci msrp $3498.00
+ci make Oldsmobile
+ci pass 6
+ci doors 4
+ci maker Fisher
+ci model 33636
+ci weight 3927
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 4
+ci trans 3.5
+ci rdiff 4.25
+ci fuel 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 2/5 inches
+ci diff Hypoid
+ci diffr 3.23
+ci length 213.3
+ci wbase 116
+ci height 54.4
+ci rtred 59.2
+ci ftred 59.7
+ci width 76.3
+ci bhp 160@4000
+ci mbear 5
+ci cyl 8
+ci comp 8.5
+ci etype Rocket V8 valve-in-head
+ci b&s 4.057 & 3.385
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 275@2400
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci engno QA
+ci disp 350
+ci etype Fully synchronous 3-speed manual
+ci rhp 52.67
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci exha Single
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 16 Quarts
+ci batt 12
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip Power seats
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power windows
+ci equip Air conditioning
+ci equip 455 cu. in. V8 engine
+ci equip Radio
+ci equip Speed control device
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.95
+ci 1gear 2.85
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 5430, 3N67(\w)2(\w)([\dX]{6})
+clv 21945, 1972, Oldsmobile, Delta 88 Royale, Convertible
+ci axle Semifloating
+ci msrp $4387.00
+ci year 1972
+ci prod 3900
+ci series Delta 88 Royale
+ci make Oldsmobile
+ci origin United States
+ci model 36467
+ci doors 2
+ci maker Fisher
+ci weight 4314
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fbsize 11.88
+ci rdiff 5.5
+ci trans 4.9
+ci oil 4
+ci tcase -NA-
+ci fuel 25
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci height 53.6
+ci length 222.5
+ci wbase 124
+ci ftred 64.1
+ci width 79.5
+ci rtred 64
+ci comp 8.5
+ci engno QN
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci bhp 160@4000
+ci etype Dual downdraft
+ci trq 275@2400
+ci rhp 52.67
+ci mbear 5
+ci vlift Hydraulic
+ci disp 350
+ci etype Rocket V8 valve-in-head
+ci b&s 4.057 & 3.385
+ci etype Turbo Hydra-matic
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ftype Regular
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tubular and fin
+ci cool Water pump
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 5431, 3N57(\w)2(\w)([\dX]{6})
+clv 21946, 1972, Oldsmobile, Delta 88 Royale, Hardtop
+ci axle Semifloating
+ci year 1972
+ci msrp $4179.00
+ci series Delta 88 Royale
+ci origin United States
+ci make Oldsmobile
+ci prod 34345
+ci doors 2
+ci weight 4188
+ci maker Fisher
+ci model 36457
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 11.88
+ci ebrake Rear service brakes
+ci rdiff 5.5
+ci fuel 25
+ci oil 4
+ci tcase -NA-
+ci trans 4.9
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci height 53.6
+ci wbase 124
+ci length 222.5
+ci ftred 64.1
+ci width 79.5
+ci rtred 64
+ci comp 8.5
+ci engno QN
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci bhp 160@4000
+ci etype Dual downdraft
+ci trq 275@2400
+ci rhp 52.67
+ci mbear 5
+ci vlift Hydraulic
+ci disp 350
+ci etype Rocket V8 valve-in-head
+ci b&s 4.057 & 3.385
+ci etype Turbo Hydra-matic
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ftype Regular
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tubular and fin
+ci cool Water pump
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 5432, 3N39(\w)2(\w)([\dX]{6})
+clv 21947, 1972, Oldsmobile, Delta 88 Royale, Hardtop
+ci axle Semifloating
+ci msrp $4238.00
+ci origin United States
+ci series Delta 88 Royale
+ci make Oldsmobile
+ci year 1972
+ci prod 42606
+ci doors 4
+ci weight 4276
+ci maker Fisher
+ci model 36439
+ci fbsize 11.88
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 25
+ci oil 4
+ci rdiff 5.5
+ci trans 4.9
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 124
+ci height 53.6
+ci length 222.5
+ci ftred 64.1
+ci width 79.5
+ci rtred 64
+ci comp 8.5
+ci engno QN
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci bhp 160@4000
+ci etype Dual downdraft
+ci trq 275@2400
+ci rhp 52.67
+ci mbear 5
+ci vlift Hydraulic
+ci disp 350
+ci etype Rocket V8 valve-in-head
+ci b&s 4.057 & 3.385
+ci etype Turbo Hydra-matic
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ftype Regular
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tubular and fin
+ci cool Water pump
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 5433, 3N69(\w)2(\w)([\dX]{6})
+clv 21948, 1972, Oldsmobile, Delta 88 Royale, Sedan
+ci axle Semifloating
+ci origin United States
+ci prod 34150
+ci msrp $4104.00
+ci series Delta 88 Royale
+ci year 1972
+ci make Oldsmobile
+ci weight 4241
+ci maker Fisher
+ci doors 4
+ci model 36469
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci fbsize 11.88
+ci bsize 11
+ci rdiff 5.5
+ci fuel 25
+ci oil 4
+ci trans 4.9
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci height 53.6
+ci length 222.5
+ci wbase 124
+ci ftred 64.1
+ci width 79.5
+ci rtred 64
+ci comp 8.5
+ci engno QN
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci bhp 160@4000
+ci etype Dual downdraft
+ci trq 275@2400
+ci rhp 52.67
+ci mbear 5
+ci vlift Hydraulic
+ci disp 350
+ci etype Rocket V8 valve-in-head
+ci b&s 4.057 & 3.385
+ci etype Turbo Hydra-matic
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ftype Regular
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tubular and fin
+ci cool Water pump
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 5434, 3L57(\w)2(\w)([\dX]{6})
+clv 21949, 1972, Oldsmobile, Delta 88, Hardtop
+ci axle Semifloating
+ci year 1972
+ci msrp $4001.00
+ci series Delta 88
+ci origin United States
+ci make Oldsmobile
+ci prod 32036
+ci doors 2
+ci weight 4168
+ci maker Fisher
+ci model 35457
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 11.88
+ci ebrake Rear service brakes
+ci rdiff 5.5
+ci fuel 25
+ci oil 4
+ci tcase -NA-
+ci trans 4.9
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci height 53.6
+ci wbase 124
+ci length 222.5
+ci ftred 64.1
+ci width 79.5
+ci rtred 64
+ci comp 8.5
+ci engno QN
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci bhp 160@4000
+ci etype Dual downdraft
+ci trq 275@2400
+ci rhp 52.67
+ci mbear 5
+ci vlift Hydraulic
+ci disp 350
+ci etype Rocket V8 valve-in-head
+ci b&s 4.057 & 3.385
+ci etype Turbo Hydra-matic
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ftype Regular
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tubular and fin
+ci cool Water pump
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 5435, 3L39(\w)2(\w)([\dX]{6})
+clv 21950, 1972, Oldsmobile, Delta 88, Hardtop
+ci axle Semifloating
+ci msrp $4060.00
+ci make Oldsmobile
+ci series Delta 88
+ci year 1972
+ci prod 35538
+ci origin United States
+ci weight 4247
+ci maker Fisher
+ci doors 4
+ci model 35439
+ci fbsize 11.88
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 25
+ci rdiff 5.5
+ci trans 4.9
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 124
+ci height 53.6
+ci length 222.5
+ci ftred 64.1
+ci width 79.5
+ci rtred 64
+ci comp 8.5
+ci engno QN
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci bhp 160@4000
+ci etype Dual downdraft
+ci trq 275@2400
+ci rhp 52.67
+ci mbear 5
+ci vlift Hydraulic
+ci disp 350
+ci etype Rocket V8 valve-in-head
+ci b&s 4.057 & 3.385
+ci etype Turbo Hydra-matic
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ftype Regular
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tubular and fin
+ci cool Water pump
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 5436, 3L69(\w)2(\w)([\dX]{6})
+clv 21951, 1972, Oldsmobile, Delta 88, Sedan
+ci axle Semifloating
+ci msrp $3948.00
+ci make Oldsmobile
+ci series Delta 88
+ci prod 46092
+ci year 1972
+ci origin United States
+ci doors 4
+ci maker Fisher
+ci weight 4196
+ci model 35469
+ci ebrake Rear service brakes
+ci fbsize 11.88
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci tcase -NA-
+ci oil 4
+ci rdiff 5.5
+ci trans 4.9
+ci fuel 25
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 124
+ci height 53.6
+ci length 222.5
+ci ftred 64.1
+ci width 79.5
+ci rtred 64
+ci comp 8.5
+ci engno QN
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci bhp 160@4000
+ci etype Dual downdraft
+ci trq 275@2400
+ci rhp 52.67
+ci mbear 5
+ci vlift Hydraulic
+ci disp 350
+ci etype Rocket V8 valve-in-head
+ci b&s 4.057 & 3.385
+ci etype Turbo Hydra-matic
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ftype Regular
+ci cool 16 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tubular and fin
+ci cool Water pump
+ci equip Radio
+ci equip 455 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power seats
+ci equip Speed control device
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize H78 x 15
+cls 5437, 3D87(\w)2(\w)([\dX]{6})
+clv 21952, 1972, Oldsmobile, F-85 V8, Hardtop
+ci axle Semifloating
+ci series F-85 V8
+ci origin United States
+ci year 1972
+ci make Oldsmobile
+ci prod 37790
+ci maker Fisher
+ci model 33287
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 20
+ci oil 4
+ci rdiff 4.25
+ci tcase -NA-
+ci trans 3.5
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci width 76.3
+ci length 207.6
+ci wbase 116
+ci ftred 59.7
+ci height 53.5
+ci rtred 59.2
+ci rhp 52.67
+ci mbear 5
+ci cyl 8
+ci comp 8.5
+ci b&s 4.057 & 3.385
+ci etype Rocket V8 valve-in-head
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 350
+ci etype Dual downdraft
+ci engno QA
+ci bhp 160@4000
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci trq 275@2400
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci batt 12
+ci cool 16 Quarts
+ci ftype Regular
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci cool Water pump
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip 455 cu. in. V8 engine
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip Speed control device
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 3gear 1
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.95
+ci 5gear Not applicable
+ci 2gear 1.68
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 5438, 3D69(\w)2(\w)([\dX]{6})
+clv 21953, 1972, Oldsmobile, F-85 V8, Sedan
+ci axle Semifloating
+ci prod 3792
+ci make Oldsmobile
+ci origin United States
+ci year 1972
+ci msrp $2958.00
+ci series F-85 V8
+ci maker Fisher
+ci doors 4
+ci weight 3432
+ci model 33269
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci rdiff 4.25
+ci trans 3.5
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 207.6
+ci wbase 116
+ci width 76.3
+ci ftred 59.7
+ci height 53.5
+ci rtred 59.2
+ci b&s 4.057 & 3.385
+ci mbear 5
+ci cyl 8
+ci comp 8.5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 52.67
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci disp 350
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronous 3-speed manual
+ci trq 275@2400
+ci bhp 160@4000
+ci etype Rocket V8 valve-in-head
+ci engno QA
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci ftype Regular
+ci cool 16 Quarts
+ci exha Single
+ci batt 12
+ci rad Tubular and fin
+ci equip Air conditioning
+ci equip Speed control device
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip 455 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Power brakes
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 5439, 3V37(\w)2(\w)([\dX]{6})
+clv 21954, 1972, Oldsmobile, Ninety Eight Luxury, Hardtop
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $5009.00
+ci prod 24452
+ci series Ninety Eight Luxury
+ci origin United States
+ci year 1972
+ci doors 2
+ci weight 4431
+ci maker Fisher
+ci model 38637
+ci bsize 11
+ci fbsize 11.88
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fuel 25
+ci oil 4
+ci trans 6
+ci tcase -NA-
+ci rdiff 5.5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.73
+ci diff Hypoid
+ci height 54.6
+ci rtred 64
+ci ftred 64.1
+ci width 79.6
+ci wbase 127
+ci length 227.2
+ci etype Turbo Hydra-matic
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci comp 8.5
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci trq 360@2600
+ci bhp 225@3600
+ci vlift Hydraulic
+ci etype V8 valve-in-head
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 455
+ci engno US
+ci b&s 4.125 & 4 1/4
+ci rhp 54.48
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ftype Premium
+ci cool Water pump
+ci batt 12
+ci cool 17 Quarts
+ci rad Tubular and fin
+ci exha Single
+ci ign Distributor and coil
+ci equip Speed control device
+ci equip Power seats
+ci equip Radio
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize J78 x 15
+ci sloc Trunk
+cls 5440, 3V39(\w)2(\w)([\dX]{6})
+clv 21955, 1972, Oldsmobile, Ninety Eight Luxury, Hardtop
+ci axle Semifloating
+ci origin United States
+ci msrp $5098.00
+ci make Oldsmobile
+ci series Ninety Eight Luxury
+ci prod 69920
+ci year 1972
+ci weight 4517
+ci maker Fisher
+ci doors 4
+ci model 38639
+ci fbsize 11.88
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci oil 4
+ci tcase -NA-
+ci rdiff 5.5
+ci fuel 25
+ci trans 6
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci ftred 64.1
+ci rtred 64
+ci wbase 127
+ci width 79.6
+ci height 54.6
+ci length 227.2
+ci mbear 5
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci comp 8.5
+ci trq 360@2600
+ci etype Downdraft 4-barrel
+ci etype Turbo Hydra-matic
+ci bhp 225@3600
+ci vlift Hydraulic
+ci etype V8 valve-in-head
+ci disp 455
+ci lube Pressure to all bearings excluding wrist pin
+ci engno US
+ci b&s 4.125 & 4 1/4
+ci rhp 54.48
+ci cyl 8
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ftype Premium
+ci cool Water pump
+ci batt 12
+ci cool 17 Quarts
+ci rad Tubular and fin
+ci exha Single
+ci ign Distributor and coil
+ci equip Speed control device
+ci equip Power seats
+ci equip Radio
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize J78 x 15
+ci sloc Trunk
+cls 5441, 3U37(\w)2(\w)([\dX]{6})
+clv 21956, 1972, Oldsmobile, Ninety Eight, Hardtop
+ci axle Semifloating
+ci make Oldsmobile
+ci msrp $4748.00
+ci prod 9624
+ci series Ninety Eight
+ci origin United States
+ci year 1972
+ci doors 2
+ci weight 4395
+ci maker Fisher
+ci model 38437
+ci bsize 11
+ci fbsize 11.88
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci oil 4
+ci tcase -NA-
+ci rdiff 5.5
+ci fuel 25
+ci trans 6
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci ftred 64.1
+ci rtred 64
+ci width 79.6
+ci wbase 127
+ci height 54.6
+ci length 227.2
+ci mbear 5
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci disp 455
+ci trq 360@2600
+ci etype Downdraft 4-barrel
+ci etype Turbo Hydra-matic
+ci bhp 225@3600
+ci vlift Hydraulic
+ci etype V8 valve-in-head
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci engno US
+ci b&s 4.125 & 4 1/4
+ci rhp 54.48
+ci comp 8.5
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ftype Premium
+ci cool Water pump
+ci batt 12
+ci cool 17 Quarts
+ci rad Tubular and fin
+ci exha Single
+ci ign Distributor and coil
+ci equip Speed control device
+ci equip Power seats
+ci equip Radio
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize J78 x 15
+ci sloc Trunk
+cls 5442, 3U39(\w)2(\w)([\dX]{6})
+clv 21957, 1972, Oldsmobile, Ninety Eight, Hardtop
+ci axle Semifloating
+ci make Oldsmobile
+ci prod 17572
+ci msrp $4807.00
+ci series Ninety Eight
+ci origin United States
+ci year 1972
+ci doors 4
+ci weight 4480
+ci maker Fisher
+ci model 38439
+ci bsize 11
+ci ebrake Rear service brakes
+ci fbsize 11.88
+ci svc Power front disc rear self-adjusting drum
+ci fuel 25
+ci oil 4
+ci trans 6
+ci tcase -NA-
+ci rdiff 5.5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.73
+ci diff Hypoid
+ci height 54.6
+ci rtred 64
+ci ftred 64.1
+ci width 79.6
+ci wbase 127
+ci length 227.2
+ci etype Turbo Hydra-matic
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci comp 8.5
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci trq 360@2600
+ci bhp 225@3600
+ci vlift Hydraulic
+ci etype V8 valve-in-head
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 455
+ci engno US
+ci b&s 4.125 & 4 1/4
+ci rhp 54.48
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ftype Premium
+ci cool Water pump
+ci batt 12
+ci cool 17 Quarts
+ci rad Tubular and fin
+ci exha Single
+ci ign Distributor and coil
+ci equip Speed control device
+ci equip Power seats
+ci equip Radio
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize J78 x 15
+ci sloc Trunk
+cls 5443, 3Y57(\w)2(\w)([\dX]{6})
+clv 21958, 1972, Oldsmobile, Toronado, Coupe
+ci msrp $5341.00
+ci prod 31076
+ci origin United States
+ci series Toronado
+ci year 1972
+ci make Oldsmobile
+ci maker Fisher
+ci weight 4532
+ci doors 2
+ci model 39657
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fuel 24
+ci trans 8
+ci tcase -NA-
+ci oil 5
+ci fdiff 4
+ci carb Rochester
+ci diffr 2.73
+ci diff Not applicable
+ci height 54.7
+ci length 220.3
+ci rtred 63.6
+ci ftred 63.7
+ci width 79.8
+ci wbase 122
+ci etype Downdraft 4-barrel
+ci comp 8.5
+ci etype V8 valve-in-head
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci mbear 5
+ci b&s 4.125 & 4 1/4
+ci trq 375@2800
+ci rhp 54.48
+ci disp 455
+ci engno UU
+ci etype Turbo Hydra-matic
+ci cyl 8
+ci vlift Hydraulic
+ci bhp 250@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci ftype Premium
+ci cool 20 Quarts
+ci batt 12
+ci rad Tubular and fin
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci equip Air conditioning
+ci sgear Constant ratio power
+ci rsus Hotchkiss
+ci fsus Independent torsion bar
+ci drive Front wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize J78 x 15
+ci sloc Trunk
+cls 5444, 3Z57(\w)2(\w)([\dX]{6})
+clv 21959, 1972, Oldsmobile, Toronado, Coupe
+ci msrp $5494.00
+ci make Oldsmobile
+ci origin United States
+ci series Toronado
+ci prod 17824
+ci year 1972
+ci doors 2
+ci model 39857
+ci maker Fisher
+ci weight 4570
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci trans 8
+ci tcase -NA-
+ci fuel 24
+ci oil 5
+ci fdiff 4
+ci carb Rochester
+ci diffr 2.73
+ci diff Not applicable
+ci height 54.7
+ci length 220.3
+ci rtred 63.6
+ci ftred 63.7
+ci width 79.8
+ci wbase 122
+ci etype Downdraft 4-barrel
+ci comp 8.5
+ci etype V8 valve-in-head
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci mbear 5
+ci b&s 4.125 & 4 1/4
+ci trq 375@2800
+ci rhp 54.48
+ci disp 455
+ci engno UU
+ci etype Turbo Hydra-matic
+ci cyl 8
+ci vlift Hydraulic
+ci bhp 250@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci ftype Premium
+ci cool 20 Quarts
+ci batt 12
+ci rad Tubular and fin
+ci cool Water pump
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci equip Air conditioning
+ci sgear Constant ratio power
+ci rsus Hotchkiss
+ci fsus Independent torsion bar
+ci drive Front wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize J78 x 15
+ci sloc Trunk
+cls 5445, 3K56(\w)2(\w)([\dX]{6})
+clv 21960, 1972, Oldsmobile, Vista Cruiser, Station Wagon 2-seat
+ci axle Semifloating
+ci year 1972
+ci origin United States
+ci series Vista Cruiser
+ci prod 10573
+ci msrp $3774.00
+ci make Oldsmobile
+ci maker Fisher
+ci weight 4163
+ci model 34856
+ci pass 6
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fuel 23
+ci rdiff 5.5
+ci tcase -NA-
+ci trans 3.5
+ci oil 4
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 218.3
+ci width 76.3
+ci wbase 121
+ci ftred 59.7
+ci height 58.5
+ci rtred 59.2
+ci etype Rocket V8 valve-in-head
+ci rhp 52.67
+ci mbear 5
+ci cyl 8
+ci comp 8.5
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci engno QA
+ci bhp 160@4000
+ci etype Dual downdraft
+ci b&s 4.057 & 3.385
+ci trq 275@2400
+ci etype Fully synchronous 3-speed manual
+ci disp 350
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci cool Water pump
+ci rad Tubular and fin
+ci cool 16 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci equip Power seats
+ci equip 455 cu. in. V8 engine
+ci equip Radio
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.85
+ci 3gear 1
+ci 2gear 1.68
+ci 5gear Not applicable
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk
+cls 5446, 3K66(\w)2(\w)([\dX]{6})
+clv 21961, 1972, Oldsmobile, Vista Cruiser, Station Wagon 3-seat
+ci axle Semifloating
+ci prod 21340
+ci origin United States
+ci series Vista Cruiser
+ci make Oldsmobile
+ci msrp $3908.00
+ci year 1972
+ci maker Fisher
+ci doors 4
+ci model 34866
+ci pass 9
+ci weight 4251
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 23
+ci rdiff 5.5
+ci trans 3.5
+ci oil 4
+ci carb Rochester
+ci csize 10 2/5 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 121
+ci length 218.3
+ci width 76.3
+ci ftred 59.7
+ci height 58.5
+ci rtred 59.2
+ci disp 350
+ci rhp 52.67
+ci cyl 8
+ci comp 8.5
+ci etype Rocket V8 valve-in-head
+ci englo Code tape installed above the unit no. which is stamped on engine oil fill tube.
+ci mbear 5
+ci bhp 160@4000
+ci etype Dual downdraft
+ci engno QA
+ci b&s 4.057 & 3.385
+ci etype Fully synchronous 3-speed manual
+ci trq 275@2400
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Antique Pewter Metallic
+co Bamboo
+co Baroque Gold Metallic
+co Cameo White
+co Covert Beige
+co Ebony Black
+co Flame Orange Metallic
+co Matador Red
+co Nordic Blue Metallic
+co Nutmeg Metallic
+co Pinehurst Green Metallic
+co Radiant Green Metallic
+co Royal Blue Metallic
+co Saddle Bronze Metallic
+co Saddle Tan
+co Saturn Gold Metallic
+co Sequoia Green Metallic
+co Silver Pewter Metallic
+co Soverign Gold Metallic
+co Sunfire Yellow
+co Viking Blue Metallic
+ci cool Water pump
+ci rad Tubular and fin
+ci cool 16 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci equip Power seats
+ci equip 455 cu. in. V8 engine
+ci equip Radio
+ci equip Speed control device
+ci equip Turbo Hydramatic automatic transmission
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.85
+ci 3gear 1
+ci 2gear 1.68
+ci 5gear Not applicable
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize H78 x 14
+ci sloc Trunk

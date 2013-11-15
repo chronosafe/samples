@@ -1,0 +1,783 @@
+cls 975, 6C47(\w)5(\w)([\dX]{6})
+clv 4073, 1975, Cadillac, Calais, Coupe
+ci axle Semifloating
+ci msrp $8184.00
+ci make Cadillac
+ci series Calais
+ci origin United States
+ci year 1975
+ci prod 5800
+ci model 6C47
+ci weight 5003
+ci doors 2
+ci maker Fisher
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci fuel 27
+ci tcase -NA-
+ci rdiff 5
+ci trans 12.2 Quarts
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.93
+ci rtred 63.3
+ci length 230.7
+ci wbase 130
+ci height 53.8
+ci width 79.8
+ci comp 8.5
+ci disp 500
+ci etype V8 Overhead valve
+ci block Cast Iron
+ci mbear 5
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 380@2000
+ci englo On block behind intake manifold.
+ci vlift Hydraulic
+ci etype Turbo Hydra-matic
+ci rhp 59.17
+ci bhp 210@3600
+ci b&s 4.3 & 4.3
+ci engno Prefix 6 + last 8 digits of VIN
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bombay Yellow
+co Cameo Rosewood Firemist Metallic
+co Cerise Firemist Metallic
+co Cotillion White
+co Emberust Firemist Metallic
+co Georgian Silver Metallic
+co Gossamer Blue Firemist Metallic
+co Inveray Green Metallic
+co Jasper Green
+co Jennifer Blue
+co Knickerbocker Tan
+co Lido Green Metallic
+co Mandarin Orange Metallic
+co Monarch Blue Metallic
+co Pueblo Beige Metallic
+co Roan Brown Metallic
+co Roxena Red
+co Sable Black
+co Shadow Rose Metallic
+co Tarragon Gold Metallic
+co Two Tone Colors Available
+co Vapour Gray
+ci exha Single
+ci ftype Unleaded
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci cool 23 Quarts
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize LR78 x 15B
+ci sloc Trunk
+cls 976, 6C49(\w)5(\w)([\dX]{6})
+clv 4074, 1975, Cadillac, Calais, Sedan
+ci axle Semifloating
+ci series Calais
+ci make Cadillac
+ci msrp $8377.00
+ci origin United States
+ci year 1975
+ci prod 2500
+ci weight 5087
+ci maker Fisher
+ci model 6C49
+ci doors 4
+ci bsize 12
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci fuel 27
+ci oil 5
+ci rdiff 5
+ci trans 12.2 Quarts
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci rtred 63.3
+ci wbase 130
+ci width 79.8
+ci height 54.3
+ci length 230.7
+ci b&s 4.3 & 4.3
+ci trq 380@2000
+ci etype Turbo Hydra-matic
+ci block Cast Iron
+ci comp 8.5
+ci bhp 210@3600
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci englo On block behind intake manifold.
+ci vlift Hydraulic
+ci mbear 5
+ci rhp 59.17
+ci etype V8 Overhead valve
+ci disp 500
+ci engno Prefix 6 + last 8 digits of VIN
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bombay Yellow
+co Cameo Rosewood Firemist Metallic
+co Cerise Firemist Metallic
+co Cotillion White
+co Emberust Firemist Metallic
+co Georgian Silver Metallic
+co Gossamer Blue Firemist Metallic
+co Inveray Green Metallic
+co Jasper Green
+co Jennifer Blue
+co Knickerbocker Tan
+co Lido Green Metallic
+co Mandarin Orange Metallic
+co Monarch Blue Metallic
+co Pueblo Beige Metallic
+co Roan Brown Metallic
+co Roxena Red
+co Sable Black
+co Shadow Rose Metallic
+co Tarragon Gold Metallic
+co Two Tone Colors Available
+co Vapour Gray
+ci exha Single
+ci ftype Unleaded
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci cool 23 Quarts
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize LR78 x 15B
+ci sloc Trunk
+cls 977, 6D47(\w)5(\w)([\dX]{6})
+clv 4075, 1975, Cadillac, De Ville, Coupe de Ville
+ci axle Semifloating
+ci make Cadillac
+ci msrp $8600.00
+ci prod 110218
+ci series De Ville
+ci year 1975
+ci origin United States
+ci doors 2
+ci maker Fisher
+ci model 6D47
+ci weight 5049
+ci bsize 12
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci trans 12.2 Quarts
+ci oil 5
+ci fuel 27
+ci rdiff 5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci rtred 63.3
+ci wbase 130
+ci width 79.8
+ci height 53.8
+ci length 230.7
+ci englo On block behind intake manifold.
+ci trq 380@2000
+ci block Cast Iron
+ci etype Turbo Hydra-matic
+ci comp 8.5
+ci bhp 210@3600
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci engno Prefix 6 + last 8 digits of VIN
+ci vlift Hydraulic
+ci mbear 5
+ci rhp 59.17
+ci etype V8 Overhead valve
+ci disp 500
+ci b&s 4.3 & 4.3
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bombay Yellow
+co Cameo Rosewood Firemist Metallic
+co Cerise Firemist Metallic
+co Cotillion White
+co Emberust Firemist Metallic
+co Georgian Silver Metallic
+co Gossamer Blue Firemist Metallic
+co Inveray Green Metallic
+co Jasper Green
+co Jennifer Blue
+co Knickerbocker Tan
+co Lido Green Metallic
+co Mandarin Orange Metallic
+co Monarch Blue Metallic
+co Pueblo Beige Metallic
+co Roan Brown Metallic
+co Roxena Red
+co Sable Black
+co Shadow Rose Metallic
+co Tarragon Gold Metallic
+co Two Tone Colors Available
+co Vapour Gray
+ci exha Single
+ci ftype Unleaded
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci cool 23 Quarts
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize LR78 x 15B
+ci sloc Trunk
+cls 978, 6D49(\w)5(\w)([\dX]{6})
+clv 4076, 1975, Cadillac, De Ville, Sedan de Ville
+ci axle Semifloating
+ci msrp $8801.00
+ci series De Ville
+ci prod 63352
+ci origin United States
+ci make Cadillac
+ci year 1975
+ci maker Fisher
+ci doors 4
+ci model 6D49
+ci weight 5146
+ci bsize 12
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci trans 12.2 Quarts
+ci tcase -NA-
+ci rdiff 5
+ci oil 5
+ci fuel 27
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci wbase 130
+ci rtred 63.3
+ci width 79.8
+ci height 54.3
+ci length 230.7
+ci b&s 4.3 & 4.3
+ci trq 380@2000
+ci block Cast Iron
+ci etype Turbo Hydra-matic
+ci comp 8.5
+ci bhp 210@3600
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci engno Prefix 6 + last 8 digits of VIN
+ci vlift Hydraulic
+ci englo On block behind intake manifold.
+ci disp 500
+ci etype V8 Overhead valve
+ci rhp 59.17
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bombay Yellow
+co Cameo Rosewood Firemist Metallic
+co Cerise Firemist Metallic
+co Cotillion White
+co Emberust Firemist Metallic
+co Georgian Silver Metallic
+co Gossamer Blue Firemist Metallic
+co Inveray Green Metallic
+co Jasper Green
+co Jennifer Blue
+co Knickerbocker Tan
+co Lido Green Metallic
+co Mandarin Orange Metallic
+co Monarch Blue Metallic
+co Pueblo Beige Metallic
+co Roan Brown Metallic
+co Roxena Red
+co Sable Black
+co Shadow Rose Metallic
+co Tarragon Gold Metallic
+co Two Tone Colors Available
+co Vapour Gray
+ci exha Single
+ci ftype Unleaded
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci cool 23 Quarts
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize LR78 x 15B
+ci sloc Trunk
+cls 979, 6L67(\w)5(\w)([\dX]{6})
+clv 4077, 1975, Cadillac, Eldorado, Convertible
+ci msrp $10354.00
+ci origin United States
+ci prod 8950
+ci series Eldorado
+ci year 1975
+ci make Cadillac
+ci doors 2
+ci maker Fleetwood
+ci model 6L67
+ci weight 5167
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci bsize 12
+ci trans 13 Quarts
+ci fdiff 4
+ci tcase -NA-
+ci fuel 27
+ci oil 6
+ci carb Rochester
+ci diff Not applicable
+ci diffr 3.07
+ci rtred 63.59
+ci wbase 126.3
+ci ftred 63.66
+ci length 224.1
+ci width 79.8
+ci height 54.5
+ci etype Turbo Hydra-matic
+ci trq 380@2000
+ci rhp 59.17
+ci cyl 8
+ci comp 8.5
+ci b&s 4.3 & 4.3
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 210@3600
+ci engno Prefix 6 + last 8 digits of VIN
+ci mbear 5
+ci etype V8 Overhead valve
+ci englo On block behind intake manifold.
+ci vlift Hydraulic
+ci disp 500
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bombay Yellow
+co Cameo Rosewood Firemist Metallic
+co Cerise Firemist Metallic
+co Cotillion White
+co Emberust Firemist Metallic
+co Georgian Silver Metallic
+co Gossamer Blue Firemist Metallic
+co Inveray Green Metallic
+co Jasper Green
+co Jennifer Blue
+co Knickerbocker Tan
+co Lido Green Metallic
+co Mandarin Orange Metallic
+co Monarch Blue Metallic
+co Pueblo Beige Metallic
+co Roan Brown Metallic
+co Roxena Red
+co Sable Black
+co Shadow Rose Metallic
+co Tarragon Gold Metallic
+co Two Tone Colors Available
+co Vapour Gray
+ci cool 25.8 Quarts
+ci ftype Unleaded
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci ign Distributor and coil
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci fsus Torsion bar
+ci drive Front wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize LR78 x 15B
+cls 980, 6L47(\w)5(\w)([\dX]{6})
+clv 4078, 1975, Cadillac, Eldorado, Coupe
+ci msrp $9935.00
+ci origin United States
+ci series Eldorado
+ci prod 35802
+ci year 1975
+ci make Cadillac
+ci weight 5108
+ci doors 2
+ci model 6L47
+ci maker Fleetwood
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci fuel 27
+ci trans 13 Quarts
+ci oil 6
+ci fdiff 4
+ci carb Rochester
+ci diff Not applicable
+ci diffr 3.07
+ci rtred 63.59
+ci length 224.1
+ci wbase 126.3
+ci ftred 63.66
+ci height 54.1
+ci width 79.8
+ci block Cast Iron
+ci comp 8.5
+ci etype V8 Overhead valve
+ci trq 380@2000
+ci cyl 8
+ci etype Turbo Hydra-matic
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci rhp 59.17
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 6 + last 8 digits of VIN
+ci bhp 210@3600
+ci englo On block behind intake manifold.
+ci b&s 4.3 & 4.3
+ci disp 500
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bombay Yellow
+co Cameo Rosewood Firemist Metallic
+co Cerise Firemist Metallic
+co Cotillion White
+co Emberust Firemist Metallic
+co Georgian Silver Metallic
+co Gossamer Blue Firemist Metallic
+co Inveray Green Metallic
+co Jasper Green
+co Jennifer Blue
+co Knickerbocker Tan
+co Lido Green Metallic
+co Mandarin Orange Metallic
+co Monarch Blue Metallic
+co Pueblo Beige Metallic
+co Roan Brown Metallic
+co Roxena Red
+co Sable Black
+co Shadow Rose Metallic
+co Tarragon Gold Metallic
+co Two Tone Colors Available
+co Vapour Gray
+ci exha Single
+ci ftype Unleaded
+ci batt 12
+ci cool 25.8 Quarts
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci fsus Torsion bar
+ci drive Front wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize LR78 x 15B
+cls 981, 6B69(\w)5(\w)([\dX]{6})
+clv 4079, 1975, Cadillac, Fleetwood, Brougham
+ci axle Semifloating
+ci series Fleetwood
+ci msrp $10414.00
+ci origin United States
+ci make Cadillac
+ci year 1975
+ci prod 18755
+ci maker Fleetwood
+ci doors 4
+ci model 6B69
+ci weight 5242
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci bsize 12
+ci trans 12.2 Quarts
+ci fuel 27
+ci tcase -NA-
+ci oil 5
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci rtred 63.3
+ci wbase 133
+ci width 79.8
+ci height 55.3
+ci length 233.7
+ci englo On block behind intake manifold.
+ci trq 380@2000
+ci block Cast Iron
+ci etype Turbo Hydra-matic
+ci comp 8.5
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 210@3600
+ci cyl 8
+ci engno Prefix 6 + last 8 digits of VIN
+ci vlift Hydraulic
+ci mbear 5
+ci rhp 59.17
+ci etype V8 Overhead valve
+ci disp 500
+ci b&s 4.3 & 4.3
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bombay Yellow
+co Cameo Rosewood Firemist Metallic
+co Cerise Firemist Metallic
+co Cotillion White
+co Emberust Firemist Metallic
+co Georgian Silver Metallic
+co Gossamer Blue Firemist Metallic
+co Inveray Green Metallic
+co Jasper Green
+co Jennifer Blue
+co Knickerbocker Tan
+co Lido Green Metallic
+co Mandarin Orange Metallic
+co Monarch Blue Metallic
+co Pueblo Beige Metallic
+co Roan Brown Metallic
+co Roxena Red
+co Sable Black
+co Shadow Rose Metallic
+co Tarragon Gold Metallic
+co Two Tone Colors Available
+co Vapour Gray
+ci exha Single
+ci ftype Unleaded
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci cool 23 Quarts
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize LR78 x 15B
+ci sloc Trunk
+cls 982, 6F33(\w)5(\w)([\dX]{6})
+clv 4080, 1975, Cadillac, 75, Limousine
+ci axle Semifloating
+ci series 75
+ci prod 795
+ci origin United States
+ci msrp $14557.00
+ci year 1975
+ci make Cadillac
+ci weight 5862
+ci maker Fleetwood
+ci model 6F33
+ci doors 4
+ci svc Power front disc rear self-adjusting drum
+ci bsize 12
+ci ebrake Rear wheels
+ci tcase -NA-
+ci fuel 27
+ci rdiff 5
+ci trans 12.2 Quarts
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.15
+ci diff Hypoid
+ci width 79.8
+ci height 56.6
+ci wbase 151.5
+ci length 252.2
+ci rtred 63.3
+ci block Cast Iron
+ci etype V8 Overhead valve
+ci cyl 8
+ci comp 8.5
+ci bhp 210@3600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci engno Prefix 6 + last 8 digits of VIN
+ci rhp 59.17
+ci trq 380@2000
+ci vlift Hydraulic
+ci englo On block behind intake manifold.
+ci disp 500
+ci b&s 4.3 & 4.3
+ci mbear 5
+ci etype Turbo Hydra-matic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bombay Yellow
+co Cameo Rosewood Firemist Metallic
+co Cerise Firemist Metallic
+co Cotillion White
+co Emberust Firemist Metallic
+co Georgian Silver Metallic
+co Gossamer Blue Firemist Metallic
+co Inveray Green Metallic
+co Jasper Green
+co Jennifer Blue
+co Knickerbocker Tan
+co Lido Green Metallic
+co Mandarin Orange Metallic
+co Monarch Blue Metallic
+co Pueblo Beige Metallic
+co Roan Brown Metallic
+co Roxena Red
+co Sable Black
+co Shadow Rose Metallic
+co Tarragon Gold Metallic
+co Two Tone Colors Available
+co Vapour Gray
+ci batt 12
+ci ftype Unleaded
+ci exha Single
+ci ign Distributor and coil
+ci cool 23 Quarts
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize LR78 x 15D
+cls 983, 6F23(\w)5(\w)([\dX]{6})
+clv 4081, 1975, Cadillac, 75, Sedan
+ci axle Semifloating
+ci series 75
+ci make Cadillac
+ci origin United States
+ci msrp $14218.00
+ci year 1975
+ci prod 876
+ci weight 5720
+ci maker Fleetwood
+ci model 6F23
+ci doors 4
+ci svc Power front disc rear self-adjusting drum
+ci bsize 12
+ci ebrake Rear wheels
+ci tcase -NA-
+ci fuel 27
+ci rdiff 5
+ci trans 12.2 Quarts
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.15
+ci diff Hypoid
+ci width 79.8
+ci height 56.8
+ci wbase 151.5
+ci length 252.2
+ci rtred 63.3
+ci block Cast Iron
+ci etype V8 Overhead valve
+ci cyl 8
+ci comp 8.5
+ci bhp 210@3600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci engno Prefix 6 + last 8 digits of VIN
+ci rhp 59.17
+ci trq 380@2000
+ci vlift Hydraulic
+ci englo On block behind intake manifold.
+ci disp 500
+ci b&s 4.3 & 4.3
+ci mbear 5
+ci etype Turbo Hydra-matic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Bombay Yellow
+co Cameo Rosewood Firemist Metallic
+co Cerise Firemist Metallic
+co Cotillion White
+co Emberust Firemist Metallic
+co Georgian Silver Metallic
+co Gossamer Blue Firemist Metallic
+co Inveray Green Metallic
+co Jasper Green
+co Jennifer Blue
+co Knickerbocker Tan
+co Lido Green Metallic
+co Mandarin Orange Metallic
+co Monarch Blue Metallic
+co Pueblo Beige Metallic
+co Roan Brown Metallic
+co Roxena Red
+co Sable Black
+co Shadow Rose Metallic
+co Tarragon Gold Metallic
+co Two Tone Colors Available
+co Vapour Gray
+ci batt 12
+ci ftype Unleaded
+ci exha Single
+ci ign Distributor and coil
+ci cool 23 Quarts
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize LR78 x 15D

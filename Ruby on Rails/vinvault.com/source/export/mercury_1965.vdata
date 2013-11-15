@@ -1,0 +1,4805 @@
+cls 4466, 5(\w)01(\w)([\dX]{6})
+clv 18895, 1965, Mercury, Comet 202 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1965
+ci make Mercury
+ci origin United States
+ci prod 32425
+ci msrp $2108.00
+ci series Comet 202 6
+ci model 62A
+ci weight 2725
+ci doors 2
+ci maker Mercury
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci tcase -NA-
+ci fuel 20
+ci oil 4.5
+ci rdiff 2.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 3.2
+ci rtred 56
+ci ftred 55.6
+ci width 72.9
+ci wbase 114
+ci height 55.2
+ci length 195.3
+ci mbear 7
+ci etype Own Inline 6
+ci rhp 32.5
+ci comp 9.2
+ci cyl 6
+ci bhp 120@4400
+ci disp 200
+ci block Special alloy iron
+ci etype Single downdraft
+ci trq 190@2400
+ci vlift Hydraulic
+ci etype Helical
+ci b&s 3.68 & 3.13
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci rad Cellular tubular
+ci batt 12
+ci cool 9.5 Quarts
+ci equip AM Radio Push Button
+ci equip Air Conditioner
+ci equip AM-FM Radio Push Button
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Tinted Windshield
+ci equip Tinted Glass (Complete)
+ci equip Other Tires
+ci equip Wheel Covers Deluxe
+ci equip Tachometer
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Safety Seat Belts Retractable
+ci equip Rally-Pac
+ci equip Axle Power Transfer Rear
+ci equip Heater and Defroster
+ci equip Emergency Flasher
+ci equip Remote Control Deck-Lid Release
+ci equip Safety Seat Belts
+ci equip Wheel Covers-Wire
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.69
+ci drive Rear wheel drive
+ci 1gear 2.76
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci rev 3.74
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4467, 5(\w)02(\w)([\dX]{6})
+clv 18896, 1965, Mercury, Comet 202 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1965
+ci make Mercury
+ci origin United States
+ci msrp $2163.00
+ci prod 23501
+ci series Comet 202 6
+ci model 54A
+ci weight 2765
+ci doors 4
+ci maker Mercury
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci rdiff 2.5
+ci fuel 20
+ci oil 4.5
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diffr 3.2
+ci diff Hypoid
+ci ftred 55.6
+ci height 55.2
+ci rtred 56
+ci width 72.9
+ci wbase 114
+ci length 195.3
+ci mbear 7
+ci etype Own Inline 6
+ci rhp 32.5
+ci comp 9.2
+ci cyl 6
+ci bhp 120@4400
+ci disp 200
+ci block Special alloy iron
+ci etype Single downdraft
+ci trq 190@2400
+ci vlift Hydraulic
+ci etype Helical
+ci b&s 3.68 & 3.13
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci rad Cellular tubular
+ci batt 12
+ci cool 9.5 Quarts
+ci equip AM Radio Push Button
+ci equip Air Conditioner
+ci equip AM-FM Radio Push Button
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Tinted Windshield
+ci equip Tinted Glass (Complete)
+ci equip Other Tires
+ci equip Wheel Covers Deluxe
+ci equip Tachometer
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Safety Seat Belts Retractable
+ci equip Rally-Pac
+ci equip Axle Power Transfer Rear
+ci equip Heater and Defroster
+ci equip Emergency Flasher
+ci equip Remote Control Deck-Lid Release
+ci equip Safety Seat Belts
+ci equip Wheel Covers-Wire
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.69
+ci drive Rear wheel drive
+ci 1gear 2.76
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci rev 3.74
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4468, 5(\w)32(\w)([\dX]{6})
+clv 18897, 1965, Mercury, Comet 202 6, Station Wagon
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet 202 6
+ci make Mercury
+ci origin United States
+ci msrp $2438.00
+ci year 1965
+ci prod 4814
+ci model 71A
+ci weight 2925
+ci doors 4
+ci maker Mercury
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci oil 4.5
+ci rdiff 2.5
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.2
+ci ftred 55.6
+ci rtred 56
+ci length 191.8
+ci wbase 114
+ci width 71.6
+ci height 55.5
+ci bhp 120@4400
+ci etype Single downdraft
+ci comp 9.2
+ci disp 200
+ci vlift Hydraulic
+ci etype Helical
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Own Inline 6
+ci mbear 7
+ci trq 190@2400
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci block Special alloy iron
+ci cyl 6
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci ftype Regular
+ci rad Cellular tubular
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci cool 9.5 Quarts
+ci ign Distributor and coil
+ci equip Wheel Covers-Wire
+ci equip Wheel Covers Deluxe
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Heater and Defroster
+ci equip Tinted Windshield
+ci equip Other Tires
+ci equip Emergency Flasher
+ci equip Axle Power Transfer Rear
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Air Conditioner
+ci equip Rally-Pac
+ci equip Tinted Glass (Complete)
+ci equip Tachometer
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Safety Seat Belts
+ci equip Safety Seat Belts Retractable
+ci equip Remote Control Deck-Lid Release
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci rev 3.74
+ci 1gear 2.76
+ci 2gear 1.69
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+cls 4469, 5(\w)01(\w)([\dX]{6})
+clv 18898, 1965, Mercury, Comet 202 8, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci msrp $2262.00
+ci origin United States
+ci series Comet 202 8
+ci year 1965
+ci prod 32425
+ci weight 2873
+ci model 62A
+ci maker Mercury
+ci doors 2
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci oil 5
+ci rdiff 4.5
+ci tcase -NA-
+ci trans 3.5
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 2.8
+ci length 195.3
+ci wbase 114
+ci width 72.9
+ci height 55.2
+ci ftred 55.6
+ci rtred 56
+ci rhp 51.2
+ci mbear 5
+ci b&s 4 & 2.87
+ci cyl 8
+ci comp 9.3
+ci etype Own Cyclone Super V8
+ci disp 289
+ci trq 282@2400
+ci block Special alloy iron
+ci bhp 200@4400
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci cool 14.5 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci rad Cellular tubular
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci equip Tinted Windshield
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Wheel Covers Deluxe
+ci equip Tinted Glass (Complete)
+ci equip Other Tires
+ci equip Air Conditioner
+ci equip Tachometer
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Safety Seat Belts Retractable
+ci equip Rally-Pac
+ci equip Axle Power Transfer Rear
+ci equip Heater and Defroster
+ci equip Emergency Flasher
+ci equip Remote Control Deck-Lid Release
+ci equip Wheel Covers-Wire
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci rev 2.87
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.7
+ci 1gear 2.79
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 4470, 5(\w)02(\w)([\dX]{6})
+clv 18899, 1965, Mercury, Comet 202 8, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet 202 8
+ci msrp $2318.00
+ci prod 23501
+ci make Mercury
+ci origin United States
+ci year 1965
+ci maker Mercury
+ci weight 2913
+ci model 54A
+ci doors 4
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 20
+ci trans 3.5
+ci tcase -NA-
+ci oil 5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 2.8
+ci diff Hypoid
+ci length 195.3
+ci width 72.9
+ci wbase 114
+ci rtred 56
+ci height 55.2
+ci ftred 55.6
+ci cyl 8
+ci rhp 51.2
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 2.87
+ci comp 9.3
+ci disp 289
+ci trq 282@2400
+ci mbear 5
+ci vlift Hydraulic
+ci bhp 200@4400
+ci etype Dual downdraft
+ci block Special alloy iron
+ci etype Own Cyclone Super V8
+ci etype Fully synchronized
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci rad Cellular tubular
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 14.5 Quarts
+ci batt 12
+ci equip Power Steering
+ci equip Wheel Covers-Wire
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Wheel Covers Deluxe
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Other Tires
+ci equip Air Conditioner
+ci equip Axle Power Transfer Rear
+ci equip Power Brakes
+ci equip Tinted Windshield
+ci equip Tinted Glass (Complete)
+ci equip Rally-Pac
+ci equip Tachometer
+ci equip Emergency Flasher
+ci equip Safety Seat Belts Retractable
+ci equip Remote Control Deck-Lid Release
+ci equip Heater and Defroster
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci rev 2.87
+ci 1gear 2.79
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 4471, 5(\w)32(\w)([\dX]{6})
+clv 18900, 1965, Mercury, Comet 202 8, Station Wagon
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1965
+ci msrp $2599.00
+ci prod 4814
+ci origin United States
+ci series Comet 202 8
+ci make Mercury
+ci model 71A
+ci maker Mercury
+ci weight 3073
+ci doors 4
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci rdiff 4.5
+ci tcase -NA-
+ci trans 3.5
+ci fuel 20
+ci oil 5
+ci carb Own
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.8
+ci width 71.6
+ci wbase 114
+ci length 191.8
+ci height 55.5
+ci ftred 55.6
+ci rtred 56
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci cyl 8
+ci comp 9.3
+ci vlift Hydraulic
+ci rhp 51.2
+ci etype Own Cyclone Super V8
+ci block Special alloy iron
+ci bhp 200@4400
+ci etype Fully synchronized
+ci trq 282@2400
+ci etype Dual downdraft
+ci b&s 4 & 2.87
+ci disp 289
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci rad Cellular tubular
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci cool 14.5 Quarts
+ci ign Distributor and coil
+ci equip Wheel Covers-Wire
+ci equip Wheel Covers Deluxe
+ci equip Heater and Defroster
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Emergency Flasher
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Other Tires
+ci equip Axle Power Transfer Rear
+ci equip Air Conditioner
+ci equip Power Brakes
+ci equip Power Steering
+ci equip AM-FM Radio Push Button
+ci equip Rally-Pac
+ci equip Tinted Windshield
+ci equip Tinted Glass (Complete)
+ci equip Tachometer
+ci equip Remote Control Deck-Lid Release
+ci equip Safety Seat Belts Retractable
+ci equip AM Radio Push Button
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.7
+ci rev 2.87
+ci 1gear 2.79
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+cls 4472, 5(\w)11(\w)([\dX]{6})
+clv 18901, 1965, Mercury, Comet 404 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci series Comet 404 6
+ci prod 10900
+ci make Mercury
+ci year 1965
+ci msrp $2193.00
+ci model 62B
+ci weight 2735
+ci maker Mercury
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci oil 4.5
+ci fuel 20
+ci rdiff 2.5
+ci tcase -NA-
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.2
+ci length 195.3
+ci rtred 56
+ci height 55.2
+ci ftred 55.6
+ci wbase 114
+ci width 72.9
+ci mbear 7
+ci trq 190@2400
+ci bhp 120@4400
+ci comp 9.2
+ci etype Own Inline 6
+ci cyl 6
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci etype Single downdraft
+ci vlift Hydraulic
+ci block Special alloy iron
+ci etype Helical
+ci disp 200
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci batt 12
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci exha Single
+ci cool 9.5 Quarts
+ci equip AM Radio Push Button
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Air Conditioner
+ci equip AM-FM Radio Push Button
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Wheel Covers Deluxe
+ci equip Tinted Windshield
+ci equip Other Tires
+ci equip Axle Power Transfer Rear
+ci equip Tinted Glass (Complete)
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Bucket Seats (Vinyl Trim)
+ci equip Rally-Pac
+ci equip Tachometer
+ci equip Heater and Defroster
+ci equip Emergency Flasher
+ci equip Remote Control Deck-Lid Release
+ci equip Safety Seat Belts
+ci equip Safety Seat Belts Retractable
+ci equip Wheel Covers-Wire
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.69
+ci 1gear 2.76
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci rev 3.74
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4473, 5(\w)12(\w)([\dX]{6})
+clv 18902, 1965, Mercury, Comet 404 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 18628
+ci msrp $2248.00
+ci make Mercury
+ci year 1965
+ci series Comet 404 6
+ci origin United States
+ci doors 4
+ci weight 2770
+ci maker Mercury
+ci model 54B
+ci bsize 9
+ci ebrake Cable and conduit on rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci oil 4.5
+ci fuel 20
+ci rdiff 2.5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diffr 3.2
+ci diff Hypoid
+ci length 195.3
+ci ftred 55.6
+ci rtred 56
+ci height 55.2
+ci wbase 114
+ci width 72.9
+ci mbear 7
+ci etype Own Inline 6
+ci bhp 120@4400
+ci comp 9.2
+ci cyl 6
+ci trq 190@2400
+ci rhp 32.5
+ci etype Single downdraft
+ci b&s 3.68 & 3.13
+ci vlift Hydraulic
+ci block Special alloy iron
+ci etype Helical
+ci disp 200
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci batt 12
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci exha Single
+ci cool 9.5 Quarts
+ci equip AM Radio Push Button
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Air Conditioner
+ci equip AM-FM Radio Push Button
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Wheel Covers Deluxe
+ci equip Tinted Windshield
+ci equip Other Tires
+ci equip Axle Power Transfer Rear
+ci equip Tinted Glass (Complete)
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Bucket Seats (Vinyl Trim)
+ci equip Rally-Pac
+ci equip Tachometer
+ci equip Heater and Defroster
+ci equip Emergency Flasher
+ci equip Remote Control Deck-Lid Release
+ci equip Safety Seat Belts
+ci equip Safety Seat Belts Retractable
+ci equip Wheel Covers-Wire
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.69
+ci 1gear 2.76
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci rev 3.74
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4474, 5(\w)34(\w)([\dX]{6})
+clv 18903, 1965, Mercury, Comet 404 6, Station Wagon
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci series Comet 404 6
+ci origin United States
+ci year 1965
+ci msrp $2523.00
+ci prod 5226
+ci model 71B
+ci weight 2930
+ci doors 4
+ci maker Mercury
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci rdiff 2.5
+ci fuel 20
+ci oil 4.5
+ci tcase -NA-
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.2
+ci length 191.8
+ci height 55.5
+ci ftred 55.6
+ci wbase 114
+ci width 71.6
+ci rtred 56
+ci mbear 7
+ci cyl 6
+ci comp 9.2
+ci etype Own Inline 6
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci bhp 120@4400
+ci disp 200
+ci etype Single downdraft
+ci trq 190@2400
+ci vlift Hydraulic
+ci etype Helical
+ci block Special alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci rad Cellular tubular
+ci ftype Regular
+ci cool 9.5 Quarts
+ci equip Rally-Pac
+ci equip Axle Power Transfer Rear
+ci equip Air Conditioner
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip AM-FM Radio Push Button
+ci equip Wheel Covers-Wire
+ci equip Other Tires
+ci equip AM Radio Push Button
+ci equip Wheel Covers Deluxe
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Tinted Windshield
+ci equip Tinted Glass (Complete)
+ci equip Tachometer
+ci equip Bucket Seats (Vinyl Trim)
+ci equip Heater and Defroster
+ci equip Safety Seat Belts
+ci equip Safety Seat Belts Retractable
+ci equip Emergency Flasher
+ci equip Remote Control Deck-Lid Release
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 1gear 2.76
+ci 2gear 1.69
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci rev 3.74
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+cls 4475, 5(\w)36(\w)([\dX]{6})
+clv 18904, 1965, Mercury, Comet 404 6, Villager
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 1592
+ci make Mercury
+ci origin United States
+ci msrp $2703.00
+ci year 1965
+ci series Comet 404 6
+ci maker Mercury
+ci weight 2930
+ci model 71C
+ci doors 4
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci fuel 20
+ci rdiff 2.5
+ci oil 4.5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diffr 3.2
+ci diff Hypoid
+ci ftred 55.6
+ci height 55.5
+ci length 191.8
+ci wbase 114
+ci width 71.6
+ci rtred 56
+ci mbear 7
+ci cyl 6
+ci comp 9.2
+ci etype Own Inline 6
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci disp 200
+ci block Special alloy iron
+ci etype Single downdraft
+ci bhp 120@4400
+ci vlift Hydraulic
+ci etype Helical
+ci trq 190@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci rad Cellular tubular
+ci ftype Regular
+ci cool 9.5 Quarts
+ci equip Rally-Pac
+ci equip Axle Power Transfer Rear
+ci equip Air Conditioner
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip AM-FM Radio Push Button
+ci equip Wheel Covers-Wire
+ci equip Other Tires
+ci equip AM Radio Push Button
+ci equip Wheel Covers Deluxe
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Tinted Windshield
+ci equip Tinted Glass (Complete)
+ci equip Tachometer
+ci equip Bucket Seats (Vinyl Trim)
+ci equip Heater and Defroster
+ci equip Safety Seat Belts
+ci equip Safety Seat Belts Retractable
+ci equip Emergency Flasher
+ci equip Remote Control Deck-Lid Release
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 1gear 2.76
+ci 2gear 1.69
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci rev 3.74
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+cls 4476, 5(\w)11(\w)([\dX]{6})
+clv 18905, 1965, Mercury, Comet 404 8, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1965
+ci msrp $2349.00
+ci origin United States
+ci make Mercury
+ci prod 10900
+ci series Comet 404 8
+ci maker Mercury
+ci model 62B
+ci doors 2
+ci weight 2883
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci oil 5
+ci fuel 20
+ci rdiff 4.5
+ci tcase -NA-
+ci trans 3.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 2.8
+ci diff Hypoid
+ci length 195.3
+ci width 72.9
+ci wbase 114
+ci height 55.2
+ci ftred 55.6
+ci rtred 56
+ci disp 289
+ci rhp 51.2
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 9.3
+ci etype Own Cyclone Super V8
+ci block Special alloy iron
+ci mbear 5
+ci bhp 200@4400
+ci etype Fully synchronized
+ci trq 282@2400
+ci etype Dual downdraft
+ci b&s 4 & 2.87
+ci vlift Hydraulic
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Cellular tubular
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci cool 14.5 Quarts
+ci equip Heater and Defroster
+ci equip Emergency Flasher
+ci equip Tachometer
+ci equip Axle Power Transfer Rear
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Air Conditioner
+ci equip AM-FM Radio Push Button
+ci equip Other Tires
+ci equip AM Radio Push Button
+ci equip Tinted Glass (Complete)
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Tinted Windshield
+ci equip Rally-Pac
+ci equip Safety Seat Belts Retractable
+ci equip Safety Seat Belts
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Remote Control Deck-Lid Release
+ci equip Wheel Covers-Wire
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 1gear 2.79
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci rev 2.87
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 4477, 5(\w)12(\w)([\dX]{6})
+clv 18906, 1965, Mercury, Comet 404 8, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 18628
+ci msrp $2405.00
+ci origin United States
+ci make Mercury
+ci year 1965
+ci series Comet 404 8
+ci model 54B
+ci maker Mercury
+ci weight 2918
+ci doors 4
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci oil 5
+ci tcase -NA-
+ci fuel 20
+ci trans 3.5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 2.8
+ci diff Hypoid
+ci width 72.9
+ci wbase 114
+ci length 195.3
+ci rtred 56
+ci height 55.2
+ci ftred 55.6
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 51.2
+ci cyl 8
+ci comp 9.3
+ci etype Own Cyclone Super V8
+ci mbear 5
+ci b&s 4 & 2.87
+ci block Special alloy iron
+ci etype Fully synchronized
+ci bhp 200@4400
+ci etype Dual downdraft
+ci trq 282@2400
+ci disp 289
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Cellular tubular
+ci exha Single
+ci cool 14.5 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Tachometer
+ci equip Heater and Defroster
+ci equip Safety Seat Belts
+ci equip Emergency Flasher
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Axle Power Transfer Rear
+ci equip Air Conditioner
+ci equip Other Tires
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Tinted Glass (Complete)
+ci equip Rally-Pac
+ci equip Tinted Windshield
+ci equip Safety Seat Belts Retractable
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Remote Control Deck-Lid Release
+ci equip Wheel Covers-Wire
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.79
+ci 2gear 1.7
+ci rev 2.87
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 4478, 5(\w)34(\w)([\dX]{6})
+clv 18907, 1965, Mercury, Comet 404 8, Station Wagon
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1965
+ci msrp $2686.00
+ci prod 5226
+ci origin United States
+ci series Comet 404 8
+ci make Mercury
+ci doors 4
+ci maker Mercury
+ci weight 3078
+ci model 71B
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci fuel 20
+ci trans 3.5
+ci oil 5
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 2.8
+ci diff Hypoid
+ci height 55.5
+ci wbase 114
+ci length 191.8
+ci width 71.6
+ci ftred 55.6
+ci rtred 56
+ci bhp 200@4400
+ci trq 282@2400
+ci cyl 8
+ci comp 9.3
+ci rhp 51.2
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Own Cyclone Super V8
+ci mbear 5
+ci vlift Hydraulic
+ci block Special alloy iron
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci b&s 4 & 2.87
+ci disp 289
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci cool Centrifugal water  pump
+ci batt 12
+ci cool 14.5 Quarts
+ci rad Cellular tubular
+ci exha Single
+ci ftype Regular
+ci ign Distributor and coil
+ci equip Wheel Covers-Wire
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Heater and Defroster
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Emergency Flasher
+ci equip Tinted Windshield
+ci equip Other Tires
+ci equip Axle Power Transfer Rear
+ci equip Air Conditioner
+ci equip Power Brakes
+ci equip Power Steering
+ci equip AM-FM Radio Push Button
+ci equip Rally-Pac
+ci equip Tinted Glass (Complete)
+ci equip Tachometer
+ci equip Safety Seat Belts Retractable
+ci equip Remote Control Deck-Lid Release
+ci equip Safety Seat Belts
+ci equip AM Radio Push Button
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.79
+ci 2gear 1.7
+ci 5gear Not applicable
+ci rev 2.87
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+cls 4479, 5(\w)36(\w)([\dX]{6})
+clv 18908, 1965, Mercury, Comet 404 8, Villager
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci msrp $2870.00
+ci year 1965
+ci prod 1592
+ci origin United States
+ci series Comet 404 8
+ci maker Mercury
+ci model 71C
+ci doors 4
+ci weight 3078
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 20
+ci rdiff 4.5
+ci tcase -NA-
+ci trans 3.5
+ci oil 5
+ci carb Own
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.8
+ci width 71.6
+ci wbase 114
+ci length 191.8
+ci height 55.5
+ci ftred 55.6
+ci rtred 56
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci cyl 8
+ci comp 9.3
+ci vlift Hydraulic
+ci rhp 51.2
+ci etype Own Cyclone Super V8
+ci block Special alloy iron
+ci b&s 4 & 2.87
+ci etype Fully synchronized
+ci trq 282@2400
+ci etype Dual downdraft
+ci bhp 200@4400
+ci disp 289
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci rad Cellular tubular
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci cool 14.5 Quarts
+ci ign Distributor and coil
+ci equip Wheel Covers-Wire
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Heater and Defroster
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Emergency Flasher
+ci equip Tinted Windshield
+ci equip Other Tires
+ci equip Axle Power Transfer Rear
+ci equip Air Conditioner
+ci equip Power Brakes
+ci equip Power Steering
+ci equip AM-FM Radio Push Button
+ci equip Rally-Pac
+ci equip Tinted Glass (Complete)
+ci equip Tachometer
+ci equip Safety Seat Belts Retractable
+ci equip Remote Control Deck-Lid Release
+ci equip Safety Seat Belts
+ci equip AM Radio Push Button
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.79
+ci 2gear 1.7
+ci 5gear Not applicable
+ci rev 2.87
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+cls 4480, 5(\w)25(\w)([\dX]{6})
+clv 18909, 1965, Mercury, Comet Caliente 6, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 6035
+ci make Mercury
+ci origin United States
+ci year 1965
+ci msrp $2607.00
+ci series Comet Caliente 6
+ci model 76D
+ci weight 3010
+ci doors 2
+ci maker Mercury
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci tcase -NA-
+ci rdiff 2.5
+ci oil 4.5
+ci fuel 20
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.2
+ci width 72.9
+ci rtred 56
+ci ftred 55.6
+ci wbase 114
+ci length 195.3
+ci height 54.1
+ci mbear 7
+ci etype Own Inline 6
+ci rhp 32.5
+ci comp 9.2
+ci b&s 3.68 & 3.13
+ci bhp 120@4400
+ci disp 200
+ci block Special alloy iron
+ci etype Single downdraft
+ci trq 190@2400
+ci vlift Hydraulic
+ci etype Helical
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci rad Cellular tubular
+ci exha Single
+ci cool 9.5 Quarts
+ci equip AM Radio Push Button
+ci equip Air Conditioner
+ci equip AM-FM Radio Push Button
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Tinted Windshield
+ci equip Other Tires
+ci equip Wheel Covers Deluxe
+ci equip Tinted Glass (Complete)
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Axle Power Transfer Rear
+ci equip Rally-Pac
+ci equip Tachometer
+ci equip Heater and Defroster
+ci equip Emergency Flasher
+ci equip Remote Control Deck-Lid Release
+ci equip Safety Seat Belts Retractable
+ci equip Wheel Covers-Wire
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.69
+ci 1gear 2.76
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci rev 3.74
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4481, 5(\w)23(\w)([\dX]{6})
+clv 18910, 1965, Mercury, Comet Caliente 6, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1965
+ci make Mercury
+ci origin United States
+ci msrp $2352.00
+ci prod 29247
+ci series Comet Caliente 6
+ci model 63D
+ci weight 2825
+ci doors 2
+ci maker Mercury
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci tcase -NA-
+ci fuel 20
+ci rdiff 2.5
+ci oil 4.5
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diffr 3.2
+ci diff Hypoid
+ci rtred 56
+ci ftred 55.6
+ci width 72.9
+ci wbase 114
+ci height 53.5
+ci length 195.3
+ci mbear 7
+ci etype Own Inline 6
+ci rhp 32.5
+ci comp 9.2
+ci cyl 6
+ci bhp 120@4400
+ci disp 200
+ci block Special alloy iron
+ci etype Single downdraft
+ci trq 190@2400
+ci vlift Hydraulic
+ci etype Helical
+ci b&s 3.68 & 3.13
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci rad Cellular tubular
+ci exha Single
+ci cool 9.5 Quarts
+ci equip AM Radio Push Button
+ci equip Air Conditioner
+ci equip AM-FM Radio Push Button
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Tinted Windshield
+ci equip Other Tires
+ci equip Wheel Covers Deluxe
+ci equip Tinted Glass (Complete)
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Axle Power Transfer Rear
+ci equip Rally-Pac
+ci equip Tachometer
+ci equip Heater and Defroster
+ci equip Emergency Flasher
+ci equip Remote Control Deck-Lid Release
+ci equip Safety Seat Belts Retractable
+ci equip Wheel Covers-Wire
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.69
+ci 1gear 2.76
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci rev 3.74
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4482, 5(\w)22(\w)([\dX]{6})
+clv 18911, 1965, Mercury, Comet Caliente 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1965
+ci make Mercury
+ci origin United States
+ci msrp $2327.00
+ci prod 20337
+ci series Comet Caliente 6
+ci model 54D
+ci weight 2800
+ci doors 4
+ci maker Mercury
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci rdiff 2.5
+ci fuel 20
+ci oil 4.5
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diffr 3.2
+ci diff Hypoid
+ci ftred 55.6
+ci height 55.2
+ci rtred 56
+ci width 72.9
+ci wbase 114
+ci length 195.3
+ci mbear 7
+ci etype Own Inline 6
+ci rhp 32.5
+ci comp 9.2
+ci cyl 6
+ci bhp 120@4400
+ci disp 200
+ci block Special alloy iron
+ci etype Single downdraft
+ci trq 190@2400
+ci vlift Hydraulic
+ci etype Helical
+ci b&s 3.68 & 3.13
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci rad Cellular tubular
+ci exha Single
+ci cool 9.5 Quarts
+ci equip AM Radio Push Button
+ci equip Air Conditioner
+ci equip AM-FM Radio Push Button
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Tinted Windshield
+ci equip Other Tires
+ci equip Wheel Covers Deluxe
+ci equip Tinted Glass (Complete)
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Axle Power Transfer Rear
+ci equip Rally-Pac
+ci equip Tachometer
+ci equip Heater and Defroster
+ci equip Emergency Flasher
+ci equip Remote Control Deck-Lid Release
+ci equip Safety Seat Belts Retractable
+ci equip Wheel Covers-Wire
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.69
+ci 1gear 2.76
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci rev 3.74
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4483, 5(\w)25(\w)([\dX]{6})
+clv 18912, 1965, Mercury, Comet Caliente 8, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 6035
+ci origin United States
+ci make Mercury
+ci series Comet Caliente 8
+ci year 1965
+ci doors 2
+ci weight 3291
+ci model 76D
+ci maker Mercury
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 20
+ci trans 3.5
+ci oil 5
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Own
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.8
+ci height 54.1
+ci length 195.3
+ci wbase 114
+ci ftred 55.6
+ci rtred 56
+ci width 72.9
+ci mbear 5
+ci rhp 51.2
+ci b&s 4 & 2.87
+ci cyl 8
+ci comp 9.3
+ci disp 289
+ci block Special alloy iron
+ci trq 282@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci bhp 200@4400
+ci etype Dual downdraft
+ci etype Own Cyclone Super V8
+ci vlift Hydraulic
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci rad Cellular tubular
+ci exha Single
+ci batt 12
+ci cool 14.5 Quarts
+ci equip Safety Seat Belts Retractable
+ci equip Tachometer
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Tinted Glass (Complete)
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Air Conditioner
+ci equip Tinted Windshield
+ci equip Other Tires
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Axle Power Transfer Rear
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Heater and Defroster
+ci equip Rally-Pac
+ci equip Bucket Seats (Vinyl Trim)
+ci equip Wheel Covers-Deluxe(Incl w/Decor Group)
+ci equip Emergency Flasher
+ci equip Remote Control Deck-Lid Release
+ci equip Safety Seat Belts
+ci equip Wheel Covers-Wire
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 2gear 1.7
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.87
+ci gears 3
+ci 1gear 2.79
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4484, 5(\w)23(\w)([\dX]{6})
+clv 18913, 1965, Mercury, Comet Caliente 8, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 29247
+ci msrp $2511.00
+ci origin United States
+ci make Mercury
+ci series Comet Caliente 8
+ci year 1965
+ci weight 2973
+ci maker Mercury
+ci doors 2
+ci model 63D
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci oil 5
+ci rdiff 4.5
+ci tcase -NA-
+ci fuel 20
+ci trans 3.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 2.8
+ci width 72.9
+ci length 195.3
+ci wbase 114
+ci height 53.5
+ci ftred 55.6
+ci rtred 56
+ci disp 289
+ci rhp 51.2
+ci mbear 5
+ci cyl 8
+ci comp 9.3
+ci bhp 200@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Own Cyclone Super V8
+ci b&s 4 & 2.87
+ci trq 282@2400
+ci block Special alloy iron
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci ign Distributor and coil
+ci cool 14.5 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci exha Single
+ci ftype Regular
+ci equip AM-FM Radio Push Button
+ci equip Wheel Covers-Wire
+ci equip Wheel Covers-Deluxe(Incl w/Decor Group)
+ci equip Emergency Flasher
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Bucket Seats (Vinyl Trim)
+ci equip Tinted Windshield
+ci equip Other Tires
+ci equip Axle Power Transfer Rear
+ci equip Air Conditioner
+ci equip Power Brakes
+ci equip Power Steering
+ci equip Heater and Defroster
+ci equip Rally-Pac
+ci equip Tinted Glass (Complete)
+ci equip Tachometer
+ci equip Safety Seat Belts Retractable
+ci equip Remote Control Deck-Lid Release
+ci equip Safety Seat Belts
+ci equip AM Radio Push Button
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.7
+ci rev 2.87
+ci gears 3
+ci 5gear Not applicable
+ci 1gear 2.79
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 4485, 5(\w)22(\w)([\dX]{6})
+clv 18914, 1965, Mercury, Comet Caliente 8, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet Caliente 8
+ci msrp $2486.00
+ci prod 20337
+ci make Mercury
+ci origin United States
+ci year 1965
+ci maker Mercury
+ci weight 2948
+ci model 54D
+ci doors 4
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 20
+ci trans 3.5
+ci tcase -NA-
+ci oil 5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 2.8
+ci diff Hypoid
+ci width 72.9
+ci height 55.2
+ci wbase 114
+ci length 195.3
+ci rtred 56
+ci ftred 55.6
+ci cyl 8
+ci b&s 4 & 2.87
+ci rhp 51.2
+ci etype Own Cyclone Super V8
+ci comp 9.3
+ci disp 289
+ci trq 282@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci mbear 5
+ci bhp 200@4400
+ci block Special alloy iron
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci ign Distributor and coil
+ci rad Cellular tubular
+ci exha Single
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 14.5 Quarts
+ci batt 12
+ci equip Power Steering
+ci equip Wheel Covers-Wire
+ci equip Wheel Covers-Deluxe(Incl w/Decor Group)
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Tinted Windshield
+ci equip Other Tires
+ci equip Axle Power Transfer Rear
+ci equip Heater and Defroster
+ci equip Power Brakes
+ci equip Air Conditioner
+ci equip Tinted Glass (Complete)
+ci equip Rally-Pac
+ci equip Tachometer
+ci equip Emergency Flasher
+ci equip Safety Seat Belts Retractable
+ci equip Remote Control Deck-Lid Release
+ci equip Safety Seat Belts
+ci equip Bucket Seats (Vinyl Trim)
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci rev 2.87
+ci 5gear Not applicable
+ci 1gear 2.79
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.95 x 14
+ci sloc Trunk
+cls 4486, 5(\w)27(\w)([\dX]{6})
+clv 18915, 1965, Mercury, Comet Cyclone 8, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2683.00
+ci make Mercury
+ci year 1965
+ci series Comet Cyclone 8
+ci prod 12345
+ci origin United States
+ci model 63E
+ci doors 2
+ci weight 3283
+ci maker Mercury
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci trans 3.5
+ci fuel 20
+ci oil 5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 2.8
+ci diff Hypoid
+ci length 195.3
+ci width 72.9
+ci wbase 114
+ci rtred 56
+ci height 53.5
+ci ftred 55.6
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci b&s 4 & 2.87
+ci cyl 8
+ci block Special alloy iron
+ci etype Own Cyclone Super V8
+ci trq 305@3200
+ci disp 289
+ci bhp 225@4800
+ci comp 10.0
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci etype Fully synchronized
+ci color Exterior Colors
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Blue Ice/Lower-Midnight Blue
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+ci exha Single
+ci cool Centrifugal water  pump
+ci cool 14.5 Quarts
+ci ftype Premium
+ci batt 12
+ci rad Cellular tubular
+ci ign Distributor and coil
+ci equip Heater and Defroster
+ci equip Emergency Flasher
+ci equip Wire Wheel Covers
+ci equip Wheel Covers Wire
+ci equip Deluxe Wheel Covers
+ci equip Bucket Seats (w/vinyl trim optional)
+ci equip Mirror Outside Remote control
+ci equip Multi-Drive automatic transmission
+ci equip Axle Power Transfer Rear
+ci equip Wheel Covers Deluxe
+ci equip Other Tires
+ci equip Air Conditioner
+ci equip AM-FM Radio Push Button
+ci equip Performance Handling Packaage
+ci equip Power Brakes
+ci equip Power Rear Window
+ci equip Power Steering
+ci equip Power Transfer Rear Axle
+ci equip Power Windows
+ci equip Safety Seat Belts Retractable
+ci equip Vacuum Gauge (w/V-8 engines only)
+ci equip Rally-Pac
+ci equip Tinted Glass (Complete)
+ci equip Tachometer
+ci equip Remote Control Deck-Lid Release
+ci equip AM Radio Push Button
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.79
+ci 2gear 1.7
+ci rev 2.87
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 4487, 5(\w)52(\w)([\dX]{6})
+clv 18916, 1965, Mercury, Montclair, Breezeway Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1965
+ci origin United States
+ci make Mercury
+ci series Montclair
+ci prod 18924
+ci msrp $3137.00
+ci model 50B
+ci maker Mercury
+ci weight 3933
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci trans 3
+ci rdiff 5
+ci oil 6
+ci tcase -NA-
+ci fuel 21
+ci carb Own
+ci csize 11 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 123
+ci width 79.6
+ci rtred 62
+ci length 218.4
+ci height 56
+ci block Special alloy iron
+ci rhp 52.41
+ci mbear 5
+ci cyl 8
+ci b&s 4 3/64 & 3 25/32
+ci comp 9.4
+ci disp 389.09
+ci trq 378@2400
+ci etype V8 Valve-in-head
+ci etype Dual downdraft
+ci bhp 250@4400
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci rad Cellular tubular
+ci cool 20.5 Quarts
+ci exha Single
+ci equip Tinted Windshield
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Multi-Drive automatic transmission
+ci equip Wheel Covers Custom
+ci equip Air Conditioner Deluxe
+ci equip 427 cu. in. V8 engine
+ci equip Power Brakes
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Axle Power Transfer Rear
+ci equip Tinted Glass (Complete)
+ci equip Heater and defroster
+ci equip White Sidewall Tires
+ci equip Remote Control Trunk Release
+ci equip Safety Seat Belts (Front
+ci equip Wire wheels
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci 5gear Not applicable
+ci rev 2.33
+ci 2gear 1.61
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4488, 5(\w)57(\w)([\dX]{6})
+clv 18917, 1965, Mercury, Montclair, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series Montclair
+ci origin United States
+ci prod 9645
+ci year 1965
+ci msrp $3135.00
+ci make Mercury
+ci maker Mercury
+ci doors 2
+ci weight 3848
+ci model 63B
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci oil 6
+ci trans 3
+ci fuel 21
+ci rdiff 5
+ci carb Own
+ci ctype Single dry plate
+ci csize 11 inches
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 123
+ci width 79.4
+ci height 55.1
+ci length 218.4
+ci rtred 62
+ci etype Dual downdraft
+ci mbear 5
+ci cyl 8
+ci rhp 52.41
+ci comp 9.4
+ci disp 389.09
+ci trq 378@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 250@4400
+ci block Special alloy iron
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci b&s 4 3/64 & 3 25/32
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci rad Cellular tubular
+ci cool 20.5 Quarts
+ci exha Single
+ci equip Tinted Windshield
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Multi-Drive automatic transmission
+ci equip Wheel Covers Custom
+ci equip Air Conditioner Deluxe
+ci equip 427 cu. in. V8 engine
+ci equip Power Brakes
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Axle Power Transfer Rear
+ci equip Tinted Glass (Complete)
+ci equip Heater and defroster
+ci equip White Sidewall Tires
+ci equip Remote Control Trunk Release
+ci equip Safety Seat Belts (Front
+ci equip Wire wheels
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci 5gear Not applicable
+ci rev 2.33
+ci 2gear 1.61
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4489, 5(\w)58(\w)([\dX]{6})
+clv 18918, 1965, Mercury, Montclair, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1965
+ci origin United States
+ci make Mercury
+ci series Montclair
+ci prod 16977
+ci msrp $3210.00
+ci model 57B
+ci maker Mercury
+ci weight 3928
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci tcase -NA-
+ci trans 3
+ci fuel 21
+ci oil 6
+ci carb Own
+ci csize 11 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 218.4
+ci wbase 123
+ci rtred 62
+ci height 55.1
+ci width 79.6
+ci rhp 52.41
+ci block Special alloy iron
+ci mbear 5
+ci cyl 8
+ci b&s 4 3/64 & 3 25/32
+ci comp 9.4
+ci disp 389.09
+ci trq 378@2400
+ci etype V8 Valve-in-head
+ci etype Dual downdraft
+ci bhp 250@4400
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci rad Cellular tubular
+ci cool 20.5 Quarts
+ci exha Single
+ci equip Tinted Windshield
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Multi-Drive automatic transmission
+ci equip Wheel Covers Custom
+ci equip Air Conditioner Deluxe
+ci equip 427 cu. in. V8 engine
+ci equip Power Brakes
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Axle Power Transfer Rear
+ci equip Tinted Glass (Complete)
+ci equip Heater and defroster
+ci equip White Sidewall Tires
+ci equip Remote Control Trunk Release
+ci equip Safety Seat Belts (Front
+ci equip Wire wheels
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci 5gear Not applicable
+ci rev 2.33
+ci 2gear 1.61
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4490, 5(\w)42(\w)([\dX]{6})
+clv 18919, 1965, Mercury, Monterey, Breezeway Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2904.00
+ci origin United States
+ci make Mercury
+ci year 1965
+ci prod 19569
+ci series Monterey
+ci weight 3898
+ci maker Mercury
+ci model 50A
+ci doors 4
+ci bsize 11 1/32
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci oil 6
+ci trans 3
+ci tcase -NA-
+ci fuel 21
+ci carb Own
+ci csize 11 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 79.6
+ci wbase 123
+ci rtred 62
+ci length 218.4
+ci height 56
+ci cyl 8
+ci block Special alloy iron
+ci mbear 5
+ci rhp 52.41
+ci vlift Hydraulic
+ci comp 9.4
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci etype Fully synchronized
+ci trq 378@2400
+ci etype Dual downdraft
+ci bhp 250@4400
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci ftype Regular
+ci rad Cellular tubular
+ci ign Distributor and coil
+ci equip Wire wheels
+ci equip Heater and defroster
+ci equip Tinted Windshield
+ci equip Bucket Seats (w/vinyl trim optional)
+ci equip Multi-Drive automatic transmission
+ci equip Axle Power Transfer Rear
+ci equip White Sidewall Tires
+ci equip Air Conditioner Deluxe
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Wheel Covers Deluxe
+ci equip Power Windows (side)
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Wheel Covers Custom
+ci equip Tinted Glass (Complete)
+ci equip Remote Control Trunk Release
+ci equip Safety Seat Belts (Front
+ci equip 427 cu. in. V8 engine
+ci equip Power Vent Windows
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci drive Rear wheel drive
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4491, 5(\w)45(\w)([\dX]{6})
+clv 18920, 1965, Mercury, Monterey, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci prod 4762
+ci year 1965
+ci series Monterey
+ci msrp $3230.00
+ci maker Mercury
+ci doors 2
+ci model 76A
+ci weight 3928
+ci bsize 11 1/32
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci fuel 21
+ci trans 3
+ci tcase -NA-
+ci oil 6
+ci carb Own
+ci ctype Single dry plate
+ci csize 11 inches
+ci diff Hypoid
+ci diffr 3.0
+ci length 218.4
+ci wbase 123
+ci rtred 62
+ci height 55.2
+ci width 79.4
+ci cyl 8
+ci block Special alloy iron
+ci mbear 5
+ci rhp 52.41
+ci vlift Hydraulic
+ci comp 9.4
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci etype Fully synchronized
+ci trq 378@2400
+ci etype Dual downdraft
+ci bhp 250@4400
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci ftype Regular
+ci rad Cellular tubular
+ci ign Distributor and coil
+ci equip Wire wheels
+ci equip Heater and defroster
+ci equip Tinted Windshield
+ci equip Bucket Seats (w/vinyl trim optional)
+ci equip Multi-Drive automatic transmission
+ci equip Axle Power Transfer Rear
+ci equip White Sidewall Tires
+ci equip Air Conditioner Deluxe
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Wheel Covers Deluxe
+ci equip Power Windows (side)
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Wheel Covers Custom
+ci equip Tinted Glass (Complete)
+ci equip Remote Control Trunk Release
+ci equip Safety Seat Belts (Front
+ci equip 427 cu. in. V8 engine
+ci equip Power Vent Windows
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci drive Rear wheel drive
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4492, 5(\w)47(\w)([\dX]{6})
+clv 18921, 1965, Mercury, Monterey, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci year 1965
+ci prod 16857
+ci series Monterey
+ci msrp $2902.00
+ci maker Mercury
+ci weight 3823
+ci doors 2
+ci model 63A
+ci bsize 11 1/32
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci oil 6
+ci tcase -NA-
+ci trans 3
+ci fuel 21
+ci carb Own
+ci ctype Single dry plate
+ci csize 11 inches
+ci diffr 3.0
+ci diff Hypoid
+ci width 79.4
+ci wbase 123
+ci rtred 62
+ci height 55.1
+ci length 218.4
+ci rhp 52.41
+ci block Special alloy iron
+ci mbear 5
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci comp 9.4
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 389.09
+ci trq 378@2400
+ci bhp 250@4400
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci cyl 8
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci rad Cellular tubular
+ci exha Single
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 20.5 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci equip Wire wheels
+ci equip Heater and defroster
+ci equip Tinted Windshield
+ci equip Bucket Seats (w/vinyl trim optional)
+ci equip Multi-Drive automatic transmission
+ci equip Axle Power Transfer Rear
+ci equip White Sidewall Tires
+ci equip Air Conditioner Deluxe
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Wheel Covers Deluxe
+ci equip Power Windows (side)
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Wheel Covers Custom
+ci equip Tinted Glass (Complete)
+ci equip Remote Control Trunk Release
+ci equip Safety Seat Belts (Front
+ci equip 427 cu. in. V8 engine
+ci equip Power Vent Windows
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci drive Rear wheel drive
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4493, 5(\w)48(\w)([\dX]{6})
+clv 18922, 1965, Mercury, Monterey, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 10047
+ci origin United States
+ci make Mercury
+ci msrp $2978.00
+ci year 1965
+ci series Monterey
+ci doors 4
+ci maker Mercury
+ci model 57A
+ci weight 3893
+ci bsize 11 1/32
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci oil 6
+ci trans 3
+ci tcase -NA-
+ci fuel 21
+ci carb Own
+ci ctype Single dry plate
+ci csize 11 inches
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 123
+ci length 218.4
+ci rtred 62
+ci height 55.1
+ci width 79.6
+ci cyl 8
+ci rhp 52.41
+ci mbear 5
+ci block Special alloy iron
+ci vlift Hydraulic
+ci comp 9.4
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci etype Fully synchronized
+ci trq 378@2400
+ci etype Dual downdraft
+ci bhp 250@4400
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci ftype Regular
+ci rad Cellular tubular
+ci ign Distributor and coil
+ci equip Wire wheels
+ci equip Heater and defroster
+ci equip Tinted Windshield
+ci equip Bucket Seats (w/vinyl trim optional)
+ci equip Multi-Drive automatic transmission
+ci equip Axle Power Transfer Rear
+ci equip White Sidewall Tires
+ci equip Air Conditioner Deluxe
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Wheel Covers Deluxe
+ci equip Power Windows (side)
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Wheel Covers Custom
+ci equip Tinted Glass (Complete)
+ci equip Remote Control Trunk Release
+ci equip Safety Seat Belts (Front
+ci equip 427 cu. in. V8 engine
+ci equip Power Vent Windows
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci drive Rear wheel drive
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4494, 5(\w)43(\w)([\dX]{6})
+clv 18923, 1965, Mercury, Monterey, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci prod 5775
+ci year 1965
+ci series Monterey
+ci msrp $2767.00
+ci maker Mercury
+ci doors 2
+ci model 62A
+ci weight 3788
+ci bsize 11 1/32
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 6
+ci tcase -NA-
+ci trans 3
+ci rdiff 5
+ci fuel 21
+ci carb Own
+ci ctype Single dry plate
+ci csize 11 inches
+ci diffr 3.0
+ci diff Hypoid
+ci height 56
+ci length 218.4
+ci wbase 123
+ci width 79.4
+ci rtred 62
+ci etype V8 Valve-in-head
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci trq 378@2400
+ci disp 389.09
+ci comp 9.4
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 52.41
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci bhp 250@4400
+ci cyl 8
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci ftype Regular
+ci cool 20.5 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci equip Wire wheels
+ci equip Heater and defroster
+ci equip Tinted Windshield
+ci equip Bucket Seats (w/vinyl trim optional)
+ci equip Multi-Drive automatic transmission
+ci equip Axle Power Transfer Rear
+ci equip White Sidewall Tires
+ci equip Air Conditioner Deluxe
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Wheel Covers Deluxe
+ci equip Power Windows (side)
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Wheel Covers Custom
+ci equip Tinted Glass (Complete)
+ci equip Remote Control Trunk Release
+ci equip Safety Seat Belts (Front
+ci equip 427 cu. in. V8 engine
+ci equip Power Vent Windows
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci drive Rear wheel drive
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4495, 5(\w)44(\w)([\dX]{6})
+clv 18924, 1965, Mercury, Monterey, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 23363
+ci origin United States
+ci make Mercury
+ci year 1965
+ci msrp $2839.00
+ci series Monterey
+ci maker Mercury
+ci model 54A
+ci doors 4
+ci weight 3853
+ci bsize 11 1/32
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci oil 6
+ci trans 3
+ci tcase -NA-
+ci fuel 21
+ci carb Own
+ci csize 11 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 79.6
+ci wbase 123
+ci rtred 62
+ci length 218.4
+ci height 56
+ci cyl 8
+ci rhp 52.41
+ci mbear 5
+ci block Special alloy iron
+ci vlift Hydraulic
+ci comp 9.4
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci etype Fully synchronized
+ci trq 378@2400
+ci etype Dual downdraft
+ci bhp 250@4400
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci cool 20.5 Quarts
+ci ftype Regular
+ci rad Cellular tubular
+ci ign Distributor and coil
+ci equip Wire wheels
+ci equip Heater and defroster
+ci equip Tinted Windshield
+ci equip Bucket Seats (w/vinyl trim optional)
+ci equip Multi-Drive automatic transmission
+ci equip Axle Power Transfer Rear
+ci equip White Sidewall Tires
+ci equip Air Conditioner Deluxe
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Wheel Covers Deluxe
+ci equip Power Windows (side)
+ci equip AM-FM Radio Push Button
+ci equip AM Radio Push Button
+ci equip Wheel Covers Deluxe w/Spinner
+ci equip Wheel Covers Custom
+ci equip Tinted Glass (Complete)
+ci equip Remote Control Trunk Release
+ci equip Safety Seat Belts (Front
+ci equip 427 cu. in. V8 engine
+ci equip Power Vent Windows
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci drive Rear wheel drive
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4496, 5(\w)62(\w)([\dX]{6})
+clv 18925, 1965, Mercury, Parklane, Breezeway Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Parklane
+ci msrp $3369.00
+ci make Mercury
+ci prod 8335
+ci origin United States
+ci year 1965
+ci weight 3988
+ci maker Mercury
+ci doors 4
+ci model 50F
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci tcase -NA-
+ci oil 6
+ci rdiff 5
+ci fuel 21
+ci trans 20
+ci carb Own
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci height 56
+ci length 218.4
+ci rtred 62
+ci wbase 123
+ci width 79.6
+ci trq 427@2800
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Valve-in-head
+ci mbear 5
+ci rhp 52.41
+ci block Special alloy iron
+ci etype Multi-Drive automatic
+ci disp 389.09
+ci comp 10.0
+ci etype Downdraft 4-barrel
+ci bhp 300@4600
+ci vlift Hydraulic
+ci b&s 4 3/64 & 3 25/32
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci ftype Premium
+ci exha Dual
+ci batt 12
+ci ign Distributor and coil
+ci cool 20.5 Quarts
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci equip Heater and defroster
+ci equip Axle Power Transfer Rear
+ci equip Air Conditioner Deluxe
+ci equip Park Lane Sports Package
+ci equip AM-FM Radio Push Button
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Multi-Drive automatic transmission
+ci equip AM Radio Push Button
+ci equip White Sidewall Tires
+ci equip Wheel Covers Deluxe
+ci equip Tinted Glass (Complete)
+ci equip Remote Control Trunk Release
+ci equip Safety Seat Belts (Front
+ci equip 427 cu. in. V8 engine
+ci equip Wheel Covers Custom
+ci equip Tinted Windshield
+ci equip Wire wheels
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4497, 5(\w)65(\w)([\dX]{6})
+clv 18926, 1965, Mercury, Parklane, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci prod 2084
+ci origin United States
+ci series Parklane
+ci year 1965
+ci msrp $3599.00
+ci doors 2
+ci maker Mercury
+ci weight 4013
+ci model 76F
+ci bsize 11 1/32
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci oil 6
+ci tcase -NA-
+ci fuel 21
+ci trans 20
+ci carb Own
+ci ctype Not applicable
+ci diffr 3.0
+ci diff Hypoid
+ci length 218.4
+ci height 55.2
+ci rtred 62
+ci wbase 123
+ci width 79.4
+ci cyl 8
+ci rhp 52.41
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci trq 427@2800
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci etype Multi-Drive automatic
+ci etype V8 Valve-in-head
+ci comp 10.0
+ci etype Downdraft 4-barrel
+ci disp 389.09
+ci vlift Hydraulic
+ci bhp 300@4600
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci ftype Premium
+ci exha Dual
+ci batt 12
+ci ign Distributor and coil
+ci cool 20.5 Quarts
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci equip Heater and defroster
+ci equip Axle Power Transfer Rear
+ci equip Air Conditioner Deluxe
+ci equip Park Lane Sports Package
+ci equip AM-FM Radio Push Button
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Multi-Drive automatic transmission
+ci equip AM Radio Push Button
+ci equip White Sidewall Tires
+ci equip Wheel Covers Deluxe
+ci equip Tinted Glass (Complete)
+ci equip Remote Control Trunk Release
+ci equip Safety Seat Belts (Front
+ci equip 427 cu. in. V8 engine
+ci equip Wheel Covers Custom
+ci equip Tinted Windshield
+ci equip Wire wheels
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4498, 5(\w)67(\w)([\dX]{6})
+clv 18927, 1965, Mercury, Parklane, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci series Parklane
+ci make Mercury
+ci msrp $3367.00
+ci year 1965
+ci prod 5111
+ci weight 3908
+ci doors 2
+ci maker Mercury
+ci model 63F
+ci bsize 11 1/32
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 6
+ci trans 20
+ci tcase -NA-
+ci fuel 21
+ci rdiff 5
+ci carb Own
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci length 218.4
+ci height 55.1
+ci rtred 62
+ci wbase 123
+ci width 79.4
+ci cyl 8
+ci block Special alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 389.09
+ci rhp 52.41
+ci etype V8 Valve-in-head
+ci mbear 5
+ci etype Multi-Drive automatic
+ci trq 427@2800
+ci comp 10.0
+ci etype Downdraft 4-barrel
+ci b&s 4 3/64 & 3 25/32
+ci vlift Hydraulic
+ci bhp 300@4600
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci ftype Premium
+ci exha Dual
+ci batt 12
+ci ign Distributor and coil
+ci cool 20.5 Quarts
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci equip Heater and defroster
+ci equip Axle Power Transfer Rear
+ci equip Air Conditioner Deluxe
+ci equip Park Lane Sports Package
+ci equip AM-FM Radio Push Button
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Multi-Drive automatic transmission
+ci equip AM Radio Push Button
+ci equip White Sidewall Tires
+ci equip Wheel Covers Deluxe
+ci equip Tinted Glass (Complete)
+ci equip Remote Control Trunk Release
+ci equip Safety Seat Belts (Front
+ci equip 427 cu. in. V8 engine
+ci equip Wheel Covers Custom
+ci equip Tinted Windshield
+ci equip Wire wheels
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4499, 5(\w)68(\w)([\dX]{6})
+clv 18928, 1965, Mercury, Parklane, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci msrp $3442.00
+ci make Mercury
+ci series Parklane
+ci prod 14211
+ci year 1965
+ci doors 4
+ci maker Mercury
+ci model 57F
+ci weight 3983
+ci bsize 11 1/32
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci fuel 21
+ci oil 6
+ci tcase -NA-
+ci trans 20
+ci carb Own
+ci ctype Not applicable
+ci diffr 3.0
+ci diff Hypoid
+ci length 218.4
+ci height 55.1
+ci wbase 123
+ci rtred 62
+ci width 79.6
+ci cyl 8
+ci rhp 52.41
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci trq 427@2800
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci etype Multi-Drive automatic
+ci etype V8 Valve-in-head
+ci comp 10.0
+ci etype Downdraft 4-barrel
+ci bhp 300@4600
+ci vlift Hydraulic
+ci disp 389.09
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci ftype Premium
+ci exha Dual
+ci batt 12
+ci ign Distributor and coil
+ci cool 20.5 Quarts
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci equip Heater and defroster
+ci equip Axle Power Transfer Rear
+ci equip Air Conditioner Deluxe
+ci equip Park Lane Sports Package
+ci equip AM-FM Radio Push Button
+ci equip Power Brakes
+ci equip Power Bucket Seat 4-way
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Vent Windows
+ci equip Power Windows (side)
+ci equip Multi-Drive automatic transmission
+ci equip AM Radio Push Button
+ci equip White Sidewall Tires
+ci equip Wheel Covers Deluxe
+ci equip Tinted Glass (Complete)
+ci equip Remote Control Trunk Release
+ci equip Safety Seat Belts (Front
+ci equip 427 cu. in. V8 engine
+ci equip Wheel Covers Custom
+ci equip Tinted Windshield
+ci equip Wire wheels
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4500, 5(\w)65(\w)([\dX]{6})
+clv 18929, 1965, Mercury, Parklane Sports, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci series Parklane Sports
+ci origin United States
+ci make Mercury
+ci year 1965
+ci prod 922
+ci doors 2
+ci model 76C
+ci maker Mercury
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci oil 6
+ci rdiff 5
+ci fuel 21
+ci trans 20
+ci carb Own
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci height 56
+ci rtred 62
+ci wbase 123
+ci width 79.6
+ci length 218.4
+ci rhp 52.41
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci trq 427@2800
+ci b&s 4 3/64 & 3 25/32
+ci etype Downdraft 4-barrel
+ci disp 389.09
+ci etype Multi-Drive automatic
+ci vlift Hydraulic
+ci bhp 300@4600
+ci block Special alloy iron
+ci comp 10.0
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Arcadian Blue
+co Caspian Blue Metallic
+co Diamond Blue
+co Dynasty Green Mset.
+co Florentine Green
+co Guardsman Blue Metallic
+co Pagoda Green
+co Prairie Tan
+co Rangoon Red
+co Raven Black
+co Samoan Coral
+co Silver Mink Metallic
+co Silver Smoke Gray Metallic
+co Two Tone Colors Available
+co Wimbledon White
+ci exha Dual
+ci cool 20.5 Quarts
+ci rad Cellular tubular
+ci ign Distributor and coil
+ci batt 12
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci equip Power steering
+ci equip Power brakes
+ci equip Multi-Drive automatic transmission
+ci equip Pushbutton Radio
+ci equip 427 cu. in. V8 engine
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 4501, 5(\w)67(\w)([\dX]{6})
+clv 18930, 1965, Mercury, Parklane Sports, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series Parklane Sports
+ci origin United States
+ci make Mercury
+ci year 1965
+ci prod 1742
+ci doors 2
+ci model 63C
+ci maker Mercury
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci trans 20
+ci fuel 21
+ci rdiff 5
+ci tcase -NA-
+ci oil 6
+ci carb Own
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci length 218.4
+ci height 55.1
+ci rtred 62
+ci wbase 123
+ci width 79.4
+ci b&s 4 3/64 & 3 25/32
+ci etype V8 Valve-in-head
+ci comp 10.0
+ci block Special alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 300@4600
+ci etype Downdraft 4-barrel
+ci trq 427@2800
+ci cyl 8
+ci vlift Hydraulic
+ci rhp 52.41
+ci mbear 5
+ci etype Multi-Drive automatic
+ci disp 389.09
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Arcadian Blue
+co Caspian Blue Metallic
+co Diamond Blue
+co Dynasty Green Mset.
+co Florentine Green
+co Guardsman Blue Metallic
+co Pagoda Green
+co Prairie Tan
+co Rangoon Red
+co Raven Black
+co Samoan Coral
+co Silver Mink Metallic
+co Silver Smoke Gray Metallic
+co Two Tone Colors Available
+co Wimbledon White
+ci exha Dual
+ci batt 12
+ci rad Cellular tubular
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci ftype Premium
+ci cool 20.5 Quarts
+ci equip 427 cu. in. V8 engine
+ci equip Power steering
+ci equip Multi-Drive automatic transmission
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4502, 5(\w)76(\w)([\dX]{6})
+clv 18931, 1965, Mercury, Station Wagon, Colony Park
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci series Station Wagon
+ci origin United States
+ci msrp $3434.00
+ci year 1965
+ci prod 8384
+ci pass 6
+ci weight 4228
+ci doors 4
+ci maker Mercury
+ci model 71A
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11 1/32
+ci oil 6
+ci rdiff 5
+ci fuel 20
+ci tcase -NA-
+ci trans 3
+ci carb Own
+ci ctype Single dry plate
+ci csize 11 inches
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 123
+ci height 56.7
+ci width 79.6
+ci length 214.5
+ci rtred 62
+ci trq 378@2400
+ci mbear 5
+ci cyl 8
+ci block Special alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.4
+ci b&s 4 3/64 & 3 25/32
+ci bhp 250@4400
+ci rhp 52.41
+ci etype Dual downdraft
+ci disp 389.09
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci exha Single
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 20.5 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci equip Power brakes
+ci equip Power steering
+ci equip 427 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Multi-Drive automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci rev 2.33
+ci 1gear 2.42
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci 2gear 1.61
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4503, 5(\w)76(\w)([\dX]{6})
+clv 18932, 1965, Mercury, Station Wagon, Colony Park
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 6910
+ci origin United States
+ci make Mercury
+ci year 1965
+ci series Station Wagon
+ci model 71E
+ci maker Mercury
+ci doors 4
+ci pass 9
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci oil 6
+ci fuel 20
+ci tcase -NA-
+ci rdiff 5
+ci trans 3
+ci carb Own
+ci csize 11 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 79.6
+ci wbase 123
+ci length 214.5
+ci rtred 62
+ci height 56.7
+ci etype V8 Valve-in-head
+ci rhp 52.41
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci comp 9.4
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci bhp 250@4400
+ci etype Dual downdraft
+ci block Special alloy iron
+ci trq 378@2400
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci cool 20.5 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tubular and fin
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci equip Power brakes
+ci equip Power steering
+ci equip 427 cu. in. V8 engine
+ci equip Multi-Drive automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci rev 2.33
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.61
+ci 1gear 2.42
+ci 3gear 1
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4504, 5(\w)72(\w)([\dX]{6})
+clv 18933, 1965, Mercury, Station Wagon, Commuter
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci series Station Wagon
+ci origin United States
+ci msrp $3235.00
+ci prod 5453
+ci year 1965
+ci model 71B
+ci pass 6
+ci doors 4
+ci weight 4178
+ci maker Mercury
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci trans 3
+ci oil 6
+ci tcase -NA-
+ci fuel 20
+ci rdiff 5
+ci carb Own
+ci ctype Single dry plate
+ci csize 11 inches
+ci diff Hypoid
+ci diffr 3.0
+ci rtred 62
+ci width 79.6
+ci height 56.7
+ci length 214.5
+ci wbase 123
+ci trq 378@2400
+ci mbear 5
+ci block Special alloy iron
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.4
+ci b&s 4 3/64 & 3 25/32
+ci bhp 250@4400
+ci rhp 52.41
+ci etype Dual downdraft
+ci disp 389.09
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci exha Single
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 20.5 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci equip Power brakes
+ci equip Power steering
+ci equip 427 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Multi-Drive automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci rev 2.33
+ci 1gear 2.42
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci 2gear 1.61
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 4505, 5(\w)72(\w)([\dX]{6})
+clv 18934, 1965, Mercury, Station Wagon, Commuter
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci prod 2628
+ci origin United States
+ci series Station Wagon
+ci year 1965
+ci doors 4
+ci maker Mercury
+ci model 71C
+ci pass 9
+ci bsize 11 1/32
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci oil 6
+ci trans 3
+ci rdiff 5
+ci tcase -NA-
+ci carb Own
+ci csize 11 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci height 56.7
+ci width 79.6
+ci wbase 123
+ci length 214.5
+ci rtred 62
+ci rhp 52.41
+ci mbear 5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 3/64 & 3 25/32
+ci comp 9.4
+ci disp 389.09
+ci trq 378@2400
+ci etype V8 Valve-in-head
+ci etype Dual downdraft
+ci bhp 250@4400
+ci block Special alloy iron
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci color Exterior Colors
+co Aquamarine
+co Blue Ice
+co Burgandy
+co Carnival Red
+co Fawn
+co Ivy Gold
+co Jamaican Yellow
+co Midnight Blue
+co Ocean Turquoise
+co Olive Mist
+co Onyx
+co Pearl Gray
+co Pecan Frost
+co Polar White
+co Sandrift
+co Silver Turquoise
+co Tiffany Blue
+co Upper-Fawn/Lower-Sandrift
+co Upper-Onyx/Lower-Burgandy
+co Upper-Onyx/Lower-Carnival Red
+co Upper-Onyx/Lower-Ivy Gold
+co Upper-Onyx/Lower-Jamaican Yellow
+co Upper-Onyx/Lower-Pearl Gray
+co Upper-Onyx/Lower-Sandrift
+co Upper-Pearl White/Lower-Tiffany Blue
+co Upper-Polar White/Lower Silver Turquoise
+co Upper-Polar White/Lower-Aquamarine
+co Upper-Polar White/Lower-Blue Ice
+co Upper-Polar White/Lower-Burgandy
+co Upper-Polar White/Lower-Carnival Red
+co Upper-Polar White/Lower-Ivy Gold
+co Upper-Polar White/Lower-Jamaican Yellow
+co Upper-Polar White/Lower-Midnight Blue
+co Upper-Polar White/Lower-Ocean Turquoise
+co Upper-Polar White/Lower-Olive Mist
+co Upper-Polar White/Lower-Onyx
+co Upper-Polar White/Lower-Pecan Frost
+co Upper-Polar White/Lower-Sandrift
+co Upper-Polar white/Lower-Fawn
+co Upper-Tiffany Blue/Lower-Blue Ice
+ci rad Tubular and fin
+ci cool 20.5 Quarts
+ci ftype Regular
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal water  pump
+ci equip Power brakes
+ci equip Power steering
+ci equip 427 cu. in. V8 engine
+ci equip Multi-Drive automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci rev 2.33
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.61
+ci 1gear 2.42
+ci 3gear 1
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8.15 x 15

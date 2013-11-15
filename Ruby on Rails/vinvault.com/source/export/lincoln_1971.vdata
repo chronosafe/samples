@@ -1,0 +1,295 @@
+cls 4255, 1(\w)89(\w)([\dX]{6})
+clv 17423, 1971, Lincoln, Continental Mark III, Coupe
+ci axle Semifloating
+ci msrp $8421.00
+ci prod 27091
+ci make Lincoln
+ci series Continental Mark III
+ci origin United States
+ci year 1971
+ci model 65A
+ci maker Lincoln
+ci weight 4816
+ci doors 2
+ci fbsize 11 23/32
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci fuel 24
+ci trans 26
+ci oil 4
+ci tcase -NA-
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.8
+ci diff Hypoid
+ci height 53
+ci wbase 117.2
+ci length 216.1
+ci rtred 62
+ci width 79.4
+ci etype Own V8 Overhead valve
+ci cyl 8
+ci disp 460
+ci vlift Hydraulic
+ci trq 500@2800
+ci bhp 365@4600
+ci etype Select Shift automatic
+ci rhp 60.83
+ci block Special alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci comp 10
+ci mbear 5
+ci b&s 4.36 & 3.85
+ci color Exterior Colors
+co Black
+co Blue Moondust Metallic
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Dark Blue Metallic
+co Dark Gray Metallic
+co Dark Green
+co Deep Blue Metallic
+co Ginger Moondust Metallic
+co Gray Gold Metallic
+co Ivy Moondust Metallic
+co Light Gray Metallic
+co Light Green
+co Light Pewter Metallic
+co Light Yellow Gold
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Brown Metallic
+co Medium Green Metallic
+co Pastel Blue
+co Red
+co Red Moondust Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Water pump
+ci cool 19.4 Quarts
+ci exha Single
+ci batt 12
+ci rad Tubular and fin
+ci equip Power Operated Sun Roof
+ci equip Power Door Locks
+ci equip Automatic Speed Control
+ci equip Power antenna
+ci equip AM-FM Stereo Radio
+ci equip Power seats
+ci equip Defroster-Rear Window
+ci equip Higher Torque Axle
+ci equip 6-Way Power Twin-Comfort Seat
+ci equip Rear Window Defogger
+ci equip White Sidewall Tires
+ci equip Remote Control Trunk Release
+ci equip Power windows
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 225 x 15
+cls 4256, 1(\w)81(\w)([\dX]{6})
+clv 17424, 1971, Lincoln, Continental, Coupe
+ci axle Semifloating
+ci msrp $6966.00
+ci prod 8205
+ci make Lincoln
+ci origin United States
+ci year 1971
+ci series Continental
+ci weight 4825
+ci doors 2
+ci maker Lincoln
+ci model 65A
+ci fbsize 11 23/32
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11 1/32
+ci svc Power front disc rear self-adjusting drum
+ci trans 26
+ci oil 4
+ci fuel 24.5
+ci tcase -NA-
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci height 55.5
+ci length 225
+ci rtred 61
+ci ftred 62.4
+ci wbase 127
+ci width 79.6
+ci bhp 365@4600
+ci cyl 8
+ci etype Select Shift automatic
+ci b&s 4.36 & 3.85
+ci rhp 60.83
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci trq 500@2800
+ci block Special alloy iron
+ci etype Downdraft 4-barrel
+ci disp 460
+ci comp 10
+ci vlift Hydraulic
+ci etype Own V8 Overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Blue Moondust Metallic
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Dark Blue Metallic
+co Dark Brown Metallic
+co Dark Gray Metallic
+co Dark Green
+co Deep Blue Metallic
+co Ginger Bronze Moondust Metallic
+co Gray Gold Metallic
+co Ivy Bronze Moondust Metallic
+co Light Gray Metallic
+co Light Green
+co Light Pewter Metallic
+co Light Yellow Gold
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Brown Metallic
+co Medium Green Metallic
+co Pastel Blue
+co Red
+co Red Moondust Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci batt 12
+ci cool Water pump
+ci cool 19.5 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci ftype Premium
+ci equip Power antenna
+ci equip AM-FM Stereo Radio
+ci equip Power windows
+ci equip Air Conditioner
+ci equip Automatic Speed Control
+ci equip Rear Window Defogger
+ci equip White Sidewall Tires
+ci equip Six-Way Power Seat (Bench)
+ci equip 6-Way Power Twin-Comfort Seat
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 225 x 15
+cls 4257, 1(\w)82(\w)([\dX]{6})
+clv 17425, 1971, Lincoln, Continental, Sedan
+ci axle Semifloating
+ci year 1971
+ci prod 27346
+ci origin United States
+ci msrp $7213.00
+ci make Lincoln
+ci series Continental
+ci model 53A
+ci maker Lincoln
+ci weight 4865
+ci doors 4
+ci bsize 11 1/32
+ci fbsize 11 23/32
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci trans 26
+ci oil 4
+ci fuel 24.5
+ci rdiff 5
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci height 55.5
+ci length 225
+ci wbase 127
+ci width 79.6
+ci rtred 61
+ci ftred 62.4
+ci mbear 5
+ci cyl 8
+ci rhp 60.83
+ci etype Own V8 Overhead valve
+ci bhp 365@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4.36 & 3.85
+ci comp 10
+ci trq 500@2800
+ci etype Downdraft 4-barrel
+ci disp 460
+ci block Special alloy iron
+ci vlift Hydraulic
+ci etype Select Shift automatic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Blue Moondust Metallic
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Dark Blue Metallic
+co Dark Brown Metallic
+co Dark Gray Metallic
+co Dark Green
+co Deep Blue Metallic
+co Ginger Bronze Moondust Metallic
+co Gray Gold Metallic
+co Ivy Bronze Moondust Metallic
+co Light Gray Metallic
+co Light Green
+co Light Pewter Metallic
+co Light Yellow Gold
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Brown Metallic
+co Medium Green Metallic
+co Pastel Blue
+co Red
+co Red Moondust Metallic
+co Tan
+co White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci cool Water pump
+ci cool 19.5 Quarts
+ci exha Single
+ci ftype Premium
+ci rad Tubular and fin
+ci equip Air Conditioner
+ci equip AM-FM Stereo Radio
+ci equip Power windows
+ci equip Six-Way Power Seat (Bench)
+ci equip 6-Way Power Twin-Comfort Seat
+ci equip Rear Window Defogger
+ci equip Automatic Speed Control
+ci equip Power antenna
+ci equip White Sidewall Tires
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 225 x 15
+ci sloc Trunk

@@ -1,0 +1,10 @@
+<h2>Data Points</h2>
+<p>Our modern VIN data can provide over 150 points of data on a given vehicle.  The categories of data include: </p>
+
+<%= link_to 'Back to Data', data_path %>
+
+<ul>
+  <% @categories.each do |cat| %>
+      <li><%= cat.display_name %></li>
+  <% end %>
+</ul>

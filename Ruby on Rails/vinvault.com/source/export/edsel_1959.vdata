@@ -1,0 +1,1206 @@
+cls 3334, (\w)9(\w)R([\dX]{6})
+clv 10738, 1959, Edsel, Corsair, Convertible
+ci axle Semifloating
+ci year 1959
+ci make Edsel
+ci origin United States
+ci msrp $2807.00
+ci series Corsair
+ci prod 1343
+ci maker Ford
+ci model 76E
+ci doors 2
+ci weight 3790
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci oil 5
+ci trans 3.25
+ci tcase -NA-
+ci fuel 20
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci wbase 120
+ci width 79.8
+ci length 210.9
+ci rtred 56.4
+ci height 58.4
+ci ftred 59
+ci comp 8.9
+ci mbear 5
+ci cyl 8
+ci etype Unknown at time of publication
+ci rhp 51.2
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3 19/64
+ci englo On left front door pillar post.
+ci etype Dual downdraft
+ci disp 331.44
+ci vlift Hydraulic
+ci bhp 225@4400
+ci trq 325@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Blue Aqua
+co Desert Tan
+co Durex Gold Metallic
+co Enamel
+co Jade Glint Green Metallic
+co Jet Stream Blue
+co Light Aqua
+co Mist Green
+co Moonrise Gray
+co Petal Yellow
+co Platinum Gray Metallic
+co President Red
+co Redwood Metallic
+co Snow White
+co Star Blue Metallic
+co Talisman Red
+co Velvet Maroon
+ci cool Centrifugal pump with thermostat
+ci rad Fin and tube
+ci exha Single
+ci batt 12
+ci cool 19 Quarts
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Two Speed automatic transmission
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.32
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.82
+ci gears 3
+ci 3gear 1
+ci 2gear 1.48
+ci vloc On left front pillar hinge post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3335, (\w)9(\w)X([\dX]{6})
+clv 10739, 1959, Edsel, Corsair, Hardtop
+ci axle Semifloating
+ci make Edsel
+ci series Corsair
+ci origin United States
+ci msrp $2573.00
+ci year 1959
+ci prod 2315
+ci maker Ford
+ci doors 2
+ci model 63B
+ci weight 3778
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci trans 3.25
+ci oil 5
+ci tcase -NA-
+ci rdiff 5
+ci fuel 20
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci length 210.9
+ci width 79.8
+ci wbase 120
+ci rtred 56.4
+ci height 58.4
+ci ftred 59
+ci comp 8.9
+ci mbear 5
+ci cyl 8
+ci etype Unknown at time of publication
+ci rhp 51.2
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3 19/64
+ci englo On left front door pillar post.
+ci etype Dual downdraft
+ci disp 331.44
+ci vlift Hydraulic
+ci bhp 225@4400
+ci trq 325@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Blue Aqua
+co Desert Tan
+co Durex Gold Metallic
+co Enamel
+co Jade Glint Green Metallic
+co Jet Stream Blue
+co Light Aqua
+co Mist Green
+co Moonrise Gray
+co Petal Yellow
+co Platinum Gray Metallic
+co President Red
+co Redwood Metallic
+co Snow White
+co Star Blue Metallic
+co Talisman Red
+co Velvet Maroon
+ci cool Centrifugal pump with thermostat
+ci rad Fin and tube
+ci exha Single
+ci batt 12
+ci cool 19 Quarts
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Two Speed automatic transmission
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.32
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.82
+ci gears 3
+ci 3gear 1
+ci 2gear 1.48
+ci vloc On left front pillar hinge post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3336, (\w)9(\w)W([\dX]{6})
+clv 10740, 1959, Edsel, Corsair, Hardtop
+ci axle Semifloating
+ci prod 1694
+ci series Corsair
+ci origin United States
+ci msrp $2635.00
+ci year 1959
+ci make Edsel
+ci model 57B
+ci maker Ford
+ci weight 3709
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci trans 3.25
+ci rdiff 5
+ci oil 5
+ci tcase -NA-
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci wbase 120
+ci width 79.8
+ci ftred 59
+ci rtred 56.4
+ci length 210.9
+ci height 58.4
+ci comp 8.9
+ci mbear 5
+ci cyl 8
+ci etype Unknown at time of publication
+ci rhp 51.2
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3 19/64
+ci englo On left front door pillar post.
+ci etype Dual downdraft
+ci disp 331.44
+ci vlift Hydraulic
+ci bhp 225@4400
+ci trq 325@2200
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Blue Aqua
+co Desert Tan
+co Durex Gold Metallic
+co Enamel
+co Jade Glint Green Metallic
+co Jet Stream Blue
+co Light Aqua
+co Mist Green
+co Moonrise Gray
+co Petal Yellow
+co Platinum Gray Metallic
+co President Red
+co Redwood Metallic
+co Snow White
+co Star Blue Metallic
+co Talisman Red
+co Velvet Maroon
+ci cool Centrifugal pump with thermostat
+ci rad Fin and tube
+ci exha Single
+ci batt 12
+ci cool 19 Quarts
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Two Speed automatic transmission
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.32
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.82
+ci gears 3
+ci 3gear 1
+ci 2gear 1.48
+ci vloc On left front pillar hinge post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3337, (\w)9(\w)S([\dX]{6})
+clv 10741, 1959, Edsel, Corsair, Sedan
+ci axle Semifloating
+ci prod 3301
+ci series Corsair
+ci origin United States
+ci msrp $2567.00
+ci year 1959
+ci make Edsel
+ci weight 3696
+ci doors 4
+ci maker Ford
+ci model 58B
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 20
+ci rdiff 5
+ci oil 5
+ci tcase -NA-
+ci trans 3.25
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci wbase 120
+ci width 79.8
+ci ftred 59
+ci rtred 56.4
+ci height 58.4
+ci length 210.9
+ci trq 325@2200
+ci mbear 5
+ci cyl 8
+ci etype Unknown at time of publication
+ci comp 8.9
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3 19/64
+ci englo On left front door pillar post.
+ci etype Dual downdraft
+ci disp 331.44
+ci vlift Hydraulic
+ci bhp 225@4400
+ci rhp 51.2
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Blue Aqua
+co Desert Tan
+co Durex Gold Metallic
+co Enamel
+co Jade Glint Green Metallic
+co Jet Stream Blue
+co Light Aqua
+co Mist Green
+co Moonrise Gray
+co Petal Yellow
+co Platinum Gray Metallic
+co President Red
+co Redwood Metallic
+co Snow White
+co Star Blue Metallic
+co Talisman Red
+co Velvet Maroon
+ci cool Centrifugal pump with thermostat
+ci rad Fin and tube
+ci exha Single
+ci batt 12
+ci cool 19 Quarts
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Two Speed automatic transmission
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.32
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.82
+ci gears 3
+ci 3gear 1
+ci 2gear 1.48
+ci vloc On left front pillar hinge post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3338, (\w)6(\w)G([\dX]{6})
+clv 10742, 1959, Edsel, Ranger, Hardtop
+ci axle Semifloating
+ci year 1959
+ci series Ranger
+ci msrp $2369.00
+ci make Edsel
+ci prod 5474
+ci origin United States
+ci maker Ford
+ci model 63F
+ci doors 2
+ci weight 3492
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci oil 4
+ci tcase -NA-
+ci rdiff 5
+ci fuel 20
+ci trans 3.25
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci length 210.9
+ci wbase 120
+ci width 79.8
+ci height 58.1
+ci ftred 59
+ci rtred 56.4
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci comp 8.4
+ci rhp 31.54
+ci b&s 3 5/8 & 3 39/64
+ci disp 223.51
+ci bhp 145@4000
+ci englo On left front door pillar post.
+ci etype Inline Valve-in-head
+ci trq 206@2200
+ci etype Helical
+ci etype Single downdraft
+ci vlift Mechanical
+ci color Exterior Colors
+co Blue Aqua
+co Desert Tan
+co Durex Gold Metallic
+co Enamel
+co Jade Glint Green Metallic
+co Jet Stream Blue
+co Light Aqua
+co Mist Green
+co Moonrise Gray
+co Petal Yellow
+co Platinum Gray Metallic
+co President Red
+co Redwood Metallic
+co Snow White
+co Star Blue Metallic
+co Talisman Red
+co Velvet Maroon
+ci batt 12
+ci cool 15 Quarts
+ci rad Fin and tube
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Two Speed automatic transmission
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.49
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.4
+ci rev 2.86
+ci vloc On left front pillar hinge post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3339, (\w)6(\w)H([\dX]{6})
+clv 10743, 1959, Edsel, Ranger, Hardtop
+ci axle Semifloating
+ci year 1959
+ci series Ranger
+ci msrp $2431.00
+ci make Edsel
+ci prod 2352
+ci origin United States
+ci weight 3583
+ci model 57F
+ci maker Ford
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci oil 4
+ci tcase -NA-
+ci rdiff 5
+ci fuel 20
+ci trans 3.25
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.56
+ci diff Hypoid
+ci length 210.9
+ci width 79.8
+ci ftred 59
+ci wbase 120
+ci height 58.1
+ci rtred 56.4
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci comp 8.4
+ci rhp 31.54
+ci englo On left front door pillar post.
+ci b&s 3 5/8 & 3 39/64
+ci bhp 145@4000
+ci vlift Mechanical
+ci etype Inline Valve-in-head
+ci trq 206@2200
+ci etype Helical
+ci etype Single downdraft
+ci disp 223.51
+ci color Exterior Colors
+co Blue Aqua
+co Desert Tan
+co Durex Gold Metallic
+co Enamel
+co Jade Glint Green Metallic
+co Jet Stream Blue
+co Light Aqua
+co Mist Green
+co Moonrise Gray
+co Petal Yellow
+co Platinum Gray Metallic
+co President Red
+co Redwood Metallic
+co Snow White
+co Star Blue Metallic
+co Talisman Red
+co Velvet Maroon
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci equip Two Speed automatic transmission
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.49
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.4
+ci rev 2.86
+ci vloc On left front pillar hinge post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3340, (\w)6(\w)C([\dX]{6})
+clv 10744, 1959, Edsel, Ranger, Sedan
+ci axle Semifloating
+ci year 1959
+ci series Ranger
+ci msrp $2314.00
+ci make Edsel
+ci prod 7778
+ci origin United States
+ci maker Ford
+ci model 64C
+ci doors 2
+ci weight 3448
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci oil 4
+ci tcase -NA-
+ci rdiff 5
+ci fuel 20
+ci trans 3.25
+ci carb Holley
+ci csize 9.5 inches
+ci ctype Single plate dry disc
+ci diffr 3.56
+ci diff Hypoid
+ci length 210.9
+ci rtred 56.4
+ci width 79.8
+ci ftred 59
+ci wbase 120
+ci height 58.1
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci mbear 4
+ci comp 8.4
+ci rhp 31.54
+ci b&s 3 5/8 & 3 39/64
+ci disp 223.51
+ci bhp 145@4000
+ci englo On left front door pillar post.
+ci etype Inline Valve-in-head
+ci trq 206@2200
+ci etype Helical
+ci etype Single downdraft
+ci vlift Mechanical
+ci color Exterior Colors
+co Blue Aqua
+co Desert Tan
+co Durex Gold Metallic
+co Enamel
+co Jade Glint Green Metallic
+co Jet Stream Blue
+co Light Aqua
+co Mist Green
+co Moonrise Gray
+co Petal Yellow
+co Platinum Gray Metallic
+co President Red
+co Redwood Metallic
+co Snow White
+co Star Blue Metallic
+co Talisman Red
+co Velvet Maroon
+ci batt 12
+ci cool 15 Quarts
+ci rad Fin and tube
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Two Speed automatic transmission
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.49
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.4
+ci rev 2.86
+ci vloc On left front pillar hinge post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3341, (\w)6(\w)F([\dX]{6})
+clv 10745, 1959, Edsel, Ranger, Sedan
+ci axle Semifloating
+ci prod 12814
+ci series Ranger
+ci msrp $2364.00
+ci make Edsel
+ci year 1959
+ci origin United States
+ci model 58D
+ci weight 3675
+ci maker Ford
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 20
+ci rdiff 5
+ci trans 3.25
+ci oil 4
+ci tcase -NA-
+ci carb Holley
+ci ctype Single plate dry disc
+ci csize 9.5 inches
+ci diffr 3.56
+ci diff Hypoid
+ci wbase 120
+ci width 79.8
+ci ftred 59
+ci height 58.1
+ci length 210.9
+ci rtred 56.4
+ci cyl 6
+ci englo On left front door pillar post.
+ci mbear 4
+ci comp 8.4
+ci rhp 31.54
+ci b&s 3 5/8 & 3 39/64
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci disp 223.51
+ci etype Inline Valve-in-head
+ci trq 206@2200
+ci etype Helical
+ci etype Single downdraft
+ci bhp 145@4000
+ci color Exterior Colors
+co Blue Aqua
+co Desert Tan
+co Durex Gold Metallic
+co Enamel
+co Jade Glint Green Metallic
+co Jet Stream Blue
+co Light Aqua
+co Mist Green
+co Moonrise Gray
+co Petal Yellow
+co Platinum Gray Metallic
+co President Red
+co Redwood Metallic
+co Snow White
+co Star Blue Metallic
+co Talisman Red
+co Velvet Maroon
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci rad Fin and tube
+ci batt 12
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci equip Pushbutton Radio
+ci equip Two Speed automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 2.86
+ci 3gear 1
+ci 2gear 1.49
+ci 1gear 2.4
+ci 5gear Not applicable
+ci vloc On left front pillar hinge post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 3342, (\w)9(\w)G([\dX]{6})
+clv 10746, 1959, Edsel, Ranger, Hardtop
+ci axle Semifloating
+ci msrp $2453.00
+ci prod 5474
+ci make Edsel
+ci year 1959
+ci origin United States
+ci series Ranger
+ci weight 3591
+ci model 63F
+ci doors 2
+ci maker Ford
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci oil 5
+ci fuel 20
+ci trans 3.25
+ci rdiff 5
+ci tcase -NA-
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.56
+ci diff Hypoid
+ci width 79.8
+ci length 210.9
+ci wbase 120
+ci rtred 56.4
+ci height 58.1
+ci ftred 59
+ci rhp 45
+ci mbear 5
+ci b&s 3 3/4 & 3 19/64
+ci cyl 8
+ci comp 8.8
+ci block Cast Iron
+ci englo On left front door pillar post.
+ci vlift Mechanical
+ci etype Dual downdraft
+ci disp 291.3
+ci trq 285@2200
+ci bhp 200@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Blue Aqua
+co Desert Tan
+co Durex Gold Metallic
+co Enamel
+co Jade Glint Green Metallic
+co Jet Stream Blue
+co Light Aqua
+co Mist Green
+co Moonrise Gray
+co Petal Yellow
+co Platinum Gray Metallic
+co President Red
+co Redwood Metallic
+co Snow White
+co Star Blue Metallic
+co Talisman Red
+co Velvet Maroon
+ci batt 12
+ci cool 19 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Two Speed automatic transmission
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.86
+ci gears 3
+ci 1gear 2.4
+ci 2gear 1.49
+ci 5gear Not applicable
+ci vloc On left front pillar hinge post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3343, (\w)9(\w)H([\dX]{6})
+clv 10747, 1959, Edsel, Ranger, Hardtop
+ci axle Semifloating
+ci msrp $2515.00
+ci series Ranger
+ci make Edsel
+ci year 1959
+ci origin United States
+ci prod 2352
+ci weight 3682
+ci model 57F
+ci maker Ford
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci oil 5
+ci trans 3.25
+ci tcase -NA-
+ci fuel 20
+ci carb Holley or Ford
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci ftred 59
+ci length 210.9
+ci wbase 120
+ci height 58.1
+ci width 79.8
+ci rtred 56.4
+ci mbear 5
+ci rhp 45
+ci b&s 3 3/4 & 3 19/64
+ci cyl 8
+ci comp 8.8
+ci block Cast Iron
+ci englo On left front door pillar post.
+ci vlift Mechanical
+ci etype Dual downdraft
+ci disp 291.3
+ci trq 285@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 200@4400
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Blue Aqua
+co Desert Tan
+co Durex Gold Metallic
+co Enamel
+co Jade Glint Green Metallic
+co Jet Stream Blue
+co Light Aqua
+co Mist Green
+co Moonrise Gray
+co Petal Yellow
+co Platinum Gray Metallic
+co President Red
+co Redwood Metallic
+co Snow White
+co Star Blue Metallic
+co Talisman Red
+co Velvet Maroon
+ci batt 12
+ci cool 19 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Two Speed automatic transmission
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.86
+ci gears 3
+ci 1gear 2.4
+ci 2gear 1.49
+ci 5gear Not applicable
+ci vloc On left front pillar hinge post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3344, (\w)9(\w)C([\dX]{6})
+clv 10748, 1959, Edsel, Ranger, Sedan
+ci axle Semifloating
+ci msrp $2398.00
+ci prod 7778
+ci year 1959
+ci make Edsel
+ci origin United States
+ci series Ranger
+ci maker Ford
+ci weight 3547
+ci doors 2
+ci model 64C
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci oil 5
+ci rdiff 5
+ci fuel 20
+ci tcase -NA-
+ci trans 3.25
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.56
+ci diff Hypoid
+ci rtred 56.4
+ci length 210.9
+ci wbase 120
+ci height 58.1
+ci ftred 59
+ci width 79.8
+ci rhp 45
+ci mbear 5
+ci b&s 3 3/4 & 3 19/64
+ci cyl 8
+ci comp 8.8
+ci block Cast Iron
+ci englo On left front door pillar post.
+ci vlift Mechanical
+ci etype Dual downdraft
+ci disp 291.3
+ci trq 285@2200
+ci bhp 200@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Blue Aqua
+co Desert Tan
+co Durex Gold Metallic
+co Enamel
+co Jade Glint Green Metallic
+co Jet Stream Blue
+co Light Aqua
+co Mist Green
+co Moonrise Gray
+co Petal Yellow
+co Platinum Gray Metallic
+co President Red
+co Redwood Metallic
+co Snow White
+co Star Blue Metallic
+co Talisman Red
+co Velvet Maroon
+ci batt 12
+ci cool 19 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Two Speed automatic transmission
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.86
+ci gears 3
+ci 1gear 2.4
+ci 2gear 1.49
+ci 5gear Not applicable
+ci vloc On left front pillar hinge post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3345, (\w)9(\w)F([\dX]{6})
+clv 10749, 1959, Edsel, Ranger, Sedan
+ci axle Semifloating
+ci msrp $2448.00
+ci year 1959
+ci make Edsel
+ci prod 12814
+ci origin United States
+ci series Ranger
+ci model 58D
+ci weight 3774
+ci maker Ford
+ci doors 4
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 5
+ci fuel 20
+ci trans 3.25
+ci tcase -NA-
+ci rdiff 5
+ci carb Holley or Ford
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci width 79.8
+ci wbase 120
+ci length 210.9
+ci ftred 59
+ci height 58.1
+ci rtred 56.4
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci rhp 45
+ci cyl 8
+ci comp 8.8
+ci block Cast Iron
+ci b&s 3 3/4 & 3 19/64
+ci vlift Mechanical
+ci etype Dual downdraft
+ci englo On left front door pillar post.
+ci disp 291.3
+ci trq 285@2200
+ci bhp 200@4400
+ci etype Helical
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Blue Aqua
+co Desert Tan
+co Durex Gold Metallic
+co Enamel
+co Jade Glint Green Metallic
+co Jet Stream Blue
+co Light Aqua
+co Mist Green
+co Moonrise Gray
+co Petal Yellow
+co Platinum Gray Metallic
+co President Red
+co Redwood Metallic
+co Snow White
+co Star Blue Metallic
+co Talisman Red
+co Velvet Maroon
+ci batt 12
+ci cool 19 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Two Speed automatic transmission
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.86
+ci gears 3
+ci 1gear 2.4
+ci 2gear 1.49
+ci 5gear Not applicable
+ci vloc On left front pillar hinge post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 3346, (\w)9(\w)T([\dX]{6})
+clv 10750, 1959, Edsel, Villager Station Wagon, Station Wagon
+ci axle Semifloating
+ci make Edsel
+ci msrp $2715.00
+ci origin United States
+ci prod 5687
+ci year 1959
+ci series Villager Station Wagon
+ci weight 3930
+ci maker Ford
+ci model 71F
+ci doors 4
+ci pass 6
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci trans 3.25
+ci tcase -NA-
+ci oil 5
+ci fuel 20
+ci rdiff 5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci rtred 56.4
+ci length 210.1
+ci wbase 118
+ci ftred 59
+ci comp 8.9
+ci disp 331.44
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3 19/64
+ci englo On left front door pillar post.
+ci trq 325@2200
+ci vlift Hydraulic
+ci bhp 225@4400
+ci mbear 5
+ci etype Unknown at time of publication
+ci etype V8 Valve-in-head
+ci rhp 51.2
+ci etype Dual downdraft
+ci color Exterior Colors
+co Blue Aqua
+co Desert Tan
+co Durex Gold Metallic
+co Enamel
+co Jade Glint Green Metallic
+co Jet Stream Blue
+co Light Aqua
+co Mist Green
+co Moonrise Gray
+co Petal Yellow
+co Platinum Gray Metallic
+co President Red
+co Redwood Metallic
+co Snow White
+co Star Blue Metallic
+co Talisman Red
+co Velvet Maroon
+ci exha Single
+ci cool 19 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci equip Two Speed automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci drive Rear wheel drive
+ci 2gear 1.48
+ci 1gear 2.32
+ci gears 3
+ci rev 2.82
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On left front pillar hinge post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 3347, (\w)9(\w)V([\dX]{6})
+clv 10751, 1959, Edsel, Villager Station Wagon, Station Wagon
+ci axle Semifloating
+ci make Edsel
+ci msrp $2792.00
+ci origin United States
+ci year 1959
+ci prod 2133
+ci series Villager Station Wagon
+ci doors 4
+ci maker Ford
+ci weight 3842
+ci model 71E
+ci pass 9
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 20
+ci tcase -NA-
+ci rdiff 5
+ci trans 3.25
+ci oil 5
+ci carb Holley or Ford
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.56
+ci length 210.1
+ci wbase 118
+ci rtred 56.4
+ci ftred 59
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci rhp 51.2
+ci comp 8.9
+ci bhp 225@4400
+ci englo On left front door pillar post.
+ci trq 325@2200
+ci vlift Hydraulic
+ci mbear 5
+ci b&s 4 & 3 19/64
+ci etype Unknown at time of publication
+ci etype V8 Valve-in-head
+ci disp 331.44
+ci etype Dual downdraft
+ci color Exterior Colors
+co Blue Aqua
+co Desert Tan
+co Durex Gold Metallic
+co Enamel
+co Jade Glint Green Metallic
+co Jet Stream Blue
+co Light Aqua
+co Mist Green
+co Moonrise Gray
+co Petal Yellow
+co Platinum Gray Metallic
+co President Red
+co Redwood Metallic
+co Snow White
+co Star Blue Metallic
+co Talisman Red
+co Velvet Maroon
+ci exha Single
+ci cool 19 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci equip Two Speed automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci gears 3
+ci 2gear 1.48
+ci drive Rear wheel drive
+ci 1gear 2.32
+ci rev 2.82
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On left front pillar hinge post.
+ci sloc Trunk
+ci tsize 8 x 14

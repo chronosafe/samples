@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+<h1>Your trial at <%= ENV['SITE_NAME'] %> is ending, <%= @user.name %></h1>
+<p>
+  This is just a reminder that your trial of the <%= site_name %> is coming to an end.
+</p>
+<p>
+  Unless you cancel your current subscription to the <% @user.plan %> you will be billed monthly
+  for the amount of $<%= @user.plan.price %>.
+</p>
+<p>
+  If you would like to cancel please log in and visit the account page <%= link_to 'here', edit_user_registration_path(@user) %>.
+</p>
+
+<p>Regards,</p>
+<p><em><%= ENV['SITE_NAME'] %> Staff</em></p>
+</body>
+</html>

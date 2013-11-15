@@ -1,0 +1,15 @@
+<%= @greeting %>,
+
+Your batch job has successfully run.
+
+Job: <%= @batch.batch_file_file_name %>
+Results:
+  Total:  <%= @batch.total %>
+  Success: <%= @batch.successful %>
+  Download: <% @batch.batch_file.url %>
+
+The results are also attached to this email.
+
+Regards,
+
+VINData Services

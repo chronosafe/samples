@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+<h1>Welcome to <%= ENV['SITE_NAME'] %>, <%= @user.name %></h1>
+<p>
+  You have successfully signed up to <%= ENV['SITE_NAME'] %>,
+  your username is: <%= @user.email %>.<br>
+</p>
+<p>
+  In order to use the API that the site offers you must provide your <strong>auth_key</strong> token with
+  every request.  Your token is: <strong><%= @user.authentication_token %></strong>.
+</p>
+<p>
+  Please read the <a href="http://<%= ENV['SITE_DOMAIN'] %>/docs">Documentation</a> for more information.
+</p>
+<p>
+  To login to the site, just follow this link: <%= @url %>.
+</p>
+<p>Thanks for joining and have a great day!</p>
+<p><em><%= ENV['SITE_NAME'] %> Staff</em></p>
+</body>
+</html>

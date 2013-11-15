@@ -1,0 +1,12 @@
+
+<div style="padding: 10px" class="contast-background">
+    <h1 style='text-align: center'>Subscription Plans</h1>
+
+    <div class='row-fluid pricing-tables'>
+      <% plans.each do |plan| %>
+        <% if !plan.nil?  && plan.public? %>
+          <%= render 'plan', plan: plan %>
+        <% end %>
+      <% end %>
+    </div>
+</div>

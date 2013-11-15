@@ -1,0 +1,2476 @@
+cls 5545, M15(\w)([\dX]{6})
+clv 24872, 1959, Plymouth, Belvedere, Club Sedan
+ci axle Semifloating
+ci msrp $2165.00
+ci series Belvedere
+ci origin United States
+ci year 1959
+ci prod 13816
+ci make Plymouth
+ci maker Plymouth
+ci doors 2
+ci rbsize 11
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci trans 2.75
+ci oil 5
+ci fuel 20
+ci tcase -NA-
+ci rdiff 3.25
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 9.3 inches
+ci diffr 3.73
+ci diff Hypoid
+ci ftred 60.9
+ci length 208.2
+ci width 78
+ci wbase 118
+ci height 58.5
+ci rtred 59.6
+ci bhp 132@3600
+ci cyl 6
+ci mbear 4
+ci b&s 3 1/4 & 4 5/8
+ci comp 8.0
+ci rhp 25.35
+ci disp 230.2
+ci trq 205@1200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci vlift Mechanical
+ci etype In line L-head
+ci etype Helical
+ci englo On left front side of block.
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci rad Cellular tubular or fin and tube
+ci cool 13 Quarts
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power Flite automatic transmission
+ci equip Power brakes
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 2.5
+ci 3gear 1
+ci 2gear 1.68
+ci rev 3.2
+ci vloc On left front door hinge post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 5546, M17(\w)([\dX]{6})
+clv 24873, 1959, Plymouth, Belvedere, Custom Suburban
+ci axle Semifloating
+ci year 1959
+ci msrp $2511.00
+ci origin United States
+ci series Belvedere
+ci prod 35024
+ci make Plymouth
+ci maker Plymouth
+ci rbsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake On the drive shaft
+ci fuel 20
+ci tcase -NA-
+ci trans 2.75
+ci oil 5
+ci rdiff 3.25
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 9.3 inches
+ci diffr 3.73
+ci diff Hypoid
+ci rtred 59.6
+ci length 214.5
+ci width 78
+ci wbase 118
+ci ftred 60.9
+ci comp 8.0
+ci rhp 25.35
+ci b&s 3 1/4 & 4 5/8
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci disp 230.2
+ci bhp 132@3600
+ci mbear 4
+ci englo On left front side of block.
+ci trq 205@1200
+ci vlift Mechanical
+ci etype In line L-head
+ci etype Helical
+ci etype Single downdraft
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 13 Quarts
+ci rad Cellular tubular or fin and tube
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power Flite automatic transmission
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci 1gear 2.5
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci 3gear 1
+ci gears 3
+ci rev 3.2
+ci vloc On left front door hinge post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 5547, M15(\w)([\dX]{6})
+clv 24874, 1959, Plymouth, Belvedere, Hardtop
+ci axle Semifloating
+ci msrp $2232.00
+ci prod 23469
+ci series Belvedere
+ci origin United States
+ci make Plymouth
+ci year 1959
+ci maker Plymouth
+ci doors 2
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci rbsize 11
+ci fuel 20
+ci tcase -NA-
+ci trans 2.75
+ci oil 5
+ci rdiff 3.25
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 9.3 inches
+ci diff Hypoid
+ci diffr 3.73
+ci length 208.2
+ci wbase 118
+ci width 78
+ci ftred 60.9
+ci height 58.5
+ci rtred 59.6
+ci b&s 3 1/4 & 4 5/8
+ci rhp 25.35
+ci englo On left front side of block.
+ci cyl 6
+ci comp 8.0
+ci disp 230.2
+ci etype Single downdraft
+ci trq 205@1200
+ci bhp 132@3600
+ci mbear 4
+ci vlift Mechanical
+ci etype In line L-head
+ci etype Helical
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci rad Cellular tubular or fin and tube
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power Flite automatic transmission
+ci equip Power brakes
+ci sgear Worm & three tooth roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci rev 3.2
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.5
+ci 3gear 1
+ci 2gear 1.68
+ci gears 3
+ci vloc On left front door hinge post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 5548, M15(\w)([\dX]{6})
+clv 24875, 1959, Plymouth, Belvedere, Hardtop
+ci axle Semifloating
+ci series Belvedere
+ci make Plymouth
+ci origin United States
+ci year 1959
+ci prod 5713
+ci msrp $2291.00
+ci maker Plymouth
+ci svc 4 wheel hydraulic drum
+ci rbsize 11
+ci ebrake On the drive shaft
+ci trans 2.75
+ci rdiff 3.25
+ci fuel 20
+ci tcase -NA-
+ci oil 5
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 9.3 inches
+ci diff Hypoid
+ci diffr 3.73
+ci width 78
+ci wbase 118
+ci length 208.2
+ci ftred 60.9
+ci height 58.5
+ci rtred 59.6
+ci mbear 4
+ci disp 230.2
+ci rhp 25.35
+ci cyl 6
+ci comp 8.0
+ci trq 205@1200
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 132@3600
+ci etype Single downdraft
+ci b&s 3 1/4 & 4 5/8
+ci vlift Mechanical
+ci etype In line L-head
+ci etype Helical
+ci englo On left front side of block.
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci rad Cellular tubular or fin and tube
+ci cool 13 Quarts
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power Flite automatic transmission
+ci equip Power brakes
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 2.5
+ci 3gear 1
+ci 2gear 1.68
+ci rev 3.2
+ci vloc On left front door hinge post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 5549, M15(\w)([\dX]{6})
+clv 24876, 1959, Plymouth, Belvedere, Sedan
+ci axle Semifloating
+ci series Belvedere
+ci make Plymouth
+ci origin United States
+ci year 1959
+ci prod 67980
+ci msrp $2212.00
+ci maker Plymouth
+ci svc 4 wheel hydraulic drum
+ci rbsize 11
+ci ebrake On the drive shaft
+ci trans 2.75
+ci rdiff 3.25
+ci fuel 20
+ci tcase -NA-
+ci oil 5
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 9.3 inches
+ci diff Hypoid
+ci diffr 3.73
+ci width 78
+ci wbase 118
+ci length 208.2
+ci height 58.5
+ci rtred 59.6
+ci ftred 60.9
+ci mbear 4
+ci disp 230.2
+ci rhp 25.35
+ci cyl 6
+ci comp 8.0
+ci trq 205@1200
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 132@3600
+ci etype Single downdraft
+ci b&s 3 1/4 & 4 5/8
+ci vlift Mechanical
+ci etype In line L-head
+ci etype Helical
+ci englo On left front side of block.
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci rad Cellular tubular or fin and tube
+ci cool 13 Quarts
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power Flite automatic transmission
+ci equip Power brakes
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 2.5
+ci 3gear 1
+ci 2gear 1.68
+ci rev 3.2
+ci vloc On left front door hinge post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 5550, M25(\w)([\dX]{6})
+clv 24877, 1959, Plymouth, Belvedere, Club Sedan
+ci axle Semifloating
+ci msrp $2284.00
+ci origin United States
+ci series Belvedere
+ci make Plymouth
+ci year 1959
+ci prod 13816
+ci doors 2
+ci maker Plymouth
+ci weight 3395
+ci ebrake On the drive shaft
+ci rbsize 11
+ci svc 4 wheel hydraulic drum
+ci trans 2.75
+ci rdiff 3.5
+ci oil 5
+ci tcase -NA-
+ci fuel 20
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.54
+ci diff Hypoid
+ci wbase 118
+ci length 208.2
+ci ftred 60.9
+ci rtred 59.7
+ci width 78
+ci height 58.5
+ci disp 317.58
+ci rhp 48.83
+ci trq 340@2400
+ci mbear 5
+ci cyl 8
+ci b&s 3 29/32 & 3 5/16
+ci bhp 230@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci etype Synchronous meshing
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci vlift Mechanical
+ci comp 9.0
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci ign Distributor and coil
+ci cool 20 Quarts
+ci rad Cellular tubular or fin and tube
+ci batt 12
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci equip Torque Flite automatic transmission
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power brakes
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci rev 2.73
+ci 1gear 2.12
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.43
+ci gears 3
+ci vloc On left front door hinge post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 5551, M25(\w)([\dX]{6})
+clv 24878, 1959, Plymouth, Belvedere, Convertible
+ci axle Semifloating
+ci year 1959
+ci origin United States
+ci make Plymouth
+ci msrp $2568.00
+ci prod 5063
+ci series Belvedere
+ci maker Plymouth
+ci doors 2
+ci weight 3580
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci rbsize 11
+ci oil 5
+ci rdiff 3.5
+ci fuel 20
+ci trans 2.75
+ci tcase -NA-
+ci carb Carter
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.54
+ci diff Hypoid
+ci length 208.2
+ci ftred 60.9
+ci rtred 59.7
+ci width 78
+ci wbase 118
+ci height 58.5
+ci trq 340@2400
+ci rhp 48.83
+ci mbear 5
+ci disp 317.58
+ci cyl 8
+ci b&s 3 29/32 & 3 5/16
+ci bhp 230@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci etype Synchronous meshing
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci vlift Mechanical
+ci comp 9.0
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci ign Distributor and coil
+ci cool 20 Quarts
+ci rad Cellular tubular or fin and tube
+ci batt 12
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci equip Torque Flite automatic transmission
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power brakes
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci rev 2.73
+ci 1gear 2.12
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.43
+ci gears 3
+ci vloc On left front door hinge post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 5552, M25(\w)([\dX]{6})
+clv 24879, 1959, Plymouth, Belvedere, Hardtop
+ci axle Semifloating
+ci year 1959
+ci origin United States
+ci make Plymouth
+ci msrp $2351.00
+ci series Belvedere
+ci prod 23469
+ci maker Plymouth
+ci doors 2
+ci weight 3405
+ci rbsize 11
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci fuel 20
+ci oil 5
+ci rdiff 3.5
+ci trans 2.75
+ci carb Carter
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.54
+ci diff Hypoid
+ci length 208.2
+ci width 78
+ci ftred 60.9
+ci rtred 59.7
+ci wbase 118
+ci height 58.5
+ci disp 317.58
+ci rhp 48.83
+ci trq 340@2400
+ci mbear 5
+ci cyl 8
+ci b&s 3 29/32 & 3 5/16
+ci bhp 230@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci etype Synchronous meshing
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci vlift Mechanical
+ci comp 9.0
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci ign Distributor and coil
+ci cool 20 Quarts
+ci rad Cellular tubular or fin and tube
+ci batt 12
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci equip Torque Flite automatic transmission
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power brakes
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci rev 2.73
+ci 1gear 2.12
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.43
+ci gears 3
+ci vloc On left front door hinge post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 5553, M25(\w)([\dX]{6})
+clv 24880, 1959, Plymouth, Belvedere, Hardtop
+ci axle Semifloating
+ci year 1959
+ci msrp $2410.00
+ci origin United States
+ci prod 5713
+ci make Plymouth
+ci series Belvedere
+ci maker Plymouth
+ci doors 4
+ci weight 3475
+ci ebrake On the drive shaft
+ci rbsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci trans 2.75
+ci fuel 20
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.54
+ci diff Hypoid
+ci length 208.2
+ci wbase 118
+ci width 78
+ci ftred 60.9
+ci rtred 59.7
+ci height 58.5
+ci etype Synchronous meshing
+ci bhp 230@4400
+ci etype V8 overhead valve
+ci mbear 5
+ci cyl 8
+ci comp 9.0
+ci trq 340@2400
+ci disp 317.58
+ci block Cast Iron
+ci vlift Mechanical
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 29/32 & 3 5/16
+ci etype Dual downdraft
+ci rhp 48.83
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci cool 20 Quarts
+ci rad Cellular tubular or fin and tube
+ci exha Single with crossover
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci sgear Worm & three tooth roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci 1gear 2.12
+ci 2gear 1.43
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.73
+ci gears 3
+ci vloc On left front door hinge post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 5554, M25(\w)([\dX]{6})
+clv 24881, 1959, Plymouth, Belvedere, Sedan
+ci axle Semifloating
+ci year 1959
+ci msrp $2331.00
+ci origin United States
+ci prod 67980
+ci make Plymouth
+ci series Belvedere
+ci maker Plymouth
+ci doors 4
+ci weight 3430
+ci ebrake On the drive shaft
+ci rbsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci trans 2.75
+ci fuel 20
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.54
+ci diff Hypoid
+ci length 208.2
+ci wbase 118
+ci width 78
+ci ftred 60.9
+ci height 58.5
+ci rtred 59.7
+ci etype Synchronous meshing
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci etype V8 overhead valve
+ci mbear 5
+ci cyl 8
+ci comp 9.0
+ci trq 340@2400
+ci bhp 230@4400
+ci b&s 3 29/32 & 3 5/16
+ci disp 317.58
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci etype Dual downdraft
+ci rhp 48.83
+ci block Cast Iron
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci ign Distributor and coil
+ci exha Single with crossover
+ci rad Cellular tubular or fin and tube
+ci batt 12
+ci cool 20 Quarts
+ci cool Centrifugal pump with thermostat
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci sgear Worm & three tooth roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci 1gear 2.12
+ci 2gear 1.43
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci rev 2.73
+ci gears 3
+ci vloc On left front door hinge post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 5555, M26(\w)([\dX]{6})
+clv 24882, 1959, Plymouth, Fury, Hardtop
+ci axle Semifloating
+ci year 1959
+ci origin United States
+ci make Plymouth
+ci prod 21494
+ci msrp $2475.00
+ci series Fury
+ci doors 2
+ci weight 3435
+ci maker Plymouth
+ci rbsize 11
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci trans 2.75
+ci oil 5
+ci rdiff 3.5
+ci tcase -NA-
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.54
+ci diff Hypoid
+ci width 78
+ci length 208.2
+ci ftred 60.9
+ci rtred 59.7
+ci wbase 118
+ci height 58.5
+ci rhp 48.83
+ci mbear 5
+ci etype V8 overhead valve
+ci trq 340@2400
+ci cyl 8
+ci b&s 3 29/32 & 3 5/16
+ci bhp 230@4400
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci etype Synchronous meshing
+ci etype Dual downdraft
+ci vlift Mechanical
+ci disp 317.58
+ci comp 9.0
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 20 Quarts
+ci batt 12
+ci exha Single with crossover
+ci rad Cellular tubular or fin and tube
+ci equip Pushbutton Radio
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci rev 2.73
+ci 1gear 2.12
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.43
+ci gears 3
+ci vloc Under the hood on the left side of cowl.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 5556, M26(\w)([\dX]{6})
+clv 24883, 1959, Plymouth, Fury, Hardtop
+ci axle Semifloating
+ci prod 13614
+ci origin United States
+ci make Plymouth
+ci msrp $2528.00
+ci year 1959
+ci series Fury
+ci weight 3505
+ci doors 4
+ci maker Plymouth
+ci rbsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake On the drive shaft
+ci tcase -NA-
+ci oil 5
+ci trans 2.75
+ci fuel 20
+ci rdiff 3.5
+ci carb Carter
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.54
+ci diff Hypoid
+ci wbase 118
+ci width 78
+ci ftred 60.9
+ci rtred 59.7
+ci length 208.2
+ci height 58.5
+ci rhp 48.83
+ci mbear 5
+ci etype V8 overhead valve
+ci disp 317.58
+ci cyl 8
+ci b&s 3 29/32 & 3 5/16
+ci bhp 230@4400
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci etype Synchronous meshing
+ci etype Dual downdraft
+ci vlift Mechanical
+ci trq 340@2400
+ci comp 9.0
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 20 Quarts
+ci batt 12
+ci exha Single with crossover
+ci rad Cellular tubular or fin and tube
+ci equip Pushbutton Radio
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci rev 2.73
+ci 1gear 2.12
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.43
+ci gears 3
+ci vloc Under the hood on the left side of cowl.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 5557, M26(\w)([\dX]{6})
+clv 24884, 1959, Plymouth, Fury, Sedan
+ci axle Semifloating
+ci series Fury
+ci msrp $2453.00
+ci origin United States
+ci year 1959
+ci make Plymouth
+ci prod 30149
+ci weight 3455
+ci doors 4
+ci maker Plymouth
+ci ebrake On the drive shaft
+ci rbsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci fuel 20
+ci trans 2.75
+ci tcase -NA-
+ci rdiff 3.5
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.54
+ci diff Hypoid
+ci length 208.2
+ci wbase 118
+ci width 78
+ci ftred 60.9
+ci rtred 59.7
+ci height 58.5
+ci block Cast Iron
+ci mbear 5
+ci etype V8 overhead valve
+ci rhp 48.83
+ci cyl 8
+ci comp 9.0
+ci disp 317.58
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci bhp 230@4400
+ci b&s 3 29/32 & 3 5/16
+ci vlift Mechanical
+ci trq 340@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Synchronous meshing
+ci etype Dual downdraft
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci exha Single with crossover
+ci rad Cellular tubular or fin and tube
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci equip Pushbutton Radio
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & three tooth roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci gears 3
+ci 1gear 2.12
+ci drive Rear wheel drive
+ci rev 2.73
+ci 2gear 1.43
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc Under the hood on the left side of cowl.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 5558, M13(\w)([\dX]{6})
+clv 24885, 1959, Plymouth, Savoy, Business Coupe
+ci axle Semifloating
+ci prod 1051
+ci origin United States
+ci year 1959
+ci series Savoy
+ci make Plymouth
+ci doors 2
+ci maker Plymouth
+ci ebrake On the drive shaft
+ci rbsize 11
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci fuel 20
+ci rdiff 3.25
+ci trans 2.75
+ci oil 5
+ci carb Carter
+ci csize 9.3 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.73
+ci ftred 60.9
+ci width 78
+ci length 208.2
+ci wbase 118
+ci height 58.5
+ci rtred 59.6
+ci cyl 6
+ci mbear 4
+ci bhp 132@3600
+ci b&s 3 1/4 & 4 5/8
+ci comp 8.0
+ci englo On left front side of block.
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 205@1200
+ci vlift Mechanical
+ci disp 230.2
+ci etype Helical
+ci etype In line L-head
+ci rhp 25.35
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci batt 12
+ci rad Cellular tubular or fin and tube
+ci cool 13 Quarts
+ci exha Single
+ci equip Power steering
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Power Flite automatic transmission
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.68
+ci 1gear 2.5
+ci gears 3
+ci rev 3.2
+ci vloc On left front door hinge post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 5559, M13(\w)([\dX]{6})
+clv 24886, 1959, Plymouth, Savoy, Club Sedan
+ci axle Semifloating
+ci msrp $2019.00
+ci prod 46979
+ci year 1959
+ci origin United States
+ci make Plymouth
+ci series Savoy
+ci maker Plymouth
+ci doors 2
+ci rbsize 11
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci tcase -NA-
+ci trans 2.75
+ci oil 5
+ci rdiff 3.25
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 9.3 inches
+ci diffr 3.73
+ci diff Hypoid
+ci length 208.2
+ci wbase 118
+ci rtred 59.6
+ci ftred 60.9
+ci height 58.5
+ci width 78
+ci cyl 6
+ci rhp 25.35
+ci englo On left front side of block.
+ci etype Single downdraft
+ci comp 8.0
+ci disp 230.2
+ci b&s 3 1/4 & 4 5/8
+ci etype In line L-head
+ci trq 205@1200
+ci vlift Mechanical
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci bhp 132@3600
+ci mbear 4
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci cool Centrifugal pump with thermostat
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci rad Cellular tubular or fin and tube
+ci batt 12
+ci exha Single
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power Flite automatic transmission
+ci equip Power steering
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci 1gear 2.5
+ci drive Rear wheel drive
+ci rev 3.2
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.68
+ci gears 3
+ci vloc On left front door hinge post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 5560, M17(\w)([\dX]{6})
+clv 24887, 1959, Plymouth, Savoy, DeLuxe Suburban
+ci axle Semifloating
+ci prod 15074
+ci make Plymouth
+ci origin United States
+ci msrp $2337.00
+ci series Savoy
+ci year 1959
+ci maker Plymouth
+ci doors 2
+ci rbsize 11
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci trans 2.75
+ci oil 5
+ci tcase -NA-
+ci rdiff 3.25
+ci fuel 20
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 9.3 inches
+ci diff Hypoid
+ci diffr 3.73
+ci length 214.5
+ci wbase 118
+ci rtred 59.6
+ci ftred 60.9
+ci width 78
+ci cyl 6
+ci rhp 25.35
+ci bhp 132@3600
+ci etype Single downdraft
+ci etype In line L-head
+ci disp 230.2
+ci mbear 4
+ci englo On left front side of block.
+ci b&s 3 1/4 & 4 5/8
+ci trq 205@1200
+ci vlift Mechanical
+ci etype Helical
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci cool Centrifugal pump with thermostat
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci rad Cellular tubular or fin and tube
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power Flite automatic transmission
+ci equip Power steering
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci 1gear 2.5
+ci drive Rear wheel drive
+ci rev 3.2
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.68
+ci gears 3
+ci vloc On left front door hinge post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 5561, M17(\w)([\dX]{6})
+clv 24888, 1959, Plymouth, Savoy, DeLuxe Suburban
+ci axle Semifloating
+ci year 1959
+ci msrp $2399.00
+ci make Plymouth
+ci series Savoy
+ci origin United States
+ci prod 35086
+ci maker Plymouth
+ci rbsize 11
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci rdiff 3.25
+ci oil 5
+ci trans 2.75
+ci tcase -NA-
+ci carb Carter
+ci csize 9.3 inches
+ci ctype Single plate dry disc
+ci diffr 3.73
+ci diff Hypoid
+ci wbase 118
+ci width 78
+ci ftred 60.9
+ci length 214.5
+ci rtred 59.6
+ci b&s 3 1/4 & 4 5/8
+ci disp 230.2
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci comp 8.0
+ci cyl 6
+ci trq 205@1200
+ci vlift Mechanical
+ci englo On left front side of block.
+ci etype Single downdraft
+ci etype In line L-head
+ci etype Helical
+ci rhp 25.35
+ci bhp 132@3600
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci cool 13 Quarts
+ci rad Cellular tubular or fin and tube
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power Flite automatic transmission
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci 1gear 2.5
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.68
+ci 3gear 1
+ci gears 3
+ci rev 3.2
+ci vloc On left front door hinge post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 5562, M13(\w)([\dX]{6})
+clv 24889, 1959, Plymouth, Savoy, Sedan
+ci axle Semifloating
+ci msrp $2066.00
+ci prod 84274
+ci year 1959
+ci origin United States
+ci make Plymouth
+ci series Savoy
+ci maker Plymouth
+ci ebrake On the drive shaft
+ci rbsize 11
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci tcase -NA-
+ci trans 2.75
+ci oil 5
+ci rdiff 3.25
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 9.3 inches
+ci diffr 3.73
+ci diff Hypoid
+ci width 78
+ci length 208.2
+ci wbase 118
+ci height 58.5
+ci rtred 59.6
+ci ftred 60.9
+ci comp 8.0
+ci englo On left front side of block.
+ci etype Single downdraft
+ci cyl 6
+ci rhp 25.35
+ci disp 230.2
+ci b&s 3 1/4 & 4 5/8
+ci mbear 4
+ci etype In line L-head
+ci vlift Mechanical
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci bhp 132@3600
+ci trq 205@1200
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci cool Centrifugal pump with thermostat
+ci cool 13 Quarts
+ci ign Distributor and coil
+ci rad Cellular tubular or fin and tube
+ci batt 12
+ci exha Single
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power Flite automatic transmission
+ci equip Power steering
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci 1gear 2.5
+ci drive Rear wheel drive
+ci rev 3.2
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.68
+ci gears 3
+ci vloc On left front door hinge post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 5563, M23(\w)([\dX]{6})
+clv 24890, 1959, Plymouth, Savoy, Club Sedan
+ci axle Semifloating
+ci year 1959
+ci origin United States
+ci make Plymouth
+ci series Savoy
+ci msrp $2138.00
+ci prod 46979
+ci maker Plymouth
+ci doors 2
+ci weight 3390
+ci rbsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake On the drive shaft
+ci tcase -NA-
+ci fuel 20
+ci rdiff 3.5
+ci oil 5
+ci trans 2.75
+ci carb Carter
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.54
+ci diff Hypoid
+ci wbase 118
+ci length 208.2
+ci width 78
+ci ftred 60.9
+ci rtred 59.7
+ci height 58.5
+ci cyl 8
+ci disp 317.58
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 48.83
+ci b&s 3 29/32 & 3 5/16
+ci vlift Mechanical
+ci bhp 230@4400
+ci block Cast Iron
+ci etype V8 overhead valve
+ci trq 340@2400
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci etype Dual downdraft
+ci etype Synchronous meshing
+ci mbear 5
+ci comp 9.0
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci batt 12
+ci exha Single with crossover
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci rad Cellular tubular or fin and tube
+ci cool Centrifugal pump with thermostat
+ci equip Pushbutton Radio
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & three tooth roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci 5gear Not applicable
+ci rev 2.73
+ci 1gear 2.12
+ci gears 3
+ci 3gear 1
+ci 2gear 1.43
+ci drive Rear wheel drive
+ci vloc On left front door hinge post.
+ci tsize 7.5 x 14
+ci sloc Trunk
+cls 5564, M23(\w)([\dX]{6})
+clv 24891, 1959, Plymouth, Savoy, Sedan
+ci axle Semifloating
+ci series Savoy
+ci msrp $2185.00
+ci origin United States
+ci make Plymouth
+ci year 1959
+ci prod 84274
+ci maker Plymouth
+ci doors 4
+ci weight 3425
+ci ebrake On the drive shaft
+ci rbsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci tcase -NA-
+ci fuel 20
+ci trans 2.75
+ci rdiff 3.5
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.54
+ci diff Hypoid
+ci wbase 118
+ci width 78
+ci ftred 60.9
+ci length 208.2
+ci height 58.5
+ci rtred 59.7
+ci b&s 3 29/32 & 3 5/16
+ci etype V8 overhead valve
+ci rhp 48.83
+ci cyl 8
+ci mbear 5
+ci comp 9.0
+ci trq 340@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci disp 317.58
+ci vlift Mechanical
+ci etype Dual downdraft
+ci etype Synchronous meshing
+ci bhp 230@4400
+ci block Cast Iron
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci ign Distributor and coil
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci rad Cellular tubular or fin and tube
+ci batt 12
+ci cool 20 Quarts
+ci equip Pushbutton Radio
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci 1gear 2.12
+ci 2gear 1.43
+ci 5gear Not applicable
+ci rev 2.73
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci vloc On left front door hinge post.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 5565, M29(\w)([\dX]{6})
+clv 24892, 1959, Plymouth, Sport Fury, Convertible
+ci axle Semifloating
+ci msrp $2857.00
+ci origin United States
+ci year 1959
+ci prod 5990
+ci make Plymouth
+ci series Sport Fury
+ci maker Plymouth
+ci doors 2
+ci weight 3670
+ci rbsize 11
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci trans 2.75
+ci fuel 20
+ci rdiff 3.5
+ci oil 5
+ci tcase -NA-
+ci carb Carter
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.54
+ci diff Hypoid
+ci width 78
+ci wbase 118
+ci length 208.2
+ci ftred 60.9
+ci height 54.6
+ci rtred 59.7
+ci disp 317.58
+ci b&s 3 29/32 & 3 5/16
+ci bhp 260@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci comp 9.0
+ci mbear 5
+ci block Cast Iron
+ci etype Synchronous meshing
+ci rhp 48.83
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci etype V8 overhead valve
+ci trq 345@2800
+ci cyl 8
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci rad Cellular tubular or fin and tube
+ci equip Pushbutton Radio
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & three tooth roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci gears 3
+ci rev 2.73
+ci 1gear 2.12
+ci 5gear Not applicable
+ci 2gear 1.43
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc Under the hood on the left side of cowl.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 5566, M29(\w)([\dX]{6})
+clv 24893, 1959, Plymouth, Sport Fury, Hardtop
+ci axle Semifloating
+ci msrp $2673.00
+ci origin United States
+ci prod 17867
+ci make Plymouth
+ci series Sport Fury
+ci year 1959
+ci maker Plymouth
+ci doors 2
+ci weight 3475
+ci ebrake On the drive shaft
+ci rbsize 11
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci rdiff 3.5
+ci trans 2.75
+ci oil 5
+ci tcase -NA-
+ci carb Carter
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.54
+ci diff Hypoid
+ci width 78
+ci wbase 118
+ci length 208.2
+ci ftred 60.9
+ci rtred 59.7
+ci height 54.6
+ci trq 345@2800
+ci mbear 5
+ci bhp 260@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci comp 9.0
+ci rhp 48.83
+ci block Cast Iron
+ci etype Synchronous meshing
+ci b&s 3 29/32 & 3 5/16
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci etype V8 overhead valve
+ci disp 317.58
+ci cyl 8
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci rad Cellular tubular or fin and tube
+ci equip Pushbutton Radio
+ci equip Torque Flite automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Worm & three tooth roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent torsion bar
+ci gears 3
+ci rev 2.73
+ci 1gear 2.12
+ci 5gear Not applicable
+ci 2gear 1.43
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc Under the hood on the left side of cowl.
+ci sloc Trunk
+ci tsize 7.5 x 14
+cls 5567, M27(\w)([\dX]{6})
+clv 24894, 1959, Plymouth, Suburban, Custom Suburban
+ci axle Semifloating
+ci series Suburban
+ci origin United States
+ci msrp $2568.00
+ci year 1959
+ci make Plymouth
+ci prod 1852
+ci maker Plymouth
+ci weight 3690
+ci doors 2
+ci model 24665
+ci pass 6
+ci rbsize 11
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci trans 2.75
+ci fuel 20
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 5
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.54
+ci diff Hypoid
+ci rtred 59.7
+ci wbase 122
+ci length 214.5
+ci width 78
+ci ftred 60.9
+ci bhp 230@4400
+ci trq 340@2400
+ci b&s 3 29/32 & 3 5/16
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.0
+ci mbear 5
+ci block Cast Iron
+ci rhp 48.83
+ci etype Synchronous meshing
+ci vlift Mechanical
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci disp 317.58
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci batt 12
+ci exha Single with crossover
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci rad Cellular tubular or fin and tube
+ci cool Centrifugal pump with thermostat
+ci equip Power Flite automatic transmission
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.73
+ci 3gear 1
+ci 1gear 2.12
+ci 2gear 1.43
+ci 5gear Not applicable
+ci vloc On left front door hinge post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5568, M27(\w)([\dX]{6})
+clv 24895, 1959, Plymouth, Suburban, Custom Suburban
+ci axle Semifloating
+ci year 1959
+ci origin United States
+ci make Plymouth
+ci msrp $2630.00
+ci series Suburban
+ci prod 35024
+ci weight 3730
+ci doors 4
+ci pass 6
+ci maker Plymouth
+ci model 24666
+ci rbsize 11
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci trans 2.75
+ci tcase -NA-
+ci oil 5
+ci rdiff 3.5
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.54
+ci diff Hypoid
+ci wbase 122
+ci length 214.5
+ci width 78
+ci ftred 60.9
+ci rtred 59.7
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 317.58
+ci mbear 5
+ci cyl 8
+ci b&s 3 29/32 & 3 5/16
+ci comp 9.0
+ci bhp 230@4400
+ci block Cast Iron
+ci etype V8 overhead valve
+ci rhp 48.83
+ci vlift Mechanical
+ci etype Dual downdraft
+ci etype Synchronous meshing
+ci trq 340@2400
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci batt 12
+ci exha Single with crossover
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci rad Cellular tubular or fin and tube
+ci cool Centrifugal pump with thermostat
+ci equip Power Flite automatic transmission
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.73
+ci 3gear 1
+ci 1gear 2.12
+ci 2gear 1.43
+ci 5gear Not applicable
+ci vloc On left front door hinge post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5569, M27(\w)([\dX]{6})
+clv 24896, 1959, Plymouth, Suburban, Custom Suburban
+ci axle Semifloating
+ci series Suburban
+ci origin United States
+ci year 1959
+ci prod 16993
+ci make Plymouth
+ci msrp $2732.00
+ci model 24667
+ci maker Plymouth
+ci doors 4
+ci pass 9
+ci weight 3775
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci rbsize 11
+ci trans 2.75
+ci tcase -NA-
+ci fuel 20
+ci rdiff 3.5
+ci oil 5
+ci carb Carter
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.54
+ci diff Hypoid
+ci rtred 59.7
+ci wbase 122
+ci length 214.5
+ci width 78
+ci ftred 60.9
+ci bhp 230@4400
+ci b&s 3 29/32 & 3 5/16
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 317.58
+ci comp 9.0
+ci mbear 5
+ci block Cast Iron
+ci rhp 48.83
+ci etype Synchronous meshing
+ci vlift Mechanical
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci trq 340@2400
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci batt 12
+ci exha Single with crossover
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci rad Cellular tubular or fin and tube
+ci cool Centrifugal pump with thermostat
+ci equip Power Flite automatic transmission
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.73
+ci 3gear 1
+ci 1gear 2.12
+ci 2gear 1.43
+ci 5gear Not applicable
+ci vloc On left front door hinge post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5570, M27(\w)([\dX]{6})
+clv 24897, 1959, Plymouth, Suburban, DeLuxe Suburban
+ci axle Semifloating
+ci series Suburban
+ci origin United States
+ci msrp $2456.00
+ci year 1959
+ci make Plymouth
+ci prod 15074
+ci maker Plymouth
+ci weight 3690
+ci doors 2
+ci model 24663
+ci pass 6
+ci rbsize 11
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci trans 2.75
+ci fuel 20
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 5
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.54
+ci diff Hypoid
+ci rtred 59.7
+ci wbase 122
+ci length 214.5
+ci width 78
+ci ftred 60.9
+ci bhp 230@4400
+ci trq 340@2400
+ci b&s 3 29/32 & 3 5/16
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.0
+ci mbear 5
+ci block Cast Iron
+ci rhp 48.83
+ci etype Synchronous meshing
+ci vlift Mechanical
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci disp 317.58
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci batt 12
+ci exha Single with crossover
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci rad Cellular tubular or fin and tube
+ci cool Centrifugal pump with thermostat
+ci equip Power Flite automatic transmission
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.73
+ci 3gear 1
+ci 1gear 2.12
+ci 2gear 1.43
+ci 5gear Not applicable
+ci vloc On left front door hinge post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5571, M27(\w)([\dX]{6})
+clv 24898, 1959, Plymouth, Suburban, DeLuxe Suburban
+ci axle Semifloating
+ci year 1959
+ci origin United States
+ci make Plymouth
+ci msrp $2518.00
+ci series Suburban
+ci prod 35086
+ci weight 3725
+ci doors 4
+ci pass 6
+ci maker Plymouth
+ci model 24664
+ci rbsize 11
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci trans 2.75
+ci tcase -NA-
+ci oil 5
+ci rdiff 3.5
+ci carb Carter
+ci ctype Single plate dry disc
+ci csize 10 inches
+ci diffr 3.54
+ci diff Hypoid
+ci wbase 122
+ci length 214.5
+ci width 78
+ci ftred 60.9
+ci rtred 59.7
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 317.58
+ci mbear 5
+ci cyl 8
+ci b&s 3 29/32 & 3 5/16
+ci comp 9.0
+ci bhp 230@4400
+ci block Cast Iron
+ci etype V8 overhead valve
+ci rhp 48.83
+ci vlift Mechanical
+ci etype Dual downdraft
+ci etype Synchronous meshing
+ci trq 340@2400
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci batt 12
+ci exha Single with crossover
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci rad Cellular tubular or fin and tube
+ci cool Centrifugal pump with thermostat
+ci equip Power Flite automatic transmission
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.73
+ci 3gear 1
+ci 1gear 2.12
+ci 2gear 1.43
+ci 5gear Not applicable
+ci vloc On left front door hinge post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5572, M27(\w)([\dX]{6})
+clv 24899, 1959, Plymouth, Suburban, Sport Suburban
+ci axle Semifloating
+ci msrp $2760.00
+ci origin United States
+ci make Plymouth
+ci prod 7224
+ci series Suburban
+ci year 1959
+ci pass 6
+ci doors 4
+ci maker Plymouth
+ci model 24668
+ci weight 3760
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci rbsize 11
+ci rdiff 3.5
+ci oil 5
+ci tcase -NA-
+ci trans 2.75
+ci fuel 20
+ci carb Carter
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.54
+ci diff Hypoid
+ci rtred 59.7
+ci length 214.5
+ci wbase 122
+ci width 78
+ci ftred 60.9
+ci b&s 3 29/32 & 3 5/16
+ci disp 317.58
+ci trq 340@2400
+ci cyl 8
+ci etype Synchronous meshing
+ci comp 9.0
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci etype V8 overhead valve
+ci bhp 230@4400
+ci vlift Mechanical
+ci etype Dual downdraft
+ci mbear 5
+ci rhp 48.83
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci batt 12
+ci exha Single with crossover
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci rad Cellular tubular or fin and tube
+ci cool Centrifugal pump with thermostat
+ci equip Power Flite automatic transmission
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.73
+ci 3gear 1
+ci 1gear 2.12
+ci 2gear 1.43
+ci 5gear Not applicable
+ci vloc On left front door hinge post.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 5573, M27(\w)([\dX]{6})
+clv 24900, 1959, Plymouth, Suburban, Sport Suburban
+ci axle Semifloating
+ci prod 9549
+ci origin United States
+ci make Plymouth
+ci msrp $2862.00
+ci series Suburban
+ci year 1959
+ci maker Plymouth
+ci doors 4
+ci pass 9
+ci model 24669
+ci weight 3805
+ci ebrake On the drive shaft
+ci svc 4 wheel hydraulic drum
+ci rbsize 11
+ci rdiff 3.5
+ci oil 5
+ci tcase -NA-
+ci trans 2.75
+ci fuel 20
+ci carb Carter
+ci csize 10 inches
+ci ctype Single plate dry disc
+ci diffr 3.54
+ci diff Hypoid
+ci rtred 59.7
+ci length 214.5
+ci wbase 122
+ci width 78
+ci ftred 60.9
+ci comp 9.0
+ci cyl 8
+ci etype Synchronous meshing
+ci disp 317.58
+ci trq 340@2400
+ci b&s 3 29/32 & 3 5/16
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast Iron
+ci etype V8 overhead valve
+ci bhp 230@4400
+ci vlift Mechanical
+ci etype Dual downdraft
+ci mbear 5
+ci rhp 48.83
+ci englo On front of block beneath left cylinder head, or on right side of block beneath distributor, or on top of block behind water pump.
+ci color Exterior Colors
+co Apple Green
+co Bittersweet
+co Bronze Metallic
+co Caribbean Blue Metallic
+co Daffodil Yellow
+co Emerald  Green Metallic
+co Enamel
+co Flame Red
+co Gold Metallic
+co Iceberg White
+co Mint Green
+co Palomino Beige
+co Pearl Gray
+co Powder Blue
+co Silver Gray Metallic
+co Starlight Blue Metallic
+co Turquoise
+ci batt 12
+ci exha Single with crossover
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci rad Cellular tubular or fin and tube
+ci cool Centrifugal pump with thermostat
+ci equip Power Flite automatic transmission
+ci sgear Worm & three tooth roller
+ci fsus Independent torsion bar
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.73
+ci 3gear 1
+ci 1gear 2.12
+ci 2gear 1.43
+ci 5gear Not applicable
+ci vloc On left front door hinge post.
+ci sloc Trunk
+ci tsize 8 x 14

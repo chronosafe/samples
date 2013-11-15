@@ -1,0 +1,4767 @@
+cls 3709, 5(\w)68(\w)([\dX]{6})
+clv 12611, 1965, Ford, Galaxie 500XL - V8, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $3233.00
+ci origin United States
+ci series Galaxie 500XL - V8
+ci prod 28141
+ci year 1965
+ci make Ford
+ci weight 3507
+ci maker Ford
+ci model 63C
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11 1/32
+ci rdiff 5
+ci tcase -NA-
+ci fuel 20
+ci oil 5
+ci trans 3
+ci carb Own
+ci ctype Single dry plate
+ci csize 11 inches
+ci diffr 3.00
+ci diff Hypoid
+ci wbase 119
+ci width 77.3
+ci rtred 62
+ci height 54.7
+ci length 210
+ci rhp 51.2
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci vlift Hydraulic
+ci b&s 4 & 2.87
+ci etype V8 overhead valve
+ci trq 282@2400
+ci cyl 8
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci bhp 195@4400
+ci disp 289
+ci comp 9.3
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci batt 12
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci cool 19.5 Quarts
+ci ftype Regular
+ci cool Water pump
+ci equip 352 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip 427 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip 240 cu. in. Inline 6 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip 390 cu. in. V8 engine
+ci equip Power windows
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 1gear 2.42
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.33
+ci 2gear 1.61
+ci gears 3
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci tsize 7.75 x 15
+ci sloc Trunk
+cls 3710, 5(\w)09(\w)([\dX]{6})
+clv 12612, 1965, Ford, Mustang, 2 + 2 Fastback
+ser 6 1 499999
+ci axle Semifloating
+ci year 1965
+ci series Mustang
+ci prod 77079
+ci origin United States
+ci make Ford
+ci msrp $2589.00
+ci doors 2
+ci weight 2465
+ci maker Ford
+ci model 63A
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 16
+ci trans 3.5
+ci oil 3.5
+ci rdiff 2.5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 3.20
+ci length 181.6
+ci rtred 56
+ci wbase 108
+ci width 68.2
+ci height 51.2
+ci ftred 55.4
+ci mbear 7
+ci trq 185@2400
+ci etype Inline 6 overhead valve
+ci disp 200
+ci etype Single downdraft
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 32.5
+ci cyl 6
+ci etype Helical
+ci bhp 120@4400
+ci b&s 3.68 & 3.13
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci rad Cellular tubular
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool 8.5 Quarts
+ci exha Single
+ci cool Water pump
+ci equip Pushbutton Radio
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci rev 4.46
+ci 1gear 3.29
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.83
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 3711, 5(\w)08(\w)([\dX]{6})
+clv 12613, 1965, Ford, Mustang, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci year 1965
+ci series Mustang
+ci prod 73112
+ci origin United States
+ci make Ford
+ci msrp $2614.00
+ci doors 2
+ci model 76A
+ci weight 2650
+ci maker Ford
+ci svc Hydraulic self-adjusting
+ci bsize 9
+ci ebrake Rear service brakes
+ci trans 3.5
+ci fuel 16
+ci oil 3.5
+ci rdiff 2.5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 3.20
+ci length 181.6
+ci rtred 56
+ci wbase 108
+ci height 51
+ci width 68.2
+ci ftred 55.4
+ci disp 200
+ci trq 185@2400
+ci etype Inline 6 overhead valve
+ci mbear 7
+ci etype Single downdraft
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 32.5
+ci cyl 6
+ci etype Helical
+ci bhp 120@4400
+ci b&s 3.68 & 3.13
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci rad Cellular tubular
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool 8.5 Quarts
+ci exha Single
+ci cool Water pump
+ci equip Pushbutton Radio
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci rev 4.46
+ci 1gear 3.29
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.83
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 3712, 5(\w)07(\w)([\dX]{6})
+clv 12614, 1965, Ford, Mustang, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci year 1965
+ci series Mustang
+ci prod 409260
+ci origin United States
+ci make Ford
+ci msrp $2372.00
+ci doors 2
+ci model 65A
+ci weight 2515
+ci maker Ford
+ci ebrake Rear service brakes
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci trans 3.5
+ci fuel 16
+ci oil 3.5
+ci rdiff 2.5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 3.20
+ci length 181.6
+ci ftred 55.4
+ci rtred 56
+ci wbase 108
+ci height 51.1
+ci width 68.2
+ci b&s 3.68 & 3.13
+ci mbear 7
+ci etype Inline 6 overhead valve
+ci trq 185@2400
+ci disp 200
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci rhp 32.5
+ci cyl 6
+ci vlift Hydraulic
+ci bhp 120@4400
+ci etype Single downdraft
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ftype Regular
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool 8.5 Quarts
+ci rad Cellular tubular
+ci cool Water pump
+ci equip Pushbutton Radio
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci rev 4.46
+ci 1gear 3.29
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.83
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 3713, 5(\w)72(\w)([\dX]{6})
+clv 12615, 1965, Ford, Station Wagon 6, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Station Wagon 6
+ci origin United States
+ci prod 59693
+ci msrp $2797.00
+ci year 1965
+ci model 71B
+ci maker Ford
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci tcase -NA-
+ci trans 3
+ci fuel 16
+ci oil 4
+ci carb Own
+ci csize 9.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci wbase 119
+ci length 210
+ci width 77.3
+ci rtred 62
+ci height 56.7
+ci mbear 7
+ci cyl 6
+ci rhp 38.4
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3.18
+ci bhp 150@4000
+ci comp 9.2
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci trq 234@2200
+ci disp 240
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci rad Tubular and fin
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci cool 15 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip 390 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip 352 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip 289 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 3.02
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.84
+ci gears 3
+ci rev 3.1
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 3714, 5(\w)74(\w)([\dX]{6})
+clv 12616, 1965, Ford, Station Wagon 6, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 32344
+ci series Station Wagon 6
+ci origin United States
+ci make Ford
+ci msrp $2899.00
+ci year 1965
+ci model 71C
+ci maker Ford
+ci doors 4
+ci pass 9
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci rdiff 5
+ci trans 3
+ci fuel 16
+ci tcase -NA-
+ci oil 4
+ci carb Own
+ci csize 9.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci wbase 119
+ci length 210
+ci width 77.3
+ci rtred 62
+ci height 56.7
+ci etype Single downdraft
+ci rhp 38.4
+ci mbear 7
+ci cyl 6
+ci b&s 4 & 3.18
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 150@4000
+ci comp 9.2
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci trq 234@2200
+ci disp 240
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci rad Tubular and fin
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci cool 15 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip 390 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip 352 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip 289 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 3.02
+ci drive Rear wheel drive
+ci rev 3.1
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.84
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 3715, 5(\w)76(\w)([\dX]{6})
+clv 12617, 1965, Ford, Station Wagon 6, Country Squire
+ser 6 1 499999
+ci axle Semifloating
+ci prod 24308
+ci origin United States
+ci year 1965
+ci series Station Wagon 6
+ci make Ford
+ci msrp $3041.00
+ci model 71E
+ci maker Ford
+ci doors 4
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 16
+ci rdiff 5
+ci oil 4
+ci trans 3
+ci tcase -NA-
+ci carb Own
+ci csize 9.5 inches
+ci ctype Single dry plate
+ci diffr 3.25
+ci diff Hypoid
+ci width 77.3
+ci wbase 119
+ci rtred 62
+ci height 56.7
+ci length 210
+ci etype Single downdraft
+ci cyl 6
+ci trq 234@2200
+ci mbear 7
+ci bhp 150@4000
+ci b&s 4 & 3.18
+ci etype Unknown at time of publication
+ci comp 9.2
+ci disp 240
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 38.4
+ci vlift Hydraulic
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci batt 12
+ci cool 15 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power seats
+ci equip 289 cu. in. V8 engine
+ci equip 352 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power brakes
+ci equip 390 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip 427 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci rev 3.1
+ci 1gear 3.02
+ci 3gear 1
+ci 2gear 1.84
+ci 5gear Not applicable
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 3716, 5(\w)78(\w)([\dX]{6})
+clv 12618, 1965, Ford, Station Wagon 6, Country Squire
+ser 6 1 499999
+ci axle Semifloating
+ci prod 30502
+ci series Station Wagon 6
+ci origin United States
+ci make Ford
+ci msrp $3109.00
+ci year 1965
+ci model 71A
+ci maker Ford
+ci doors 4
+ci pass 9
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci rdiff 5
+ci trans 3
+ci fuel 16
+ci tcase -NA-
+ci oil 4
+ci carb Own
+ci csize 9.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci wbase 119
+ci length 210
+ci width 77.3
+ci rtred 62
+ci height 56.7
+ci etype Single downdraft
+ci rhp 38.4
+ci mbear 7
+ci cyl 6
+ci b&s 4 & 3.18
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 150@4000
+ci comp 9.2
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci trq 234@2200
+ci disp 240
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci rad Tubular and fin
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci cool 15 Quarts
+ci cool Water pump
+ci equip Power windows
+ci equip 390 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip 352 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip 289 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 3.02
+ci drive Rear wheel drive
+ci rev 3.1
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.84
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 3717, 5(\w)71(\w)([\dX]{6})
+clv 12619, 1965, Ford, Station Wagon 6, Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Station Wagon 6
+ci origin United States
+ci prod 30817
+ci msrp $2707.00
+ci year 1965
+ci model 71D
+ci maker Ford
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci tcase -NA-
+ci trans 3
+ci fuel 16
+ci oil 4
+ci carb Own
+ci csize 9.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci length 210
+ci width 77.3
+ci wbase 119
+ci rtred 62
+ci height 56.7
+ci comp 9.2
+ci cyl 6
+ci etype Unknown at time of publication
+ci mbear 7
+ci rhp 38.4
+ci b&s 4 & 3.18
+ci etype Single downdraft
+ci trq 234@2200
+ci disp 240
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 150@4000
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci batt 12
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci rad Tubular and fin
+ci ftype Regular
+ci cool Water pump
+ci equip 390 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip 352 cu. in. V8 engine
+ci equip 289 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Cruise-O-Matic automatic transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 2gear 1.84
+ci 1gear 3.02
+ci 5gear Not applicable
+ci rev 3.1
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci tsize 8.15 x 15
+ci sloc Trunk
+cls 3718, 5(\w)85(\w)([\dX]{6})
+clv 12620, 1965, Ford, Thunderbird, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $4953.00
+ci prod 6846
+ci series Thunderbird
+ci make Ford
+ci year 1965
+ci origin United States
+ci maker Ford
+ci doors 2
+ci model 76A
+ci weight 4588
+ci fbsize 11.875
+ci bsize 11 3/32
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fuel 22
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 20
+ci oil 5
+ci carb Own
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.00
+ci ftred 61
+ci wbase 113.2
+ci height 53.3
+ci width 77.3
+ci length 205.4
+ci rtred 60
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci bhp 300@4600
+ci etype Downdraft 4-barrel
+ci etype V8 Valve-in-head
+ci disp 389.09
+ci b&s 4 3/64 & 3 25/32
+ci comp 10.1
+ci vlift Hydraulic
+ci rhp 52.41
+ci trq 427@2800
+ci etype Cruise-O-Matic automatic
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci rad Tubular and fin
+ci cool 19 Quarts
+ci batt 12
+ci cool Water pump
+ci ftype Premium
+ci exha Dual
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 3719, 5(\w)83(\w)([\dX]{6})
+clv 12621, 1965, Ford, Thunderbird, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $4486.00
+ci make Ford
+ci prod 42652
+ci year 1965
+ci origin United States
+ci series Thunderbird
+ci model 63A
+ci doors 2
+ci maker Ford
+ci weight 4470
+ci ebrake Rear service brakes
+ci bsize 11 3/32
+ci fbsize 11.875
+ci svc Power front disc rear self-adjusting drum
+ci fuel 22
+ci tcase -NA-
+ci rdiff 4.5
+ci oil 5
+ci trans 20
+ci carb Own
+ci ctype Not applicable
+ci diffr 3.00
+ci diff Hypoid
+ci rtred 60
+ci ftred 61
+ci height 52.5
+ci width 77.3
+ci length 205.4
+ci wbase 113.2
+ci disp 389.09
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 300@4600
+ci trq 427@2800
+ci cyl 8
+ci comp 10.1
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci rhp 52.41
+ci etype Cruise-O-Matic automatic
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci rad Tubular and fin
+ci cool 19 Quarts
+ci batt 12
+ci cool Water pump
+ci ftype Premium
+ci exha Dual
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 3720, 5(\w)87(\w)([\dX]{6})
+clv 12622, 1965, Ford, Thunderbird, Landau
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $4589.00
+ci make Ford
+ci series Thunderbird
+ci year 1965
+ci origin United States
+ci prod 25474
+ci model 63B/63D
+ci doors 2
+ci maker Ford
+ci weight 4478
+ci bsize 11 3/32
+ci fbsize 11.875
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci oil 5
+ci trans 20
+ci fuel 22
+ci rdiff 4.5
+ci carb Own
+ci ctype Not applicable
+ci diffr 3.00
+ci diff Hypoid
+ci rtred 60
+ci ftred 61
+ci height 52.5
+ci width 77.3
+ci length 205.4
+ci wbase 113.2
+ci disp 389.09
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 300@4600
+ci trq 427@2800
+ci cyl 8
+ci comp 10.1
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci rhp 52.41
+ci etype Cruise-O-Matic automatic
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci rad Tubular and fin
+ci cool 19 Quarts
+ci batt 12
+ci cool Water pump
+ci ftype Premium
+ci exha Dual
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 8.15 x 15
+cls 3674, 5(\w)51(\w)([\dX]{6})
+clv 12573, 1965, Ford, Custom 500 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2414.00
+ci year 1965
+ci series Custom 500 6
+ci origin United States
+ci prod 19603
+ci make Ford
+ci maker Ford
+ci model 62B
+ci doors 2
+ci bsize 11 1/32
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 16
+ci rdiff 5
+ci tcase -NA-
+ci trans 3
+ci oil 4
+ci carb Own
+ci csize 9.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.00
+ci height 55.6
+ci width 77.3
+ci length 210
+ci wbase 119
+ci rtred 62
+ci etype Unknown at time of publication
+ci cyl 6
+ci etype Inline 6 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 150@4000
+ci rhp 38.4
+ci b&s 4 & 3.18
+ci comp 9.2
+ci etype Single downdraft
+ci trq 234@2200
+ci vlift Hydraulic
+ci disp 240
+ci mbear 7
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci cool Water pump
+ci cool 15 Quarts
+ci exha Single
+ci batt 12
+ci rad Tubular and fin
+ci ftype Regular
+ci equip 352 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip 289 cu. in. V8 engine
+ci equip 390 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.84
+ci rev 3.1
+ci 1gear 3.02
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.35 x 15
+cls 3675, 5(\w)52(\w)([\dX]{6})
+clv 12574, 1965, Ford, Custom 500 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 71727
+ci origin United States
+ci msrp $2467.00
+ci series Custom 500 6
+ci make Ford
+ci year 1965
+ci model 54B
+ci maker Ford
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 5
+ci trans 3
+ci fuel 16
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.00
+ci width 77.3
+ci wbase 119
+ci height 55.6
+ci rtred 62
+ci length 210
+ci trq 234@2200
+ci cyl 6
+ci disp 240
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Unknown at time of publication
+ci b&s 4 & 3.18
+ci comp 9.2
+ci vlift Hydraulic
+ci etype Inline 6 overhead valve
+ci etype Single downdraft
+ci bhp 150@4000
+ci rhp 38.4
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci cool 15 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tubular and fin
+ci exha Single
+ci cool Water pump
+ci equip Power brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip 289 cu. in. V8 engine
+ci equip 352 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power windows
+ci equip 390 cu. in. V8 engine
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.84
+ci rev 3.1
+ci 1gear 3.02
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.35 x 15
+cls 3676, 5(\w)53(\w)([\dX]{6})
+clv 12575, 1965, Ford, Custom 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci year 1965
+ci origin United States
+ci prod 49034
+ci msrp $2313.00
+ci make Ford
+ci series Custom 6
+ci maker Ford
+ci model 62E
+ci doors 2
+ci bsize 11 1/32
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 16
+ci rdiff 5
+ci tcase -NA-
+ci trans 3
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci csize 9.5 inches
+ci diffr 3.00
+ci diff Hypoid
+ci width 77.3
+ci wbase 119
+ci length 210
+ci rtred 62
+ci height 55.6
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci disp 240
+ci etype Single downdraft
+ci mbear 7
+ci trq 234@2200
+ci b&s 4 & 3.18
+ci comp 9.2
+ci etype Unknown at time of publication
+ci etype Inline 6 overhead valve
+ci vlift Hydraulic
+ci bhp 150@4000
+ci rhp 38.4
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci ftype Regular
+ci rad Tubular and fin
+ci cool Water pump
+ci equip Power brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip 289 cu. in. V8 engine
+ci equip 352 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power windows
+ci equip 390 cu. in. V8 engine
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.84
+ci rev 3.1
+ci 1gear 3.02
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.35 x 15
+cls 3677, 5(\w)54(\w)([\dX]{6})
+clv 12576, 1965, Ford, Custom 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 96393
+ci origin United States
+ci msrp $2366.00
+ci series Custom 6
+ci make Ford
+ci year 1965
+ci model 54E
+ci maker Ford
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 5
+ci trans 3
+ci fuel 16
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.00
+ci length 210
+ci wbase 119
+ci height 55.6
+ci rtred 62
+ci width 77.3
+ci trq 234@2200
+ci cyl 6
+ci disp 240
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Unknown at time of publication
+ci comp 9.2
+ci b&s 4 & 3.18
+ci vlift Hydraulic
+ci etype Inline 6 overhead valve
+ci etype Single downdraft
+ci bhp 150@4000
+ci rhp 38.4
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci cool 15 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tubular and fin
+ci exha Single
+ci cool Water pump
+ci equip Power brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip 289 cu. in. V8 engine
+ci equip 352 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power windows
+ci equip 390 cu. in. V8 engine
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.84
+ci rev 3.1
+ci 1gear 3.02
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.35 x 15
+cls 3678, 5(\w)48(\w)([\dX]{6})
+clv 12577, 1965, Ford, Fairlane 6 500, Custom Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci prod 20506
+ci msrp $2648.00
+ci origin United States
+ci make Ford
+ci series Fairlane 6 500
+ci year 1965
+ci weight 3220
+ci maker Ford
+ci model 71B
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci fuel 16
+ci rdiff 4.5
+ci trans 2
+ci tcase -NA-
+ci oil 3.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 2.80
+ci rtred 56
+ci length 198.4
+ci height 56.6
+ci ftred 57
+ci wbase 116
+ci width 73.8
+ci etype Inline 6 overhead valve
+ci mbear 7
+ci etype Single downdraft
+ci cyl 6
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 200
+ci etype Helical
+ci vlift Hydraulic
+ci trq 185@2400
+ci bhp 120@4400
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci rad Cellular tubular
+ci ign Distributor and coil
+ci batt 12
+ci cool 8.5 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Power steering
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci rev 3.74
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 2.76
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.69
+ci vloc Stamped on vertical face of left front fender apron near the top.
+ci sloc Trunk
+cls 3679, 5(\w)43(\w)([\dX]{6})
+clv 12578, 1965, Ford, Fairlane 6 500, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Fairlane 6 500
+ci origin United States
+ci msrp $2377.00
+ci year 1965
+ci prod 41405
+ci maker Ford
+ci model 65A
+ci weight 2877
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci trans 2
+ci fuel 16
+ci oil 3.5
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 2.80
+ci rtred 56
+ci height 54.9
+ci length 198.4
+ci ftred 57
+ci wbase 116
+ci width 73.8
+ci rhp 32.5
+ci mbear 7
+ci etype Single downdraft
+ci trq 185@2400
+ci etype Inline 6 overhead valve
+ci comp 9.2
+ci bhp 120@4400
+ci b&s 3.68 & 3.13
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Helical
+ci cyl 6
+ci disp 200
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ftype Regular
+ci ign Distributor and coil
+ci batt 12
+ci rad Cellular tubular
+ci exha Single
+ci cool 8.5 Quarts
+ci cool Water pump
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip 289 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci drive Rear wheel drive
+ci 1gear 2.76
+ci rev 3.74
+ci gears 3
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.69
+ci vloc Stamped on vertical face of left front fender apron near the top.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3680, 5(\w)41(\w)([\dX]{6})
+clv 12579, 1965, Ford, Fairlane 6 500, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci year 1965
+ci msrp $2312.00
+ci origin United States
+ci make Ford
+ci prod 16092
+ci series Fairlane 6 500
+ci model 62B
+ci weight 2805
+ci maker Ford
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci trans 2
+ci fuel 16
+ci tcase -NA-
+ci oil 3.5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 2.80
+ci height 55.8
+ci wbase 116
+ci rtred 56
+ci ftred 57
+ci length 198.4
+ci width 73.8
+ci comp 9.2
+ci mbear 7
+ci bhp 120@4400
+ci etype Inline 6 overhead valve
+ci cyl 6
+ci disp 200
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.68 & 3.13
+ci trq 185@2400
+ci etype Helical
+ci vlift Hydraulic
+ci rhp 32.5
+ci etype Single downdraft
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ftype Regular
+ci ign Distributor and coil
+ci batt 12
+ci rad Cellular tubular
+ci cool 8.5 Quarts
+ci exha Single
+ci cool Water pump
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci equip 289 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.69
+ci gears 3
+ci 1gear 2.76
+ci 3gear 1
+ci rev 3.74
+ci vloc Stamped on vertical face of left front fender apron near the top.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3681, 5(\w)42(\w)([\dX]{6})
+clv 12580, 1965, Ford, Fairlane 6 500, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Fairlane 6 500
+ci origin United States
+ci msrp $2353.00
+ci year 1965
+ci prod 77836
+ci doors 4
+ci weight 2863
+ci model 54B
+ci maker Ford
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci trans 2
+ci tcase -NA-
+ci fuel 16
+ci oil 3.5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 2.80
+ci rtred 56
+ci height 55.8
+ci length 198.4
+ci ftred 57
+ci wbase 116
+ci width 73.8
+ci rhp 32.5
+ci etype Inline 6 overhead valve
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 120@4400
+ci comp 9.2
+ci trq 185@2400
+ci vlift Hydraulic
+ci mbear 7
+ci etype Helical
+ci disp 200
+ci cyl 6
+ci b&s 3.68 & 3.13
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci cool Water pump
+ci ign Distributor and coil
+ci cool 8.5 Quarts
+ci exha Single
+ci ftype Regular
+ci rad Cellular tubular
+ci batt 12
+ci equip 289 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 3gear 1
+ci 1gear 2.76
+ci rev 3.74
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.69
+ci 5gear Not applicable
+ci vloc Stamped on vertical face of left front fender apron near the top.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3682, 5(\w)47(\w)([\dX]{6})
+clv 12581, 1965, Ford, Fairlane 6 500, Sports Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci year 1965
+ci msrp $2538.00
+ci origin United States
+ci make Ford
+ci series Fairlane 6 500
+ci prod 15141
+ci model 65B
+ci weight 2888
+ci maker Ford
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci trans 2
+ci fuel 16
+ci tcase -NA-
+ci oil 3.5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 2.80
+ci height 54.9
+ci wbase 116
+ci rtred 56
+ci ftred 57
+ci length 198.4
+ci width 73.8
+ci comp 9.2
+ci mbear 7
+ci bhp 120@4400
+ci etype Inline 6 overhead valve
+ci cyl 6
+ci disp 200
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.68 & 3.13
+ci trq 185@2400
+ci etype Helical
+ci vlift Hydraulic
+ci rhp 32.5
+ci etype Single downdraft
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ftype Regular
+ci ign Distributor and coil
+ci batt 12
+ci rad Cellular tubular
+ci cool 8.5 Quarts
+ci exha Single
+ci cool Water pump
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci equip 289 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.69
+ci gears 3
+ci 1gear 2.76
+ci 3gear 1
+ci rev 3.74
+ci vloc Stamped on vertical face of left front fender apron near the top.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3683, 5(\w)38(\w)([\dX]{6})
+clv 12582, 1965, Ford, Fairlane 6, Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Fairlane 6
+ci origin United States
+ci msrp $2567.00
+ci prod 13911
+ci year 1965
+ci doors 4
+ci model 71D
+ci weight 3183
+ci maker Ford
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 10
+ci trans 2
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 3.5
+ci fuel 16
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 2.80
+ci height 56.6
+ci rtred 56
+ci length 198.4
+ci ftred 57
+ci wbase 116
+ci width 73.8
+ci rhp 32.5
+ci mbear 7
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 120@4400
+ci comp 9.2
+ci trq 185@2400
+ci vlift Hydraulic
+ci b&s 3.68 & 3.13
+ci etype Helical
+ci disp 200
+ci cyl 6
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci cool Water pump
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 8.5 Quarts
+ci rad Cellular tubular
+ci batt 12
+ci equip 289 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.74
+ci 1gear 2.76
+ci gears 3
+ci 3gear 1
+ci 2gear 1.69
+ci vloc Stamped on vertical face of left front fender apron near the top.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3684, 5(\w)31(\w)([\dX]{6})
+clv 12583, 1965, Ford, Fairlane 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci year 1965
+ci msrp $2230.00
+ci origin United States
+ci make Ford
+ci series Fairlane 6
+ci prod 13685
+ci model 62A
+ci weight 2806
+ci maker Ford
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci trans 2
+ci fuel 16
+ci tcase -NA-
+ci oil 3.5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 2.80
+ci height 55.8
+ci wbase 116
+ci rtred 56
+ci ftred 57
+ci length 198.4
+ci width 73.8
+ci comp 9.2
+ci mbear 7
+ci bhp 120@4400
+ci etype Inline 6 overhead valve
+ci cyl 6
+ci disp 200
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.68 & 3.13
+ci trq 185@2400
+ci etype Helical
+ci vlift Hydraulic
+ci rhp 32.5
+ci etype Single downdraft
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ftype Regular
+ci ign Distributor and coil
+ci batt 12
+ci rad Cellular tubular
+ci cool 8.5 Quarts
+ci exha Single
+ci cool Water pump
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci equip 289 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.69
+ci gears 3
+ci 1gear 2.76
+ci 3gear 1
+ci rev 3.74
+ci vloc Stamped on vertical face of left front fender apron near the top.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3685, 5(\w)32(\w)([\dX]{6})
+clv 12584, 1965, Ford, Fairlane 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Fairlane 6
+ci origin United States
+ci msrp $2271.00
+ci year 1965
+ci prod 25378
+ci doors 4
+ci weight 2858
+ci model 54A
+ci maker Ford
+ci ebrake Rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci trans 2
+ci tcase -NA-
+ci fuel 16
+ci oil 3.5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 2.80
+ci height 55.8
+ci wbase 116
+ci length 198.4
+ci rtred 56
+ci ftred 57
+ci width 73.8
+ci rhp 32.5
+ci mbear 7
+ci cyl 6
+ci trq 185@2400
+ci etype Single downdraft
+ci comp 9.2
+ci etype Inline 6 overhead valve
+ci bhp 120@4400
+ci b&s 3.68 & 3.13
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Helical
+ci vlift Hydraulic
+ci disp 200
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci rad Cellular tubular
+ci cool 8.5 Quarts
+ci cool Water pump
+ci equip 289 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power steering
+ci equip Cruise-O-Matic automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 3.74
+ci 1gear 2.76
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.69
+ci vloc Stamped on vertical face of left front fender apron near the top.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3686, 5(\w)15(\w)([\dX]{6})
+clv 12585, 1965, Ford, Falcon Futura 6, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci prod 6191
+ci make Ford
+ci origin United States
+ci year 1965
+ci msrp $2481.00
+ci series Falcon Futura 6
+ci model 76A
+ci maker Ford
+ci weight 2675
+ci doors 2
+ci svc Hydraulic self-adjusting
+ci bsize 9
+ci ebrake Rear service brakes
+ci fuel 14
+ci tcase -NA-
+ci rdiff 2.5
+ci oil 3.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 2.83
+ci wbase 109.5
+ci width 71.6
+ci ftred 55
+ci rtred 56
+ci length 181.6
+ci height 53.8
+ci bhp 101@4400
+ci etype Inline Valve-in-head
+ci cyl 6
+ci mbear 4
+ci b&s 3 1/2 & 2 15/16
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 29.4
+ci etype Single downdraft
+ci block Cast alloy iron
+ci vlift Hydraulic
+ci etype Helical
+ci disp 169.57
+ci trq 156@2400
+ci comp 9.1
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 8.75 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci equip Air conditioning
+ci equip 200 cu. in. Inline 6 engine
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 4.46
+ci gears 3
+ci 2gear 1.83
+ci 1gear 3.29
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.00 x 13
+cls 3687, 5(\w)12(\w)([\dX]{6})
+clv 12586, 1965, Ford, Falcon Futura 6, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci prod 124
+ci make Ford
+ci origin United States
+ci msrp $2481.00
+ci year 1965
+ci series Falcon Futura 6
+ci doors 2
+ci maker Ford
+ci model 76B
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci rdiff 2.5
+ci oil 3.5
+ci tcase -NA-
+ci fuel 14
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diffr 2.83
+ci diff Hypoid
+ci height 53.8
+ci wbase 109.5
+ci length 181.6
+ci ftred 55
+ci rtred 56
+ci width 71.6
+ci etype Inline Valve-in-head
+ci cyl 6
+ci etype Single downdraft
+ci mbear 4
+ci rhp 29.4
+ci bhp 101@4400
+ci b&s 3 1/2 & 2 15/16
+ci disp 169.57
+ci block Cast alloy iron
+ci vlift Hydraulic
+ci etype Helical
+ci trq 156@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.1
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 8.75 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci equip Air conditioning
+ci equip 200 cu. in. Inline 6 engine
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 4.46
+ci gears 3
+ci 2gear 1.83
+ci 1gear 3.29
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.00 x 13
+cls 3688, 5(\w)17(\w)([\dX]{6})
+clv 12587, 1965, Ford, Falcon Futura 6, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci year 1965
+ci make Ford
+ci origin United States
+ci prod 24451
+ci msrp $2226.00
+ci series Falcon Futura 6
+ci weight 2395
+ci maker Ford
+ci model 63B
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9
+ci rdiff 2.5
+ci fuel 14
+ci oil 3.5
+ci tcase -NA-
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.83
+ci wbase 109.5
+ci length 181.6
+ci height 53.2
+ci ftred 55
+ci rtred 56
+ci width 71.6
+ci etype Single downdraft
+ci etype Inline Valve-in-head
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci rhp 29.4
+ci bhp 101@4400
+ci b&s 3 1/2 & 2 15/16
+ci block Cast alloy iron
+ci vlift Hydraulic
+ci etype Helical
+ci disp 169.57
+ci trq 156@2400
+ci comp 9.1
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 8.75 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci equip Air conditioning
+ci equip 200 cu. in. Inline 6 engine
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 4.46
+ci gears 3
+ci 2gear 1.83
+ci 1gear 3.29
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.00 x 13
+cls 3689, 5(\w)11(\w)([\dX]{6})
+clv 12588, 1965, Ford, Falcon Futura 6, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci prod 1303
+ci make Ford
+ci origin United States
+ci msrp $2179.00
+ci year 1965
+ci series Falcon Futura 6
+ci doors 2
+ci maker Ford
+ci model 63C
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci rdiff 2.5
+ci oil 3.5
+ci tcase -NA-
+ci fuel 14
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diffr 2.83
+ci diff Hypoid
+ci wbase 109.5
+ci length 181.6
+ci height 53.5
+ci ftred 55
+ci rtred 56
+ci width 71.6
+ci etype Single downdraft
+ci etype Inline Valve-in-head
+ci cyl 6
+ci mbear 4
+ci rhp 29.4
+ci bhp 101@4400
+ci b&s 3 1/2 & 2 15/16
+ci disp 169.57
+ci block Cast alloy iron
+ci vlift Hydraulic
+ci etype Helical
+ci trq 156@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.1
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 8.75 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci equip Air conditioning
+ci equip 200 cu. in. Inline 6 engine
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 4.46
+ci gears 3
+ci 2gear 1.83
+ci 1gear 3.29
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.00 x 13
+cls 3690, 5(\w)19(\w)([\dX]{6})
+clv 12589, 1965, Ford, Falcon Futura 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci year 1965
+ci make Ford
+ci origin United States
+ci msrp $2144.00
+ci prod 11670
+ci series Falcon Futura 6
+ci weight 2375
+ci maker Ford
+ci model 62B
+ci doors 2
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci rdiff 2.5
+ci oil 3.5
+ci fuel 14
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 2.83
+ci height 54.5
+ci wbase 109.5
+ci length 181.6
+ci ftred 55
+ci rtred 56
+ci width 71.6
+ci etype Single downdraft
+ci etype Inline Valve-in-head
+ci cyl 6
+ci mbear 4
+ci bhp 101@4400
+ci b&s 3 1/2 & 2 15/16
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 169.57
+ci block Cast alloy iron
+ci vlift Hydraulic
+ci etype Helical
+ci trq 156@2400
+ci rhp 29.4
+ci comp 9.1
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 8.75 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci equip Air conditioning
+ci equip 200 cu. in. Inline 6 engine
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 4.46
+ci gears 3
+ci 2gear 1.83
+ci 1gear 3.29
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.00 x 13
+cls 3691, 5(\w)16(\w)([\dX]{6})
+clv 12590, 1965, Ford, Falcon Futura 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 33985
+ci make Ford
+ci origin United States
+ci year 1965
+ci msrp $2192.00
+ci series Falcon Futura 6
+ci maker Ford
+ci weight 2415
+ci model 54B
+ci ebrake Rear service brakes
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci oil 3.5
+ci rdiff 2.5
+ci fuel 14
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diffr 2.83
+ci diff Hypoid
+ci wbase 109.5
+ci width 71.6
+ci rtred 56
+ci length 181.6
+ci ftred 55
+ci height 54.5
+ci cyl 6
+ci etype Inline Valve-in-head
+ci mbear 4
+ci bhp 101@4400
+ci b&s 3 1/2 & 2 15/16
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 29.4
+ci etype Single downdraft
+ci block Cast alloy iron
+ci vlift Hydraulic
+ci etype Helical
+ci disp 169.57
+ci trq 156@2400
+ci comp 9.1
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 8.75 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci equip Air conditioning
+ci equip 200 cu. in. Inline 6 engine
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 4.46
+ci gears 3
+ci 2gear 1.83
+ci 1gear 3.29
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.00 x 13
+cls 3692, 5(\w)01(\w)([\dX]{6})
+clv 12591, 1965, Ford, Falcon, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 49682
+ci make Ford
+ci origin United States
+ci year 1965
+ci msrp $2020.00
+ci series Falcon
+ci model 62A
+ci maker Ford
+ci doors 2
+ci weight 2370
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9
+ci oil 3.5
+ci rdiff 2.5
+ci fuel 14
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 2.83
+ci length 181.6
+ci width 71.6
+ci height 54.5
+ci ftred 55
+ci rtred 56
+ci wbase 109.5
+ci bhp 101@4400
+ci cyl 6
+ci etype Inline Valve-in-head
+ci mbear 4
+ci b&s 3 1/2 & 2 15/16
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 29.4
+ci etype Single downdraft
+ci block Cast alloy iron
+ci vlift Hydraulic
+ci etype Helical
+ci disp 169.57
+ci trq 156@2400
+ci comp 9.1
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 8.75 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power steering
+ci equip Air conditioning
+ci equip 200 cu. in. Inline 6 engine
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 4.46
+ci gears 3
+ci 2gear 1.83
+ci 1gear 3.29
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 6.00 x 13
+cls 3693, 5(\w)02(\w)([\dX]{6})
+clv 12592, 1965, Ford, Falcon, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Falcon
+ci msrp $2082.00
+ci make Ford
+ci origin United States
+ci prod 44036
+ci year 1965
+ci maker Ford
+ci model 54A
+ci ebrake Rear service brakes
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci fuel 14
+ci oil 3.5
+ci rdiff 2.5
+ci tcase -NA-
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 2.83
+ci length 181.6
+ci height 54.5
+ci wbase 109.5
+ci width 71.6
+ci ftred 55
+ci rtred 56
+ci block Cast alloy iron
+ci etype Inline Valve-in-head
+ci disp 169.57
+ci trq 156@2400
+ci etype Single downdraft
+ci b&s 3 1/2 & 2 15/16
+ci comp 9.1
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci rhp 29.4
+ci vlift Hydraulic
+ci etype Helical
+ci mbear 4
+ci bhp 101@4400
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci cool 8.75 Quarts
+ci batt 12
+ci ftype Regular
+ci cool Water pump
+ci equip Power steering
+ci equip 289 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip 200 cu. in. Inline 6 engine
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci rev 4.46
+ci 1gear 3.29
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.83
+ci 5gear Not applicable
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.00 x 13
+ci sloc Trunk
+cls 3694, 5(\w)bb(\w)([\dX]{6})
+clv 12593, 1965, Ford, Falcon Spring, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci series Falcon Spring
+ci prod 300
+ci make Ford
+ci year 1965
+ci doors 2
+ci maker Ford
+ci model 76D
+ci svc Hydraulic self-adjusting
+ci bsize 9
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 2.5
+ci oil 3.5
+ci fuel 14
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diffr 2.83
+ci diff Hypoid
+ci ftred 55
+ci height 53.8
+ci rtred 56
+ci length 181.6
+ci wbase 109.5
+ci width 71.6
+ci etype Single downdraft
+ci vlift Hydraulic
+ci mbear 4
+ci b&s 3 1/2 & 2 15/16
+ci comp 9.1
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci etype Inline Valve-in-head
+ci rhp 29.4
+ci disp 169.57
+ci trq 156@2400
+ci bhp 101@4400
+ci etype Helical
+ci cyl 6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Caspian Blue #2
+co Champagne Beige
+co Dynasty Green
+co Honey Gold
+co Ivy Green
+co Phoenician Yellow
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Silver Blue
+co Silver Smoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Two Tone Colors Available
+co Vintage Burgundy
+co Wimbledon White
+ci rad Tubular and fin
+ci cool 8.75 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci cool Water pump
+ci exha Single
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci rev 4.46
+ci drive Rear wheel drive
+ci 2gear 1.83
+ci 5gear Not applicable
+ci 1gear 3.29
+ci gears 3
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.00 x 13
+ci sloc Trunk
+cls 3695, 5(\w)bb(\w)([\dX]{6})
+clv 12594, 1965, Ford, Falcon Spring, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci prod 2806
+ci msrp $2425.00
+ci origin United States
+ci year 1965
+ci make Ford
+ci series Falcon Spring
+ci pass 2660
+ci model 63D
+ci maker Ford
+ci doors 2
+ci bsize 9
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 3.5
+ci rdiff 2.5
+ci fuel 14
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diffr 2.83
+ci diff Hypoid
+ci rtred 56
+ci ftred 55
+ci height 53.8
+ci width 71.6
+ci wbase 109.5
+ci length 181.6
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci b&s 3 1/2 & 2 15/16
+ci vlift Hydraulic
+ci etype Inline Valve-in-head
+ci block Cast alloy iron
+ci rhp 29.4
+ci disp 169.57
+ci trq 156@2400
+ci etype Single downdraft
+ci bhp 101@4400
+ci etype Helical
+ci comp 9.1
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Caspian Blue #2
+co Champagne Beige
+co Dynasty Green
+co Honey Gold
+co Ivy Green
+co Phoenician Yellow
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Silver Blue
+co Silver Smoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Two Tone Colors Available
+co Vintage Burgundy
+co Wimbledon White
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 8.75 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.83
+ci 1gear 3.29
+ci rev 4.46
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 6.00 x 13
+ci sloc Trunk
+cls 3696, 5(\w)27(\w)([\dX]{6})
+clv 12597, 1965, Ford, Falcon Station Wagon, Deluxe Ranchero
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci origin United States
+ci year 1965
+ci series Falcon Station Wagon
+ci model 66B
+ci doors 2
+ci maker Ford
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9
+ci fuel 14
+ci tcase -NA-
+ci rdiff 2.5
+ci oil 3.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diffr 3.20
+ci diff Hypoid
+ci rtred 56
+ci wbase 109.5
+ci ftred 55
+ci bhp 101@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 1/2 & 2 15/16
+ci comp 9.1
+ci mbear 4
+ci block Cast alloy iron
+ci cyl 6
+ci etype Inline Valve-in-head
+ci etype Single downdraft
+ci trq 156@2400
+ci disp 169.57
+ci etype Helical
+ci vlift Hydraulic
+ci rhp 29.4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Burgundy Metallic
+co Cardinal Red
+co Caspian Blue #2 Metallic
+co Cinnamon Frost Metallic
+co Cumberland Beige Metallic
+co Fawn
+co Glacier Blue Metallic
+co Inverness Green Metallic
+co Jamaican Yellow
+co Lime Frost Metallic
+co Onyx
+co Polar White #2
+co Sage Gold Metallic
+co Sea Foam Green
+co Sheffield Silver Metallic
+co Tiffany Blue
+co Trafalgar Blue Metallic
+co Turquoise
+ci batt 12
+ci rad Tubular and fin
+ci exha Single
+ci ign Distributor and coil
+ci cool 8.75 Quarts
+ci ftype Regular
+ci cool Water pump
+ci equip Power steering
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 1gear 3.29
+ci drive Rear wheel drive
+ci rev 4.46
+ci 5gear Not applicable
+ci 2gear 1.83
+ci gears 3
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+cls 3697, 5(\w)24(\w)([\dX]{6})
+clv 12598, 1965, Ford, Falcon Station Wagon, DeLuxe Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci year 1965
+ci msrp $2506.00
+ci origin United States
+ci series Falcon Station Wagon
+ci prod 12548
+ci make Ford
+ci maker Ford
+ci model 71B
+ci weight 2670
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9
+ci rdiff 2.5
+ci fuel 14
+ci tcase -NA-
+ci oil 3.5
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diffr 3.20
+ci diff Hypoid
+ci rtred 56
+ci ftred 55
+ci wbase 109.5
+ci length 190
+ci height 54.9
+ci width 71.6
+ci comp 9.1
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline Valve-in-head
+ci cyl 6
+ci rhp 29.4
+ci vlift Hydraulic
+ci block Cast alloy iron
+ci bhp 101@4400
+ci mbear 4
+ci disp 169.57
+ci trq 156@2400
+ci b&s 3 1/2 & 2 15/16
+ci etype Helical
+ci etype Single downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Burgundy Metallic
+co Cardinal Red
+co Caspian Blue #2 Metallic
+co Cinnamon Frost Metallic
+co Cumberland Beige Metallic
+co Fawn
+co Glacier Blue Metallic
+co Inverness Green Metallic
+co Jamaican Yellow
+co Lime Frost Metallic
+co Onyx
+co Polar White #2
+co Sage Gold Metallic
+co Sea Foam Green
+co Sheffield Silver Metallic
+co Tiffany Blue
+co Trafalgar Blue Metallic
+co Turquoise
+ci cool 8.75 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci rev 4.46
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 3.29
+ci gears 3
+ci 2gear 1.83
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 7.00 x 13
+cls 3698, 5(\w)27(\w)([\dX]{6})
+clv 12599, 1965, Ford, Falcon Station Wagon, Ranchero
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci origin United States
+ci year 1965
+ci series Falcon Station Wagon
+ci model 66A
+ci doors 2
+ci maker Ford
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9
+ci fuel 14
+ci tcase -NA-
+ci rdiff 2.5
+ci oil 3.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diffr 3.20
+ci diff Hypoid
+ci rtred 56
+ci wbase 109.5
+ci ftred 55
+ci bhp 101@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 1/2 & 2 15/16
+ci comp 9.1
+ci mbear 4
+ci block Cast alloy iron
+ci cyl 6
+ci etype Inline Valve-in-head
+ci etype Single downdraft
+ci trq 156@2400
+ci disp 169.57
+ci etype Helical
+ci vlift Hydraulic
+ci rhp 29.4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Burgundy Metallic
+co Cardinal Red
+co Caspian Blue #2 Metallic
+co Cinnamon Frost Metallic
+co Cumberland Beige Metallic
+co Fawn
+co Glacier Blue Metallic
+co Inverness Green Metallic
+co Jamaican Yellow
+co Lime Frost Metallic
+co Onyx
+co Polar White #2
+co Sage Gold Metallic
+co Sea Foam Green
+co Sheffield Silver Metallic
+co Tiffany Blue
+co Trafalgar Blue Metallic
+co Turquoise
+ci batt 12
+ci rad Tubular and fin
+ci exha Single
+ci ign Distributor and coil
+ci cool 8.75 Quarts
+ci ftype Regular
+ci cool Water pump
+ci equip Power steering
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 1gear 3.29
+ci drive Rear wheel drive
+ci rev 4.46
+ci 5gear Not applicable
+ci 2gear 1.83
+ci gears 3
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+cls 3699, 5(\w)26(\w)([\dX]{6})
+clv 12600, 1965, Ford, Falcon Station Wagon, Squire
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2665.00
+ci prod 6703
+ci origin United States
+ci year 1965
+ci make Ford
+ci series Falcon Station Wagon
+ci weight 2695
+ci maker Ford
+ci model 71C
+ci bsize 9
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 14
+ci rdiff 2.5
+ci tcase -NA-
+ci oil 3.5
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.20
+ci rtred 56
+ci ftred 55
+ci height 54.9
+ci length 190
+ci wbase 109.5
+ci width 71.6
+ci etype Single downdraft
+ci rhp 29.4
+ci etype Inline Valve-in-head
+ci b&s 3 1/2 & 2 15/16
+ci comp 9.1
+ci vlift Hydraulic
+ci block Cast alloy iron
+ci bhp 101@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 169.57
+ci trq 156@2400
+ci mbear 4
+ci etype Helical
+ci cyl 6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Burgundy Metallic
+co Cardinal Red
+co Caspian Blue #2 Metallic
+co Cinnamon Frost Metallic
+co Cumberland Beige Metallic
+co Fawn
+co Glacier Blue Metallic
+co Inverness Green Metallic
+co Jamaican Yellow
+co Lime Frost Metallic
+co Onyx
+co Polar White #2
+co Sage Gold Metallic
+co Sea Foam Green
+co Sheffield Silver Metallic
+co Tiffany Blue
+co Trafalgar Blue Metallic
+co Turquoise
+ci cool 8.75 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci rev 4.46
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 3.29
+ci gears 3
+ci 2gear 1.83
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 7.00 x 13
+cls 3700, 5(\w)21(\w)([\dX]{6})
+clv 12602, 1965, Ford, Falcon Station Wagon, Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2333.00
+ci year 1965
+ci origin United States
+ci prod 4891
+ci make Ford
+ci series Falcon Station Wagon
+ci weight 2640
+ci doors 2
+ci maker Ford
+ci model 59A
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9
+ci tcase -NA-
+ci rdiff 2.5
+ci fuel 14
+ci oil 3.5
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diffr 3.20
+ci diff Hypoid
+ci height 54.9
+ci wbase 109.5
+ci rtred 56
+ci length 190
+ci width 71.6
+ci ftred 55
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci mbear 4
+ci b&s 3 1/2 & 2 15/16
+ci vlift Hydraulic
+ci etype Inline Valve-in-head
+ci block Cast alloy iron
+ci rhp 29.4
+ci disp 169.57
+ci trq 156@2400
+ci etype Single downdraft
+ci bhp 101@4400
+ci etype Helical
+ci comp 9.1
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Burgundy Metallic
+co Cardinal Red
+co Caspian Blue #2 Metallic
+co Cinnamon Frost Metallic
+co Cumberland Beige Metallic
+co Fawn
+co Glacier Blue Metallic
+co Inverness Green Metallic
+co Jamaican Yellow
+co Lime Frost Metallic
+co Onyx
+co Polar White #2
+co Sage Gold Metallic
+co Sea Foam Green
+co Sheffield Silver Metallic
+co Tiffany Blue
+co Trafalgar Blue Metallic
+co Turquoise
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 8.75 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.83
+ci 1gear 3.29
+ci rev 4.46
+ci vloc Stamped on top upper flange of left front fender apron.
+ci tsize 7.00 x 13
+ci sloc Trunk
+cls 3701, 5(\w)22(\w)([\dX]{6})
+clv 12603, 1965, Ford, Falcon Station Wagon, Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci year 1965
+ci msrp $2367.00
+ci origin United States
+ci series Falcon Station Wagon
+ci prod 14911
+ci make Ford
+ci maker Ford
+ci model 71A
+ci weight 2680
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9
+ci rdiff 2.5
+ci fuel 14
+ci tcase -NA-
+ci oil 3.5
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diffr 3.20
+ci diff Hypoid
+ci rtred 56
+ci ftred 55
+ci wbase 109.5
+ci length 190
+ci height 54.9
+ci width 71.6
+ci comp 9.1
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline Valve-in-head
+ci cyl 6
+ci rhp 29.4
+ci vlift Hydraulic
+ci block Cast alloy iron
+ci bhp 101@4400
+ci mbear 4
+ci disp 169.57
+ci trq 156@2400
+ci b&s 3 1/2 & 2 15/16
+ci etype Helical
+ci etype Single downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Burgundy Metallic
+co Cardinal Red
+co Caspian Blue #2 Metallic
+co Cinnamon Frost Metallic
+co Cumberland Beige Metallic
+co Fawn
+co Glacier Blue Metallic
+co Inverness Green Metallic
+co Jamaican Yellow
+co Lime Frost Metallic
+co Onyx
+co Polar White #2
+co Sage Gold Metallic
+co Sea Foam Green
+co Sheffield Silver Metallic
+co Tiffany Blue
+co Trafalgar Blue Metallic
+co Turquoise
+ci cool 8.75 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci rev 4.46
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 3.29
+ci gears 3
+ci 2gear 1.83
+ci 3gear 1
+ci vloc Stamped on top upper flange of left front fender apron.
+ci sloc Trunk
+ci tsize 7.00 x 13
+cls 3702, 5(\w)65(\w)([\dX]{6})
+clv 12604, 1965, Ford, Galaxie 500 6, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci prod 31930
+ci origin United States
+ci make Ford
+ci series Galaxie 500 6
+ci year 1965
+ci msrp $2889.00
+ci model 76A
+ci maker Ford
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci fuel 16
+ci oil 4
+ci trans 3
+ci rdiff 5
+ci carb Own
+ci csize 9.5 inches
+ci ctype Single dry plate
+ci diffr 3.00
+ci diff Hypoid
+ci height 54.8
+ci length 210
+ci wbase 119
+ci width 77.3
+ci rtred 62
+ci mbear 7
+ci cyl 6
+ci vlift Hydraulic
+ci b&s 4 & 3.18
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 240
+ci etype Single downdraft
+ci etype Unknown at time of publication
+ci trq 234@2200
+ci etype Inline 6 overhead valve
+ci rhp 38.4
+ci bhp 150@4000
+ci comp 9.2
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci batt 12
+ci cool 15 Quarts
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip 240 cu. in. Inline 6 engine
+ci equip 352 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power windows
+ci equip 390 cu. in. V8 engine
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.84
+ci rev 3.1
+ci 1gear 3.02
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.35 x 15
+cls 3703, 5(\w)66(\w)([\dX]{6})
+clv 12605, 1965, Ford, Galaxie 500 6, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2630.00
+ci prod 157284
+ci make Ford
+ci origin United States
+ci year 1965
+ci series Galaxie 500 6
+ci maker Ford
+ci model 63B
+ci doors 2
+ci bsize 11 1/32
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 16
+ci rdiff 5
+ci tcase -NA-
+ci trans 3
+ci oil 4
+ci carb Own
+ci csize 9.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.00
+ci wbase 119
+ci width 77.3
+ci length 210
+ci rtred 62
+ci height 54.7
+ci mbear 7
+ci cyl 6
+ci bhp 150@4000
+ci etype Unknown at time of publication
+ci etype Inline 6 overhead valve
+ci rhp 38.4
+ci b&s 4 & 3.18
+ci comp 9.2
+ci etype Single downdraft
+ci trq 234@2200
+ci vlift Hydraulic
+ci disp 240
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci rad Tubular and fin
+ci cool Water pump
+ci equip 352 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Cruise-O-Matic automatic transmission
+ci equip 240 cu. in. Inline 6 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip 427 cu. in. V8 engine
+ci equip 390 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.84
+ci rev 3.1
+ci 1gear 3.02
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.35 x 15
+cls 3704, 5(\w)64(\w)([\dX]{6})
+clv 12606, 1965, Ford, Galaxie 500 6, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci series Galaxie 500 6
+ci origin United States
+ci prod 49982
+ci msrp $2708.00
+ci make Ford
+ci year 1965
+ci model 57B
+ci maker Ford
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11 1/32
+ci tcase -NA-
+ci rdiff 5
+ci trans 3
+ci fuel 16
+ci oil 4
+ci carb Own
+ci ctype Single dry plate
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.00
+ci wbase 119
+ci width 77.3
+ci rtred 62
+ci height 54.7
+ci length 210
+ci trq 234@2200
+ci disp 240
+ci cyl 6
+ci vlift Hydraulic
+ci mbear 7
+ci b&s 4 & 3.18
+ci etype Unknown at time of publication
+ci comp 9.2
+ci rhp 38.4
+ci etype Inline 6 overhead valve
+ci etype Single downdraft
+ci bhp 150@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci batt 12
+ci cool 15 Quarts
+ci rad Tubular and fin
+ci ftype Regular
+ci exha Single
+ci cool Water pump
+ci equip Power brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip 240 cu. in. Inline 6 engine
+ci equip 352 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power windows
+ci equip 390 cu. in. V8 engine
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.84
+ci rev 3.1
+ci 1gear 3.02
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.35 x 15
+cls 3705, 5(\w)62(\w)([\dX]{6})
+clv 12607, 1965, Ford, Galaxie 500 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Galaxie 500 6
+ci origin United States
+ci prod 18183
+ci msrp $2623.00
+ci make Ford
+ci year 1965
+ci model 54A
+ci maker Ford
+ci doors 4
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11 1/32
+ci tcase -NA-
+ci rdiff 5
+ci oil 4
+ci fuel 16
+ci trans 3
+ci carb Own
+ci csize 9.5 inches
+ci ctype Single dry plate
+ci diffr 3.00
+ci diff Hypoid
+ci rtred 62
+ci length 210
+ci wbase 119
+ci width 77.3
+ci height 55.6
+ci b&s 4 & 3.18
+ci vlift Hydraulic
+ci cyl 6
+ci disp 240
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci etype Unknown at time of publication
+ci trq 234@2200
+ci etype Inline 6 overhead valve
+ci rhp 38.4
+ci bhp 150@4000
+ci comp 9.2
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci ign Distributor and coil
+ci batt 12
+ci cool 15 Quarts
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Cruise-O-Matic automatic transmission
+ci equip 240 cu. in. Inline 6 engine
+ci equip 352 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Power windows
+ci equip 390 cu. in. V8 engine
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.84
+ci rev 3.1
+ci 1gear 3.02
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.35 x 15
+cls 3706, 5(\w)60(\w)([\dX]{6})
+clv 12608, 1965, Ford, Galaxie 500 LTD, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci prod 68038
+ci origin United States
+ci series Galaxie 500 LTD
+ci msrp $3233.00
+ci year 1965
+ci make Ford
+ci model 63F
+ci maker Ford
+ci weight 3496
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci svc Hydraulic self-adjusting
+ci oil 5
+ci tcase -NA-
+ci rdiff 5
+ci trans 3
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci csize 11 inches
+ci diff Hypoid
+ci diffr 3.00
+ci length 210
+ci width 77.3
+ci wbase 119
+ci rtred 62
+ci height 54.7
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 289
+ci trq 282@2400
+ci rhp 51.2
+ci mbear 5
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci cyl 8
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci bhp 195@4400
+ci b&s 4 & 2.87
+ci comp 9.3
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci batt 12
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci cool 19.5 Quarts
+ci ftype Regular
+ci cool Water pump
+ci equip 352 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip 427 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip 240 cu. in. Inline 6 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip 390 cu. in. V8 engine
+ci equip Power windows
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 1gear 2.42
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.33
+ci 2gear 1.61
+ci gears 3
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci tsize 7.75 x 15
+ci sloc Trunk
+cls 3707, 5(\w)67(\w)([\dX]{6})
+clv 12609, 1965, Ford, Galaxie 500 LTD, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci prod 37691
+ci msrp $3313.00
+ci origin United States
+ci make Ford
+ci series Galaxie 500 LTD
+ci year 1965
+ci model 57F
+ci doors 4
+ci weight 3588
+ci maker Ford
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11 1/32
+ci rdiff 5
+ci oil 5
+ci tcase -NA-
+ci fuel 20
+ci trans 3
+ci carb Own
+ci ctype Single dry plate
+ci csize 11 inches
+ci diffr 3.00
+ci diff Hypoid
+ci rtred 62
+ci length 210
+ci width 77.3
+ci height 54.7
+ci wbase 119
+ci rhp 51.2
+ci trq 282@2400
+ci mbear 5
+ci b&s 4 & 2.87
+ci disp 289
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci cyl 8
+ci comp 9.3
+ci etype V8 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 195@4400
+ci vlift Hydraulic
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool 19.5 Quarts
+ci ftype Regular
+ci cool Water pump
+ci equip 352 cu. in. V8 engine
+ci equip 390 cu. in. V8 engine
+ci equip 427 cu. in. V8 engine
+ci equip 240 cu. in. Inline 6 engine
+ci equip Pushbutton Radio
+ci equip Cruise-O-Matic automatic transmission
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci rev 2.33
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 1gear 2.42
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci sloc Trunk
+ci tsize 7.75 x 15
+cls 3708, 5(\w)69(\w)([\dX]{6})
+clv 12610, 1965, Ford, Galaxie 500XL - V8, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci prod 9849
+ci msrp $3498.00
+ci origin United States
+ci make Ford
+ci series Galaxie 500XL - V8
+ci year 1965
+ci weight 3675
+ci model 76B
+ci maker Ford
+ci doors 2
+ci bsize 11 1/32
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 3
+ci tcase -NA-
+ci oil 5
+ci rdiff 5
+ci fuel 20
+ci carb Own
+ci csize 11 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.00
+ci width 77.3
+ci length 210
+ci wbase 119
+ci rtred 62
+ci height 54.8
+ci rhp 51.2
+ci trq 282@2400
+ci disp 289
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 2.87
+ci cyl 8
+ci comp 9.3
+ci etype V8 overhead valve
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronized
+ci bhp 195@4400
+ci color Exterior Colors
+co Arcadian Blue
+co Brittany Blue
+co Caribbean Turquoise
+co Caspian Blue
+co Champagne Beige
+co Chantilly Beige
+co Charcoal Gray
+co Diamond Blue
+co Dynasty Green
+co Frost Turquoise
+co Holly Green
+co Honey Gold
+co Ivy Green
+co Marlin Blue
+co Midnight Turquoise
+co Navajo Beige
+co Pastel Yellow
+co Patrician Green
+co Phoenician Yellow
+co Poppy Red
+co Prairie Bronze
+co Rangoon Red
+co Raven Black
+co Rose Beige
+co Silver Blue
+co Silver Mink
+co Silversmoke Gray
+co Tropical Turquoise
+co Twilight Turquoise
+co Vintage Burgandy
+co Wimbledon White
+ci exha Single
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 19.5 Quarts
+ci batt 12
+ci cool Water pump
+ci equip 240 cu. in. Inline 6 engine
+ci equip Power steering
+ci equip Air conditioning
+ci equip 352 cu. in. V8 engine
+ci equip Cruise-O-Matic automatic transmission
+ci equip 427 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Pushbutton Radio
+ci equip Power windows
+ci equip 390 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci gears 3
+ci 1gear 2.42
+ci rev 2.33
+ci vloc On tab attached to top right side of dash panel in engine compartment
+ci tsize 7.75 x 15
+ci sloc Trunk

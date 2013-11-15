@@ -1,0 +1,158 @@
+cls 3435, (\w)8(\w)H([\dX]{6})
+clv 12324, 1958, Ford, Thunderbird, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci series Thunderbird
+ci origin United States
+ci year 1958
+ci prod 2134
+ci make Ford
+ci maker Ford
+ci model 76A
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci oil 5
+ci trans 3.75
+ci tcase -NA-
+ci fuel 20
+ci rdiff 5.5
+ci carb Own
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci rtred 57
+ci width 77
+ci ftred 60
+ci length 205.4
+ci wbase 113
+ci height 54.2
+ci etype V8 Valve-in-head
+ci rhp 51.2
+ci mbear 5
+ci b&s 4 & 3 1/2
+ci trq 395@2800
+ci cyl 8
+ci disp 351.86
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.2
+ci englo On engine side of dash under hood.
+ci engno 1st letter in serial no.
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Helical
+ci bhp 300@4600
+ci color Exterior Colors
+co Cascade Green
+co Casino Cream
+co Enamel
+co Everglade Green Metallic
+co Gulfstream Blue
+co Monarch Blue Metallic
+co Oriental Rose
+co Palomino Tan
+co Peach
+co Platinum Metallic
+co Regatta Blue
+co Winterset White
+ci rad Corrugated fin and tube
+ci cool 19.5 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Dual
+ci equip Dual Range automatic transmission
+ci equip Fordomatic automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Trailing arm
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.59
+ci rev 3.15
+ci 1gear 2.49
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 3436, (\w)8(\w)H([\dX]{6})
+clv 12325, 1958, Ford, Thunderbird, Tudor
+ser 6 1 499999
+ci axle Semifloating
+ci series Thunderbird
+ci origin United States
+ci make Ford
+ci prod 35758
+ci year 1958
+ci model 63A
+ci maker Ford
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 3.75
+ci oil 5
+ci rdiff 5.5
+ci tcase -NA-
+ci fuel 20
+ci carb Own
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci rtred 57
+ci width 77
+ci ftred 60
+ci length 205.4
+ci wbase 113
+ci height 54.2
+ci etype V8 Valve-in-head
+ci rhp 51.2
+ci mbear 5
+ci b&s 4 & 3 1/2
+ci trq 395@2800
+ci cyl 8
+ci disp 351.86
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.2
+ci englo On engine side of dash under hood.
+ci engno 1st letter in serial no.
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Helical
+ci bhp 300@4600
+ci color Exterior Colors
+co Cascade Green
+co Casino Cream
+co Enamel
+co Everglade Green Metallic
+co Gulfstream Blue
+co Monarch Blue Metallic
+co Oriental Rose
+co Palomino Tan
+co Peach
+co Platinum Metallic
+co Regatta Blue
+co Winterset White
+ci rad Corrugated fin and tube
+ci cool 19.5 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Dual
+ci equip Dual Range automatic transmission
+ci equip Fordomatic automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Trailing arm
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.59
+ci rev 3.15
+ci 1gear 2.49
+ci gears 3
+ci vloc Plate on left front door pillar post.
+ci tsize 8 x 14
+ci sloc Trunk

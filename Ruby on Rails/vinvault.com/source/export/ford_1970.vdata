@@ -1,0 +1,5307 @@
+cls 3914, 0(\w)71(\w)([\dX]{6})
+clv 12826, 1970, Ford, Custom 500 6, Custom Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci series Custom 500 6
+ci make Ford
+ci msrp $3368.00
+ci prod 15304
+ci year 1970
+ci origin United States
+ci maker Ford
+ci model 71H
+ci weight 4230
+ci doors 4
+ci bsize 11
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 24.5
+ci oil 4
+ci tcase -NA-
+ci rdiff 5
+ci trans 3.5
+ci carb Carter
+ci ctype Single dry plate
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.1
+ci wbase 121
+ci width 79.9
+ci height 56.8
+ci length 216.9
+ci ftred 63
+ci rtred 64
+ci etype Constant mesh
+ci cyl 6
+ci etype Single downdraft
+ci comp 9.2
+ci b&s 4 & 3.18
+ci rhp 38.4
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline 6 overhead valve
+ci disp 240
+ci mbear 7
+ci trq 234@2200
+ci vlift Hydraulic
+ci bhp 150@4000
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci exha Single
+ci rad Fin and tube
+ci batt 12
+ci cool 14.4 Quarts
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Select-Shift automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip 429 cu. in. V8 engine
+ci equip Power windows
+ci equip Power brakes
+ci equip Power steering
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.99
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 3gear 1
+ci gears 3
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 15
+cls 3915, 0(\w)72(\w)([\dX]{6})
+clv 12827, 1970, Ford, Custom 500 6, Custom Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci series Custom 500 6
+ci make Ford
+ci msrp $3481.00
+ci prod 9943
+ci year 1970
+ci origin United States
+ci maker Ford
+ci weight 4282
+ci doors 4
+ci model 71J
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Dual hydraulic
+ci fuel 24.5
+ci oil 4
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 5
+ci carb Carter
+ci ctype Single dry plate
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.1
+ci wbase 121
+ci height 56.8
+ci width 79.9
+ci ftred 63
+ci rtred 64
+ci length 216.9
+ci mbear 7
+ci cyl 6
+ci comp 9.2
+ci trq 234@2200
+ci etype Inline 6 overhead valve
+ci etype Single downdraft
+ci disp 240
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Constant mesh
+ci b&s 4 & 3.18
+ci bhp 150@4000
+ci rhp 38.4
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci cool 14.4 Quarts
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Power seats
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Power steering
+ci equip Power windows
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.17
+ci 3gear 1
+ci 1gear 2.99
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 15
+cls 3916, 0(\w)bb(\w)([\dX]{6})
+clv 12828, 1970, Ford, Custom 500 6, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci prod 2677
+ci origin United States
+ci year 1970
+ci make Ford
+ci series Custom 500 6
+ci maker Ford
+ci model 65M
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Dual hydraulic
+ci fuel 24.5
+ci oil 4
+ci rdiff 5
+ci trans 3.5
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.1
+ci rtred 64
+ci length 213.9
+ci height 54.9
+ci wbase 121
+ci ftred 63
+ci width 79.8
+ci cyl 6
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.2
+ci b&s 4 & 3.18
+ci rhp 38.4
+ci etype Inline 6 overhead valve
+ci vlift Hydraulic
+ci bhp 150@4000
+ci etype Constant mesh
+ci disp 240
+ci trq 234@2200
+ci etype Single downdraft
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ftype Regular
+ci rad Fin and tube
+ci ign Distributor and coil
+ci batt 12
+ci cool 14.4 Quarts
+ci cool Centrifugal water  pump
+ci exha Single
+ci equip Radio
+ci equip Front disc rear drum brakes
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Power windows
+ci equip Power steering
+ci equip Power seats
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci rev 3.17
+ci 1gear 2.99
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 15
+cls 3917, 0(\w)53(\w)([\dX]{6})
+clv 12829, 1970, Ford, Custom 500 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Custom 500 6
+ci make Ford
+ci msrp $2872.00
+ci year 1970
+ci prod 41261
+ci origin United States
+ci weight 3724
+ci model 54B
+ci doors 4
+ci maker Ford
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Dual hydraulic
+ci tcase -NA-
+ci rdiff 5
+ci fuel 24.5
+ci trans 3.5
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.1
+ci length 213.9
+ci width 79.8
+ci height 54.9
+ci wbase 121
+ci rtred 64
+ci ftred 63
+ci etype Constant mesh
+ci mbear 7
+ci etype Single downdraft
+ci comp 9.2
+ci b&s 4 & 3.18
+ci rhp 38.4
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline 6 overhead valve
+ci disp 240
+ci cyl 6
+ci trq 234@2200
+ci vlift Hydraulic
+ci bhp 150@4000
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci exha Single
+ci rad Fin and tube
+ci batt 12
+ci cool 14.4 Quarts
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Select-Shift automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip 429 cu. in. V8 engine
+ci equip Power windows
+ci equip Power brakes
+ci equip Power steering
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.99
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 3gear 1
+ci gears 3
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 15
+cls 3918, 0(\w)70(\w)([\dX]{6})
+clv 12830, 1970, Ford, Custom 6, Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci prod 15083
+ci msrp $3302.00
+ci series Custom 6
+ci year 1970
+ci origin United States
+ci weight 3958
+ci maker Ford
+ci doors 4
+ci model 71D
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci oil 4
+ci tcase -NA-
+ci fuel 24.5
+ci trans 3.5
+ci rdiff 5
+ci carb Carter
+ci csize 9.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.1
+ci width 79.9
+ci length 216.9
+ci wbase 121
+ci height 56.8
+ci rtred 64
+ci ftred 63
+ci cyl 6
+ci mbear 7
+ci disp 240
+ci trq 234@2200
+ci comp 9.2
+ci etype Inline 6 overhead valve
+ci rhp 38.4
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci bhp 150@4000
+ci etype Constant mesh
+ci etype Single downdraft
+ci b&s 4 & 3.18
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci rad Fin and tube
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci cool 14.4 Quarts
+ci equip 429 cu. in. V8 engine
+ci equip Power seats
+ci equip 390 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Power steering
+ci equip Power windows
+ci equip Power brakes
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci rev 3.17
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 1gear 2.99
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 15
+cls 3919, 0(\w)51(\w)([\dX]{6})
+clv 12831, 1970, Ford, Custom 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Custom 6
+ci make Ford
+ci msrp $2771.00
+ci year 1970
+ci prod 42849
+ci origin United States
+ci weight 3684
+ci model 54E
+ci doors 4
+ci maker Ford
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 11
+ci oil 4
+ci fuel 24.5
+ci rdiff 5
+ci trans 3.5
+ci tcase -NA-
+ci carb Carter
+ci csize 9.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.1
+ci wbase 121
+ci rtred 64
+ci length 213.9
+ci height 54.9
+ci width 79.8
+ci ftred 63
+ci etype Constant mesh
+ci bhp 150@4000
+ci mbear 7
+ci b&s 4 & 3.18
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 38.4
+ci trq 234@2200
+ci disp 240
+ci cyl 6
+ci etype Inline 6 overhead valve
+ci etype Single downdraft
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ftype Regular
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci cool 14.4 Quarts
+ci cool Centrifugal water  pump
+ci batt 12
+ci equip Select-Shift automatic transmission
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip 390 cu. in. V8 engine
+ci equip Power windows
+ci equip Power brakes
+ci equip Power seats
+ci equip 429 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.75
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 15
+cls 3920, 0(\w)29(\w)([\dX]{6})
+clv 12832, 1970, Ford, Fairlane 6 500, Formal Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1970
+ci msrp $2660.00
+ci series Fairlane 6 500
+ci prod 70636
+ci origin United States
+ci doors 2
+ci model 65B
+ci maker Ford
+ci weight 3116
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Dual hydraulic
+ci tcase -NA-
+ci fuel 20
+ci oil 4.5
+ci rdiff 4
+ci trans 3.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci height 52.2
+ci width 76.7
+ci wbase 117
+ci length 206.2
+ci rtred 60
+ci ftred 60.5
+ci etype Constant mesh
+ci mbear 7
+ci etype Inline 6 overhead valve
+ci bhp 155@4000
+ci comp 8.8
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.68 & 3.91
+ci rhp 32.5
+ci vlift Hydraulic
+ci cyl 6
+ci disp 250
+ci trq 240@1600
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci rad Fin and tube
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 9.9 Quarts
+ci equip 351 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Radio
+ci equip Power steering
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip 429 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 3gear 1
+ci rev 3.17
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3921, 0(\w)47(\w)([\dX]{6})
+clv 12833, 1970, Ford, Fairlane 6 500, Ranchero
+ser 6 1 499999
+ci axle Semifloating
+ci prod 8976
+ci origin United States
+ci make Ford
+ci year 1970
+ci series Fairlane 6 500
+ci maker Ford
+ci doors 2
+ci model 66B
+ci bsize 10
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci rdiff 4
+ci fuel 20
+ci tcase -NA-
+ci trans 3.5
+ci oil 4.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci rtred 60
+ci wbase 117
+ci ftred 60.5
+ci rhp 32.5
+ci etype Single downdraft
+ci mbear 7
+ci comp 8.8
+ci b&s 3.68 & 3.91
+ci trq 240@1600
+ci etype Inline 6 overhead valve
+ci cyl 6
+ci disp 250
+ci bhp 155@4000
+ci etype Constant mesh
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci ftype Regular
+ci rad Fin and tube
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci exha Single
+ci cool 9.9 Quarts
+ci batt 12
+ci equip 351 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Select-Shift automatic transmission
+ci equip 429 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.99
+ci 2gear 1.75
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 3922, 0(\w)28(\w)([\dX]{6})
+clv 12834, 1970, Ford, Fairlane 6 500, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1970
+ci msrp $2627.00
+ci series Fairlane 6 500
+ci prod 25780
+ci origin United States
+ci model 54B
+ci maker Ford
+ci doors 4
+ci weight 3104
+ci bsize 10
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci trans 3.5
+ci oil 4.5
+ci rdiff 4
+ci fuel 20
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 76.4
+ci rtred 60
+ci ftred 60.5
+ci height 53
+ci length 206.2
+ci wbase 117
+ci cyl 6
+ci rhp 32.5
+ci mbear 7
+ci b&s 3.68 & 3.91
+ci comp 8.8
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci disp 250
+ci trq 240@1600
+ci etype Inline 6 overhead valve
+ci bhp 155@4000
+ci etype Constant mesh
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci cool 9.9 Quarts
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci equip Select-Shift automatic transmission
+ci equip Power windows
+ci equip 351 cu. in. V8 engine
+ci equip Air conditioning
+ci equip 429 cu. in. V8 engine
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci rev 3.17
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 3gear 1
+ci 1gear 2.99
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3923, 0(\w)41(\w)([\dX]{6})
+clv 12835, 1970, Ford, Fairlane 6 500, Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane 6 500
+ci make Ford
+ci msrp $2957.00
+ci prod 13613
+ci year 1970
+ci origin United States
+ci weight 3514
+ci model 71B
+ci doors 4
+ci maker Ford
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 10
+ci tcase -NA-
+ci fuel 20
+ci oil 4.5
+ci rdiff 4
+ci trans 3.5
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci width 75.4
+ci wbase 117
+ci length 209
+ci height 55.9
+ci ftred 60.5
+ci rtred 60
+ci bhp 155@4000
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci comp 8.8
+ci etype Inline 6 overhead valve
+ci rhp 32.5
+ci b&s 3.68 & 3.91
+ci vlift Hydraulic
+ci trq 240@1600
+ci etype Constant mesh
+ci etype Single downdraft
+ci disp 250
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci cool Centrifugal water  pump
+ci rad Fin and tube
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool 9.9 Quarts
+ci equip Select-Shift automatic transmission
+ci equip Power windows
+ci equip Front disc rear drum brakes
+ci equip 351 cu. in. V8 engine
+ci equip Radio
+ci equip 429 cu. in. V8 engine
+ci equip Power steering
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 2.99
+ci rev 3.17
+ci 2gear 1.75
+ci gears 3
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 3924, 0(\w)46(\w)([\dX]{6})
+clv 12836, 1970, Ford, Fairlane 6 Falcon, Ranchero
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci prod 4816
+ci series Fairlane 6 Falcon
+ci year 1970
+ci make Ford
+ci maker Ford
+ci model 66A
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci oil 4.5
+ci rdiff 4
+ci fuel 20
+ci trans 3.5
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci rtred 60
+ci wbase 117
+ci ftred 60.5
+ci etype Constant mesh
+ci mbear 7
+ci comp 8.8
+ci cyl 6
+ci vlift Hydraulic
+ci rhp 32.5
+ci disp 250
+ci etype Inline 6 overhead valve
+ci b&s 3.68 & 3.91
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci bhp 155@4000
+ci trq 240@1600
+ci color Exterior Colors
+co Acapulco Blue Met.
+co Bright Gold Met.
+co Bright Yellow
+co Burnt Orange Met.
+co Candyapple Red
+co Dark Aqua Met.
+co Dark Blue
+co Dark Ivy Green Met.
+co Dark Maroon
+co Ginger Met.
+co Grabber Blue
+co Grabber Green
+co Grabber Orange
+co Medium Blue Met.
+co Medium Gold Met.
+co Medium Ivy Green Met.
+co Medium Lime Met.
+co Medium Peppermint Met.
+co Morning Gold
+co New Lime
+co Pastel Blue
+co Raven Black
+co Vermilion
+co Wimbledon White
+co Yellow
+ci ign Distributor and coil
+ci batt 12
+ci rad Fin and tube
+ci exha Single
+ci ftype Regular
+ci cool 9.9 Quarts
+ci cool Centrifugal water  pump
+ci equip Power steering
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14
+cls 3925, 0(\w)11(\w)([\dX]{6})
+clv 12837, 1970, Ford, Fairlane 6 Falcon, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane 6 Falcon
+ci make Ford
+ci msrp $2500.00
+ci year 1970
+ci prod 30443
+ci origin United States
+ci maker Ford
+ci model 54A
+ci doors 4
+ci bsize 10
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 20
+ci rdiff 4
+ci tcase -NA-
+ci oil 4.5
+ci trans 3.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 117
+ci ftred 60.5
+ci length 206.2
+ci width 76.4
+ci rtred 60
+ci height 53
+ci mbear 7
+ci cyl 6
+ci comp 8.8
+ci etype Inline 6 overhead valve
+ci rhp 32.5
+ci b&s 3.68 & 3.91
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci disp 250
+ci vlift Hydraulic
+ci trq 240@1600
+ci bhp 155@4000
+ci etype Constant mesh
+ci color Exterior Colors
+co Acapulco Blue Met.
+co Bright Gold Met.
+co Bright Yellow
+co Burnt Orange Met.
+co Candyapple Red
+co Dark Aqua Met.
+co Dark Blue
+co Dark Ivy Green Met.
+co Dark Maroon
+co Ginger Met.
+co Grabber Blue
+co Grabber Green
+co Grabber Orange
+co Medium Blue Met.
+co Medium Gold Met.
+co Medium Ivy Green Met.
+co Medium Lime Met.
+co Medium Peppermint Met.
+co Morning Gold
+co New Lime
+co Pastel Blue
+co Raven Black
+co Vermilion
+co Wimbledon White
+co Yellow
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci cool 9.9 Quarts
+ci cool Centrifugal water  pump
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.17
+ci 1gear 2.99
+ci 3gear 1
+ci 2gear 1.75
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14
+cls 3926, 0(\w)10(\w)([\dX]{6})
+clv 12838, 1970, Ford, Fairlane 6 Falcon, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Fairlane 6 Falcon
+ci make Ford
+ci msrp $2460.00
+ci year 1970
+ci prod 26071
+ci origin United States
+ci maker Ford
+ci doors 2
+ci model 62A
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Dual hydraulic
+ci oil 4.5
+ci rdiff 4
+ci fuel 20
+ci trans 3.5
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci length 206.2
+ci wbase 117
+ci width 76.4
+ci rtred 60
+ci ftred 60.5
+ci height 53
+ci mbear 7
+ci cyl 6
+ci comp 8.8
+ci etype Inline 6 overhead valve
+ci rhp 32.5
+ci b&s 3.68 & 3.91
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci disp 250
+ci vlift Hydraulic
+ci trq 240@1600
+ci bhp 155@4000
+ci etype Constant mesh
+ci color Exterior Colors
+co Acapulco Blue Met.
+co Bright Gold Met.
+co Bright Yellow
+co Burnt Orange Met.
+co Candyapple Red
+co Dark Aqua Met.
+co Dark Blue
+co Dark Ivy Green Met.
+co Dark Maroon
+co Ginger Met.
+co Grabber Blue
+co Grabber Green
+co Grabber Orange
+co Medium Blue Met.
+co Medium Gold Met.
+co Medium Ivy Green Met.
+co Medium Lime Met.
+co Medium Peppermint Met.
+co Morning Gold
+co New Lime
+co Pastel Blue
+co Raven Black
+co Vermilion
+co Wimbledon White
+co Yellow
+ci cool 9.9 Quarts
+ci rad Fin and tube
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.17
+ci gears 3
+ci 3gear 1
+ci 1gear 2.99
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14
+cls 3927, 0(\w)12(\w)([\dX]{6})
+clv 12839, 1970, Ford, Fairlane 6 Falcon, Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1970
+ci msrp $2767.00
+ci prod 10539
+ci series Fairlane 6 Falcon
+ci origin United States
+ci maker Ford
+ci model 71A
+ci doors 4
+ci bsize 10
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci oil 4.5
+ci rdiff 4
+ci fuel 20
+ci tcase -NA-
+ci trans 3.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 209
+ci wbase 117
+ci width 75.4
+ci rtred 60
+ci ftred 60.5
+ci height 55.9
+ci mbear 7
+ci cyl 6
+ci comp 8.8
+ci etype Inline 6 overhead valve
+ci rhp 32.5
+ci b&s 3.68 & 3.91
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci disp 250
+ci trq 240@1600
+ci etype Single downdraft
+ci bhp 155@4000
+ci etype Constant mesh
+ci color Exterior Colors
+co Acapulco Blue Met.
+co Bright Gold Met.
+co Bright Yellow
+co Burnt Orange Met.
+co Candyapple Red
+co Dark Aqua Met.
+co Dark Blue
+co Dark Ivy Green Met.
+co Dark Maroon
+co Ginger Met.
+co Grabber Blue
+co Grabber Green
+co Grabber Orange
+co Medium Blue Met.
+co Medium Gold Met.
+co Medium Ivy Green Met.
+co Medium Lime Met.
+co Medium Peppermint Met.
+co Morning Gold
+co New Lime
+co Pastel Blue
+co Raven Black
+co Vermilion
+co Wimbledon White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Fin and tube
+ci cool Centrifugal water  pump
+ci cool 9.9 Quarts
+ci exha Single
+ci equip Air conditioning
+ci equip Power steering
+ci equip Front disc rear drum brakes
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.17
+ci 3gear 1
+ci 1gear 2.99
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14
+cls 3928, 0(\w)20(\w)([\dX]{6})
+clv 12840, 1970, Ford, Falcon Futura 6, Club Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci series Falcon Futura 6
+ci make Ford
+ci msrp $2479.00
+ci prod 1129
+ci year 1970
+ci origin United States
+ci maker Ford
+ci model 62B
+ci weight 2929
+ci doors 2
+ci svc Dual hydraulic
+ci bsize 9
+ci ebrake Cable and conduit on rear service brakes
+ci rdiff 2.5
+ci fuel 16
+ci tcase -NA-
+ci trans 3.5
+ci oil 4.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.08
+ci height 54.4
+ci rtred 58.5
+ci ftred 58.8
+ci width 73.2
+ci length 184.3
+ci wbase 111
+ci mbear 7
+ci etype Single downdraft
+ci cyl 6
+ci disp 200
+ci rhp 32.5
+ci vlift Hydraulic
+ci trq 190@2200
+ci comp 8.7
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Constant mesh
+ci etype Inline 6 overhead valve
+ci bhp 120@4000
+ci b&s 3.68 & 3.13
+ci color Exterior Colors
+co Black
+co Burnt Orange Metallic
+co Dark Aqua Metallic
+co Dark Ivy Green Metallic
+co Medium Blue Metallic
+co Medium Bright Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co White
+ci exha Single
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci ign Distributor and coil
+ci batt 12
+ci cool 9.3 Quarts
+ci rad Fin and tube
+ci equip Radio
+ci equip Power steering
+ci equip Select-Shift automatic transmission
+ci equip Air conditioning
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 1gear 2.99
+ci rev 3.17
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3929, 0(\w)21(\w)([\dX]{6})
+clv 12841, 1970, Ford, Falcon Futura 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1970
+ci msrp $2528.00
+ci series Falcon Futura 6
+ci prod 2262
+ci origin United States
+ci model 54B
+ci doors 4
+ci maker Ford
+ci weight 2974
+ci bsize 9
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci oil 4.5
+ci tcase -NA-
+ci fuel 16
+ci rdiff 2.5
+ci trans 3.5
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci length 184.3
+ci height 54.4
+ci rtred 58.5
+ci ftred 58.8
+ci wbase 111
+ci width 73.2
+ci bhp 120@4000
+ci etype Inline 6 overhead valve
+ci comp 8.7
+ci rhp 32.5
+ci disp 200
+ci vlift Hydraulic
+ci b&s 3.68 & 3.13
+ci trq 190@2200
+ci mbear 7
+ci etype Constant mesh
+ci cyl 6
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Black
+co Burnt Orange Metallic
+co Dark Aqua Metallic
+co Dark Ivy Green Metallic
+co Medium Blue Metallic
+co Medium Bright Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co White
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool 9.3 Quarts
+ci ign Distributor and coil
+ci rad Fin and tube
+ci equip Power steering
+ci equip Radio
+ci equip Select-Shift automatic transmission
+ci equip Air conditioning
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 2.99
+ci 3gear 1
+ci rev 3.17
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3930, 0(\w)23(\w)([\dX]{6})
+clv 12842, 1970, Ford, Falcon Futura 6, Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci prod 1005
+ci year 1970
+ci msrp $2856.00
+ci make Ford
+ci series Falcon Futura 6
+ci origin United States
+ci model 71B
+ci maker Ford
+ci doors 4
+ci weight 3342
+ci bsize 9
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 16
+ci oil 4.5
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 2.5
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci ftred 58.8
+ci rtred 58.5
+ci height 56.1
+ci wbase 111
+ci length 198.7
+ci width 73.2
+ci etype Single downdraft
+ci comp 8.7
+ci mbear 7
+ci cyl 6
+ci disp 200
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Constant mesh
+ci vlift Hydraulic
+ci bhp 120@4000
+ci trq 190@2200
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Black
+co Burnt Orange Metallic
+co Dark Aqua Metallic
+co Dark Ivy Green Metallic
+co Medium Blue Metallic
+co Medium Bright Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co White
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci cool 9.3 Quarts
+ci cool Centrifugal water  pump
+ci equip Air conditioning
+ci equip Select-Shift automatic transmission
+ci equip Radio
+ci equip Power steering
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.75
+ci 5gear Not applicable
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 3931, 0(\w)10(\w)([\dX]{6})
+clv 12843, 1970, Ford, Falcon, Club Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1970
+ci msrp $2390.00
+ci series Falcon
+ci prod 4373
+ci origin United States
+ci model 62A
+ci weight 2703
+ci maker Ford
+ci doors 2
+ci bsize 9
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci rdiff 2.5
+ci fuel 16
+ci oil 4.5
+ci tcase -NA-
+ci trans 3.5
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci rtred 58.5
+ci height 54.4
+ci ftred 58.8
+ci wbase 111
+ci width 73.2
+ci length 184.3
+ci bhp 120@4000
+ci etype Inline 6 overhead valve
+ci comp 8.7
+ci cyl 6
+ci disp 200
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci trq 190@2200
+ci vlift Hydraulic
+ci etype Constant mesh
+ci etype Single downdraft
+ci b&s 3.68 & 3.13
+ci rhp 32.5
+ci color Exterior Colors
+co Black
+co Burnt Orange Metallic
+co Dark Aqua Metallic
+co Dark Ivy Green Metallic
+co Medium Blue Metallic
+co Medium Bright Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co White
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci cool 9.3 Quarts
+ci ftype Regular
+ci rad Fin and tube
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Radio
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.75
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 3gear 1
+ci rev 3.17
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3932, 0(\w)11(\w)([\dX]{6})
+clv 12844, 1970, Ford, Falcon, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Falcon
+ci make Ford
+ci msrp $2438.00
+ci year 1970
+ci prod 5301
+ci origin United States
+ci model 54A
+ci maker Ford
+ci weight 2748
+ci doors 4
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci svc Dual hydraulic
+ci tcase -NA-
+ci fuel 16
+ci rdiff 2.5
+ci trans 3.5
+ci oil 4.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.08
+ci rtred 58.5
+ci wbase 111
+ci height 54.4
+ci ftred 58.8
+ci width 73.2
+ci length 184.3
+ci cyl 6
+ci mbear 7
+ci comp 8.7
+ci disp 200
+ci etype Inline 6 overhead valve
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Constant mesh
+ci trq 190@2200
+ci etype Single downdraft
+ci bhp 120@4000
+ci color Exterior Colors
+co Black
+co Burnt Orange Metallic
+co Dark Aqua Metallic
+co Dark Ivy Green Metallic
+co Medium Blue Metallic
+co Medium Bright Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co White
+ci rad Fin and tube
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci batt 12
+ci cool 9.3 Quarts
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.17
+ci 1gear 2.99
+ci gears 3
+ci 2gear 1.75
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.95 x 14
+cls 3933, 0(\w)12(\w)([\dX]{6})
+clv 12845, 1970, Ford, Falcon, Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci prod 1624
+ci msrp $2767.00
+ci series Falcon
+ci year 1970
+ci origin United States
+ci model 71A
+ci maker Ford
+ci doors 4
+ci weight 3155
+ci bsize 9
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 16
+ci oil 4.5
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 2.5
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci ftred 58.8
+ci rtred 58.5
+ci height 56.1
+ci wbase 111
+ci length 198.7
+ci width 73.2
+ci etype Single downdraft
+ci comp 8.7
+ci mbear 7
+ci cyl 6
+ci rhp 32.5
+ci disp 200
+ci b&s 3.68 & 3.13
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Constant mesh
+ci vlift Hydraulic
+ci bhp 120@4000
+ci trq 190@2200
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Black
+co Burnt Orange Metallic
+co Dark Aqua Metallic
+co Dark Ivy Green Metallic
+co Medium Blue Metallic
+co Medium Bright Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co White
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci cool 9.3 Quarts
+ci cool Centrifugal water  pump
+ci equip Power steering
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Radio
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.75
+ci 3gear 1
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 3934, 0(\w)58(\w)([\dX]{6})
+clv 12846, 1970, Ford, Galaxie 500 6, Formal Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci series Galaxie 500 6
+ci year 1970
+ci msrp $3094.00
+ci make Ford
+ci prod 57059
+ci origin United States
+ci maker Ford
+ci weight 3706
+ci doors 2
+ci model 65C
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Dual hydraulic
+ci fuel 24.5
+ci trans 3.5
+ci oil 4
+ci rdiff 5
+ci tcase -NA-
+ci carb Carter
+ci csize 9.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.1
+ci length 213.9
+ci rtred 64
+ci height 53.5
+ci wbase 121
+ci width 79.7
+ci ftred 63
+ci etype Inline 6 overhead valve
+ci trq 234@2200
+ci mbear 7
+ci cyl 6
+ci comp 9.2
+ci disp 240
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3.18
+ci etype Single downdraft
+ci rhp 38.4
+ci etype Constant mesh
+ci vlift Hydraulic
+ci bhp 150@4000
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci cool 14.4 Quarts
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci exha Single
+ci equip 429 cu. in. V8 engine
+ci equip 390 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Power windows
+ci equip Power steering
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.75
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 15
+cls 3935, 0(\w)56(\w)([\dX]{6})
+clv 12847, 1970, Ford, Galaxie 500 6, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Galaxie 500 6
+ci msrp $3096.00
+ci year 1970
+ci prod 53817
+ci origin United States
+ci doors 4
+ci weight 3768
+ci maker Ford
+ci model 57B
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci fuel 24.5
+ci rdiff 5
+ci tcase -NA-
+ci trans 3.5
+ci oil 4
+ci carb Carter
+ci csize 9.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.1
+ci height 53.6
+ci width 79.8
+ci rtred 64
+ci wbase 121
+ci ftred 63
+ci length 213.9
+ci cyl 6
+ci trq 234@2200
+ci mbear 7
+ci b&s 4 & 3.18
+ci comp 9.2
+ci etype Inline 6 overhead valve
+ci vlift Hydraulic
+ci rhp 38.4
+ci etype Single downdraft
+ci disp 240
+ci etype Constant mesh
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 150@4000
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci cool 14.4 Quarts
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip 390 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Power windows
+ci equip Power steering
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.17
+ci gears 3
+ci 3gear 1
+ci 1gear 2.99
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 15
+cls 3936, 0(\w)54(\w)([\dX]{6})
+clv 12848, 1970, Ford, Galaxie 500 6, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 101784
+ci year 1970
+ci msrp $3026.00
+ci series Galaxie 500 6
+ci make Ford
+ci origin United States
+ci model 54A
+ci maker Ford
+ci weight 3697
+ci doors 4
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci rdiff 5
+ci oil 4
+ci fuel 24.5
+ci trans 3.5
+ci carb Carter
+ci ctype Single dry plate
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.1
+ci wbase 121
+ci rtred 64
+ci width 79.8
+ci height 54.9
+ci length 213.9
+ci ftred 63
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci b&s 4 & 3.18
+ci comp 9.2
+ci trq 234@2200
+ci disp 240
+ci rhp 38.4
+ci etype Single downdraft
+ci vlift Hydraulic
+ci etype Inline 6 overhead valve
+ci bhp 150@4000
+ci etype Constant mesh
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci batt 12
+ci rad Fin and tube
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 14.4 Quarts
+ci equip Front disc rear drum brakes
+ci equip Select-Shift automatic transmission
+ci equip 390 cu. in. V8 engine
+ci equip Power steering
+ci equip 429 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 1gear 2.99
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 15
+cls 3937, 0(\w)55(\w)([\dX]{6})
+clv 12849, 1970, Ford, Galaxie 500 6, SportsRoof Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci series Galaxie 500 6
+ci year 1970
+ci msrp $3043.00
+ci make Ford
+ci prod 50825
+ci origin United States
+ci maker Ford
+ci weight 3707
+ci doors 2
+ci model 63B
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Dual hydraulic
+ci fuel 24.5
+ci trans 3.5
+ci oil 4
+ci rdiff 5
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci csize 9.5 inches
+ci diff Hypoid
+ci diffr 3.1
+ci wbase 121
+ci width 79.7
+ci length 213.9
+ci height 53.5
+ci rtred 64
+ci ftred 63
+ci trq 234@2200
+ci cyl 6
+ci mbear 7
+ci disp 240
+ci comp 9.2
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3.18
+ci etype Inline 6 overhead valve
+ci etype Single downdraft
+ci rhp 38.4
+ci etype Constant mesh
+ci vlift Hydraulic
+ci bhp 150@4000
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci cool 14.4 Quarts
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci exha Single
+ci equip 429 cu. in. V8 engine
+ci equip 390 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Power windows
+ci equip Power steering
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.75
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 15
+cls 3938, 0(\w)62(\w)([\dX]{6})
+clv 12850, 1970, Ford, LTD Brougham, Formal Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci prod 96324
+ci msrp $3537.00
+ci origin United States
+ci year 1970
+ci series LTD Brougham
+ci make Ford
+ci maker Ford
+ci doors 2
+ci model 65A
+ci weight 3885
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Dual hydraulic
+ci tcase -NA-
+ci fuel 24.5
+ci trans 3.5
+ci rdiff 4.5
+ci oil 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci ftred 63
+ci length 216
+ci width 79.7
+ci rtred 64
+ci height 53.5
+ci wbase 121
+ci rhp 51.2
+ci mbear 5
+ci disp 351
+ci cyl 8
+ci comp 9.5
+ci etype Dual downdraft
+ci trq 355@2600
+ci bhp 250@4600
+ci b&s 4 & 3 1/2
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci etype Fully synchronized
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci exha Single
+ci cool 16.5 Quarts
+ci equip 390 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip Power seats
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.42
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.61
+ci gears 3
+ci rev 2.33
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 3939, 0(\w)66(\w)([\dX]{6})
+clv 12851, 1970, Ford, LTD Brougham, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci msrp $3579.00
+ci origin United States
+ci prod 90390
+ci year 1970
+ci series LTD Brougham
+ci maker Ford
+ci model 57F
+ci weight 3930
+ci doors 4
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci trans 3.5
+ci tcase -NA-
+ci rdiff 4.5
+ci oil 4
+ci fuel 24.5
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 121
+ci width 79.7
+ci length 216
+ci ftred 63
+ci height 53.6
+ci rtred 64
+ci rhp 51.2
+ci mbear 5
+ci disp 351
+ci cyl 8
+ci comp 9.5
+ci etype Dual downdraft
+ci trq 355@2600
+ci bhp 250@4600
+ci b&s 4 & 3 1/2
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci etype Fully synchronized
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci exha Single
+ci cool 16.5 Quarts
+ci equip 390 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip Power seats
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.42
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.61
+ci gears 3
+ci rev 2.33
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 3940, 0(\w)64(\w)([\dX]{6})
+clv 12852, 1970, Ford, LTD Brougham, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series LTD Brougham
+ci msrp $3502.00
+ci make Ford
+ci year 1970
+ci origin United States
+ci prod 78306
+ci weight 3860
+ci model 54C
+ci maker Ford
+ci doors 4
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci rdiff 4.5
+ci trans 3.5
+ci oil 4
+ci fuel 24.5
+ci tcase -NA-
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 216
+ci wbase 121
+ci rtred 64
+ci ftred 63
+ci height 54.9
+ci width 79.8
+ci comp 9.5
+ci mbear 5
+ci bhp 250@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci rhp 51.2
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci disp 351
+ci trq 355@2600
+ci etype Dual downdraft
+ci b&s 4 & 3 1/2
+ci etype Fully synchronized
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ftype Regular
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool 16.5 Quarts
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci equip Radio
+ci equip Select-Shift automatic transmission
+ci equip Air conditioning
+ci equip 429 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip 390 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15
+ci sloc Trunk
+cls 3941, 0(\w)75(\w)([\dX]{6})
+clv 12853, 1970, Ford, LTD, Country Squire
+ser 6 1 499999
+ci axle Semifloating
+ci prod 39837
+ci make Ford
+ci origin United States
+ci msrp $3832.00
+ci series LTD
+ci year 1970
+ci doors 4
+ci model 71E
+ci maker Ford
+ci weight 4301
+ci pass 6
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci trans 3.5
+ci fuel 24.5
+ci tcase -NA-
+ci rdiff 4.5
+ci oil 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 121
+ci width 79.9
+ci rtred 64
+ci ftred 63
+ci length 216.9
+ci height 56.8
+ci rhp 51.2
+ci mbear 5
+ci etype Fully synchronized
+ci bhp 250@4600
+ci cyl 8
+ci comp 9.5
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 355@2600
+ci disp 351
+ci b&s 4 & 3 1/2
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci cool Centrifugal water  pump
+ci rad Fin and tube
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci cool 16.5 Quarts
+ci equip Power seats
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Select-Shift automatic transmission
+ci equip 429 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip 390 cu. in. V8 engine
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.33
+ci 2gear 1.61
+ci 3gear 1
+ci gears 3
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15
+ci sloc Trunk
+cls 3942, 0(\w)76(\w)([\dX]{6})
+clv 12854, 1970, Ford, LTD, Country Squire
+ser 6 1 499999
+ci axle Semifloating
+ci prod 69077
+ci msrp $3909.00
+ci origin United States
+ci make Ford
+ci series LTD
+ci year 1970
+ci maker Ford
+ci weight 4351
+ci model 71A
+ci doors 4
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci fuel 24.5
+ci trans 3.5
+ci tcase -NA-
+ci rdiff 4.5
+ci oil 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci width 79.9
+ci length 216.9
+ci wbase 121
+ci rtred 64
+ci height 56.8
+ci ftred 63
+ci b&s 4 & 3 1/2
+ci rhp 51.2
+ci mbear 5
+ci disp 351
+ci cyl 8
+ci comp 9.5
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 250@4600
+ci trq 355@2600
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci batt 12
+ci rad Fin and tube
+ci cool 16.5 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci cool Centrifugal water  pump
+ci equip Select-Shift automatic transmission
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip 390 cu. in. V8 engine
+ci equip 429 cu. in. V8 engine
+ci equip Power windows
+ci equip Power steering
+ci equip Power seats
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.42
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.61
+ci 5gear Not applicable
+ci rev 2.33
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 3943, 0(\w)62(\w)([\dX]{6})
+clv 12855, 1970, Ford, LTD, Formal Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci prod 96324
+ci msrp $3356.00
+ci origin United States
+ci year 1970
+ci series LTD
+ci make Ford
+ci maker Ford
+ci doors 2
+ci model 65A
+ci weight 3880
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Dual hydraulic
+ci tcase -NA-
+ci fuel 24.5
+ci trans 3.5
+ci rdiff 4.5
+ci oil 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci ftred 63
+ci length 216
+ci width 79.7
+ci rtred 64
+ci height 53.5
+ci wbase 121
+ci rhp 51.2
+ci mbear 5
+ci disp 351
+ci cyl 8
+ci comp 9.5
+ci etype Dual downdraft
+ci trq 355@2600
+ci bhp 250@4600
+ci b&s 4 & 3 1/2
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci etype Fully synchronized
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci exha Single
+ci cool 16.5 Quarts
+ci equip 390 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip Power seats
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.42
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.61
+ci gears 3
+ci rev 2.33
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 3944, 0(\w)66(\w)([\dX]{6})
+clv 12856, 1970, Ford, LTD, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci msrp $3385.00
+ci origin United States
+ci prod 90390
+ci year 1970
+ci series LTD
+ci maker Ford
+ci model 57F
+ci weight 3925
+ci doors 4
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci trans 3.5
+ci tcase -NA-
+ci rdiff 4.5
+ci oil 4
+ci fuel 24.5
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 121
+ci width 79.7
+ci length 216
+ci ftred 63
+ci height 53.5
+ci rtred 64
+ci rhp 51.2
+ci mbear 5
+ci disp 351
+ci cyl 8
+ci comp 9.5
+ci etype Dual downdraft
+ci trq 355@2600
+ci bhp 250@4600
+ci b&s 4 & 3 1/2
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci etype Fully synchronized
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci exha Single
+ci cool 16.5 Quarts
+ci equip 390 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip Power seats
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.42
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.61
+ci gears 3
+ci rev 2.33
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 3945, 0(\w)64(\w)([\dX]{6})
+clv 12857, 1970, Ford, LTD, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series LTD
+ci msrp $3307.00
+ci make Ford
+ci year 1970
+ci origin United States
+ci prod 78306
+ci weight 3855
+ci model 54C
+ci maker Ford
+ci doors 4
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci rdiff 4.5
+ci trans 3.5
+ci oil 4
+ci fuel 24.5
+ci tcase -NA-
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 216
+ci wbase 121
+ci rtred 64
+ci ftred 63
+ci height 54.9
+ci width 79.8
+ci comp 9.5
+ci mbear 5
+ci bhp 250@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci rhp 51.2
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci disp 351
+ci trq 355@2600
+ci etype Dual downdraft
+ci b&s 4 & 3 1/2
+ci etype Fully synchronized
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ftype Regular
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool 16.5 Quarts
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci equip Radio
+ci equip Select-Shift automatic transmission
+ci equip Air conditioning
+ci equip 429 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip 390 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15
+ci sloc Trunk
+cls 3946, 0(\w)91(\w)([\dX]{6})
+clv 12858, 1970, Ford, Maverick, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Maverick
+ci msrp $1995.00
+ci prod 451081
+ci year 1970
+ci origin United States
+ci model 62A
+ci maker Ford
+ci doors 2
+ci weight 2378
+ci bsize 9
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci trans 3.5
+ci tcase -NA-
+ci oil 4.5
+ci rdiff 2.5
+ci fuel 16
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 2.83
+ci diff Hypoid
+ci width 70.6
+ci length 179.3
+ci height 52.3
+ci rtred 55.5
+ci wbase 103
+ci mbear 4
+ci cyl 6
+ci bhp 105@4200
+ci comp 8.7
+ci disp 169.57
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 156@2200
+ci etype Inline Valve-in-head
+ci block Cast alloy iron
+ci b&s 3 1/2 & 2 15/16
+ci etype Constant mesh
+ci vlift Hydraulic
+ci rhp 29.4
+ci color Exterior Colors
+co Anti-Establish Mint
+co Black
+co Bright Yellow
+co Dark Aqua Metallic
+co Dark Ivy Green Metallic
+co Freudian Gilt
+co Hulla Blue
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Original Cinnamon
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci rad Fin and tube
+ci cool 9.3 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci exha Single
+ci equip Radio
+ci equip Air conditioning
+ci equip Select-Shift automatic transmission
+ci equip 200 cu. in. Inline 6 engine
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 3.51
+ci 2gear 1.86
+ci 3gear 1
+ci gears 3
+ci 1gear 3.41
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.45 x 14
+cls 3947, 0(\w)bb(\w)([\dX]{6})
+clv 12859, 1970, Ford, Mustang, Boss 302
+ser 6 1 499999
+ci axle Semifloating
+ci series Mustang
+ci msrp $3720.00
+ci year 1970
+ci make Ford
+ci origin United States
+ci weight 2970
+ci maker Ford
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 9
+ci oil 4.5
+ci rdiff 2.5
+ci trans 3.5
+ci fuel 20
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.08
+ci length 187.4
+ci height 51.5
+ci width 71.7
+ci rtred 58.5
+ci wbase 108
+ci etype Inline 6 overhead valve
+ci cyl 6
+ci mbear 7
+ci b&s 3.68 & 3.13
+ci comp 8.7
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci vlift Hydraulic
+ci disp 200
+ci bhp 120@4000
+ci trq 190@2200
+ci etype Constant mesh
+ci rhp 32.5
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Grabber Blue
+co Grabber Green
+co Grabber Orange
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Bright Blue Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci cool Centrifugal water  pump
+ci rad Fin and tube
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 9 Quarts
+ci exha Single
+ci equip 428 cu. in. V8 engine
+ci equip 240 cu. in. Inline 6 engine
+ci equip 351 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Power windows
+ci equip Power steering
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 2gear 1.75
+ci rev 3.17
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 3948, 0(\w)03(\w)([\dX]{6})
+clv 12860, 1970, Ford, Mustang, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci year 1970
+ci series Mustang
+ci msrp $3126.00
+ci make Ford
+ci prod 7673
+ci origin United States
+ci model 76A/76B
+ci weight 3042
+ci doors 2
+ci maker Ford
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci tcase -NA-
+ci trans 3.5
+ci fuel 20
+ci rdiff 2.5
+ci oil 4.5
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 108
+ci length 187.4
+ci height 51.5
+ci rtred 58.5
+ci width 71.7
+ci trq 190@2200
+ci cyl 6
+ci bhp 120@4000
+ci mbear 7
+ci comp 8.7
+ci etype Single downdraft
+ci disp 200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline 6 overhead valve
+ci rhp 32.5
+ci vlift Hydraulic
+ci b&s 3.68 & 3.13
+ci etype Constant mesh
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Grabber Blue
+co Grabber Green
+co Grabber Orange
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Bright Blue Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci batt 12
+ci ign Distributor and coil
+ci rad Fin and tube
+ci ftype Regular
+ci exha Single
+ci cool Centrifugal water  pump
+ci cool 9 Quarts
+ci equip Select-Shift automatic transmission
+ci equip Power steering
+ci equip Radio
+ci equip 240 cu. in. Inline 6 engine
+ci equip Air conditioning
+ci equip 428 cu. in. V8 engine
+ci equip Power windows
+ci equip 351 cu. in. V8 engine
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 2.99
+ci 3gear 1
+ci rev 3.17
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3949, 0(\w)04(\w)([\dX]{6})
+clv 12861, 1970, Ford, Mustang, Grande Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci prod 13581
+ci series Mustang
+ci msrp $3028.00
+ci make Ford
+ci year 1970
+ci origin United States
+ci model 65E
+ci maker Ford
+ci weight 2929
+ci doors 2
+ci bsize 9
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci trans 3.5
+ci fuel 20
+ci oil 4.5
+ci rdiff 2.5
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci length 187.4
+ci wbase 108
+ci width 71.7
+ci height 51.5
+ci rtred 58.5
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci rhp 32.5
+ci comp 8.7
+ci vlift Hydraulic
+ci b&s 3.68 & 3.13
+ci trq 190@2200
+ci etype Inline 6 overhead valve
+ci etype Single downdraft
+ci bhp 120@4000
+ci etype Constant mesh
+ci disp 200
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Grabber Blue
+co Grabber Green
+co Grabber Orange
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Bright Blue Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci rad Fin and tube
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool 9 Quarts
+ci cool Centrifugal water  pump
+ci equip 351 cu. in. V8 engine
+ci equip 240 cu. in. Inline 6 engine
+ci equip Select-Shift automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip 428 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.17
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 5gear Not applicable
+ci 1gear 2.99
+ci gears 3
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3950, 0(\w)01(\w)([\dX]{6})
+clv 12862, 1970, Ford, Mustang, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Mustang
+ci msrp $2822.00
+ci year 1970
+ci prod 82569
+ci origin United States
+ci model 65A/65B
+ci maker Ford
+ci doors 2
+ci weight 2932
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci svc Dual hydraulic
+ci fuel 20
+ci oil 4.5
+ci rdiff 2.5
+ci trans 3.5
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci height 51.5
+ci wbase 108
+ci length 187.4
+ci rtred 58.5
+ci width 71.7
+ci comp 8.7
+ci mbear 7
+ci cyl 6
+ci b&s 3.68 & 3.13
+ci bhp 120@4000
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 32.5
+ci disp 200
+ci etype Single downdraft
+ci etype Inline 6 overhead valve
+ci etype Constant mesh
+ci trq 190@2200
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Grabber Blue
+co Grabber Green
+co Grabber Orange
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Bright Blue Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci batt 12
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 9 Quarts
+ci exha Single
+ci equip 351 cu. in. V8 engine
+ci equip Air conditioning
+ci equip 240 cu. in. Inline 6 engine
+ci equip Select-Shift automatic transmission
+ci equip Power steering
+ci equip 428 cu. in. V8 engine
+ci equip Power windows
+ci equip Radio
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 2.99
+ci 3gear 1
+ci gears 3
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3951, 0(\w)05(\w)([\dX]{6})
+clv 12863, 1970, Ford, Mustang, Mach 1
+ser 6 1 499999
+ci axle Semifloating
+ci year 1970
+ci series Mustang
+ci msrp $3271.00
+ci make Ford
+ci prod 40970
+ci origin United States
+ci weight 3047
+ci model 63C
+ci doors 2
+ci maker Ford
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci tcase -NA-
+ci fuel 20
+ci rdiff 2.5
+ci oil 4.5
+ci trans 3.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.08
+ci width 71.7
+ci wbase 108
+ci length 187.4
+ci height 51.5
+ci rtred 58.5
+ci cyl 6
+ci bhp 120@4000
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.7
+ci trq 190@2200
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci vlift Hydraulic
+ci disp 200
+ci etype Single downdraft
+ci etype Constant mesh
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Grabber Blue
+co Grabber Green
+co Grabber Orange
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Bright Blue Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci batt 12
+ci rad Fin and tube
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci cool 9 Quarts
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip 240 cu. in. Inline 6 engine
+ci equip Air conditioning
+ci equip Select-Shift automatic transmission
+ci equip 428 cu. in. V8 engine
+ci equip Power windows
+ci equip 351 cu. in. V8 engine
+ci equip Power steering
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci rev 3.17
+ci 5gear Not applicable
+ci 1gear 2.99
+ci gears 3
+ci 2gear 1.75
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 3952, 0(\w)02(\w)([\dX]{6})
+clv 12864, 1970, Ford, Mustang, SportsRoof Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Mustang
+ci msrp $2872.00
+ci year 1970
+ci prod 45934
+ci origin United States
+ci maker Ford
+ci model 63A/63B
+ci doors 2
+ci weight 2956
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci fuel 20
+ci trans 3.5
+ci rdiff 2.5
+ci oil 4.5
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.08
+ci width 71.7
+ci wbase 108
+ci length 187.4
+ci height 50.6
+ci rtred 58.5
+ci cyl 6
+ci bhp 120@4000
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.7
+ci trq 190@2200
+ci rhp 32.5
+ci vlift Hydraulic
+ci b&s 3.68 & 3.13
+ci disp 200
+ci etype Single downdraft
+ci etype Inline 6 overhead valve
+ci etype Constant mesh
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Grabber Blue
+co Grabber Green
+co Grabber Orange
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Bright Blue Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci cool Centrifugal water  pump
+ci exha Single
+ci rad Fin and tube
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool 9 Quarts
+ci equip 351 cu. in. V8 engine
+ci equip Air conditioning
+ci equip 240 cu. in. Inline 6 engine
+ci equip Select-Shift automatic transmission
+ci equip Power steering
+ci equip 428 cu. in. V8 engine
+ci equip Power windows
+ci equip Radio
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 2.99
+ci 3gear 1
+ci gears 3
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3953, 0(\w)73(\w)([\dX]{6})
+clv 12865, 1970, Ford, Station Wagon, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 32209
+ci series Station Wagon
+ci origin United States
+ci make Ford
+ci msrp $3488.00
+ci year 1970
+ci maker Ford
+ci doors 4
+ci model 71B
+ci weight 4302
+ci pass 6
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci trans 3.5
+ci rdiff 5
+ci fuel 24.5
+ci tcase -NA-
+ci oil 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 121
+ci rtred 64
+ci width 79.9
+ci ftred 63
+ci length 216.9
+ci height 56.8
+ci rhp 51.2
+ci mbear 5
+ci etype Fully synchronized
+ci bhp 250@4600
+ci cyl 8
+ci comp 9.5
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 355@2600
+ci disp 351
+ci b&s 4 & 3 1/2
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci cool Centrifugal water  pump
+ci rad Fin and tube
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool 16.5 Quarts
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Power seats
+ci equip 390 cu. in. V8 engine
+ci equip Power windows
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci rev 2.33
+ci 3gear 1
+ci 2gear 1.61
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 3954, 0(\w)74(\w)([\dX]{6})
+clv 12866, 1970, Ford, Station Wagon, Country Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci year 1970
+ci series Station Wagon
+ci origin United States
+ci make Ford
+ci msrp $3600.00
+ci prod 22645
+ci model 71C
+ci pass 10
+ci weight 4357
+ci maker Ford
+ci doors 4
+ci svc Dual hydraulic
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 24.5
+ci tcase -NA-
+ci trans 3.5
+ci oil 4
+ci rdiff 5
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci width 79.9
+ci wbase 121
+ci height 56.8
+ci length 216.9
+ci ftred 63
+ci rtred 64
+ci rhp 51.2
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci cyl 8
+ci comp 9.5
+ci etype Dual downdraft
+ci disp 351
+ci b&s 4 & 3 1/2
+ci trq 355@2600
+ci bhp 250@4600
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci cool Centrifugal water  pump
+ci rad Fin and tube
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool 16.5 Quarts
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Power seats
+ci equip 390 cu. in. V8 engine
+ci equip Power windows
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 1gear 2.42
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci rev 2.33
+ci 3gear 1
+ci 2gear 1.61
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 3955, 0(\w)bb(\w)([\dX]{6})
+clv 12867, 1970, Ford, Station Wagon, Custom Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci series Station Wagon
+ci origin United States
+ci year 1970
+ci msrp $3368.00
+ci make Ford
+ci weight 4224
+ci model 71H
+ci maker Ford
+ci doors 4
+ci pass 6
+ci svc Dual hydraulic
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 24.5
+ci trans 3.5
+ci tcase -NA-
+ci rdiff 5
+ci oil 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 121
+ci rtred 64
+ci length 216.9
+ci ftred 63
+ci height 56.8
+ci width 79.9
+ci trq 355@2600
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3 1/2
+ci cyl 8
+ci comp 9.5
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci rhp 51.2
+ci etype Fully synchronized
+ci bhp 250@4600
+ci disp 351
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci exha Single
+ci rad Fin and tube
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci cool 16.5 Quarts
+ci equip Air conditioning
+ci equip 390 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Power seats
+ci equip 429 cu. in. V8 engine
+ci equip Power windows
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci rev 2.33
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 2gear 1.61
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 3956, 0(\w)83(\w)([\dX]{6})
+clv 12868, 1970, Ford, Thunderbird, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $4961.00
+ci prod 5116
+ci origin United States
+ci year 1970
+ci series Thunderbird
+ci make Ford
+ci model 65A
+ci doors 2
+ci weight 4395
+ci maker Ford
+ci fbsize 11 23/32
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci oil 4
+ci rdiff 5
+ci fuel 24
+ci trans 26
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci length 212.5
+ci height 51.4
+ci rtred 62
+ci wbase 115
+ci width 78
+ci bhp 360@4600
+ci etype V8 overhead valve
+ci rhp 60.83
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci etype Cruise-O-Matic automatic
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci b&s 4.36 & 3 1/29
+ci vlift Hydraulic
+ci trq 480@2800
+ci disp 429
+ci color Exterior Colors
+co Black
+co Bronze Fire
+co Burgandy Fire
+co Chestnut Brown Metallic
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Brown Metallic
+co Dark Grey Metallic
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Blue Metallic
+co Green Fire
+co Light Gold
+co Light Grey Metallic
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Olive Fire
+co Pastel Yellow
+co Red
+co White
+ci batt 12
+ci exha Dual
+ci rad Fin and tube
+ci ftype Premium
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 18.6 Quarts
+ci equip Power antenna
+ci equip Radio
+ci equip Power seats
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Integral power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 2.15 x 15
+cls 3957, 0(\w)84(\w)([\dX]{6})
+clv 12869, 1970, Ford, Thunderbird, Landau
+ser 6 1 499999
+ci axle Semifloating
+ci prod 36847
+ci make Ford
+ci origin United States
+ci year 1970
+ci msrp $5104.00
+ci series Thunderbird
+ci model 65B
+ci doors 2
+ci maker Ford
+ci weight 4409
+ci bsize 11
+ci fbsize 11 23/32
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci rdiff 5
+ci tcase -NA-
+ci oil 4
+ci trans 26
+ci fuel 24
+ci carb Autolite
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci height 51.4
+ci length 212.5
+ci rtred 62
+ci wbase 115
+ci width 78
+ci bhp 360@4600
+ci etype V8 overhead valve
+ci rhp 60.83
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci etype Cruise-O-Matic automatic
+ci cyl 8
+ci etype Downdraft 4-barrel
+ci b&s 4.36 & 3 1/29
+ci vlift Hydraulic
+ci trq 480@2800
+ci disp 429
+ci color Exterior Colors
+co Black
+co Bronze Fire
+co Burgandy Fire
+co Chestnut Brown Metallic
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Brown Metallic
+co Dark Grey Metallic
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Blue Metallic
+co Green Fire
+co Light Gold
+co Light Grey Metallic
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Olive Fire
+co Pastel Yellow
+co Red
+co White
+ci batt 12
+ci exha Dual
+ci rad Fin and tube
+ci ftype Premium
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 18.6 Quarts
+ci equip Power antenna
+ci equip Radio
+ci equip Power seats
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Integral power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 2.15 x 15
+cls 3958, 0(\w)87(\w)([\dX]{6})
+clv 12870, 1970, Ford, Thunderbird, Landau
+ser 6 1 499999
+ci axle Semifloating
+ci year 1970
+ci prod 8401
+ci origin United States
+ci series Thunderbird
+ci msrp $5182.00
+ci make Ford
+ci weight 4509
+ci model 57B
+ci maker Ford
+ci doors 4
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11 23/32
+ci bsize 11
+ci oil 4
+ci rdiff 5
+ci fuel 24
+ci tcase -NA-
+ci trans 26
+ci carb Autolite
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 53.6
+ci wbase 115
+ci rtred 62
+ci width 78
+ci length 212.5
+ci mbear 5
+ci etype V8 overhead valve
+ci bhp 360@4600
+ci comp 10.5
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 480@2800
+ci etype Cruise-O-Matic automatic
+ci disp 429
+ci etype Downdraft 4-barrel
+ci rhp 60.83
+ci vlift Hydraulic
+ci cyl 8
+ci b&s 4.36 & 3 1/29
+ci color Exterior Colors
+co Black
+co Bronze Fire
+co Burgandy Fire
+co Chestnut Brown Metallic
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Brown Metallic
+co Dark Grey Metallic
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Deep Blue Metallic
+co Green Fire
+co Light Gold
+co Light Grey Metallic
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Brown Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Olive Fire
+co Pastel Yellow
+co Red
+co White
+ci batt 12
+ci exha Dual
+ci rad Fin and tube
+ci ftype Premium
+ci cool 18.6 Quarts
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci equip Power antenna
+ci equip Radio
+ci equip Power seats
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize 2.15 x 15
+ci sloc Trunk
+cls 3959, 0(\w)33(\w)([\dX]{6})
+clv 12871, 1970, Ford, Torino Brougham, Formal Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $3006.00
+ci series Torino Brougham
+ci origin United States
+ci make Ford
+ci year 1970
+ci prod 16911
+ci weight 3170
+ci doors 2
+ci model 65E
+ci maker Ford
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci oil 4.5
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 4
+ci fuel 20
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci height 52.2
+ci wbase 117
+ci width 76.7
+ci length 206.2
+ci ftred 60.5
+ci rtred 60
+ci cyl 8
+ci rhp 51.2
+ci mbear 5
+ci bhp 220@4600
+ci comp 9.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci disp 302
+ci trq 300@2600
+ci vlift Hydraulic
+ci etype Constant mesh
+ci b&s 4 & 3
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci cool 9.9 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Select-Shift automatic transmission
+ci equip 429 cu. in. V8 engine
+ci equip Radio
+ci equip 351 cu. in. V8 engine
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci 5gear Not applicable
+ci rev 3.17
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3960, 0(\w)36(\w)([\dX]{6})
+clv 12872, 1970, Ford, Torino Brougham, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Torino Brougham
+ci origin United States
+ci msrp $3078.00
+ci year 1970
+ci prod 14543
+ci model 57E
+ci maker Ford
+ci weight 3186
+ci doors 4
+ci svc Dual hydraulic
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci trans 3.5
+ci fuel 20
+ci rdiff 4
+ci oil 4.5
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 117
+ci width 76.8
+ci ftred 60.5
+ci length 206.2
+ci rtred 60
+ci height 51
+ci rhp 51.2
+ci mbear 5
+ci vlift Hydraulic
+ci cyl 8
+ci comp 9.5
+ci b&s 4 & 3
+ci etype Dual downdraft
+ci disp 302
+ci trq 300@2600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Constant mesh
+ci bhp 220@4600
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci cool 9.9 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Select-Shift automatic transmission
+ci equip 429 cu. in. V8 engine
+ci equip Radio
+ci equip 351 cu. in. V8 engine
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci 5gear Not applicable
+ci rev 3.17
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3961, 0(\w)49(\w)([\dX]{6})
+clv 12873, 1970, Ford, Torino Brougham, Ranchero
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Torino Brougham
+ci prod 3943
+ci origin United States
+ci year 1970
+ci doors 2
+ci maker Ford
+ci model 66E
+ci svc Dual hydraulic
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci oil 4.5
+ci trans 3.5
+ci tcase -NA-
+ci fuel 20
+ci rdiff 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 117
+ci ftred 60.5
+ci rtred 60
+ci etype V8 overhead valve
+ci mbear 5
+ci rhp 51.2
+ci cyl 8
+ci comp 9.5
+ci bhp 220@4600
+ci vlift Hydraulic
+ci trq 300@2600
+ci b&s 4 & 3
+ci disp 302
+ci etype Constant mesh
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci ign Distributor and coil
+ci rad Fin and tube
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci cool 9.9 Quarts
+ci equip Air conditioning
+ci equip Select-Shift automatic transmission
+ci equip Front disc rear drum brakes
+ci equip 429 cu. in. V8 engine
+ci equip Radio
+ci equip Power steering
+ci equip Power windows
+ci equip 351 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci gears 3
+ci 1gear 2.99
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 3962, 0(\w)43(\w)([\dX]{6})
+clv 12874, 1970, Ford, Torino Brougham, Squire
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $3379.00
+ci series Torino Brougham
+ci origin United States
+ci year 1970
+ci prod 13166
+ci make Ford
+ci doors 4
+ci model 71E
+ci weight 3579
+ci maker Ford
+ci svc Dual hydraulic
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci tcase -NA-
+ci trans 3.5
+ci fuel 20
+ci oil 4.5
+ci rdiff 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 117
+ci width 75.4
+ci length 209
+ci ftred 60.5
+ci height 55.9
+ci rtred 60
+ci disp 302
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 9.5
+ci bhp 220@4600
+ci etype Dual downdraft
+ci b&s 4 & 3
+ci vlift Hydraulic
+ci trq 300@2600
+ci etype Constant mesh
+ci rhp 51.2
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci cool Centrifugal water  pump
+ci rad Fin and tube
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci cool 9.9 Quarts
+ci exha Single
+ci equip Air conditioning
+ci equip Select-Shift automatic transmission
+ci equip 351 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Power steering
+ci equip 429 cu. in. V8 engine
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 3gear 1
+ci rev 3.17
+ci 2gear 1.75
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 3963, 0(\w)38(\w)([\dX]{6})
+clv 12875, 1970, Ford, Torino Cobra, SportsRoof Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $3249.00
+ci series Torino Cobra
+ci origin United States
+ci prod 7675
+ci make Ford
+ci year 1970
+ci maker Ford
+ci model 63H
+ci weight 3762
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 10
+ci rdiff 4
+ci trans 3.5
+ci fuel 20
+ci tcase -NA-
+ci oil 4.5
+ci carb Autolite
+ci ctype Single dry plate
+ci csize 11.5 inches
+ci diffr 3.0
+ci diff Hypoid
+ci height 51
+ci length 206.2
+ci rtred 60
+ci ftred 60.5
+ci wbase 117
+ci width 76.8
+ci b&s 4.36 & 3 1/29
+ci rhp 60.83
+ci cyl 8
+ci etype V8 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci comp 10.5
+ci bhp 360@4600
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci etype Fully synchronized
+ci trq 480@2800
+ci disp 429
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci batt 12
+ci cool 9.9 Quarts
+ci rad Fin and tube
+ci ftype Premium
+ci exha Dual
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci equip Select-Shift automatic transmission
+ci equip Radio
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Power windows
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 4gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.32
+ci 2gear 1.69
+ci gears 4
+ci 3gear 1.29
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 3964, 0(\w)37(\w)([\dX]{6})
+clv 12876, 1970, Ford, Torino GT, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Torino GT
+ci origin United States
+ci year 1970
+ci msrp $3212.00
+ci prod 3939
+ci doors 2
+ci weight 3479
+ci model 76F
+ci maker Ford
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Dual hydraulic
+ci tcase -NA-
+ci trans 3.5
+ci oil 4.5
+ci fuel 20
+ci rdiff 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 206.2
+ci wbase 117
+ci width 76.7
+ci ftred 60.5
+ci rtred 60
+ci height 52.8
+ci rhp 51.2
+ci mbear 5
+ci bhp 220@4600
+ci cyl 8
+ci comp 9.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci b&s 4 & 3
+ci disp 302
+ci trq 300@2600
+ci etype Constant mesh
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci cool 9.9 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Select-Shift automatic transmission
+ci equip 429 cu. in. V8 engine
+ci equip Radio
+ci equip 351 cu. in. V8 engine
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci 5gear Not applicable
+ci rev 3.17
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3965, 0(\w)35(\w)([\dX]{6})
+clv 12877, 1970, Ford, Torino GT, SportsRoof Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci prod 56819
+ci series Torino GT
+ci origin United States
+ci make Ford
+ci msrp $3105.00
+ci year 1970
+ci doors 2
+ci weight 3355
+ci maker Ford
+ci model 63F
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci tcase -NA-
+ci trans 3.5
+ci fuel 20
+ci oil 4.5
+ci rdiff 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci width 76.8
+ci wbase 117
+ci height 51
+ci length 206.2
+ci ftred 60.5
+ci rtred 60
+ci bhp 220@4600
+ci rhp 51.2
+ci mbear 5
+ci cyl 8
+ci comp 9.5
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 302
+ci trq 300@2600
+ci etype Constant mesh
+ci b&s 4 & 3
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci rad Fin and tube
+ci batt 12
+ci cool 9.9 Quarts
+ci exha Single
+ci ftype Regular
+ci equip Power steering
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Select-Shift automatic transmission
+ci equip 429 cu. in. V8 engine
+ci equip Radio
+ci equip 351 cu. in. V8 engine
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci 5gear Not applicable
+ci rev 3.17
+ci 1gear 2.99
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3966, 0(\w)30(\w)([\dX]{6})
+clv 12878, 1970, Ford, Torino, Fastback Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci year 1970
+ci series Torino
+ci origin United States
+ci prod 12490
+ci make Ford
+ci maker Ford
+ci model 63C
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Dual hydraulic
+ci trans 3.5
+ci fuel 20
+ci oil 4.5
+ci rdiff 4
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci length 206.2
+ci wbase 117
+ci width 76.8
+ci height 51
+ci ftred 60.5
+ci rtred 60
+ci disp 250
+ci cyl 6
+ci mbear 7
+ci etype Inline 6 overhead valve
+ci comp 8.8
+ci etype Single downdraft
+ci bhp 155@4000
+ci trq 240@1600
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 32.5
+ci etype Constant mesh
+ci b&s 3.68 & 3.91
+ci vlift Hydraulic
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci cool Centrifugal water  pump
+ci rad Fin and tube
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool 9.9 Quarts
+ci ign Distributor and coil
+ci equip 429 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Air conditioning
+ci equip Select-Shift automatic transmission
+ci equip 351 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.99
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci rev 3.17
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3967, 0(\w)30(\w)([\dX]{6})
+clv 12879, 1970, Ford, Torino, Formal Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci msrp $2722.00
+ci series Torino
+ci year 1970
+ci prod 49826
+ci origin United States
+ci maker Ford
+ci doors 2
+ci weight 3161
+ci model 65C
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Dual hydraulic
+ci oil 4.5
+ci fuel 20
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 4
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 117
+ci width 76.7
+ci length 206.2
+ci height 52.2
+ci ftred 60.5
+ci rtred 60
+ci etype Inline 6 overhead valve
+ci cyl 6
+ci mbear 7
+ci rhp 32.5
+ci comp 8.8
+ci vlift Hydraulic
+ci b&s 3.68 & 3.91
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci disp 250
+ci trq 240@1600
+ci bhp 155@4000
+ci etype Constant mesh
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci cool Centrifugal water  pump
+ci rad Fin and tube
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular
+ci cool 9.9 Quarts
+ci exha Single
+ci equip Air conditioning
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip 351 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Power windows
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci rev 3.17
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 3gear 1
+ci gears 3
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3968, 0(\w)32(\w)([\dX]{6})
+clv 12880, 1970, Ford, Torino, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci msrp $2795.00
+ci series Torino
+ci prod 14312
+ci year 1970
+ci origin United States
+ci model 57C
+ci doors 4
+ci maker Ford
+ci weight 3177
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci rdiff 4
+ci fuel 20
+ci tcase -NA-
+ci trans 3.5
+ci oil 4.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 117
+ci length 206.2
+ci ftred 60.5
+ci height 51
+ci width 76.8
+ci rtred 60
+ci b&s 3.68 & 3.91
+ci cyl 6
+ci mbear 7
+ci trq 240@1600
+ci comp 8.8
+ci vlift Hydraulic
+ci disp 250
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline 6 overhead valve
+ci etype Single downdraft
+ci rhp 32.5
+ci bhp 155@4000
+ci etype Constant mesh
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci cool Centrifugal water  pump
+ci rad Fin and tube
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci cool 9.9 Quarts
+ci batt 12
+ci equip 429 cu. in. V8 engine
+ci equip 351 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Select-Shift automatic transmission
+ci equip Air conditioning
+ci equip Radio
+ci equip Power windows
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci rev 3.17
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.99
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3969, 0(\w)48(\w)([\dX]{6})
+clv 12881, 1970, Ford, Torino, Ranchero
+ser 6 1 499999
+ci axle Semifloating
+ci prod 3905
+ci series Torino
+ci year 1970
+ci origin United States
+ci make Ford
+ci model 66C
+ci doors 2
+ci maker Ford
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci tcase -NA-
+ci rdiff 4
+ci fuel 20
+ci trans 3.5
+ci oil 4.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 117
+ci ftred 60.5
+ci rtred 60
+ci disp 250
+ci etype Inline 6 overhead valve
+ci cyl 6
+ci mbear 7
+ci comp 8.8
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci trq 240@1600
+ci rhp 32.5
+ci etype Single downdraft
+ci etype Constant mesh
+ci bhp 155@4000
+ci b&s 3.68 & 3.91
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci rad Fin and tube
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci exha Single
+ci cool 9.9 Quarts
+ci batt 12
+ci equip 429 cu. in. V8 engine
+ci equip Air conditioning
+ci equip 351 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Power steering
+ci equip Radio
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.17
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 1gear 2.99
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 3970, 0(\w)31(\w)([\dX]{6})
+clv 12882, 1970, Ford, Torino, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci msrp $2689.00
+ci series Torino
+ci year 1970
+ci prod 30117
+ci origin United States
+ci weight 3146
+ci doors 4
+ci maker Ford
+ci model 54C
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 10
+ci tcase -NA-
+ci fuel 20
+ci trans 3.5
+ci rdiff 4
+ci oil 4.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 117
+ci length 206.2
+ci ftred 60.5
+ci height 53
+ci width 76.4
+ci rtred 60
+ci b&s 3.68 & 3.91
+ci cyl 6
+ci mbear 7
+ci disp 250
+ci comp 8.8
+ci vlift Hydraulic
+ci etype Single downdraft
+ci trq 240@1600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline 6 overhead valve
+ci rhp 32.5
+ci bhp 155@4000
+ci etype Constant mesh
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci cool Centrifugal water  pump
+ci rad Fin and tube
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool 9.9 Quarts
+ci exha Single
+ci equip 429 cu. in. V8 engine
+ci equip 351 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip Front disc rear drum brakes
+ci equip Air conditioning
+ci equip Radio
+ci equip Power windows
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci rev 3.17
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 3gear 1
+ci gears 3
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 3971, 0(\w)42(\w)([\dX]{6})
+clv 12883, 1970, Ford, Torino, Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci msrp $3074.00
+ci series Torino
+ci prod 10613
+ci year 1970
+ci origin United States
+ci weight 3559
+ci doors 4
+ci model 71C
+ci maker Ford
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 10
+ci oil 4.5
+ci trans 3.5
+ci tcase -NA-
+ci rdiff 4
+ci fuel 20
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci rtred 60
+ci wbase 117
+ci ftred 60.5
+ci height 55.9
+ci length 209
+ci width 75.4
+ci etype Inline 6 overhead valve
+ci mbear 7
+ci cyl 6
+ci disp 250
+ci comp 8.8
+ci vlift Hydraulic
+ci rhp 32.5
+ci etype Single downdraft
+ci b&s 3.68 & 3.91
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Constant mesh
+ci trq 240@1600
+ci bhp 155@4000
+ci color Exterior Colors
+co Black
+co Bright Gold Metallic
+co Bright Yellow
+co Dark Ivy Green Metallic
+co Dark Maroon
+co DarkBlue
+co Grabber Green
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Ivy Green Metallic
+co Pastel Blue
+co Red
+co Vermilion
+co White
+ci rad Fin and tube
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool 9.9 Quarts
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip 351 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Front disc rear drum brakes
+ci equip Select-Shift automatic transmission
+ci equip 429 cu. in. V8 engine
+ci equip Power steering
+ci equip Radio
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci rev 3.17
+ci 5gear Not applicable
+ci 2gear 1.75
+ci gears 3
+ci 1gear 2.99
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 3972, 0(\w)61(\w)([\dX]{6})
+clv 12884, 1970, Ford, XL, Convertible
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci msrp $3501.00
+ci origin United States
+ci year 1970
+ci prod 6348
+ci series XL
+ci model 76B
+ci doors 2
+ci maker Ford
+ci weight 4137
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci rdiff 4.5
+ci tcase -NA-
+ci trans 3.5
+ci fuel 24.5
+ci oil 4
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci width 79.7
+ci length 216
+ci rtred 64
+ci wbase 121
+ci height 53.8
+ci ftred 63
+ci b&s 4 & 3 1/2
+ci disp 351
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci cyl 8
+ci comp 9.5
+ci vlift Hydraulic
+ci bhp 250@4600
+ci etype Fully synchronized
+ci trq 355@2600
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci mbear 5
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci batt 12
+ci cool 16.5 Quarts
+ci equip 429 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip 390 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci rev 2.33
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci 2gear 1.61
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15
+cls 3973, 0(\w)60(\w)([\dX]{6})
+clv 12885, 1970, Ford, XL, SportsRoof Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci msrp $3293.00
+ci origin United States
+ci year 1970
+ci prod 27251
+ci series XL
+ci doors 2
+ci weight 3904
+ci model 63C
+ci maker Ford
+ci ebrake Cable and conduit on rear service brakes
+ci svc Dual hydraulic
+ci bsize 11
+ci fuel 24.5
+ci trans 3.5
+ci oil 4
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Autolite
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci width 79.7
+ci length 216
+ci wbase 121
+ci rtred 64
+ci ftred 63
+ci height 53.5
+ci bhp 250@4600
+ci rhp 51.2
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 9.5
+ci b&s 4 & 3 1/2
+ci disp 351
+ci etype Fully synchronized
+ci trq 355@2600
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci color Exterior Colors
+co Black
+co Dark Aqua Metallic
+co Dark Blue
+co Dark Ivy Green Metallic
+co Dark Maroon
+co Ginger Metallic
+co Light Gold
+co Light Ivy Yellow
+co Medium Blue Metallic
+co Medium Ivy Green Metallic
+co Nugget Gold Metallic
+co Pastel Blue
+co Red
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Fin and tube
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci batt 12
+ci cool 16.5 Quarts
+ci equip 390 cu. in. V8 engine
+ci equip Select-Shift automatic transmission
+ci equip 429 cu. in. V8 engine
+ci equip Front disc rear drum brakes
+ci equip Radio
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci rev 2.33
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci 2gear 1.61
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15

@@ -1,0 +1,4045 @@
+cls 4421, 4(\w)01(\w)([\dX]{6})
+clv 18850, 1964, Mercury, Comet 202 8, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci year 1964
+ci msrp $2223.00
+ci series Comet 202 8
+ci prod 33824
+ci origin United States
+ci weight 2583
+ci model 62A
+ci maker Mercury
+ci doors 2
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci oil 5
+ci fuel 20
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci width 71.4
+ci wbase 114
+ci length 195.1
+ci ftred 55
+ci height 55.3
+ci rtred 56
+ci bhp 164@4400
+ci mbear 5
+ci rhp 46.2
+ci cyl 8
+ci comp 8.8
+ci b&s 3.8 & 2.87
+ci englo Plate on left front door pillar post.
+ci disp 260
+ci trq 258@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci block Special alloy iron
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype Own Cyclone V8
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Peacock
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 14.5 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci exha Single
+ci equip Power steering
+ci equip Air conditioning
+ci equip Merc-O-Matic automatic transmission
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.87
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.7
+ci 1gear 2.79
+ci 5gear Not applicable
+ci vloc On inside of left fender.
+ci tsize 6.50 x 14
+ci sloc Trunk
+cls 4422, 4(\w)02(\w)([\dX]{6})
+clv 18851, 1964, Mercury, Comet 202 8, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci year 1964
+ci msrp $2279.00
+ci series Comet 202 8
+ci prod 29147
+ci origin United States
+ci doors 4
+ci model 54A
+ci weight 2634
+ci maker Mercury
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci oil 5
+ci tcase -NA-
+ci fuel 20
+ci trans 3.5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci width 71.4
+ci wbase 114
+ci rtred 56
+ci length 195.1
+ci ftred 55
+ci height 55.3
+ci bhp 164@4400
+ci mbear 5
+ci rhp 46.2
+ci cyl 8
+ci comp 8.8
+ci b&s 3.8 & 2.87
+ci englo Plate on left front door pillar post.
+ci disp 260
+ci trq 258@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci block Special alloy iron
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype Own Cyclone V8
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Peacock
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 14.5 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci exha Single
+ci equip Power steering
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Merc-O-Matic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.87
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.7
+ci 1gear 2.79
+ci 5gear Not applicable
+ci vloc On inside of left fender.
+ci tsize 6.50 x 14
+ci sloc Trunk
+cls 4423, 4(\w)32(\w)([\dX]{6})
+clv 18852, 1964, Mercury, Comet 202 8, Station Wagon
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet 202 8
+ci make Mercury
+ci msrp $2560.00
+ci year 1964
+ci prod 5504
+ci origin United States
+ci weight 2769
+ci model 71A
+ci maker Mercury
+ci doors 4
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci trans 3.5
+ci tcase -NA-
+ci oil 5
+ci fuel 20
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci wbase 114
+ci length 191.8
+ci rtred 56
+ci height 55.9
+ci width 71.6
+ci ftred 55
+ci etype Own Cyclone V8
+ci mbear 5
+ci cyl 8
+ci comp 8.8
+ci rhp 46.2
+ci b&s 3.8 & 2.87
+ci englo Plate on left front door pillar post.
+ci disp 260
+ci trq 258@2200
+ci engno Last letter in serial no.
+ci lube Pressure to all bearings excluding wrist pin
+ci block Special alloy iron
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci bhp 164@4400
+ci etype Dual downdraft
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Peacock
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci cool 14.5 Quarts
+ci batt 12
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci equip Air conditioning
+ci equip Merc-O-Matic automatic transmission
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci rev 2.87
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.79
+ci gears 3
+ci 2gear 1.7
+ci vloc On inside of left fender.
+ci sloc Trunk
+cls 4424, 4(\w)11(\w)([\dX]{6})
+clv 18853, 1964, Mercury, Comet 404 8, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet 404 8
+ci make Mercury
+ci msrp $2310.00
+ci prod 12512
+ci year 1964
+ci origin United States
+ci maker Mercury
+ci weight 2595
+ci model 62B
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 10
+ci oil 5
+ci tcase -NA-
+ci fuel 20
+ci trans 3.5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci length 195.1
+ci width 71.4
+ci wbase 114
+ci ftred 55
+ci height 55.3
+ci rtred 56
+ci disp 260
+ci mbear 5
+ci rhp 46.2
+ci cyl 8
+ci comp 8.8
+ci b&s 3.8 & 2.87
+ci englo Plate on left front door pillar post.
+ci trq 258@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci block Special alloy iron
+ci etype Dual downdraft
+ci bhp 164@4400
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype Own Cyclone V8
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ftype Regular
+ci rad Tubular and fin
+ci cool 14.5 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal water  pump
+ci equip Merc-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci gears 3
+ci rev 2.87
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.7
+ci 1gear 2.79
+ci vloc On inside of left fender.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 4425, 4(\w)12(\w)([\dX]{6})
+clv 18854, 1964, Mercury, Comet 404 8, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet 404 8
+ci make Mercury
+ci msrp $2366.00
+ci year 1964
+ci prod 25136
+ci origin United States
+ci weight 3632
+ci model 54B
+ci maker Mercury
+ci doors 4
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci oil 5
+ci fuel 20
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 3.5
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.25
+ci diff Hypoid
+ci wbase 114
+ci rtred 56
+ci width 71.4
+ci length 195.1
+ci ftred 55
+ci height 55.3
+ci etype Own Cyclone V8
+ci bhp 164@4400
+ci rhp 46.2
+ci cyl 8
+ci comp 8.8
+ci mbear 5
+ci b&s 3.8 & 2.87
+ci lube Pressure to all bearings excluding wrist pin
+ci block Special alloy iron
+ci engno Last letter in serial no.
+ci etype Dual downdraft
+ci disp 260
+ci trq 258@2200
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci englo Plate on left front door pillar post.
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci cool 14.5 Quarts
+ci batt 12
+ci equip Pushbutton Radio
+ci equip Merc-O-Matic automatic transmission
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power brakes
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.79
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.7
+ci rev 2.87
+ci gears 3
+ci vloc On inside of left fender.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 4426, 4(\w)34(\w)([\dX]{6})
+clv 18855, 1964, Mercury, Comet 404 8, Station Wagon
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet 404 8
+ci make Mercury
+ci msrp $2647.00
+ci year 1964
+ci prod 6918
+ci origin United States
+ci weight 2783
+ci model 71B
+ci maker Mercury
+ci doors 4
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci trans 3.5
+ci tcase -NA-
+ci oil 5
+ci fuel 20
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci wbase 114
+ci length 191.8
+ci width 71.6
+ci height 55.9
+ci rtred 56
+ci ftred 55
+ci etype Own Cyclone V8
+ci mbear 5
+ci cyl 8
+ci comp 8.8
+ci rhp 46.2
+ci b&s 3.8 & 2.87
+ci englo Plate on left front door pillar post.
+ci disp 260
+ci trq 258@2200
+ci engno Last letter in serial no.
+ci lube Pressure to all bearings excluding wrist pin
+ci block Special alloy iron
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci bhp 164@4400
+ci etype Dual downdraft
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci cool 14.5 Quarts
+ci batt 12
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci equip Air conditioning
+ci equip Merc-O-Matic automatic transmission
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci rev 2.87
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.79
+ci gears 3
+ci 2gear 1.7
+ci vloc On inside of left fender.
+ci sloc Trunk
+cls 4427, 4(\w)36(\w)([\dX]{6})
+clv 18856, 1964, Mercury, Comet 404 8, Villager
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet 404 8
+ci make Mercury
+ci msrp $2831.00
+ci year 1964
+ci prod 1980
+ci origin United States
+ci doors 4
+ci maker Mercury
+ci model 71C
+ci weight 2787
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci fuel 20
+ci oil 5
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci wbase 114
+ci width 71.6
+ci length 191.8
+ci ftred 55
+ci height 55.9
+ci rtred 56
+ci bhp 164@4400
+ci rhp 46.2
+ci cyl 8
+ci comp 8.8
+ci etype Own Cyclone V8
+ci b&s 3.8 & 2.87
+ci mbear 5
+ci disp 260
+ci englo Plate on left front door pillar post.
+ci etype Dual downdraft
+ci trq 258@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Last letter in serial no.
+ci vlift Hydraulic
+ci block Special alloy iron
+ci etype Fully synchronized
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci cool 14.5 Quarts
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci batt 12
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Merc-O-Matic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 2gear 1.7
+ci 3gear 1
+ci 1gear 2.79
+ci 5gear Not applicable
+ci rev 2.87
+ci gears 3
+ci vloc On inside of left fender.
+ci sloc Trunk
+cls 4428, 4(\w)01(\w)([\dX]{6})
+clv 18857, 1964, Mercury, Comet 6 202, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci year 1964
+ci msrp $2115.00
+ci series Comet 6 202
+ci prod 33824
+ci origin United States
+ci maker Mercury
+ci model 62A
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 9
+ci tcase -NA-
+ci fuel 20
+ci oil 4.5
+ci rdiff 2.5
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.2
+ci wbase 114
+ci length 195.1
+ci height 55.3
+ci rtred 56
+ci width 71.4
+ci ftred 55
+ci disp 169.57
+ci cyl 6
+ci englo Plate on left front door pillar post.
+ci comp 8.7
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 29.4
+ci bhp 101@4400
+ci block Cast alloy iron
+ci engno Last letter in serial no.
+ci trq 156@2400
+ci etype Inline Valve-in-head
+ci b&s 3 1/2 & 2 15/16
+ci etype Single downdraft
+ci vlift Hydraulic
+ci etype Helical
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Peacock
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 9.5 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip 200 cu. in. Inline 6 engine
+ci equip Air conditioning
+ci equip Merc-O-Matic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci 2gear 1.83
+ci drive Rear wheel drive
+ci rev 4.46
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 3.29
+ci vloc On inside of left fender.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 4429, 4(\w)02(\w)([\dX]{6})
+clv 18858, 1964, Mercury, Comet 6 202, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet 6 202
+ci make Mercury
+ci msrp $2171.00
+ci year 1964
+ci prod 29147
+ci origin United States
+ci model 54A
+ci maker Mercury
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci rdiff 2.5
+ci oil 4.5
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 3.2
+ci wbase 114
+ci length 195.1
+ci ftred 55
+ci width 71.4
+ci rtred 56
+ci height 55.3
+ci disp 169.57
+ci cyl 6
+ci mbear 4
+ci comp 8.7
+ci englo Plate on left front door pillar post.
+ci b&s 3 1/2 & 2 15/16
+ci engno Last letter in serial no.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci etype Inline Valve-in-head
+ci bhp 101@4400
+ci vlift Hydraulic
+ci rhp 29.4
+ci trq 156@2400
+ci etype Helical
+ci block Cast alloy iron
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Peacock
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool 9.5 Quarts
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Merc-O-Matic automatic transmission
+ci equip 200 cu. in. Inline 6 engine
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.83
+ci rev 4.46
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 3.29
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On inside of left fender.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 4430, 4(\w)32(\w)([\dX]{6})
+clv 18859, 1964, Mercury, Comet 6 202, Station Wagon
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci year 1964
+ci msrp $2452.00
+ci series Comet 6 202
+ci prod 5504
+ci origin United States
+ci maker Mercury
+ci model 71A
+ci bsize 9
+ci ebrake Cable and conduit on rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci fuel 20
+ci tcase -NA-
+ci rdiff 2.5
+ci oil 4.5
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diffr 3.2
+ci diff Hypoid
+ci wbase 114
+ci height 55.9
+ci ftred 55
+ci rtred 56
+ci length 191.8
+ci width 71.6
+ci disp 169.57
+ci bhp 101@4400
+ci comp 8.7
+ci trq 156@2400
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci block Cast alloy iron
+ci englo Plate on left front door pillar post.
+ci engno Last letter in serial no.
+ci rhp 29.4
+ci b&s 3 1/2 & 2 15/16
+ci etype Inline Valve-in-head
+ci etype Helical
+ci vlift Hydraulic
+ci cyl 6
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Peacock
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci batt 12
+ci cool 9.5 Quarts
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci exha Single
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci equip Air conditioning
+ci equip 200 cu. in. Inline 6 engine
+ci equip Pushbutton Radio
+ci equip Merc-O-Matic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 3.29
+ci 5gear Not applicable
+ci 2gear 1.83
+ci rev 4.46
+ci vloc On inside of left fender.
+ci sloc Trunk
+cls 4431, 4(\w)11(\w)([\dX]{6})
+clv 18860, 1964, Mercury, Comet 6 404, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci prod 12512
+ci msrp $2202.00
+ci series Comet 6 404
+ci year 1964
+ci origin United States
+ci maker Mercury
+ci doors 2
+ci model 62B
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci tcase -NA-
+ci fuel 20
+ci oil 4.5
+ci rdiff 2.5
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 3.2
+ci wbase 114
+ci length 195.1
+ci height 55.3
+ci rtred 56
+ci width 71.4
+ci ftred 55
+ci trq 156@2400
+ci cyl 6
+ci englo Plate on left front door pillar post.
+ci comp 8.7
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 101@4400
+ci disp 169.57
+ci block Cast alloy iron
+ci engno Last letter in serial no.
+ci b&s 3 1/2 & 2 15/16
+ci etype Inline Valve-in-head
+ci etype Single downdraft
+ci rhp 29.4
+ci vlift Hydraulic
+ci etype Helical
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci batt 12
+ci cool 9.5 Quarts
+ci rad Tubular and fin
+ci equip Pushbutton Radio
+ci equip 200 cu. in. Inline 6 engine
+ci equip Power steering
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Merc-O-Matic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci 2gear 1.83
+ci drive Rear wheel drive
+ci rev 4.46
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 3.29
+ci vloc On inside of left fender.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 4432, 4(\w)12(\w)([\dX]{6})
+clv 18861, 1964, Mercury, Comet 6 404, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet 6 404
+ci make Mercury
+ci msrp $2258.00
+ci year 1964
+ci prod 25136
+ci origin United States
+ci model 54B
+ci maker Mercury
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci rdiff 2.5
+ci oil 4.5
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 3.2
+ci wbase 114
+ci length 195.1
+ci ftred 55
+ci width 71.4
+ci rtred 56
+ci height 55.3
+ci disp 169.57
+ci cyl 6
+ci mbear 4
+ci comp 8.7
+ci englo Plate on left front door pillar post.
+ci b&s 3 1/2 & 2 15/16
+ci engno Last letter in serial no.
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 29.4
+ci etype Inline Valve-in-head
+ci bhp 101@4400
+ci vlift Hydraulic
+ci etype Single downdraft
+ci trq 156@2400
+ci etype Helical
+ci block Cast alloy iron
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool 9.5 Quarts
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Merc-O-Matic automatic transmission
+ci equip 200 cu. in. Inline 6 engine
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.83
+ci rev 4.46
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 3.29
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On inside of left fender.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 4433, 4(\w)34(\w)([\dX]{6})
+clv 18862, 1964, Mercury, Comet 6 404, Station Wagon
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci year 1964
+ci msrp $2539.00
+ci series Comet 6 404
+ci prod 6918
+ci origin United States
+ci maker Mercury
+ci model 71B
+ci bsize 9
+ci ebrake Cable and conduit on rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci fuel 20
+ci tcase -NA-
+ci rdiff 2.5
+ci oil 4.5
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diffr 3.2
+ci diff Hypoid
+ci wbase 114
+ci height 55.9
+ci rtred 56
+ci ftred 55
+ci length 191.8
+ci width 71.6
+ci disp 169.57
+ci cyl 6
+ci comp 8.7
+ci trq 156@2400
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci block Cast alloy iron
+ci englo Plate on left front door pillar post.
+ci rhp 29.4
+ci etype Inline Valve-in-head
+ci b&s 3 1/2 & 2 15/16
+ci engno Last letter in serial no.
+ci etype Helical
+ci vlift Hydraulic
+ci bhp 101@4400
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci batt 12
+ci rad Tubular and fin
+ci cool 9.5 Quarts
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci equip 200 cu. in. Inline 6 engine
+ci equip Air conditioning
+ci equip Merc-O-Matic automatic transmission
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 2gear 1.83
+ci 3gear 1
+ci 1gear 3.29
+ci 5gear Not applicable
+ci gears 3
+ci rev 4.46
+ci vloc On inside of left fender.
+ci sloc Trunk
+cls 4434, 4(\w)36(\w)([\dX]{6})
+clv 18863, 1964, Mercury, Comet 6 404, Villager
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet 6 404
+ci make Mercury
+ci msrp $2723.00
+ci year 1964
+ci prod 1980
+ci origin United States
+ci maker Mercury
+ci model 71C
+ci ebrake Cable and conduit on rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 9
+ci fuel 20
+ci rdiff 2.5
+ci tcase -NA-
+ci oil 4.5
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.2
+ci wbase 114
+ci ftred 55
+ci height 55.9
+ci rtred 56
+ci length 191.8
+ci width 71.6
+ci disp 169.57
+ci block Cast alloy iron
+ci comp 8.7
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Plate on left front door pillar post.
+ci cyl 6
+ci b&s 3 1/2 & 2 15/16
+ci etype Single downdraft
+ci bhp 101@4400
+ci engno Last letter in serial no.
+ci trq 156@2400
+ci rhp 29.4
+ci etype Helical
+ci vlift Hydraulic
+ci etype Inline Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci cool 9.5 Quarts
+ci batt 12
+ci equip 200 cu. in. Inline 6 engine
+ci equip Merc-O-Matic automatic transmission
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.83
+ci rev 4.46
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 3.29
+ci gears 3
+ci vloc On inside of left fender.
+ci sloc Trunk
+cls 4435, 4(\w)25(\w)([\dX]{6})
+clv 18864, 1964, Mercury, Comet Caliente 6, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci year 1964
+ci msrp $2625.00
+ci series Comet Caliente 6
+ci prod 9039
+ci origin United States
+ci model 76D
+ci maker Mercury
+ci doors 2
+ci bsize 9
+ci ebrake Cable and conduit on rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci fuel 20
+ci oil 4.5
+ci rdiff 2.5
+ci tcase -NA-
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.2
+ci length 195.1
+ci width 71.4
+ci rtred 56
+ci wbase 114
+ci ftred 55
+ci height 55.3
+ci disp 169.57
+ci cyl 6
+ci comp 8.7
+ci englo Plate on left front door pillar post.
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 29.4
+ci bhp 101@4400
+ci mbear 4
+ci block Cast alloy iron
+ci engno Last letter in serial no.
+ci trq 156@2400
+ci etype Inline Valve-in-head
+ci b&s 3 1/2 & 2 15/16
+ci etype Single downdraft
+ci vlift Hydraulic
+ci etype Helical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgundy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Maize
+co Onyx Black
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pecan Frost
+co Pink Frost Metallic #2
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Two Tone Colors Available
+co Yellow Mist.
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 9.5 Quarts
+ci batt 12
+ci rad Tubular and fin
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip 200 cu. in. Inline 6 engine
+ci equip Air conditioning
+ci equip Merc-O-Matic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci 2gear 1.83
+ci drive Rear wheel drive
+ci rev 4.46
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 3.29
+ci vloc On inside of left fender.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 4436, 4(\w)23(\w)([\dX]{6})
+clv 18865, 1964, Mercury, Comet Caliente 6, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci year 1964
+ci msrp $2364.00
+ci series Comet Caliente 6
+ci prod 31204
+ci origin United States
+ci maker Mercury
+ci model 63D
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 9
+ci tcase -NA-
+ci fuel 20
+ci oil 4.5
+ci rdiff 2.5
+ci carb Own
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.2
+ci wbase 114
+ci length 195.1
+ci height 55.3
+ci rtred 56
+ci width 71.4
+ci ftred 55
+ci disp 169.57
+ci cyl 6
+ci englo Plate on left front door pillar post.
+ci comp 8.7
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 29.4
+ci bhp 101@4400
+ci block Cast alloy iron
+ci engno Last letter in serial no.
+ci trq 156@2400
+ci etype Inline Valve-in-head
+ci b&s 3 1/2 & 2 15/16
+ci etype Single downdraft
+ci vlift Hydraulic
+ci etype Helical
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgundy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Maize
+co Onyx Black
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pecan Frost
+co Pink Frost Metallic #2
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Two Tone Colors Available
+co Yellow Mist.
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 9.5 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip 200 cu. in. Inline 6 engine
+ci equip Air conditioning
+ci equip Merc-O-Matic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 3gear 1
+ci 2gear 1.83
+ci drive Rear wheel drive
+ci rev 4.46
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 3.29
+ci vloc On inside of left fender.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 4437, 4(\w)22(\w)([\dX]{6})
+clv 18866, 1964, Mercury, Comet Caliente 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet Caliente 6
+ci make Mercury
+ci msrp $2339.00
+ci year 1964
+ci prod 27218
+ci origin United States
+ci model 54D
+ci maker Mercury
+ci bsize 9
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci rdiff 2.5
+ci oil 4.5
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci csize 8.5 inches
+ci diff Hypoid
+ci diffr 3.2
+ci wbase 114
+ci length 195.1
+ci ftred 55
+ci width 71.4
+ci rtred 56
+ci height 55.3
+ci disp 169.57
+ci cyl 6
+ci mbear 4
+ci comp 8.7
+ci englo Plate on left front door pillar post.
+ci b&s 3 1/2 & 2 15/16
+ci engno Last letter in serial no.
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 29.4
+ci etype Inline Valve-in-head
+ci bhp 101@4400
+ci vlift Hydraulic
+ci etype Single downdraft
+ci trq 156@2400
+ci etype Helical
+ci block Cast alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgundy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Maize
+co Onyx Black
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pecan Frost
+co Pink Frost Metallic #2
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Two Tone Colors Available
+co Yellow Mist.
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool 9.5 Quarts
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Merc-O-Matic automatic transmission
+ci equip 200 cu. in. Inline 6 engine
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.83
+ci rev 4.46
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 3.29
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On inside of left fender.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 4438, 4(\w)25(\w)([\dX]{6})
+clv 18867, 1964, Mercury, Comet Caliente 8, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci year 1964
+ci msrp $2733.00
+ci series Comet Caliente 8
+ci prod 9039
+ci origin United States
+ci model 76D
+ci weight 2905
+ci maker Mercury
+ci doors 2
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Duo-servo self-adjusting on 4 wheels
+ci trans 3.5
+ci fuel 20
+ci oil 5
+ci tcase -NA-
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci wbase 114
+ci length 195.1
+ci width 71.4
+ci height 55.3
+ci rtred 56
+ci ftred 55
+ci bhp 164@4400
+ci mbear 5
+ci cyl 8
+ci comp 8.8
+ci rhp 46.2
+ci b&s 3.8 & 2.87
+ci englo Plate on left front door pillar post.
+ci disp 260
+ci trq 258@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci block Special alloy iron
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype Own Cyclone V8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgundy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Maize
+co Onyx Black
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pecan Frost
+co Pink Frost Metallic #2
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Two Tone Colors Available
+co Yellow Mist.
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci ftype Regular
+ci cool 14.5 Quarts
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci equip Power steering
+ci equip Air conditioning
+ci equip Merc-O-Matic automatic transmission
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.87
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.7
+ci 1gear 2.79
+ci 5gear Not applicable
+ci vloc On inside of left fender.
+ci tsize 6.50 x 14
+ci sloc Trunk
+cls 4439, 4(\w)23(\w)([\dX]{6})
+clv 18868, 1964, Mercury, Comet Caliente 8, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci year 1964
+ci msrp $2472.00
+ci series Comet Caliente 8
+ci prod 31204
+ci origin United States
+ci model 63D
+ci maker Mercury
+ci weight 2732
+ci doors 2
+ci svc Duo-servo self-adjusting on 4 wheels
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci oil 5
+ci fuel 20
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci width 71.4
+ci wbase 114
+ci length 195.1
+ci ftred 55
+ci height 55.3
+ci rtred 56
+ci bhp 164@4400
+ci mbear 5
+ci rhp 46.2
+ci cyl 8
+ci comp 8.8
+ci b&s 3.8 & 2.87
+ci englo Plate on left front door pillar post.
+ci disp 260
+ci trq 258@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci block Special alloy iron
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype Own Cyclone V8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgundy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Maize
+co Onyx Black
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pecan Frost
+co Pink Frost Metallic #2
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Two Tone Colors Available
+co Yellow Mist.
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 14.5 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci exha Single
+ci equip Power steering
+ci equip Air conditioning
+ci equip Merc-O-Matic automatic transmission
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.87
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.7
+ci 1gear 2.79
+ci 5gear Not applicable
+ci vloc On inside of left fender.
+ci tsize 6.50 x 14
+ci sloc Trunk
+cls 4440, 4(\w)22(\w)([\dX]{6})
+clv 18869, 1964, Mercury, Comet Caliente 8, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci year 1964
+ci msrp $2447.00
+ci series Comet Caliente 8
+ci prod 27218
+ci origin United States
+ci doors 4
+ci model 54D
+ci weight 2712
+ci maker Mercury
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci ebrake Cable and conduit on rear service brakes
+ci oil 5
+ci tcase -NA-
+ci fuel 20
+ci trans 3.5
+ci rdiff 4.5
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci width 71.4
+ci wbase 114
+ci rtred 56
+ci length 195.1
+ci ftred 55
+ci height 55.3
+ci bhp 164@4400
+ci mbear 5
+ci rhp 46.2
+ci cyl 8
+ci comp 8.8
+ci b&s 3.8 & 2.87
+ci englo Plate on left front door pillar post.
+ci disp 260
+ci trq 258@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci block Special alloy iron
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype Own Cyclone V8
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgundy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Maize
+co Onyx Black
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pecan Frost
+co Pink Frost Metallic #2
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Two Tone Colors Available
+co Yellow Mist.
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 14.5 Quarts
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci exha Single
+ci equip Power steering
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Merc-O-Matic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.87
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.7
+ci 1gear 2.79
+ci 5gear Not applicable
+ci vloc On inside of left fender.
+ci tsize 6.50 x 14
+ci sloc Trunk
+cls 4441, 4(\w)27(\w)([\dX]{6})
+clv 18870, 1964, Mercury, Comet Cyclone, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1964
+ci origin United States
+ci make Mercury
+ci prod 7454
+ci series Comet Cyclone
+ci model 63E
+ci maker Mercury
+ci doors 2
+ci weight 3044
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Duo-servo self-adjusting on 4 wheels
+ci tcase -NA-
+ci rdiff 4.5
+ci oil 5
+ci trans 3.5
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.25
+ci diff Hypoid
+ci width 71.4
+ci wbase 114
+ci height 55.3
+ci ftred 55.6
+ci length 195.1
+ci rtred 56
+ci rhp 51.2
+ci mbear 5
+ci b&s 4 & 2.87
+ci cyl 8
+ci comp 9
+ci lube Pressure to all bearings excluding wrist pin
+ci block Special alloy iron
+ci trq 300@2800
+ci disp 289
+ci etype Own Cyclone Super V8
+ci etype Downdraft 4-barrel
+ci bhp 210@4400
+ci engno Last letter in serial no.
+ci englo Plate on left front door pillar post.
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgundy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Maize
+co Onyx Black
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pecan Frost
+co Pink Frost Metallic #2
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Two Tone Colors Available
+co Yellow Mist.
+ci ftype Regular
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci cool 14.5 Quarts
+ci batt 12
+ci equip Pushbutton Radio
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power brakes
+ci equip Power steering
+ci equip Power seats
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci rev 2.87
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.7
+ci drive Rear wheel drive
+ci gears 3
+ci 1gear 2.79
+ci vloc On inside of left fender.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 4442, 4(\w)53(\w)([\dX]{6})
+clv 18871, 1964, Mercury, Montclair, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series Montclair
+ci prod 2329
+ci origin United States
+ci msrp $3116.00
+ci year 1964
+ci make Mercury
+ci doors 2
+ci weight 3925
+ci model 65B
+ci maker Mercury
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci trans 3
+ci oil 6
+ci rdiff 5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 80
+ci length 215.5
+ci height 56.7
+ci wbase 120
+ci rtred 60
+ci ftred 61
+ci trq 378@2400
+ci cyl 8
+ci block Special alloy iron
+ci mbear 5
+ci comp 9.4
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 3/64 & 3 25/32
+ci englo Plate on left front door pillar post.
+ci rhp 52.41
+ci bhp 250@4400
+ci etype Dual downdraft
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci disp 389.09
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool 20 Quarts
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4443, 4(\w)57(\w)([\dX]{6})
+clv 18872, 1964, Mercury, Montclair, Marauder Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1964
+ci prod 6459
+ci origin United States
+ci msrp $3116.00
+ci series Montclair
+ci make Mercury
+ci doors 2
+ci weight 3919
+ci maker Mercury
+ci model 63D
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 20
+ci trans 3
+ci rdiff 5
+ci oil 6
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 80
+ci height 56.7
+ci length 215.5
+ci rtred 60
+ci ftred 61
+ci wbase 120
+ci disp 389.09
+ci cyl 8
+ci block Special alloy iron
+ci mbear 5
+ci comp 9.4
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 3/64 & 3 25/32
+ci englo Plate on left front door pillar post.
+ci trq 378@2400
+ci bhp 250@4400
+ci etype Dual downdraft
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci rhp 52.41
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool 20 Quarts
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4444, 4(\w)58(\w)([\dX]{6})
+clv 18873, 1964, Mercury, Montclair, Marauder Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 8655
+ci msrp $3170.00
+ci make Mercury
+ci series Montclair
+ci origin United States
+ci year 1964
+ci weight 4015
+ci maker Mercury
+ci model 57D
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci oil 6
+ci trans 3
+ci tcase -NA-
+ci rdiff 5
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci length 215.5
+ci wbase 120
+ci width 80
+ci height 56.7
+ci rtred 60
+ci ftred 61
+ci engno Last letter in serial no.
+ci etype V8 Valve-in-head
+ci trq 378@2400
+ci block Special alloy iron
+ci comp 9.4
+ci englo Plate on left front door pillar post.
+ci bhp 250@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 389.09
+ci cyl 8
+ci etype Dual downdraft
+ci mbear 5
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci b&s 4 3/64 & 3 25/32
+ci rhp 52.41
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci exha Single
+ci cool 20 Quarts
+ci ftype Regular
+ci batt 12
+ci rad Cellular tubular
+ci cool Centrifugal water  pump
+ci equip Power windows
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Multi-Drive automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci 1gear 2.42
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci rev 2.33
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4445, 4(\w)52(\w)([\dX]{6})
+clv 18874, 1964, Mercury, Montclair, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Montclair
+ci prod 15520
+ci origin United States
+ci msrp $3105.00
+ci year 1964
+ci make Mercury
+ci maker Mercury
+ci model 54B
+ci doors 4
+ci weight 3994
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 3
+ci rdiff 5
+ci tcase -NA-
+ci oil 6
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 120
+ci ftred 61
+ci width 80
+ci height 56.7
+ci length 215.5
+ci rtred 60
+ci disp 389.09
+ci cyl 8
+ci block Special alloy iron
+ci mbear 5
+ci comp 9.4
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 3/64 & 3 25/32
+ci englo Plate on left front door pillar post.
+ci trq 378@2400
+ci bhp 250@4400
+ci etype Dual downdraft
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci rhp 52.41
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool 20 Quarts
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4446, 4(\w)45(\w)([\dX]{6})
+clv 18875, 1964, Mercury, Monterey, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1964
+ci make Mercury
+ci origin United States
+ci msrp $3215.00
+ci series Monterey
+ci prod 2592
+ci doors 2
+ci model 76A
+ci maker Mercury
+ci weight 4025
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 3
+ci oil 6
+ci fuel 20
+ci tcase -NA-
+ci rdiff 5
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci width 80
+ci length 215.5
+ci height 56.7
+ci wbase 120
+ci rtred 60
+ci ftred 61
+ci trq 378@2400
+ci cyl 8
+ci block Special alloy iron
+ci mbear 5
+ci comp 9.4
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 3/64 & 3 25/32
+ci englo Plate on left front door pillar post.
+ci rhp 52.41
+ci bhp 250@4400
+ci etype Dual downdraft
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci disp 389.09
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool 20 Quarts
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4447, 4(\w)43(\w)([\dX]{6})
+clv 18876, 1964, Mercury, Monterey, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1964
+ci make Mercury
+ci origin United States
+ci msrp $2873.00
+ci series Monterey
+ci prod 2926
+ci doors 2
+ci weight 3914
+ci maker Mercury
+ci model 65A
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 6
+ci tcase -NA-
+ci trans 3
+ci rdiff 5
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci width 80
+ci length 215.5
+ci height 56.7
+ci wbase 120
+ci rtred 60
+ci ftred 61
+ci trq 378@2400
+ci cyl 8
+ci block Special alloy iron
+ci mbear 5
+ci comp 9.4
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 3/64 & 3 25/32
+ci englo Plate on left front door pillar post.
+ci rhp 52.41
+ci bhp 250@4400
+ci etype Dual downdraft
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci disp 389.09
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool 20 Quarts
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4448, 4(\w)47(\w)([\dX]{6})
+clv 18877, 1964, Mercury, Monterey, Marauder Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1964
+ci prod 8760
+ci origin United States
+ci msrp $2873.00
+ci series Monterey
+ci make Mercury
+ci doors 2
+ci weight 3908
+ci maker Mercury
+ci model 63A
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 20
+ci trans 3
+ci oil 6
+ci tcase -NA-
+ci rdiff 5
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci length 215.5
+ci height 56.7
+ci width 80
+ci rtred 60
+ci ftred 61
+ci wbase 120
+ci disp 389.09
+ci etype V8 Valve-in-head
+ci rhp 52.41
+ci mbear 5
+ci comp 9.4
+ci englo Plate on left front door pillar post.
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 250@4400
+ci engno Last letter in serial no.
+ci etype Dual downdraft
+ci block Special alloy iron
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci cyl 8
+ci trq 378@2400
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 20 Quarts
+ci rad Cellular tubular
+ci ftype Regular
+ci equip Pushbutton Radio
+ci equip Power windows
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Multi-Drive automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.33
+ci 1gear 2.42
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.61
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4449, 4(\w)48(\w)([\dX]{6})
+clv 18878, 1964, Mercury, Monterey, Marauder Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 4143
+ci msrp $2946.00
+ci origin United States
+ci series Monterey
+ci year 1964
+ci make Mercury
+ci weight 4004
+ci maker Mercury
+ci model 57A
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci trans 3
+ci rdiff 5
+ci oil 6
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci length 215.5
+ci wbase 120
+ci width 80
+ci height 56.7
+ci ftred 61
+ci rtred 60
+ci engno Last letter in serial no.
+ci cyl 8
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci comp 9.4
+ci disp 389.09
+ci bhp 250@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Plate on left front door pillar post.
+ci mbear 5
+ci etype Dual downdraft
+ci trq 378@2400
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci rhp 52.41
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ftype Regular
+ci exha Single
+ci cool 20 Quarts
+ci cool Centrifugal water  pump
+ci batt 12
+ci ign Distributor and coil
+ci rad Cellular tubular
+ci equip Multi-Drive automatic transmission
+ci equip Pushbutton Radio
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci 2gear 1.61
+ci rev 2.33
+ci gears 3
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4450, 4(\w)41(\w)([\dX]{6})
+clv 18879, 1964, Mercury, Monterey, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1964
+ci prod 3932
+ci origin United States
+ci msrp $2808.00
+ci series Monterey
+ci make Mercury
+ci doors 2
+ci model 62A
+ci maker Mercury
+ci weight 3893
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci trans 3
+ci rdiff 5
+ci fuel 20
+ci oil 6
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 215.5
+ci width 80
+ci height 56.7
+ci wbase 120
+ci rtred 60
+ci ftred 61
+ci disp 389.09
+ci cyl 8
+ci block Special alloy iron
+ci mbear 5
+ci comp 9.4
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 3/64 & 3 25/32
+ci englo Plate on left front door pillar post.
+ci trq 378@2400
+ci bhp 250@4400
+ci etype Dual downdraft
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci rhp 52.41
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool 20 Quarts
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4451, 4(\w)42(\w)([\dX]{6})
+clv 18880, 1964, Mercury, Monterey, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 20234
+ci year 1964
+ci origin United States
+ci msrp $2881.00
+ci series Monterey
+ci make Mercury
+ci weight 3983
+ci doors 4
+ci model 54A
+ci maker Mercury
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 5
+ci fuel 20
+ci oil 6
+ci tcase -NA-
+ci trans 3
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci ftred 61
+ci width 80
+ci length 215.5
+ci height 56.7
+ci wbase 120
+ci rtred 60
+ci disp 389.09
+ci cyl 8
+ci block Special alloy iron
+ci mbear 5
+ci comp 9.4
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 3/64 & 3 25/32
+ci englo Plate on left front door pillar post.
+ci trq 378@2400
+ci bhp 250@4400
+ci etype Dual downdraft
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci rhp 52.41
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool 20 Quarts
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4452, 4(\w)65(\w)([\dX]{6})
+clv 18881, 1964, Mercury, Parklane, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3538.00
+ci year 1964
+ci origin United States
+ci prod 1082
+ci series Parklane
+ci make Mercury
+ci maker Mercury
+ci weight 4064
+ci doors 2
+ci model 76F
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci rdiff 5
+ci oil 6
+ci trans 3
+ci fuel 20
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.50
+ci length 215.5
+ci width 80
+ci ftred 61
+ci height 56.7
+ci wbase 120
+ci rtred 60
+ci bhp 300@4600
+ci mbear 5
+ci cyl 8
+ci block Special alloy iron
+ci trq 427@2800
+ci comp 10.1
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Plate on left front door pillar post.
+ci disp 389.09
+ci etype Downdraft 4-barrel
+ci engno Last letter in serial no.
+ci rhp 52.41
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci cool Centrifugal water  pump
+ci exha Dual
+ci ftype Premium
+ci rad Cellular tubular
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci equip Power steering
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power seats
+ci equip Pushbutton Radio
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 2.42
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4453, 4(\w)63(\w)([\dX]{6})
+clv 18882, 1964, Mercury, Parklane, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3348.00
+ci year 1964
+ci origin United States
+ci make Mercury
+ci series Parklane
+ci prod 1172
+ci maker Mercury
+ci weight 3964
+ci doors 2
+ci model 65F
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci rdiff 5
+ci oil 6
+ci trans 3
+ci fuel 20
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.50
+ci length 215.5
+ci width 80
+ci ftred 61
+ci height 56.7
+ci wbase 120
+ci rtred 60
+ci bhp 300@4600
+ci mbear 5
+ci cyl 8
+ci block Special alloy iron
+ci trq 427@2800
+ci comp 10.1
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Plate on left front door pillar post.
+ci disp 389.09
+ci etype Downdraft 4-barrel
+ci engno Last letter in serial no.
+ci rhp 52.41
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci cool Centrifugal water  pump
+ci exha Dual
+ci ftype Premium
+ci rad Cellular tubular
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci equip Power steering
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power seats
+ci equip Pushbutton Radio
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 2.42
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4454, 4(\w)64(\w)([\dX]{6})
+clv 18883, 1964, Mercury, Parklane, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3402.00
+ci year 1964
+ci origin United States
+ci prod 2402
+ci series Parklane
+ci make Mercury
+ci model 75F
+ci weight 4054
+ci maker Mercury
+ci doors 4
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci trans 3
+ci oil 6
+ci tcase -NA-
+ci fuel 20
+ci rdiff 5
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.50
+ci diff Hypoid
+ci wbase 120
+ci width 80
+ci ftred 61
+ci height 56.7
+ci length 215.5
+ci rtred 60
+ci disp 389.09
+ci mbear 5
+ci cyl 8
+ci block Special alloy iron
+ci trq 427@2800
+ci comp 10.1
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Plate on left front door pillar post.
+ci rhp 52.41
+ci etype Downdraft 4-barrel
+ci engno Last letter in serial no.
+ci bhp 300@4600
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci cool Centrifugal water  pump
+ci exha Dual
+ci ftype Premium
+ci rad Cellular tubular
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci equip Power steering
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power seats
+ci equip Pushbutton Radio
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 2.42
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4455, 4(\w)67(\w)([\dX]{6})
+clv 18884, 1964, Mercury, Parklane, Marauder Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3348.00
+ci year 1964
+ci origin United States
+ci prod 1052
+ci series Parklane
+ci make Mercury
+ci maker Mercury
+ci weight 3993
+ci doors 2
+ci model 63F
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci rdiff 5
+ci oil 6
+ci trans 3
+ci fuel 20
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.50
+ci length 215.5
+ci width 80
+ci ftred 61
+ci height 56.7
+ci wbase 120
+ci rtred 60
+ci bhp 300@4600
+ci mbear 5
+ci cyl 8
+ci block Special alloy iron
+ci trq 427@2800
+ci comp 10.1
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Plate on left front door pillar post.
+ci disp 389.09
+ci etype Downdraft 4-barrel
+ci engno Last letter in serial no.
+ci rhp 52.41
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci cool Centrifugal water  pump
+ci exha Dual
+ci ftype Premium
+ci rad Cellular tubular
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci equip Power steering
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power seats
+ci equip Pushbutton Radio
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 2.42
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4456, 4(\w)68(\w)([\dX]{6})
+clv 18885, 1964, Mercury, Parklane, Marauder Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3402.00
+ci make Mercury
+ci origin United States
+ci prod 3658
+ci series Parklane
+ci year 1964
+ci weight 4083
+ci maker Mercury
+ci doors 4
+ci model 57F
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci trans 3
+ci oil 6
+ci rdiff 5
+ci tcase -NA-
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.50
+ci ftred 61
+ci wbase 120
+ci rtred 60
+ci height 56.7
+ci length 215.5
+ci width 80
+ci disp 389.09
+ci mbear 5
+ci cyl 8
+ci block Special alloy iron
+ci trq 427@2800
+ci comp 10.1
+ci b&s 4 3/64 & 3 25/32
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Plate on left front door pillar post.
+ci rhp 52.41
+ci etype Downdraft 4-barrel
+ci engno Last letter in serial no.
+ci bhp 300@4600
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci cool Centrifugal water  pump
+ci exha Dual
+ci ftype Premium
+ci rad Cellular tubular
+ci cool 20 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci equip Power steering
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Power windows
+ci equip Power seats
+ci equip Pushbutton Radio
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 2.42
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4457, 4(\w)62(\w)([\dX]{6})
+clv 18886, 1964, Mercury, Parklane, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Parklane
+ci msrp $3337.00
+ci origin United States
+ci prod 6230
+ci year 1964
+ci make Mercury
+ci doors 4
+ci maker Mercury
+ci weight 4033
+ci model 54F
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci trans 3
+ci oil 6
+ci fuel 20
+ci rdiff 5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.50
+ci width 80
+ci length 215.5
+ci ftred 61
+ci height 56.7
+ci wbase 120
+ci rtred 60
+ci b&s 4 3/64 & 3 25/32
+ci block Special alloy iron
+ci cyl 8
+ci bhp 300@4600
+ci rhp 52.41
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 389.09
+ci englo Plate on left front door pillar post.
+ci comp 10.1
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci engno Last letter in serial no.
+ci trq 427@2800
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci cool Centrifugal water  pump
+ci exha Dual
+ci rad Cellular tubular
+ci cool 20 Quarts
+ci ftype Premium
+ci batt 12
+ci ign Distributor and coil
+ci equip Multi-Drive automatic transmission
+ci equip Power windows
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power seats
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci rev 2.33
+ci 1gear 2.42
+ci 5gear Not applicable
+ci 3gear 1
+ci gears 3
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4458, 4(\w)65(\w)([\dX]{6})
+clv 18887, 1964, Mercury, Parklane Sports, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci series Parklane Sports
+ci origin United States
+ci year 1964
+ci make Mercury
+ci prod 885
+ci model 76C
+ci doors 2
+ci maker Mercury
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci oil 6
+ci trans 3
+ci rdiff 5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.50
+ci wbase 120
+ci width 80
+ci height 56.7
+ci length 215.5
+ci rtred 60
+ci ftred 61
+ci etype V8 Valve-in-head
+ci cyl 8
+ci rhp 52.41
+ci mbear 5
+ci trq 427@2800
+ci b&s 4 3/64 & 3 25/32
+ci bhp 300@4600
+ci englo Plate on left front door pillar post.
+ci lube Pressure to all bearings excluding wrist pin
+ci block Special alloy iron
+ci etype Downdraft 4-barrel
+ci engno Last letter in serial no.
+ci comp 10.1
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci disp 389.09
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci exha Dual
+ci ftype Premium
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 20 Quarts
+ci rad Cellular tubular
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.61
+ci rev 2.33
+ci gears 3
+ci 1gear 2.42
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4459, 4(\w)63(\w)([\dX]{6})
+clv 18888, 1964, Mercury, Parklane Sports, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series Parklane Sports
+ci origin United States
+ci year 1964
+ci make Mercury
+ci prod 614
+ci model 65C
+ci doors 2
+ci maker Mercury
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci oil 6
+ci trans 3
+ci rdiff 5
+ci tcase -NA-
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.50
+ci wbase 120
+ci length 215.5
+ci height 56.7
+ci width 80
+ci rtred 60
+ci ftred 61
+ci etype V8 Valve-in-head
+ci rhp 52.41
+ci cyl 8
+ci mbear 5
+ci trq 427@2800
+ci b&s 4 3/64 & 3 25/32
+ci bhp 300@4600
+ci englo Plate on left front door pillar post.
+ci lube Pressure to all bearings excluding wrist pin
+ci block Special alloy iron
+ci etype Downdraft 4-barrel
+ci engno Last letter in serial no.
+ci comp 10.1
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci disp 389.09
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci exha Dual
+ci ftype Premium
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 20 Quarts
+ci rad Cellular tubular
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.61
+ci rev 2.33
+ci gears 3
+ci 1gear 2.42
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4460, 4(\w)67(\w)([\dX]{6})
+clv 18889, 1964, Mercury, Parklane Sports, Marauder Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci make Mercury
+ci prod 1669
+ci year 1964
+ci series Parklane Sports
+ci maker Mercury
+ci model 63C
+ci doors 2
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci rdiff 5
+ci tcase -NA-
+ci oil 6
+ci trans 3
+ci fuel 20
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.50
+ci length 215.5
+ci width 80
+ci ftred 61
+ci height 56.7
+ci wbase 120
+ci rtred 60
+ci mbear 5
+ci rhp 52.41
+ci cyl 8
+ci trq 427@2800
+ci b&s 4 3/64 & 3 25/32
+ci disp 389.09
+ci englo Plate on left front door pillar post.
+ci lube Pressure to all bearings excluding wrist pin
+ci block Special alloy iron
+ci comp 10.1
+ci etype Downdraft 4-barrel
+ci engno Last letter in serial no.
+ci etype V8 Valve-in-head
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci bhp 300@4600
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci exha Dual
+ci ftype Premium
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 20 Quarts
+ci rad Cellular tubular
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.61
+ci rev 2.33
+ci gears 3
+ci 1gear 2.42
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4461, 4(\w)68(\w)([\dX]{6})
+clv 18890, 1964, Mercury, Parklane Sports, Marauder Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci make Mercury
+ci year 1964
+ci series Parklane Sports
+ci prod 847
+ci model 57C
+ci maker Mercury
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci trans 3
+ci tcase -NA-
+ci oil 6
+ci fuel 20
+ci rdiff 5
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.50
+ci diff Hypoid
+ci length 215.5
+ci wbase 120
+ci height 56.7
+ci ftred 61
+ci width 80
+ci rtred 60
+ci b&s 4 3/64 & 3 25/32
+ci cyl 8
+ci englo Plate on left front door pillar post.
+ci bhp 300@4600
+ci rhp 52.41
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 389.09
+ci mbear 5
+ci block Special alloy iron
+ci comp 10.1
+ci etype Downdraft 4-barrel
+ci engno Last letter in serial no.
+ci trq 427@2800
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci exha Dual
+ci ftype Premium
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 20 Quarts
+ci rad Cellular tubular
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Pushbutton Radio
+ci equip Power windows
+ci equip Power seats
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.61
+ci rev 2.33
+ci gears 3
+ci 1gear 2.42
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4462, 4(\w)76(\w)([\dX]{6})
+clv 18891, 1964, Mercury, Station Wagon, Colony Park
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 4234
+ci series Station Wagon
+ci origin United States
+ci msrp $3423.00
+ci year 1964
+ci make Mercury
+ci maker Mercury
+ci weight 4273
+ci doors 4
+ci pass 6
+ci model 71B
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 21
+ci tcase -NA-
+ci rdiff 5
+ci oil 6
+ci trans 3
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.50
+ci diff Hypoid
+ci length 210.3
+ci height 57.9
+ci wbase 120
+ci width 80
+ci rtred 60
+ci ftred 61
+ci comp 9.4
+ci cyl 8
+ci b&s 4 3/64 & 3 25/32
+ci block Special alloy iron
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Plate on left front door pillar post.
+ci disp 389.09
+ci trq 378@2400
+ci rhp 52.41
+ci etype Dual downdraft
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci bhp 250@4400
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool 20 Quarts
+ci cool Centrifugal water  pump
+ci rad Cellular tubular
+ci equip Air conditioning
+ci equip Multi-Drive automatic transmission
+ci equip Power seats
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci rev 2.33
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci 1gear 2.42
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 4463, 4(\w)76(\w)([\dX]{6})
+clv 18892, 1964, Mercury, Station Wagon, Colony Park
+ser 6 500000 999999
+ci axle Semifloating
+ci series Station Wagon
+ci prod 5624
+ci origin United States
+ci make Mercury
+ci year 1964
+ci maker Mercury
+ci pass 9
+ci doors 4
+ci model 71D
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci trans 3
+ci oil 6
+ci tcase -NA-
+ci rdiff 5
+ci fuel 21
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.50
+ci diff Hypoid
+ci height 57.9
+ci length 210.3
+ci wbase 120
+ci rtred 60
+ci ftred 61
+ci width 80
+ci bhp 250@4400
+ci englo Plate on left front door pillar post.
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 9.4
+ci mbear 5
+ci trq 378@2400
+ci disp 389.09
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci etype Dual downdraft
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci rhp 52.41
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 20 Quarts
+ci cool Centrifugal water  pump
+ci exha Single
+ci rad Cellular tubular
+ci batt 12
+ci equip Pushbutton Radio
+ci equip Multi-Drive automatic transmission
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.61
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8 x 14
+ci sloc Trunk
+cls 4464, 4(\w)72(\w)([\dX]{6})
+clv 18893, 1964, Mercury, Station Wagon, Commuter
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci series Station Wagon
+ci origin United States
+ci msrp $3225.00
+ci prod 3484
+ci year 1964
+ci weight 4257
+ci maker Mercury
+ci pass 6
+ci model 71A
+ci doors 4
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci tcase -NA-
+ci oil 6
+ci trans 3
+ci rdiff 5
+ci fuel 21
+ci carb Own
+ci ctype Single dry plate
+ci diffr 3.50
+ci diff Hypoid
+ci length 210.3
+ci wbase 120
+ci width 80
+ci height 57.9
+ci rtred 60
+ci ftred 61
+ci engno Last letter in serial no.
+ci cyl 8
+ci block Special alloy iron
+ci trq 378@2400
+ci comp 9.4
+ci mbear 5
+ci bhp 250@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci englo Plate on left front door pillar post.
+ci disp 389.09
+ci etype Dual downdraft
+ci rhp 52.41
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci b&s 4 3/64 & 3 25/32
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci cool 20 Quarts
+ci exha Single
+ci cool Centrifugal water  pump
+ci batt 12
+ci ign Distributor and coil
+ci rad Cellular tubular
+ci ftype Regular
+ci equip Multi-Drive automatic transmission
+ci equip Air conditioning
+ci equip Power seats
+ci equip Pushbutton Radio
+ci equip Power windows
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.42
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.61
+ci 3gear 1
+ci rev 2.33
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci sloc Trunk
+ci tsize 8 x 14
+cls 4465, 4(\w)72(\w)([\dX]{6})
+clv 18894, 1964, Mercury, Station Wagon, Commuter
+ser 6 500000 999999
+ci axle Semifloating
+ci series Station Wagon
+ci year 1964
+ci origin United States
+ci make Mercury
+ci prod 1839
+ci doors 4
+ci maker Mercury
+ci pass 9
+ci model 71C
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 21
+ci trans 3
+ci oil 6
+ci tcase -NA-
+ci rdiff 5
+ci carb Own
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.50
+ci length 210.3
+ci height 57.9
+ci wbase 120
+ci rtred 60
+ci ftred 61
+ci width 80
+ci cyl 8
+ci englo Plate on left front door pillar post.
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 250@4400
+ci comp 9.4
+ci rhp 52.41
+ci trq 378@2400
+ci mbear 5
+ci block Special alloy iron
+ci b&s 4 3/64 & 3 25/32
+ci etype Dual downdraft
+ci engno Last letter in serial no.
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci disp 389.09
+ci color Exterior Colors
+co Anniversary Silver Metallic
+co Aztec Gold
+co Bittersweet
+co Burgandy Metallic
+co Carnival Red
+co Fawn
+co Glacier Blue
+co Onyx
+co Pacific Blue Metallic
+co Palomino
+co Peacock
+co Pink Frost
+co Platinum Beige Metallic
+co Polar White
+co Silver Turquoise Metallic
+co Yellow Mist
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 20 Quarts
+ci cool Centrifugal water  pump
+ci exha Single
+ci rad Cellular tubular
+ci batt 12
+ci equip Pushbutton Radio
+ci equip Multi-Drive automatic transmission
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 2gear 1.61
+ci 1gear 2.42
+ci rev 2.33
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc Stamped on a tab attached to the top right side of the dash panel in the engine compartment.
+ci tsize 8 x 14
+ci sloc Trunk

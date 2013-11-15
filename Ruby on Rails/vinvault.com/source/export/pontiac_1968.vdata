@@ -1,0 +1,5216 @@
+cls 6800, 262678(\w)([\dX]{6})
+clv 26457, 1968, Pontiac, Bonneville Brougham, Convertible
+ci axle Semifloating
+ci make Pontiac
+ci origin United States
+ci year 1968
+ci series Bonneville Brougham
+ci model 26267
+ci maker Fisher
+ci doors 2
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 26.5
+ci oil 6
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 5
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 124
+ci width 79.8
+ci height 55.6
+ci length 223.5
+ci ftred 63
+ci rtred 64
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 54.3
+ci mbear 5
+ci trq 445@2900
+ci cyl 8
+ci etype Synchro-mesh
+ci disp 400
+ci vlift Hydraulic
+ci b&s 4.12 & 3 3/4
+ci comp 10.5
+ci etype Downdraft 4-barrel
+ci bhp 340@4800
+ci etype V8, overhead valve
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool Water pump
+ci exha Single
+ci rad Tube and center
+ci cool 18 Quarts
+ci batt 12
+ci ftype Premium
+ci ign Distributor and coil
+ci equip Power antenna
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Air conditioning
+ci equip 428 cu. in. V8 engine
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 8.85 x 14
+cls 6801, 262398(\w)([\dX]{6})
+clv 26458, 1968, Pontiac, Bonneville Brougham, Hardtop
+ci axle Semifloating
+ci make Pontiac
+ci origin United States
+ci year 1968
+ci series Bonneville Brougham
+ci doors 4
+ci model 26239
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci oil 6
+ci fuel 26.5
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 5
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 124
+ci width 79.8
+ci height 55.6
+ci length 223.5
+ci ftred 63
+ci rtred 64
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 54.3
+ci mbear 5
+ci trq 445@2900
+ci cyl 8
+ci etype Synchro-mesh
+ci disp 400
+ci vlift Hydraulic
+ci b&s 4.12 & 3 3/4
+ci comp 10.5
+ci etype Downdraft 4-barrel
+ci bhp 340@4800
+ci etype V8, overhead valve
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool Water pump
+ci exha Single
+ci rad Tube and center
+ci cool 18 Quarts
+ci batt 12
+ci ftype Premium
+ci ign Distributor and coil
+ci equip Power antenna
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Air conditioning
+ci equip 428 cu. in. V8 engine
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 8.85 x 14
+cls 6802, 262878(\w)([\dX]{6})
+clv 26459, 1968, Pontiac, Bonneville Brougham, Hardtop Coupe
+ci axle Semifloating
+ci make Pontiac
+ci origin United States
+ci year 1968
+ci series Bonneville Brougham
+ci model 26287
+ci maker Fisher
+ci doors 2
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 26.5
+ci oil 6
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 5
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 124
+ci width 79.8
+ci height 55.6
+ci length 223.5
+ci ftred 63
+ci rtred 64
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 54.3
+ci mbear 5
+ci trq 445@2900
+ci cyl 8
+ci etype Synchro-mesh
+ci disp 400
+ci vlift Hydraulic
+ci b&s 4.12 & 3 3/4
+ci comp 10.5
+ci etype Downdraft 4-barrel
+ci bhp 340@4800
+ci etype V8, overhead valve
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool Water pump
+ci exha Single
+ci rad Tube and center
+ci cool 18 Quarts
+ci batt 12
+ci ftype Premium
+ci ign Distributor and coil
+ci equip Power antenna
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Air conditioning
+ci equip 428 cu. in. V8 engine
+ci equip Radio
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 8.85 x 14
+cls 6803, 262678(\w)([\dX]{6})
+clv 26460, 1968, Pontiac, Bonneville, Convertible
+ci axle Semifloating
+ci msrp $3800.00
+ci origin United States
+ci series Bonneville
+ci prod 7358
+ci year 1968
+ci make Pontiac
+ci weight 4090
+ci maker Fisher
+ci doors 2
+ci model 26267
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 26.5
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 5
+ci oil 6
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci width 79.8
+ci length 223.5
+ci wbase 124
+ci ftred 63
+ci height 55.6
+ci rtred 64
+ci b&s 4.12 & 3 3/4
+ci rhp 54.3
+ci mbear 5
+ci trq 445@2900
+ci cyl 8
+ci vlift Hydraulic
+ci englo On pad at front of right side of block.
+ci etype V8, overhead valve
+ci bhp 340@4800
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci disp 400
+ci etype Synchro-mesh
+ci comp 10.5
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and center
+ci ftype Premium
+ci exha Single
+ci cool 18 Quarts
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Radio
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 6804, 262398(\w)([\dX]{6})
+clv 26461, 1968, Pontiac, Bonneville, Hardtop
+ci axle Semifloating
+ci msrp $3637.00
+ci origin United States
+ci series Bonneville
+ci prod 57055
+ci year 1968
+ci make Pontiac
+ci doors 4
+ci weight 4171
+ci model 26239
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci oil 6
+ci rdiff 4.5
+ci tcase -NA-
+ci fuel 26.5
+ci trans 5
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 64
+ci width 79.8
+ci wbase 124
+ci length 223.5
+ci height 55.6
+ci ftred 63
+ci b&s 4.12 & 3 3/4
+ci rhp 54.3
+ci mbear 5
+ci trq 445@2900
+ci cyl 8
+ci vlift Hydraulic
+ci englo On pad at front of right side of block.
+ci etype V8, overhead valve
+ci bhp 340@4800
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci disp 400
+ci etype Synchro-mesh
+ci comp 10.5
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and center
+ci ftype Premium
+ci exha Single
+ci cool 18 Quarts
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Radio
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 6805, 262878(\w)([\dX]{6})
+clv 26462, 1968, Pontiac, Bonneville, Hardtop Coupe
+ci axle Semifloating
+ci msrp $3569.00
+ci origin United States
+ci series Bonneville
+ci year 1968
+ci prod 29598
+ci make Pontiac
+ci maker Fisher
+ci weight 4054
+ci doors 2
+ci model 26287
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci ebrake Rear service brakes
+ci oil 6
+ci fuel 26.5
+ci rdiff 4.5
+ci trans 5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 64
+ci width 79.8
+ci length 223.5
+ci wbase 124
+ci ftred 63
+ci height 55.6
+ci vlift Hydraulic
+ci rhp 54.3
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 400
+ci cyl 8
+ci comp 10.5
+ci b&s 4.12 & 3 3/4
+ci etype V8, overhead valve
+ci bhp 340@4800
+ci etype Synchro-mesh
+ci etype Downdraft 4-barrel
+ci englo On pad at front of right side of block.
+ci trq 445@2900
+ci mbear 5
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci ftype Premium
+ci rad Tube and center
+ci cool 18 Quarts
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Radio
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 6806, 262698(\w)([\dX]{6})
+clv 26463, 1968, Pontiac, Bonneville, Sedan
+ci axle Semifloating
+ci msrp $3530.00
+ci origin United States
+ci series Bonneville
+ci year 1968
+ci prod 3499
+ci make Pontiac
+ci maker Fisher
+ci weight 4122
+ci model 26269
+ci doors 4
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 5
+ci rdiff 4.5
+ci oil 6
+ci fuel 26.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 64
+ci length 223.5
+ci width 79.8
+ci wbase 124
+ci ftred 63
+ci height 55.6
+ci vlift Hydraulic
+ci rhp 54.3
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 400
+ci cyl 8
+ci comp 10.5
+ci b&s 4.12 & 3 3/4
+ci etype V8, overhead valve
+ci bhp 340@4800
+ci etype Synchro-mesh
+ci etype Downdraft 4-barrel
+ci englo On pad at front of right side of block.
+ci trq 445@2900
+ci mbear 5
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci ftype Premium
+ci rad Tube and center
+ci cool 18 Quarts
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Radio
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 6807, 262458(\w)([\dX]{6})
+clv 26464, 1968, Pontiac, Bonneville, Station Wagon 3-seat
+ci axle Semifloating
+ci msrp $3964.00
+ci origin United States
+ci series Bonneville
+ci prod 6926
+ci year 1968
+ci make Pontiac
+ci maker Fisher
+ci model 26245
+ci weight 4485
+ci pass 9
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci trans 5
+ci oil 6
+ci fuel 26.5
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 124
+ci width 79.8
+ci rtred 64
+ci height 55.6
+ci length 223.5
+ci ftred 63
+ci rhp 54.3
+ci englo On pad at front of right side of block.
+ci mbear 5
+ci cyl 8
+ci comp 10.5
+ci trq 445@2900
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8, overhead valve
+ci disp 400
+ci etype Synchro-mesh
+ci vlift Hydraulic
+ci bhp 340@4800
+ci b&s 4.12 & 3 3/4
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci ftype Premium
+ci batt 12
+ci cool 18 Quarts
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Radio
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.85 x 14
+ci sloc Trunk
+cls 6808, 252678(\w)([\dX]{6})
+clv 26465, 1968, Pontiac, Catalina, Convertible
+ci axle Semifloating
+ci msrp $3391.00
+ci origin United States
+ci series Catalina
+ci prod 7339
+ci year 1968
+ci make Pontiac
+ci maker Fisher
+ci weight 3980
+ci model 25237
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci fuel 26.5
+ci oil 6
+ci trans 5
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 121
+ci height 55.3
+ci length 216.5
+ci width 79.8
+ci rtred 64
+ci ftred 63
+ci b&s 4.12 & 3 3/4
+ci mbear 5
+ci comp 10.5
+ci rhp 54.3
+ci cyl 8
+ci trq 428@2500
+ci bhp 290@4600
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype Synchro-mesh
+ci disp 400
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci ftype Regular
+ci batt 12
+ci cool 18 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 6809, 252398(\w)([\dX]{6})
+clv 26466, 1968, Pontiac, Catalina, Hardtop
+ci axle Semifloating
+ci msrp $3135.00
+ci origin United States
+ci series Catalina
+ci year 1968
+ci prod 41727
+ci make Pontiac
+ci doors 4
+ci weight 4012
+ci model 25239
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 26.5
+ci trans 5
+ci tcase -NA-
+ci rdiff 4.5
+ci oil 6
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.23
+ci diff Hypoid
+ci width 79.8
+ci rtred 64
+ci ftred 63
+ci length 216.5
+ci wbase 121
+ci height 55.3
+ci rhp 54.3
+ci mbear 5
+ci comp 10.5
+ci trq 428@2500
+ci cyl 8
+ci disp 400
+ci b&s 4.12 & 3 3/4
+ci etype V8, overhead valve
+ci englo On pad at front of right side of block.
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Synchro-mesh
+ci bhp 290@4600
+ci etype Dual downdraft
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool 18 Quarts
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 6810, 252878(\w)([\dX]{6})
+clv 26467, 1968, Pontiac, Catalina, Hardtop Coupe
+ci axle Semifloating
+ci prod 92217
+ci origin United States
+ci series Catalina
+ci msrp $3066.00
+ci year 1968
+ci make Pontiac
+ci maker Fisher
+ci weight 3943
+ci model 25287
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci fuel 26.5
+ci oil 6
+ci trans 5
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 121
+ci height 55.3
+ci length 216.5
+ci width 79.8
+ci rtred 64
+ci ftred 63
+ci b&s 4.12 & 3 3/4
+ci mbear 5
+ci rhp 54.3
+ci cyl 8
+ci comp 10.5
+ci trq 428@2500
+ci bhp 290@4600
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype Synchro-mesh
+ci disp 400
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci ftype Regular
+ci batt 12
+ci cool 18 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 6811, 252698(\w)([\dX]{6})
+clv 26468, 1968, Pontiac, Catalina, Sedan
+ci axle Semifloating
+ci prod 94441
+ci origin United States
+ci series Catalina
+ci msrp $2981.00
+ci year 1968
+ci make Pontiac
+ci doors 4
+ci weight 3888
+ci model 25269
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 5
+ci tcase -NA-
+ci rdiff 4.5
+ci fuel 26.5
+ci oil 6
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 121
+ci height 55.3
+ci length 216.5
+ci width 79.8
+ci rtred 64
+ci ftred 63
+ci b&s 4.12 & 3 3/4
+ci mbear 5
+ci rhp 54.3
+ci cyl 8
+ci comp 10.5
+ci trq 428@2500
+ci bhp 290@4600
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype Synchro-mesh
+ci disp 400
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci ftype Regular
+ci batt 12
+ci cool 18 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci exha Single
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 6812, 252118(\w)([\dX]{6})
+clv 26469, 1968, Pontiac, Catalina, Sedan
+ci axle Semifloating
+ci msrp $2922.00
+ci origin United States
+ci series Catalina
+ci prod 5247
+ci year 1968
+ci make Pontiac
+ci weight 3839
+ci maker Fisher
+ci model 25211
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 5
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 6
+ci fuel 26.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 64
+ci width 79.8
+ci length 216.5
+ci ftred 63
+ci wbase 121
+ci height 55.3
+ci rhp 54.3
+ci comp 10.5
+ci trq 428@2500
+ci mbear 5
+ci cyl 8
+ci disp 400
+ci b&s 4.12 & 3 3/4
+ci etype V8, overhead valve
+ci englo On pad at front of right side of block.
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Synchro-mesh
+ci bhp 290@4600
+ci etype Dual downdraft
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool 18 Quarts
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.25 x 14
+ci sloc Trunk
+cls 6813, 252358(\w)([\dX]{6})
+clv 26470, 1968, Pontiac, Catalina, Station Wagon 2-seat
+ci axle Semifloating
+ci msrp $3367.00
+ci origin United States
+ci series Catalina
+ci year 1968
+ci prod 21848
+ci make Pontiac
+ci weight 4327
+ci doors 4
+ci maker Fisher
+ci model 25235
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 26.5
+ci trans 5
+ci oil 6
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci height 55.3
+ci wbase 121
+ci ftred 63
+ci width 79.8
+ci rtred 64
+ci length 216.5
+ci disp 400
+ci trq 428@2500
+ci rhp 54.3
+ci englo On pad at front of right side of block.
+ci mbear 5
+ci b&s 4.12 & 3 3/4
+ci bhp 290@4600
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype Synchro-mesh
+ci cyl 8
+ci comp 10.5
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool 18 Quarts
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 6814, 252458(\w)([\dX]{6})
+clv 26471, 1968, Pontiac, Catalina, Station Wagon 3-seat
+ci axle Semifloating
+ci msrp $3514.00
+ci origin United States
+ci series Catalina
+ci prod 13363
+ci year 1968
+ci make Pontiac
+ci weight 4408
+ci doors 4
+ci model 25245
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci fuel 26.5
+ci trans 5
+ci oil 6
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci height 55.3
+ci wbase 121
+ci ftred 63
+ci width 79.8
+ci rtred 64
+ci length 216.5
+ci disp 400
+ci trq 428@2500
+ci rhp 54.3
+ci englo On pad at front of right side of block.
+ci mbear 5
+ci b&s 4.12 & 3 3/4
+ci bhp 290@4600
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype Synchro-mesh
+ci cyl 8
+ci comp 10.5
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci batt 12
+ci cool 18 Quarts
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.85 x 14
+ci sloc Trunk
+cls 6815, 256398(\w)([\dX]{6})
+clv 26472, 1968, Pontiac, Executive, Hardtop
+ci axle Semifloating
+ci msrp $3416.00
+ci origin United States
+ci series Executive
+ci prod 7848
+ci year 1968
+ci make Pontiac
+ci maker Fisher
+ci doors 4
+ci model 25639
+ci weight 4077
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 26.5
+ci trans 5
+ci rdiff 4.5
+ci oil 6
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 124
+ci height 55.6
+ci length 223.5
+ci width 79.8
+ci rtred 64
+ci ftred 63
+ci b&s 4.12 & 3 3/4
+ci mbear 5
+ci comp 10.5
+ci rhp 54.3
+ci cyl 8
+ci trq 428@2500
+ci bhp 290@4600
+ci englo On pad at front of right side of block.
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype V8, overhead valve
+ci etype Synchro-mesh
+ci disp 400
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci batt 12
+ci cool 18 Quarts
+ci rad Tube and center
+ci ftype Regular
+ci exha Single
+ci cool Water pump
+ci equip Power antenna
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 6816, 256878(\w)([\dX]{6})
+clv 26473, 1968, Pontiac, Executive, Hardtop Coupe
+ci axle Semifloating
+ci msrp $3348.00
+ci origin United States
+ci series Executive
+ci prod 5880
+ci year 1968
+ci make Pontiac
+ci weight 3975
+ci maker Fisher
+ci model 25687
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 5
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 6
+ci fuel 26.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 64
+ci width 79.8
+ci length 223.5
+ci ftred 63
+ci height 55.6
+ci wbase 124
+ci comp 10.5
+ci rhp 54.3
+ci trq 428@2500
+ci englo On pad at front of right side of block.
+ci cyl 8
+ci disp 400
+ci b&s 4.12 & 3 3/4
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Synchro-mesh
+ci etype Dual downdraft
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci bhp 290@4600
+ci mbear 5
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool 18 Quarts
+ci batt 12
+ci rad Tube and center
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power antenna
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 6817, 256358(\w)([\dX]{6})
+clv 26474, 1968, Pontiac, Executive, Safari - 2 seat
+ci axle Semifloating
+ci msrp $3720.00
+ci origin United States
+ci series Executive
+ci prod 6195
+ci year 1968
+ci make Pontiac
+ci pass 6
+ci doors 4
+ci weight 4378
+ci maker Fisher
+ci model 25635
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 11
+ci rdiff 4.5
+ci fuel 26.5
+ci oil 6
+ci tcase -NA-
+ci trans 5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci width 79.8
+ci length 223.5
+ci rtred 64
+ci height 55.6
+ci ftred 63
+ci wbase 124
+ci comp 10.5
+ci bhp 290@4600
+ci rhp 54.3
+ci mbear 5
+ci cyl 8
+ci trq 428@2500
+ci b&s 4.12 & 3 3/4
+ci englo On pad at front of right side of block.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci disp 400
+ci etype Synchro-mesh
+ci etype V8, overhead valve
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool 18 Quarts
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci cool Water pump
+ci equip Power antenna
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 6818, 256458(\w)([\dX]{6})
+clv 26475, 1968, Pontiac, Executive, Safari - 3 seat
+ci axle Semifloating
+ci msrp $3866.00
+ci origin United States
+ci series Executive
+ci prod 5843
+ci year 1968
+ci make Pontiac
+ci doors 4
+ci model 25645
+ci pass 9
+ci weight 4453
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci trans 5
+ci oil 6
+ci tcase -NA-
+ci fuel 26.5
+ci rdiff 4.5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 223.5
+ci rtred 64
+ci ftred 63
+ci height 55.6
+ci width 79.8
+ci wbase 124
+ci rhp 54.3
+ci mbear 5
+ci trq 428@2500
+ci cyl 8
+ci comp 10.5
+ci disp 400
+ci b&s 4.12 & 3 3/4
+ci englo On pad at front of right side of block.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci etype Synchro-mesh
+ci bhp 290@4600
+ci etype V8, overhead valve
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool 18 Quarts
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci cool Water pump
+ci equip Power antenna
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.85 x 14
+ci sloc Trunk
+cls 6819, 256698(\w)([\dX]{6})
+clv 26476, 1968, Pontiac, Executive, Sedan
+ci axle Semifloating
+ci msrp $3286.00
+ci origin United States
+ci series Executive
+ci prod 18869
+ci year 1968
+ci make Pontiac
+ci doors 4
+ci maker Fisher
+ci weight 4022
+ci model 25669
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic self-adjusting
+ci trans 5
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 6
+ci fuel 26.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.23
+ci width 79.8
+ci rtred 64
+ci ftred 63
+ci length 223.5
+ci wbase 124
+ci height 55.6
+ci rhp 54.3
+ci mbear 5
+ci comp 10.5
+ci trq 428@2500
+ci cyl 8
+ci disp 400
+ci b&s 4.12 & 3 3/4
+ci englo On pad at front of right side of block.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci etype Synchro-mesh
+ci bhp 290@4600
+ci etype V8, overhead valve
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool 18 Quarts
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci cool Water pump
+ci equip Power antenna
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci equip 428 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.61
+ci rev 2.33
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 8.55 x 14
+ci sloc Trunk
+cls 6820, 223678[UL]([\dX]{6})
+clv 26477, 1968, Pontiac, Firebird 350 H.O., Convertible
+ci axle Semifloating
+ci make Pontiac
+ci origin United States
+ci prod 16960
+ci year 1968
+ci series Firebird 350 H.O.
+ci pass 4
+ci maker Fisher
+ci model 22467
+ci doors 2
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 5
+ci trans 3.5
+ci tcase -NA-
+ci fuel 18.5
+ci rdiff 3
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.36
+ci height 50
+ci wbase 108
+ci rtred 60
+ci length 188.8
+ci width 72.8
+ci rhp 48
+ci mbear 5
+ci vlift Hydraulic
+ci etype Quadrajet
+ci trq 380@3200
+ci etype V8 overhead valve
+ci cyl 8
+ci b&s 3.875 & 3 3/4
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous, column-mounted, 3-speed manual
+ci bhp 320@5100
+ci comp 10.5
+ci disp 350
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci batt 12
+ci ign Distributor and coil
+ci ftype Premium
+ci rad Tube and center
+ci cool 12 Quarts
+ci exha Dual
+ci cool Water pump
+ci equip 3-speed heavy duty manual transmission
+ci equip 2-speed Turbo Hydramatic automatic transmission
+ci equip 2-speed automatic transmission
+ci equip Speed control device
+ci equip Optional Axle Ratios
+ci equip Heavy duty 4-speed manual transmission
+ci equip 4-Speed manual transmission
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 1gear 2.42
+ci gears 3
+ci 2gear 1.58
+ci rev 2.41
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F70 x 14
+ci sloc Trunk
+cls 6821, 223378[UL]([\dX]{6})
+clv 26478, 1968, Pontiac, Firebird 350 H.O., Sport coupe
+ci axle Semifloating
+ci prod 90152
+ci year 1968
+ci make Pontiac
+ci series Firebird 350 H.O.
+ci origin United States
+ci maker Fisher
+ci pass 4
+ci model 22437
+ci doors 2
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci trans 3.5
+ci oil 5
+ci tcase -NA-
+ci rdiff 3
+ci fuel 18.5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.36
+ci diff Hypoid
+ci rtred 60
+ci length 188.8
+ci width 72.8
+ci wbase 108
+ci height 50
+ci disp 350
+ci vlift Hydraulic
+ci b&s 3.875 & 3 3/4
+ci mbear 5
+ci bhp 320@5100
+ci cyl 8
+ci comp 10.5
+ci trq 380@3200
+ci etype Quadrajet
+ci etype Fully synchronous, column-mounted, 3-speed manual
+ci etype V8 overhead valve
+ci rhp 48
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci exha Dual
+ci ign Distributor and coil
+ci ftype Premium
+ci batt 12
+ci cool 12 Quarts
+ci rad Tube and center
+ci cool Water pump
+ci equip 2-speed automatic transmission
+ci equip Speed control device
+ci equip 3-speed heavy duty manual transmission
+ci equip Radio
+ci equip Optional Axle Ratios
+ci equip 4-Speed manual transmission
+ci equip Power steering
+ci equip Power windows
+ci equip Heavy duty 4-speed manual transmission
+ci equip 2-speed Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.41
+ci gears 3
+ci 2gear 1.58
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F70 x 14
+cls 6822, 223678[UL]([\dX]{6})
+clv 26479, 1968, Pontiac, Firebird 350, Convertible
+ci axle Semifloating
+ci origin United States
+ci year 1968
+ci series Firebird 350
+ci prod 16960
+ci make Pontiac
+ci pass 4
+ci model 22467
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci fuel 18.5
+ci trans 3.5
+ci oil 5
+ci rdiff 3
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.36
+ci length 188.8
+ci wbase 108
+ci width 72.8
+ci rtred 60
+ci height 50
+ci comp 9.2
+ci mbear 5
+ci rhp 48
+ci cyl 8
+ci trq 355@2800
+ci disp 350
+ci etype V8 overhead valve
+ci bhp 265@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual Downdraft
+ci b&s 3.875 & 3 3/4
+ci etype Fully synchronous, column-mounted, 3-speed manual
+ci vlift Hydraulic
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci batt 12
+ci ftype Regular
+ci rad Tube and center
+ci cool 12 Quarts
+ci cool Water pump
+ci equip Air conditioning
+ci equip 2-speed automatic transmission
+ci equip Optional Axle Ratios
+ci equip 4-Speed manual transmission
+ci equip Power steering
+ci equip Radio
+ci equip Speed control device
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.63
+ci 2gear 1.5
+ci 1gear 2.54
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize F70 x 14
+ci sloc Trunk
+cls 6823, 223378[UL]([\dX]{6})
+clv 26480, 1968, Pontiac, Firebird 350, Sport coupe
+ci axle Semifloating
+ci series Firebird 350
+ci make Pontiac
+ci origin United States
+ci year 1968
+ci prod 90152
+ci model 22437
+ci pass 4
+ci maker Fisher
+ci doors 2
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci fuel 18.5
+ci trans 3.5
+ci oil 5
+ci rdiff 3
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.36
+ci length 188.8
+ci wbase 108
+ci width 72.8
+ci rtred 60
+ci height 50
+ci comp 9.2
+ci mbear 5
+ci cyl 8
+ci b&s 3.875 & 3 3/4
+ci bhp 265@4600
+ci etype V8 overhead valve
+ci disp 350
+ci etype Fully synchronous, column-mounted, 3-speed manual
+ci vlift Hydraulic
+ci etype Dual Downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 355@2800
+ci rhp 48
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci exha Dual
+ci batt 12
+ci cool 12 Quarts
+ci ftype Regular
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Air conditioning
+ci equip 2-speed automatic transmission
+ci equip Optional Axle Ratios
+ci equip 4-Speed manual transmission
+ci equip Power steering
+ci equip Radio
+ci equip Speed control device
+ci equip Power windows
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.63
+ci 2gear 1.5
+ci 1gear 2.54
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize F70 x 14
+ci sloc Trunk
+cls 6824, 223678[UL]([\dX]{6})
+clv 26481, 1968, Pontiac, Firebird 400 H.O., Convertible
+ci axle Semifloating
+ci year 1968
+ci prod 16960
+ci series Firebird 400 H.O.
+ci make Pontiac
+ci origin United States
+ci maker Fisher
+ci pass 4
+ci doors 2
+ci model 22667
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 5
+ci fuel 18.5
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 3
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.36
+ci diff Hypoid
+ci length 188.8
+ci width 72.8
+ci rtred 60
+ci wbase 108
+ci height 50
+ci bhp 335@5000
+ci mbear 5
+ci trq 430@3400
+ci cyl 8
+ci disp 400
+ci b&s 4.12 & 3 3/4
+ci etype Fully synchronous, heavy duty 3-spd manual w/ Hurst floor shifter
+ci vlift Hydraulic
+ci etype Quadrajet
+ci comp 10.75
+ci etype V8, overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 54.3
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci cool Water pump
+ci ftype Premium
+ci batt 12
+ci cool 12 Quarts
+ci rad Tube and center
+ci equip Radio
+ci equip Optional Axle Ratios
+ci equip Speed control device
+ci equip 3-speed heavy duty Turbo Hydramatic transmission
+ci equip Power windows
+ci equip Air conditioning
+ci equip Heavy duty 4-speed manual transmission
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.41
+ci gears 3
+ci 2gear 1.58
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F70 x 14
+cls 6825, 223378[UL]([\dX]{6})
+clv 26482, 1968, Pontiac, Firebird 400 H.O., Sport Coupe
+ci axle Semifloating
+ci prod 90152
+ci make Pontiac
+ci series Firebird 400 H.O.
+ci origin United States
+ci year 1968
+ci maker Fisher
+ci model 22637
+ci doors 2
+ci pass 4
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 18.5
+ci rdiff 3
+ci trans 3.5
+ci oil 5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.36
+ci diff Hypoid
+ci width 72.8
+ci length 188.8
+ci wbase 108
+ci height 50
+ci rtred 60
+ci comp 10.75
+ci trq 430@3400
+ci cyl 8
+ci b&s 4.12 & 3 3/4
+ci rhp 54.3
+ci disp 400
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 335@5000
+ci etype Quadrajet
+ci vlift Hydraulic
+ci etype V8, overhead valve
+ci etype Fully synchronous, heavy duty 3-spd manual w/ Hurst floor shifter
+ci mbear 5
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool 12 Quarts
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci ftype Premium
+ci cool Water pump
+ci exha Dual
+ci equip Radio
+ci equip Optional Axle Ratios
+ci equip Speed control device
+ci equip Power steering
+ci equip Power windows
+ci equip 3-speed heavy duty Turbo Hydramatic transmission
+ci equip Air conditioning
+ci equip Heavy duty 4-speed manual transmission
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci 2gear 1.58
+ci 1gear 2.42
+ci gears 3
+ci 5gear Not applicable
+ci rev 2.41
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F70 x 14
+ci sloc Trunk
+cls 6826, 223678[UL]([\dX]{6})
+clv 26483, 1968, Pontiac, Firebird 400 Ram Air, Convertible
+ci axle Semifloating
+ci prod 16960
+ci origin United States
+ci year 1968
+ci series Firebird 400 Ram Air
+ci make Pontiac
+ci maker Fisher
+ci doors 2
+ci model 22667
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting drum
+ci bsize 9.5
+ci oil 5
+ci fuel 18.5
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 3
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.90
+ci diff Hypoid
+ci length 188.8
+ci width 72.8
+ci rtred 60
+ci wbase 108
+ci height 50
+ci bhp 335@5300
+ci rhp 54.3
+ci trq 430@3600
+ci disp 400
+ci cyl 8
+ci b&s 4.12 & 3 3/4
+ci mbear 5
+ci etype V8, overhead valve
+ci etype Quadrajet
+ci etype Fully synchronous, heavy duty 4-spd manual w/ Hurst floor shifter
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.75
+ci vlift Hydraulic
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool Water pump
+ci exha Dual
+ci ign Distributor and coil
+ci batt 12
+ci cool 12 Quarts
+ci rad Tube and center
+ci ftype Premium
+ci equip Speed control device
+ci equip 3-speed heavy duty Turbo Hydramatic transmission
+ci equip Optional Axle Ratios
+ci equip Heavy duty 4-speed manual transmission
+ci equip Air conditioning
+ci equip Power windows
+ci equip Radio
+ci equip Power steering
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 4gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1.46
+ci 1gear 2.52
+ci rev 2.59
+ci 2gear 1.88
+ci gears 4
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F70 x 14
+ci sloc Trunk
+cls 6827, 223378[UL]([\dX]{6})
+clv 26484, 1968, Pontiac, Firebird 400 Ram Air, Sport Coupe
+ci axle Semifloating
+ci origin United States
+ci prod 90152
+ci year 1968
+ci make Pontiac
+ci series Firebird 400 Ram Air
+ci doors 2
+ci maker Fisher
+ci model 22637
+ci bsize 9.5
+ci svc Hydraulic self-adjusting drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 3.5
+ci oil 5
+ci fuel 18.5
+ci rdiff 3
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 3.90
+ci rtred 60
+ci wbase 108
+ci width 72.8
+ci length 188.8
+ci height 50
+ci disp 400
+ci mbear 5
+ci rhp 54.3
+ci cyl 8
+ci b&s 4.12 & 3 3/4
+ci etype V8, overhead valve
+ci comp 10.75
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Fully synchronous, heavy duty 4-spd manual w/ Hurst floor shifter
+ci etype Quadrajet
+ci bhp 335@5300
+ci trq 430@3600
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci rad Tube and center
+ci ftype Premium
+ci ign Distributor and coil
+ci cool 12 Quarts
+ci batt 12
+ci cool Water pump
+ci exha Dual
+ci equip Radio
+ci equip Speed control device
+ci equip Optional Axle Ratios
+ci equip Air conditioning
+ci equip Power steering
+ci equip Heavy duty 4-speed manual transmission
+ci equip 3-speed heavy duty Turbo Hydramatic transmission
+ci equip Power windows
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 1gear 2.52
+ci gears 4
+ci 3gear 1.46
+ci rev 2.59
+ci 4gear 1
+ci 2gear 1.88
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F70 x 14
+ci sloc Trunk
+cls 6828, 223678[UL]([\dX]{6})
+clv 26485, 1968, Pontiac, Firebird 400 Ram Air II, Convertible
+ci axle Semifloating
+ci prod 16960
+ci origin United States
+ci year 1968
+ci series Firebird 400 Ram Air II
+ci make Pontiac
+ci maker Fisher
+ci doors 2
+ci model 22667
+ci ebrake Rear service brakes
+ci svc Hydraulic, self-adjusting drum
+ci bsize 9.5
+ci oil 5
+ci fuel 18.5
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 3
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.90
+ci diff Hypoid
+ci length 188.8
+ci width 72.8
+ci rtred 60
+ci wbase 108
+ci height 50
+ci bhp 340@5300
+ci rhp 54.3
+ci trq 430@3600
+ci disp 400
+ci cyl 8
+ci b&s 4.12 & 3 3/4
+ci mbear 5
+ci etype V8, overhead valve
+ci etype Quadrajet
+ci etype Fully synchronous, heavy duty 4-spd manual w/ Hurst floor shifter
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.75
+ci vlift Hydraulic
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool Water pump
+ci ign Distributor and coil
+ci ftype Premium
+ci exha Dual
+ci batt 12
+ci cool 12 Quarts
+ci rad Tube and center
+ci equip Radio
+ci equip Optional Axle Ratios
+ci equip Speed control device
+ci equip 3-speed heavy duty Turbo Hydramatic transmission
+ci equip Power windows
+ci equip Air conditioning
+ci equip Power steering
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 4gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1.46
+ci 1gear 2.52
+ci rev 2.59
+ci 2gear 1.88
+ci gears 4
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize F70 x 14
+ci sloc Trunk
+cls 6829, 223378[UL]([\dX]{6})
+clv 26486, 1968, Pontiac, Firebird 400 Ram Air II, Sport Coupe
+ci axle Semifloating
+ci year 1968
+ci origin United States
+ci make Pontiac
+ci prod 90152
+ci series Firebird 400 Ram Air II
+ci model 22637
+ci doors 2
+ci maker Fisher
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic, self-adjusting drum
+ci fuel 18.5
+ci trans 3.5
+ci oil 5
+ci rdiff 3
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.90
+ci diff Hypoid
+ci width 72.8
+ci length 188.8
+ci height 50
+ci wbase 108
+ci rtred 60
+ci rhp 54.3
+ci mbear 5
+ci disp 400
+ci cyl 8
+ci b&s 4.12 & 3 3/4
+ci comp 10.75
+ci vlift Hydraulic
+ci etype V8, overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous, heavy duty 4-spd manual w/ Hurst floor shifter
+ci etype Quadrajet
+ci bhp 340@5300
+ci trq 430@3600
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool 12 Quarts
+ci rad Tube and center
+ci exha Dual
+ci batt 12
+ci ftype Premium
+ci cool Water pump
+ci ign Distributor and coil
+ci equip Radio
+ci equip Optional Axle Ratios
+ci equip Speed control device
+ci equip Power steering
+ci equip Power windows
+ci equip 3-speed heavy duty Turbo Hydramatic transmission
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 4gear 1
+ci 1gear 2.52
+ci gears 4
+ci 3gear 1.46
+ci rev 2.59
+ci 5gear Not applicable
+ci 2gear 1.88
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize F70 x 14
+ci sloc Trunk
+cls 6830, 223678[UL]([\dX]{6})
+clv 26487, 1968, Pontiac, Firebird 400, Convertible
+ci axle Semifloating
+ci year 1968
+ci prod 16960
+ci series Firebird 400
+ci make Pontiac
+ci origin United States
+ci maker Fisher
+ci pass 4
+ci doors 2
+ci model 22667
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 5
+ci fuel 18.5
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 3
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.36
+ci diff Hypoid
+ci length 188.8
+ci width 72.8
+ci rtred 60
+ci wbase 108
+ci height 50
+ci bhp 330@4800
+ci mbear 5
+ci trq 430@3300
+ci cyl 8
+ci disp 400
+ci b&s 4.12 & 3 3/4
+ci etype Fully synchronous, heavy duty 3-spd manual w/ Hurst floor shifter
+ci vlift Hydraulic
+ci etype Quadrajet
+ci comp 10.75
+ci etype V8, overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 54.3
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci cool Water pump
+ci ftype Premium
+ci batt 12
+ci cool 12 Quarts
+ci rad Tube and center
+ci equip Radio
+ci equip Optional Axle Ratios
+ci equip Speed control device
+ci equip 3-speed heavy duty Turbo Hydramatic transmission
+ci equip Power windows
+ci equip Air conditioning
+ci equip Heavy duty 4-speed manual transmission
+ci equip Power steering
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci rev 2.41
+ci gears 3
+ci 2gear 1.58
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F70 x 14
+cls 6831, 223378[UL]([\dX]{6})
+clv 26488, 1968, Pontiac, Firebird 400, Sport Coupe
+ci axle Semifloating
+ci prod 90152
+ci make Pontiac
+ci series Firebird 400
+ci origin United States
+ci year 1968
+ci maker Fisher
+ci model 22637
+ci doors 2
+ci pass 4
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 18.5
+ci rdiff 3
+ci trans 3.5
+ci oil 5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.36
+ci diff Hypoid
+ci width 72.8
+ci length 188.8
+ci wbase 108
+ci height 50
+ci rtred 60
+ci comp 10.75
+ci trq 430@3300
+ci cyl 8
+ci b&s 4.12 & 3 3/4
+ci rhp 54.3
+ci disp 400
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 330@4800
+ci etype Quadrajet
+ci vlift Hydraulic
+ci etype V8, overhead valve
+ci etype Fully synchronous, heavy duty 3-spd manual w/ Hurst floor shifter
+ci mbear 5
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci cool 12 Quarts
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci ftype Premium
+ci cool Water pump
+ci exha Dual
+ci equip Radio
+ci equip Optional Axle Ratios
+ci equip Speed control device
+ci equip Power steering
+ci equip Power windows
+ci equip 3-speed heavy duty Turbo Hydramatic transmission
+ci equip Air conditioning
+ci equip Heavy duty 4-speed manual transmission
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci 2gear 1.58
+ci 1gear 2.42
+ci gears 3
+ci 5gear Not applicable
+ci rev 2.41
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F70 x 14
+ci sloc Trunk
+cls 6832, 223678[UL]([\dX]{6})
+clv 26489, 1968, Pontiac, Firebird, Convertible
+ci axle Semifloating
+ci prod 16960
+ci make Pontiac
+ci origin United States
+ci year 1968
+ci msrp $2996.00
+ci series Firebird
+ci weight 3346
+ci model 22367
+ci pass 4
+ci doors 2
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 18.5
+ci trans 3.5
+ci rdiff 3
+ci oil 5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 inches
+ci diffr 3.55
+ci diff Hypoid
+ci height 50
+ci rtred 60
+ci width 72.8
+ci wbase 108
+ci length 188.8
+ci etype Inline 6, OHC
+ci b&s 3.875 & 3.53
+ci cyl 6
+ci disp 250
+ci etype Single downdraft
+ci comp 9.0
+ci bhp 175@4800
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Fully synchronous, column-mounted, 3-speed manual
+ci rhp 36
+ci trq 240@2600
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool 12 Quarts
+ci ftype Regular
+ci cool Water pump
+ci equip 4-Speed manual transmission
+ci equip Speed control device
+ci equip Automatic transmission
+ci equip Air conditioning
+ci equip Optional Axle Ratios
+ci equip 2-speed Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip 440 cu. in. V8 engine
+ci equip 2-speed automatic transmission
+ci equip Radio
+ci equip Power windows
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.85
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.95
+ci 2gear 1.68
+ci 3gear 1
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E70 x 14
+cls 6833, 223378[UL]([\dX]{6})
+clv 26490, 1968, Pontiac, Firebird, Sport Coupe
+ci axle Semifloating
+ci make Pontiac
+ci prod 90152
+ci origin United States
+ci series Firebird
+ci msrp $2758.00
+ci year 1968
+ci weight 3061
+ci model 22337
+ci pass 4
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci fuel 18.5
+ci rdiff 3
+ci oil 5
+ci trans 3.5
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single dry plate
+ci diffr 3.55
+ci diff Hypoid
+ci length 188.8
+ci width 72.8
+ci rtred 60
+ci wbase 108
+ci height 50
+ci cyl 6
+ci trq 240@2600
+ci etype Inline 6, OHC
+ci bhp 175@4800
+ci comp 9.0
+ci rhp 36
+ci b&s 3.875 & 3.53
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Fully synchronous, column-mounted, 3-speed manual
+ci etype Single downdraft
+ci disp 250
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool 12 Quarts
+ci ftype Regular
+ci cool Water pump
+ci equip 4-Speed manual transmission
+ci equip Speed control device
+ci equip Automatic transmission
+ci equip Air conditioning
+ci equip Optional Axle Ratios
+ci equip 2-speed Turbo Hydramatic automatic transmission
+ci equip Power brakes
+ci equip Power steering
+ci equip 440 cu. in. V8 engine
+ci equip 2-speed automatic transmission
+ci equip Radio
+ci equip Power windows
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.85
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.95
+ci 2gear 1.68
+ci 3gear 1
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E70 x 14
+cls 6834, 223678[UL]([\dX]{6})
+clv 26491, 1968, Pontiac, Firebird Sprint, Convertible
+ci axle Semifloating
+ci make Pontiac
+ci prod 16960
+ci origin United States
+ci year 1968
+ci series Firebird Sprint
+ci maker Fisher
+ci doors 2
+ci model 22567
+ci pass 4
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 18.5
+ci oil 5
+ci trans 3.5
+ci rdiff 3
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 inches
+ci diffr 3.55
+ci diff Hypoid
+ci length 188.8
+ci wbase 108
+ci rtred 60
+ci height 50
+ci width 72.8
+ci etype Quadrajet
+ci trq 255@3800
+ci cyl 6
+ci rhp 36
+ci b&s 3.875 & 3.53
+ci etype Inline 6, OHC
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci comp 10.5
+ci bhp 215@5200
+ci etype Fully synchronous, 3-speed manual w/ Hurst floor shifter
+ci disp 250
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci ftype Premium
+ci cool 12 Quarts
+ci rad Tube and center
+ci batt 12
+ci cool Water pump
+ci equip Power windows
+ci equip 2-speed Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Optional Axle Ratios
+ci equip Radio
+ci equip Power steering
+ci equip 4-Speed manual transmission
+ci equip 2-speed automatic transmission
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 2.95
+ci 1gear 2.85
+ci 2gear 1.68
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F70 x 14
+ci sloc Trunk
+cls 6835, 223378[UL]([\dX]{6})
+clv 26492, 1968, Pontiac, Firebird Sprint, Sport Coupe
+ci axle Semifloating
+ci series Firebird Sprint
+ci year 1968
+ci origin United States
+ci prod 90152
+ci make Pontiac
+ci model 22537
+ci maker Fisher
+ci doors 2
+ci pass 4
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 18.5
+ci rdiff 3
+ci trans 3.5
+ci tcase -NA-
+ci oil 5
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.55
+ci rtred 60
+ci wbase 108
+ci length 188.8
+ci height 50
+ci width 72.8
+ci b&s 3.875 & 3.53
+ci cyl 6
+ci rhp 36
+ci etype Quadrajet
+ci trq 255@3800
+ci etype Inline 6, OHC
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci vlift Hydraulic
+ci etype Fully synchronous, 3-speed manual w/ Hurst floor shifter
+ci bhp 215@5200
+ci disp 250
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci exha Dual
+ci cool 12 Quarts
+ci rad Tube and center
+ci batt 12
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Water pump
+ci equip Power windows
+ci equip 2-speed Turbo Hydramatic automatic transmission
+ci equip Speed control device
+ci equip Optional Axle Ratios
+ci equip Radio
+ci equip Power steering
+ci equip 4-Speed manual transmission
+ci equip 2-speed automatic transmission
+ci equip Air conditioning
+ci sgear Recirculating ball
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci rev 2.95
+ci 1gear 2.85
+ci 2gear 1.68
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F70 x 14
+ci sloc Trunk
+cls 6836, 266578(\w)([\dX]{6})
+clv 26493, 1968, Pontiac, Grand Prix, Hardtop Coupe
+ci axle Semifloating
+ci year 1968
+ci origin United States
+ci make Pontiac
+ci prod 31711
+ci msrp $3674.00
+ci series Grand Prix
+ci model 26657
+ci weight 4075
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 11
+ci fuel 26.5
+ci trans Pints
+ci rdiff 4.5
+ci tcase -NA-
+ci oil 6
+ci carb Rochester
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 121
+ci length 216.3
+ci rtred 64
+ci ftred 62
+ci height 54.6
+ci width 79.8
+ci trq 445@3000
+ci mbear 5
+ci rhp 54.3
+ci cyl 8
+ci etype V8, overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci comp 10.75
+ci etype Downdraft 4-barrel
+ci b&s 4.12 & 3 3/4
+ci vlift Hydraulic
+ci etype Synchro-mesh
+ci disp 400
+ci bhp 350@5000
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci exha Dual
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci cool 18.5 Quarts
+ci ftype Premium
+ci cool Water pump
+ci equip 428 cu. in. V8 engine
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power vent windows
+ci equip Power windows
+ci equip Air conditioning
+ci equip Turbo Hydramatic automatic transmission
+ci equip Radio
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci rev 2.33
+ci 2gear 1.61
+ci 1gear 2.42
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 8.55 x 14
+cls 6837, 242678(\w)([\dX]{6})
+clv 26494, 1968, Pontiac, GTO 400 HO, Convertible
+ci axle Semifloating
+ci make Pontiac
+ci origin United States
+ci year 1968
+ci series GTO 400 HO
+ci prod 9980
+ci maker Fisher
+ci model 24237
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic, self-adjusting drums
+ci trans 2.75
+ci tcase Not applicable
+ci fuel 21.5
+ci rdiff 3
+ci oil 6
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.55
+ci diff Hypoid
+ci length 200.7
+ci wbase 112
+ci height 52.2
+ci rtred 60
+ci width 74.8
+ci englo On pad at front of right side of block.
+ci rhp 54.3
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 445@3600
+ci disp 400
+ci comp 10.75
+ci etype Quadrajet
+ci etype Fully synchronous, 3-speed manual w/ Hurst floor-shifter
+ci bhp 360@5100
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci b&s 4.12 & 3 3/4
+ci mbear 5
+ci exha Dual
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 17.75 Quarts
+ci batt 12
+ci ftype Premium
+ci cool Water pump
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.42
+ci rev 2.33
+ci gears 3
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize G77 x 14
+ci sloc Trunk
+cls 6838, 242378(\w)([\dX]{6})
+clv 26495, 1968, Pontiac, GTO 400 HO, Hardtop Coupe
+ci axle Semifloating
+ci series GTO 400 HO
+ci year 1968
+ci prod 77704
+ci make Pontiac
+ci origin United States
+ci model 24237
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic, self-adjusting drums
+ci trans 2.75
+ci tcase Not applicable
+ci fuel 21.5
+ci rdiff 3
+ci oil 6
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.55
+ci diff Hypoid
+ci length 200.7
+ci wbase 112
+ci height 52.2
+ci rtred 60
+ci width 74.8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 54.3
+ci etype Quadrajet
+ci cyl 8
+ci trq 445@3600
+ci disp 400
+ci comp 10.75
+ci englo On pad at front of right side of block.
+ci etype Fully synchronous, 3-speed manual w/ Hurst floor-shifter
+ci bhp 360@5100
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci b&s 4.12 & 3 3/4
+ci mbear 5
+ci exha Dual
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 17.75 Quarts
+ci batt 12
+ci ftype Premium
+ci cool Water pump
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.61
+ci drive Rear wheel drive
+ci 3gear 1
+ci 1gear 2.42
+ci rev 2.33
+ci gears 3
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize G77 x 14
+ci sloc Trunk
+cls 6839, 242678(\w)([\dX]{6})
+clv 26496, 1968, Pontiac, GTO 400 Ram Air I, Convertible
+ci axle Semifloating
+ci series GTO 400 Ram Air I
+ci origin United States
+ci prod 9980
+ci year 1968
+ci make Pontiac
+ci model 24237
+ci doors 2
+ci maker Fisher
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic, self-adjusting drums
+ci rdiff 3
+ci tcase Not applicable
+ci fuel 21.5
+ci oil 6
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 4.33
+ci width 74.8
+ci rtred 60
+ci wbase 112
+ci height 52.2
+ci length 200.7
+ci b&s 4.12 & 3 3/4
+ci trq 445@3800
+ci disp 400
+ci cyl 8
+ci rhp 54.3
+ci bhp 360@5400
+ci etype Quadrajet
+ci englo On pad at front of right side of block.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous,  4-speed manual w/ Hurst floor-shifter
+ci comp 10.75
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci mbear 5
+ci exha Dual
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 17.75 Quarts
+ci batt 12
+ci ftype Premium
+ci cool Water pump
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 4gear 1
+ci drive Rear wheel drive
+ci 3gear 1.46
+ci 1gear 2.52
+ci rev 2.59
+ci 2gear 1.88
+ci gears 4
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize G77 x 14
+ci sloc Trunk
+cls 6840, 242378(\w)([\dX]{6})
+clv 26497, 1968, Pontiac, GTO 400 Ram Air I, Hardtop Coupe
+ci axle Semifloating
+ci origin United States
+ci series GTO 400 Ram Air I
+ci make Pontiac
+ci year 1968
+ci prod 77704
+ci maker Fisher
+ci doors 2
+ci model 24237
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic, self-adjusting drums
+ci rdiff 3
+ci oil 6
+ci tcase Not applicable
+ci fuel 21.5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 4.33
+ci diff Hypoid
+ci width 74.8
+ci wbase 112
+ci length 200.7
+ci rtred 60
+ci height 52.2
+ci rhp 54.3
+ci trq 445@3800
+ci disp 400
+ci comp 10.75
+ci cyl 8
+ci b&s 4.12 & 3 3/4
+ci etype Quadrajet
+ci bhp 360@5400
+ci englo On pad at front of right side of block.
+ci etype Fully synchronous,  4-speed manual w/ Hurst floor-shifter
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci mbear 5
+ci exha Dual
+ci ign Distributor and coil
+ci ftype Premium
+ci rad Tube and center
+ci batt 12
+ci cool 17.75 Quarts
+ci cool Water pump
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 4gear 1
+ci drive Rear wheel drive
+ci 3gear 1.46
+ci 1gear 2.52
+ci rev 2.59
+ci 2gear 1.88
+ci gears 4
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize G77 x 14
+ci sloc Trunk
+cls 6841, 242678(\w)([\dX]{6})
+clv 26498, 1968, Pontiac, GTO 400 Ram Air II, Convertible
+ci axle Semifloating
+ci series GTO 400 Ram Air II
+ci origin United States
+ci prod 9980
+ci year 1968
+ci make Pontiac
+ci model 24237
+ci doors 2
+ci maker Fisher
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic, self-adjusting drums
+ci rdiff 3
+ci tcase Not applicable
+ci fuel 21.5
+ci oil 6
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diff Hypoid
+ci diffr 4.33
+ci width 74.8
+ci rtred 60
+ci wbase 112
+ci height 52.2
+ci length 200.7
+ci b&s 4.12 & 3 3/4
+ci trq 445@3900
+ci disp 400
+ci cyl 8
+ci rhp 54.3
+ci bhp 370@5500
+ci etype Quadrajet
+ci englo On pad at front of right side of block.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous,  4-speed manual w/ Hurst floor-shifter
+ci comp 10.75
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci mbear 5
+ci exha Dual
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 17.75 Quarts
+ci batt 12
+ci ftype Premium
+ci cool Water pump
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 4gear 1
+ci drive Rear wheel drive
+ci 3gear 1.46
+ci 1gear 2.52
+ci rev 2.59
+ci 2gear 1.88
+ci gears 4
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize G77 x 14
+ci sloc Trunk
+cls 6842, 242378(\w)([\dX]{6})
+clv 26499, 1968, Pontiac, GTO 400 Ram Air II, Hardtop Coupe
+ci axle Semifloating
+ci origin United States
+ci series GTO 400 Ram Air II
+ci make Pontiac
+ci year 1968
+ci prod 77704
+ci maker Fisher
+ci doors 2
+ci model 24237
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Hydraulic, self-adjusting drums
+ci rdiff 3
+ci oil 6
+ci tcase Not applicable
+ci fuel 21.5
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 4.33
+ci diff Hypoid
+ci width 74.8
+ci wbase 112
+ci length 200.7
+ci rtred 60
+ci height 52.2
+ci rhp 54.3
+ci trq 445@3900
+ci disp 400
+ci comp 10.75
+ci cyl 8
+ci b&s 4.12 & 3 3/4
+ci etype Quadrajet
+ci bhp 370@5500
+ci englo On pad at front of right side of block.
+ci etype Fully synchronous,  4-speed manual w/ Hurst floor-shifter
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8, overhead valve
+ci vlift Hydraulic
+ci mbear 5
+ci exha Dual
+ci ign Distributor and coil
+ci ftype Premium
+ci rad Tube and center
+ci batt 12
+ci cool 17.75 Quarts
+ci cool Water pump
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 4gear 1
+ci drive Rear wheel drive
+ci 3gear 1.46
+ci 1gear 2.52
+ci rev 2.59
+ci 2gear 1.88
+ci gears 4
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize G77 x 14
+ci sloc Trunk
+cls 6843, 242678(\w)([\dX]{6})
+clv 26500, 1968, Pontiac, GTO 400, Convertible
+ci axle Semifloating
+ci year 1968
+ci origin United States
+ci series GTO 400
+ci make Pontiac
+ci msrp $3327.00
+ci prod 9980
+ci model 24237
+ci weight 3590
+ci maker Fisher
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 6
+ci fuel 21.5
+ci trans 2.75
+ci tcase -NA-
+ci rdiff 3
+ci carb Rochester
+ci csize 10 13/32 inches
+ci ctype Single dry plate
+ci diffr 3.55
+ci diff Hypoid
+ci wbase 112
+ci width 74.8
+ci height 52.2
+ci length 200.7
+ci rtred 60
+ci rhp 54.3
+ci mbear 5
+ci cyl 8
+ci trq 445@3000
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.75
+ci englo On pad at front of right side of block.
+ci vlift Hydraulic
+ci b&s 4.12 & 3 3/4
+ci bhp 350@5000
+ci etype Fully synchronous, 3-speed manual w/ Hurst floor-shifter
+ci etype Quadrajet
+ci etype V8, overhead valve
+ci disp 400
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci exha Dual
+ci cool Water pump
+ci ftype Premium
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci cool 17.75 Quarts
+ci equip Power antenna
+ci equip Speed control device
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci rev 2.33
+ci drive Rear wheel drive
+ci 2gear 1.61
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize G77 x 14
+cls 6844, 242378(\w)([\dX]{6})
+clv 26501, 1968, Pontiac, GTO 400, Hardtop Coupe
+ci axle Semifloating
+ci year 1968
+ci origin United States
+ci series GTO 400
+ci make Pontiac
+ci msrp $3078.00
+ci prod 77704
+ci model 24237
+ci weight 3506
+ci maker Fisher
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 6
+ci fuel 21.5
+ci trans 2.75
+ci rdiff 3
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 13/32 inches
+ci diffr 3.55
+ci diff Hypoid
+ci width 74.8
+ci wbase 112
+ci height 52.2
+ci length 200.7
+ci rtred 60
+ci rhp 54.3
+ci mbear 5
+ci trq 445@3000
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.75
+ci englo On pad at front of right side of block.
+ci vlift Hydraulic
+ci b&s 4.12 & 3 3/4
+ci bhp 350@5000
+ci etype Fully synchronous, 3-speed manual w/ Hurst floor-shifter
+ci etype Quadrajet
+ci etype V8, overhead valve
+ci disp 400
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci exha Dual
+ci cool Water pump
+ci ftype Premium
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci cool 17.75 Quarts
+ci equip Power antenna
+ci equip Speed control device
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Radio
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci rev 2.33
+ci drive Rear wheel drive
+ci 2gear 1.61
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.42
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize G77 x 14
+cls 6845, 242678(\w)([\dX]{6})
+clv 26502, 1968, Pontiac, GTO 400, Convertible
+ci axle Semifloating
+ci make Pontiac
+ci prod 9980
+ci origin United States
+ci year 1968
+ci series GTO 400
+ci maker Fisher
+ci doors 2
+ci model 24237
+ci svc Hydraulic, self-adjusting drums
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 3
+ci tcase Not applicable
+ci fuel 21.5
+ci oil 6
+ci carb Rochester
+ci diffr 2.93
+ci diff Hypoid
+ci rtred 60
+ci wbase 112
+ci width 74.8
+ci length 200.7
+ci height 52.2
+ci etype Turbo Hydra-matic
+ci trq 397@2400
+ci comp 8.6
+ci b&s 4.12 & 3 3/4
+ci etype Dual downdraft
+ci bhp 265@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci vlift Hydraulic
+ci disp 400
+ci rhp 54.3
+ci etype V8, overhead valve
+ci mbear 5
+ci englo On pad at front of right side of block.
+ci ign Distributor and coil
+ci cool Water pump
+ci ftype Premium
+ci batt 12
+ci rad Tube and center
+ci cool 17.75 Quarts
+ci exha Dual
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize G77 x 14
+ci sloc Trunk
+cls 6846, 242378(\w)([\dX]{6})
+clv 26503, 1968, Pontiac, GTO 400, Hardtop Coupe
+ci axle Semifloating
+ci make Pontiac
+ci prod 77704
+ci origin United States
+ci year 1968
+ci series GTO 400
+ci maker Fisher
+ci doors 2
+ci model 24237
+ci svc Hydraulic, self-adjusting drums
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 3
+ci tcase Not applicable
+ci fuel 21.5
+ci oil 6
+ci carb Rochester
+ci diffr 2.93
+ci diff Hypoid
+ci rtred 60
+ci wbase 112
+ci width 74.8
+ci length 200.7
+ci height 52.2
+ci etype Turbo Hydra-matic
+ci trq 397@2400
+ci cyl 8
+ci comp 8.6
+ci etype Dual downdraft
+ci bhp 265@4600
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4.12 & 3 3/4
+ci vlift Hydraulic
+ci disp 400
+ci rhp 54.3
+ci etype V8, overhead valve
+ci mbear 5
+ci englo On pad at front of right side of block.
+ci ign Distributor and coil
+ci cool Water pump
+ci ftype Premium
+ci batt 12
+ci rad Tube and center
+ci cool 17.75 Quarts
+ci exha Dual
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize G77 x 14
+ci sloc Trunk
+cls 6847, 237678(\w)([\dX]{6})
+clv 26504, 1968, Pontiac, LeMans, Convertible
+ci axle Semifloating
+ci year 1968
+ci prod 8820
+ci origin United States
+ci msrp $3015.00
+ci series LeMans
+ci make Pontiac
+ci maker Fisher
+ci model 23767
+ci doors 2
+ci weight 3377
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci tcase -NA-
+ci fuel 21.5
+ci oil 5
+ci trans 3.5
+ci rdiff 3
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 204.7
+ci height 52.3
+ci wbase 116
+ci rtred 60
+ci width 74.8
+ci rhp 36
+ci disp 250
+ci comp 9.0
+ci trq 240@2600
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 175@4800
+ci etype Single downdraft
+ci englo Stamped on cylinder head to block contact surface behind oil filler pipe.
+ci b&s 3.875 & 3.53
+ci cyl 6
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci etype Inline 6, OHC
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci exha Single
+ci cool 12 Quarts
+ci rad Tube and center
+ci batt 12
+ci ftype Regular
+ci equip Power antenna
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip Power seats
+ci equip Radio
+ci equip Automatic transmission
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.85
+ci rev 2.95
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 6848, 237398(\w)([\dX]{6})
+clv 26505, 1968, Pontiac, LeMans, Hardtop
+ci axle Semifloating
+ci prod 9002
+ci msrp $2893.00
+ci series LeMans
+ci make Pontiac
+ci origin United States
+ci year 1968
+ci doors 4
+ci model 23739
+ci maker Fisher
+ci weight 3407
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci oil 5
+ci tcase -NA-
+ci fuel 21.5
+ci trans 3.5
+ci rdiff 3
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 60
+ci height 52.3
+ci width 74.8
+ci wbase 116
+ci length 204.7
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 9.0
+ci rhp 36
+ci bhp 175@4800
+ci etype Single downdraft
+ci cyl 6
+ci disp 250
+ci trq 240@2600
+ci b&s 3.875 & 3.53
+ci englo Stamped on cylinder head to block contact surface behind oil filler pipe.
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci etype Inline 6, OHC
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci exha Single
+ci cool 12 Quarts
+ci rad Tube and center
+ci batt 12
+ci ftype Regular
+ci equip Power antenna
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip Power seats
+ci equip Radio
+ci equip Automatic transmission
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.85
+ci rev 2.95
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 6849, 237378(\w)([\dX]{6})
+clv 26506, 1968, Pontiac, LeMans, Hardtop Coupe
+ci axle Semifloating
+ci msrp $2763.00
+ci series LeMans
+ci origin United States
+ci prod 110036
+ci year 1968
+ci make Pontiac
+ci weight 3302
+ci maker Fisher
+ci model 23737
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci fuel 21.5
+ci tcase -NA-
+ci rdiff 3
+ci trans 3.5
+ci oil 5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.23
+ci width 74.8
+ci length 204.7
+ci height 52.3
+ci rtred 60
+ci wbase 116
+ci cyl 6
+ci b&s 3.875 & 3.53
+ci comp 9.0
+ci etype Single downdraft
+ci disp 250
+ci trq 240@2600
+ci etype Inline 6, OHC
+ci englo Stamped on cylinder head to block contact surface behind oil filler pipe.
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 175@4800
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci rhp 36
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci rad Tube and center
+ci ftype Regular
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci cool 12 Quarts
+ci cool Water pump
+ci equip Power antenna
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip Automatic transmission
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 3gear 1
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.68
+ci 5gear Not applicable
+ci 1gear 2.85
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci tsize 7.75 x 14
+ci sloc Trunk
+cls 6850, 237278(\w)([\dX]{6})
+clv 26507, 1968, Pontiac, LeMans, Sports Coupe
+ci axle Semifloating
+ci year 1968
+ci prod 8439
+ci origin United States
+ci msrp $2701.00
+ci series LeMans
+ci make Pontiac
+ci maker Fisher
+ci model 23727
+ci doors 2
+ci weight 3287
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci tcase -NA-
+ci trans 3.5
+ci fuel 21.5
+ci oil 5
+ci rdiff 3
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 211
+ci height 52.3
+ci wbase 116
+ci rtred 60
+ci width 74.8
+ci rhp 36
+ci disp 250
+ci comp 9.0
+ci trq 240@2600
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 175@4800
+ci etype Single downdraft
+ci englo Stamped on cylinder head to block contact surface behind oil filler pipe.
+ci b&s 3.875 & 3.53
+ci cyl 6
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci etype Inline 6, OHC
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci exha Single
+ci cool 12 Quarts
+ci rad Tube and center
+ci batt 12
+ci ftype Regular
+ci equip Power antenna
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip Power seats
+ci equip Radio
+ci equip Automatic transmission
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.85
+ci rev 2.95
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 6851, 235678(\w)([\dX]{6})
+clv 26508, 1968, Pontiac, Tempest Custom, Convertible
+ci axle Semifloating
+ci make Pontiac
+ci series Tempest Custom
+ci msrp $2839.00
+ci year 1968
+ci origin United States
+ci prod 3518
+ci model 23567
+ci weight 3337
+ci maker Fisher
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 21.5
+ci oil 5
+ci tcase -NA-
+ci rdiff 3
+ci trans 3.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 116
+ci length 204.7
+ci height 52.5
+ci rtred 60
+ci width 74.8
+ci etype Single downdraft
+ci cyl 6
+ci comp 9.0
+ci bhp 175@4800
+ci rhp 36
+ci englo Stamped on cylinder head to block contact surface behind oil filler pipe.
+ci trq 240@2600
+ci etype Inline 6, OHC
+ci disp 250
+ci b&s 3.875 & 3.53
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci cool 12 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Automatic transmission
+ci equip Power antenna
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev 2.95
+ci 1gear 2.85
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 6852, 235398(\w)([\dX]{6})
+clv 26509, 1968, Pontiac, Tempest Custom, Hardtop
+ci axle Semifloating
+ci prod 6147
+ci series Tempest Custom
+ci origin United States
+ci year 1968
+ci msrp $2705.00
+ci make Pontiac
+ci weight 3382
+ci model 23539
+ci doors 4
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 21.5
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 3
+ci oil 5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 inches
+ci diffr 3.23
+ci diff Hypoid
+ci length 204.7
+ci height 52.5
+ci wbase 116
+ci rtred 60
+ci width 74.8
+ci b&s 3.875 & 3.53
+ci rhp 36
+ci comp 9.0
+ci cyl 6
+ci disp 250
+ci trq 240@2600
+ci etype Single downdraft
+ci etype Inline 6, OHC
+ci bhp 175@4800
+ci englo Stamped on cylinder head to block contact surface behind oil filler pipe.
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci cool 12 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Automatic transmission
+ci equip Power antenna
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev 2.95
+ci 1gear 2.85
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 6853, 235378(\w)([\dX]{6})
+clv 26510, 1968, Pontiac, Tempest Custom, Hardtop Coupe
+ci axle Semifloating
+ci make Pontiac
+ci series Tempest Custom
+ci msrp $2591.00
+ci year 1968
+ci origin United States
+ci prod 40574
+ci model 23537
+ci weight 3277
+ci maker Fisher
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 21.5
+ci oil 5
+ci tcase -NA-
+ci rdiff 3
+ci trans 3.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 116
+ci length 204.7
+ci height 52.5
+ci rtred 60
+ci width 74.8
+ci etype Single downdraft
+ci cyl 6
+ci comp 9.0
+ci bhp 175@4800
+ci trq 240@2600
+ci englo Stamped on cylinder head to block contact surface behind oil filler pipe.
+ci rhp 36
+ci etype Inline 6, OHC
+ci disp 250
+ci b&s 3.875 & 3.53
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci cool 12 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Automatic transmission
+ci equip Power antenna
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev 2.95
+ci 1gear 2.85
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 6854, 239358(\w)([\dX]{6})
+clv 26511, 1968, Pontiac, Tempest Custom, Safari - 2 seat
+ci axle Semifloating
+ci prod 4414
+ci series Tempest Custom
+ci origin United States
+ci year 1968
+ci msrp $3084.00
+ci make Pontiac
+ci weight 3677
+ci model 23935
+ci doors 4
+ci maker Fisher
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 5
+ci fuel 21.5
+ci trans 3.5
+ci rdiff 3
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.23
+ci width 74.8
+ci wbase 116
+ci height 52.5
+ci length 211
+ci rtred 60
+ci b&s 3.875 & 3.53
+ci rhp 36
+ci comp 9.0
+ci cyl 6
+ci disp 250
+ci trq 240@2600
+ci etype Single downdraft
+ci etype Inline 6, OHC
+ci bhp 175@4800
+ci englo Stamped on cylinder head to block contact surface behind oil filler pipe.
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci cool 12 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Automatic transmission
+ci equip Power antenna
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev 2.95
+ci 1gear 2.85
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 6855, 235698(\w)([\dX]{6})
+clv 26512, 1968, Pontiac, Tempest Custom, Sedan
+ci axle Semifloating
+ci msrp $2579.00
+ci series Tempest Custom
+ci origin United States
+ci prod 17304
+ci make Pontiac
+ci year 1968
+ci model 23569
+ci doors 4
+ci weight 3297
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci oil 5
+ci fuel 21.5
+ci tcase -NA-
+ci rdiff 3
+ci trans 3.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 116
+ci length 204.7
+ci height 52.5
+ci rtred 60
+ci width 74.8
+ci etype Single downdraft
+ci cyl 6
+ci comp 9.0
+ci bhp 175@4800
+ci trq 240@2600
+ci englo Stamped on cylinder head to block contact surface behind oil filler pipe.
+ci rhp 36
+ci etype Inline 6, OHC
+ci disp 250
+ci b&s 3.875 & 3.53
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci cool 12 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Automatic transmission
+ci equip Power antenna
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev 2.95
+ci 1gear 2.85
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 6856, 235278(\w)([\dX]{6})
+clv 26513, 1968, Pontiac, Tempest Custom, Sports Coupe
+ci axle Semifloating
+ci msrp $2531.00
+ci series Tempest Custom
+ci origin United States
+ci prod 10634
+ci make Pontiac
+ci year 1968
+ci model 23527
+ci weight 3252
+ci maker Fisher
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci oil 5
+ci fuel 21.5
+ci rdiff 3
+ci trans 3.5
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 204.7
+ci wbase 116
+ci height 52.5
+ci width 74.8
+ci rtred 60
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci trq 240@2600
+ci bhp 175@4800
+ci etype Single downdraft
+ci b&s 3.875 & 3.53
+ci englo Stamped on cylinder head to block contact surface behind oil filler pipe.
+ci disp 250
+ci comp 9.0
+ci rhp 36
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci etype Inline 6, OHC
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci cool 12 Quarts
+ci ftype Regular
+ci equip Power brakes
+ci equip Power antenna
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Automatic transmission
+ci equip Speed control device
+ci equip Power seats
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 1gear 2.85
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.95
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 6857, 235358(\w)([\dX]{6})
+clv 26514, 1968, Pontiac, Tempest Custom, Station Wagon 2-seat
+ci axle Semifloating
+ci prod 8253
+ci series Tempest Custom
+ci origin United States
+ci year 1968
+ci msrp $2883.00
+ci make Pontiac
+ci doors 4
+ci weight 3667
+ci model 23535
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 21.5
+ci oil 5
+ci tcase -NA-
+ci trans 3.5
+ci rdiff 3
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 inches
+ci diffr 3.23
+ci diff Hypoid
+ci width 74.8
+ci height 52.5
+ci length 204.7
+ci rtred 60
+ci wbase 116
+ci b&s 3.875 & 3.53
+ci rhp 36
+ci comp 9.0
+ci cyl 6
+ci disp 250
+ci trq 240@2600
+ci etype Single downdraft
+ci etype Inline 6, OHC
+ci bhp 175@4800
+ci englo Stamped on cylinder head to block contact surface behind oil filler pipe.
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci cool 12 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Automatic transmission
+ci equip Power antenna
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev 2.95
+ci 1gear 2.85
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 6858, 233698(\w)([\dX]{6})
+clv 26515, 1968, Pontiac, Tempest, Sedan
+ci axle Semifloating
+ci msrp $2485.00
+ci series Tempest
+ci origin United States
+ci prod 11590
+ci make Pontiac
+ci year 1968
+ci model 23369
+ci doors 4
+ci weight 3307
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci oil 5
+ci fuel 21.5
+ci tcase -NA-
+ci rdiff 3
+ci trans 3.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 10 inches
+ci diff Hypoid
+ci diffr 3.23
+ci wbase 116
+ci length 204.7
+ci height 52.5
+ci rtred 60
+ci width 74.8
+ci etype Single downdraft
+ci cyl 6
+ci comp 9.0
+ci bhp 175@4800
+ci trq 240@2600
+ci englo Stamped on cylinder head to block contact surface behind oil filler pipe.
+ci rhp 36
+ci etype Inline 6, OHC
+ci disp 250
+ci b&s 3.875 & 3.53
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci cool 12 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Automatic transmission
+ci equip Power antenna
+ci equip Speed control device
+ci sgear Recirculating ball
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev 2.95
+ci 1gear 2.85
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14
+cls 6859, 233278(\w)([\dX]{6})
+clv 26516, 1968, Pontiac, Tempest, Sports Coupe
+ci axle Semifloating
+ci msrp $2438.00
+ci series Tempest
+ci origin United States
+ci make Pontiac
+ci year 1968
+ci prod 19991
+ci model 23327
+ci weight 3242
+ci maker Fisher
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci fuel 21.5
+ci oil 5
+ci tcase -NA-
+ci rdiff 3
+ci trans 3.5
+ci carb Rochester
+ci csize 10 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci length 204.7
+ci wbase 116
+ci height 52.5
+ci width 74.8
+ci rtred 60
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci trq 240@2600
+ci bhp 175@4800
+ci etype Single downdraft
+ci b&s 3.875 & 3.53
+ci englo Stamped on cylinder head to block contact surface behind oil filler pipe.
+ci disp 250
+ci comp 9.0
+ci rhp 36
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci etype Inline 6, OHC
+ci color Exterior Colors
+co Aegena Blue Metallic
+co Aleutian Blue Metallic
+co All colors may not be available in all models.
+co Alpine Blue Metallic
+co April Gold Metallic
+co Cameo Ivory
+co Flambeau Burgundy Metallic
+co Mayfair Maize
+co Meridian Turquoise Metallic
+co Nightshade Green Metallic
+co Nordic Blue Metallic
+co Primavera Beige
+co Solar Red
+co Springmist Green Metallic
+co Starlight Black
+co Two Tone Colors Available
+co Verdoro Green Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci rad Tube and center
+ci batt 12
+ci exha Single
+ci cool 12 Quarts
+ci ftype Regular
+ci equip Power brakes
+ci equip Power antenna
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Automatic transmission
+ci equip Speed control device
+ci equip Power seats
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 1gear 2.85
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.95
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard, visible through windshield.
+ci sloc Trunk
+ci tsize 7.75 x 14

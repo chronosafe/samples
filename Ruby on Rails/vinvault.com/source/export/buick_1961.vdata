@@ -1,0 +1,1802 @@
+cls 205, 8H8([\dX]{6})
+clv 2080, 1961, Buick, Electra 225, Convertible
+ci axle Semifloating
+ci prod 7158
+ci msrp $3795.00
+ci origin United States
+ci make Buick
+ci series Electra 225
+ci year 1961
+ci maker Fisher
+ci model 4867
+ci doors 2
+ci weight 4441
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 12
+ci rdiff 6.5
+ci tcase -NA-
+ci trans 24
+ci fuel 20
+ci oil 4
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 61
+ci wbase 126
+ci height 57.1
+ci ftred 62
+ci length 219.2
+ci width 78
+ci trq 445@2800
+ci etype V8 Valve-in-head
+ci bhp 325@4400
+ci b&s 4 3/16 & 3 41/64
+ci comp 10.25
+ci etype Turbine Drive automatic
+ci disp 401.11
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci rhp 56.11
+ci vlift Hydraulic
+ci cyl 8
+ci englo On extension on left block forward of valve lifter cover.
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci cool 17 Quarts
+ci rad Tube and center
+ci batt 12
+ci exha Single with crossover
+ci equip Power seats
+ci equip Power windows
+ci equip Power steering
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 206, 8H8([\dX]{6})
+clv 2081, 1961, Buick, Electra 225, Riviera
+ci axle Semifloating
+ci make Buick
+ci msrp $3942.00
+ci origin United States
+ci year 1961
+ci series Electra 225
+ci prod 13719
+ci model 4829
+ci weight 4417
+ci maker Fisher
+ci doors 4
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 12
+ci trans 24
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci rdiff 6.5
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 126
+ci height 57.1
+ci length 219.2
+ci rtred 61
+ci ftred 62
+ci width 78
+ci englo On extension on left block forward of valve lifter cover.
+ci etype V8 Valve-in-head
+ci rhp 56.11
+ci mbear 5
+ci comp 10.25
+ci etype Turbine Drive automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci trq 445@2800
+ci bhp 325@4400
+ci disp 401.11
+ci vlift Hydraulic
+ci b&s 4 3/16 & 3 41/64
+ci cyl 8
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool 17 Quarts
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci batt 12
+ci ign Distributor and coil
+ci equip Power seats
+ci equip Power windows
+ci equip Power steering
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 207, 7H8([\dX]{6})
+clv 2082, 1961, Buick, Electra, Hardtop
+ci axle Semifloating
+ci prod 4250
+ci msrp $3460.00
+ci origin United States
+ci make Buick
+ci series Electra
+ci year 1961
+ci model 4737
+ci doors 2
+ci maker Fisher
+ci weight 4260
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 12
+ci tcase -NA-
+ci trans 24
+ci fuel 20
+ci rdiff 6.5
+ci oil 4
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.23
+ci length 219.2
+ci height 57.1
+ci wbase 126
+ci rtred 61
+ci ftred 62
+ci width 78
+ci trq 445@2800
+ci etype V8 Valve-in-head
+ci b&s 4 3/16 & 3 41/64
+ci bhp 325@4400
+ci mbear 5
+ci comp 10.25
+ci englo On extension on left block forward of valve lifter cover.
+ci etype Downdraft 4-barrel
+ci disp 401.11
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 56.11
+ci vlift Hydraulic
+ci cyl 8
+ci etype Turbine Drive automatic
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci ign Distributor and coil
+ci exha Single with crossover
+ci rad Tube and center
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci cool 17 Quarts
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 208, 7H8([\dX]{6})
+clv 2083, 1961, Buick, Electra, Hardtop
+ci axle Semifloating
+ci prod 8978
+ci msrp $3566.00
+ci series Electra
+ci make Buick
+ci origin United States
+ci year 1961
+ci doors 4
+ci maker Fisher
+ci weight 4333
+ci model 4739
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 12
+ci rdiff 6.5
+ci fuel 20
+ci tcase -NA-
+ci trans 24
+ci oil 4
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.23
+ci length 219.2
+ci wbase 126
+ci rtred 61
+ci ftred 62
+ci width 78
+ci height 57.1
+ci vlift Hydraulic
+ci bhp 325@4400
+ci cyl 8
+ci b&s 4 3/16 & 3 41/64
+ci etype V8 Valve-in-head
+ci comp 10.25
+ci etype Turbine Drive automatic
+ci etype Downdraft 4-barrel
+ci disp 401.11
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 445@2800
+ci englo On extension on left block forward of valve lifter cover.
+ci rhp 56.11
+ci mbear 5
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 17 Quarts
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci batt 12
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 209, 7H8([\dX]{6})
+clv 2084, 1961, Buick, Electra, Sedan
+ci axle Semifloating
+ci make Buick
+ci msrp $3466.00
+ci origin United States
+ci year 1961
+ci series Electra
+ci prod 13818
+ci model 4719
+ci weight 4298
+ci maker Fisher
+ci doors 4
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 12
+ci trans 24
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci rdiff 6.5
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 126
+ci height 57.1
+ci length 219.2
+ci rtred 61
+ci ftred 62
+ci width 78
+ci b&s 4 3/16 & 3 41/64
+ci etype V8 Valve-in-head
+ci rhp 56.11
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.25
+ci englo On extension on left block forward of valve lifter cover.
+ci etype Downdraft 4-barrel
+ci trq 445@2800
+ci bhp 325@4400
+ci disp 401.11
+ci vlift Hydraulic
+ci cyl 8
+ci etype Turbine Drive automatic
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci batt 12
+ci cool 17 Quarts
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 8 x 15
+cls 210, 6H8([\dX]{6})
+clv 2085, 1961, Buick, Invicta, Convertible
+ci axle Semifloating
+ci make Buick
+ci msrp $3290.00
+ci origin United States
+ci series Invicta
+ci year 1961
+ci prod 3953
+ci doors 2
+ci maker Fisher
+ci weight 4206
+ci model 4667
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci fuel 20
+ci rdiff 6.5
+ci trans 24
+ci oil 4
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 123
+ci height 56.3
+ci length 213.2
+ci rtred 61
+ci ftred 62
+ci width 78
+ci englo On extension on left block forward of valve lifter cover.
+ci cyl 8
+ci rhp 56.11
+ci mbear 5
+ci comp 10.25
+ci etype Turbine Drive automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci b&s 4 3/16 & 3 41/64
+ci trq 445@2800
+ci vlift Hydraulic
+ci disp 401.11
+ci bhp 325@4400
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool Centrifugal pump with thermostat
+ci cool 17 Quarts
+ci exha Single with crossover
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 7.6 x 15
+cls 211, 6H8([\dX]{6})
+clv 2086, 1961, Buick, Invicta, Hardtop
+ci axle Semifloating
+ci prod 6382
+ci msrp $3129.00
+ci origin United States
+ci make Buick
+ci year 1961
+ci series Invicta
+ci doors 2
+ci model 4637
+ci maker Fisher
+ci weight 4090
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci trans 24
+ci tcase -NA-
+ci rdiff 6.5
+ci oil 4
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 61
+ci length 213.2
+ci height 56.3
+ci ftred 62
+ci wbase 123
+ci width 78
+ci englo On extension on left block forward of valve lifter cover.
+ci cyl 8
+ci rhp 56.11
+ci mbear 5
+ci comp 10.25
+ci etype Turbine Drive automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci b&s 4 3/16 & 3 41/64
+ci trq 445@2800
+ci vlift Hydraulic
+ci disp 401.11
+ci bhp 325@4400
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool Centrifugal pump with thermostat
+ci cool 17 Quarts
+ci exha Single with crossover
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 7.6 x 15
+cls 212, 6H8([\dX]{6})
+clv 2087, 1961, Buick, Invicta, Hardtop
+ci axle Semifloating
+ci make Buick
+ci msrp $3192.00
+ci origin United States
+ci year 1961
+ci prod 18398
+ci series Invicta
+ci model 4639
+ci weight 4179
+ci maker Fisher
+ci doors 4
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 12
+ci trans 24
+ci tcase -NA-
+ci oil 4
+ci fuel 20
+ci rdiff 6.5
+ci carb Carter or Rochester
+ci ctype Not applicable
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 123
+ci height 56.3
+ci length 213.2
+ci rtred 61
+ci ftred 62
+ci width 78
+ci englo On extension on left block forward of valve lifter cover.
+ci cyl 8
+ci rhp 56.11
+ci mbear 5
+ci comp 10.25
+ci etype Turbine Drive automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci b&s 4 3/16 & 3 41/64
+ci trq 445@2800
+ci vlift Hydraulic
+ci disp 401.11
+ci bhp 325@4400
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool Centrifugal pump with thermostat
+ci cool 17 Quarts
+ci exha Single with crossover
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 7.6 x 15
+cls 213, 4H8([\dX]{6})
+clv 2088, 1961, Buick, Le Sabre, Convertible
+ci axle Semifloating
+ci series Le Sabre
+ci prod 11951
+ci msrp $3082.00
+ci year 1961
+ci origin United States
+ci make Buick
+ci weight 4186
+ci doors 2
+ci maker Fisher
+ci model 4467
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci rdiff 6.5
+ci tcase -NA-
+ci trans 24
+ci fuel 20
+ci oil 4
+ci carb Rochester or Stromberg
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.07
+ci length 213.2
+ci height 56.3
+ci wbase 123
+ci rtred 61
+ci ftred 62
+ci width 78
+ci disp 364.17
+ci cyl 8
+ci rhp 54.45
+ci comp 10.25
+ci etype Turbine Drive automatic
+ci bhp 250@4400
+ci etype Dual throat
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci vlift Hydraulic
+ci b&s 4 1/8 & 3 13/32
+ci englo On extension on left block forward of valve lifter cover.
+ci trq 384@2400
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool 17 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci rad Tube and center
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci tsize 7.6 x 15
+ci sloc Trunk
+cls 214, 4H8([\dX]{6})
+clv 2089, 1961, Buick, Le Sabre, Estate Wagon - 2 seat
+ci axle Semifloating
+ci prod 5628
+ci msrp $3306.00
+ci origin United States
+ci make Buick
+ci year 1961
+ci series Le Sabre
+ci doors 4
+ci model 4435
+ci maker Fisher
+ci weight 4450
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci fuel 20
+ci tcase -NA-
+ci trans 24
+ci oil 4
+ci rdiff 6.5
+ci carb Rochester or Stromberg
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.07
+ci wbase 123
+ci length 213.2
+ci height 56.3
+ci rtred 61
+ci ftred 62
+ci width 78
+ci cyl 8
+ci etype V8 Valve-in-head
+ci rhp 54.45
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.25
+ci etype Turbine Drive automatic
+ci etype Dual throat
+ci englo On extension on left block forward of valve lifter cover.
+ci mbear 5
+ci vlift Hydraulic
+ci disp 364.17
+ci bhp 250@4400
+ci trq 384@2400
+ci b&s 4 1/8 & 3 13/32
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci batt 12
+ci ign Distributor and coil
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci cool 17 Quarts
+ci rad Tube and center
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 7.6 x 15
+cls 215, 4H8([\dX]{6})
+clv 2090, 1961, Buick, Le Sabre, Estate Wagon - 3 seat
+ci axle Semifloating
+ci prod 2423
+ci msrp $3406.00
+ci origin United States
+ci series Le Sabre
+ci make Buick
+ci year 1961
+ci doors 4
+ci maker Fisher
+ci model 4445
+ci weight 4483
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci oil 4
+ci fuel 20
+ci rdiff 6.5
+ci trans 24
+ci tcase -NA-
+ci carb Rochester or Stromberg
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci height 56.3
+ci length 213.2
+ci wbase 123
+ci rtred 61
+ci ftred 62
+ci width 78
+ci trq 384@2400
+ci cyl 8
+ci rhp 54.45
+ci comp 10.25
+ci etype Turbine Drive automatic
+ci bhp 250@4400
+ci etype Dual throat
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci vlift Hydraulic
+ci b&s 4 1/8 & 3 13/32
+ci disp 364.17
+ci englo On extension on left block forward of valve lifter cover.
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool 17 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci rad Tube and center
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci tsize 7.6 x 15
+ci sloc Trunk
+cls 216, 4H8([\dX]{6})
+clv 2091, 1961, Buick, Le Sabre, Hardtop
+ci axle Semifloating
+ci prod 14474
+ci msrp $2867.00
+ci year 1961
+ci series Le Sabre
+ci origin United States
+ci make Buick
+ci weight 4054
+ci doors 2
+ci maker Fisher
+ci model 4437
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci rdiff 6.5
+ci tcase -NA-
+ci trans 24
+ci fuel 20
+ci oil 4
+ci carb Rochester or Stromberg
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.07
+ci length 213.2
+ci height 56.3
+ci wbase 123
+ci rtred 61
+ci ftred 62
+ci width 78
+ci disp 364.17
+ci cyl 8
+ci rhp 54.45
+ci comp 10.25
+ci etype Turbine Drive automatic
+ci bhp 250@4400
+ci etype Dual throat
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci vlift Hydraulic
+ci b&s 4 1/8 & 3 13/32
+ci englo On extension on left block forward of valve lifter cover.
+ci trq 384@2400
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool 17 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci rad Tube and center
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci tsize 7.6 x 15
+ci sloc Trunk
+cls 217, 4H8([\dX]{6})
+clv 2092, 1961, Buick, Le Sabre, Hardtop
+ci axle Semifloating
+ci make Buick
+ci msrp $2938.00
+ci origin United States
+ci series Le Sabre
+ci year 1961
+ci prod 37790
+ci maker Fisher
+ci doors 4
+ci weight 4129
+ci model 4439
+ci bsize 12
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci trans 24
+ci rdiff 6.5
+ci fuel 20
+ci oil 4
+ci carb Rochester or Stromberg
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.07
+ci height 56.3
+ci wbase 123
+ci length 213.2
+ci rtred 61
+ci ftred 62
+ci width 78
+ci trq 384@2400
+ci cyl 8
+ci rhp 54.45
+ci comp 10.25
+ci etype Turbine Drive automatic
+ci bhp 250@4400
+ci etype Dual throat
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci vlift Hydraulic
+ci b&s 4 1/8 & 3 13/32
+ci disp 364.17
+ci englo On extension on left block forward of valve lifter cover.
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool 17 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci rad Tube and center
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci tsize 7.6 x 15
+ci sloc Trunk
+cls 218, 4H8([\dX]{6})
+clv 2093, 1961, Buick, Le Sabre, Sedan
+ci axle Semifloating
+ci series Le Sabre
+ci msrp $2720.00
+ci origin United States
+ci year 1961
+ci prod 5959
+ci make Buick
+ci doors 2
+ci weight 4033
+ci model 4411
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 12
+ci svc 4 wheel hydraulic drum
+ci rdiff 6.5
+ci trans 24
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci carb Rochester or Stromberg
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.07
+ci wbase 123
+ci length 213.2
+ci height 56.3
+ci rtred 61
+ci ftred 62
+ci width 78
+ci trq 384@2400
+ci cyl 8
+ci rhp 54.45
+ci comp 10.25
+ci etype Turbine Drive automatic
+ci bhp 250@4400
+ci etype Dual throat
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci vlift Hydraulic
+ci b&s 4 1/8 & 3 13/32
+ci disp 364.17
+ci englo On extension on left block forward of valve lifter cover.
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool 17 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci rad Tube and center
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci tsize 7.6 x 15
+ci sloc Trunk
+cls 219, 4H8([\dX]{6})
+clv 2094, 1961, Buick, Le Sabre, Sedan
+ci axle Semifloating
+ci prod 35005
+ci msrp $2826.00
+ci origin United States
+ci series Le Sabre
+ci make Buick
+ci year 1961
+ci doors 4
+ci maker Fisher
+ci model 4469
+ci weight 4102
+ci bsize 12
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci oil 4
+ci fuel 20
+ci rdiff 6.5
+ci trans 24
+ci tcase -NA-
+ci carb Rochester or Stromberg
+ci ctype Not applicable
+ci diffr 3.07
+ci diff Hypoid
+ci height 56.3
+ci length 213.2
+ci wbase 123
+ci rtred 61
+ci ftred 62
+ci width 78
+ci trq 384@2400
+ci cyl 8
+ci rhp 54.45
+ci comp 10.25
+ci etype Turbine Drive automatic
+ci bhp 250@4400
+ci etype Dual throat
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci vlift Hydraulic
+ci b&s 4 1/8 & 3 13/32
+ci disp 364.17
+ci englo On extension on left block forward of valve lifter cover.
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool 17 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci rad Tube and center
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Pushbutton Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci tsize 7.6 x 15
+ci sloc Trunk
+cls 220, 0H8([\dX]{6})
+clv 2095, 1961, Buick, Special, Convertible
+ci axle Semifloating
+ci origin United States
+ci make Buick
+ci prod 11729
+ci year 1961
+ci series Special
+ci doors 2
+ci model 4167
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci trans 2.25
+ci rdiff 2
+ci oil 4
+ci fuel 16
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci height 52.5
+ci length 188.4
+ci wbase 112.1
+ci rtred 56
+ci width 71.3
+ci mbear 5
+ci disp 215.27
+ci vlift Hydraulic
+ci cyl 8
+ci comp 8.8
+ci bhp 155@4600
+ci rhp 39.2
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On block forward of right cylinder head.
+ci etype Unknown at time of publication
+ci etype Dual throat
+ci b&s 3 1/2 & 2 51/64
+ci etype V8 Valve-in-head
+ci trq 220@2400
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool 12 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci batt 12
+ci exha Single with crossover
+ci equip Turbine Drive automatic transmission
+ci equip Pushbutton Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 2gear 1.55
+ci 1gear 2.57
+ci gears 3
+ci rev 3.49
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci tsize 6.5 x 13
+ci sloc Trunk
+cls 221, 0H8([\dX]{6})
+clv 2096, 1961, Buick, Special, Coupe
+ci axle Semifloating
+ci prod 4232
+ci series Special
+ci origin United States
+ci make Buick
+ci msrp $2330.00
+ci year 1961
+ci maker Fisher
+ci weight 2579
+ci model 4027
+ci doors 2
+ci bsize 9.5
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2.25
+ci rdiff 2
+ci oil 4
+ci fuel 16
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.36
+ci diff Hypoid
+ci wbase 112.1
+ci length 188.4
+ci width 71.3
+ci rtred 56
+ci height 52.5
+ci comp 8.8
+ci etype V8 Valve-in-head
+ci rhp 39.2
+ci cyl 8
+ci mbear 5
+ci englo On block forward of right cylinder head.
+ci b&s 3 1/2 & 2 51/64
+ci bhp 155@4600
+ci etype Unknown at time of publication
+ci disp 215.27
+ci vlift Hydraulic
+ci trq 220@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual throat
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci batt 12
+ci rad Tube and center
+ci cool 12 Quarts
+ci exha Single with crossover
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Turbine Drive automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 1gear 2.57
+ci 3gear 1
+ci 2gear 1.55
+ci drive Rear wheel drive
+ci rev 3.49
+ci 5gear Not applicable
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 222, 0H8([\dX]{6})
+clv 2097, 1961, Buick, Special, Deluxe Sedan
+ci axle Semifloating
+ci year 1961
+ci origin United States
+ci make Buick
+ci series Special
+ci msrp $2300.00
+ci prod 32986
+ci maker Fisher
+ci doors 4
+ci model 4119
+ci weight 2632
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 16
+ci oil 4
+ci rdiff 2
+ci tcase -NA-
+ci trans 2.25
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 112.1
+ci length 188.4
+ci width 71.3
+ci rtred 56
+ci height 52.5
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 155@4600
+ci cyl 8
+ci comp 8.8
+ci rhp 39.2
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci englo On block forward of right cylinder head.
+ci b&s 3 1/2 & 2 51/64
+ci etype Dual throat
+ci disp 215.27
+ci trq 220@2400
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool 12 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci batt 12
+ci equip Turbine Drive automatic transmission
+ci equip Pushbutton Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 2.57
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 2gear 1.55
+ci rev 3.49
+ci 5gear Not applicable
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 223, 0H8([\dX]{6})
+clv 2098, 1961, Buick, Special, DeLuxe Station Wagon
+ci axle Semifloating
+ci make Buick
+ci series Special
+ci origin United States
+ci year 1961
+ci msrp $2575.00
+ci doors 4
+ci maker Fisher
+ci weight 2794
+ci model 4135
+ci bsize 9.5
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2.25
+ci rdiff 2
+ci oil 4
+ci fuel 16
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.36
+ci diff Hypoid
+ci wbase 112.1
+ci length 188.4
+ci width 71.3
+ci rtred 56
+ci height 52.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Valve-in-head
+ci rhp 39.2
+ci cyl 8
+ci comp 8.8
+ci englo On block forward of right cylinder head.
+ci b&s 3 1/2 & 2 51/64
+ci bhp 155@4600
+ci etype Unknown at time of publication
+ci disp 215.27
+ci vlift Hydraulic
+ci trq 220@2400
+ci mbear 5
+ci etype Dual throat
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci batt 12
+ci rad Tube and center
+ci cool 12 Quarts
+ci exha Single with crossover
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Turbine Drive automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 1gear 2.57
+ci 3gear 1
+ci 2gear 1.55
+ci drive Rear wheel drive
+ci rev 3.49
+ci 5gear Not applicable
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 224, 0H8([\dX]{6})
+clv 2099, 1961, Buick, Special, Sedan
+ci axle Semifloating
+ci make Buick
+ci series Special
+ci origin United States
+ci year 1961
+ci msrp $2175.00
+ci prod 18339
+ci doors 4
+ci maker Fisher
+ci weight 2610
+ci model 4019
+ci bsize 9.5
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 2.25
+ci rdiff 2
+ci fuel 16
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.36
+ci diff Hypoid
+ci wbase 112.1
+ci length 188.4
+ci width 71.3
+ci rtred 56
+ci height 52.5
+ci comp 8.8
+ci etype V8 Valve-in-head
+ci rhp 39.2
+ci cyl 8
+ci mbear 5
+ci englo On block forward of right cylinder head.
+ci b&s 3 1/2 & 2 51/64
+ci bhp 155@4600
+ci etype Unknown at time of publication
+ci disp 215.27
+ci vlift Hydraulic
+ci trq 220@2400
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual throat
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci batt 12
+ci rad Tube and center
+ci cool 12 Quarts
+ci exha Single with crossover
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Turbine Drive automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci 1gear 2.57
+ci 3gear 1
+ci 2gear 1.55
+ci drive Rear wheel drive
+ci rev 3.49
+ci 5gear Not applicable
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 225, 0H8([\dX]{6})
+clv 2100, 1961, Buick, Special, Station Wagon 2-seat
+ci axle Semifloating
+ci prod 6101
+ci series Special
+ci origin United States
+ci make Buick
+ci msrp $2450.00
+ci year 1961
+ci model 4035
+ci maker Fisher
+ci doors 4
+ci weight 2775
+ci svc 4 wheel hydraulic drum
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci trans 2.25
+ci rdiff 2
+ci oil 4
+ci fuel 16
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.36
+ci diff Hypoid
+ci rtred 56
+ci length 188.4
+ci wbase 112.1
+ci height 52.5
+ci width 71.3
+ci etype V8 Valve-in-head
+ci mbear 5
+ci rhp 39.2
+ci cyl 8
+ci comp 8.8
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 1/2 & 2 51/64
+ci etype Unknown at time of publication
+ci englo On block forward of right cylinder head.
+ci disp 215.27
+ci etype Dual throat
+ci trq 220@2400
+ci vlift Hydraulic
+ci bhp 155@4600
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 12 Quarts
+ci exha Single with crossover
+ci cool Centrifugal pump with thermostat
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 1gear 2.57
+ci gears 3
+ci rev 3.49
+ci 2gear 1.55
+ci 3gear 1
+ci 5gear Not applicable
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 226, 0H8([\dX]{6})
+clv 2101, 1961, Buick, Special, Station Wagon 3-seat
+ci axle Semifloating
+ci prod 798
+ci origin United States
+ci make Buick
+ci series Special
+ci msrp $2762.00
+ci year 1961
+ci doors 4
+ci weight 2844
+ci model 4045
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 9.5
+ci trans 2.25
+ci oil 4
+ci rdiff 2
+ci fuel 16
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci wbase 112.1
+ci length 188.4
+ci width 71.3
+ci rtred 56
+ci height 52.5
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci bhp 155@4600
+ci cyl 8
+ci comp 8.8
+ci b&s 3 1/2 & 2 51/64
+ci etype Unknown at time of publication
+ci vlift Hydraulic
+ci englo On block forward of right cylinder head.
+ci trq 220@2400
+ci etype Dual throat
+ci disp 215.27
+ci rhp 39.2
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Arctic White
+co Argent Silver Metallic
+co Bimini Blue
+co Cordovan Metallic
+co Desert Fawn Metallic
+co Dublin Green Metallic
+co Kerry Green
+co Lacquer
+co Laguna Blue Metallic
+co Newport Silver Metallic
+co Phoenix Beige
+co Rio Red Metallic
+co Sun Valley Cream
+co Tampico Red
+co Turquoise Metallic
+co Venice Blue Metallic
+ci cool 12 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Centrifugal pump with thermostat
+ci exha Single with crossover
+ci batt 12
+ci equip Turbine Drive automatic transmission
+ci equip Pushbutton Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 1gear 2.57
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 2gear 1.55
+ci rev 3.49
+ci 5gear Not applicable
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci sloc Trunk
+ci tsize 6.5 x 13
+cls 227, 0H8([\dX]{6})
+clv 2102, 1961, Buick, Special, Coupe
+ci axle Semifloating
+ci origin United States
+ci make Buick
+ci year 1961
+ci series Special
+ci prod 12683
+ci maker Fisher
+ci pass 4
+ci model 4317
+ci doors 2
+ci bsize 9.5
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci trans 2.25
+ci rdiff 2
+ci fuel 16
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diffr 3.36
+ci diff Hypoid
+ci wbase 112.1
+ci length 188.4
+ci height 52.5
+ci rtred 56
+ci width 71.3
+ci mbear 5
+ci etype 4-barrel
+ci vlift Hydraulic
+ci cyl 8
+ci b&s 3 1/2 & 2 51/64
+ci disp 215.27
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On block forward of right cylinder head.
+ci bhp 185
+ci etype Unknown at time of publication
+ci rhp 39.2
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Lacquer
+ci exha Single with crossover
+ci ign Distributor and coil
+ci cool 12 Quarts
+ci batt 12 volt
+ci cool Centrifugal pump with thermostat
+ci rad Tube and center
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil Springs
+ci rev 3.49
+ci gears 3
+ci 1gear 2.57
+ci drive Rear wheel drive
+ci 2gear 1.55
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On hinge pillar post & on top of insturment panel left side.
+ci tsize 6.5 x 13
+ci sloc Trunk

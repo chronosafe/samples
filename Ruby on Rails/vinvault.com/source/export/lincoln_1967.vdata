@@ -1,0 +1,344 @@
+cls 4242, 7(\w)87(\w)([\dX]{6})
+clv 17410, 1967, Lincoln, Continental, Convertible
+ci axle Semifloating
+ci msrp $6449.00
+ci series Continental
+ci make Lincoln
+ci origin United States
+ci year 1967
+ci prod 2276
+ci weight 5505
+ci model 74A
+ci doors 4
+ci maker Lincoln
+ci bsize 11.09
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.9
+ci fuel 25.5
+ci oil 6
+ci trans 26
+ci tcase -NA-
+ci rdiff 5.5
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci rtred 61
+ci length 220.9
+ci ftred 62.1
+ci wbase 126
+ci width 79.7
+ci height 54.5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 61.39
+ci etype Own V8 Overhead valve
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci disp 462
+ci b&s 4.38 & 3.83
+ci bhp 340@4600
+ci block Special alloy iron
+ci etype Turbo Drive
+ci comp 10.25
+ci vlift Hydraulic
+ci trq 485@2800
+ci color Exterior Colors
+co Antique Beige Metallic
+co Black Satin
+co Cameo Green
+co Cranberry
+co Florentine Gold Metallic
+co Granada Yellow
+co Huntington Gray Metallic
+co Huron Blue #2 Metallic
+co Pitcairn Blue #2 Metallic
+co Powder Blue
+co Silver Mist Metallic
+co Spanish Moss #2 Metallic
+ci rad Corrugated fin and tube
+ci ign Distributor and coil
+ci exha Dual
+ci batt 12
+ci cool 25 Quarts
+ci cool Centrifugal water  pump
+ci ftype Premium
+ci equip Bench Seat - 6 Way Power
+ci equip AutomaticSpeed Control
+ci equip Tinted Glass
+ci equip Automatic Temperature Control (a/c)
+ci equip Power Vent Windows
+ci equip Air Conditioner
+ci equip Combination AM Radio/StereoTape System
+ci equip AM Radio w/Power Antenna
+ci equip Tilt Steering Wheel
+ci equip Stereo-Sonic Tape system
+ci equip Speed Actuated Power Door Locks
+ci equip Six-Way Power Seat (Bench)
+ci equip White Sidewall Tires
+ci sgear Integral power
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On right & left sides under hood on fender apron.
+ci sloc Trunk
+ci tsize 9.15 x 15
+cls 4243, 7(\w)89(\w)([\dX]{6})
+clv 17411, 1967, Lincoln, Continental, Coupe
+ci axle Semifloating
+ci year 1967
+ci msrp $5553.00
+ci series Continental
+ci prod 11060
+ci origin United States
+ci make Lincoln
+ci maker Lincoln
+ci doors 2
+ci model 65A
+ci weight 4940
+ci bsize 11.09
+ci fbsize 11.9
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci fuel 25.5
+ci oil 6
+ci trans 26
+ci rdiff 5.5
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.8
+ci diff Hypoid
+ci ftred 62.1
+ci wbase 126
+ci rtred 61
+ci length 220.9
+ci width 79.7
+ci height 54.3
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 340@4600
+ci block Special alloy iron
+ci etype Own V8 Overhead valve
+ci cyl 8
+ci etype Turbo Drive
+ci b&s 4.38 & 3.83
+ci rhp 61.39
+ci disp 462
+ci mbear 5
+ci comp 10.25
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci trq 485@2800
+ci color Exterior Colors
+co Antique Beige Metallic
+co Black Satin
+co Cameo Green
+co Cranberry
+co Florentine Gold Metallic
+co Granada Yellow
+co Huntington Gray Metallic
+co Huron Blue #2 Metallic
+co Pitcairn Blue #2 Metallic
+co Powder Blue
+co Silver Mist Metallic
+co Spanish Moss #2 Metallic
+ci rad Corrugated fin and tube
+ci ign Distributor and coil
+ci exha Dual
+ci batt 12
+ci cool 25 Quarts
+ci cool Centrifugal water  pump
+ci ftype Premium
+ci equip Bench Seat - 6 Way Power
+ci equip AutomaticSpeed Control
+ci equip Tinted Glass
+ci equip Automatic Temperature Control (a/c)
+ci equip Power Vent Windows
+ci equip Air Conditioner
+ci equip Combination AM Radio/StereoTape System
+ci equip AM Radio w/Power Antenna
+ci equip Tilt Steering Wheel
+ci equip Stereo-Sonic Tape system
+ci equip Speed Actuated Power Door Locks
+ci equip Six-Way Power Seat (Bench)
+ci equip White Sidewall Tires
+ci sgear Integral power
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On right & left sides under hood on fender apron.
+ci sloc Trunk
+ci tsize 9.15 x 15
+cls 4244, 7(\w)bb(\w)([\dX]{6})
+clv 17412, 1967, Lincoln, Continental, Executive Limousine
+ci axle Semifloating
+ci make Lincoln
+ci series Continental
+ci origin United States
+ci year 1967
+ci doors 4
+ci weight 5939
+ci maker Lincoln
+ci fbsize 11.9
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11.09
+ci rdiff 5.5
+ci fuel 25.5
+ci trans 26
+ci tcase -NA-
+ci oil 6
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.8
+ci rtred 61
+ci length 254.9
+ci height 55
+ci ftred 62.1
+ci width 79.7
+ci wbase 126
+ci comp 10.25
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 61.39
+ci etype Own V8 Overhead valve
+ci cyl 8
+ci vlift Hydraulic
+ci trq 485@2800
+ci disp 462
+ci b&s 4.38 & 3.83
+ci bhp 340@4600
+ci block Special alloy iron
+ci etype Turbo Drive
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci color Exterior Colors
+co Antique Beige Metallic
+co Black Satin
+co Cameo Green
+co Cranberry
+co Florentine Gold Metallic
+co Granada Yellow
+co Huntington Gray Metallic
+co Huron Blue #2 Metallic
+co Pitcairn Blue #2 Metallic
+co Powder Blue
+co Silver Mist Metallic
+co Spanish Moss #2 Metallic
+ci cool 25 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci exha Dual
+ci rad Corrugated fin and tube
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci equip Air Conditioner
+ci equip White Sidewall Tires
+ci equip AutomaticSpeed Control
+ci equip Power Vent Windows
+ci equip Automatic Temperature Control (a/c)
+ci equip Combination AM Radio/StereoTape System
+ci equip Bench Seat - 6 Way Power
+ci equip Tinted Glass
+ci equip Tilt Steering Wheel
+ci equip AM Radio w/Power Antenna
+ci equip Speed Actuated Power Door Locks
+ci equip Stereo-Sonic Tape system
+ci equip Six-Way Power Seat (Bench)
+ci sgear Integral power
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On right & left sides under hood on fender apron.
+ci sloc Trunk
+cls 4245, 7(\w)82(\w)([\dX]{6})
+clv 17413, 1967, Lincoln, Continental, Sedan
+ci axle Semifloating
+ci msrp $5795.00
+ci make Lincoln
+ci prod 32331
+ci origin United States
+ci series Continental
+ci year 1967
+ci model 53A
+ci maker Lincoln
+ci doors 4
+ci weight 5049
+ci fbsize 11.9
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11.09
+ci trans 26
+ci oil 6
+ci fuel 25.5
+ci tcase -NA-
+ci rdiff 5.5
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.8
+ci diff Hypoid
+ci rtred 61
+ci length 220.9
+ci height 55
+ci wbase 126
+ci width 79.7
+ci ftred 62.1
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 61.39
+ci etype Own V8 Overhead valve
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci disp 462
+ci b&s 4.38 & 3.83
+ci etype Turbo Drive
+ci bhp 340@4600
+ci comp 10.25
+ci block Special alloy iron
+ci vlift Hydraulic
+ci trq 485@2800
+ci color Exterior Colors
+co Antique Beige Metallic
+co Black Satin
+co Cameo Green
+co Cranberry
+co Florentine Gold Metallic
+co Granada Yellow
+co Huntington Gray Metallic
+co Huron Blue #2 Metallic
+co Pitcairn Blue #2 Metallic
+co Powder Blue
+co Silver Mist Metallic
+co Spanish Moss #2 Metallic
+ci rad Corrugated fin and tube
+ci ign Distributor and coil
+ci exha Dual
+ci batt 12
+ci cool 25 Quarts
+ci cool Centrifugal water  pump
+ci ftype Premium
+ci equip Bench Seat - 6 Way Power
+ci equip AutomaticSpeed Control
+ci equip Tinted Glass
+ci equip Automatic Temperature Control (a/c)
+ci equip Power Vent Windows
+ci equip Air Conditioner
+ci equip Combination AM Radio/StereoTape System
+ci equip AM Radio w/Power Antenna
+ci equip Tilt Steering Wheel
+ci equip Stereo-Sonic Tape system
+ci equip Speed Actuated Power Door Locks
+ci equip Six-Way Power Seat (Bench)
+ci equip White Sidewall Tires
+ci sgear Integral power
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On right & left sides under hood on fender apron.
+ci sloc Trunk
+ci tsize 9.15 x 15

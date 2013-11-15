@@ -1,0 +1,5389 @@
+cls 2115, 1K69(\w)4(\w)([\dX]{6})
+clv 6185, 1974, Chevrolet, Bel Air, Sedan
+ci axle Semifloating
+ci origin United States
+ci make Chevrolet
+ci series Bel Air
+ci msrp $3695.00
+ci prod 34095
+ci year 1974
+ci doors 4
+ci model 1K69
+ci maker Fisher
+ci weight 4148
+ci pass 6
+ci fbsize 11 55/64
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci oil 4
+ci trans 20
+ci tcase -NA-
+ci fuel 25
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.73
+ci diff Hypoid
+ci wbase 121.5
+ci height 54.5
+ci rtred 64
+ci ftred 64.1
+ci width 79.5
+ci length 222.7
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.5
+ci bhp 145@3800
+ci rhp 51.2
+ci englo On pad at front right side of cylinder block.
+ci trq 250@2200
+ci etype V8 overhead valve
+ci etype Turbo Hydra-matic
+ci disp 350
+ci b&s 4 & 3.48
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 12 Quarts
+ci equip Power windows
+ci equip Radio
+ci equip 454 cu. in. V8 engine
+ci equip Speed control device
+ci equip Power seats
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15B
+cls 2116, 1K35(\w)4(\w)([\dX]{6})
+clv 6186, 1974, Chevrolet, Bel Air, Station Wagon 2-seat
+ci axle Semifloating
+ci origin United States
+ci make Chevrolet
+ci series Bel Air
+ci msrp $4195.00
+ci prod 34095
+ci year 1974
+ci doors 4
+ci model 1K35
+ci maker Fisher
+ci weight 4629
+ci pass 6
+ci fbsize 11 55/64
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci trans 20
+ci tcase -NA-
+ci fuel 25
+ci rdiff 4.25
+ci oil 4
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci rtred 64
+ci length 228.3
+ci height 58.1
+ci ftred 64.1
+ci wbase 121.5
+ci width 79.5
+ci comp 8.5
+ci cyl 8
+ci rhp 51.2
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 250@2200
+ci bhp 145@3800
+ci englo On pad at front right side of cylinder block.
+ci etype Dual downdraft
+ci etype Turbo Hydra-matic
+ci b&s 4 & 3.48
+ci etype V8 overhead valve
+ci disp 350
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ftype Regular
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool 12 Quarts
+ci cool Centrifugal water  pump
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Speed control device
+ci equip 454 cu. in. V8 engine
+ci equip Radio
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15B
+cls 2117, 1K45(\w)4(\w)([\dX]{6})
+clv 6187, 1974, Chevrolet, Bel Air, Station Wagon 3-seat
+ci axle Semifloating
+ci origin United States
+ci make Chevrolet
+ci series Bel Air
+ci msrp $4309.00
+ci prod 34095
+ci year 1974
+ci doors 4
+ci model 1K45
+ci maker Fisher
+ci weight 4884
+ci pass 9
+ci fbsize 11 55/64
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fuel 25
+ci tcase -NA-
+ci rdiff 4.25
+ci oil 4
+ci trans 20
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.73
+ci diff Hypoid
+ci height 58.1
+ci length 228.3
+ci ftred 64.1
+ci width 79.5
+ci wbase 121.5
+ci rtred 64
+ci cyl 8
+ci comp 8.5
+ci rhp 51.2
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 250@2200
+ci bhp 145@3800
+ci englo On pad at front right side of cylinder block.
+ci etype Dual downdraft
+ci etype Turbo Hydra-matic
+ci b&s 4 & 3.48
+ci etype V8 overhead valve
+ci disp 350
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ftype Regular
+ci rad Tube and center
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci cool 12 Quarts
+ci cool Centrifugal water  pump
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Speed control device
+ci equip 454 cu. in. V8 engine
+ci equip Radio
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15B
+cls 2118, 1Q87(\w)4[NL]([\dX]{6})
+clv 6188, 1974, Chevrolet, Camaro 6, Coupe
+ci axle Semifloating
+ci make Chevrolet
+ci year 1974
+ci msrp $2890.00
+ci series Camaro 6
+ci prod 22198
+ci origin United States
+ci weight 3309
+ci maker Fisher
+ci model 1Q87
+ci doors 2
+ci pass 4
+ci svc Power front disc rear self-adjusting drum
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 4.25
+ci fuel 18
+ci oil 4
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci length 195.4
+ci height 49.2
+ci wbase 108
+ci rtred 60
+ci ftred 61.3
+ci width 74.4
+ci bhp 100@3600
+ci comp 8.25
+ci cyl 6
+ci rhp 36.04
+ci etype Turbo-Thrift valve-in-head
+ci b&s 3 7/8 & 3 1/23
+ci block Cast alloy iron
+ci etype Single downdraft
+ci mbear 7
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci disp 250
+ci etype Fully synchronous 3-speed manual
+ci trq 175@1800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 12 Quarts
+ci rad Tube and center
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 5gear Not applicable
+ci 1gear 2.85
+ci 3gear 1
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14B
+ci sloc Trunk
+cls 2119, 1S87(\w)4[NL]([\dX]{6})
+clv 6189, 1974, Chevrolet, Camaro LT V8, Coupe
+ci axle Semifloating
+ci series Camaro LT V8
+ci make Chevrolet
+ci msrp $3506.00
+ci prod 12810
+ci year 1974
+ci origin United States
+ci pass 4
+ci maker Fisher
+ci weight 3566
+ci model 1S87
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Power front disc rear self-adjusting drum
+ci fuel 18
+ci tcase -NA-
+ci rdiff 4.25
+ci oil 4
+ci trans 3
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 195.4
+ci wbase 108
+ci ftred 61.3
+ci width 74.4
+ci rtred 60
+ci height 49.2
+ci mbear 5
+ci cyl 8
+ci comp 8.5
+ci rhp 48.05
+ci disp 307
+ci b&s 3 7/8 & 3 1/4
+ci block Cast alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous 3-speed manual
+ci trq 205@2000
+ci etype Dual downdraft
+ci bhp 115@3600
+ci vlift Hydraulic
+ci etype Turbo-Fire V8 valve-in-head
+ci englo On pad at front right side of cylinder block.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tube and center
+ci cool 15 Quarts
+ci equip Air conditioning
+ci equip Radio
+ci equip Power windows
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 2.95
+ci 5gear Not applicable
+ci 2gear 1.68
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.85
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14B
+cls 2120, 1Q87(\w)4[NL]([\dX]{6})
+clv 6190, 1974, Chevrolet, Camaro V8, Coupe
+ci axle Semifloating
+ci series Camaro V8
+ci make Chevrolet
+ci msrp $3159.00
+ci prod 128810
+ci year 1974
+ci origin United States
+ci pass 4
+ci maker Fisher
+ci weight 3450
+ci model 1Q87
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Power front disc rear self-adjusting drum
+ci fuel 18
+ci tcase -NA-
+ci rdiff 4.25
+ci oil 4
+ci trans 3
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 195.4
+ci wbase 108
+ci ftred 61.3
+ci width 74.4
+ci rtred 60
+ci height 49.2
+ci mbear 5
+ci cyl 8
+ci comp 8.5
+ci rhp 48.05
+ci disp 307
+ci b&s 3 7/8 & 3 1/4
+ci block Cast alloy iron
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous 3-speed manual
+ci trq 205@2000
+ci etype Dual downdraft
+ci bhp 115@3600
+ci vlift Hydraulic
+ci etype Turbo-Fire V8 valve-in-head
+ci englo On pad at front right side of cylinder block.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci rad Tube and center
+ci cool 15 Quarts
+ci equip Air conditioning
+ci equip Radio
+ci equip Power windows
+ci equip Power brakes
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci rev 2.95
+ci 5gear Not applicable
+ci 2gear 1.68
+ci 3gear 1
+ci drive Rear wheel drive
+ci 1gear 2.85
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14B
+cls 2121, 1N67(\w)4(\w)([\dX]{6})
+clv 6191, 1974, Chevrolet, Caprice Classic, Convertible
+ci axle Semifloating
+ci make Chevrolet
+ci year 1974
+ci msrp $4483.00
+ci series Caprice Classic
+ci prod 4670
+ci origin United States
+ci maker Fisher
+ci model 1N67
+ci doors 2
+ci weight 4308
+ci pass 6
+ci ebrake Rear service brakes
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci oil 4
+ci fuel 25
+ci rdiff 4.25
+ci tcase -NA-
+ci trans 20
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci wbase 121.5
+ci rtred 64
+ci ftred 64.1
+ci width 79.5
+ci height 54.5
+ci length 222.7
+ci comp 8.5
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 295@2000
+ci etype V8 overhead valve
+ci englo On pad at front right side of cylinder block.
+ci etype Dual downdraft
+ci b&s 4.13 & 3 3/4
+ci cyl 8
+ci disp 400
+ci bhp 150@3200
+ci rhp 54.58
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool 12 Quarts
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power windows
+ci equip 454 cu. in. V8 engine
+ci equip Power seats
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15B
+cls 2122, 1N47(\w)4(\w)([\dX]{6})
+clv 6192, 1974, Chevrolet, Caprice Classic, Coupe
+ci axle Semifloating
+ci origin United States
+ci make Chevrolet
+ci series Caprice Classic
+ci msrp $4221.00
+ci year 1974
+ci prod 155860
+ci doors 2
+ci pass 6
+ci model 1N47
+ci weight 4245
+ci maker Fisher
+ci fbsize 11 55/64
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci trans 20
+ci oil 4
+ci tcase -NA-
+ci rdiff 4.25
+ci fuel 25
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci rtred 64
+ci wbase 121.5
+ci ftred 64.1
+ci height 54.5
+ci length 222.7
+ci width 79.5
+ci bhp 150@3200
+ci etype V8 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 295@2000
+ci comp 8.5
+ci rhp 54.58
+ci etype Dual downdraft
+ci englo On pad at front right side of cylinder block.
+ci cyl 8
+ci etype Turbo Hydra-matic
+ci disp 400
+ci b&s 4.13 & 3 3/4
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci rad Tube and center
+ci cool 12 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Air conditioning
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip 454 cu. in. V8 engine
+ci equip Power seats
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15B
+cls 2123, 1N35(\w)4(\w)([\dX]{6})
+clv 6193, 1974, Chevrolet, Caprice Classic, Estate Wagon - 2 seat
+ci axle Semifloating
+ci make Chevrolet
+ci year 1974
+ci msrp $4531.00
+ci series Caprice Classic
+ci prod 155860
+ci origin United States
+ci weight 4960
+ci maker Fisher
+ci model 1N35
+ci doors 4
+ci pass 6
+ci ebrake Rear service brakes
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci trans 20
+ci oil 4
+ci fuel 25
+ci tcase -NA-
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci ftred 64.1
+ci rtred 64
+ci wbase 121.5
+ci width 79.5
+ci height 58.1
+ci length 228.3
+ci comp 8.5
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 295@2000
+ci etype V8 overhead valve
+ci englo On pad at front right side of cylinder block.
+ci etype Dual downdraft
+ci b&s 4.13 & 3 3/4
+ci cyl 8
+ci vlift Hydraulic
+ci bhp 150@3200
+ci disp 400
+ci rhp 54.58
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool 12 Quarts
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power windows
+ci equip 454 cu. in. V8 engine
+ci equip Power seats
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15B
+ci sloc Trunk
+cls 2124, 1N45(\w)4(\w)([\dX]{6})
+clv 6194, 1974, Chevrolet, Caprice Classic, Estate Wagon - 3 seat
+ci axle Semifloating
+ci year 1974
+ci series Caprice Classic
+ci origin United States
+ci msrp $4645.00
+ci make Chevrolet
+ci prod 155860
+ci maker Fisher
+ci weight 5004
+ci model 1N45
+ci doors 4
+ci pass 9
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11 55/64
+ci ebrake Rear service brakes
+ci trans 20
+ci oil 4
+ci tcase -NA-
+ci fuel 25
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.73
+ci diff Hypoid
+ci length 228.3
+ci ftred 64.1
+ci width 79.5
+ci wbase 121.5
+ci height 58.1
+ci rtred 64
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.5
+ci etype Turbo Hydra-matic
+ci bhp 150@3200
+ci etype V8 overhead valve
+ci b&s 4.13 & 3 3/4
+ci etype Dual downdraft
+ci englo On pad at front right side of cylinder block.
+ci cyl 8
+ci vlift Hydraulic
+ci trq 295@2000
+ci disp 400
+ci rhp 54.58
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ign Distributor and coil
+ci cool 12 Quarts
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power windows
+ci equip 454 cu. in. V8 engine
+ci equip Power seats
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15B
+ci sloc Trunk
+cls 2125, 1N39(\w)4(\w)([\dX]{6})
+clv 6195, 1974, Chevrolet, Caprice Classic, Hardtop Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci year 1974
+ci msrp $4272.00
+ci series Caprice Classic
+ci prod 155860
+ci origin United States
+ci doors 4
+ci maker Fisher
+ci model 1N39
+ci weight 4344
+ci pass 6
+ci ebrake Rear service brakes
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci trans 20
+ci oil 4
+ci fuel 25
+ci rdiff 4.25
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci wbase 121.5
+ci rtred 64
+ci ftred 64.1
+ci width 79.5
+ci height 54.5
+ci length 222.7
+ci comp 8.5
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 295@2000
+ci etype V8 overhead valve
+ci englo On pad at front right side of cylinder block.
+ci etype Dual downdraft
+ci b&s 4.13 & 3 3/4
+ci cyl 8
+ci disp 400
+ci bhp 150@3200
+ci rhp 54.58
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool 12 Quarts
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power windows
+ci equip 454 cu. in. V8 engine
+ci equip Power seats
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15B
+cls 2126, 1N69(\w)4(\w)([\dX]{6})
+clv 6196, 1974, Chevrolet, Caprice Classic, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci year 1974
+ci msrp $4203.00
+ci series Caprice Classic
+ci prod 155860
+ci origin United States
+ci doors 4
+ci maker Fisher
+ci model 1N69
+ci weight 4294
+ci pass 6
+ci ebrake Rear service brakes
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci trans 20
+ci oil 4
+ci fuel 25
+ci rdiff 4.25
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci wbase 121.5
+ci rtred 64
+ci ftred 64.1
+ci width 79.5
+ci height 54.5
+ci length 222.7
+ci comp 8.5
+ci etype Turbo Hydra-matic
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 295@2000
+ci etype V8 overhead valve
+ci englo On pad at front right side of cylinder block.
+ci etype Dual downdraft
+ci b&s 4.13 & 3 3/4
+ci cyl 8
+ci disp 400
+ci bhp 150@3200
+ci rhp 54.58
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci cool 12 Quarts
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power windows
+ci equip 454 cu. in. V8 engine
+ci equip Power seats
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 15B
+cls 2127, 1E37(\w)4(\w)([\dX]{6})
+clv 6197, 1974, Chevrolet, Chevelle Laguna V8, Sedan
+ci axle Semifloating
+ci year 1974
+ci make Chevrolet
+ci origin United States
+ci series Chevelle Laguna V8
+ci msrp $3816.00
+ci prod 21902
+ci doors 4
+ci maker Fisher
+ci model 1E37
+ci pass 5
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci fuel 20
+ci rdiff 4.25
+ci trans 3
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 206.3
+ci width 76.6
+ci wbase 116
+ci ftred 61.5
+ci height 53.1
+ci rtred 60.7
+ci englo On pad at front right side of cylinder block.
+ci etype V8 overhead valve
+ci cyl 8
+ci comp 8.5
+ci rhp 51.2
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 145@3800
+ci b&s 4 & 3.48
+ci disp 350
+ci trq 250@2200
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci etype Fully synchronous 3-speed manual
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci cool 15 Quarts
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci equip Power brakes
+ci equip Power seats
+ci equip Power windows
+ci equip 454 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci rev 2.95
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 2.85
+ci gears 3
+ci 2gear 1.68
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR70 x 15B
+cls 2128, 1C37(\w)4(\w)([\dX]{6})
+clv 6198, 1974, Chevrolet, Chevelle Malibu 6, Coupe
+ci axle Semifloating
+ci series Chevelle Malibu 6
+ci make Chevrolet
+ci msrp $2878.00
+ci year 1974
+ci prod 27188
+ci origin United States
+ci maker Fisher
+ci weight 3573
+ci model 1C37
+ci doors 2
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci oil 4
+ci fuel 20
+ci tcase -NA-
+ci rdiff 4.25
+ci trans 3
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 116
+ci width 76.6
+ci length 206.3
+ci rtred 60.7
+ci ftred 61.5
+ci height 53.1
+ci etype Fully synchronous 3-speed manual
+ci comp 8.25
+ci cyl 6
+ci rhp 36.04
+ci etype Single downdraft
+ci block Cast alloy iron
+ci b&s 3 7/8 & 3 1/23
+ci bhp 100@3600
+ci disp 250
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Turbo-Thrift valve-in-head
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci vlift Hydraulic
+ci trq 175@1800
+ci mbear 7
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci rad Tube and center
+ci cool 12 Quarts
+ci cool Centrifugal water  pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 2.95
+ci 1gear 2.85
+ci gears 3
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14B
+cls 2129, 1C29(\w)4(\w)([\dX]{6})
+clv 6199, 1974, Chevrolet, Chevelle Malibu 6, Sedan
+ci axle Semifloating
+ci series Chevelle Malibu 6
+ci make Chevrolet
+ci msrp $2873.00
+ci year 1974
+ci prod 27188
+ci origin United States
+ci maker Fisher
+ci doors 4
+ci model 1C29
+ci weight 3638
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci oil 4
+ci trans 3
+ci rdiff 4.25
+ci fuel 20
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci height 53.8
+ci wbase 116
+ci length 209.2
+ci rtred 60.7
+ci ftred 61.5
+ci width 76.6
+ci trq 175@1800
+ci comp 8.25
+ci cyl 6
+ci vlift Hydraulic
+ci etype Single downdraft
+ci block Cast alloy iron
+ci rhp 36.04
+ci bhp 100@3600
+ci b&s 3 7/8 & 3 1/23
+ci disp 250
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Turbo-Thrift valve-in-head
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci etype Fully synchronous 3-speed manual
+ci mbear 7
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci rad Tube and center
+ci cool 12 Quarts
+ci cool Centrifugal water  pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 2.95
+ci 1gear 2.85
+ci gears 3
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14B
+cls 2130, 1D37(\w)4(\w)([\dX]{6})
+clv 6200, 1974, Chevrolet, Chevelle Malibu Classic 6, Coupe
+ci axle Semifloating
+ci series Chevelle Malibu Classic 6
+ci make Chevrolet
+ci msrp $3131.00
+ci year 1974
+ci prod 8940
+ci origin United States
+ci maker Fisher
+ci weight 3609
+ci model 1D37
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci fuel 20
+ci tcase -NA-
+ci oil 4
+ci trans 3
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.08
+ci diff Hypoid
+ci rtred 60.7
+ci wbase 116
+ci height 53.1
+ci ftred 61.5
+ci length 206.3
+ci width 76.6
+ci trq 175@1800
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci comp 8.25
+ci mbear 7
+ci etype Single downdraft
+ci block Cast alloy iron
+ci cyl 6
+ci bhp 100@3600
+ci etype Fully synchronous 3-speed manual
+ci rhp 36.04
+ci etype Turbo-Thrift valve-in-head
+ci disp 250
+ci vlift Hydraulic
+ci b&s 3 7/8 & 3 1/23
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ftype Regular
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 12 Quarts
+ci exha Single
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 2.95
+ci 1gear 2.85
+ci gears 3
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14B
+cls 2131, 1D37(\w)4(\w)([\dX]{6})
+clv 6201, 1974, Chevrolet, Chevelle Malibu Classic 6, Landau
+ci axle Semifloating
+ci series Chevelle Malibu Classic 6
+ci make Chevrolet
+ci msrp $3307.00
+ci prod 8940
+ci year 1974
+ci origin United States
+ci maker Fisher
+ci model 1D37
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci fuel 20
+ci tcase -NA-
+ci rdiff 4.25
+ci oil 4
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci height 53.1
+ci rtred 60.7
+ci length 206.3
+ci ftred 61.5
+ci width 76.6
+ci wbase 116
+ci comp 8.25
+ci mbear 7
+ci cyl 6
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci bhp 100@3600
+ci disp 250
+ci rhp 36.04
+ci etype Fully synchronous 3-speed manual
+ci etype Turbo-Thrift valve-in-head
+ci vlift Hydraulic
+ci b&s 3 7/8 & 3 1/23
+ci trq 175@1800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool 12 Quarts
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.95
+ci drive Rear wheel drive
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14B
+ci sloc Trunk
+cls 2132, 1D29(\w)4(\w)([\dX]{6})
+clv 6202, 1974, Chevrolet, Chevelle Malibu Classic 6, Sedan
+ci axle Semifloating
+ci series Chevelle Malibu Classic 6
+ci make Chevrolet
+ci msrp $3128.00
+ci year 1974
+ci prod 8940
+ci origin United States
+ci maker Fisher
+ci weight 3695
+ci model 1D29
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci fuel 20
+ci tcase -NA-
+ci trans 3
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.08
+ci height 53.8
+ci wbase 116
+ci rtred 60.7
+ci ftred 61.5
+ci length 209.2
+ci width 76.6
+ci trq 175@1800
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci comp 8.25
+ci mbear 7
+ci etype Single downdraft
+ci block Cast alloy iron
+ci cyl 6
+ci bhp 100@3600
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 36.04
+ci etype Turbo-Thrift valve-in-head
+ci vlift Hydraulic
+ci b&s 3 7/8 & 3 1/23
+ci etype Fully synchronous 3-speed manual
+ci disp 250
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ftype Regular
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 12 Quarts
+ci exha Single
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Power brakes
+ci equip Power seats
+ci equip Air conditioning
+ci equip Power windows
+ci equip Radio
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 2.95
+ci 1gear 2.85
+ci gears 3
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14B
+cls 2133, 1D37(\w)4(\w)([\dX]{6})
+clv 6203, 1974, Chevrolet, Chevelle Malibu Classic V8, Coupe
+ci axle Semifloating
+ci msrp $3274.00
+ci make Chevrolet
+ci series Chevelle Malibu Classic V8
+ci year 1974
+ci origin United States
+ci prod 195930
+ci pass 6
+ci doors 2
+ci maker Fisher
+ci model 1D37
+ci weight 3759
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci rdiff 4.25
+ci fuel 20
+ci tcase -NA-
+ci trans 3
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 116
+ci length 206.3
+ci width 76.6
+ci height 53.1
+ci ftred 61.5
+ci rtred 60.7
+ci rhp 51.2
+ci bhp 145@3800
+ci cyl 8
+ci comp 8.5
+ci b&s 4 & 3.48
+ci disp 350
+ci englo On pad at front right side of cylinder block.
+ci trq 250@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci exha Single
+ci rad Tube and center
+ci ftype Regular
+ci batt 12
+ci cool 15 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip 454 cu. in. V8 engine
+ci equip Radio
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14B
+cls 2134, 1G35(\w)4(\w)([\dX]{6})
+clv 6204, 1974, Chevrolet, Chevelle Malibu Classic V8, Estate Wagon - 2 seat
+ci axle Semifloating
+ci series Chevelle Malibu Classic V8
+ci make Chevrolet
+ci origin United States
+ci prod 44108
+ci msrp $3954.00
+ci year 1974
+ci model 1G35
+ci maker Fisher
+ci weight 4306
+ci pass 6
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci tcase -NA-
+ci trans 3
+ci rdiff 4.25
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 216.2
+ci wbase 116
+ci ftred 61.5
+ci height 55.7
+ci width 76.6
+ci rtred 60.7
+ci b&s 4 & 3.48
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.5
+ci rhp 51.2
+ci bhp 145@3800
+ci trq 250@2200
+ci englo On pad at front right side of cylinder block.
+ci disp 350
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool 15 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip 454 cu. in. V8 engine
+ci equip Radio
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15B
+cls 2135, 1G45(\w)4(\w)([\dX]{6})
+clv 6205, 1974, Chevrolet, Chevelle Malibu Classic V8, Estate Wagon - 3 seat
+ci axle Semifloating
+ci series Chevelle Malibu Classic V8
+ci make Chevrolet
+ci origin United States
+ci prod 44108
+ci msrp $4087.00
+ci year 1974
+ci model 1G45
+ci maker Fisher
+ci weight 4338
+ci pass 9
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci tcase -NA-
+ci trans 3
+ci rdiff 4.25
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 216.2
+ci wbase 116
+ci width 76.6
+ci height 55.7
+ci rtred 60.7
+ci ftred 61.5
+ci b&s 4 & 3.48
+ci cyl 8
+ci comp 8.5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci bhp 145@3800
+ci trq 250@2200
+ci englo On pad at front right side of cylinder block.
+ci disp 350
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool 15 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip 454 cu. in. V8 engine
+ci equip Radio
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15B
+cls 2136, 1D37(\w)4(\w)([\dX]{6})
+clv 6206, 1974, Chevrolet, Chevelle Malibu Classic V8, Landau
+ci axle Semifloating
+ci year 1974
+ci series Chevelle Malibu Classic V8
+ci origin United States
+ci prod 195930
+ci msrp $3450.00
+ci make Chevrolet
+ci maker Fisher
+ci pass 6
+ci model 1D37
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci trans 3
+ci rdiff 4.25
+ci carb Rochester
+ci csize 10 1/3 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci length 206.3
+ci width 76.6
+ci ftred 61.5
+ci height 53.1
+ci wbase 116
+ci rtred 60.7
+ci b&s 4 & 3.48
+ci rhp 51.2
+ci cyl 8
+ci comp 8.5
+ci disp 350
+ci englo On pad at front right side of cylinder block.
+ci trq 250@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 145@3800
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci cool 15 Quarts
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip Power windows
+ci equip 454 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power seats
+ci equip Power steering
+ci equip Radio
+ci equip 400 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.85
+ci rev 2.95
+ci gears 3
+ci 3gear 1
+ci 2gear 1.68
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14B
+cls 2137, 1D29(\w)4(\w)([\dX]{6})
+clv 6207, 1974, Chevrolet, Chevelle Malibu Classic V8, Sedan
+ci axle Semifloating
+ci msrp $3271.00
+ci make Chevrolet
+ci series Chevelle Malibu Classic V8
+ci year 1974
+ci origin United States
+ci prod 195930
+ci pass 6
+ci weight 3845
+ci maker Fisher
+ci model 1D29
+ci doors 4
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci rdiff 4.25
+ci trans 3
+ci tcase -NA-
+ci fuel 20
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diffr 3.08
+ci diff Hypoid
+ci wbase 116
+ci length 209.2
+ci width 76.6
+ci height 53.8
+ci ftred 61.5
+ci rtred 60.7
+ci rhp 51.2
+ci bhp 145@3800
+ci cyl 8
+ci comp 8.5
+ci b&s 4 & 3.48
+ci disp 350
+ci englo On pad at front right side of cylinder block.
+ci trq 250@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool 15 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip 454 cu. in. V8 engine
+ci equip Radio
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14B
+cls 2138, 1D35(\w)4(\w)([\dX]{6})
+clv 6208, 1974, Chevrolet, Chevelle Malibu Classic V8, Station Wagon 2-seat
+ci axle Semifloating
+ci series Chevelle Malibu Classic V8
+ci make Chevrolet
+ci origin United States
+ci prod 44108
+ci msrp $3781.00
+ci year 1974
+ci model 1D35
+ci maker Fisher
+ci weight 4283
+ci pass 6
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci tcase -NA-
+ci trans 3
+ci rdiff 4.25
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 216.2
+ci wbase 116
+ci ftred 61.5
+ci height 55.7
+ci width 76.6
+ci rtred 60.7
+ci b&s 4 & 3.48
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.5
+ci rhp 51.2
+ci bhp 145@3800
+ci trq 250@2200
+ci englo On pad at front right side of cylinder block.
+ci disp 350
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool 15 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip 454 cu. in. V8 engine
+ci equip Radio
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15B
+cls 2139, 1D45(\w)4(\w)([\dX]{6})
+clv 6209, 1974, Chevrolet, Chevelle Malibu Classic V8, Station Wagon 3-seat
+ci axle Semifloating
+ci series Chevelle Malibu Classic V8
+ci make Chevrolet
+ci origin United States
+ci prod 44108
+ci msrp $3914.00
+ci year 1974
+ci model 1D45
+ci maker Fisher
+ci weight 4315
+ci pass 9
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci tcase -NA-
+ci trans 3
+ci rdiff 4.25
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 216.2
+ci wbase 116
+ci width 76.6
+ci height 55.7
+ci rtred 60.7
+ci ftred 61.5
+ci b&s 4 & 3.48
+ci cyl 8
+ci comp 8.5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci bhp 145@3800
+ci trq 250@2200
+ci englo On pad at front right side of cylinder block.
+ci disp 350
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool 15 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip 454 cu. in. V8 engine
+ci equip Radio
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15B
+cls 2140, 1C37(\w)4(\w)([\dX]{6})
+clv 6210, 1974, Chevrolet, Chevelle Malibu V8, Coupe
+ci axle Semifloating
+ci msrp $3021.00
+ci make Chevrolet
+ci prod 64424
+ci year 1974
+ci origin United States
+ci series Chevelle Malibu V8
+ci pass 6
+ci weight 3723
+ci model 1C37
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci rdiff 4.25
+ci fuel 20
+ci trans 3
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 1/3 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci length 206.3
+ci width 76.6
+ci height 53.1
+ci wbase 116
+ci rtred 60.7
+ci ftred 61.5
+ci b&s 4 & 3.48
+ci rhp 51.2
+ci cyl 8
+ci comp 8.5
+ci disp 350
+ci englo On pad at front right side of cylinder block.
+ci trq 250@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 145@3800
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci exha Single
+ci rad Tube and center
+ci ftype Regular
+ci batt 12
+ci cool 15 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip 454 cu. in. V8 engine
+ci equip Radio
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14B
+cls 2141, 1C29(\w)4(\w)([\dX]{6})
+clv 6211, 1974, Chevrolet, Chevelle Malibu V8, Sedan
+ci axle Semifloating
+ci msrp $3016.00
+ci series Chevelle Malibu V8
+ci prod 64424
+ci year 1974
+ci origin United States
+ci make Chevrolet
+ci weight 3788
+ci doors 4
+ci model 1C29
+ci pass 6
+ci maker Fisher
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci fuel 20
+ci trans 3
+ci rdiff 4.25
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diffr 3.08
+ci diff Hypoid
+ci width 76.6
+ci wbase 116
+ci height 53.8
+ci length 209.2
+ci rtred 60.7
+ci ftred 61.5
+ci b&s 4 & 3.48
+ci rhp 51.2
+ci cyl 8
+ci comp 8.5
+ci disp 350
+ci englo On pad at front right side of cylinder block.
+ci trq 250@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 145@3800
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool 15 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip 454 cu. in. V8 engine
+ci equip Radio
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize G78 x 14B
+cls 2142, 1C45(\w)4(\w)([\dX]{6})
+clv 6212, 1974, Chevrolet, Chevelle Malibu V8, Special Station Wagon 2-seat
+ci axle Semifloating
+ci series Chevelle Malibu V8
+ci make Chevrolet
+ci origin United States
+ci prod 44108
+ci msrp $3497.00
+ci year 1974
+ci model 1C45
+ci maker Fisher
+ci weight 4223
+ci pass 9
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci tcase -NA-
+ci trans 3
+ci rdiff 4.25
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 216.2
+ci wbase 116
+ci width 76.6
+ci height 55.7
+ci rtred 60.7
+ci ftred 61.5
+ci b&s 4 & 3.48
+ci cyl 8
+ci comp 8.5
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci bhp 145@3800
+ci trq 250@2200
+ci englo On pad at front right side of cylinder block.
+ci disp 350
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool 15 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip 454 cu. in. V8 engine
+ci equip Radio
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15B
+cls 2143, 1C35(\w)4(\w)([\dX]{6})
+clv 6213, 1974, Chevrolet, Chevelle Malibu V8, Station Wagon 2-seat
+ci axle Semifloating
+ci series Chevelle Malibu V8
+ci make Chevrolet
+ci origin United States
+ci prod 44108
+ci msrp $3364.00
+ci year 1974
+ci model 1C35
+ci maker Fisher
+ci weight 4191
+ci pass 6
+ci doors 4
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci tcase -NA-
+ci trans 3
+ci rdiff 4.25
+ci fuel 20
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 216.2
+ci wbase 116
+ci ftred 61.5
+ci height 55.7
+ci width 76.6
+ci rtred 60.7
+ci b&s 4 & 3.48
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci comp 8.5
+ci rhp 51.2
+ci bhp 145@3800
+ci trq 250@2200
+ci englo On pad at front right side of cylinder block.
+ci disp 350
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci cool 15 Quarts
+ci equip 400 cu. in. V8 engine
+ci equip 454 cu. in. V8 engine
+ci equip Radio
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 1gear 2.85
+ci 2gear 1.68
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15B
+cls 2144, 1Z67(\w)4(\w)([\dX]{6})
+clv 6214, 1974, Chevrolet, Corvette, Convertible
+ci axle Semifloating
+ci make Chevrolet
+ci prod 5474
+ci msrp $5766.00
+ci year 1974
+ci origin United States
+ci series Corvette
+ci maker Fisher
+ci pass 2
+ci weight 3532
+ci model 1Z67
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11 55/64
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 3
+ci rdiff 4.25
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci length 185.5
+ci wbase 98
+ci width 69
+ci height 47.7
+ci rtred 59.4
+ci ftred 58.7
+ci cyl 8
+ci rhp 51.2
+ci etype V8 overhead valve
+ci etype Unknown at time of publication
+ci etype Downdraft 4-barrel
+ci b&s 4 & 3.48
+ci englo On pad at front right side of cylinder block.
+ci bhp 195@4400
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 350
+ci trq 275@2800
+ci vlift Hydraulic
+ci comp 8.5
+ci color Exterior Colors
+co Bright Yellow
+co Classic White
+co Dark Green Afflair Metallic
+co Grey Metallic
+co Midnight Blue Metallic
+co Mille Miglia Red
+co Orange Metallic
+co Silver Metallic
+ci ign Distributor and coil
+ci ftype Premium
+ci rad Tube and center
+ci exha Dual
+ci batt 12
+ci cool Centrifugal water  pump
+ci cool 14 Quarts
+ci equip Air conditioning
+ci equip Auxiliary hardtop for convertibles
+ci equip Radio
+ci equip Power brakes
+ci equip 454 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Turbo Hydramatic automatic transmission
+ci equip 4-Speed manual transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Transverse leaf springs
+ci drive Rear wheel drive
+ci 1gear 2.52
+ci 2gear 1.88
+ci 3gear 1.46
+ci 5gear Not applicable
+ci 4gear 1
+ci gears 4
+ci rev 2.59
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize GR70 x 15B
+ci sloc Trunk
+cls 2145, 1Z37(\w)4(\w)([\dX]{6})
+clv 6215, 1974, Chevrolet, Corvette, Sport Coupe
+ci axle Semifloating
+ci prod 32028
+ci make Chevrolet
+ci msrp $6002.00
+ci year 1974
+ci origin United States
+ci series Corvette
+ci maker Fisher
+ci pass 2
+ci weight 3388
+ci model 1Z37
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11 55/64
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 3
+ci rdiff 4.25
+ci fuel 20
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.36
+ci length 185.5
+ci wbase 98
+ci width 69
+ci rtred 59.4
+ci height 47.7
+ci ftred 58.7
+ci cyl 8
+ci b&s 4 & 3.48
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci comp 8.5
+ci etype Unknown at time of publication
+ci englo On pad at front right side of cylinder block.
+ci bhp 195@4400
+ci etype Downdraft 4-barrel
+ci disp 350
+ci trq 275@2800
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Bright Yellow
+co Classic White
+co Dark Green Afflair Metallic
+co Grey Metallic
+co Midnight Blue Metallic
+co Mille Miglia Red
+co Orange Metallic
+co Silver Metallic
+ci batt 12
+ci rad Tube and center
+ci exha Dual
+ci ign Distributor and coil
+ci cool 14 Quarts
+ci cool Centrifugal water  pump
+ci ftype Premium
+ci equip Power windows
+ci equip Air conditioning
+ci equip 4-Speed manual transmission
+ci equip Power brakes
+ci equip 454 cu. in. V8 engine
+ci equip Power steering
+ci equip Radio
+ci equip Auxiliary hardtop for convertibles
+ci equip Turbo Hydramatic automatic transmission
+ci sgear Recirculating ball and nut
+ci rsus Transverse leaf springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.88
+ci 3gear 1.46
+ci 1gear 2.52
+ci 4gear 1
+ci gears 4
+ci rev 2.59
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize GR70 x 15B
+cls 2146, 1D80(\w)4(\w)([\dX]{6})
+clv 6216, 1974, Chevrolet, El Camino Classic, Malibu Sedan Pickup
+ci axle Semifloating
+ci series El Camino Classic
+ci origin United States
+ci make Chevrolet
+ci year 1974
+ci maker Fisher
+ci doors 2
+ci model 1D80
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci fuel 20
+ci trans 3
+ci rdiff 4.25
+ci tcase -NA-
+ci oil 4
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diffr 3.08
+ci diff Hypoid
+ci length 213.4
+ci wbase 116
+ci height 55.2
+ci rtred 59.2
+ci ftred 59.3
+ci width 76.6
+ci etype V8 overhead valve
+ci comp 8.5
+ci cyl 8
+ci englo On pad at front right side of cylinder block.
+ci rhp 51.2
+ci bhp 145@3800
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci b&s 4 & 3.48
+ci trq 250@2200
+ci vlift Hydraulic
+ci etype Fully synchronous 3-speed manual
+ci disp 350
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ign Distributor and coil
+ci rad Tube and center
+ci ftype Regular
+ci cool 15 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci gears 3
+ci 1gear 2.85
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 14
+ci sloc Trunk
+cls 2147, 1C80(\w)4(\w)([\dX]{6})
+clv 6217, 1974, Chevrolet, El Camino, Malibu Sedan Pickup
+ci axle Semifloating
+ci series El Camino
+ci year 1974
+ci origin United States
+ci make Chevrolet
+ci doors 2
+ci model 1C80
+ci maker Fisher
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci fuel 20
+ci tcase -NA-
+ci rdiff 4.25
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.08
+ci diff Hypoid
+ci rtred 59.2
+ci height 55.2
+ci length 213.4
+ci ftred 59.3
+ci wbase 116
+ci width 76.6
+ci trq 175@1800
+ci comp 8.25
+ci disp 250
+ci etype Single downdraft
+ci block Cast alloy iron
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci b&s 3 7/8 & 3 1/23
+ci bhp 100@3600
+ci rhp 36.04
+ci etype Turbo-Thrift valve-in-head
+ci etype Fully synchronous 3-speed manual
+ci vlift Hydraulic
+ci mbear 7
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci cool 12 Quarts
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci gears 3
+ci 1gear 2.85
+ci rev 2.95
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 14
+ci sloc Trunk
+cls 2148, 1L47(\w)4(\w)([\dX]{6})
+clv 6218, 1974, Chevrolet, Impala Custom, Coupe
+ci axle Semifloating
+ci msrp $3964.00
+ci prod 405286
+ci make Chevrolet
+ci origin United States
+ci series Impala Custom
+ci year 1974
+ci pass 6
+ci model 1L47
+ci doors 2
+ci maker Fisher
+ci weight 4169
+ci ebrake Rear service brakes
+ci fbsize 11 55/64
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fuel 25
+ci tcase -NA-
+ci oil 4
+ci trans 20
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.08
+ci ftred 64.1
+ci rtred 64
+ci height 53.7
+ci wbase 121.5
+ci length 222.7
+ci width 79.5
+ci comp 8.5
+ci etype V8 overhead valve
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci rhp 51.2
+ci etype Turbo Hydra-matic
+ci englo On pad at front right side of cylinder block.
+ci vlift Hydraulic
+ci bhp 145@3800
+ci trq 250@2200
+ci b&s 4 & 3.48
+ci disp 350
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ftype Regular
+ci cool 12 Quarts
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci rad Tube and center
+ci ign Distributor and coil
+ci equip Radio
+ci equip Speed control device
+ci equip Power windows
+ci equip Power seats
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil link
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15B
+ci sloc Trunk
+cls 2149, 1L57(\w)4(\w)([\dX]{6})
+clv 6219, 1974, Chevrolet, Impala, Hardtop Coupe
+ci axle Semifloating
+ci msrp $3897.00
+ci year 1974
+ci make Chevrolet
+ci origin United States
+ci series Impala
+ci prod 405286
+ci weight 4167
+ci model 1L57
+ci doors 2
+ci pass 6
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11 55/64
+ci trans 20
+ci tcase -NA-
+ci fuel 25
+ci rdiff 4.25
+ci oil 4
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci rtred 64
+ci wbase 121.5
+ci length 222.7
+ci ftred 64.1
+ci width 79.5
+ci height 53.7
+ci comp 8.5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci etype V8 overhead valve
+ci englo On pad at front right side of cylinder block.
+ci etype Dual downdraft
+ci b&s 4 & 3.48
+ci etype Turbo Hydra-matic
+ci trq 250@2200
+ci vlift Hydraulic
+ci bhp 145@3800
+ci disp 350
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool 12 Quarts
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci rad Tube and center
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci equip Power seats
+ci equip 454 cu. in. V8 engine
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15B
+ci sloc Trunk
+cls 2150, 1L39(\w)4(\w)([\dX]{6})
+clv 6220, 1974, Chevrolet, Impala, Hardtop Sedan
+ci axle Semifloating
+ci origin United States
+ci make Chevrolet
+ci prod 405286
+ci msrp $3950.00
+ci series Impala
+ci year 1974
+ci doors 4
+ci model 1L39
+ci weight 4256
+ci maker Fisher
+ci pass 6
+ci bsize 11
+ci ebrake Rear service brakes
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci rdiff 4.25
+ci fuel 25
+ci oil 4
+ci trans 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci rtred 64
+ci length 222.7
+ci height 53.9
+ci ftred 64.1
+ci wbase 121.5
+ci width 79.5
+ci comp 8.5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci bhp 145@3800
+ci englo On pad at front right side of cylinder block.
+ci etype Dual downdraft
+ci trq 250@2200
+ci etype Turbo Hydra-matic
+ci etype V8 overhead valve
+ci b&s 4 & 3.48
+ci disp 350
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci batt 12
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci rad Tube and center
+ci cool 12 Quarts
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Power seats
+ci equip 400 cu. in. V8 engine
+ci equip 454 cu. in. V8 engine
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15B
+ci sloc Trunk
+cls 2151, 1L69(\w)4(\w)([\dX]{6})
+clv 6221, 1974, Chevrolet, Impala, Sedan
+ci axle Semifloating
+ci origin United States
+ci make Chevrolet
+ci prod 405286
+ci msrp $3870.00
+ci series Impala
+ci year 1974
+ci doors 4
+ci model 1L69
+ci weight 4205
+ci maker Fisher
+ci pass 6
+ci bsize 11
+ci ebrake Rear service brakes
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci rdiff 4.25
+ci fuel 25
+ci oil 4
+ci trans 20
+ci tcase -NA-
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci rtred 64
+ci length 222.7
+ci height 54.5
+ci ftred 64.1
+ci wbase 121.5
+ci width 79.5
+ci comp 8.5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci bhp 145@3800
+ci englo On pad at front right side of cylinder block.
+ci etype Dual downdraft
+ci trq 250@2200
+ci etype Turbo Hydra-matic
+ci etype V8 overhead valve
+ci b&s 4 & 3.48
+ci disp 350
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci batt 12
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci ftype Regular
+ci exha Single
+ci rad Tube and center
+ci cool 12 Quarts
+ci equip Power windows
+ci equip Radio
+ci equip Air conditioning
+ci equip Power seats
+ci equip 400 cu. in. V8 engine
+ci equip 454 cu. in. V8 engine
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize G78 x 15B
+ci sloc Trunk
+cls 2152, 1L35(\w)4(\w)([\dX]{6})
+clv 6222, 1974, Chevrolet, Impala, Station Wagon 2-seat
+ci axle Semifloating
+ci origin United States
+ci make Chevrolet
+ci prod 405286
+ci msrp $4292.00
+ci series Impala
+ci year 1974
+ci doors 4
+ci model 1L35
+ci weight 4891
+ci maker Fisher
+ci pass 6
+ci bsize 11
+ci ebrake Rear service brakes
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci trans 20
+ci tcase -NA-
+ci oil 4
+ci rdiff 4.25
+ci fuel 25
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci height 58.1
+ci wbase 121.5
+ci rtred 64
+ci ftred 64.1
+ci width 79.5
+ci length 228.3
+ci disp 350
+ci bhp 145@3800
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci etype V8 overhead valve
+ci b&s 4 & 3.48
+ci etype Dual downdraft
+ci englo On pad at front right side of cylinder block.
+ci rhp 51.2
+ci vlift Hydraulic
+ci comp 8.5
+ci etype Turbo Hydra-matic
+ci trq 250@2200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool 12 Quarts
+ci exha Single
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip Air conditioning
+ci equip Radio
+ci equip 400 cu. in. V8 engine
+ci equip 454 cu. in. V8 engine
+ci equip Power seats
+ci equip Power windows
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15B
+cls 2153, 1L45(\w)4(\w)([\dX]{6})
+clv 6223, 1974, Chevrolet, Impala, Station Wagon 3-seat
+ci axle Semifloating
+ci origin United States
+ci make Chevrolet
+ci prod 405286
+ci msrp $4406.00
+ci series Impala
+ci year 1974
+ci doors 4
+ci model 1L45
+ci weight 4936
+ci maker Fisher
+ci pass 9
+ci bsize 11
+ci ebrake Rear service brakes
+ci fbsize 11 55/64
+ci svc Power front disc rear self-adjusting drum
+ci fuel 25
+ci tcase -NA-
+ci oil 4
+ci trans 20
+ci rdiff 4.25
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.73
+ci diff Hypoid
+ci ftred 64.1
+ci rtred 64
+ci height 58.1
+ci width 79.5
+ci length 228.3
+ci wbase 121.5
+ci disp 350
+ci bhp 145@3800
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci etype V8 overhead valve
+ci b&s 4 & 3.48
+ci etype Dual downdraft
+ci englo On pad at front right side of cylinder block.
+ci rhp 51.2
+ci vlift Hydraulic
+ci comp 8.5
+ci etype Turbo Hydra-matic
+ci trq 250@2200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool 12 Quarts
+ci exha Single
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip Air conditioning
+ci equip Radio
+ci equip 400 cu. in. V8 engine
+ci equip 454 cu. in. V8 engine
+ci equip Power seats
+ci equip Power windows
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15B
+cls 2154, 1H57(\w)4(\w)([\dX]{6})
+clv 6225, 1974, Chevrolet, Monte Carlo, Landau
+ci axle Semifloating
+ci origin United States
+ci series Monte Carlo
+ci make Chevrolet
+ci msrp $4025.00
+ci year 1974
+ci prod 312217
+ci model 1H57
+ci doors 2
+ci weight 3950
+ci pass 6
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11
+ci bsize 9.5
+ci oil 4
+ci fuel 20
+ci tcase -NA-
+ci rdiff 4.25
+ci trans 3
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.73
+ci ftred 61.9
+ci rtred 61.1
+ci wbase 116
+ci width 76.7
+ci height 52.7
+ci length 213.1
+ci disp 350
+ci etype V8 overhead valve
+ci bhp 145@3800
+ci cyl 8
+ci trq 250@2200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci englo On pad at front right side of cylinder block.
+ci rhp 51.2
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci comp 8.5
+ci b&s 4 & 3.48
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci exha Single
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci rad Tube and center
+ci cool 15 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci equip 454 cu. in. V8 engine
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci rsus Coil link
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize GR70 x 15B
+ci sloc Trunk
+cls 2155, 1X27(\w)4(\w)([\dX]{6})
+clv 6226, 1974, Chevrolet, Nova 6, Coupe
+ci axle Semifloating
+ci make Chevrolet
+ci series Nova 6
+ci msrp $2647.00
+ci prod 13722
+ci year 1974
+ci origin United States
+ci doors 2
+ci maker Fisher
+ci weight 3150
+ci model 1X27
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci oil 4
+ci fuel 18
+ci rdiff 4.25
+ci trans 3
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.08
+ci length 196.7
+ci wbase 111
+ci rtred 59.6
+ci ftred 59.8
+ci width 72.4
+ci height 52.5
+ci vlift Hydraulic
+ci comp 8.25
+ci cyl 6
+ci rhp 36.04
+ci b&s 3 7/8 & 3 1/23
+ci block Cast alloy iron
+ci disp 250
+ci bhp 100@3600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci etype Turbo-Thrift valve-in-head
+ci trq 175@1800
+ci etype Fully synchronous 3-speed manual
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci mbear 7
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci cool 12 Quarts
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci 1gear 2.85
+ci rev 2.95
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14B
+ci sloc Trunk
+cls 2156, 1X17(\w)4(\w)([\dX]{6})
+clv 6227, 1974, Chevrolet, Nova 6, Hatchback
+ci axle Semifloating
+ci make Chevrolet
+ci series Nova 6
+ci msrp $2798.00
+ci prod 87399
+ci year 1974
+ci origin United States
+ci doors 2
+ci weight 3260
+ci model 1X17
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci tcase -NA-
+ci oil 4
+ci fuel 18
+ci rdiff 4.25
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci height 52.5
+ci width 72.4
+ci ftred 59.8
+ci length 196.7
+ci wbase 111
+ci rtred 59.6
+ci comp 8.25
+ci mbear 7
+ci cyl 6
+ci rhp 36.04
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci bhp 100@3600
+ci vlift Hydraulic
+ci disp 250
+ci etype Single downdraft
+ci etype Turbo-Thrift valve-in-head
+ci etype Fully synchronous 3-speed manual
+ci trq 175@1800
+ci b&s 3 7/8 & 3 1/23
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci rad Tube and center
+ci cool 12 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci batt 12
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.95
+ci gears 3
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14B
+ci sloc Trunk
+cls 2157, 1X69(\w)4(\w)([\dX]{6})
+clv 6228, 1974, Chevrolet, Nova 6, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci series Nova 6
+ci msrp $2677.00
+ci year 1974
+ci prod 42105
+ci origin United States
+ci doors 4
+ci weight 3192
+ci model 1X69
+ci maker Fisher
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci rdiff 4.25
+ci tcase -NA-
+ci oil 4
+ci fuel 18
+ci trans 3
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.08
+ci diff Hypoid
+ci width 72.4
+ci length 196.7
+ci rtred 59.6
+ci ftred 59.8
+ci wbase 111
+ci height 52.5
+ci mbear 7
+ci comp 8.25
+ci cyl 6
+ci rhp 36.04
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 7/8 & 3 1/23
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci bhp 100@3600
+ci vlift Hydraulic
+ci disp 250
+ci etype Single downdraft
+ci etype Turbo-Thrift valve-in-head
+ci etype Fully synchronous 3-speed manual
+ci trq 175@1800
+ci block Cast alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci rad Tube and center
+ci cool 12 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci batt 12
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.95
+ci gears 3
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14B
+ci sloc Trunk
+cls 2158, 1Y27(\w)4(\w)([\dX]{6})
+clv 6229, 1974, Chevrolet, Nova Custom 6, Coupe
+ci axle Semifloating
+ci make Chevrolet
+ci series Nova Custom 6
+ci msrp $2821.00
+ci prod 9631
+ci year 1974
+ci origin United States
+ci doors 2
+ci weight 3206
+ci model 1Y27
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci oil 4
+ci rdiff 4.25
+ci fuel 18
+ci tcase -NA-
+ci trans 3
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 111
+ci width 72.4
+ci ftred 59.8
+ci length 196.7
+ci height 52.5
+ci rtred 59.6
+ci comp 8.25
+ci mbear 7
+ci cyl 6
+ci rhp 36.04
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci bhp 100@3600
+ci vlift Hydraulic
+ci disp 250
+ci etype Single downdraft
+ci etype Turbo-Thrift valve-in-head
+ci etype Fully synchronous 3-speed manual
+ci trq 175@1800
+ci b&s 3 7/8 & 3 1/23
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci rad Tube and center
+ci cool 12 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci batt 12
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.95
+ci gears 3
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14B
+ci sloc Trunk
+cls 2159, 1Y17(\w)4(\w)([\dX]{6})
+clv 6230, 1974, Chevrolet, Nova Custom 6, Hatchback
+ci axle Semifloating
+ci make Chevrolet
+ci series Nova Custom 6
+ci msrp $2971.00
+ci year 1974
+ci prod 11115
+ci origin United States
+ci doors 2
+ci maker Fisher
+ci weight 3299
+ci model 1Y17
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci oil 4
+ci fuel 18
+ci rdiff 4.25
+ci trans 3
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.08
+ci length 196.7
+ci wbase 111
+ci rtred 59.6
+ci ftred 59.8
+ci width 72.4
+ci height 52.5
+ci vlift Hydraulic
+ci comp 8.25
+ci cyl 6
+ci rhp 36.04
+ci b&s 3 7/8 & 3 1/23
+ci block Cast alloy iron
+ci disp 250
+ci bhp 100@3600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci etype Turbo-Thrift valve-in-head
+ci trq 175@1800
+ci etype Fully synchronous 3-speed manual
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci mbear 7
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci cool 12 Quarts
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci 1gear 2.85
+ci rev 2.95
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14B
+ci sloc Trunk
+cls 2160, 1Y69(\w)4(\w)([\dX]{6})
+clv 6231, 1974, Chevrolet, Nova Custom 6, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci series Nova Custom 6
+ci msrp $2850.00
+ci year 1974
+ci prod 7458
+ci origin United States
+ci weight 3233
+ci doors 4
+ci model 1Y69
+ci maker Fisher
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 4.25
+ci oil 4
+ci trans 3
+ci fuel 18
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 111
+ci width 72.4
+ci ftred 59.8
+ci length 196.7
+ci height 52.5
+ci rtred 59.6
+ci mbear 7
+ci comp 8.25
+ci cyl 6
+ci rhp 36.04
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 7/8 & 3 1/23
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci bhp 100@3600
+ci vlift Hydraulic
+ci disp 250
+ci etype Single downdraft
+ci etype Turbo-Thrift valve-in-head
+ci etype Fully synchronous 3-speed manual
+ci trq 175@1800
+ci block Cast alloy iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci rad Tube and center
+ci cool 12 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci batt 12
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 2.95
+ci gears 3
+ci 1gear 2.85
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14B
+ci sloc Trunk
+cls 2161, 1Y27(\w)4(\w)([\dX]{6})
+clv 6232, 1974, Chevrolet, Nova Custom V8, Coupe
+ci axle Semifloating
+ci make Chevrolet
+ci series Nova Custom V8
+ci msrp $2929.00
+ci prod 36653
+ci year 1974
+ci origin United States
+ci pass 6
+ci weight 3344
+ci model 1Y27
+ci doors 2
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci trans 3
+ci oil 4
+ci fuel 18
+ci rdiff 4.25
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 1/3 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 111
+ci length 196.7
+ci width 72.4
+ci rtred 59.6
+ci ftred 59.8
+ci height 52.5
+ci b&s 3 7/8 & 3 1/4
+ci cyl 8
+ci comp 8.5
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci englo On pad at front right side of cylinder block.
+ci rhp 48.05
+ci etype Turbo-Fire V8 valve-in-head
+ci etype Dual downdraft
+ci bhp 115@3600
+ci vlift Hydraulic
+ci trq 205@2000
+ci etype Fully synchronous 3-speed manual
+ci disp 307
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci exha Single
+ci ftype Regular
+ci rad Tube and center
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci rev 2.95
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.85
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14B
+cls 2162, 1Y17(\w)4(\w)([\dX]{6})
+clv 6233, 1974, Chevrolet, Nova Custom V8, Hatchback
+ci axle Semifloating
+ci make Chevrolet
+ci series Nova Custom V8
+ci msrp $3079.00
+ci prod 39912
+ci year 1974
+ci origin United States
+ci pass 6
+ci weight 3437
+ci model 1Y17
+ci doors 2
+ci maker Fisher
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci trans 3
+ci oil 4
+ci fuel 18
+ci rdiff 4.25
+ci tcase -NA-
+ci carb Rochester
+ci csize 10 1/3 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 111
+ci length 196.7
+ci width 72.4
+ci rtred 59.6
+ci ftred 59.8
+ci height 52.5
+ci b&s 3 7/8 & 3 1/4
+ci cyl 8
+ci comp 8.5
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci englo On pad at front right side of cylinder block.
+ci rhp 48.05
+ci etype Turbo-Fire V8 valve-in-head
+ci etype Dual downdraft
+ci bhp 115@3600
+ci vlift Hydraulic
+ci trq 205@2000
+ci etype Fully synchronous 3-speed manual
+ci disp 307
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci exha Single
+ci ftype Regular
+ci rad Tube and center
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci rev 2.95
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.85
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14B
+cls 2163, 1Y69(\w)4(\w)([\dX]{6})
+clv 6234, 1974, Chevrolet, Nova Custom V8, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci series Nova Custom V8
+ci msrp $2958.00
+ci prod 17340
+ci year 1974
+ci origin United States
+ci pass 6
+ci weight 3371
+ci maker Fisher
+ci model 1Y69
+ci doors 4
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc Hydraulic self-adjusting
+ci rdiff 4.25
+ci fuel 18
+ci tcase -NA-
+ci trans 3
+ci oil 4
+ci carb Rochester
+ci csize 10 1/3 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 111
+ci length 196.7
+ci width 72.4
+ci rtred 59.6
+ci ftred 59.8
+ci height 52.5
+ci b&s 3 7/8 & 3 1/4
+ci cyl 8
+ci comp 8.5
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci englo On pad at front right side of cylinder block.
+ci rhp 48.05
+ci etype Turbo-Fire V8 valve-in-head
+ci etype Dual downdraft
+ci trq 205@2000
+ci vlift Hydraulic
+ci bhp 115@3600
+ci etype Fully synchronous 3-speed manual
+ci disp 307
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci exha Single
+ci ftype Regular
+ci rad Tube and center
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci rev 2.95
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.85
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14B
+cls 2164, 1X27(\w)4(\w)([\dX]{6})
+clv 6235, 1974, Chevrolet, Nova V8, Coupe
+ci axle Semifloating
+ci make Chevrolet
+ci series Nova V8
+ci msrp $2755.00
+ci year 1974
+ci prod 20627
+ci origin United States
+ci pass 6
+ci weight 3288
+ci model 1X27
+ci doors 2
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci rdiff 4.25
+ci oil 4
+ci fuel 18
+ci trans 3
+ci carb Rochester
+ci csize 10 1/3 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 111
+ci width 72.4
+ci height 52.5
+ci rtred 59.6
+ci ftred 59.8
+ci length 196.7
+ci mbear 5
+ci cyl 8
+ci comp 8.5
+ci rhp 48.05
+ci disp 307
+ci block Cast alloy iron
+ci b&s 3 7/8 & 3 1/4
+ci bhp 115@3600
+ci englo On pad at front right side of cylinder block.
+ci etype Dual downdraft
+ci trq 205@2000
+ci vlift Hydraulic
+ci etype Turbo-Fire V8 valve-in-head
+ci etype Fully synchronous 3-speed manual
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci exha Single
+ci rad Tube and center
+ci batt 12
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Hotchkiss
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.68
+ci 3gear 1
+ci 1gear 2.85
+ci rev 2.95
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14B
+ci sloc Trunk
+cls 2165, 1X17(\w)4(\w)([\dX]{6})
+clv 6236, 1974, Chevrolet, Nova V8, Hatchback
+ci axle Semifloating
+ci make Chevrolet
+ci series Nova V8
+ci msrp $2906.00
+ci prod 72558
+ci year 1974
+ci origin United States
+ci weight 3398
+ci doors 2
+ci pass 6
+ci model 1X17
+ci maker Fisher
+ci bsize 9.5
+ci svc Hydraulic self-adjusting
+ci ebrake Rear service brakes
+ci trans 3
+ci oil 4
+ci rdiff 4.25
+ci tcase -NA-
+ci fuel 18
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diff Hypoid
+ci diffr 3.08
+ci rtred 59.6
+ci height 52.5
+ci wbase 111
+ci ftred 59.8
+ci length 196.7
+ci width 72.4
+ci b&s 3 7/8 & 3 1/4
+ci cyl 8
+ci comp 8.5
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci englo On pad at front right side of cylinder block.
+ci rhp 48.05
+ci etype Turbo-Fire V8 valve-in-head
+ci etype Dual downdraft
+ci bhp 115@3600
+ci vlift Hydraulic
+ci trq 205@2000
+ci etype Fully synchronous 3-speed manual
+ci disp 307
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci exha Single
+ci ftype Regular
+ci rad Tube and center
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci rev 2.95
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.85
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14B
+cls 2166, 1X69(\w)4(\w)([\dX]{6})
+clv 6237, 1974, Chevrolet, Nova V8, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci series Nova V8
+ci msrp $2785.00
+ci prod 32017
+ci year 1974
+ci origin United States
+ci maker Fisher
+ci doors 4
+ci pass 6
+ci weight 3330
+ci model 1X69
+ci svc Hydraulic self-adjusting
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci trans 3
+ci oil 4
+ci tcase -NA-
+ci rdiff 4.25
+ci fuel 18
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 10 1/3 inches
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 111
+ci width 72.4
+ci length 196.7
+ci rtred 59.6
+ci ftred 59.8
+ci height 52.5
+ci mbear 5
+ci cyl 8
+ci comp 8.5
+ci rhp 48.05
+ci lube Pressure to all bearings excluding wrist pin
+ci block Cast alloy iron
+ci englo On pad at front right side of cylinder block.
+ci disp 307
+ci etype Turbo-Fire V8 valve-in-head
+ci etype Dual downdraft
+ci b&s 3 7/8 & 3 1/4
+ci vlift Hydraulic
+ci trq 205@2000
+ci etype Fully synchronous 3-speed manual
+ci bhp 115@3600
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci exha Single
+ci ftype Regular
+ci rad Tube and center
+ci batt 12
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Hotchkiss
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci rev 2.95
+ci 3gear 1
+ci 5gear Not applicable
+ci 1gear 2.85
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14B
+cls 2167, 1V77(\w)4(\w)([\dX]{6})
+clv 6238, 1974, Chevrolet, Vega, Coupe
+ci axle Semifloating
+ci make Chevrolet
+ci msrp $2380.00
+ci origin United States
+ci year 1974
+ci prod 271682
+ci series Vega
+ci maker Fisher
+ci pass 6
+ci doors 2
+ci model 1V77
+ci weight 2219
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 9
+ci fbsize 9 11/16
+ci trans 2.4
+ci tcase -NA-
+ci rdiff 2.5
+ci oil 3
+ci fuel 16
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 8 inches
+ci diff Hypoid
+ci diffr 2.53
+ci width 65.4
+ci height 51.9
+ci length 175.4
+ci wbase 97
+ci comp 8.0
+ci bhp 75@4400
+ci trq 115@2400
+ci etype Unknown at time of publication
+ci rhp 19.6
+ci etype Single downdraft
+ci disp 139.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline 4 overhead valve
+ci cyl 4
+ci b&s 3 1/2 & 3.625
+ci vlift Mechanical
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci batt 12
+ci cool 6.5 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci fsus Independent ball joint with coil springs
+ci rev 3.47
+ci 2gear 1.68
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 1gear 3.24
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize A78 x 13B
+ci sloc Trunk
+cls 2168, 1V15(\w)4(\w)([\dX]{6})
+clv 6239, 1974, Chevrolet, Vega, Estate Wagon - 2 seat
+ci axle Semifloating
+ci prod 113326
+ci msrp $2851.00
+ci origin United States
+ci make Chevrolet
+ci year 1974
+ci series Vega
+ci maker Fisher
+ci weight 2327
+ci doors 2
+ci pass 6
+ci model 1V15
+ci fbsize 9 11/16
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 9
+ci trans 2.4
+ci rdiff 2.5
+ci fuel 16
+ci oil 3
+ci tcase -NA-
+ci carb Rochester
+ci csize 8 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 2.53
+ci width 65.4
+ci length 175.4
+ci height 52
+ci wbase 97
+ci comp 8.0
+ci bhp 75@4400
+ci trq 115@2400
+ci etype Unknown at time of publication
+ci rhp 19.6
+ci etype Single downdraft
+ci disp 139.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline 4 overhead valve
+ci cyl 4
+ci b&s 3 1/2 & 3.625
+ci vlift Mechanical
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci batt 12
+ci cool 6.5 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci fsus Independent ball joint with coil springs
+ci rev 3.47
+ci 2gear 1.68
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 1gear 3.24
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize A78 x 13B
+ci sloc Trunk
+cls 2169, 1V11(\w)4(\w)([\dX]{6})
+clv 6240, 1974, Chevrolet, Vega, Hatchback
+ci axle Semifloating
+ci make Chevrolet
+ci msrp $2492.00
+ci origin United States
+ci prod 63591
+ci year 1974
+ci series Vega
+ci weight 2313
+ci maker Fisher
+ci pass 6
+ci model 1V11
+ci doors 2
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 9
+ci fbsize 9 11/16
+ci rdiff 2.5
+ci tcase -NA-
+ci trans 2.4
+ci oil 3
+ci fuel 16
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 8 inches
+ci diff Hypoid
+ci diffr 2.53
+ci width 65.4
+ci wbase 97
+ci height 51.9
+ci length 175.4
+ci comp 8.0
+ci bhp 75@4400
+ci cyl 4
+ci etype Unknown at time of publication
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci etype Inline 4 overhead valve
+ci b&s 3 1/2 & 3.625
+ci vlift Mechanical
+ci disp 139.5
+ci rhp 19.6
+ci etype Single downdraft
+ci trq 115@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool 6.5 Quarts
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Centrifugal water  pump
+ci ftype Regular
+ci exha Single
+ci batt 12
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci 1gear 3.24
+ci 3gear 1
+ci rev 3.47
+ci 5gear Not applicable
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize A78 x 13B
+ci sloc Trunk
+cls 2170, 1V11(\w)4(\w)([\dX]{6})
+clv 6241, 1974, Chevrolet, Vega, LX
+ci axle Semifloating
+ci year 1974
+ci msrp $2708.00
+ci origin United States
+ci make Chevrolet
+ci prod 63591
+ci series Vega
+ci maker Fisher
+ci doors 2
+ci pass 6
+ci model 1V11
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 9
+ci fbsize 9 11/16
+ci tcase -NA-
+ci trans 2.4
+ci oil 3
+ci fuel 16
+ci rdiff 2.5
+ci carb Rochester
+ci csize 8 inches
+ci ctype Single plate dry disc
+ci diffr 2.53
+ci diff Hypoid
+ci width 65.4
+ci wbase 97
+ci height 51.9
+ci length 175.4
+ci comp 8.0
+ci bhp 75@4400
+ci disp 139.5
+ci etype Single downdraft
+ci trq 115@2400
+ci rhp 19.6
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci etype Unknown at time of publication
+ci vlift Mechanical
+ci b&s 3 1/2 & 3.625
+ci etype Inline 4 overhead valve
+ci cyl 4
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci ftype Regular
+ci rad Tube and center
+ci cool 6.5 Quarts
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci exha Single
+ci batt 12
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci 5gear Not applicable
+ci gears 3
+ci 1gear 3.24
+ci 3gear 1
+ci rev 3.47
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize A78 x 13B
+cls 2171, 1V15(\w)4(\w)([\dX]{6})
+clv 6242, 1974, Chevrolet, Vega, Station Wagon 2-seat
+ci axle Semifloating
+ci prod 113326
+ci msrp $2623.00
+ci origin United States
+ci make Chevrolet
+ci year 1974
+ci series Vega
+ci maker Fisher
+ci weight 2327
+ci doors 2
+ci pass 6
+ci model 1V15
+ci fbsize 9 11/16
+ci ebrake Rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 9
+ci trans 2.4
+ci rdiff 2.5
+ci fuel 16
+ci oil 3
+ci tcase -NA-
+ci carb Rochester
+ci csize 8 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 2.53
+ci width 65.4
+ci length 175.4
+ci height 52
+ci wbase 97
+ci comp 8.0
+ci bhp 75@4400
+ci trq 115@2400
+ci etype Unknown at time of publication
+ci rhp 19.6
+ci etype Single downdraft
+ci disp 139.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline 4 overhead valve
+ci cyl 4
+ci b&s 3 1/2 & 3.625
+ci vlift Mechanical
+ci englo On pad at right side of cylinder block at rear of distributor.
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci exha Single
+ci cool Centrifugal water  pump
+ci rad Tube and center
+ci batt 12
+ci cool 6.5 Quarts
+ci ign Distributor and coil
+ci ftype Regular
+ci equip Radio
+ci equip Air conditioning
+ci equip Power steering
+ci fsus Independent ball joint with coil springs
+ci rev 3.47
+ci 2gear 1.68
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 1gear 3.24
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize A78 x 13B
+ci sloc Trunk

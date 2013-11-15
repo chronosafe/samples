@@ -1,0 +1,839 @@
+cls 4192, (\w)8(\w)A4([\dX]{5})
+clv 17360, 1958, Lincoln, Capri, Hardtop
+ci axle Semifloating
+ci origin United States
+ci prod 2591
+ci series Capri
+ci msrp $4415.00
+ci year 1958
+ci make Lincoln
+ci model 63A
+ci weight 47358
+ci maker Lincoln
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power hydraulic
+ci trans 21
+ci fuel 22
+ci rdiff 4
+ci tcase -NA-
+ci oil 5
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.87
+ci rtred 61
+ci height 58.2
+ci length 229
+ci wbase 131
+ci width 80.1
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 490@3100
+ci comp 10.5
+ci disp 429.59
+ci engno Same as VIN/Serial number.
+ci b&s 4 19/64 & 3 45/64
+ci etype Downdraft 4-barrel
+ci englo On left front door hinge post below upper hinge opening.
+ci bhp 375@4800
+ci cyl 8
+ci vlift Hydraulic
+ci etype Turbo Drive
+ci mbear 5
+ci rhp 59.08
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Amber
+co Arrowhead Blue Metallic
+co Athenian Gray
+co Autumn Rose
+co Champagne
+co Claret Metallic
+co Copper Metallic
+co Deauville Yellow
+co Douglas Green Metallic
+co Enamel
+co Jade
+co Matador Red
+co Platinum
+co Rose Metallic
+co Seneca Blue Metallic
+co Sequoia Green
+co Shasta Blue
+co Silver Gray Metallic
+co Spartan Gray Metallic
+co Spruce Green Metallic
+co Starmist White
+co Suede
+co Sunset
+co Walnut Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci cool Centrifugal pump with thermostat
+ci cool 26 Quarts
+ci rad Corrugated fin and tube
+ci batt 12
+ci equip Power brakes
+ci equip Power steering
+ci sgear Integral power
+ci rsus Trailing arms & coil springs
+ci fsus Ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci tsize 9 x 14
+ci sloc Trunk
+cls 4193, (\w)8(\w)B4([\dX]{5})
+clv 17361, 1958, Lincoln, Capri, Hardtop
+ci axle Semifloating
+ci origin United States
+ci msrp $4553.00
+ci series Capri
+ci prod 3084
+ci year 1958
+ci make Lincoln
+ci maker Lincoln
+ci model 57A
+ci doors 4
+ci weight 4810
+ci ebrake Rear service brakes
+ci svc Power hydraulic
+ci bsize 11
+ci tcase -NA-
+ci fuel 22
+ci rdiff 4
+ci trans 21
+ci oil 5
+ci carb Holley
+ci ctype Not applicable
+ci diffr 2.87
+ci diff Hypoid
+ci height 58.2
+ci length 229
+ci rtred 61
+ci wbase 131
+ci width 80.1
+ci comp 10.5
+ci cyl 8
+ci engno Same as VIN/Serial number.
+ci bhp 375@4800
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Turbo Drive
+ci etype Downdraft 4-barrel
+ci englo On left front door hinge post below upper hinge opening.
+ci trq 490@3100
+ci b&s 4 19/64 & 3 45/64
+ci vlift Hydraulic
+ci disp 429.59
+ci mbear 5
+ci rhp 59.08
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Amber
+co Arrowhead Blue Metallic
+co Athenian Gray
+co Autumn Rose
+co Champagne
+co Claret Metallic
+co Copper Metallic
+co Deauville Yellow
+co Douglas Green Metallic
+co Enamel
+co Jade
+co Matador Red
+co Platinum
+co Rose Metallic
+co Seneca Blue Metallic
+co Sequoia Green
+co Shasta Blue
+co Silver Gray Metallic
+co Spartan Gray Metallic
+co Spruce Green Metallic
+co Starmist White
+co Suede
+co Sunset
+co Walnut Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci cool Centrifugal pump with thermostat
+ci cool 26 Quarts
+ci rad Corrugated fin and tube
+ci batt 12
+ci equip Power brakes
+ci equip Power steering
+ci sgear Integral power
+ci rsus Trailing arms & coil springs
+ci fsus Ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci tsize 9 x 14
+ci sloc Trunk
+cls 4194, (\w)8(\w)K4([\dX]{5})
+clv 17362, 1958, Lincoln, Capri, Sedan
+ci axle Semifloating
+ci prod 1184
+ci msrp $4553.00
+ci origin United States
+ci make Lincoln
+ci year 1958
+ci series Capri
+ci doors 4
+ci model 53A
+ci maker Lincoln
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power hydraulic
+ci tcase -NA-
+ci oil 5
+ci trans 21
+ci rdiff 4
+ci fuel 22
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.87
+ci height 58.2
+ci length 229
+ci width 80.1
+ci wbase 131
+ci rtred 61
+ci trq 490@3100
+ci engno Same as VIN/Serial number.
+ci cyl 8
+ci disp 429.59
+ci mbear 5
+ci b&s 4 19/64 & 3 45/64
+ci etype Downdraft 4-barrel
+ci bhp 375@4800
+ci englo On left front door hinge post below upper hinge opening.
+ci etype Turbo Drive
+ci vlift Hydraulic
+ci comp 10.5
+ci rhp 59.08
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Amber
+co Arrowhead Blue Metallic
+co Athenian Gray
+co Autumn Rose
+co Champagne
+co Claret Metallic
+co Copper Metallic
+co Deauville Yellow
+co Douglas Green Metallic
+co Enamel
+co Jade
+co Matador Red
+co Platinum
+co Rose Metallic
+co Seneca Blue Metallic
+co Sequoia Green
+co Shasta Blue
+co Silver Gray Metallic
+co Spartan Gray Metallic
+co Spruce Green Metallic
+co Starmist White
+co Suede
+co Sunset
+co Walnut Metallic
+ci rad Corrugated fin and tube
+ci batt 12
+ci cool 26 Quarts
+ci exha Dual
+ci cool Centrifugal pump with thermostat
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Power brakes
+ci sgear Integral power
+ci fsus Ball joint with coil springs
+ci rsus Trailing arms & coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci tsize 9 x 14
+ci sloc Trunk
+cls 4195, (\w)8(\w)X4([\dX]{5})
+clv 17363, 1958, Lincoln, Continental, Convertible
+ci axle Semifloating
+ci origin United States
+ci msrp $5792.00
+ci series Continental
+ci prod 3048
+ci year 1958
+ci make Lincoln
+ci weight 5040
+ci model 68A
+ci maker Lincoln
+ci doors 2
+ci svc Power hydraulic
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 22
+ci oil 5
+ci rdiff 4
+ci tcase -NA-
+ci trans 21
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.87
+ci rtred 61
+ci height 58.2
+ci length 229
+ci wbase 131
+ci width 80.1
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Same as VIN/Serial number.
+ci disp 429.59
+ci comp 10.5
+ci trq 490@3100
+ci b&s 4 19/64 & 3 45/64
+ci etype Downdraft 4-barrel
+ci englo On left front door hinge post below upper hinge opening.
+ci bhp 375@4800
+ci cyl 8
+ci vlift Hydraulic
+ci etype Turbo Drive
+ci mbear 5
+ci rhp 59.08
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Amber
+co Arrowhead Blue Metallic
+co Athenian Gray
+co Autumn Rose
+co Champagne
+co Claret Metallic
+co Copper Metallic
+co Deauville Yellow
+co Douglas Green Metallic
+co Enamel
+co Jade
+co Matador Red
+co Platinum
+co Rose Metallic
+co Seneca Blue Metallic
+co Sequoia Green
+co Shasta Blue
+co Silver Gray Metallic
+co Spartan Gray Metallic
+co Spruce Green Metallic
+co Starmist White
+co Suede
+co Sunset
+co Walnut Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci cool 26 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci rad Corrugated fin and tube
+ci sgear Integral power
+ci rsus Trailing arms & coil springs
+ci fsus Ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci sloc Trunk
+ci tsize 9 x 14
+cls 4196, (\w)8(\w)X4([\dX]{5})
+clv 17364, 1958, Lincoln, Continental, Coupe
+ci axle Semifloating
+ci origin United States
+ci prod 2328
+ci series Continental
+ci msrp $5367.00
+ci year 1958
+ci make Lincoln
+ci model 65A
+ci weight 4865
+ci maker Lincoln
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power hydraulic
+ci trans 21
+ci fuel 22
+ci rdiff 4
+ci tcase -NA-
+ci oil 5
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.87
+ci rtred 61
+ci height 58.2
+ci length 229
+ci wbase 131
+ci width 80.1
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Same as VIN/Serial number.
+ci disp 429.59
+ci comp 10.5
+ci trq 490@3100
+ci b&s 4 19/64 & 3 45/64
+ci etype Downdraft 4-barrel
+ci englo On left front door hinge post below upper hinge opening.
+ci bhp 375@4800
+ci cyl 8
+ci vlift Hydraulic
+ci etype Turbo Drive
+ci mbear 5
+ci rhp 59.08
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Amber
+co Arrowhead Blue Metallic
+co Athenian Gray
+co Autumn Rose
+co Champagne
+co Claret Metallic
+co Copper Metallic
+co Deauville Yellow
+co Douglas Green Metallic
+co Enamel
+co Jade
+co Matador Red
+co Platinum
+co Rose Metallic
+co Seneca Blue Metallic
+co Sequoia Green
+co Shasta Blue
+co Silver Gray Metallic
+co Spartan Gray Metallic
+co Spruce Green Metallic
+co Starmist White
+co Suede
+co Sunset
+co Walnut Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci cool 26 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci rad Corrugated fin and tube
+ci sgear Integral power
+ci rsus Trailing arms & coil springs
+ci fsus Ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci sloc Trunk
+ci tsize 9 x 14
+cls 4197, (\w)8(\w)X4([\dX]{5})
+clv 17365, 1958, Lincoln, Continental, Hardtop
+ci axle Semifloating
+ci origin United States
+ci prod 5891
+ci series Continental
+ci msrp $5597.00
+ci year 1958
+ci make Lincoln
+ci doors 4
+ci model 75A
+ci maker Lincoln
+ci weight 4965
+ci ebrake Rear service brakes
+ci svc Power hydraulic
+ci bsize 11
+ci rdiff 4
+ci trans 21
+ci fuel 22
+ci oil 5
+ci tcase -NA-
+ci carb Holley
+ci ctype Not applicable
+ci diffr 2.87
+ci diff Hypoid
+ci rtred 61
+ci height 58.2
+ci wbase 131
+ci length 229
+ci width 80.1
+ci disp 429.59
+ci engno Same as VIN/Serial number.
+ci trq 490@3100
+ci comp 10.5
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci englo On left front door hinge post below upper hinge opening.
+ci b&s 4 19/64 & 3 45/64
+ci bhp 375@4800
+ci vlift Hydraulic
+ci etype Turbo Drive
+ci cyl 8
+ci rhp 59.08
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Amber
+co Arrowhead Blue Metallic
+co Athenian Gray
+co Autumn Rose
+co Champagne
+co Claret Metallic
+co Copper Metallic
+co Deauville Yellow
+co Douglas Green Metallic
+co Enamel
+co Jade
+co Matador Red
+co Platinum
+co Rose Metallic
+co Seneca Blue Metallic
+co Sequoia Green
+co Shasta Blue
+co Silver Gray Metallic
+co Spartan Gray Metallic
+co Spruce Green Metallic
+co Starmist White
+co Suede
+co Sunset
+co Walnut Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci cool 26 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci rad Corrugated fin and tube
+ci sgear Integral power
+ci rsus Trailing arms & coil springs
+ci fsus Ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci sloc Trunk
+ci tsize 9 x 14
+cls 4198, (\w)8(\w)M4([\dX]{5})
+clv 17366, 1958, Lincoln, Continental, Sedan
+ci axle Semifloating
+ci origin United States
+ci year 1958
+ci series Continental
+ci prod 1283
+ci msrp $5597.00
+ci make Lincoln
+ci doors 4
+ci model 54A
+ci maker Lincoln
+ci ebrake Rear service brakes
+ci svc Power hydraulic
+ci bsize 11
+ci oil 5
+ci trans 21
+ci fuel 22
+ci rdiff 4
+ci tcase -NA-
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.87
+ci height 58.2
+ci length 229
+ci wbase 131
+ci width 80.1
+ci rtred 61
+ci engno Same as VIN/Serial number.
+ci trq 490@3100
+ci disp 429.59
+ci comp 10.5
+ci cyl 8
+ci b&s 4 19/64 & 3 45/64
+ci etype Downdraft 4-barrel
+ci englo On left front door hinge post below upper hinge opening.
+ci bhp 375@4800
+ci mbear 5
+ci vlift Hydraulic
+ci etype Turbo Drive
+ci rhp 59.08
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Amber
+co Arrowhead Blue Metallic
+co Athenian Gray
+co Autumn Rose
+co Champagne
+co Claret Metallic
+co Copper Metallic
+co Deauville Yellow
+co Douglas Green Metallic
+co Enamel
+co Jade
+co Matador Red
+co Platinum
+co Rose Metallic
+co Seneca Blue Metallic
+co Sequoia Green
+co Shasta Blue
+co Silver Gray Metallic
+co Spartan Gray Metallic
+co Spruce Green Metallic
+co Starmist White
+co Suede
+co Sunset
+co Walnut Metallic
+ci ign Distributor and coil
+ci exha Dual
+ci cool 26 Quarts
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci rad Corrugated fin and tube
+ci sgear Integral power
+ci rsus Trailing arms & coil springs
+ci fsus Ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci sloc Trunk
+ci tsize 9 x 14
+cls 4199, (\w)8(\w)X4([\dX]{5})
+clv 17367, 1958, Lincoln, Premiere, Hardtop
+ci axle Semifloating
+ci origin United States
+ci series Premiere
+ci make Lincoln
+ci prod 3043
+ci msrp $4894.00
+ci year 1958
+ci doors 2
+ci weight 4820
+ci model 63B
+ci maker Lincoln
+ci svc Power hydraulic
+ci ebrake Rear service brakes
+ci bsize 11
+ci oil 5
+ci tcase -NA-
+ci rdiff 4
+ci fuel 22
+ci trans 21
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.87
+ci length 229
+ci rtred 61
+ci wbase 131
+ci height 58.2
+ci width 80.1
+ci cyl 8
+ci engno Same as VIN/Serial number.
+ci rhp 59.08
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci trq 490@3100
+ci englo On left front door hinge post below upper hinge opening.
+ci disp 429.59
+ci vlift Hydraulic
+ci b&s 4 19/64 & 3 45/64
+ci bhp 375@4800
+ci comp 10.5
+ci etype Turbo Drive
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Amber
+co Arrowhead Blue Metallic
+co Athenian Gray
+co Autumn Rose
+co Champagne
+co Claret Metallic
+co Copper Metallic
+co Deauville Yellow
+co Douglas Green Metallic
+co Enamel
+co Jade
+co Matador Red
+co Platinum
+co Rose Metallic
+co Seneca Blue Metallic
+co Sequoia Green
+co Shasta Blue
+co Silver Gray Metallic
+co Spartan Gray Metallic
+co Spruce Green Metallic
+co Starmist White
+co Suede
+co Sunset
+co Walnut Metallic
+ci exha Dual
+ci batt 12
+ci cool 26 Quarts
+ci cool Centrifugal pump with thermostat
+ci rad Corrugated fin and tube
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Power brakes
+ci sgear Integral power
+ci rsus Trailing arms & coil springs
+ci fsus Ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci tsize 9 x 14
+ci sloc Trunk
+cls 4200, (\w)8(\w)X4([\dX]{5})
+clv 17368, 1958, Lincoln, Premiere, Hardtop
+ci axle Semifloating
+ci origin United States
+ci series Premiere
+ci make Lincoln
+ci msrp $5124.00
+ci year 1958
+ci prod 5572
+ci maker Lincoln
+ci model 57B
+ci doors 4
+ci weight 4880
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc Power hydraulic
+ci oil 5
+ci rdiff 4
+ci fuel 22
+ci tcase -NA-
+ci trans 21
+ci carb Holley
+ci ctype Not applicable
+ci diffr 2.87
+ci diff Hypoid
+ci height 58.2
+ci wbase 131
+ci rtred 61
+ci length 229
+ci width 80.1
+ci mbear 5
+ci bhp 375@4800
+ci engno Same as VIN/Serial number.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Turbo Drive
+ci etype Downdraft 4-barrel
+ci cyl 8
+ci englo On left front door hinge post below upper hinge opening.
+ci b&s 4 19/64 & 3 45/64
+ci vlift Hydraulic
+ci disp 429.59
+ci trq 490@3100
+ci comp 10.5
+ci rhp 59.08
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Amber
+co Arrowhead Blue Metallic
+co Athenian Gray
+co Autumn Rose
+co Champagne
+co Claret Metallic
+co Copper Metallic
+co Deauville Yellow
+co Douglas Green Metallic
+co Enamel
+co Jade
+co Matador Red
+co Platinum
+co Rose Metallic
+co Seneca Blue Metallic
+co Sequoia Green
+co Shasta Blue
+co Silver Gray Metallic
+co Spartan Gray Metallic
+co Spruce Green Metallic
+co Starmist White
+co Suede
+co Sunset
+co Walnut Metallic
+ci exha Dual
+ci batt 12
+ci cool 26 Quarts
+ci cool Centrifugal pump with thermostat
+ci rad Corrugated fin and tube
+ci ign Distributor and coil
+ci equip Power steering
+ci equip Power brakes
+ci sgear Integral power
+ci rsus Trailing arms & coil springs
+ci fsus Ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci tsize 9 x 14
+ci sloc Trunk
+cls 4201, (\w)8(\w)L4([\dX]{5})
+clv 17369, 1958, Lincoln, Premiere, Sedan
+ci axle Semifloating
+ci origin United States
+ci series Premiere
+ci make Lincoln
+ci msrp $5124.00
+ci prod 1660
+ci year 1958
+ci model 53B
+ci doors 4
+ci maker Lincoln
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc Power hydraulic
+ci oil 5
+ci trans 21
+ci tcase -NA-
+ci rdiff 4
+ci fuel 22
+ci carb Holley
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.87
+ci height 58.2
+ci wbase 131
+ci rtred 61
+ci width 80.1
+ci length 229
+ci engno Same as VIN/Serial number.
+ci rhp 59.08
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 490@3100
+ci etype Downdraft 4-barrel
+ci disp 429.59
+ci englo On left front door hinge post below upper hinge opening.
+ci b&s 4 19/64 & 3 45/64
+ci vlift Hydraulic
+ci bhp 375@4800
+ci etype Turbo Drive
+ci comp 10.5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Amber
+co Arrowhead Blue Metallic
+co Athenian Gray
+co Autumn Rose
+co Champagne
+co Claret Metallic
+co Copper Metallic
+co Deauville Yellow
+co Douglas Green Metallic
+co Enamel
+co Jade
+co Matador Red
+co Platinum
+co Rose Metallic
+co Seneca Blue Metallic
+co Sequoia Green
+co Shasta Blue
+co Silver Gray Metallic
+co Spartan Gray Metallic
+co Spruce Green Metallic
+co Starmist White
+co Suede
+co Sunset
+co Walnut Metallic
+ci exha Dual
+ci batt 12
+ci cool Centrifugal pump with thermostat
+ci rad Corrugated fin and tube
+ci ign Distributor and coil
+ci cool 26 Quarts
+ci equip Power brakes
+ci equip Power steering
+ci sgear Integral power
+ci fsus Ball joint with coil springs
+ci rsus Trailing arms & coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci sloc Trunk
+ci tsize 9 x 14

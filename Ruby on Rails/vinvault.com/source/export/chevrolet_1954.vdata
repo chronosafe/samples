@@ -1,0 +1,1134 @@
+cls 1002, C54(\w)([\dX]{6})
+clv 5058, 1954, Chevrolet, BelAir, Convertible
+ci axle Semifloating
+ci prod 19383
+ci origin United States
+ci year 1954
+ci series BelAir
+ci msrp $1998.00
+ci make Chevrolet
+ci maker Fisher
+ci doors 2
+ci model 2434
+ci weight 3445
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 16
+ci trans 1.5
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.70
+ci width 75
+ci wbase 115
+ci length 195.5
+ci ftred 56 11/16
+ci rtred 58.75
+ci height 64.8
+ci mbear 4
+ci disp 235.5
+ci trq 200@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 9/16 & 3 15/16
+ci etype Single downdraft
+ci englo On boss on right side of engine to rear of distributor.
+ci bhp 115@3700
+ci rhp 30.4
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci engno 01001-Z54 and up
+ci etype Helical
+ci comp 7.5
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci cool 16 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci rad Cellular
+ci batt 6
+ci equip Powerglide automatic transmission
+ci sgear Worm & sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci gears 3
+ci rev 2.94
+ci vloc On left front door hinge pillar
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1003, C54(\w)([\dX]{6})
+clv 5059, 1954, Chevrolet, BelAir, Sedan
+ci axle Semifloating
+ci series BelAir
+ci origin United States
+ci year 1954
+ci msrp $1669.00
+ci prod 143573
+ci make Chevrolet
+ci maker Fisher
+ci doors 2
+ci model 2402
+ci weight 3220
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 16
+ci trans 1.5
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.70
+ci width 75
+ci wbase 115
+ci length 195.5
+ci ftred 56 11/16
+ci rtred 58.75
+ci height 64.8
+ci mbear 4
+ci disp 235.5
+ci trq 200@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 9/16 & 3 15/16
+ci etype Single downdraft
+ci englo On boss on right side of engine to rear of distributor.
+ci bhp 115@3700
+ci rhp 30.4
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci engno 01001-Z54 and up
+ci etype Helical
+ci comp 7.5
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci cool 16 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci rad Cellular
+ci batt 6
+ci equip Powerglide automatic transmission
+ci sgear Worm & sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci gears 3
+ci rev 2.94
+ci vloc On left front door hinge pillar
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1004, C54(\w)([\dX]{6})
+clv 5060, 1954, Chevrolet, BelAir, Sedan
+ci axle Semifloating
+ci msrp $1720.00
+ci year 1954
+ci series BelAir
+ci origin United States
+ci prod 248750
+ci make Chevrolet
+ci model 2403
+ci weight 3255
+ci maker Fisher
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci fuel 16
+ci trans 1.5
+ci rdiff 3.5
+ci oil 5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 195.5
+ci height 64.8
+ci wbase 115
+ci ftred 56 11/16
+ci rtred 58.75
+ci width 75
+ci vlift Mechanical
+ci englo On boss on right side of engine to rear of distributor.
+ci comp 7.5
+ci mbear 4
+ci rhp 30.4
+ci b&s 3 9/16 & 3 15/16
+ci bhp 115@3700
+ci lube Pressure to all bearings excluding wrist pin
+ci engno 01001-Z54 and up
+ci etype Single downdraft
+ci etype In line Valve-in-head
+ci trq 200@2000
+ci etype Helical
+ci disp 235.5
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci cool 16 Quarts
+ci ftype Regular
+ci batt 6
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci sgear Worm & sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 2gear 1.68
+ci rev 2.94
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1005, C54(\w)([\dX]{6})
+clv 5061, 1954, Chevrolet, BelAir, Sport Coupe
+ci axle Semifloating
+ci prod 66378
+ci msrp $1883.00
+ci origin United States
+ci year 1954
+ci series BelAir
+ci make Chevrolet
+ci maker Fisher
+ci weight 3300
+ci model 2454
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci trans 1.5
+ci rdiff 3.5
+ci fuel 16
+ci tcase -NA-
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci width 75
+ci wbase 115
+ci ftred 56 11/16
+ci rtred 58.75
+ci length 195.5
+ci height 64.8
+ci disp 235.5
+ci engno 01001-Z54 and up
+ci comp 7.5
+ci etype Single downdraft
+ci rhp 30.4
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On boss on right side of engine to rear of distributor.
+ci trq 200@2000
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci bhp 115@3700
+ci b&s 3 9/16 & 3 15/16
+ci etype Helical
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci batt 6
+ci exha Single
+ci ign Distributor and coil
+ci rad Cellular
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci cool 16 Quarts
+ci equip Powerglide automatic transmission
+ci sgear Worm & sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci rev 2.94
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci gears 3
+ci 2gear 1.68
+ci vloc On left front door hinge pillar
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1006, C54(\w)([\dX]{6})
+clv 5062, 1954, Chevrolet, BelAir, Townsman Station Wagon
+ci axle Semifloating
+ci prod 8156
+ci origin United States
+ci msrp $2090.00
+ci series BelAir
+ci year 1954
+ci make Chevrolet
+ci weight 3540
+ci model 2419
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci fuel 16
+ci oil 5
+ci tcase -NA-
+ci rdiff 3.5
+ci trans 1.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.70
+ci diff Hypoid
+ci length 197
+ci width 75
+ci ftred 56 11/16
+ci wbase 115
+ci height 64.8
+ci rtred 58.75
+ci cyl 6
+ci comp 7.5
+ci mbear 4
+ci rhp 30.4
+ci b&s 3 9/16 & 3 15/16
+ci engno 01001-Z54 and up
+ci englo On boss on right side of engine to rear of distributor.
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 235.5
+ci bhp 115@3700
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci etype Helical
+ci etype Single downdraft
+ci trq 200@2000
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci ftype Regular
+ci exha Single
+ci rad Cellular
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci sgear Worm & sector
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.94
+ci gears 3
+ci vloc On left front door hinge pillar
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1007, E54(\w)([\dX]{6})
+clv 5063, 1954, Chevrolet, Corvette, Roadster
+ci axle Semifloating
+ci msrp $3250.00
+ci series Corvette
+ci prod 3640
+ci make Chevrolet
+ci year 1954
+ci origin United States
+ci maker Fisher
+ci doors 2
+ci weight 2705
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci rdiff 3.5
+ci tcase -NA-
+ci fuel 17.25
+ci trans 8
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.55
+ci ftred 57
+ci rtred 59
+ci wbase 102
+ci length 167
+ci width 72.2
+ci height 52.1
+ci etype Powerglide automatc
+ci rhp 30.4
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Mechanical
+ci bhp 150@4200
+ci disp 235.5
+ci englo On boss on right side of engine to rear of distributor.
+ci b&s 3 9/16 & 3 15/16
+ci engno 01001-YG54 and up
+ci trq 223@2400
+ci etype In line Valve-in-head
+ci etype Sidedraft single
+ci comp 8.0
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci exha Single
+ci batt 6
+ci cool 17.8 Quarts
+ci rad Cellular
+ci ftype Premium
+ci cool Centrifugal pump with thermostat
+ci sgear Worm & sector
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci gears 4
+ci drive Rear wheel drive
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1008, B54(\w)([\dX]{6})
+clv 5064, 1954, Chevrolet, DeLuxe, Delray Coupe
+ci axle Semifloating
+ci prod 66403
+ci origin United States
+ci make Chevrolet
+ci series DeLuxe
+ci msrp $1625.00
+ci year 1954
+ci weight 3185
+ci doors 2
+ci maker Fisher
+ci model 2124
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 1.5
+ci tcase -NA-
+ci fuel 16
+ci rdiff 3.5
+ci oil 5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 195.5
+ci width 75
+ci ftred 56 11/16
+ci rtred 58.75
+ci wbase 115
+ci height 64.8
+ci rhp 30.4
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 9/16 & 3 15/16
+ci disp 235.5
+ci englo On boss on right side of engine to rear of distributor.
+ci trq 200@2000
+ci etype Single downdraft
+ci bhp 115@3700
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci engno 01001-Z54 and up
+ci etype Helical
+ci comp 7.5
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci cool 16 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci rad Cellular
+ci batt 6
+ci equip Powerglide automatic transmission
+ci sgear Worm & sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci gears 3
+ci rev 2.94
+ci vloc On left front door hinge pillar
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1009, B54(\w)([\dX]{6})
+clv 5065, 1954, Chevrolet, DeLuxe, Handyman Station Wagon
+ci axle Semifloating
+ci year 1954
+ci origin United States
+ci msrp $1950.00
+ci prod 27175
+ci make Chevrolet
+ci series DeLuxe
+ci doors 2
+ci maker Fisher
+ci model 2109
+ci weight 3470
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci rdiff 3.5
+ci tcase -NA-
+ci fuel 16
+ci oil 5
+ci trans 1.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.70
+ci width 75
+ci wbase 115
+ci length 197
+ci ftred 56 11/16
+ci rtred 58.75
+ci height 64.8
+ci mbear 4
+ci disp 235.5
+ci trq 200@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 9/16 & 3 15/16
+ci englo On boss on right side of engine to rear of distributor.
+ci etype Single downdraft
+ci bhp 115@3700
+ci rhp 30.4
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci engno 01001-Z54 and up
+ci etype Helical
+ci comp 7.5
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci cool 16 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci cool Centrifugal pump with thermostat
+ci ftype Regular
+ci rad Cellular
+ci batt 6
+ci equip Powerglide automatic transmission
+ci sgear Worm & sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci gears 3
+ci rev 2.94
+ci vloc On left front door hinge pillar
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1010, B54(\w)([\dX]{6})
+clv 5066, 1954, Chevrolet, DeLuxe, Sedan
+ci axle Semifloating
+ci prod 195498
+ci msrp $1564.00
+ci origin United States
+ci year 1954
+ci make Chevrolet
+ci series DeLuxe
+ci maker Fisher
+ci model 2102
+ci doors 2
+ci weight 3185
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci rdiff 3.5
+ci fuel 16
+ci trans 1.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.70
+ci diff Hypoid
+ci width 75
+ci length 195.5
+ci wbase 115
+ci ftred 56 11/16
+ci rtred 58.75
+ci height 64.8
+ci etype Single downdraft
+ci trq 200@2000
+ci comp 7.5
+ci mbear 4
+ci disp 235.5
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On boss on right side of engine to rear of distributor.
+ci rhp 30.4
+ci engno 01001-Z54 and up
+ci vlift Mechanical
+ci etype In line Valve-in-head
+ci bhp 115@3700
+ci b&s 3 9/16 & 3 15/16
+ci etype Helical
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci batt 6
+ci exha Single
+ci ign Distributor and coil
+ci rad Cellular
+ci ftype Regular
+ci cool Centrifugal pump with thermostat
+ci cool 16 Quarts
+ci equip Powerglide automatic transmission
+ci sgear Worm & sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 2.94
+ci gears 3
+ci 2gear 1.68
+ci vloc On left front door hinge pillar
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1011, B54(\w)([\dX]{6})
+clv 5067, 1954, Chevrolet, DeLuxe, Sedan
+ci axle Semifloating
+ci msrp $1615.00
+ci year 1954
+ci make Chevrolet
+ci origin United States
+ci prod 235146
+ci series DeLuxe
+ci maker Fisher
+ci weight 3230
+ci model 2103
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci fuel 16
+ci trans 1.5
+ci rdiff 3.5
+ci oil 5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 195.5
+ci height 64.8
+ci wbase 115
+ci ftred 56 11/16
+ci rtred 58.75
+ci width 75
+ci vlift Mechanical
+ci englo On boss on right side of engine to rear of distributor.
+ci comp 7.5
+ci mbear 4
+ci rhp 30.4
+ci bhp 115@3700
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 9/16 & 3 15/16
+ci engno 01001-Z54 and up
+ci etype Single downdraft
+ci etype In line Valve-in-head
+ci trq 200@2000
+ci etype Helical
+ci disp 235.5
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci cool 16 Quarts
+ci ftype Regular
+ci batt 6
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci sgear Worm & sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 2gear 1.68
+ci rev 2.94
+ci 5gear Not applicable
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1012, A54(\w)([\dX]{6})
+clv 5068, 1954, Chevrolet, Special, Handyman Station Wagon
+ci axle Semifloating
+ci prod 21404
+ci origin United States
+ci msrp $1845.00
+ci series Special
+ci make Chevrolet
+ci year 1954
+ci weight 3455
+ci model 1509
+ci maker Fisher
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci rdiff 3.5
+ci fuel 16
+ci trans 1.5
+ci oil 5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.70
+ci diff Hypoid
+ci width 75
+ci wbase 115
+ci length 197
+ci ftred 56 11/16
+ci rtred 58.75
+ci height 64.8
+ci mbear 4
+ci trq 200@2000
+ci comp 7.5
+ci etype Single downdraft
+ci disp 235.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype In line Valve-in-head
+ci bhp 115@3700
+ci b&s 3 9/16 & 3 15/16
+ci vlift Mechanical
+ci engno 01001-Z54 and up
+ci etype Helical
+ci rhp 30.4
+ci englo On boss on right side of engine to rear of distributor.
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 6
+ci cool 16 Quarts
+ci rad Cellular
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci sgear Worm & sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci rev 2.94
+ci 2gear 1.68
+ci 5gear Not applicable
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1013, A54(\w)([\dX]{6})
+clv 5069, 1954, Chevrolet, Special, Sedan
+ci axle Semifloating
+ci msrp $1479.00
+ci origin United States
+ci year 1954
+ci series Special
+ci make Chevrolet
+ci prod 64855
+ci doors 2
+ci model 1502
+ci maker Fisher
+ci weight 3165
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci trans 1.5
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 5
+ci fuel 16
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.70
+ci diff Hypoid
+ci width 75
+ci wbase 115
+ci ftred 56 11/16
+ci rtred 58.75
+ci length 195.5
+ci height 64.8
+ci mbear 4
+ci etype Single downdraft
+ci comp 7.5
+ci trq 200@2000
+ci etype In line Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On boss on right side of engine to rear of distributor.
+ci bhp 115@3700
+ci b&s 3 9/16 & 3 15/16
+ci vlift Mechanical
+ci engno 01001-Z54 and up
+ci etype Helical
+ci rhp 30.4
+ci disp 235.5
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 6
+ci cool 16 Quarts
+ci rad Cellular
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci sgear Worm & sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci rev 2.94
+ci 2gear 1.68
+ci 5gear Not applicable
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1014, A54(\w)([\dX]{6})
+clv 5070, 1954, Chevrolet, Special, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci origin United States
+ci msrp $1530.00
+ci year 1954
+ci prod 32430
+ci series Special
+ci maker Fisher
+ci model 1503
+ci weight 3210
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci trans 1.5
+ci fuel 16
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.70
+ci diff Hypoid
+ci ftred 56 11/16
+ci wbase 115
+ci length 195.5
+ci height 64.8
+ci rtred 58.75
+ci width 75
+ci disp 235.5
+ci bhp 115@3700
+ci comp 7.5
+ci b&s 3 9/16 & 3 15/16
+ci trq 200@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci etype In line Valve-in-head
+ci etype Single downdraft
+ci rhp 30.4
+ci vlift Mechanical
+ci engno 01001-Z54 and up
+ci etype Helical
+ci mbear 4
+ci englo On boss on right side of engine to rear of distributor.
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 6
+ci cool 16 Quarts
+ci rad Cellular
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci sgear Worm & sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci rev 2.94
+ci 2gear 1.68
+ci 5gear Not applicable
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1015, A54(\w)([\dX]{6})
+clv 5071, 1954, Chevrolet, Special, Sedan Delivery
+ci axle Semifloating
+ci make Chevrolet
+ci origin United States
+ci series Special
+ci prod 8255
+ci year 1954
+ci maker Fisher
+ci model 1508
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 16
+ci rdiff 3.5
+ci trans 1.5
+ci oil 5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci wbase 115
+ci rtred 58.75
+ci ftred 56 11/16
+ci engno 01001-Z54 and up
+ci comp 7.5
+ci mbear 4
+ci rhp 30.4
+ci englo On boss on right side of engine to rear of distributor.
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 9/16 & 3 15/16
+ci bhp 115@3700
+ci vlift Mechanical
+ci etype Single downdraft
+ci trq 200@2000
+ci disp 235.5
+ci etype In line Valve-in-head
+ci etype Helical
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci cool 16 Quarts
+ci exha Single
+ci rad Cellular
+ci ftype Regular
+ci batt 6
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci sgear Worm & sector
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.94
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+cls 1016, A54(\w)([\dX]{6})
+clv 5072, 1954, Chevrolet, Special, Utility Sedan
+ci axle Semifloating
+ci msrp $1400.00
+ci origin United States
+ci make Chevrolet
+ci year 1954
+ci prod 10770
+ci series Special
+ci model 1512
+ci maker Fisher
+ci weight 3145
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 16
+ci rdiff 3.5
+ci tcase -NA-
+ci trans 1.5
+ci oil 5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci width 75
+ci wbase 115
+ci length 195.5
+ci ftred 56 11/16
+ci rtred 58.75
+ci height 64.8
+ci mbear 4
+ci trq 200@2000
+ci comp 7.5
+ci etype Single downdraft
+ci disp 235.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype In line Valve-in-head
+ci bhp 115@3700
+ci b&s 3 9/16 & 3 15/16
+ci vlift Mechanical
+ci engno 01001-Z54 and up
+ci etype Helical
+ci rhp 30.4
+ci englo On boss on right side of engine to rear of distributor.
+ci color Exterior Colors
+co Bermuda Green Metallic
+co Biscayne Blue Metallic
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Romany Red
+co Saddle Brown
+co Shoreline Beige
+co Surf Green
+co Two Tone Colors Available
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 6
+ci cool 16 Quarts
+ci rad Cellular
+ci exha Single
+ci cool Centrifugal pump with thermostat
+ci equip Powerglide automatic transmission
+ci sgear Worm & sector
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci rev 2.94
+ci 2gear 1.68
+ci 5gear Not applicable
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15

@@ -1,0 +1,9 @@
+<h2>Classic Vehicle Data Categories</h2>
+<div>
+  <%= link_to 'Back to Data', data_path %>
+</div>
+<ul>
+  <% @categories.each do |cat| %>
+      <li><%= cat.display_name %></li>
+  <% end %>
+</ul>

@@ -1,0 +1,25 @@
+<h1>Listing decodes</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @decodes.take(10).each do |decode| %>
+      <tr>
+        <td><b><%= decode.pattern.nil? ? 'Unknown' : decode.pattern.full_name %></b></td>
+        <td><%= link_to 'Show', decode %></td>
+        <td><%= link_to 'Destroy', decode, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Decode', new_decode_path %>

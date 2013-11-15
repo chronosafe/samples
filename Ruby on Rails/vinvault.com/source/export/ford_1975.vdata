@@ -1,0 +1,4190 @@
+cls 4149, 5(\w)52(\w)([\dX]{6})
+clv 13061, 1975, Ford, Custom 500, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci series Custom 500
+ci origin United States
+ci prod 7197
+ci year 1975
+ci make Ford
+ci model 60D
+ci doors 2
+ci maker Ford
+ci bsize 11
+ci svc Front disc rear self-adjusting drum
+ci fbsize 11.72
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci trans 25
+ci fuel 24.2
+ci oil 4
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci wbase 121
+ci ftred 64.1
+ci rtred 64.3
+ci etype Select-Shift Cruise-O-Matic automatic
+ci cyl 8
+ci comp 8.0
+ci b&s 4 & 3 1/2
+ci disp 351
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci bhp 148@3800
+ci rhp 51.2
+ci etype Dual downdraft
+ci mbear 5
+ci trq 243@2400
+ci vlift Hydraulic
+ci color Exterior Colors
+co Aqua Blue Metallic
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow  Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Bright Yellow
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Medium Taupe Met
+co Orange
+co Pastel Blue
+co Red
+co Red Glamour Metallic
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci rad Tubular and fin
+ci cool 17.1 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip Pushbutton Radio
+ci equip Power vent windows
+ci equip Power windows
+ci equip 460 cu. in. V8 engine
+ci equip Speed control device
+ci equip Radio
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Integral power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15B
+ci sloc Trunk
+cls 4150, 5(\w)72(\w)([\dX]{6})
+clv 13062, 1975, Ford, Custom 500, Custom Ranch Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci prod 6930
+ci series Custom 500
+ci msrp $4970.00
+ci year 1975
+ci make Ford
+ci doors 4
+ci weight 4787
+ci model 71D
+ci maker Ford
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci fbsize 11.72
+ci fuel 24.2
+ci oil 4
+ci trans 25
+ci tcase -NA-
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci wbase 121
+ci rtred 64.3
+ci ftred 64.1
+ci rhp 51.2
+ci cyl 8
+ci comp 8.0
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3 1/2
+ci disp 351
+ci etype Select-Shift Cruise-O-Matic automatic
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci trq 243@2400
+ci bhp 148@3800
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Aqua Blue Metallic
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow  Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Bright Yellow
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Medium Taupe Met
+co Orange
+co Pastel Blue
+co Red
+co Red Glamour Metallic
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci ftype Regular
+ci exha Single
+ci cool 17.1 Quarts
+ci equip Air conditioning
+ci equip Power vent windows
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip Speed control device
+ci equip Radio
+ci equip 460 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15B
+ci sloc Trunk
+cls 4151, 5(\w)53(\w)([\dX]{6})
+clv 13063, 1975, Ford, Custom 500, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci msrp $4380.00
+ci series Custom 500
+ci prod 31043
+ci year 1975
+ci make Ford
+ci weight 4377
+ci doors 4
+ci maker Ford
+ci model 53D
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci fbsize 11.72
+ci svc Front disc rear self-adjusting drum
+ci tcase -NA-
+ci trans 25
+ci fuel 24.2
+ci oil 4
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci wbase 121
+ci rtred 64.3
+ci ftred 64.1
+ci rhp 51.2
+ci cyl 8
+ci comp 8.0
+ci mbear 5
+ci b&s 4 & 3 1/2
+ci disp 351
+ci etype Select-Shift Cruise-O-Matic automatic
+ci trq 243@2400
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci bhp 148@3800
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Aqua Blue Metallic
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow  Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Bright Yellow
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Medium Taupe Met
+co Orange
+co Pastel Blue
+co Red
+co Red Glamour Metallic
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci ftype Regular
+ci exha Single
+ci cool 17.1 Quarts
+ci equip Air conditioning
+ci equip Power vent windows
+ci equip Power windows
+ci equip 400 cu. in. V8 engine
+ci equip Speed control device
+ci equip Radio
+ci equip 460 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 x 15B
+ci sloc Trunk
+cls 4152, 5(\w)43(\w)([\dX]{6})
+clv 13064, 1975, Ford, Gran Torino Brougham, Country Squire
+ser 6 1 499999
+ci axle Semifloating
+ci series Gran Torino Brougham
+ci year 1975
+ci make Ford
+ci prod 17157
+ci msrp $5440.00
+ci origin United States
+ci doors 4
+ci maker Ford
+ci model 71K
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 10.72
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 26.5
+ci trans 25
+ci tcase -NA-
+ci oil 4
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci width 79.3
+ci length 222.6
+ci height 54.9
+ci ftred 62.8
+ci rtred 62.9
+ci wbase 118
+ci disp 351
+ci cyl 8
+ci comp 8.0
+ci etype V8 overhead valve
+ci mbear 5
+ci bhp 140@3800
+ci etype Select-Shift Cruise-O-Matic automatic
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 51.2
+ci b&s 4 & 3 1/2
+ci trq 243@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci rad Tubular and fin
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci cool 19.2 Quarts
+ci cool Centrifugal water  pump
+ci equip Power seats
+ci equip Power windows
+ci equip 460 cu. in. V8 engine
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 14B
+cls 4153, 5(\w)32(\w)([\dX]{6})
+clv 13065, 1975, Ford, Gran Torino Brougham, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $4805.00
+ci make Ford
+ci year 1975
+ci origin United States
+ci prod 4849
+ci series Gran Torino Brougham
+ci weight 4087
+ci doors 2
+ci maker Ford
+ci model 65K
+ci fbsize 10.72
+ci bsize 10
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci trans 25
+ci fuel 26.5
+ci oil 4
+ci tcase -NA-
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci length 213.6
+ci width 79.3
+ci height 52.6
+ci ftred 62.8
+ci rtred 62.9
+ci wbase 118
+ci disp 351
+ci cyl 8
+ci comp 8.0
+ci etype V8 overhead valve
+ci mbear 5
+ci bhp 140@3800
+ci etype Select-Shift Cruise-O-Matic automatic
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 51.2
+ci b&s 4 & 3 1/2
+ci trq 243@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci rad Tubular and fin
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci cool 19.2 Quarts
+ci cool Centrifugal water  pump
+ci equip Power seats
+ci equip Power windows
+ci equip 460 cu. in. V8 engine
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 14B
+cls 4154, 5(\w)33(\w)([\dX]{6})
+clv 13066, 1975, Ford, Gran Torino Brougham, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci make Ford
+ci prod 5929
+ci msrp $4837.00
+ci year 1975
+ci series Gran Torino Brougham
+ci weight 4163
+ci doors 4
+ci maker Ford
+ci model 53K
+ci fbsize 10.72
+ci bsize 10
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci trans 25
+ci oil 4
+ci fuel 26.5
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 118
+ci length 217.6
+ci height 53.3
+ci width 79.3
+ci ftred 62.8
+ci rtred 62.9
+ci comp 8.0
+ci cyl 8
+ci b&s 4 & 3 1/2
+ci etype Select-Shift Cruise-O-Matic automatic
+ci disp 351
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 140@3800
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci rhp 51.2
+ci mbear 5
+ci trq 243@2400
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci batt 12
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular
+ci cool 19.2 Quarts
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci equip 460 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 14B
+cls 4155, 5(\w)43(\w)([\dX]{6})
+clv 13067, 1975, Ford, Gran Torino Brougham, Squire
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci make Ford
+ci prod 41550
+ci msrp $4952.00
+ci year 1975
+ci series Gran Torino Brougham
+ci doors 4
+ci maker Ford
+ci model 71K
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 10.72
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 26.5
+ci trans 25
+ci oil 4
+ci tcase -NA-
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 118
+ci length 222.6
+ci height 54.9
+ci ftred 62.8
+ci rtred 62.9
+ci width 79.3
+ci disp 351
+ci cyl 8
+ci comp 8.0
+ci bhp 140@3800
+ci rhp 51.2
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci etype Select-Shift Cruise-O-Matic automatic
+ci trq 243@2400
+ci b&s 4 & 3 1/2
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci exha Single
+ci batt 12
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci cool 19.2 Quarts
+ci ftype Regular
+ci equip Air conditioning
+ci equip Power windows
+ci equip 460 cu. in. V8 engine
+ci equip Power seats
+ci equip 400 cu. in. V8 engine
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 14B
+cls 4156, 5(\w)21(\w)([\dX]{6})
+clv 13068, 1975, Ford, Gran Torino Elite, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci make Ford
+ci prod 23372
+ci msrp $4767.00
+ci year 1975
+ci series Gran Torino Elite
+ci weight 4341
+ci model 65M
+ci maker Ford
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 10.72
+ci bsize 10
+ci tcase -NA-
+ci oil 4
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci height 53
+ci length 218.7
+ci wbase 114
+ci rtred 62.8
+ci ftred 63
+ci width 78.5
+ci comp 8.0
+ci cyl 8
+ci b&s 4 & 3 1/2
+ci etype Select-Shift Cruise-O-Matic automatic
+ci disp 351
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 150@3800
+ci etype Downdraft 4-barrel
+ci rhp 51.2
+ci mbear 5
+ci etype V8 overhead valve
+ci trq 244@2800
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Br. Yellow
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Red Metallic
+co Medium Slate Blue Metallic
+co Medium Taupe Metallic
+co Orange
+co Pastel Blue
+co Red
+co Saddle Bronze Metallic
+co Silver  Blue Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci rad Tubular and fin
+ci cool 15.9 Quarts
+ci cool Centrifugal water  pump
+ci batt 12
+ci ign Distributor and coil
+ci equip Speed control device
+ci equip Air conditioning
+ci equip 460 cu. in. V8 engine
+ci equip Power seats
+ci equip Radio
+ci equip 400 cu. in. V8 engine
+ci equip Power windows
+ci sgear Integral power
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15
+cls 4157, 5(\w)30(\w)([\dX]{6})
+clv 13069, 1975, Ford, Gran Torino, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $4314.00
+ci prod 35324
+ci series Gran Torino
+ci origin United States
+ci make Ford
+ci year 1975
+ci weight 3998
+ci doors 2
+ci maker Ford
+ci model 65D
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 10.72
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci fuel 26.5
+ci trans 25
+ci oil 4
+ci ctype Not applicable
+ci diffr 3.0
+ci diff Hypoid
+ci width 79.3
+ci length 213.6
+ci height 52.6
+ci ftred 62.8
+ci rtred 62.9
+ci wbase 118
+ci disp 351
+ci cyl 8
+ci comp 8.0
+ci etype V8 overhead valve
+ci mbear 5
+ci bhp 140@3800
+ci etype Select-Shift Cruise-O-Matic automatic
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 51.2
+ci b&s 4 & 3 1/2
+ci trq 243@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci rad Tubular and fin
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci cool 19.2 Quarts
+ci cool Centrifugal water  pump
+ci equip Power seats
+ci equip Power windows
+ci equip 460 cu. in. V8 engine
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 14B
+cls 4158, 5(\w)31(\w)([\dX]{6})
+clv 13070, 1975, Ford, Gran Torino, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci make Ford
+ci prod 53161
+ci msrp $4338.00
+ci year 1975
+ci series Gran Torino
+ci weight 4090
+ci model 53D
+ci doors 4
+ci maker Ford
+ci fbsize 10.72
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fuel 26.5
+ci tcase -NA-
+ci oil 4
+ci trans 25
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 118
+ci length 217.6
+ci height 53.3
+ci width 79.3
+ci ftred 62.8
+ci rtred 62.9
+ci comp 8.0
+ci cyl 8
+ci b&s 4 & 3 1/2
+ci etype Select-Shift Cruise-O-Matic automatic
+ci disp 351
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 140@3800
+ci etype Dual downdraft
+ci etype V8 overhead valve
+ci rhp 51.2
+ci mbear 5
+ci trq 243@2400
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci batt 12
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular
+ci cool 19.2 Quarts
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci equip 460 cu. in. V8 engine
+ci equip Power windows
+ci equip Power seats
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 14B
+cls 4159, 5(\w)42(\w)([\dX]{6})
+clv 13071, 1975, Ford, Gran Torino, Station Wagon 2-seat
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $4673.00
+ci prod 23951
+ci year 1975
+ci origin United States
+ci make Ford
+ci series Gran Torino
+ci maker Ford
+ci doors 4
+ci weight 4456
+ci model 71D
+ci fbsize 10.72
+ci bsize 10
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci trans 25
+ci fuel 26.5
+ci tcase -NA-
+ci oil 4
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci length 222.6
+ci width 79.3
+ci height 54.9
+ci ftred 62.8
+ci rtred 62.9
+ci wbase 118
+ci disp 351
+ci cyl 8
+ci comp 8.0
+ci etype V8 overhead valve
+ci mbear 5
+ci bhp 140@3800
+ci etype Select-Shift Cruise-O-Matic automatic
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 51.2
+ci b&s 4 & 3 1/2
+ci trq 243@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci rad Tubular and fin
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci cool 19.2 Quarts
+ci cool Centrifugal water  pump
+ci equip Power seats
+ci equip Power windows
+ci equip 460 cu. in. V8 engine
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 14B
+cls 4160, 5(\w)38(\w)([\dX]{6})
+clv 13072, 1975, Ford, Gran Torino Sport, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $4790.00
+ci make Ford
+ci year 1975
+ci origin United States
+ci prod 5126
+ci series Gran Torino Sport
+ci weight 4044
+ci doors 2
+ci maker Ford
+ci model 65R
+ci fbsize 10.72
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci bsize 10
+ci trans 25
+ci fuel 26.5
+ci oil 4
+ci tcase -NA-
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci width 79.3
+ci length 213.6
+ci height 52.6
+ci ftred 62.8
+ci rtred 62.9
+ci wbase 118
+ci disp 351
+ci cyl 8
+ci comp 8.0
+ci etype V8 overhead valve
+ci mbear 5
+ci bhp 140@3800
+ci etype Select-Shift Cruise-O-Matic automatic
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 51.2
+ci b&s 4 & 3 1/2
+ci trq 243@2400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Br. Yellow
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Red Metallic
+co Medium Slate Blue Metallic
+co Medium Taupe Metallic
+co Orange
+co Pastel Blue
+co Red
+co Saddle Bronze Metallic
+co Silver  Blue Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci rad Tubular and fin
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci cool 19.2 Quarts
+ci cool Centrifugal water  pump
+ci equip Power seats
+ci equip Power windows
+ci equip 460 cu. in. V8 engine
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Radio
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 14B
+cls 4161, 5(\w)85(\w)([\dX]{6})
+clv 13073, 1975, Ford, Granada Ghia, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Granada Ghia
+ci origin United States
+ci year 1975
+ci msrp $4225.00
+ci prod 40028
+ci model 66K
+ci doors 2
+ci maker Ford
+ci weight 3311
+ci ebrake Cable and conduit on rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci oil 4
+ci fuel 19.5
+ci tcase -NA-
+ci trans 3.5
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 197.7
+ci width 74
+ci wbase 109.9
+ci height 53.4
+ci rtred 57.7
+ci ftred 58.5
+ci cyl 6
+ci rhp 32.5
+ci mbear 7
+ci bhp 72@2900
+ci vlift Hydraulic
+ci comp 8.0
+ci etype Inline 6. Overhead valve
+ci b&s 3.68 & 3.91
+ci etype Constant mesh
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci etype Dual downdraft
+ci trq 180@1400
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci rad Tubular and fin
+ci batt 12
+ci exha Single
+ci ftype Regular
+ci cool 13.4 Quarts
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Air conditioning
+ci equip 302 cu. in. V8 engine
+ci equip Power steering
+ci equip Power windows
+ci equip Power brakes
+ci equip Power seats
+ci equip Radio
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 3.17
+ci 2gear 1.75
+ci 1gear 2.99
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize DR78 x 14
+ci sloc Trunk
+cls 4162, 5(\w)83(\w)([\dX]{6})
+clv 13074, 1975, Ford, Granada Ghia, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci series Granada Ghia
+ci msrp $4283.00
+ci year 1975
+ci prod 43652
+ci origin United States
+ci make Ford
+ci maker Ford
+ci doors 4
+ci model 54K
+ci weight 3361
+ci ebrake Cable and conduit on rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci oil 4
+ci tcase -NA-
+ci fuel 19.5
+ci trans 3.5
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 109.9
+ci width 74
+ci length 197.7
+ci height 53.6
+ci ftred 58.5
+ci rtred 57.7
+ci cyl 6
+ci disp 250
+ci mbear 7
+ci bhp 72@2900
+ci b&s 3.68 & 3.91
+ci rhp 32.5
+ci vlift Hydraulic
+ci etype Inline 6. Overhead valve
+ci etype Constant mesh
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 180@1400
+ci etype Dual downdraft
+ci comp 8.0
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci batt 12
+ci ftype Regular
+ci ign Distributor and coil
+ci exha Single
+ci rad Tubular and fin
+ci cool Water pump
+ci cool 13.4 Quarts
+ci equip 302 cu. in. V8 engine
+ci equip Air conditioning
+ci equip Power steering
+ci equip Power windows
+ci equip Power brakes
+ci equip Power seats
+ci equip Radio
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 2gear 1.75
+ci 3gear 1
+ci rev 3.17
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize DR78 x 14
+ci sloc Trunk
+cls 4163, 5(\w)82(\w)([\dX]{6})
+clv 13075, 1975, Ford, Granada Standard, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci series Granada Standard
+ci msrp $3698.00
+ci origin United States
+ci prod 100801
+ci year 1975
+ci make Ford
+ci model 66H
+ci maker Ford
+ci doors 2
+ci weight 3358
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci trans 3.5
+ci oil 4
+ci tcase -NA-
+ci fuel 19.5
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci width 74
+ci wbase 109.9
+ci length 197.7
+ci ftred 58.5
+ci rtred 57.7
+ci height 53.4
+ci cyl 6
+ci rhp 32.5
+ci mbear 7
+ci b&s 3.68 & 3.13
+ci bhp 75@3200
+ci comp 8.3
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype Single downdraft
+ci etype Constant mesh
+ci disp 200
+ci trq 145@2000
+ci block Special alloy iron
+ci etype Own Inline 6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci exha Single
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci cool 9.7 Quarts
+ci ftype Regular
+ci cool Water pump
+ci equip Air conditioning
+ci equip 250 cu. in. Inline 6 engine
+ci equip 302 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power seats
+ci equip Power steering
+ci equip Power windows
+ci equip Radio
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci rev 3.17
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci gears 3
+ci 3gear 1
+ci 1gear 2.99
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize DR78 x 14
+cls 4164, 5(\w)81(\w)([\dX]{6})
+clv 13076, 1975, Ford, Granada Standard, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci prod 118168
+ci series Granada Standard
+ci make Ford
+ci year 1975
+ci origin United States
+ci msrp $3756.00
+ci doors 4
+ci model 54H
+ci weight 3408
+ci maker Ford
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci oil 4
+ci trans 3.5
+ci fuel 19.5
+ci tcase -NA-
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 109.9
+ci width 74
+ci length 197.7
+ci height 53.6
+ci ftred 58.5
+ci rtred 57.7
+ci etype Single downdraft
+ci cyl 6
+ci mbear 7
+ci trq 145@2000
+ci bhp 75@3200
+ci comp 8.3
+ci b&s 3.68 & 3.13
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Constant mesh
+ci block Special alloy iron
+ci disp 200
+ci rhp 32.5
+ci etype Own Inline 6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool 9.7 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Water pump
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Power brakes
+ci equip 250 cu. in. Inline 6 engine
+ci equip Power steering
+ci equip 302 cu. in. V8 engine
+ci equip Power seats
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 3
+ci rev 3.17
+ci 1gear 2.99
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.75
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize DR78 x 14
+cls 4165, 5(\w)68(\w)([\dX]{6})
+clv 13077, 1975, Ford, LTD Brougham, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci prod 24005
+ci make Ford
+ci msrp $5487.00
+ci year 1975
+ci series LTD Brougham
+ci maker Ford
+ci doors 2
+ci weight 4391
+ci model 60K
+ci svc Front disc rear self-adjusting drum
+ci fbsize 11.72
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci trans 25
+ci fuel 24.2
+ci oil 4
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci height 54.3
+ci length 223.9
+ci wbase 121
+ci width 79.5
+ci ftred 64.1
+ci rtred 64.3
+ci comp 8.0
+ci cyl 8
+ci b&s 4 & 3 1/2
+ci etype Select-Shift Cruise-O-Matic automatic
+ci disp 351
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 148@3800
+ci rhp 51.2
+ci etype Dual downdraft
+ci mbear 5
+ci etype V8 overhead valve
+ci trq 243@2400
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci batt 12
+ci ftype Regular
+ci ign Distributor and coil
+ci cool 17.1 Quarts
+ci exha Single
+ci equip 460 cu. in. V8 engine
+ci equip Power seats
+ci equip Power vent windows
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci sgear Integral power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15B
+cls 4166, 5(\w)66(\w)([\dX]{6})
+clv 13078, 1975, Ford, LTD Brougham, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci make Ford
+ci prod 32327
+ci msrp $5453.00
+ci series LTD Brougham
+ci year 1975
+ci doors 4
+ci maker Ford
+ci weight 4419
+ci model 53K
+ci bsize 11
+ci fbsize 11.72
+ci svc Front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci trans 25
+ci oil 4
+ci fuel 24.2
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci width 79.5
+ci wbase 121
+ci length 223.9
+ci height 54.3
+ci ftred 64.1
+ci rtred 64.3
+ci trq 243@2400
+ci cyl 8
+ci comp 8.0
+ci rhp 51.2
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 148@3800
+ci etype Select-Shift Cruise-O-Matic automatic
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci b&s 4 & 3 1/2
+ci disp 351
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci batt 12
+ci cool 17.1 Quarts
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci exha Single
+ci equip Air conditioning
+ci equip Power seats
+ci equip Power vent windows
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip 400 cu. in. V8 engine
+ci equip 460 cu. in. V8 engine
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15B
+cls 4167, 5(\w)65(\w)([\dX]{6})
+clv 13079, 1975, Ford, LTD Landau, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci prod 26919
+ci make Ford
+ci msrp $5133.00
+ci year 1975
+ci series LTD Landau
+ci doors 2
+ci model 60L
+ci weight 4419
+ci maker Ford
+ci ebrake Cable and conduit on rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 11
+ci fbsize 11.72
+ci trans 25
+ci fuel 24.2
+ci tcase -NA-
+ci oil 4
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci height 54.3
+ci length 223.9
+ci wbase 121
+ci width 79.5
+ci ftred 64.1
+ci rtred 64.3
+ci comp 8.0
+ci cyl 8
+ci b&s 4 & 3 1/2
+ci etype Select-Shift Cruise-O-Matic automatic
+ci disp 351
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 148@3800
+ci rhp 51.2
+ci etype Dual downdraft
+ci mbear 5
+ci etype V8 overhead valve
+ci trq 243@2400
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci batt 12
+ci ftype Regular
+ci ign Distributor and coil
+ci cool 17.1 Quarts
+ci exha Single
+ci equip 460 cu. in. V8 engine
+ci equip Power seats
+ci equip Power vent windows
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip 400 cu. in. V8 engine
+ci sgear Integral power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15B
+cls 4168, 5(\w)64(\w)([\dX]{6})
+clv 13080, 1975, Ford, LTD Landau, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci make Ford
+ci prod 32506
+ci msrp $5099.00
+ci series LTD Landau
+ci year 1975
+ci doors 4
+ci maker Ford
+ci weight 4446
+ci model 53L
+ci bsize 11
+ci fbsize 11.72
+ci svc Front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci trans 25
+ci oil 4
+ci fuel 24.2
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci width 79.5
+ci wbase 121
+ci length 223.9
+ci height 54.3
+ci ftred 64.1
+ci rtred 64.3
+ci trq 243@2400
+ci cyl 8
+ci comp 8.0
+ci rhp 51.2
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 148@3800
+ci etype Select-Shift Cruise-O-Matic automatic
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci b&s 4 & 3 1/2
+ci disp 351
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci batt 12
+ci cool 17.1 Quarts
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci exha Single
+ci equip Air conditioning
+ci equip Power seats
+ci equip Power vent windows
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip 400 cu. in. V8 engine
+ci equip 460 cu. in. V8 engine
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15B
+cls 4169, 5(\w)62(\w)([\dX]{6})
+clv 13081, 1975, Ford, LTD, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci make Ford
+ci prod 47432
+ci msrp $4753.00
+ci year 1975
+ci series LTD
+ci model 60H
+ci doors 2
+ci weight 4359
+ci maker Ford
+ci bsize 11
+ci svc Front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci fbsize 11.72
+ci trans 25
+ci fuel 24.2
+ci oil 4
+ci tcase -NA-
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci height 54.3
+ci length 223.9
+ci wbase 121
+ci width 79.5
+ci ftred 64.1
+ci rtred 64.3
+ci comp 8.0
+ci cyl 8
+ci b&s 4 & 3 1/2
+ci etype Select-Shift Cruise-O-Matic automatic
+ci disp 351
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 148@3800
+ci rhp 51.2
+ci etype Dual downdraft
+ci mbear 5
+ci etype V8 overhead valve
+ci trq 243@2400
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci batt 12
+ci ftype Regular
+ci ign Distributor and coil
+ci cool 17.1 Quarts
+ci exha Single
+ci equip 400 cu. in. V8 engine
+ci equip Power seats
+ci equip Power vent windows
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip 460 cu. in. V8 engine
+ci sgear Integral power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15B
+cls 4170, 5(\w)63(\w)([\dX]{6})
+clv 13082, 1975, Ford, LTD, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci series LTD
+ci prod 82382
+ci msrp $4712.00
+ci year 1975
+ci make Ford
+ci weight 4408
+ci doors 4
+ci maker Ford
+ci model 53H
+ci svc Front disc rear self-adjusting drum
+ci bsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci fbsize 11.72
+ci tcase -NA-
+ci trans 25
+ci oil 4
+ci fuel 24.2
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci height 54.3
+ci length 223.9
+ci wbase 121
+ci ftred 64.1
+ci rtred 64.3
+ci width 79.5
+ci b&s 4 & 3 1/2
+ci comp 8.0
+ci cyl 8
+ci etype Select-Shift Cruise-O-Matic automatic
+ci disp 351
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 148@3800
+ci etype V8 overhead valve
+ci etype Dual downdraft
+ci rhp 51.2
+ci mbear 5
+ci trq 243@2400
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci rad Tubular and fin
+ci cool Centrifugal water  pump
+ci batt 12
+ci ftype Regular
+ci ign Distributor and coil
+ci cool 17.1 Quarts
+ci exha Single
+ci equip 400 cu. in. V8 engine
+ci equip Power seats
+ci equip Power vent windows
+ci equip Power windows
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci equip 460 cu. in. V8 engine
+ci sgear Integral power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 15B
+cls 4171, 5(\w)74(\w)([\dX]{6})
+clv 13083, 1975, Ford, LTD, Station Wagon 2-seat
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci make Ford
+ci prod 22935
+ci msrp $5158.00
+ci series LTD
+ci year 1975
+ci weight 4803
+ci maker Ford
+ci model 71H
+ci doors 4
+ci bsize 11
+ci fbsize 11.72
+ci svc Front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci trans 25
+ci tcase -NA-
+ci oil 4
+ci fuel 24.2
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 56.7
+ci wbase 121
+ci length 225.6
+ci ftred 64.1
+ci rtred 64.3
+ci width 79.9
+ci trq 243@2400
+ci cyl 8
+ci comp 8.0
+ci rhp 51.2
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 148@3800
+ci etype Select-Shift Cruise-O-Matic automatic
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci b&s 4 & 3 1/2
+ci disp 351
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci ign Distributor and coil
+ci batt 12
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci cool 17.1 Quarts
+ci equip 460 cu. in. V8 engine
+ci equip Power seats
+ci equip Power vent windows
+ci equip Power windows
+ci equip Air conditioning
+ci equip Radio
+ci equip Speed control device
+ci equip 400 cu. in. V8 engine
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize JR78 x 15B
+ci sloc Trunk
+cls 4172, 5(\w)91(\w)([\dX]{6})
+clv 13084, 1975, Ford, Maverick, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Maverick
+ci msrp $3025.00
+ci prod 63404
+ci year 1975
+ci origin United States
+ci weight 2993
+ci maker Ford
+ci model 62A
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci tcase -NA-
+ci trans 3.5
+ci fuel 19.2
+ci csize 9 inches
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci height 52.9
+ci width 70.5
+ci rtred 56.5
+ci wbase 103
+ci length 187
+ci cyl 6
+ci mbear 7
+ci rhp 32.5
+ci bhp 75@3200
+ci comp 8.3
+ci trq 145@2000
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci b&s 3.68 & 3.13
+ci disp 200
+ci etype Constant mesh
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Br. Yellow
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Red Metallic
+co Medium Slate Blue Metallic
+co Medium Taupe Metallic
+co Orange
+co Pastel Blue
+co Red
+co Saddle Bronze Metallic
+co Silver  Blue Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci batt 12
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci cool 9 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power brakes
+ci equip 250 cu. in. Inline 6 engine
+ci equip Power steering
+ci equip Air conditioning
+ci equip 302 cu. in. V8 engine
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.75
+ci 1gear 2.99
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize BR78 x 14
+ci sloc Trunk
+cls 4173, 5(\w)93(\w)([\dX]{6})
+clv 13085, 1975, Ford, Maverick, Grabber
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Maverick
+ci msrp $3282.00
+ci prod 8473
+ci year 1975
+ci origin United States
+ci weight 2993
+ci maker Ford
+ci model 62D
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci tcase -NA-
+ci trans 3.5
+ci fuel 19.2
+ci csize 9 inches
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci height 52.9
+ci wbase 103
+ci rtred 56.5
+ci width 70.5
+ci length 187
+ci mbear 7
+ci cyl 6
+ci bhp 75@3200
+ci comp 8.3
+ci rhp 32.5
+ci trq 145@2000
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci b&s 3.68 & 3.13
+ci disp 200
+ci etype Constant mesh
+ci etype Inline 6 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Br. Yellow
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Red Metallic
+co Medium Slate Blue Metallic
+co Medium Taupe Metallic
+co Orange
+co Pastel Blue
+co Red
+co Saddle Bronze Metallic
+co Silver  Blue Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci batt 12
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci cool 9 Quarts
+ci exha Single
+ci ftype Regular
+ci cool Centrifugal water  pump
+ci equip Radio
+ci equip Power brakes
+ci equip 250 cu. in. Inline 6 engine
+ci equip Power steering
+ci equip Air conditioning
+ci equip 302 cu. in. V8 engine
+ci sgear Magic Circle recirculating ball
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.75
+ci 1gear 2.99
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize BR78 x 14
+ci sloc Trunk
+cls 4174, 5(\w)92(\w)([\dX]{6})
+clv 13086, 1975, Ford, Maverick, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci series Maverick
+ci msrp $3061.00
+ci prod 90695
+ci year 1975
+ci origin United States
+ci doors 4
+ci model 54A
+ci maker Ford
+ci weight 3124
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci oil 4
+ci fuel 19.2
+ci trans 3.5
+ci ctype Single dry plate
+ci csize 9 inches
+ci diff Hypoid
+ci diffr 3.0
+ci height 53.1
+ci wbase 103
+ci length 193.9
+ci rtred 56.5
+ci width 70.5
+ci mbear 7
+ci cyl 6
+ci disp 200
+ci comp 8.3
+ci etype Inline 6 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 32.5
+ci b&s 3.68 & 3.13
+ci trq 145@2000
+ci etype Single downdraft
+ci vlift Hydraulic
+ci etype Constant mesh
+ci bhp 75@3200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Br. Yellow
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Red Metallic
+co Medium Slate Blue Metallic
+co Medium Taupe Metallic
+co Orange
+co Pastel Blue
+co Red
+co Saddle Bronze Metallic
+co Silver  Blue Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci cool Centrifugal water  pump
+ci cool 9 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular
+ci equip Power brakes
+ci equip Radio
+ci equip Air conditioning
+ci equip 250 cu. in. Inline 6 engine
+ci equip Power steering
+ci equip 302 cu. in. V8 engine
+ci sgear Magic Circle recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 2gear 1.75
+ci rev 3.17
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize BR78 x 14
+ci sloc Trunk
+cls 4175, 5(\w)02(\w)([\dX]{6})
+clv 13087, 1975, Ford, Mustang II 4, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $3529.00
+ci prod 85155
+ci origin United States
+ci year 1975
+ci make Ford
+ci series Mustang II 4
+ci doors 2
+ci maker Ford
+ci model 60F
+ci weight 2749
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci oil 4
+ci fuel 13
+ci tcase -NA-
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci wbase 96.2
+ci height 50
+ci rtred 55.8
+ci length 175
+ci width 70.2
+ci ftred 55.5
+ci etype Inline 4 overhead valve
+ci comp 8.0
+ci bhp 86@4800
+ci b&s 3.78 & 3.126
+ci trq 114@2800
+ci rhp 22.86
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci disp 140
+ci etype Dual downdraft
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Br. Yellow
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Red Metallic
+co Medium Slate Blue Metallic
+co Medium Taupe Metallic
+co Orange
+co Pastel Blue
+co Red
+co Saddle Bronze Metallic
+co Silver  Blue Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci batt 12
+ci ftype Regular
+ci cool 8.5 Quarts
+ci exha Single
+ci equip Radio
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci sgear Rack & pinion
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 4
+ci 1gear 3.65
+ci rev 3.66
+ci 4gear 1
+ci 5gear Not applicable
+ci 3gear 1.37
+ci 2gear 1.97
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize BR78 x 13
+cls 4176, 5(\w)04(\w)([\dX]{6})
+clv 13088, 1975, Ford, Mustang II 4, Ghia Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $3938.00
+ci prod 52320
+ci origin United States
+ci year 1975
+ci make Ford
+ci series Mustang II 4
+ci model 60H
+ci maker Ford
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci svc Hydraulic self-adjusting
+ci tcase -NA-
+ci fuel 13
+ci oil 4
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci length 175
+ci wbase 96.2
+ci width 70.2
+ci rtred 55.8
+ci height 50
+ci ftred 55.5
+ci comp 8.0
+ci etype Inline 4 overhead valve
+ci bhp 86@4800
+ci b&s 3.78 & 3.126
+ci trq 114@2800
+ci rhp 22.86
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci disp 140
+ci etype Dual downdraft
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Br. Yellow
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Red Metallic
+co Medium Slate Blue Metallic
+co Medium Taupe Metallic
+co Orange
+co Pastel Blue
+co Red
+co Saddle Bronze Metallic
+co Silver  Blue Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci batt 12
+ci ftype Regular
+ci cool 8.5 Quarts
+ci exha Single
+ci equip Radio
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci sgear Rack & pinion
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 4
+ci 5gear Not applicable
+ci rev 3.66
+ci 4gear 1
+ci 1gear 3.65
+ci 3gear 1.37
+ci 2gear 1.97
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize BR78 x 13
+cls 4177, 5(\w)03(\w)([\dX]{6})
+clv 13089, 1975, Ford, Mustang II 4, Hatchback
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $3818.00
+ci series Mustang II 4
+ci origin United States
+ci year 1975
+ci make Ford
+ci prod 30038
+ci model 69F
+ci maker Ford
+ci weight 2793
+ci doors 3
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci fuel 13
+ci oil 4
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci width 70.2
+ci length 175
+ci ftred 55.5
+ci rtred 55.8
+ci wbase 96.2
+ci height 50
+ci comp 8.0
+ci etype Inline 4 overhead valve
+ci bhp 86@4800
+ci b&s 3.78 & 3.126
+ci trq 114@2800
+ci rhp 22.86
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci disp 140
+ci etype Dual downdraft
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Br. Yellow
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Red Metallic
+co Medium Slate Blue Metallic
+co Medium Taupe Metallic
+co Orange
+co Pastel Blue
+co Red
+co Saddle Bronze Metallic
+co Silver  Blue Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci batt 12
+ci ftype Regular
+ci cool 8.5 Quarts
+ci exha Single
+ci equip Radio
+ci equip Air conditioning
+ci equip Power brakes
+ci equip Power steering
+ci sgear Rack & pinion
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 4
+ci 1gear 3.65
+ci rev 3.66
+ci 4gear 1
+ci 5gear Not applicable
+ci 3gear 1.37
+ci 2gear 1.97
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize BR78 x 13
+cls 4178, 5(\w)02(\w)([\dX]{6})
+clv 13090, 1975, Ford, Mustang II 6, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $3801.00
+ci make Ford
+ci origin United States
+ci prod 85155
+ci series Mustang II 6
+ci year 1975
+ci model 60F
+ci weight 2775
+ci doors 2
+ci maker Ford
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci fuel 19.2
+ci trans 3.5
+ci tcase -NA-
+ci oil 4
+ci ctype Single dry plate
+ci diff Hypoid
+ci height 50
+ci wbase 96.2
+ci rtred 56.5
+ci length 175
+ci width 70.2
+ci cyl 6
+ci comp 8.0
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 32.15
+ci trq 138@3200
+ci bhp 97@4400
+ci b&s 3.66 & 2.7
+ci vlift Hydraulic
+ci disp 170.8
+ci etype Inline 6 overhead valve
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool 9 Quarts
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Radio
+ci equip 302 cu. in. V8 engine
+ci sgear Rack & pinion
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.66
+ci 1gear 3.65
+ci 2gear 1.97
+ci gears 4
+ci 4gear 1
+ci 3gear 1.37
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize BR70 x 13
+cls 4179, 5(\w)04(\w)([\dX]{6})
+clv 13091, 1975, Ford, Mustang II 6, Ghia Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $4210.00
+ci make Ford
+ci origin United States
+ci series Mustang II 6
+ci year 1975
+ci prod 52320
+ci model 60H
+ci weight 2819
+ci doors 2
+ci maker Ford
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci trans 3.5
+ci oil 4
+ci tcase -NA-
+ci fuel 19.2
+ci ctype Single dry plate
+ci diff Hypoid
+ci height 50
+ci length 175
+ci width 70.2
+ci wbase 96.2
+ci rtred 56.5
+ci cyl 6
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci rhp 32.15
+ci trq 138@3200
+ci bhp 97@4400
+ci b&s 3.66 & 2.7
+ci vlift Hydraulic
+ci disp 170.8
+ci etype Inline 6 overhead valve
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool 9 Quarts
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Radio
+ci equip 302 cu. in. V8 engine
+ci sgear Rack & pinion
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.66
+ci 1gear 3.65
+ci 2gear 1.97
+ci gears 4
+ci 4gear 1
+ci 3gear 1.37
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize BR70 x 13
+cls 4180, 5(\w)03(\w)([\dX]{6})
+clv 13092, 1975, Ford, Mustang II 6, Hatchback
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $4090.00
+ci make Ford
+ci origin United States
+ci year 1975
+ci series Mustang II 6
+ci prod 30038
+ci maker Ford
+ci model 69F
+ci doors 2
+ci weight 2812
+ci svc Hydraulic self-adjusting
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 10
+ci trans 3.5
+ci fuel 19.2
+ci tcase -NA-
+ci oil 4
+ci ctype Single dry plate
+ci diff Hypoid
+ci width 70.2
+ci length 175
+ci height 50
+ci rtred 56.5
+ci wbase 96.2
+ci etype Inline 6 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci trq 138@3200
+ci cyl 6
+ci bhp 97@4400
+ci b&s 3.66 & 2.7
+ci vlift Hydraulic
+ci rhp 32.15
+ci disp 170.8
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool 9 Quarts
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Radio
+ci equip 302 cu. in. V8 engine
+ci sgear Rack & pinion
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.66
+ci 1gear 3.65
+ci 2gear 1.97
+ci gears 4
+ci 4gear 1
+ci 3gear 1.37
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize BR70 x 13
+cls 4181, 5(\w)05(\w)([\dX]{6})
+clv 13093, 1975, Ford, Mustang II 6, Mach 1
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $4188.00
+ci make Ford
+ci origin United States
+ci prod 21062
+ci series Mustang II 6
+ci year 1975
+ci weight 2879
+ci model 69R
+ci doors 2
+ci maker Ford
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Hydraulic self-adjusting
+ci oil 4
+ci tcase -NA-
+ci trans 3.5
+ci fuel 19.2
+ci ctype Single dry plate
+ci diff Hypoid
+ci length 175
+ci width 70.2
+ci height 50
+ci wbase 96.2
+ci rtred 56.5
+ci cyl 6
+ci rhp 32.15
+ci comp 8.0
+ci etype Inline 6 overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 97@4400
+ci trq 138@3200
+ci vlift Hydraulic
+ci disp 170.8
+ci b&s 3.66 & 2.7
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Antique White
+co Bright Aqua Metallic
+co Bright Blue Metallic
+co Bright Green Metallic
+co Bright Orange
+co Bright Yellow
+co Bronze Metallic
+co Cosworth Silver Metallic
+co Cream Beige
+co Dark Taupe Metallic
+co Golden Brown Metallic
+co Light Blue Metallic
+co Light Gold Metallic
+co Lime Yellow
+co Medium Blue
+co Medium Green
+co Medium Green Metallic
+co Medium Red
+co Medium Red Metallic
+co Midnight Blue Metallic
+co Sandstone
+co Silver Metallic
+co Tuxedo Black
+ci cool 9 Quarts
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Radio
+ci equip 302 cu. in. V8 engine
+ci sgear Rack & pinion
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.66
+ci 1gear 3.65
+ci 2gear 1.97
+ci gears 4
+ci 4gear 1
+ci 3gear 1.37
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize BR70 x 13
+cls 4182, 5(\w)10(\w)([\dX]{6})
+clv 13094, 1975, Ford, Pinto, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $2919.00
+ci prod 64081
+ci origin United States
+ci series Pinto
+ci year 1975
+ci make Ford
+ci weight 2568
+ci model 62B
+ci doors 2
+ci maker Ford
+ci svc Front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci oil 4
+ci tcase -NA-
+ci fuel 13
+ci ctype Single dry plate
+ci csize 7.5 inches
+ci diffr 3.55
+ci diff Hypoid
+ci wbase 94.2
+ci height 50.5
+ci ftred 55
+ci length 169
+ci width 69.4
+ci rtred 55.8
+ci disp 140
+ci comp 8.4
+ci bhp 83@4800
+ci trq 109@2800
+ci b&s 3.78 & 3.126
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci rhp 22.86
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline 4 overhead valve
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Br. Yellow
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Red Metallic
+co Medium Slate Blue Metallic
+co Medium Taupe Metallic
+co Orange
+co Pastel Blue
+co Red
+co Saddle Bronze Metallic
+co Silver  Blue Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci batt 12
+ci cool 8.7 Quarts
+ci ftype Regular
+ci exha Single
+ci equip Radio
+ci equip Air conditioning
+ci equip Power brakes
+ci equip 171 cu. in. V6 engine
+ci equip Power steering
+ci sgear Rack & pinion
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 4
+ci drive Rear wheel drive
+ci 1gear 3.65
+ci rev 3.66
+ci 4gear 1
+ci 5gear Not applicable
+ci 3gear 1.37
+ci 2gear 1.97
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize BR78 x 13
+cls 4183, 5(\w)11(\w)([\dX]{6})
+clv 13095, 1975, Ford, Pinto, Runabout
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $3068.00
+ci prod 68919
+ci origin United States
+ci series Pinto
+ci year 1975
+ci make Ford
+ci doors 3
+ci model 64B
+ci weight 2601
+ci maker Ford
+ci ebrake Cable and conduit on rear service brakes
+ci svc Front disc rear self-adjusting drum
+ci bsize 9
+ci oil 4
+ci tcase -NA-
+ci fuel 13
+ci ctype Single dry plate
+ci csize 7.5 inches
+ci diffr 3.55
+ci diff Hypoid
+ci wbase 94.2
+ci height 50.5
+ci ftred 55
+ci length 169
+ci width 69.4
+ci rtred 55.8
+ci disp 140
+ci comp 8.4
+ci bhp 83@4800
+ci trq 109@2800
+ci b&s 3.78 & 3.126
+ci vlift Hydraulic
+ci etype Dual downdraft
+ci rhp 22.86
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Inline 4 overhead valve
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Br. Yellow
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Red Metallic
+co Medium Slate Blue Metallic
+co Medium Taupe Metallic
+co Orange
+co Pastel Blue
+co Red
+co Saddle Bronze Metallic
+co Silver  Blue Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci batt 12
+ci cool 8.7 Quarts
+ci ftype Regular
+ci exha Single
+ci equip Radio
+ci equip Air conditioning
+ci equip Power brakes
+ci equip 171 cu. in. V6 engine
+ci equip Power steering
+ci sgear Rack & pinion
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 4
+ci drive Rear wheel drive
+ci 1gear 3.65
+ci rev 3.66
+ci 4gear 1
+ci 5gear Not applicable
+ci 3gear 1.37
+ci 2gear 1.97
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize BR78 x 13
+cls 4184, 5(\w)12(\w)([\dX]{6})
+clv 13096, 1975, Ford, Pinto, Station Wagon
+ser 6 1 499999
+ci axle Semifloating
+ci series Pinto
+ci origin United States
+ci year 1975
+ci make Ford
+ci prod 90763
+ci maker Ford
+ci weight 2768
+ci model 73B
+ci doors 2
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 9
+ci svc Front disc rear self-adjusting drum
+ci tcase -NA-
+ci fuel 13
+ci oil 4
+ci csize 7.5 inches
+ci ctype Single dry plate
+ci diffr 3.55
+ci diff Hypoid
+ci rtred 55.8
+ci ftred 55
+ci width 69.7
+ci height 52
+ci wbase 94.2
+ci length 178.8
+ci etype Dual downdraft
+ci bhp 83@4800
+ci comp 8.4
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 22.86
+ci vlift Hydraulic
+ci disp 140
+ci trq 109@2800
+ci etype Inline 4 overhead valve
+ci etype Unknown at time of publication
+ci b&s 3.78 & 3.126
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Br. Yellow
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Red Metallic
+co Medium Slate Blue Metallic
+co Medium Taupe Metallic
+co Orange
+co Pastel Blue
+co Red
+co Saddle Bronze Metallic
+co Silver  Blue Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci ftype Regular
+ci cool 8.7 Quarts
+ci batt 12
+ci exha Single
+ci equip Air conditioning
+ci equip Radio
+ci equip 171 cu. in. V6 engine
+ci equip Power brakes
+ci equip Power steering
+ci sgear Rack & pinion
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci rev 3.66
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 1gear 3.65
+ci 3gear 1.37
+ci 4gear 1
+ci 2gear 1.97
+ci gears 4
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize BR78 x 13
+cls 4185, 5(\w)47(\w)([\dX]{6})
+clv 13097, 1975, Ford, Ranchero, 500
+ser 6 1 499999
+ci axle Semifloating
+ci prod 8778
+ci series Ranchero
+ci origin United States
+ci year 1975
+ci make Ford
+ci maker Ford
+ci doors 2
+ci model 97D
+ci fbsize 10.72
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fuel 26.5
+ci oil 4
+ci tcase -NA-
+ci ctype Not applicable
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 114
+ci rtred 62.9
+ci ftred 62.8
+ci etype Select-Shift Cruise-O-Matic automatic
+ci disp 351
+ci mbear 5
+ci b&s 4 & 3 1/2
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 243@2400
+ci bhp 140@3800
+ci vlift Hydraulic
+ci comp 8.0
+ci cyl 8
+ci rhp 51.2
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Aqua Blue Metallic
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow  Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Bright Yellow
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Medium Taupe Met
+co Orange
+co Pastel Blue
+co Red
+co Red Glamour Metallic
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci cool 19.2 Quarts
+ci ftype Regular
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4186, 5(\w)48(\w)([\dX]{6})
+clv 13098, 1975, Ford, Ranchero, Glenwood Touring Car
+ser 6 1 499999
+ci axle Semifloating
+ci make Ford
+ci year 1975
+ci origin United States
+ci prod 6114
+ci series Ranchero
+ci maker Ford
+ci doors 2
+ci model 97R
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 10.72
+ci tcase -NA-
+ci oil 4
+ci fuel 26.5
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci rtred 62.9
+ci ftred 62.8
+ci wbase 114
+ci trq 243@2400
+ci comp 8.0
+ci bhp 140@3800
+ci cyl 8
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci mbear 5
+ci vlift Hydraulic
+ci b&s 4 & 3 1/2
+ci disp 351
+ci etype Select-Shift Cruise-O-Matic automatic
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Aqua Blue Metallic
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow  Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Bright Yellow
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Medium Taupe Met
+co Orange
+co Pastel Blue
+co Red
+co Red Glamour Metallic
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci cool 19.2 Quarts
+ci ftype Regular
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4187, 5(\w)49(\w)([\dX]{6})
+clv 13099, 1975, Ford, Ranchero, Squire
+ser 6 1 499999
+ci axle Semifloating
+ci origin United States
+ci series Ranchero
+ci year 1975
+ci make Ford
+ci prod 1549
+ci maker Ford
+ci model 97K
+ci doors 2
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci fbsize 10.72
+ci svc Power front disc rear self-adjusting drum
+ci fuel 26.5
+ci tcase -NA-
+ci oil 4
+ci ctype Not applicable
+ci diffr 3.0
+ci diff Hypoid
+ci rtred 62.9
+ci wbase 114
+ci ftred 62.8
+ci etype Select-Shift Cruise-O-Matic automatic
+ci disp 351
+ci comp 8.0
+ci b&s 4 & 3 1/2
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 243@2400
+ci bhp 140@3800
+ci vlift Hydraulic
+ci cyl 8
+ci mbear 5
+ci rhp 51.2
+ci etype V8 overhead valve
+ci color Exterior Colors
+co Aqua Blue Metallic
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow  Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Bright Yellow
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Medium Taupe Met
+co Orange
+co Pastel Blue
+co Red
+co Red Glamour Metallic
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci batt 12
+ci cool Centrifugal water  pump
+ci exha Single
+ci cool 19.2 Quarts
+ci ftype Regular
+ci sgear Recirculating ball and nut
+ci rsus Longitudinal leaf spring
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4188, 5(\w)87(\w)([\dX]{6})
+clv 13100, 1975, Ford, Thunderbird, Hardtop
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $7701.00
+ci year 1975
+ci origin United States
+ci make Ford
+ci series Thunderbird
+ci prod 42685
+ci maker Ford
+ci doors 2
+ci model 65K
+ci fbsize 11.72
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci oil 4
+ci tcase -NA-
+ci fuel 26.5
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 53
+ci ftred 62.9
+ci length 225.8
+ci width 79.7
+ci wbase 120.4
+ci rtred 62.8
+ci etype Downdraft 4-barrel
+ci comp 8.0
+ci bhp 194@3800
+ci etype Select-Shift Cruise-O-Matic automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 460
+ci trq 347@2600
+ci cyl 8
+ci rhp 60.83
+ci b&s 4.36 & 3.85
+ci vlift Hydraulic
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Aqua Blue Metallic
+co Black
+co Br. Yellow
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Gold Yellow Metallic
+co Bright Lime Gold Metallic
+co Bright Red
+co Copper Metallic
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Gold Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Ginger Bronze Metallic
+co Light Green
+co Light Green Gold Metallic
+co Maize Yellow
+co Maroon Metallic
+co Medium Blue Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Red Metallic
+co Medium Slate Blue Metallic
+co Medium Taupe Metallic
+co Orange
+co Pastel Blue
+co Red
+co Saddle Bronze Metallic
+co Silver  Blue Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co Unique Gold Metallic
+co White
+co Yellow
+ci cool 19.3 Quarts
+ci rad Tubular and fin
+ci batt 12
+ci ftype Premium
+ci ign Distributor and coil
+ci exha Dual
+ci cool Centrifugal water  pump
+ci equip Power seats
+ci equip Power vent windows
+ci equip Power windows
+ci equip Speed control device
+ci equip Air conditioning
+ci equip Radio
+ci equip Power antenna
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize LR78 x 15B
+ci sloc Trunk
+cls 4189, 5(\w)25(\w)([\dX]{6})
+clv 13101, 1975, Ford, Torino, Coupe
+ser 6 1 499999
+ci axle Semifloating
+ci series Torino
+ci make Ford
+ci year 1975
+ci origin United States
+ci msrp $3954.00
+ci prod 13394
+ci model 65B
+ci maker Ford
+ci doors 2
+ci weight 4119
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 10.72
+ci bsize 10
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci fuel 26.5
+ci trans 25
+ci oil 4
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.0
+ci height 52.6
+ci width 79.3
+ci length 213.6
+ci wbase 118
+ci rtred 62.9
+ci ftred 62.8
+ci rhp 51.2
+ci cyl 8
+ci comp 8.0
+ci vlift Hydraulic
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 140@3800
+ci etype Dual downdraft
+ci etype Select-Shift Cruise-O-Matic automatic
+ci b&s 4 & 3 1/2
+ci disp 351
+ci trq 243@2400
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 19.2 Quarts
+ci exha Single
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci equip 460 cu. in. V8 engine
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 14B
+cls 4190, 5(\w)27(\w)([\dX]{6})
+clv 13102, 1975, Ford, Torino, Sedan
+ser 6 1 499999
+ci axle Semifloating
+ci msrp $3957.00
+ci make Ford
+ci prod 22928
+ci origin United States
+ci year 1975
+ci series Torino
+ci maker Ford
+ci doors 4
+ci model 53B
+ci weight 4212
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci bsize 10
+ci fbsize 10.72
+ci tcase -NA-
+ci trans 25
+ci fuel 26.5
+ci oil 4
+ci ctype Not applicable
+ci diffr 3.0
+ci diff Hypoid
+ci wbase 118
+ci length 217.6
+ci height 53.3
+ci width 79.3
+ci ftred 62.8
+ci rtred 62.9
+ci vlift Hydraulic
+ci cyl 8
+ci comp 8.0
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 140@3800
+ci etype Select-Shift Cruise-O-Matic automatic
+ci b&s 4 & 3 1/2
+ci etype Dual downdraft
+ci rhp 51.2
+ci disp 351
+ci trq 243@2400
+ci mbear 5
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 19.2 Quarts
+ci exha Single
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci equip 460 cu. in. V8 engine
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 14B
+cls 4191, 5(\w)40(\w)([\dX]{6})
+clv 13103, 1975, Ford, Torino, Station Wagon 2-seat
+ser 6 1 499999
+ci axle Semifloating
+ci series Torino
+ci make Ford
+ci year 1975
+ci origin United States
+ci msrp $4336.00
+ci prod 13291
+ci model 71B
+ci maker Ford
+ci doors 4
+ci weight 4545
+ci ebrake Cable and conduit on rear service brakes
+ci svc Power front disc rear self-adjusting drum
+ci bsize 10
+ci fbsize 10.72
+ci tcase -NA-
+ci trans 25
+ci fuel 26.5
+ci oil 4
+ci ctype Not applicable
+ci diffr 3.0
+ci diff Hypoid
+ci ftred 62.8
+ci length 222.6
+ci height 54.9
+ci width 79.3
+ci rtred 62.9
+ci wbase 118
+ci vlift Hydraulic
+ci cyl 8
+ci comp 8.0
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 140@3800
+ci etype Select-Shift Cruise-O-Matic automatic
+ci b&s 4 & 3 1/2
+ci etype Dual downdraft
+ci rhp 51.2
+ci disp 351
+ci trq 243@2400
+ci mbear 5
+ci etype V8 overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Dark Blue Metallic
+co Bright Red
+co Bright Yellow
+co Dark Brown Metallic
+co Dark Copper Metallic
+co Dark Ginger Metallic
+co Dark Jade Metallic
+co Dark Red
+co Dark Yellow Green Metallic
+co Light Green
+co Light Green Gold Metallic
+co Medium Chestnut Metallic
+co Medium Ivy Bronze Metallic
+co Medium Slate Gray
+co Orange
+co Pastel Blue
+co Red
+co Red Glow Metallic
+co Saddle Bronze Metallic
+co Silver Blue Metallic
+co Silver Metallic
+co Tan Metallic
+co White
+co Yellow
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 19.2 Quarts
+ci exha Single
+ci batt 12
+ci cool Centrifugal water  pump
+ci rad Tubular and fin
+ci equip 460 cu. in. V8 engine
+ci equip Power windows
+ci equip Radio
+ci equip Power seats
+ci equip 400 cu. in. V8 engine
+ci equip Air conditioning
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Longitudinal leaf spring
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 x 14B

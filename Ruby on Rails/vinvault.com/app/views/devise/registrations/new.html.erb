@@ -1,0 +1,111 @@
+<% content_for :head do %>
+  <%= tag :meta, :name => 'stripe-key', :content => STRIPE_PUBLIC_KEY %>
+<% end %>
+
+<% title 'Sign up' %>
+
+<div class='row-fluid'>
+
+  <div id="stripe_error" class="alert alert-error" style="display:none" ></div>
+  <div class='span12 box bordered-box blue-border'>
+    <div class='box-content box-double-padding'>
+      <%= simple_form_for(resource, :as => resource_name, :url => registration_path(resource_name), html: { class: 'card_form' }) do |f| %>
+          <%= hidden_field_tag 'plan', params[:plan] %>
+          <%= f.error_notification %>
+          <%= display_base_errors resource %>
+        <fieldset>
+          <div class='span4'>
+            <div class='lead'>
+              <i class='icon-user text-contrast'></i>
+              Account Information
+            </div>
+            <p>This information is used by <%= ENV['SITE_NAME'] %> for the purpose of creating your account. </p>
+            <p>            <div class='row-fluid pricing-tables'>
+            <%= render 'home/plan_info', plan: @plan %>
+          </div></p>
+          </div>
+
+          <div class='span8'>
+            <div class='control-group'>
+              <div class='controls'>
+                <%= f.input :name, required: true %>
+                <p class='help-block'></p>
+              </div>
+            </div>
+            <div class='control-group'>
+              <div class='controls'>
+                <%= f.input :email, required: true, class: 'span6' %>
+                <p class='help-block'></p>
+              </div>
+            </div>
+            <div class='control-group'>
+              <div class='controls'>
+                <%= f.input :password, :required => true %>
+                <p class='help-block'></p>
+              </div>
+            </div>
+            <div class='control-group'>
+              <div class='controls'>
+                <%= f.input :password_confirmation, :required => true %>
+                <p class='help-block'></p>
+              </div>
+            </div>
+          </div>
+        </fieldset>
+        <hr class='hr-normal'>
+          <% if !@user.stripe_token.nil? %>
+              <p>Credit card acceptance is pending.</p>
+          <% else %>
+        <fieldset>
+          <div class='span4 box'>
+            <div class='lead'>
+              <i class='icon-credit-card contrast'></i>
+              Credit Card Information
+            </div>
+            <small class='muted'>
+              <%= ENV['SITE_NAME'] %> uses the credit card information you provide in order to establish your billing information.
+              We do not store this information on this site; all credit card data is forwarded to
+              <a href="http:/www.stripe.com">Stripe</a>, our payment processor.
+            </small>
+          </div>
+          <div class='span8'>
+            <div class='control-group'>
+              <label class='control-label'>Credit Card Number</label>
+              <div class='controls'>
+                <%= text_field_tag :card_number, nil, name: nil, class: 'span6' %>
+                <p class='help-block'></p>
+              </div>
+            </div>
+            <div class='control-group'>
+              <label class='control-label'>Card Security Code (CVV)</label>
+              <div class='controls'>
+                <%= text_field_tag :card_code, nil, name: nil, class: 'span6' %>
+                <p class='help-block'></p>
+              </div>
+            </div>
+
+            <div class='control-group'>
+              <label class='control-label'>Expiration</label>
+              <div class='controls'>
+                <%= select_month nil, {add_month_numbers: true}, {name: nil, id: "card_month"}%>
+                <%= select_year nil, {start_year: Date.today.year, end_year: Date.today.year+10}, {name: nil, id: "card_year"}%>
+
+                <p class='help-block'></p>
+              </div>
+            </div>
+            <%= f.hidden_field :stripe_token %>
+          </div>
+        </fieldset>
+        <% end %>
+        <div class='form-actions' style='margin-bottom: 0;'>
+          <div class='text-center'>
+            <%= button_tag :class => 'btn btn-primary btn-large' do %>
+              <i class='icon-save'></i> Sign Up
+            <% end %>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>
+

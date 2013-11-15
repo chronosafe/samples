@@ -1,0 +1,305 @@
+cls 4235, 5(\w)86(\w)([\dX]{6})
+clv 17403, 1965, Lincoln, Continental, Convertible
+ci axle Semifloating
+ci msrp $6938.00
+ci make Lincoln
+ci prod 3356
+ci origin United States
+ci series Continental
+ci year 1965
+ci model 74A
+ci maker Lincoln
+ci doors 4
+ci weight 5475
+ci bsize 11.09
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11
+ci ebrake Cable and conduit on rear service brakes
+ci tcase -NA-
+ci trans 22.75
+ci rdiff 4.75
+ci oil 6
+ci fuel 24
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.89
+ci diff Hypoid
+ci ftred 62.1
+ci rtred 61
+ci length 216.3
+ci height 54.2
+ci width 78.6
+ci wbase 126
+ci etype Turbo Drive
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci englo Plate on left front door pillar post.
+ci etype Own V8 Overhead valve
+ci rhp 59.08
+ci etype Downdraft 4-barrel
+ci trq 465@2600
+ci disp 429.59
+ci b&s 4 19/64 & 3 45/64
+ci bhp 320@4600
+ci comp 10.1
+ci block Special alloy iron
+ci vlift Hydraulic
+ci mbear 5
+ci color Exterior Colors
+co Arctic White
+co Black Satin
+co Burnished Bronze
+co Charcoal Frost
+co Desert Sand
+co Fiesta Red
+co Heather
+co Madison Gray
+co Neptune Blue
+co Nocturne Blue
+co Persian Gold
+co Platinum
+co Powder Blue
+co Royal Maroon
+co Spanish Moss
+co Teal
+co Turino Turquoise
+co Willow Gold
+ci rad Corrugated fin and tube
+ci exha Dual
+ci ign Distributor and coil
+ci batt 12
+ci cool 25 Quarts
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci equip Power Vent Windows
+ci equip Walnut Cabinet containing AM FM radio
+ci equip Mirror Outside Remote control
+ci equip Built-in Dictating Machine
+ci equip Beverage Compartment
+ci equip Verically adjustable steering column
+ci equip Automatic Speed Control
+ci equip Automatic Headlight Dimmer
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Seat-6 Way
+ci equip Chauffeur Compartment Divider Window
+ci equip Power Windows
+ci equip Air Conditioner
+ci equip Individually Adjustable Contour Front Seats
+ci equip Telephone Compartment
+ci equip Rear Compartment a/c
+ci equip Divider between Front and Rear Compartments
+ci equip Safety Seat Belts rear
+ci equip Two Rear Facing Companion Seats in Rear Compartment
+ci equip Tinted Glass
+ci equip AM-FM Radio
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On right side under hood on fender apron.
+ci tsize 9.15 x 15
+ci sloc Trunk
+cls 4236, 5(\w)bb(\w)([\dX]{6})
+clv 17404, 1965, Lincoln, Continental, Executive Limousine
+ci axle Semifloating
+ci series Continental
+ci make Lincoln
+ci origin United States
+ci year 1965
+ci doors 4
+ci maker Lincoln
+ci fbsize 11
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci bsize 11.09
+ci trans 22.75
+ci fuel 24
+ci tcase -NA-
+ci oil 6
+ci rdiff 4.75
+ci carb Carter
+ci ctype Not applicable
+ci diffr 2.89
+ci diff Hypoid
+ci height 54.5
+ci length 250.3
+ci rtred 61
+ci ftred 62.1
+ci wbase 126
+ci width 78.6
+ci etype Turbo Drive
+ci block Special alloy iron
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.1
+ci rhp 59.08
+ci englo Plate on left front door pillar post.
+ci mbear 5
+ci trq 465@2600
+ci vlift Hydraulic
+ci etype Own V8 Overhead valve
+ci bhp 320@4600
+ci etype Downdraft 4-barrel
+ci b&s 4 19/64 & 3 45/64
+ci disp 429.59
+ci color Exterior Colors
+co Arctic White
+co Black Satin
+co Burnished Bronze
+co Charcoal Frost
+co Desert Sand
+co Fiesta Red
+co Heather
+co Madison Gray
+co Neptune Blue
+co Nocturne Blue
+co Persian Gold
+co Platinum
+co Powder Blue
+co Royal Maroon
+co Spanish Moss
+co Teal
+co Turino Turquoise
+co Willow Gold
+ci cool Centrifugal water  pump
+ci rad Corrugated fin and tube
+ci exha Dual
+ci cool 25 Quarts
+ci batt 12
+ci ftype Premium
+ci ign Distributor and coil
+ci equip Walnut Cabinet containing AM FM radio
+ci equip Individually Adjustable Contour Front Seats
+ci equip Mirror Outside Remote control
+ci equip Verically adjustable steering column
+ci equip Divider between Front and Rear Compartments
+ci equip Two Rear Facing Companion Seats in Rear Compartment
+ci equip Chauffeur Compartment Divider Window
+ci equip Built-in Dictating Machine
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Seat-6 Way
+ci equip Power Vent Windows
+ci equip Power Windows
+ci equip Beverage Compartment
+ci equip Automatic Speed Control
+ci equip AM-FM Radio
+ci equip Rear Compartment a/c
+ci equip Tinted Glass
+ci equip Safety Seat Belts rear
+ci equip Telephone Compartment
+ci equip Air Conditioner
+ci equip Automatic Headlight Dimmer
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On right side under hood on fender apron.
+ci sloc Trunk
+ci tsize 9.15 x 15
+cls 4237, 5(\w)82(\w)([\dX]{6})
+clv 17405, 1965, Lincoln, Continental, Sedan
+ci axle Semifloating
+ci msrp $6292.00
+ci make Lincoln
+ci prod 36824
+ci origin United States
+ci series Continental
+ci year 1965
+ci maker Lincoln
+ci weight 5075
+ci doors 4
+ci model 53A
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Cable and conduit on rear service brakes
+ci fbsize 11
+ci bsize 11.09
+ci trans 22.75
+ci fuel 24
+ci oil 6
+ci tcase -NA-
+ci rdiff 4.75
+ci carb Carter
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.89
+ci ftred 62.1
+ci length 216.3
+ci rtred 61
+ci height 54.2
+ci width 78.6
+ci wbase 126
+ci etype Turbo Drive
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci englo Plate on left front door pillar post.
+ci etype Own V8 Overhead valve
+ci rhp 59.08
+ci etype Downdraft 4-barrel
+ci trq 465@2600
+ci disp 429.59
+ci b&s 4 19/64 & 3 45/64
+ci bhp 320@4600
+ci comp 10.1
+ci block Special alloy iron
+ci vlift Hydraulic
+ci mbear 5
+ci color Exterior Colors
+co Arctic White
+co Black Satin
+co Burnished Bronze
+co Charcoal Frost
+co Desert Sand
+co Fiesta Red
+co Heather
+co Madison Gray
+co Neptune Blue
+co Nocturne Blue
+co Persian Gold
+co Platinum
+co Powder Blue
+co Royal Maroon
+co Spanish Moss
+co Teal
+co Turino Turquoise
+co Willow Gold
+ci rad Corrugated fin and tube
+ci exha Dual
+ci ign Distributor and coil
+ci batt 12
+ci cool 25 Quarts
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci equip Power Vent Windows
+ci equip Walnut Cabinet containing AM FM radio
+ci equip Mirror Outside Remote control
+ci equip Built-in Dictating Machine
+ci equip Beverage Compartment
+ci equip Verically adjustable steering column
+ci equip Automatic Speed Control
+ci equip Automatic Headlight Dimmer
+ci equip Power Antenna
+ci equip Power Door Locks
+ci equip Power Seat-6 Way
+ci equip Chauffeur Compartment Divider Window
+ci equip Power Windows
+ci equip Air Conditioner
+ci equip Individually Adjustable Contour Front Seats
+ci equip Telephone Compartment
+ci equip Rear Compartment a/c
+ci equip Divider between Front and Rear Compartments
+ci equip Safety Seat Belts rear
+ci equip Two Rear Facing Companion Seats in Rear Compartment
+ci equip Tinted Glass
+ci equip AM-FM Radio
+ci sgear Integral power
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On right side under hood on fender apron.
+ci tsize 9.15 x 15
+ci sloc Trunk

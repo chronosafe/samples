@@ -1,0 +1,2358 @@
+cls 6653, 884(\w)([\dX]{5})
+clv 26310, 1964, Pontiac, Bonneville, Convertible
+ci axle Semifloating
+ci make Pontiac
+ci origin United States
+ci msrp $3568.00
+ci year 1964
+ci series Bonneville
+ci prod 22016
+ci weight 3985
+ci model 2867
+ci maker Fisher
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci trans 2.75
+ci fuel 25
+ci oil 4
+ci rdiff 5.75
+ci tcase -NA-
+ci csize 10.4 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci ftred 63
+ci rtred 64
+ci length 220
+ci height 55.2
+ci width 79.2
+ci wbase 123
+ci trq 420@2800
+ci rhp 52.81
+ci mbear 5
+ci b&s 4 1/16 & 3 3/4
+ci disp 388.86
+ci bhp 306@4800
+ci cyl 8
+ci etype Synchronous meshing
+ci block Alloy cast iron
+ci englo On pad at front of right side of block.
+ci engno Prefix 23
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci ftype Premium
+ci exha Dual
+ci batt 12
+ci ign Distributor and coil
+ci cool 19.5 Quarts
+ci rad Tube and center
+ci cool Water pump
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Hydra-Matic automatic transmission
+ci equip 421 cu. in. V8 engine
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 1gear 2.49
+ci 3gear 1
+ci 5gear Not applicable
+ci rev 3.15
+ci 2gear 1.59
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 14
+ci sloc Trunk
+cls 6654, 884(\w)([\dX]{5})
+clv 26311, 1964, Pontiac, Bonneville, Safari - 2 seat
+ci axle Semifloating
+ci series Bonneville
+ci origin United States
+ci msrp $3623.00
+ci make Pontiac
+ci prod 5844
+ci year 1964
+ci pass 6
+ci maker Fisher
+ci weight 4275
+ci model 2835
+ci doors 4
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci rdiff 5.75
+ci tcase -NA-
+ci trans 2.75
+ci fuel 25
+ci oil 4
+ci csize 10.4 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci rtred 64
+ci width 79.2
+ci ftred 63
+ci wbase 123
+ci length 213.8
+ci height 56.7
+ci disp 388.86
+ci mbear 5
+ci rhp 52.81
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 23
+ci trq 420@2800
+ci etype Synchronous meshing
+ci comp 10.5
+ci block Alloy cast iron
+ci bhp 306@4800
+ci englo On pad at front of right side of block.
+ci etype V8 Valve-in-head
+ci etype Downdraft 4-barrel
+ci b&s 4 1/16 & 3 3/4
+ci vlift Hydraulic
+ci cyl 8
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci rad Tube and center
+ci exha Dual
+ci cool Water pump
+ci ign Distributor and coil
+ci batt 12
+ci ftype Premium
+ci cool 19.5 Quarts
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip 421 cu. in. V8 engine
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.49
+ci 3gear 1
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.59
+ci rev 3.15
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.50 x 14
+cls 6655, 884(\w)([\dX]{5})
+clv 26312, 1964, Pontiac, Bonneville, Sports Coupe
+ci axle Semifloating
+ci series Bonneville
+ci origin United States
+ci msrp $3347.00
+ci prod 34769
+ci year 1964
+ci make Pontiac
+ci maker Fisher
+ci model 2847
+ci weight 3920
+ci doors 2
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 25
+ci rdiff 5.75
+ci trans 2.75
+ci tcase -NA-
+ci oil 4
+ci ctype Single dry plate
+ci csize 10.4 inches
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 64
+ci width 79.2
+ci ftred 63
+ci height 55.2
+ci wbase 123
+ci length 220
+ci trq 420@2800
+ci rhp 52.81
+ci mbear 5
+ci b&s 4 1/16 & 3 3/4
+ci disp 388.86
+ci bhp 306@4800
+ci cyl 8
+ci etype Synchronous meshing
+ci block Alloy cast iron
+ci englo On pad at front of right side of block.
+ci engno Prefix 23
+ci etype V8 Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 10.5
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci ftype Premium
+ci exha Dual
+ci batt 12
+ci ign Distributor and coil
+ci cool 19.5 Quarts
+ci rad Tube and center
+ci cool Water pump
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Hydra-Matic automatic transmission
+ci equip 421 cu. in. V8 engine
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 1gear 2.49
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.59
+ci rev 3.15
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 14
+ci sloc Trunk
+cls 6656, 884(\w)([\dX]{5})
+clv 26313, 1964, Pontiac, Bonneville, Vista Sedan
+ci axle Semifloating
+ci msrp $3423.00
+ci origin United States
+ci prod 57630
+ci make Pontiac
+ci series Bonneville
+ci year 1964
+ci weight 3995
+ci doors 4
+ci maker Fisher
+ci model 2839
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 25
+ci rdiff 5.75
+ci oil 4
+ci trans 2.75
+ci tcase -NA-
+ci ctype Single dry plate
+ci csize 10.4 inches
+ci diffr 3.23
+ci diff Hypoid
+ci width 79.2
+ci wbase 123
+ci ftred 63
+ci rtred 64
+ci height 55.2
+ci length 220
+ci b&s 4 1/16 & 3 3/4
+ci mbear 5
+ci engno Prefix 23
+ci trq 420@2800
+ci rhp 52.81
+ci disp 388.86
+ci bhp 306@4800
+ci lube Pressure to all bearings excluding wrist pin
+ci block Alloy cast iron
+ci etype Synchronous meshing
+ci englo On pad at front of right side of block.
+ci comp 10.5
+ci etype Downdraft 4-barrel
+ci etype V8 Valve-in-head
+ci vlift Hydraulic
+ci cyl 8
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci rad Tube and center
+ci exha Dual
+ci cool Water pump
+ci ign Distributor and coil
+ci batt 12
+ci ftype Premium
+ci cool 19.5 Quarts
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip 421 cu. in. V8 engine
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 1gear 2.49
+ci 3gear 1
+ci drive Rear wheel drive
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.59
+ci rev 3.15
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.00 x 14
+cls 6657, 834(\w)([\dX]{5})
+clv 26314, 1964, Pontiac, Catalina, Convertible
+ci axle Semifloating
+ci series Catalina
+ci origin United States
+ci msrp $3170.00
+ci prod 18693
+ci year 1964
+ci make Pontiac
+ci weight 3825
+ci model 2367
+ci maker Fisher
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci trans 2.75
+ci tcase -NA-
+ci fuel 25
+ci oil 4
+ci rdiff 5.75
+ci ctype Single dry plate
+ci csize 10.4 inches
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 64
+ci width 79.2
+ci length 213
+ci ftred 63
+ci wbase 120
+ci height 55.2
+ci rhp 52.81
+ci b&s 4 1/16 & 3 3/4
+ci disp 388.86
+ci trq 386@2000
+ci cyl 8
+ci mbear 5
+ci comp 8.6
+ci block Alloy cast iron
+ci etype Synchronous meshing
+ci etype V8 Valve-in-head
+ci engno Prefix 01
+ci vlift Hydraulic
+ci englo On pad at front of right side of block.
+ci bhp 235@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci ftype Regular
+ci cool 19.5 Quarts
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip 421 cu. in. V8 engine
+ci equip Hydra-Matic automatic transmission
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.48
+ci rev 2.58
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.00 x 14
+cls 6658, 834(\w)([\dX]{5})
+clv 26315, 1964, Pontiac, Catalina, Safari - 2 seat
+ci axle Semifloating
+ci make Pontiac
+ci series Catalina
+ci origin United States
+ci year 1964
+ci msrp $3193.00
+ci prod 20356
+ci maker Fisher
+ci model 2335
+ci weight 4190
+ci doors 4
+ci pass 6
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 25
+ci oil 4
+ci tcase -NA-
+ci trans 2.75
+ci rdiff 5.75
+ci csize 10.4 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 213.8
+ci wbase 120
+ci width 79.2
+ci rtred 64
+ci ftred 63
+ci height 56.7
+ci cyl 8
+ci rhp 52.81
+ci disp 388.86
+ci mbear 5
+ci trq 386@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.6
+ci block Alloy cast iron
+ci vlift Hydraulic
+ci englo On pad at front of right side of block.
+ci etype V8 Valve-in-head
+ci etype Dual downdraft
+ci engno Prefix 01
+ci bhp 235@4000
+ci b&s 4 1/16 & 3 3/4
+ci etype Synchronous meshing
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci exha Single
+ci rad Tube and center
+ci cool 19.5 Quarts
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip 421 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci 1gear 2.58
+ci 2gear 1.48
+ci 5gear Not applicable
+ci 3gear 1
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.50 x 14
+cls 6659, 834(\w)([\dX]{5})
+clv 26316, 1964, Pontiac, Catalina, Safari - 3 seat
+ci axle Semifloating
+ci year 1964
+ci series Catalina
+ci origin United States
+ci make Pontiac
+ci msrp $3300.00
+ci prod 13140
+ci maker Fisher
+ci model 2345
+ci doors 4
+ci pass 9
+ci weight 4235
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci trans 2.75
+ci oil 4
+ci fuel 25
+ci tcase -NA-
+ci rdiff 5.75
+ci csize 10.4 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 213.8
+ci wbase 120
+ci width 79.2
+ci rtred 64
+ci ftred 63
+ci height 56.7
+ci comp 8.6
+ci disp 388.86
+ci mbear 5
+ci cyl 8
+ci etype V8 Valve-in-head
+ci rhp 52.81
+ci trq 386@2000
+ci block Alloy cast iron
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci engno Prefix 01
+ci englo On pad at front of right side of block.
+ci etype Dual downdraft
+ci bhp 235@4000
+ci b&s 4 1/16 & 3 3/4
+ci etype Synchronous meshing
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci cool Water pump
+ci exha Single
+ci batt 12
+ci rad Tube and center
+ci ftype Regular
+ci cool 19.5 Quarts
+ci ign Distributor and coil
+ci equip Power brakes
+ci equip Power steering
+ci equip Hydra-Matic automatic transmission
+ci equip Pushbutton Radio
+ci equip 421 cu. in. V8 engine
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 5gear Not applicable
+ci rev 2.58
+ci 2gear 1.48
+ci 3gear 1
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.50 x 14
+ci sloc Trunk
+cls 6660, 834(\w)([\dX]{5})
+clv 26317, 1964, Pontiac, Catalina, Sedan
+ci axle Semifloating
+ci make Pontiac
+ci msrp $2795.00
+ci origin United States
+ci year 1964
+ci prod 84457
+ci series Catalina
+ci doors 4
+ci maker Fisher
+ci model 2369
+ci weight 3770
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci fuel 25
+ci trans 2.75
+ci rdiff 5.75
+ci oil 4
+ci ctype Single dry plate
+ci csize 10.4 inches
+ci diffr 3.23
+ci diff Hypoid
+ci width 79.2
+ci rtred 64
+ci ftred 63
+ci wbase 120
+ci height 55.8
+ci length 213
+ci mbear 5
+ci b&s 4 1/16 & 3 3/4
+ci disp 388.86
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.6
+ci trq 386@2000
+ci block Alloy cast iron
+ci engno Prefix 01
+ci etype Synchronous meshing
+ci englo On pad at front of right side of block.
+ci vlift Hydraulic
+ci etype V8 Valve-in-head
+ci bhp 235@4000
+ci rhp 52.81
+ci etype Dual downdraft
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci ign Distributor and coil
+ci cool Water pump
+ci cool 19.5 Quarts
+ci rad Tube and center
+ci exha Single
+ci ftype Regular
+ci batt 12
+ci equip 421 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci 2gear 1.48
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 2.58
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 14
+ci sloc Trunk
+cls 6661, 834(\w)([\dX]{5})
+clv 26318, 1964, Pontiac, Catalina, Sedan
+ci axle Semifloating
+ci series Catalina
+ci origin United States
+ci msrp $2724.00
+ci prod 12480
+ci year 1964
+ci make Pontiac
+ci weight 3695
+ci maker Fisher
+ci model 2311
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci trans 2.75
+ci tcase -NA-
+ci fuel 25
+ci oil 4
+ci rdiff 5.75
+ci ctype Single dry plate
+ci csize 10.4 inches
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 64
+ci width 79.2
+ci length 213
+ci ftred 63
+ci wbase 120
+ci height 55.8
+ci rhp 52.81
+ci b&s 4 1/16 & 3 3/4
+ci disp 388.86
+ci trq 386@2000
+ci cyl 8
+ci mbear 5
+ci comp 8.6
+ci block Alloy cast iron
+ci etype Synchronous meshing
+ci etype V8 Valve-in-head
+ci engno Prefix 01
+ci vlift Hydraulic
+ci englo On pad at front of right side of block.
+ci bhp 235@4000
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci ftype Regular
+ci cool 19.5 Quarts
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci cool Water pump
+ci equip Power steering
+ci equip 421 cu. in. V8 engine
+ci equip Hydra-Matic automatic transmission
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.48
+ci rev 2.58
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.00 x 14
+cls 6662, 834(\w)([\dX]{5})
+clv 26319, 1964, Pontiac, Catalina, Sports Coupe
+ci axle Semifloating
+ci make Pontiac
+ci origin United States
+ci prod 74793
+ci year 1964
+ci series Catalina
+ci maker Fisher
+ci weight 3750
+ci model 2347
+ci doors 2
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci trans 2.75
+ci fuel 25
+ci tcase -NA-
+ci oil 4
+ci rdiff 5.75
+ci ctype Single dry plate
+ci csize 10.4 inches
+ci diff Hypoid
+ci diffr 3.23
+ci width 79.2
+ci wbase 120
+ci length 213
+ci rtred 64
+ci ftred 63
+ci height 54.7
+ci engno Prefix 01
+ci bhp 235@4000
+ci mbear 5
+ci etype Synchronous meshing
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 52.81
+ci block Alloy cast iron
+ci englo On pad at front of right side of block.
+ci etype V8 Valve-in-head
+ci disp 388.86
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci trq 386@2000
+ci b&s 4 1/16 & 3 3/4
+ci comp 8.6
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci cool 19.5 Quarts
+ci rad Tube and center
+ci batt 12
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip 421 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 2gear 1.48
+ci gears 3
+ci rev 2.58
+ci 3gear 1
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 14
+ci sloc Trunk
+cls 6663, 834(\w)([\dX]{5})
+clv 26320, 1964, Pontiac, Catalina, Vista Sedan
+ci axle Semifloating
+ci make Pontiac
+ci origin United States
+ci prod 33849
+ci msrp $2935.00
+ci year 1964
+ci series Catalina
+ci doors 4
+ci maker Fisher
+ci weight 3835
+ci model 2339
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci oil 4
+ci rdiff 5.75
+ci trans 2.75
+ci tcase -NA-
+ci fuel 25
+ci ctype Single dry plate
+ci csize 10.4 inches
+ci diffr 3.23
+ci diff Hypoid
+ci height 55.2
+ci wbase 120
+ci length 213
+ci width 79.2
+ci rtred 64
+ci ftred 63
+ci cyl 8
+ci rhp 52.81
+ci bhp 235@4000
+ci mbear 5
+ci disp 388.86
+ci engno Prefix 01
+ci vlift Hydraulic
+ci block Alloy cast iron
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 386@2000
+ci englo On pad at front of right side of block.
+ci etype Dual downdraft
+ci etype Synchronous meshing
+ci etype V8 Valve-in-head
+ci b&s 4 1/16 & 3 3/4
+ci comp 8.6
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci batt 12
+ci cool Water pump
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 19.5 Quarts
+ci ftype Regular
+ci exha Single
+ci equip Power steering
+ci equip Power brakes
+ci equip 421 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Hydra-Matic automatic transmission
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 5gear Not applicable
+ci gears 3
+ci 3gear 1
+ci rev 2.58
+ci 2gear 1.48
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 8.00 x 14
+cls 6664, 614(\w)([\dX]{5})
+clv 26321, 1964, Pontiac, Custom Tempest, Convertible
+ci axle Semifloating
+ci msrp $2630.00
+ci make Pontiac
+ci origin United States
+ci year 1964
+ci series Custom Tempest
+ci prod 7987
+ci model 2167
+ci doors 2
+ci maker Fisher
+ci weight 2990
+ci svc 4 wheel hydraulic drum
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci oil 4
+ci tcase -NA-
+ci rdiff 4.5
+ci trans 3
+ci fuel 21.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.1 inches
+ci diff Hypoid
+ci diffr 3.08
+ci width 73.3
+ci length 203
+ci rtred 58
+ci wbase 115
+ci height 54
+ci engno Prefix 80
+ci cyl 6
+ci comp 8.6
+ci rhp 33.7
+ci etype Single downdraft
+ci b&s 3 3/4 & 3 1/4
+ci disp 215
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci trq 206@2000
+ci etype Inline 6 valve-in-head
+ci etype Synchronous in 2nd & 3rd
+ci bhp 140@4200
+ci vlift Hydraulic
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci cool 11.25 Quarts
+ci batt 12
+ci ftype Regular
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci cool Water pump
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip 326 cu. in. V8 engine
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.94
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 6665, 614(\w)([\dX]{5})
+clv 26322, 1964, Pontiac, Custom Tempest, Safari
+ci axle Semifloating
+ci msrp $2680.00
+ci prod 10696
+ci origin United States
+ci make Pontiac
+ci series Custom Tempest
+ci year 1964
+ci weight 3260
+ci doors 4
+ci maker Fisher
+ci model 2135
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc 4 wheel hydraulic drum
+ci fuel 21.5
+ci oil 4
+ci rdiff 4.5
+ci trans 3
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.1 inches
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 115
+ci length 203
+ci height 55.2
+ci rtred 58
+ci width 73.3
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci comp 8.6
+ci bhp 140@4200
+ci etype Single downdraft
+ci engno Prefix 80
+ci trq 206@2000
+ci disp 215
+ci englo On pad at front of right side of block.
+ci etype Synchronous in 2nd & 3rd
+ci vlift Hydraulic
+ci etype Inline 6 valve-in-head
+ci rhp 33.7
+ci b&s 3 3/4 & 3 1/4
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci cool 11.25 Quarts
+ci cool Water pump
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip 326 cu. in. V8 engine
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 3gear 1
+ci rev 2.94
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.00 x 14
+ci sloc Trunk
+cls 6666, 614(\w)([\dX]{5})
+clv 26323, 1964, Pontiac, Custom Tempest, Sedan
+ci axle Semifloating
+ci make Pontiac
+ci msrp $2388.00
+ci origin United States
+ci series Custom Tempest
+ci year 1964
+ci prod 29948
+ci weight 3075
+ci maker Fisher
+ci model 2169
+ci doors 4
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 21.5
+ci oil 4
+ci rdiff 4.5
+ci trans 3
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.1 inches
+ci diff Hypoid
+ci diffr 3.08
+ci wbase 115
+ci length 203
+ci height 54
+ci rtred 58
+ci width 73.3
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci comp 8.6
+ci bhp 140@4200
+ci etype Single downdraft
+ci engno Prefix 80
+ci trq 206@2000
+ci disp 215
+ci englo On pad at front of right side of block.
+ci etype Synchronous in 2nd & 3rd
+ci vlift Hydraulic
+ci etype Inline 6 valve-in-head
+ci rhp 33.7
+ci b&s 3 3/4 & 3 1/4
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci cool 11.25 Quarts
+ci cool Water pump
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip 326 cu. in. V8 engine
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 3gear 1
+ci rev 2.94
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 6.50 x 14
+ci sloc Trunk
+cls 6667, 614(\w)([\dX]{5})
+clv 26324, 1964, Pontiac, Custom Tempest, Sports Coupe
+ci axle Semifloating
+ci series Custom Tempest
+ci msrp $2334.00
+ci prod 25833
+ci make Pontiac
+ci origin United States
+ci year 1964
+ci maker Fisher
+ci doors 2
+ci model 2127
+ci weight 2955
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci tcase -NA-
+ci fuel 21.5
+ci oil 4
+ci trans 3
+ci rdiff 4.5
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.1 inches
+ci diff Hypoid
+ci diffr 3.08
+ci height 53.5
+ci wbase 115
+ci length 203
+ci rtred 58
+ci width 73.3
+ci disp 215
+ci cyl 6
+ci comp 8.6
+ci rhp 33.7
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Synchronous in 2nd & 3rd
+ci bhp 140@4200
+ci engno Prefix 80
+ci b&s 3 3/4 & 3 1/4
+ci englo On pad at front of right side of block.
+ci vlift Hydraulic
+ci etype Inline 6 valve-in-head
+ci etype Single downdraft
+ci trq 206@2000
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci cool 11.25 Quarts
+ci batt 12
+ci ftype Regular
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Water pump
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip 326 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci gears 3
+ci rev 2.94
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 6668, 894(\w)([\dX]{5})
+clv 26325, 1964, Pontiac, Grand Prix, Sports Coupe
+ci axle Semifloating
+ci msrp $3488.00
+ci origin United States
+ci make Pontiac
+ci series Grand Prix
+ci prod 63810
+ci year 1964
+ci maker Fisher
+ci weight 3930
+ci model 2957
+ci doors 2
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci fuel 25
+ci rdiff 5.75
+ci oil 4
+ci trans 2.75
+ci tcase -NA-
+ci csize 10.4 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci rtred 64
+ci width 79.2
+ci wbase 120
+ci ftred 63
+ci height 54.7
+ci length 213
+ci engno Prefix 23
+ci mbear 5
+ci etype Synchronous meshing
+ci rhp 52.81
+ci trq 420@2800
+ci disp 388.86
+ci cyl 8
+ci comp 10.5
+ci block Alloy cast iron
+ci bhp 306@4800
+ci etype V8 Valve-in-head
+ci etype Downdraft 4-barrel
+ci b&s 4 1/16 & 3 3/4
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci ftype Premium
+ci exha Dual
+ci batt 12
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool 19.5 Quarts
+ci cool Water pump
+ci equip Pushbutton Radio
+ci equip Power brakes
+ci equip Power steering
+ci equip Hydra-Matic automatic transmission
+ci equip 421 cu. in. V8 engine
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 1gear 2.49
+ci 3gear 1
+ci 5gear Not applicable
+ci gears 3
+ci 2gear 1.59
+ci rev 3.15
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 14
+ci sloc Trunk
+cls 6669, 824(\w)([\dX]{5})
+clv 26326, 1964, Pontiac, LeMans GTO, Convertible
+ci axle Semifloating
+ci prod 6644
+ci msrp $3081.00
+ci origin United States
+ci make Pontiac
+ci series LeMans GTO
+ci year 1964
+ci maker Fisher
+ci model 2267
+ci doors 2
+ci weight 3360
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci trans 3
+ci oil 4
+ci tcase -NA-
+ci rdiff 4.5
+ci fuel 21.5
+ci carb Rochester
+ci csize 10.4 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci height 53.6
+ci length 203
+ci wbase 115
+ci rtred 58
+ci width 73.3
+ci rhp 52.81
+ci mbear 5
+ci trq 428@3200
+ci englo On pad at front of right side of block.
+ci b&s 4 1/16 & 3 3/4
+ci cyl 8
+ci etype V8 Valve-in-head
+ci block Alloy cast iron
+ci disp 388.86
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci bhp 325@4800
+ci comp 10.75
+ci etype Fully synchronous, 3-speed manual w/ Hurst floor-shifter
+ci engno Prefix 78
+ci color Exterior Colors
+co Aquamarine Metallic
+co Gulfstream Aqua Metallic
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Singapore Gold Metallic
+co Starlight Black
+co Yorktown Blue Metallic
+ci batt 12
+ci cool 11.25 Quarts
+ci ign Distributor and coil
+ci ftype Premium
+ci rad Tube and center
+ci exha Dual
+ci cool Water pump
+ci equip Power brakes
+ci equip Power steering
+ci equip 3-Speed Automatic Transmission
+ci equip Twin hood scoops - non-functional
+ci equip 4-Speed manual transmission
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 2gear 1.48
+ci 5gear Not applicable
+ci rev 2.58
+ci 3gear 1
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.50 x 14
+cls 6670, 824(\w)([\dX]{5})
+clv 26327, 1964, Pontiac, LeMans GTO, Coupe
+ci axle Semifloating
+ci prod 7384
+ci msrp $2852.00
+ci origin United States
+ci make Pontiac
+ci series LeMans GTO
+ci year 1964
+ci maker Fisher
+ci model 2227
+ci doors 2
+ci weight 3106
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci rdiff 4.5
+ci trans 3
+ci tcase -NA-
+ci oil 4
+ci fuel 21.5
+ci carb Rochester
+ci csize 10.4 inches
+ci ctype Single dry plate
+ci diffr 3.23
+ci diff Hypoid
+ci wbase 115
+ci length 203
+ci width 73.3
+ci rtred 58
+ci height 53.5
+ci cyl 8
+ci mbear 5
+ci b&s 4 1/16 & 3 3/4
+ci trq 428@3200
+ci englo On pad at front of right side of block.
+ci rhp 52.81
+ci etype V8 Valve-in-head
+ci block Alloy cast iron
+ci disp 388.86
+ci vlift Hydraulic
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 325@4800
+ci comp 10.75
+ci etype Fully synchronous, 3-speed manual w/ Hurst floor-shifter
+ci engno Prefix 78
+ci color Exterior Colors
+co Aquamarine Metallic
+co Gulfstream Aqua Metallic
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Singapore Gold Metallic
+co Starlight Black
+co Yorktown Blue Metallic
+ci batt 12
+ci cool 11.25 Quarts
+ci exha Dual
+ci ftype Premium
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool Water pump
+ci equip Power brakes
+ci equip Power steering
+ci equip 3-Speed Automatic Transmission
+ci equip Twin hood scoops - non-functional
+ci equip 4-Speed manual transmission
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 2.58
+ci 2gear 1.48
+ci gears 3
+ci 3gear 1
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.50 x 14
+cls 6671, 824(\w)([\dX]{5})
+clv 26328, 1964, Pontiac, LeMans GTO, Sports Coupe
+ci axle Semifloating
+ci year 1964
+ci msrp $2963.00
+ci origin United States
+ci make Pontiac
+ci series LeMans GTO
+ci prod 18422
+ci maker Fisher
+ci model 2237
+ci weight 3126
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci fuel 21.5
+ci rdiff 4.5
+ci trans 3
+ci oil 4
+ci tcase -NA-
+ci carb Rochester
+ci csize 10.4 inches
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.23
+ci length 203
+ci width 73.3
+ci height 53.5
+ci rtred 58
+ci wbase 115
+ci rhp 52.81
+ci mbear 5
+ci trq 428@3200
+ci etype V8 Valve-in-head
+ci englo On pad at front of right side of block.
+ci cyl 8
+ci comp 10.75
+ci block Alloy cast iron
+ci bhp 325@4800
+ci disp 388.86
+ci etype Downdraft 4-barrel
+ci vlift Hydraulic
+ci b&s 4 1/16 & 3 3/4
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronous, 3-speed manual w/ Hurst floor-shifter
+ci engno Prefix 78
+ci color Exterior Colors
+co Aquamarine Metallic
+co Gulfstream Aqua Metallic
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Singapore Gold Metallic
+co Starlight Black
+co Yorktown Blue Metallic
+ci ign Distributor and coil
+ci cool 11.25 Quarts
+ci ftype Premium
+ci batt 12
+ci rad Tube and center
+ci exha Dual
+ci cool Water pump
+ci equip Power brakes
+ci equip Power steering
+ci equip Twin hood scoops - non-functional
+ci equip 4-Speed manual transmission
+ci equip 3-Speed Automatic Transmission
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 2.58
+ci drive Rear wheel drive
+ci gears 3
+ci 3gear 1
+ci 2gear 1.48
+ci 5gear Not applicable
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 7.50 x 14
+ci sloc Trunk
+cls 6672, 624(\w)([\dX]{5})
+clv 26329, 1964, Pontiac, LeMans, Convertible
+ci axle Semifloating
+ci prod 17559
+ci make Pontiac
+ci origin United States
+ci msrp $2785.00
+ci year 1964
+ci series LeMans
+ci weight 3125
+ci maker Fisher
+ci doors 2
+ci model 2267
+ci bsize 9.5
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci fuel 21.5
+ci tcase -NA-
+ci trans 3
+ci rdiff 4.5
+ci oil 4
+ci carb Rochester
+ci csize 9.1 inches
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci width 73.3
+ci length 203
+ci wbase 115
+ci height 53.6
+ci rtred 58
+ci etype Inline 6 valve-in-head
+ci cyl 6
+ci trq 206@2000
+ci comp 8.6
+ci disp 215
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Synchronous in 2nd & 3rd
+ci englo On pad at front of right side of block.
+ci rhp 33.7
+ci etype Single downdraft
+ci vlift Hydraulic
+ci b&s 3 3/4 & 3 1/4
+ci bhp 140@4200
+ci engno Prefix 80
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Water pump
+ci cool 11.25 Quarts
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci equip Power brakes
+ci equip 389 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip 326 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 2.94
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 6673, 624(\w)([\dX]{5})
+clv 26330, 1964, Pontiac, LeMans, Coupe
+ci axle Semifloating
+ci year 1964
+ci make Pontiac
+ci origin United States
+ci prod 31317
+ci msrp $2480.00
+ci series LeMans
+ci model 2237
+ci doors 2
+ci maker Fisher
+ci weight 2975
+ci svc 4 wheel hydraulic drum
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci fuel 21.5
+ci rdiff 4.5
+ci tcase -NA-
+ci trans 3
+ci oil 4
+ci carb Rochester
+ci csize 9.1 inches
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci width 73.3
+ci wbase 115
+ci length 203
+ci height 53.5
+ci rtred 58
+ci etype Inline 6 valve-in-head
+ci cyl 6
+ci disp 215
+ci comp 8.6
+ci b&s 3 3/4 & 3 1/4
+ci trq 206@2000
+ci etype Synchronous in 2nd & 3rd
+ci englo On pad at front of right side of block.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci vlift Hydraulic
+ci rhp 33.7
+ci bhp 140@4200
+ci engno Prefix 80
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Water pump
+ci cool 11.25 Quarts
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci equip Power brakes
+ci equip 389 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip 326 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 2.94
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 6674, 624(\w)([\dX]{5})
+clv 26331, 1964, Pontiac, LeMans, Sports Coupe
+ci axle Semifloating
+ci year 1964
+ci make Pontiac
+ci origin United States
+ci prod 31310
+ci msrp $2545.00
+ci series LeMans
+ci model 2227
+ci doors 2
+ci maker Fisher
+ci weight 2995
+ci svc 4 wheel hydraulic drum
+ci bsize 9.5
+ci ebrake Rear service brakes
+ci fuel 21.5
+ci rdiff 4.5
+ci tcase -NA-
+ci trans 3
+ci oil 4
+ci carb Rochester
+ci csize 9.1 inches
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci width 73.3
+ci wbase 115
+ci length 203
+ci height 53.5
+ci rtred 58
+ci etype Inline 6 valve-in-head
+ci cyl 6
+ci disp 215
+ci comp 8.6
+ci b&s 3 3/4 & 3 1/4
+ci trq 206@2000
+ci etype Synchronous in 2nd & 3rd
+ci englo On pad at front of right side of block.
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci vlift Hydraulic
+ci rhp 33.7
+ci bhp 140@4200
+ci engno Prefix 80
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci ign Distributor and coil
+ci rad Tube and center
+ci cool Water pump
+ci cool 11.25 Quarts
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci equip Power brakes
+ci equip 389 cu. in. V8 engine
+ci equip Pushbutton Radio
+ci equip Power steering
+ci equip 326 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 2.94
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 6.50 x 14
+cls 6675, 864(\w)([\dX]{5})
+clv 26332, 1964, Pontiac, Star Chief, Sedan
+ci axle Semifloating
+ci msrp $3096.00
+ci origin United States
+ci make Pontiac
+ci year 1964
+ci prod 26453
+ci series Star Chief
+ci doors 4
+ci maker Fisher
+ci weight 3885
+ci model 2669
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci rdiff 5.75
+ci fuel 25
+ci trans 2.75
+ci oil 4
+ci tcase -NA-
+ci ctype Single dry plate
+ci csize 10.4 inches
+ci diff Hypoid
+ci diffr 3.23
+ci length 220
+ci wbase 123
+ci rtred 64
+ci width 79.2
+ci ftred 63
+ci height 55.8
+ci disp 388.86
+ci englo On pad at front of right side of block.
+ci mbear 5
+ci vlift Hydraulic
+ci etype Synchronous meshing
+ci cyl 8
+ci bhp 235@4000
+ci comp 8.6
+ci block Alloy cast iron
+ci engno Prefix 01
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci b&s 4 1/16 & 3 3/4
+ci trq 386@2000
+ci etype V8 Valve-in-head
+ci rhp 52.81
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci exha Single
+ci ign Distributor and coil
+ci ftype Regular
+ci batt 12
+ci rad Tube and center
+ci cool 19.5 Quarts
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip 421 cu. in. V8 engine
+ci equip Hydra-Matic automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.59
+ci gears 3
+ci 1gear 2.49
+ci rev 3.15
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 14
+ci sloc Trunk
+cls 6676, 864(\w)([\dX]{5})
+clv 26333, 1964, Pontiac, Star Chief, Vista Sedan
+ci axle Semifloating
+ci msrp $3228.00
+ci origin United States
+ci make Pontiac
+ci year 1964
+ci prod 11200
+ci series Star Chief
+ci weight 3945
+ci model 2639
+ci maker Fisher
+ci doors 4
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 25
+ci rdiff 5.75
+ci trans 2.75
+ci oil 4
+ci tcase -NA-
+ci ctype Single dry plate
+ci csize 10.4 inches
+ci diff Hypoid
+ci diffr 3.23
+ci ftred 63
+ci rtred 64
+ci width 79.2
+ci length 220
+ci height 55.2
+ci wbase 123
+ci rhp 52.81
+ci mbear 5
+ci b&s 4 1/16 & 3 3/4
+ci disp 388.86
+ci trq 386@2000
+ci cyl 8
+ci engno Prefix 01
+ci comp 8.6
+ci block Alloy cast iron
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On pad at front of right side of block.
+ci etype Dual downdraft
+ci vlift Hydraulic
+ci etype Synchronous meshing
+ci bhp 235@4000
+ci etype V8 Valve-in-head
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci cool 19.5 Quarts
+ci batt 12
+ci ftype Regular
+ci ign Distributor and coil
+ci exha Single
+ci rad Tube and center
+ci cool Water pump
+ci equip Power steering
+ci equip Power brakes
+ci equip 421 cu. in. V8 engine
+ci equip Hydra-Matic automatic transmission
+ci equip Pushbutton Radio
+ci sgear Recirculating ball
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.59
+ci gears 3
+ci 1gear 2.49
+ci rev 3.15
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 8.00 x 14
+ci sloc Trunk
+cls 6677, 604(\w)([\dX]{5})
+clv 26334, 1964, Pontiac, Tempest, Safari
+ci axle Semifloating
+ci prod 6834
+ci series Tempest
+ci origin United States
+ci msrp $2594.00
+ci make Pontiac
+ci year 1964
+ci weight 3245
+ci maker Fisher
+ci model 2035
+ci doors 4
+ci bsize 9.5
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci fuel 21.5
+ci trans 3
+ci rdiff 4.5
+ci oil 4
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.1 inches
+ci diff Hypoid
+ci diffr 3.08
+ci length 203
+ci wbase 115
+ci height 55.2
+ci rtred 58
+ci width 73.3
+ci etype Synchronous in 2nd & 3rd
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci comp 8.6
+ci b&s 3 3/4 & 3 1/4
+ci bhp 140@4200
+ci engno Prefix 80
+ci rhp 33.7
+ci etype Inline 6 valve-in-head
+ci disp 215
+ci englo On pad at front of right side of block.
+ci trq 206@2000
+ci etype Single downdraft
+ci vlift Hydraulic
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci cool Water pump
+ci exha Single
+ci ftype Regular
+ci ign Distributor and coil
+ci batt 12
+ci rad Tube and center
+ci cool 11.25 Quarts
+ci equip Power steering
+ci equip Pushbutton Radio
+ci equip 326 cu. in. V8 engine
+ci equip Power brakes
+ci equip 389 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci 5gear Not applicable
+ci rev 2.94
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci gears 3
+ci vloc On plate on left front door body hinge pillar post.
+ci sloc Trunk
+ci tsize 7.00 x 14
+cls 6678, 604(\w)([\dX]{5})
+clv 26335, 1964, Pontiac, Tempest, Sedan
+ci axle Semifloating
+ci msrp $2302.00
+ci series Tempest
+ci year 1964
+ci make Pontiac
+ci origin United States
+ci prod 19427
+ci doors 4
+ci maker Fisher
+ci model 2069
+ci weight 2970
+ci ebrake Rear service brakes
+ci bsize 9.5
+ci svc 4 wheel hydraulic drum
+ci fuel 21.5
+ci oil 4
+ci rdiff 4.5
+ci trans 3
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single dry plate
+ci csize 9.1 inches
+ci diff Hypoid
+ci diffr 3.08
+ci length 203
+ci wbase 115
+ci width 73.3
+ci height 54
+ci rtred 58
+ci etype Inline 6 valve-in-head
+ci cyl 6
+ci bhp 140@4200
+ci comp 8.6
+ci etype Single downdraft
+ci trq 206@2000
+ci engno Prefix 80
+ci disp 215
+ci englo On pad at front of right side of block.
+ci etype Synchronous in 2nd & 3rd
+ci vlift Hydraulic
+ci b&s 3 3/4 & 3 1/4
+ci rhp 33.7
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci cool 11.25 Quarts
+ci cool Water pump
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip 389 cu. in. V8 engine
+ci equip 326 cu. in. V8 engine
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 2.94
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 6.50 x 14
+ci sloc Trunk
+cls 6679, 604(\w)([\dX]{5})
+clv 26336, 1964, Pontiac, Tempest, Sports Coupe
+ci axle Semifloating
+ci origin United States
+ci series Tempest
+ci prod 21765
+ci make Pontiac
+ci year 1964
+ci msrp $2248.00
+ci maker Fisher
+ci doors 2
+ci weight 2930
+ci model 2027
+ci bsize 9.5
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci trans 3
+ci fuel 21.5
+ci oil 4
+ci rdiff 4.5
+ci tcase -NA-
+ci carb Rochester
+ci csize 9.1 inches
+ci ctype Single dry plate
+ci diffr 3.08
+ci diff Hypoid
+ci length 203
+ci wbase 115
+ci width 73.3
+ci height 53.5
+ci rtred 58
+ci etype Inline 6 valve-in-head
+ci cyl 6
+ci bhp 140@4200
+ci comp 8.6
+ci etype Single downdraft
+ci trq 206@2000
+ci engno Prefix 80
+ci rhp 33.7
+ci englo On pad at front of right side of block.
+ci etype Synchronous in 2nd & 3rd
+ci vlift Hydraulic
+ci disp 215
+ci b&s 3 3/4 & 3 1/4
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co Alamo Beige
+co All colors may not be available in all models.
+co Aquamarine Metallic
+co Cameo Ivory
+co Grenadier Red
+co Gulfstream Aqua Metallic
+co Marimba Red Metallicalllic #2
+co Nocturne Blue Metallic
+co Pinehurst Green Metallic
+co Saddle Bronze Metallic
+co Silvermist Gray Metallic
+co Singapore Gold Metallic
+co Skyline Blue
+co Starlight Black
+co Sunfire Red Metallic
+co Two Tone Colors Available
+co Yorktown Blue Metallic
+ci cool 11.25 Quarts
+ci cool Water pump
+ci rad Tube and center
+ci ign Distributor and coil
+ci exha Single
+ci batt 12
+ci ftype Regular
+ci equip Power brakes
+ci equip Pushbutton Radio
+ci equip 389 cu. in. V8 engine
+ci equip 326 cu. in. V8 engine
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci rev 2.94
+ci 3gear 1
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.68
+ci drive Rear wheel drive
+ci vloc On plate on left front door body hinge pillar post.
+ci tsize 6.50 x 14
+ci sloc Trunk

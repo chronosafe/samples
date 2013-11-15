@@ -1,0 +1,779 @@
+cls 966, 6C47(\w)4(\w)([\dX]{6})
+clv 4064, 1974, Cadillac, Calais, Coupe
+ci axle Semifloating
+ci make Cadillac
+ci msrp $7156.00
+ci prod 4559
+ci series Calais
+ci year 1974
+ci origin United States
+ci maker Fisher
+ci model 6C47
+ci doors 2
+ci weight 4900
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci bsize 12
+ci trans 12.2 Quarts
+ci tcase -NA-
+ci oil 5
+ci fuel 27
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci rtred 63.3
+ci wbase 130
+ci width 79.8
+ci height 53.9
+ci length 230.7
+ci b&s 4.3 & 4.06
+ci trq 365@2000
+ci etype Turbo Hydra-matic
+ci englo On block behind intake manifold.
+ci comp 8.25
+ci bhp 205@3600
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci engno Prefix 6 + last 8 digits of VIN
+ci vlift Hydraulic
+ci disp 472
+ci rhp 59.2
+ci etype V8 Overhead valve
+ci mbear 5
+ci block Cast Iron
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Andes Copper Metallic
+co Antigua Blue Metallic
+co Apollo Yellow
+co Canyon Amber Metallic
+co Chesterfield Brown Metallic
+co Conestoga Tan
+co Cotillion White
+co Cranberry Firemist Metallic
+co Deauville Gray Metallic
+co Diplomat Blue Metallic
+co Dynasty Red
+co Georgian Silver Metallic
+co Jasper Green
+co Persian Lime Firemist Metallic
+co Pharaoh Gold Firemist Metallic
+co Pinehurst Green Metallic
+co Promenade Gold Metallic
+co Regal Blue Firemist Metallic
+co Sable Black
+co Terra Cotta Firemist Metallic
+co Two Tone Colors Available
+co Victoria Amber Firemist Metallic
+ci cool 21.3 Quarts
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15B
+ci sloc Trunk
+cls 967, 6C49(\w)4(\w)([\dX]{6})
+clv 4065, 1974, Cadillac, Calais, Sedan
+ci axle Semifloating
+ci series Calais
+ci make Cadillac
+ci msrp $7330.00
+ci origin United States
+ci year 1974
+ci prod 2324
+ci doors 4
+ci maker Fisher
+ci weight 4979
+ci model 6C49
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci bsize 12
+ci trans 12.2 Quarts
+ci tcase -NA-
+ci fuel 27
+ci oil 5
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci rtred 63.3
+ci wbase 130
+ci width 79.8
+ci height 54.4
+ci length 230.7
+ci englo On block behind intake manifold.
+ci trq 365@2000
+ci etype Turbo Hydra-matic
+ci block Cast Iron
+ci comp 8.25
+ci bhp 205@3600
+ci etype Downdraft 4-barrel
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 8
+ci engno Prefix 6 + last 8 digits of VIN
+ci vlift Hydraulic
+ci disp 472
+ci rhp 59.2
+ci etype V8 Overhead valve
+ci mbear 5
+ci b&s 4.3 & 4.06
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Andes Copper Metallic
+co Antigua Blue Metallic
+co Apollo Yellow
+co Canyon Amber Metallic
+co Chesterfield Brown Metallic
+co Conestoga Tan
+co Cotillion White
+co Cranberry Firemist Metallic
+co Deauville Gray Metallic
+co Diplomat Blue Metallic
+co Dynasty Red
+co Georgian Silver Metallic
+co Jasper Green
+co Persian Lime Firemist Metallic
+co Pharaoh Gold Firemist Metallic
+co Pinehurst Green Metallic
+co Promenade Gold Metallic
+co Regal Blue Firemist Metallic
+co Sable Black
+co Terra Cotta Firemist Metallic
+co Two Tone Colors Available
+co Victoria Amber Firemist Metallic
+ci cool 21.3 Quarts
+ci cool Centrifugal water  pump
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci rad Tube and center
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci equip Air conditioning
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15B
+ci sloc Trunk
+cls 968, 6D47(\w)4(\w)([\dX]{6})
+clv 4066, 1974, Cadillac, De Ville, Coupe de Ville
+ci axle Semifloating
+ci origin United States
+ci msrp $7652.00
+ci series De Ville
+ci make Cadillac
+ci prod 112201
+ci year 1974
+ci doors 2
+ci model 6D47
+ci weight 4924
+ci maker Fisher
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci rdiff 5
+ci tcase -NA-
+ci trans 12.2 Quarts
+ci fuel 27
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci length 230.7
+ci width 79.8
+ci height 53.9
+ci wbase 130
+ci rtred 63.3
+ci engno Prefix 6 + last 8 digits of VIN
+ci etype V8 Overhead valve
+ci block Cast Iron
+ci comp 8.25
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 365@2000
+ci etype Downdraft 4-barrel
+ci englo On block behind intake manifold.
+ci bhp 205@3600
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci rhp 59.2
+ci cyl 8
+ci b&s 4.3 & 4.06
+ci disp 472
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Andes Copper Metallic
+co Antigua Blue Metallic
+co Apollo Yellow
+co Canyon Amber Metallic
+co Chesterfield Brown Metallic
+co Conestoga Tan
+co Cotillion White
+co Cranberry Firemist Metallic
+co Deauville Gray Metallic
+co Diplomat Blue Metallic
+co Dynasty Red
+co Georgian Silver Metallic
+co Jasper Green
+co Persian Lime Firemist Metallic
+co Pharaoh Gold Firemist Metallic
+co Pinehurst Green Metallic
+co Promenade Gold Metallic
+co Regal Blue Firemist Metallic
+co Sable Black
+co Terra Cotta Firemist Metallic
+co Two Tone Colors Available
+co Victoria Amber Firemist Metallic
+ci ign Distributor and coil
+ci batt 12
+ci rad Tube and center
+ci cool 21.3 Quarts
+ci exha Single
+ci cool Centrifugal water  pump
+ci equip Air conditioning
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15B
+ci sloc Trunk
+cls 969, 6D49(\w)4(\w)([\dX]{6})
+clv 4067, 1974, Cadillac, De Ville, Sedan de Ville
+ci axle Semifloating
+ci prod 60419
+ci make Cadillac
+ci msrp $7885.00
+ci series De Ville
+ci year 1974
+ci origin United States
+ci maker Fisher
+ci model 6D49
+ci doors 4
+ci weight 5032
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci fuel 27
+ci tcase -NA-
+ci trans 12.2 Quarts
+ci rdiff 5
+ci oil 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.93
+ci rtred 63.3
+ci height 54.4
+ci wbase 130
+ci length 230.7
+ci width 79.8
+ci trq 365@2000
+ci etype V8 Overhead valve
+ci block Cast Iron
+ci comp 8.25
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 6 + last 8 digits of VIN
+ci etype Downdraft 4-barrel
+ci cyl 8
+ci bhp 205@3600
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci englo On block behind intake manifold.
+ci rhp 59.2
+ci disp 472
+ci mbear 5
+ci b&s 4.3 & 4.06
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Andes Copper Metallic
+co Antigua Blue Metallic
+co Apollo Yellow
+co Canyon Amber Metallic
+co Chesterfield Brown Metallic
+co Conestoga Tan
+co Cotillion White
+co Cranberry Firemist Metallic
+co Deauville Gray Metallic
+co Diplomat Blue Metallic
+co Dynasty Red
+co Georgian Silver Metallic
+co Jasper Green
+co Persian Lime Firemist Metallic
+co Pharaoh Gold Firemist Metallic
+co Pinehurst Green Metallic
+co Promenade Gold Metallic
+co Regal Blue Firemist Metallic
+co Sable Black
+co Terra Cotta Firemist Metallic
+co Two Tone Colors Available
+co Victoria Amber Firemist Metallic
+ci ign Distributor and coil
+ci batt 12
+ci rad Tube and center
+ci cool 21.3 Quarts
+ci exha Single
+ci cool Centrifugal water  pump
+ci equip Air conditioning
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15B
+ci sloc Trunk
+cls 970, 6L67(\w)4(\w)([\dX]{6})
+clv 4068, 1974, Cadillac, Eldorado, Convertible
+ci msrp $9212.00
+ci prod 7600
+ci make Cadillac
+ci origin United States
+ci series Eldorado
+ci year 1974
+ci doors 2
+ci maker Fleetwood
+ci model 6L67
+ci weight 5019
+ci bsize 12
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci oil 6
+ci rdiff Not applicable
+ci tcase -NA-
+ci fdiff 5
+ci fuel 27
+ci trans 13 Quarts
+ci carb Rochester
+ci diffr 3.07
+ci ftred 63.66
+ci rtred 63.59
+ci length 224.1
+ci height 54.5
+ci wbase 126.3
+ci width 79.8
+ci comp 8.25
+ci cyl 8
+ci etype Turbo Hydra-matic
+ci trq 380@2000
+ci block Cast Iron
+ci bhp 210@3600
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci rhp 59.17
+ci engno Prefix 6 + last 8 digits of VIN
+ci disp 500
+ci etype V8 Overhead valve
+ci englo On block behind intake manifold.
+ci vlift Hydraulic
+ci b&s 4.3 & 4.3
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Andes Copper Metallic
+co Antigua Blue Metallic
+co Apollo Yellow
+co Canyon Amber Metallic
+co Chesterfield Brown Metallic
+co Conestoga Tan
+co Cotillion White
+co Cranberry Firemist Metallic
+co Deauville Gray Metallic
+co Diplomat Blue Metallic
+co Dynasty Red
+co Georgian Silver Metallic
+co Jasper Green
+co Persian Lime Firemist Metallic
+co Pharaoh Gold Firemist Metallic
+co Pinehurst Green Metallic
+co Promenade Gold Metallic
+co Regal Blue Firemist Metallic
+co Sable Black
+co Terra Cotta Firemist Metallic
+co Two Tone Colors Available
+co Victoria Amber Firemist Metallic
+ci rad Tube and center
+ci cool 21.3 Quarts
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci equip Radio
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Torsion bar
+ci rsus Helical coil
+ci drive Front wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15B
+cls 971, 6L47(\w)4(\w)([\dX]{6})
+clv 4069, 1974, Cadillac, Eldorado, Coupe
+ci msrp $8885.00
+ci prod 32812
+ci series Eldorado
+ci origin United States
+ci year 1974
+ci make Cadillac
+ci weight 4960
+ci maker Fleetwood
+ci doors 2
+ci model 6L47
+ci svc Power front disc rear self-adjusting drum
+ci bsize 12
+ci ebrake Rear wheels
+ci fuel 27
+ci oil 6
+ci tcase -NA-
+ci trans 13 Quarts
+ci fdiff 5
+ci rdiff Not applicable
+ci carb Rochester
+ci diffr 3.07
+ci rtred 63.59
+ci height 54.1
+ci length 224.1
+ci ftred 63.66
+ci wbase 126.3
+ci width 79.8
+ci etype Turbo Hydra-matic
+ci comp 8.25
+ci trq 380@2000
+ci cyl 8
+ci block Cast Iron
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Downdraft 4-barrel
+ci bhp 210@3600
+ci engno Prefix 6 + last 8 digits of VIN
+ci disp 500
+ci etype V8 Overhead valve
+ci englo On block behind intake manifold.
+ci vlift Hydraulic
+ci rhp 59.17
+ci b&s 4.3 & 4.3
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Andes Copper Metallic
+co Antigua Blue Metallic
+co Apollo Yellow
+co Canyon Amber Metallic
+co Chesterfield Brown Metallic
+co Conestoga Tan
+co Cotillion White
+co Cranberry Firemist Metallic
+co Deauville Gray Metallic
+co Diplomat Blue Metallic
+co Dynasty Red
+co Georgian Silver Metallic
+co Jasper Green
+co Persian Lime Firemist Metallic
+co Pharaoh Gold Firemist Metallic
+co Pinehurst Green Metallic
+co Promenade Gold Metallic
+co Regal Blue Firemist Metallic
+co Sable Black
+co Terra Cotta Firemist Metallic
+co Two Tone Colors Available
+co Victoria Amber Firemist Metallic
+ci rad Tube and center
+ci cool 21.3 Quarts
+ci batt 12
+ci exha Single
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci equip Radio
+ci equip Air conditioning
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci fsus Torsion bar
+ci rsus Helical coil
+ci drive Front wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15B
+cls 972, 6B69(\w)4(\w)([\dX]{6})
+clv 4070, 1974, Cadillac, Fleetwood, Brougham
+ci axle Semifloating
+ci make Cadillac
+ci origin United States
+ci msrp $9312.00
+ci year 1974
+ci prod 18250
+ci series Fleetwood
+ci doors 4
+ci maker Fleetwood
+ci model 6B69
+ci weight 5143
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci bsize 12
+ci tcase -NA-
+ci oil 5
+ci trans 12.2 Quarts
+ci fuel 27
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 2.93
+ci diff Hypoid
+ci length 233.7
+ci width 79.8
+ci height 55.6
+ci wbase 133
+ci rtred 63.3
+ci etype Downdraft 4-barrel
+ci etype V8 Overhead valve
+ci block Cast Iron
+ci comp 8.25
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 365@2000
+ci engno Prefix 6 + last 8 digits of VIN
+ci englo On block behind intake manifold.
+ci bhp 205@3600
+ci etype Turbo Hydra-matic
+ci vlift Hydraulic
+ci rhp 59.2
+ci cyl 8
+ci b&s 4.3 & 4.06
+ci disp 472
+ci mbear 5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Andes Copper Metallic
+co Antigua Blue Metallic
+co Apollo Yellow
+co Canyon Amber Metallic
+co Chesterfield Brown Metallic
+co Conestoga Tan
+co Cotillion White
+co Cranberry Firemist Metallic
+co Deauville Gray Metallic
+co Diplomat Blue Metallic
+co Dynasty Red
+co Georgian Silver Metallic
+co Jasper Green
+co Persian Lime Firemist Metallic
+co Pharaoh Gold Firemist Metallic
+co Pinehurst Green Metallic
+co Promenade Gold Metallic
+co Regal Blue Firemist Metallic
+co Sable Black
+co Terra Cotta Firemist Metallic
+co Two Tone Colors Available
+co Victoria Amber Firemist Metallic
+ci exha Single
+ci batt 12
+ci rad Tube and center
+ci ign Distributor and coil
+ci cool 21.3 Quarts
+ci cool Centrifugal water  pump
+ci equip Air conditioning
+ci equip Radio
+ci equip Power seats
+ci equip Speed control device
+ci sgear Variable-ratio power
+ci rsus Helical coil
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize L78 x 15B
+ci sloc Trunk
+cls 973, 6F33(\w)4(\w)([\dX]{6})
+clv 4071, 1974, Cadillac, 75 6DF, Limousine
+ci axle Semifloating
+ci series 75 6DF
+ci origin United States
+ci prod 1005
+ci year 1974
+ci msrp $12989.00
+ci make Cadillac
+ci doors 4
+ci model 6F33
+ci maker Fleetwood
+ci weight 5883
+ci ebrake Rear wheels
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci tcase -NA-
+ci trans 12.2 Quarts
+ci fuel 27
+ci oil 5
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diffr 3.15
+ci diff Hypoid
+ci rtred 63.3
+ci height 57.2
+ci length 252.2
+ci width 79.8
+ci wbase 151.5
+ci b&s 4.3 & 4.06
+ci etype V8 Overhead valve
+ci cyl 8
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 6 + last 8 digits of VIN
+ci etype Downdraft 4-barrel
+ci englo On block behind intake manifold.
+ci rhp 59.2
+ci comp 8.25
+ci vlift Hydraulic
+ci etype Turbo Hydra-matic
+ci mbear 5
+ci bhp 205@3600
+ci disp 472
+ci trq 365@2000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Andes Copper Metallic
+co Antigua Blue Metallic
+co Apollo Yellow
+co Canyon Amber Metallic
+co Chesterfield Brown Metallic
+co Conestoga Tan
+co Cotillion White
+co Cranberry Firemist Metallic
+co Deauville Gray Metallic
+co Diplomat Blue Metallic
+co Dynasty Red
+co Georgian Silver Metallic
+co Jasper Green
+co Persian Lime Firemist Metallic
+co Pharaoh Gold Firemist Metallic
+co Pinehurst Green Metallic
+co Promenade Gold Metallic
+co Regal Blue Firemist Metallic
+co Sable Black
+co Terra Cotta Firemist Metallic
+co Two Tone Colors Available
+co Victoria Amber Firemist Metallic
+ci rad Tube and center
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci exha Single
+ci cool 26.8. Quarts
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15D
+cls 974, 6F23(\w)4(\w)([\dX]{6})
+clv 4072, 1974, Cadillac, 75 6DF, Sedan
+ci axle Semifloating
+ci series 75 6DF
+ci make Cadillac
+ci origin United States
+ci msrp $12855.00
+ci year 1974
+ci prod 895
+ci maker Fleetwood
+ci weight 5719
+ci model 6F23
+ci doors 4
+ci bsize 12
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci tcase -NA-
+ci trans 12.2 Quarts
+ci fuel 27
+ci oil 5
+ci rdiff 5
+ci carb Rochester
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 3.15
+ci wbase 151.5
+ci height 57.4
+ci width 79.8
+ci rtred 63.3
+ci length 252.2
+ci disp 472
+ci etype V8 Overhead valve
+ci cyl 8
+ci block Cast Iron
+ci lube Pressure to all bearings excluding wrist pin
+ci engno Prefix 6 + last 8 digits of VIN
+ci etype Downdraft 4-barrel
+ci englo On block behind intake manifold.
+ci rhp 59.2
+ci b&s 4.3 & 4.06
+ci vlift Hydraulic
+ci etype Turbo Hydra-matic
+ci mbear 5
+ci bhp 205@3600
+ci comp 8.25
+ci trq 365@2000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Andes Copper Metallic
+co Antigua Blue Metallic
+co Apollo Yellow
+co Canyon Amber Metallic
+co Chesterfield Brown Metallic
+co Conestoga Tan
+co Cotillion White
+co Cranberry Firemist Metallic
+co Deauville Gray Metallic
+co Diplomat Blue Metallic
+co Dynasty Red
+co Georgian Silver Metallic
+co Jasper Green
+co Persian Lime Firemist Metallic
+co Pharaoh Gold Firemist Metallic
+co Pinehurst Green Metallic
+co Promenade Gold Metallic
+co Regal Blue Firemist Metallic
+co Sable Black
+co Terra Cotta Firemist Metallic
+co Two Tone Colors Available
+co Victoria Amber Firemist Metallic
+ci rad Tube and center
+ci batt 12
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci exha Single
+ci cool 26.8. Quarts
+ci equip Speed control device
+ci equip Radio
+ci equip Air conditioning
+ci sgear Hydraulic power
+ci rsus Helical coil
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize L78 x 15D

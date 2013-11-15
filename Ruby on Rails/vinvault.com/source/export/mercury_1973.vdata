@@ -1,0 +1,3672 @@
+cls 4793, 3(\w)bb(\w)([\dX]{6})
+clv 19223, 1973, Mercury, Capri, Sport Coupe
+ser 6 500000 999999
+ci axle Semifloating
+ci series Capri
+ci make Mercury
+ci origin United States
+ci year 1973
+ci weight 2351
+ci maker Mercury
+ci doors 2
+ci fbsize 9.6
+ci bsize 9.0
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci tcase -NA-
+ci oil 3.4
+ci fuel 12.7
+ci carb Weber
+ci csize 8.5 inches
+ci ctype Single dry plate
+ci diffr 3.44
+ci diff Hypoid
+ci rtred 52.3
+ci height 50.5
+ci ftred 53.3
+ci width 64.8
+ci length 174
+ci wbase 100.8
+ci etype Dual downdraft
+ci vlift Mechanical
+ci etype 2000 cc overhead cam
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.575 & 3.029
+ci disp 121.6
+ci rhp 20.45
+ci mbear 5
+ci etype Unknown at time of publication
+ci color Exterior Colors
+co Black
+co Burnt Orange Metallic
+co Dark Aqua Metallic
+co Dark Blue Metallic
+co Dark Ivy Green Metallic
+co Dark Orchid Metallic
+co Light Aqua
+co Light Blue
+co Light Green
+co Light Ivy Yellow
+co Maroon
+co Medium Blue Metallic
+co Medium Gold Metallic
+co Medium Lime Metallic
+co Red
+co Upper-Black/Lower-Burnt Orange Metallic
+co Upper-Black/Lower-Dark Aqua Metallic
+co Upper-Black/Lower-Light Aqua
+co Upper-Black/Lower-Light Green
+co Upper-Black/Lower-Light Ivy Yellow
+co Upper-Black/Lower-Maroon
+co Upper-Black/Lower-Medium Gold Metallic
+co Upper-Black/Lower-Medium Lime Metallic
+co Upper-Black/Lower-Red
+co Upper-Black/Lower-White
+co Upper-Black/Lower-Yellow
+co Upper-White/Lower-Black
+co Upper-White/Lower-Burnt Orange Metallic
+co Upper-White/Lower-Dark Aqua Metallic
+co Upper-White/Lower-Dark Blue Metallic
+co Upper-White/Lower-Dark Ivy Green Metallic
+co Upper-White/Lower-Dark Orchid Metallic
+co Upper-White/Lower-Light Aqua
+co Upper-White/Lower-Light Blue
+co Upper-White/Lower-Light Ivy Yellow
+co Upper-White/Lower-Maroon
+co Upper-White/Lower-Medium Blue Metallic
+co Upper-White/Lower-Medium Gold Metallic
+co Upper-White/Lower-Medium Lime Metallic
+co Upper-White/Lower-Red
+co Upper-White/Lower-Yellow
+co White
+co Yellow
+ci batt 12
+ci rad Tubular and fin
+ci cool 7.6 Quarts
+ci cool Water pump
+ci ftype Regular grade - 91 octane
+ci ign Distributor and coil
+ci exha Single
+ci sgear Rack & pinion
+ci fsus Independent ball joint with coil springs
+ci 1gear 3.65
+ci 2gear 1.97
+ci 4gear 1
+ci 5gear Not applicable
+ci rev 3.66
+ci gears 4
+ci 3gear 1.37
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+cls 4794, 3(\w)30(\w)([\dX]{6})
+clv 19224, 1973, Mercury, Comet 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci series Comet 6
+ci make Mercury
+ci origin United States
+ci year 1973
+ci msrp $2259.00
+ci prod 55707
+ci model 62B
+ci weight 2769
+ci doors 2
+ci maker Mercury
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear wheels
+ci tcase -NA-
+ci oil 4
+ci fuel 15
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci length 185.4
+ci height 53
+ci wbase 109.9
+ci rtred 56.5
+ci width 70.5
+ci trq 151@1800
+ci etype Own Inline 6
+ci mbear 7
+ci cyl 6
+ci comp 8.3
+ci bhp 84@3800
+ci block Special alloy iron
+ci rhp 32.5
+ci etype Fully synchronized
+ci disp 200
+ci b&s 3.68 & 3.13
+ci etype Single downdraft
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ftype Regular grade - 91 octane
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci cool 9 Quarts
+ci rad Tubular and fin
+ci cool Water pump
+ci equip Power Steering
+ci equip 250 cu. in. Inline 6 engine
+ci equip 302 cu. in. V8 engine
+ci equip Combination AM Radio/StereoTape System
+ci equip Air conditioning
+ci equip Power steering
+ci equip AM FM Stereo Multiplex Radio
+ci equip Rear Window Defogger
+ci equip Select Shift-3 Speed Automatic Transmission
+ci equip Air Conditioner
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 3.17
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.75
+ci 1gear 2.99
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.45 x 14
+cls 4795, 3(\w)31(\w)([\dX]{6})
+clv 19225, 1973, Mercury, Comet 6, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1973
+ci series Comet 6
+ci origin United States
+ci prod 38984
+ci msrp $2314.00
+ci make Mercury
+ci doors 4
+ci model 54B
+ci weight 2864
+ci maker Mercury
+ci svc Hydraulic self-adjusting
+ci bsize 10
+ci ebrake Rear wheels
+ci fuel 15
+ci oil 4
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.0
+ci height 53.4
+ci wbase 109.9
+ci length 192.3
+ci width 70.5
+ci rtred 56.5
+ci comp 8.3
+ci etype Fully synchronized
+ci mbear 7
+ci b&s 3.68 & 3.13
+ci cyl 6
+ci bhp 84@3800
+ci etype Single downdraft
+ci disp 200
+ci lube Pressure to all bearings excluding wrist pin
+ci block Special alloy iron
+ci rhp 32.5
+ci etype Own Inline 6
+ci vlift Hydraulic
+ci trq 151@1800
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci cool 9 Quarts
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci ftype Regular grade - 91 octane
+ci cool Water pump
+ci equip Power Steering
+ci equip 250 cu. in. Inline 6 engine
+ci equip 302 cu. in. V8 engine
+ci equip Combination AM Radio/StereoTape System
+ci equip Air conditioning
+ci equip Power steering
+ci equip AM FM Stereo Multiplex Radio
+ci equip Rear Window Defogger
+ci equip Select Shift-3 Speed Automatic Transmission
+ci equip Air Conditioner
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 3.17
+ci gears 3
+ci 5gear Not applicable
+ci 2gear 1.75
+ci 1gear 2.99
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.45 x 14
+cls 4796, 3(\w)30(\w)([\dX]{6})
+clv 19226, 1973, Mercury, Comet GT, Sedan
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci make Mercury
+ci year 1973
+ci series Comet GT
+ci maker Mercury
+ci model 62B
+ci doors 2
+ci weight 2796
+ci svc Hydraulic self-adjusting
+ci ebrake Rear wheels
+ci bsize 10
+ci fuel 15
+ci oil 4
+ci tcase -NA-
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci height 53
+ci wbase 103
+ci length 185.4
+ci rtred 56.5
+ci width 70.5
+ci etype Single downdraft
+ci b&s 3.68 & 3.13
+ci mbear 7
+ci block Special alloy iron
+ci cyl 6
+ci bhp 84@3800
+ci etype Own Inline 6
+ci disp 200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci trq 151@1800
+ci comp 8.3
+ci rhp 32.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci cool Water pump
+ci ftype Regular grade - 91 octane
+ci batt 12
+ci rad Tubular and fin
+ci exha Single
+ci ign Distributor and coil
+ci cool 9 Quarts
+ci equip 302 cu. in. V8 engine
+ci equip AM FM Stereo Multiplex Radio
+ci equip Select Shift-3 Speed Automatic Transmission
+ci equip 250 cu. in. Inline 6 engine
+ci equip Power Steering
+ci equip Air Conditioner
+ci equip Air conditioning
+ci equip Rear Window Defogger
+ci equip Bucket Seats
+ci equip Power steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Semi-elliptic leaf springs
+ci 5gear Not applicable
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci rev 3.17
+ci gears 3
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize 6.45 x 14
+cls 4797, 3(\w)92(\w)([\dX]{6})
+clv 19227, 1973, Mercury, Cougar, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3649.00
+ci year 1973
+ci series Cougar
+ci make Mercury
+ci origin United States
+ci prod 1284
+ci weight 3606
+ci doors 2
+ci model 76D
+ci maker Mercury
+ci fbsize 11.3
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci bsize 10
+ci oil 4
+ci tcase -NA-
+ci fuel 19.5
+ci carb Motorcraft
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 50.7
+ci rtred 61
+ci ftred 61.5
+ci wbase 112
+ci length 199.5
+ci width 75.1
+ci comp 8.0
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 51.2
+ci etype Select Shift automatic
+ci etype V8 Overhead valve
+ci etype Dual downdraft
+ci bhp 154@4000
+ci disp 351
+ci vlift Hydraulic
+ci trq 256@2400
+ci mbear 5
+ci b&s 4 & 3 1/2
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci batt 12
+ci cool Water pump
+ci cool 15.6 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci ftype Regular grade - 91 octane
+ci equip Power Steering
+ci equip Power Seat
+ci equip Power brakes
+ci equip Combination AM Radio/StereoTape System
+ci equip Air Conditioner
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Power Operated Sun Roof
+ci equip AM FM Stereo Multiplex Radio
+ci equip Power Operated Convertible Top
+ci equip Power Windows
+ci equip Rear Window Defogger
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 4798, 3(\w)91(\w)([\dX]{6})
+clv 19228, 1973, Mercury, Cougar, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1973
+ci prod 21069
+ci series Cougar
+ci make Mercury
+ci msrp $3295.00
+ci origin United States
+ci weight 3516
+ci doors 2
+ci model 65D
+ci maker Mercury
+ci fbsize 11.3
+ci svc Power front disc rear self-adjusting drum
+ci bsize 10
+ci ebrake Rear wheels
+ci fuel 19.5
+ci tcase -NA-
+ci oil 4
+ci carb Motorcraft
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci ftred 61.5
+ci rtred 61
+ci height 50.7
+ci wbase 112
+ci width 75.1
+ci length 199.5
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Select Shift automatic
+ci comp 8.0
+ci etype V8 Overhead valve
+ci bhp 154@4000
+ci disp 351
+ci etype Dual downdraft
+ci trq 256@2400
+ci cyl 8
+ci vlift Hydraulic
+ci rhp 51.2
+ci mbear 5
+ci b&s 4 & 3 1/2
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci batt 12
+ci cool Water pump
+ci cool 15.6 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci ftype Regular grade - 91 octane
+ci equip Power Steering
+ci equip Power Seat
+ci equip Power brakes
+ci equip Combination AM Radio/StereoTape System
+ci equip Air Conditioner
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Power Operated Sun Roof
+ci equip AM FM Stereo Multiplex Radio
+ci equip Power Operated Convertible Top
+ci equip Power Windows
+ci equip Rear Window Defogger
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize E78 x 14
+ci sloc Trunk
+cls 4799, 3(\w)94(\w)([\dX]{6})
+clv 19229, 1973, Mercury, Cougar XR7, Convertible
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci series Cougar XR7
+ci year 1973
+ci prod 3165
+ci make Mercury
+ci msrp $3826.00
+ci doors 2
+ci model 76F
+ci weight 3645
+ci maker Mercury
+ci ebrake Rear wheels
+ci bsize 10
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.3
+ci fuel 19.5
+ci oil 4
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci wbase 112
+ci rtred 61
+ci ftred 61.5
+ci width 75.1
+ci length 199.5
+ci height 50.7
+ci comp 8.0
+ci etype V8 Overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci cyl 8
+ci b&s 4 & 3 1/2
+ci etype Dual downdraft
+ci trq 256@2400
+ci etype Select Shift automatic
+ci vlift Hydraulic
+ci disp 351
+ci rhp 51.2
+ci bhp 154@4000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci cool 15.6 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci ftype Regular grade - 91 octane
+ci equip Power Steering
+ci equip Power Seat
+ci equip Combination AM Radio/StereoTape System
+ci equip Air Conditioner
+ci equip Rear Window Defogger
+ci equip Power Operated Sun Roof
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Power Operated Convertible Top
+ci equip Power Windows
+ci equip AM FM Stereo Multiplex Radio
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 4800, 3(\w)93(\w)([\dX]{6})
+clv 19230, 1973, Mercury, Cougar XR7, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci series Cougar XR7
+ci year 1973
+ci prod 35110
+ci make Mercury
+ci msrp $3602.00
+ci doors 2
+ci model 65F
+ci weight 3532
+ci maker Mercury
+ci ebrake Rear wheels
+ci bsize 10
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.3
+ci fuel 19.5
+ci oil 4
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci width 75.1
+ci rtred 61
+ci ftred 61.5
+ci wbase 112
+ci length 199.5
+ci height 50.7
+ci comp 8.0
+ci etype V8 Overhead valve
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 5
+ci cyl 8
+ci b&s 4 & 3 1/2
+ci etype Dual downdraft
+ci trq 256@2400
+ci etype Select Shift automatic
+ci vlift Hydraulic
+ci disp 351
+ci rhp 51.2
+ci bhp 154@4000
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci cool 15.6 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci ftype Regular grade - 91 octane
+ci equip Power Steering
+ci equip Power Seat
+ci equip Combination AM Radio/StereoTape System
+ci equip Air Conditioner
+ci equip Rear Window Defogger
+ci equip Power Operated Sun Roof
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Power Operated Convertible Top
+ci equip Power Windows
+ci equip AM FM Stereo Multiplex Radio
+ci sgear Recirculating ball and nut
+ci rsus Semi-elliptic leaf springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize E78 x 14
+cls 4801, 3(\w)76(\w)([\dX]{6})
+clv 19231, 1973, Mercury, Marquis Brougham, Colony Park
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $4638.00
+ci series Marquis Brougham
+ci year 1973
+ci prod 23283
+ci origin United States
+ci make Mercury
+ci weight 4991
+ci model 71K
+ci maker Mercury
+ci doors 4
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci ebrake Rear wheels
+ci fbsize 11.7
+ci oil 4
+ci tcase -NA-
+ci fuel 22
+ci carb Motorcraft
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci rtred 64.3
+ci length 223.4
+ci wbase 124
+ci height 57.1
+ci width 79.8
+ci ftred 63.3
+ci comp 8.0
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 60.83
+ci etype Select Shift automatic
+ci b&s 4.36 & 3 1/29
+ci trq 330@2800
+ci etype Downdraft 4-barrel
+ci etype V8 Overhead valve
+ci vlift Hydraulic
+ci bhp 202@4400
+ci mbear 5
+ci disp 429
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular grade - 91 octane
+ci cool 19.9 Quarts
+ci cool Water pump
+ci batt 12
+ci equip Power Operated Sun Roof
+ci equip Power Mini-Vent Windows
+ci equip Defroster-Rear Window
+ci equip Power Windows (side)
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Lock Convenience Group
+ci equip a/c-Automatic Temperature Control
+ci equip AM FM Stereo Multiplex Radio
+ci equip a/c-Manual Temperature Control
+ci equip 460 cu. in. V8 engine
+ci equip Six-Way Power Seat (Bench)
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize JR78 X 15
+cls 4802, 3(\w)64(\w)([\dX]{6})
+clv 19232, 1973, Mercury, Marquis Brougham, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci series Marquis Brougham
+ci prod 22770
+ci msrp $5069.00
+ci year 1973
+ci origin United States
+ci doors 2
+ci maker Mercury
+ci weight 4749
+ci model 65K
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci ebrake Rear wheels
+ci fbsize 11.7
+ci tcase -NA-
+ci oil 4
+ci fuel 22
+ci carb Motorcraft
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci ftred 63.3
+ci wbase 124
+ci rtred 64.3
+ci height 53.9
+ci width 79.6
+ci length 222.5
+ci b&s 4.36 & 3 1/29
+ci etype Select Shift automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci trq 330@2800
+ci cyl 8
+ci bhp 202@4400
+ci etype Downdraft 4-barrel
+ci rhp 60.83
+ci etype V8 Overhead valve
+ci vlift Hydraulic
+ci mbear 5
+ci disp 429
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular grade - 91 octane
+ci cool 19.9 Quarts
+ci cool Water pump
+ci batt 12
+ci equip Power Operated Sun Roof
+ci equip Power Mini-Vent Windows
+ci equip Defroster-Rear Window
+ci equip Power Windows (side)
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Lock Convenience Group
+ci equip a/c-Automatic Temperature Control
+ci equip AM FM Stereo Multiplex Radio
+ci equip a/c-Manual Temperature Control
+ci equip 460 cu. in. V8 engine
+ci equip Six-Way Power Seat (Bench)
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 X 15
+ci sloc Trunk
+cls 4803, 3(\w)67(\w)([\dX]{6})
+clv 19233, 1973, Mercury, Marquis Brougham, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 10613
+ci year 1973
+ci series Marquis Brougham
+ci make Mercury
+ci origin United States
+ci msrp $5134.00
+ci weight 4822
+ci doors 4
+ci maker Mercury
+ci model 57K
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci ebrake Rear wheels
+ci fbsize 11.7
+ci tcase -NA-
+ci oil 4
+ci fuel 22
+ci carb Motorcraft
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 55.3
+ci wbase 124
+ci ftred 63.3
+ci rtred 64.3
+ci width 79.6
+ci length 222.5
+ci b&s 4.36 & 3 1/29
+ci etype Select Shift automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci trq 330@2800
+ci cyl 8
+ci bhp 202@4400
+ci etype Downdraft 4-barrel
+ci rhp 60.83
+ci etype V8 Overhead valve
+ci vlift Hydraulic
+ci mbear 5
+ci disp 429
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular grade - 91 octane
+ci cool 19.9 Quarts
+ci cool Water pump
+ci batt 12
+ci equip Power Operated Sun Roof
+ci equip Power Mini-Vent Windows
+ci equip Defroster-Rear Window
+ci equip Power Windows (side)
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Lock Convenience Group
+ci equip a/c-Automatic Temperature Control
+ci equip AM FM Stereo Multiplex Radio
+ci equip a/c-Manual Temperature Control
+ci equip 460 cu. in. V8 engine
+ci equip Six-Way Power Seat (Bench)
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 X 15
+ci sloc Trunk
+cls 4804, 3(\w)62(\w)([\dX]{6})
+clv 19234, 1973, Mercury, Marquis Brougham, Pillared Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 46624
+ci msrp $4990.00
+ci origin United States
+ci make Mercury
+ci year 1973
+ci series Marquis Brougham
+ci maker Mercury
+ci model 53K
+ci weight 4809
+ci doors 4
+ci fbsize 11.7
+ci bsize 11
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci fuel 22
+ci tcase -NA-
+ci oil 4
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci height 55.3
+ci wbase 124
+ci length 222.5
+ci rtred 64.3
+ci width 79.6
+ci ftred 63.3
+ci bhp 202@4400
+ci cyl 8
+ci disp 429
+ci etype V8 Overhead valve
+ci comp 8.0
+ci etype Select Shift automatic
+ci trq 330@2800
+ci etype Downdraft 4-barrel
+ci mbear 5
+ci vlift Hydraulic
+ci rhp 60.83
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4.36 & 3 1/29
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci cool Water pump
+ci batt 12
+ci cool 19.9 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci ftype Regular grade - 91 octane
+ci equip Power Windows (side)
+ci equip Power Mini-Vent Windows
+ci equip Power Operated Sun Roof
+ci equip a/c-Manual Temperature Control
+ci equip Power brakes
+ci equip a/c-Automatic Temperature Control
+ci equip Power steering
+ci equip Lock Convenience Group
+ci equip 460 cu. in. V8 engine
+ci equip AM FM Stereo Multiplex Radio
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip Air conditioning
+ci equip Six-Way Power Seat (Bench)
+ci equip Defroster-Rear Window
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize JR78 X 15
+cls 4805, 3(\w)66(\w)([\dX]{6})
+clv 19235, 1973, Mercury, Marquis, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1973
+ci msrp $4660.00
+ci origin United States
+ci make Mercury
+ci series Marquis
+ci prod 5052
+ci maker Mercury
+ci weight 4677
+ci model 65H
+ci doors 2
+ci fbsize 11.7
+ci ebrake Rear wheels
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fuel 22
+ci tcase -NA-
+ci oil 4
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci height 53.9
+ci ftred 63.3
+ci wbase 124
+ci length 222.5
+ci width 79.6
+ci rtred 64.3
+ci bhp 202@4400
+ci cyl 8
+ci disp 429
+ci etype V8 Overhead valve
+ci comp 8.0
+ci etype Select Shift automatic
+ci mbear 5
+ci etype Downdraft 4-barrel
+ci trq 330@2800
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci rhp 60.83
+ci b&s 4.36 & 3 1/29
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci ftype Regular grade - 91 octane
+ci batt 12
+ci cool 19.9 Quarts
+ci exha Single
+ci rad Tubular and fin
+ci cool Water pump
+ci equip Power Windows (side)
+ci equip Power Mini-Vent Windows
+ci equip Power Operated Sun Roof
+ci equip a/c-Manual Temperature Control
+ci equip Power brakes
+ci equip a/c-Automatic Temperature Control
+ci equip Power steering
+ci equip Lock Convenience Group
+ci equip 460 cu. in. V8 engine
+ci equip AM FM Stereo Multiplex Radio
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip Air conditioning
+ci equip Six-Way Power Seat (Bench)
+ci equip Defroster-Rear Window
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 X 15
+cls 4806, 3(\w)68(\w)([\dX]{6})
+clv 19236, 1973, Mercury, Marquis, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 1824
+ci series Marquis
+ci make Mercury
+ci msrp $4725.00
+ci year 1973
+ci origin United States
+ci weight 4752
+ci doors 4
+ci maker Mercury
+ci model 57H
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci ebrake Rear wheels
+ci fbsize 11.7
+ci tcase -NA-
+ci oil 4
+ci fuel 22
+ci carb Motorcraft
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 55.3
+ci wbase 124
+ci ftred 63.3
+ci rtred 64.3
+ci width 79.6
+ci length 222.5
+ci b&s 4.36 & 3 1/29
+ci etype Select Shift automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci trq 330@2800
+ci cyl 8
+ci bhp 202@4400
+ci etype Downdraft 4-barrel
+ci rhp 60.83
+ci etype V8 Overhead valve
+ci vlift Hydraulic
+ci mbear 5
+ci disp 429
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular grade - 91 octane
+ci cool 19.9 Quarts
+ci cool Water pump
+ci batt 12
+ci equip Power Operated Sun Roof
+ci equip Power Mini-Vent Windows
+ci equip Defroster-Rear Window
+ci equip Power Windows (side)
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Lock Convenience Group
+ci equip a/c-Automatic Temperature Control
+ci equip AM FM Stereo Multiplex Radio
+ci equip a/c-Manual Temperature Control
+ci equip 460 cu. in. V8 engine
+ci equip Six-Way Power Seat (Bench)
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 X 15
+ci sloc Trunk
+cls 4807, 3(\w)42(\w)([\dX]{6})
+clv 19237, 1973, Mercury, Marquis, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 371
+ci origin United States
+ci make Mercury
+ci year 1973
+ci series Marquis
+ci maker Mercury
+ci model 57X
+ci doors 4
+ci ebrake Rear wheels
+ci fbsize 11.7
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fuel 22
+ci oil 4
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci height 55.3
+ci wbase 124
+ci ftred 63.3
+ci length 222.5
+ci width 79.6
+ci rtred 64.3
+ci bhp 202@4400
+ci cyl 8
+ci trq 330@2800
+ci b&s 4.36 & 3 1/29
+ci comp 8.0
+ci etype Select Shift automatic
+ci disp 429
+ci etype Downdraft 4-barrel
+ci etype V8 Overhead valve
+ci mbear 5
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 60.83
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci cool Water pump
+ci ftype Regular grade - 91 octane
+ci batt 12
+ci cool 19.9 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci rad Tubular and fin
+ci equip Power brakes
+ci equip Power Mini-Vent Windows
+ci equip Power Operated Sun Roof
+ci equip Power Windows (side)
+ci equip a/c-Manual Temperature Control
+ci equip a/c-Automatic Temperature Control
+ci equip Power steering
+ci equip Lock Convenience Group
+ci equip 460 cu. in. V8 engine
+ci equip AM FM Stereo Multiplex Radio
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip Air conditioning
+ci equip Six-Way Power Seat (Bench)
+ci equip Defroster-Rear Window
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 X 15
+cls 4808, 3(\w)41(\w)([\dX]{6})
+clv 19238, 1973, Mercury, Marquis, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 921
+ci year 1973
+ci series Marquis
+ci origin United States
+ci make Mercury
+ci maker Mercury
+ci model 65X
+ci doors 2
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.7
+ci bsize 11
+ci oil 4
+ci tcase -NA-
+ci fuel 22
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci rtred 64.3
+ci ftred 63.3
+ci length 222.5
+ci width 79.6
+ci wbase 124
+ci height 55.3
+ci bhp 202@4400
+ci disp 429
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci cyl 8
+ci b&s 4.36 & 3 1/29
+ci trq 330@2800
+ci etype Downdraft 4-barrel
+ci etype Select Shift automatic
+ci etype V8 Overhead valve
+ci vlift Hydraulic
+ci mbear 5
+ci rhp 60.83
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci ftype Regular grade - 91 octane
+ci rad Tubular and fin
+ci exha Single
+ci cool 19.9 Quarts
+ci cool Water pump
+ci batt 12
+ci equip Power Windows (side)
+ci equip Power Mini-Vent Windows
+ci equip Power Operated Sun Roof
+ci equip Defroster-Rear Window
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Lock Convenience Group
+ci equip a/c-Automatic Temperature Control
+ci equip AM FM Stereo Multiplex Radio
+ci equip a/c-Manual Temperature Control
+ci equip 460 cu. in. V8 engine
+ci equip Six-Way Power Seat (Bench)
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 X 15
+ci sloc Trunk
+cls 4809, 3(\w)63(\w)([\dX]{6})
+clv 19239, 1973, Mercury, Marquis, Pillared Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 13884
+ci series Marquis
+ci make Mercury
+ci msrp $4581.00
+ci year 1973
+ci origin United States
+ci weight 4739
+ci doors 4
+ci maker Mercury
+ci model 53H
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci ebrake Rear wheels
+ci fbsize 11.7
+ci tcase -NA-
+ci oil 4
+ci fuel 22
+ci carb Motorcraft
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 55.3
+ci wbase 124
+ci ftred 63.3
+ci rtred 64.3
+ci width 79.6
+ci length 222.5
+ci b&s 4.36 & 3 1/29
+ci etype Select Shift automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci trq 330@2800
+ci cyl 8
+ci bhp 202@4400
+ci etype Downdraft 4-barrel
+ci rhp 60.83
+ci etype V8 Overhead valve
+ci vlift Hydraulic
+ci mbear 5
+ci disp 429
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular grade - 91 octane
+ci cool 19.9 Quarts
+ci cool Water pump
+ci batt 12
+ci equip Power Operated Sun Roof
+ci equip Power Mini-Vent Windows
+ci equip Defroster-Rear Window
+ci equip Power Windows (side)
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Lock Convenience Group
+ci equip a/c-Automatic Temperature Control
+ci equip AM FM Stereo Multiplex Radio
+ci equip a/c-Manual Temperature Control
+ci equip 460 cu. in. V8 engine
+ci equip Six-Way Power Seat (Bench)
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 X 15
+ci sloc Trunk
+cls 4810, 3(\w)40(\w)([\dX]{6})
+clv 19240, 1973, Mercury, Marquis, Pillared Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci year 1973
+ci origin United States
+ci make Mercury
+ci series Marquis
+ci prod 1366
+ci maker Mercury
+ci doors 4
+ci model 53X
+ci ebrake Rear wheels
+ci fbsize 11.7
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fuel 22
+ci oil 4
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci height 55.3
+ci wbase 124
+ci ftred 63.3
+ci length 222.5
+ci width 79.6
+ci rtred 64.3
+ci bhp 202@4400
+ci cyl 8
+ci trq 330@2800
+ci b&s 4.36 & 3 1/29
+ci comp 8.0
+ci etype Select Shift automatic
+ci disp 429
+ci etype Downdraft 4-barrel
+ci etype V8 Overhead valve
+ci mbear 5
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 60.83
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci cool Water pump
+ci ftype Regular grade - 91 octane
+ci batt 12
+ci cool 19.9 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci rad Tubular and fin
+ci equip Power brakes
+ci equip Power Mini-Vent Windows
+ci equip Power Operated Sun Roof
+ci equip Power Windows (side)
+ci equip a/c-Manual Temperature Control
+ci equip a/c-Automatic Temperature Control
+ci equip Power steering
+ci equip Lock Convenience Group
+ci equip 460 cu. in. V8 engine
+ci equip AM FM Stereo Multiplex Radio
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip Air conditioning
+ci equip Six-Way Power Seat (Bench)
+ci equip Defroster-Rear Window
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize HR78 X 15
+cls 4811, 3(\w)74(\w)([\dX]{6})
+clv 19241, 1973, Mercury, Marquis, Station Wagon
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci series Marquis
+ci prod 2464
+ci msrp $4533.00
+ci year 1973
+ci origin United States
+ci doors 4
+ci maker Mercury
+ci weight 4951
+ci model 71H
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci ebrake Rear wheels
+ci fbsize 11.7
+ci fuel 22
+ci oil 4
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci ftred 63.3
+ci wbase 124
+ci rtred 64.3
+ci height 57.1
+ci width 79.8
+ci length 223.4
+ci b&s 4.36 & 3 1/29
+ci etype Select Shift automatic
+ci lube Pressure to all bearings excluding wrist pin
+ci comp 8.0
+ci trq 330@2800
+ci cyl 8
+ci bhp 202@4400
+ci etype Downdraft 4-barrel
+ci rhp 60.83
+ci etype V8 Overhead valve
+ci vlift Hydraulic
+ci mbear 5
+ci disp 429
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular grade - 91 octane
+ci cool 19.9 Quarts
+ci cool Water pump
+ci batt 12
+ci equip Power Operated Sun Roof
+ci equip Power Mini-Vent Windows
+ci equip Defroster-Rear Window
+ci equip Power Windows (side)
+ci equip Power brakes
+ci equip Air conditioning
+ci equip Power steering
+ci equip Lock Convenience Group
+ci equip a/c-Automatic Temperature Control
+ci equip AM FM Stereo Multiplex Radio
+ci equip a/c-Manual Temperature Control
+ci equip 460 cu. in. V8 engine
+ci equip Six-Way Power Seat (Bench)
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 X 15
+ci sloc Trunk
+cls 4812, 3(\w)03(\w)([\dX]{6})
+clv 19242, 1973, Mercury, Montego 6, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 7082
+ci origin United States
+ci series Montego 6
+ci msrp $2746.00
+ci year 1973
+ci make Mercury
+ci maker Mercury
+ci weight 3790
+ci model 65B
+ci doors 2
+ci ebrake Rear wheels
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci fbsize 10.7
+ci oil 4
+ci tcase -NA-
+ci fuel 22.5
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.25
+ci diff Hypoid
+ci height 52.2
+ci length 211.3
+ci width 78.6
+ci wbase 118
+ci rtred 62.9
+ci ftred 62.8
+ci trq 197@1600
+ci b&s 3.68 & 3.91
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci mbear 7
+ci etype Inline 6. Overhead valve
+ci rhp 32.5
+ci comp 8.0
+ci bhp 92@3200
+ci etype Single downdraft
+ci etype Fully synchronized
+ci disp 250
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci batt 12
+ci ign Distributor and coil
+ci exha Single
+ci rad Tubular and fin
+ci cool 11.9 Quarts
+ci cool Water pump
+ci ftype Regular grade - 91 octane
+ci equip Power Door Locks
+ci equip a/c-Manual Temperature Control
+ci equip Defroster-Rear Window
+ci equip White Sidewall Tires
+ci equip Bucket Seats
+ci equip Bias Belted White Side-Wall Tires
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip Tinted Glass (Windshield only)
+ci equip Six-Way Power Seat (Bench)
+ci equip Power Brakes
+ci equip Power Brakes (disc front drm rear)
+ci equip 351 cu. in. V8 engine
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip 460 cu. in. V8 engine
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip 400 cu. in. V8 engine
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 3.17
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.75
+ci 1gear 2.99
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 4813, 3(\w)02(\w)([\dX]{6})
+clv 19243, 1973, Mercury, Montego 6, Pillared Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 7459
+ci msrp $2741.00
+ci origin United States
+ci make Mercury
+ci year 1973
+ci series Montego 6
+ci maker Mercury
+ci doors 4
+ci model 53B
+ci weight 3854
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci fbsize 10.7
+ci bsize 10
+ci tcase -NA-
+ci oil 4
+ci fuel 22.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci ftred 62.8
+ci width 78.6
+ci length 211.3
+ci rtred 62.9
+ci wbase 118
+ci height 52.2
+ci cyl 6
+ci etype Single downdraft
+ci etype Fully synchronized
+ci b&s 3.68 & 3.91
+ci mbear 7
+ci etype Inline 6. Overhead valve
+ci disp 250
+ci comp 8.0
+ci bhp 92@3200
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 32.5
+ci trq 197@1600
+ci vlift Hydraulic
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular grade - 91 octane
+ci rad Tubular and fin
+ci cool Water pump
+ci cool 11.9 Quarts
+ci equip 351 cu. in. V8 engine
+ci equip a/c-Manual Temperature Control
+ci equip Defroster-Rear Window
+ci equip White Sidewall Tires
+ci equip 429 cu. in. V8 engine
+ci equip Bucket Seats
+ci equip Bias Belted White Side-Wall Tires
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip 400 cu. in. V8 engine
+ci equip Power Brakes
+ci equip Power Brakes (disc front drm rear)
+ci equip Six-Way Power Seat (Bench)
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip Tinted Glass (Windshield only)
+ci equip 460 cu. in. V8 engine
+ci equip Select Shift Automatic Transmission
+ci equip Power Door Locks
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci rev 3.17
+ci 2gear 1.75
+ci gears 3
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 5gear Not applicable
+ci 3gear 1
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 4814, 3(\w)16(\w)([\dX]{6})
+clv 19244, 1973, Mercury, Montego GT, Fastback Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci year 1973
+ci prod 4464
+ci series Montego GT
+ci origin United States
+ci maker Mercury
+ci weight 3834
+ci model 63R
+ci doors 2
+ci ebrake Rear wheels
+ci fbsize 10.7
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci fuel 22.5
+ci tcase -NA-
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.0
+ci diff Hypoid
+ci length 211.3
+ci width 78.6
+ci rtred 62.9
+ci ftred 62.8
+ci wbase 114
+ci height 52.3
+ci etype Own V8 Overhead valve
+ci rhp 51.2
+ci etype Fully synchronized
+ci mbear 5
+ci cyl 8
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3
+ci etype Single downdraft
+ci comp 8.0
+ci disp 302
+ci vlift Hydraulic
+ci bhp 137@4200
+ci trq 230@2200
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci cool 15.7 Quarts
+ci batt 12
+ci ign Distributor and coil
+ci cool Water pump
+ci rad Tubular and fin
+ci ftype Regular grade - 91 octane
+ci exha Single
+ci equip a/c-Manual Temperature Control
+ci equip Defroster-Rear Window
+ci equip Tinted Glass (Windshield only)
+ci equip Bucket Seats
+ci equip Bias Belted White Side-Wall Tires
+ci equip Air conditioning
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip Six-Way Power Seat (Bench)
+ci equip 460 cu. in. V8 engine
+ci equip 429 cu. in. V8 engine
+ci equip Power Brakes
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip 400 cu. in. V8 engine
+ci equip Power brakes
+ci equip Power steering
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip 351 cu. in. V8 engine
+ci equip White Sidewall Tires
+ci equip Select Shift Automatic Transmission
+ci equip Power Windows (side)
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 4815, 3(\w)05(\w)([\dX]{6})
+clv 19245, 1973, Mercury, Montego MX 6, Fastback
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci year 1973
+ci make Mercury
+ci series Montego MX 6
+ci maker Mercury
+ci model 63D
+ci doors 4
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci bsize 10
+ci fbsize 10.7
+ci fuel 22.5
+ci tcase -NA-
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci height 52.2
+ci ftred 62.8
+ci rtred 62.9
+ci length 211.3
+ci wbase 118
+ci width 78.6
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci rhp 32.5
+ci b&s 3.68 & 3.91
+ci vlift Hydraulic
+ci mbear 7
+ci etype Fully synchronized
+ci comp 8.0
+ci bhp 92@3200
+ci trq 197@1600
+ci etype Inline 6. Overhead valve
+ci disp 250
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci cool 11.9 Quarts
+ci cool Water pump
+ci batt 12
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular grade - 91 octane
+ci equip Station Wagon Third Seat
+ci equip Defroster-Rear Window
+ci equip Six-Way Power Seat (Bench)
+ci equip Tinted Glass (Windshield only)
+ci equip Bucket Seats
+ci equip Bias Belted White Side-Wall Tires
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip 460 cu. in. V8 engine
+ci equip 429 cu. in. V8 engine
+ci equip 400 cu. in. V8 engine
+ci equip Power Brakes
+ci equip Power Door Locks
+ci equip Power Steering
+ci equip Power Windows (side)
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip Select Shift Automatic Transmission
+ci equip 3-Way Tailgate
+ci equip White Sidewall Tires
+ci equip a/c-Manual Temperature Control
+ci equip 351 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 5gear Not applicable
+ci 3gear 1
+ci 2gear 1.75
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci gears 3
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 4816, 3(\w)07(\w)([\dX]{6})
+clv 19246, 1973, Mercury, Montego MX 6, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2869.00
+ci series Montego MX 6
+ci prod 27812
+ci origin United States
+ci make Mercury
+ci year 1973
+ci weight 3807
+ci model 65D
+ci maker Mercury
+ci doors 2
+ci ebrake Rear wheels
+ci bsize 10
+ci fbsize 10.7
+ci svc Front disc rear self-adjusting drum
+ci oil 4
+ci tcase -NA-
+ci fuel 22.5
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.25
+ci diff Hypoid
+ci ftred 62.8
+ci wbase 118
+ci width 78.6
+ci rtred 62.9
+ci height 52.2
+ci length 211.3
+ci trq 197@1600
+ci etype Inline 6. Overhead valve
+ci cyl 6
+ci vlift Hydraulic
+ci etype Single downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 7
+ci rhp 32.5
+ci comp 8.0
+ci bhp 92@3200
+ci etype Fully synchronized
+ci disp 250
+ci b&s 3.68 & 3.91
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ftype Regular grade - 91 octane
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci cool 11.9 Quarts
+ci rad Tubular and fin
+ci cool Water pump
+ci equip 351 cu. in. V8 engine
+ci equip 429 cu. in. V8 engine
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip 400 cu. in. V8 engine
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip 460 cu. in. V8 engine
+ci equip Bias Belted White Side-Wall Tires
+ci equip 3-Way Tailgate
+ci equip Tinted Glass (Windshield only)
+ci equip Station Wagon Third Seat
+ci equip Power Brakes
+ci equip Power Door Locks
+ci equip Select Shift Automatic Transmission
+ci equip Power Windows (side)
+ci equip Six-Way Power Seat (Bench)
+ci equip White Sidewall Tires
+ci equip Defroster-Rear Window
+ci equip a/c-Manual Temperature Control
+ci equip Bucket Seats
+ci equip Power Steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 2gear 1.75
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 3gear 1
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 4817, 3(\w)04(\w)([\dX]{6})
+clv 19247, 1973, Mercury, Montego MX 6, Pillared Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $2848.00
+ci series Montego MX 6
+ci prod 25300
+ci origin United States
+ci make Mercury
+ci year 1973
+ci doors 4
+ci maker Mercury
+ci weight 3881
+ci model 53D
+ci fbsize 10.7
+ci bsize 10
+ci ebrake Rear wheels
+ci svc Front disc rear self-adjusting drum
+ci fuel 22.5
+ci tcase -NA-
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.25
+ci diff Hypoid
+ci wbase 118
+ci width 78.6
+ci length 215.3
+ci rtred 62.9
+ci ftred 62.8
+ci height 53
+ci cyl 6
+ci b&s 3.68 & 3.91
+ci disp 250
+ci vlift Hydraulic
+ci etype Inline 6. Overhead valve
+ci etype Single downdraft
+ci mbear 7
+ci trq 197@1600
+ci comp 8.0
+ci bhp 92@3200
+ci etype Fully synchronized
+ci lube Pressure to all bearings excluding wrist pin
+ci rhp 32.5
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ftype Regular grade - 91 octane
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci cool 11.9 Quarts
+ci rad Tubular and fin
+ci cool Water pump
+ci equip 351 cu. in. V8 engine
+ci equip 429 cu. in. V8 engine
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip 400 cu. in. V8 engine
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip 460 cu. in. V8 engine
+ci equip Bias Belted White Side-Wall Tires
+ci equip 3-Way Tailgate
+ci equip Tinted Glass (Windshield only)
+ci equip Station Wagon Third Seat
+ci equip Power Brakes
+ci equip Power Door Locks
+ci equip Select Shift Automatic Transmission
+ci equip Power Windows (side)
+ci equip Six-Way Power Seat (Bench)
+ci equip White Sidewall Tires
+ci equip Defroster-Rear Window
+ci equip a/c-Manual Temperature Control
+ci equip Bucket Seats
+ci equip Power Steering
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci 2gear 1.75
+ci gears 3
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 1gear 2.99
+ci 3gear 1
+ci rev 3.17
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 4818, 3(\w)08(\w)([\dX]{6})
+clv 19248, 1973, Mercury, Montego MX 6, Station Wagon
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 7012
+ci origin United States
+ci msrp $3340.00
+ci year 1973
+ci make Mercury
+ci series Montego MX 6
+ci maker Mercury
+ci weight 4262
+ci model 71D
+ci doors 4
+ci fbsize 10.7
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci ebrake Rear wheels
+ci tcase -NA-
+ci fuel 22.5
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.25
+ci diff Hypoid
+ci rtred 62.9
+ci ftred 62.8
+ci width 79.6
+ci length 218.5
+ci height 55
+ci wbase 118
+ci lube Pressure to all bearings excluding wrist pin
+ci cyl 6
+ci vlift Hydraulic
+ci disp 250
+ci rhp 32.5
+ci b&s 3.68 & 3.91
+ci trq 197@1600
+ci etype Fully synchronized
+ci comp 8.0
+ci bhp 92@3200
+ci etype Inline 6. Overhead valve
+ci etype Single downdraft
+ci mbear 7
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci cool 11.9 Quarts
+ci rad Tubular and fin
+ci ign Distributor and coil
+ci batt 12
+ci ftype Regular grade - 91 octane
+ci cool Water pump
+ci exha Single
+ci equip Power Steering
+ci equip Defroster-Rear Window
+ci equip White Sidewall Tires
+ci equip Tinted Glass (Windshield only)
+ci equip Bucket Seats
+ci equip Bias Belted White Side-Wall Tires
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip 460 cu. in. V8 engine
+ci equip Station Wagon Third Seat
+ci equip Six-Way Power Seat (Bench)
+ci equip Power Brakes
+ci equip Power Door Locks
+ci equip 3-Way Tailgate
+ci equip Power Windows (side)
+ci equip 429 cu. in. V8 engine
+ci equip 351 cu. in. V8 engine
+ci equip 400 cu. in. V8 engine
+ci equip Select Shift Automatic Transmission
+ci equip 4-Speed Manual Transmission w/Hurst Shifter
+ci equip a/c-Manual Temperature Control
+ci sgear Recirculating ball and nut
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci gears 3
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 3.17
+ci 3gear 1
+ci 2gear 1.75
+ci 1gear 2.99
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize F78 x 14
+ci sloc Trunk
+cls 4819, 3(\w)56(\w)([\dX]{6})
+clv 19249, 1973, Mercury, Monterey Custom, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $4123.00
+ci origin United States
+ci series Monterey Custom
+ci year 1973
+ci make Mercury
+ci maker Mercury
+ci weight 4490
+ci doors 2
+ci model 65F
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci fbsize 11.7
+ci bsize 11
+ci fuel 22
+ci oil 4
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 53.9
+ci rtred 64.3
+ci ftred 63.3
+ci length 222.5
+ci width 79.6
+ci wbase 124
+ci cyl 8
+ci comp 8.0
+ci b&s 4 & 4
+ci bhp 171@3600
+ci trq 314@2000
+ci etype Select Shift automatic
+ci disp 400
+ci rhp 51.2
+ci etype Dual downdraft
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype V8 Overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci exha Single
+ci ign Distributor and coil
+ci cool 18 Quarts
+ci cool Water pump
+ci rad Tubular and fin
+ci batt 12
+ci ftype Regular grade - 91 octane
+ci equip Power Windows (side)
+ci equip a/c-Manual Temperature Control
+ci equip Power Mini-Vent Windows
+ci equip Power Operated Sun Roof
+ci equip a/c-Automatic Temperature Control
+ci equip Power brakes
+ci equip Lock Convenience Group
+ci equip Power steering
+ci equip 429 cu. in. V8 engine
+ci equip 460 cu. in. V8 engine
+ci equip AM FM Stereo Multiplex Radio
+ci equip Defroster-Rear Window
+ci equip Six-Way Power Seat (Bench)
+ci equip Air conditioning
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 X 15
+ci sloc Trunk
+cls 4820, 3(\w)58(\w)([\dX]{6})
+clv 19250, 1973, Mercury, Monterey Custom, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci year 1973
+ci make Mercury
+ci series Monterey Custom
+ci doors 4
+ci model 57F
+ci maker Mercury
+ci fbsize 11.7
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci bsize 11
+ci fuel 22
+ci tcase -NA-
+ci oil 4
+ci carb Motorcraft
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 55.3
+ci rtred 64.3
+ci length 222.5
+ci ftred 63.3
+ci width 79.6
+ci wbase 124
+ci cyl 8
+ci comp 8.0
+ci b&s 4 & 4
+ci bhp 171@3600
+ci trq 314@2000
+ci etype Select Shift automatic
+ci disp 400
+ci rhp 51.2
+ci etype Dual downdraft
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype V8 Overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci exha Single
+ci ign Distributor and coil
+ci cool 18 Quarts
+ci cool Water pump
+ci rad Tubular and fin
+ci batt 12
+ci ftype Regular grade - 91 octane
+ci equip Power brakes
+ci equip a/c-Manual Temperature Control
+ci equip Power Mini-Vent Windows
+ci equip Power Operated Sun Roof
+ci equip Power Windows (side)
+ci equip a/c-Automatic Temperature Control
+ci equip Lock Convenience Group
+ci equip Power steering
+ci equip 429 cu. in. V8 engine
+ci equip 460 cu. in. V8 engine
+ci equip AM FM Stereo Multiplex Radio
+ci equip Defroster-Rear Window
+ci equip Six-Way Power Seat (Bench)
+ci equip Air conditioning
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 X 15
+ci sloc Trunk
+cls 4821, 3(\w)54(\w)([\dX]{6})
+clv 19251, 1973, Mercury, Monterey Custom, Pillared Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci series Monterey Custom
+ci msrp $4044.00
+ci make Mercury
+ci year 1973
+ci origin United States
+ci maker Mercury
+ci model 53F
+ci weight 4553
+ci doors 4
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci fbsize 11.7
+ci bsize 11
+ci tcase -NA-
+ci oil 4
+ci fuel 22
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci ftred 63.3
+ci length 222.5
+ci height 55.3
+ci width 79.6
+ci rtred 64.3
+ci wbase 124
+ci cyl 8
+ci comp 8.0
+ci b&s 4 & 4
+ci bhp 171@3600
+ci trq 314@2000
+ci etype Select Shift automatic
+ci disp 400
+ci rhp 51.2
+ci etype Dual downdraft
+ci mbear 5
+ci lube Pressure to all bearings excluding wrist pin
+ci vlift Hydraulic
+ci etype V8 Overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci exha Single
+ci ign Distributor and coil
+ci cool 18 Quarts
+ci cool Water pump
+ci rad Tubular and fin
+ci batt 12
+ci ftype Regular grade - 91 octane
+ci equip Power Windows (side)
+ci equip a/c-Manual Temperature Control
+ci equip Power Mini-Vent Windows
+ci equip Power Operated Sun Roof
+ci equip a/c-Automatic Temperature Control
+ci equip Power brakes
+ci equip Lock Convenience Group
+ci equip Power steering
+ci equip 429 cu. in. V8 engine
+ci equip 460 cu. in. V8 engine
+ci equip AM FM Stereo Multiplex Radio
+ci equip Defroster-Rear Window
+ci equip Six-Way Power Seat (Bench)
+ci equip Air conditioning
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 X 15
+ci sloc Trunk
+cls 4822, 3(\w)46(\w)([\dX]{6})
+clv 19252, 1973, Mercury, Monterey, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3920.00
+ci prod 6452
+ci origin United States
+ci year 1973
+ci series Monterey
+ci make Mercury
+ci maker Mercury
+ci doors 2
+ci weight 4401
+ci model 65B
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci fbsize 11.7
+ci bsize 11
+ci fuel 22
+ci oil 4
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci height 53.9
+ci length 222.5
+ci ftred 63.3
+ci rtred 64.3
+ci width 79.6
+ci wbase 124
+ci disp 351
+ci cyl 8
+ci comp 8.0
+ci b&s 4 & 3 1/2
+ci bhp 161@4000
+ci etype Select Shift automatic
+ci etype V8 Overhead valve
+ci mbear 5
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 254@2400
+ci vlift Hydraulic
+ci rhp 51.2
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ftype Regular grade - 91 octane
+ci ign Distributor and coil
+ci cool Water pump
+ci cool 16.3 Quarts
+ci exha Single
+ci batt 12
+ci rad Tubular and fin
+ci equip Power brakes
+ci equip a/c-Manual Temperature Control
+ci equip Power Mini-Vent Windows
+ci equip Power Operated Sun Roof
+ci equip Power Windows (side)
+ci equip a/c-Automatic Temperature Control
+ci equip Lock Convenience Group
+ci equip Power steering
+ci equip 400 cu. in. V8 engine
+ci equip 429 cu. in. V8 engine
+ci equip 460 cu. in. V8 engine
+ci equip Defroster-Rear Window
+ci equip Six-Way Power Seat (Bench)
+ci equip Air conditioning
+ci equip AM FM Stereo Multiplex Radio
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 X 15
+ci sloc Trunk
+cls 4823, 3(\w)48(\w)([\dX]{6})
+clv 19253, 1973, Mercury, Monterey, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci prod 1
+ci year 1973
+ci make Mercury
+ci series Monterey
+ci origin United States
+ci doors 4
+ci maker Mercury
+ci model 57B
+ci fbsize 11.7
+ci ebrake Rear wheels
+ci svc Power front disc rear self-adjusting drum
+ci bsize 11
+ci fuel 22
+ci oil 4
+ci tcase -NA-
+ci carb Motorcraft
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 55.3
+ci wbase 124
+ci length 222.5
+ci width 79.6
+ci ftred 63.3
+ci rtred 64.3
+ci etype V8 Overhead valve
+ci cyl 8
+ci trq 254@2400
+ci disp 351
+ci rhp 51.2
+ci etype Select Shift automatic
+ci mbear 5
+ci bhp 161@4000
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 4 & 3 1/2
+ci vlift Hydraulic
+ci comp 8.0
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci cool Water pump
+ci batt 12
+ci exha Single
+ci ign Distributor and coil
+ci cool 16.3 Quarts
+ci rad Tubular and fin
+ci ftype Regular grade - 91 octane
+ci equip Power brakes
+ci equip a/c-Manual Temperature Control
+ci equip Power Mini-Vent Windows
+ci equip Power Operated Sun Roof
+ci equip Power Windows (side)
+ci equip a/c-Automatic Temperature Control
+ci equip Lock Convenience Group
+ci equip Power steering
+ci equip 400 cu. in. V8 engine
+ci equip 429 cu. in. V8 engine
+ci equip 460 cu. in. V8 engine
+ci equip Defroster-Rear Window
+ci equip Six-Way Power Seat (Bench)
+ci equip Air conditioning
+ci equip AM FM Stereo Multiplex Radio
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 X 15
+ci sloc Trunk
+cls 4824, 3(\w)44(\w)([\dX]{6})
+clv 19254, 1973, Mercury, Monterey, Pillared Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci year 1973
+ci series Monterey
+ci msrp $3881.00
+ci prod 16622
+ci origin United States
+ci weight 4464
+ci maker Mercury
+ci doors 4
+ci model 53B
+ci fbsize 11.7
+ci ebrake Rear wheels
+ci bsize 11
+ci svc Power front disc rear self-adjusting drum
+ci fuel 22
+ci tcase -NA-
+ci oil 4
+ci carb Motorcraft
+ci ctype Not applicable
+ci diff Hypoid
+ci diffr 2.75
+ci wbase 124
+ci rtred 64.3
+ci width 79.6
+ci height 55.3
+ci ftred 63.3
+ci length 222.5
+ci comp 8.0
+ci cyl 8
+ci rhp 51.2
+ci trq 254@2400
+ci mbear 5
+ci etype Select Shift automatic
+ci disp 351
+ci bhp 161@4000
+ci etype Dual downdraft
+ci lube Pressure to all bearings excluding wrist pin
+ci etype V8 Overhead valve
+ci vlift Hydraulic
+ci b&s 4 & 3 1/2
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci rad Tubular and fin
+ci batt 12
+ci ign Distributor and coil
+ci ftype Regular grade - 91 octane
+ci cool Water pump
+ci exha Single
+ci cool 16.3 Quarts
+ci equip Power brakes
+ci equip a/c-Manual Temperature Control
+ci equip Power Mini-Vent Windows
+ci equip Power Operated Sun Roof
+ci equip Power Windows (side)
+ci equip a/c-Automatic Temperature Control
+ci equip Lock Convenience Group
+ci equip Power steering
+ci equip 400 cu. in. V8 engine
+ci equip 429 cu. in. V8 engine
+ci equip 460 cu. in. V8 engine
+ci equip Defroster-Rear Window
+ci equip Six-Way Power Seat (Bench)
+ci equip Air conditioning
+ci equip AM FM Stereo Multiplex Radio
+ci sgear Power
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci tsize HR78 X 15
+ci sloc Trunk
+cls 4825, 3(\w)72(\w)([\dX]{6})
+clv 19255, 1973, Mercury, Monterey, Station Wagon
+ser 6 500000 999999
+ci axle Semifloating
+ci origin United States
+ci msrp $4300.00
+ci year 1973
+ci make Mercury
+ci prod 4275
+ci series Monterey
+ci maker Mercury
+ci doors 4
+ci model 71B
+ci weight 4887
+ci fbsize 11.7
+ci svc Power front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci bsize 11
+ci fuel 22
+ci tcase -NA-
+ci oil 4
+ci carb Motorcraft
+ci ctype Not applicable
+ci diffr 2.75
+ci diff Hypoid
+ci height 57.1
+ci wbase 124
+ci length 223.4
+ci ftred 63.3
+ci rtred 64.3
+ci width 79.8
+ci b&s 4 & 3 1/2
+ci cyl 8
+ci comp 8.0
+ci etype Select Shift automatic
+ci disp 351
+ci trq 254@2400
+ci mbear 5
+ci bhp 161@4000
+ci rhp 51.2
+ci etype V8 Overhead valve
+ci vlift Hydraulic
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Dual downdraft
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ign Distributor and coil
+ci rad Tubular and fin
+ci exha Single
+ci ftype Regular grade - 91 octane
+ci cool 16.3 Quarts
+ci cool Water pump
+ci batt 12
+ci equip Power Operated Sun Roof
+ci equip Defroster-Rear Window
+ci equip Power Mini-Vent Windows
+ci equip Air conditioning
+ci equip Power Windows (side)
+ci equip Power brakes
+ci equip AM FM Stereo Multiplex Radio
+ci equip a/c-Manual Temperature Control
+ci equip 460 cu. in. V8 engine
+ci equip a/c-Automatic Temperature Control
+ci equip 429 cu. in. V8 engine
+ci equip Lock Convenience Group
+ci equip 400 cu. in. V8 engine
+ci equip Six-Way Power Seat (Bench)
+ci equip Power steering
+ci sgear Power
+ci fsus Independent ball joint with coil springs
+ci rsus Coil springs
+ci drive Rear wheel drive
+ci gears 3
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize JR78 X 15
+cls 4826, 3(\w)11(\w)([\dX]{6})
+clv 19256, 1973, Mercury, MX Brougham 6, Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci series MX Brougham 6
+ci year 1973
+ci msrp $3034.00
+ci prod 40951
+ci maker Mercury
+ci weight 3829
+ci doors 2
+ci model 65K
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci ebrake Rear wheels
+ci fbsize 10.7
+ci tcase -NA-
+ci oil 4
+ci fuel 22.5
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci ftred 62.8
+ci rtred 62.9
+ci width 78.6
+ci length 211.3
+ci wbase 118
+ci height 52.2
+ci etype Fully synchronized
+ci vlift Hydraulic
+ci rhp 32.5
+ci b&s 3.68 & 3.91
+ci mbear 7
+ci etype Single downdraft
+ci comp 8.0
+ci bhp 92@3200
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 250
+ci trq 197@1600
+ci etype Inline 6. Overhead valve
+ci cyl 6
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci cool 11.9 Quarts
+ci cool Water pump
+ci ftype Regular grade - 91 octane
+ci ign Distributor and coil
+ci exha Single
+ci rad Tubular and fin
+ci batt 12
+ci equip Power Steering
+ci equip a/c-Manual Temperature Control
+ci equip Defroster-Rear Window
+ci equip White Sidewall Tires
+ci equip Bias Belted White Side-Wall Tires
+ci equip Tinted Glass (Windshield only)
+ci equip Six-Way Power Seat (Bench)
+ci equip Power Brakes
+ci equip Power Door Locks
+ci equip 351 cu. in. V8 engine
+ci equip Power Windows (side)
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip 400 cu. in. V8 engine
+ci equip 460 cu. in. V8 engine
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci rev 3.17
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 3gear 1
+ci 1gear 2.99
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 4827, 3(\w)10(\w)([\dX]{6})
+clv 19257, 1973, Mercury, MX Brougham 6, Pillared Hardtop
+ser 6 500000 999999
+ci axle Semifloating
+ci msrp $3024.00
+ci origin United States
+ci make Mercury
+ci series MX Brougham 6
+ci prod 24329
+ci year 1973
+ci weight 3908
+ci maker Mercury
+ci model 53K
+ci doors 4
+ci ebrake Rear wheels
+ci svc Front disc rear self-adjusting drum
+ci bsize 10
+ci fbsize 10.7
+ci tcase -NA-
+ci fuel 22.5
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diffr 3.25
+ci diff Hypoid
+ci height 53
+ci wbase 118
+ci width 78.6
+ci length 215.3
+ci ftred 62.8
+ci rtred 62.9
+ci trq 197@1600
+ci cyl 6
+ci vlift Hydraulic
+ci etype Fully synchronized
+ci mbear 7
+ci rhp 32.5
+ci comp 8.0
+ci bhp 92@3200
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3.68 & 3.91
+ci etype Single downdraft
+ci disp 250
+ci etype Inline 6. Overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci rad Tubular and fin
+ci cool Water pump
+ci exha Single
+ci ign Distributor and coil
+ci batt 12
+ci cool 11.9 Quarts
+ci ftype Regular grade - 91 octane
+ci equip Power Steering
+ci equip a/c-Manual Temperature Control
+ci equip Defroster-Rear Window
+ci equip White Sidewall Tires
+ci equip Bias Belted White Side-Wall Tires
+ci equip Tinted Glass (Windshield only)
+ci equip Six-Way Power Seat (Bench)
+ci equip Power Brakes
+ci equip Power Door Locks
+ci equip 351 cu. in. V8 engine
+ci equip Power Windows (side)
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip 400 cu. in. V8 engine
+ci equip 460 cu. in. V8 engine
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci rev 3.17
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 3gear 1
+ci 1gear 2.99
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14
+cls 4828, 3(\w)18(\w)([\dX]{6})
+clv 19258, 1973, Mercury, MX Brougham 6, Villager
+ser 6 500000 999999
+ci axle Semifloating
+ci make Mercury
+ci origin United States
+ci series MX Brougham 6
+ci prod 12396
+ci msrp $3514.00
+ci year 1973
+ci doors 4
+ci maker Mercury
+ci model 71K
+ci weight 4285
+ci fbsize 10.7
+ci ebrake Rear wheels
+ci bsize 10
+ci svc Front disc rear self-adjusting drum
+ci fuel 22.5
+ci tcase -NA-
+ci oil 4
+ci carb Carter
+ci ctype Single dry plate
+ci diff Hypoid
+ci diffr 3.25
+ci ftred 62.8
+ci width 79.6
+ci wbase 118
+ci height 55
+ci length 218.5
+ci rtred 62.9
+ci cyl 6
+ci vlift Hydraulic
+ci trq 197@1600
+ci mbear 7
+ci rhp 32.5
+ci b&s 3.68 & 3.91
+ci comp 8.0
+ci bhp 92@3200
+ci lube Pressure to all bearings excluding wrist pin
+ci etype Single downdraft
+ci disp 250
+ci etype Fully synchronized
+ci etype Inline 6. Overhead valve
+ci color Exterior Colors
+co All colors may not be available in all models.
+co Black
+co Bright Blue Metallic
+co Bright Green Gold Metallic
+co Bright Lime
+co Bright Red
+co Dark Green Metallic
+co Ginger Glamour Metallic
+co Ginger Metallic
+co Gold Glamour Metallic
+co Light Blue
+co Light Goldenrod
+co Light Green
+co Medium Aqua
+co Medium Blue Metallic
+co Medium Bright Yellow
+co Medium Chestnut Metallic
+co Medium Gold Metallic
+co Medium Green Metallic
+co Medium Ivy Bronze Metallic
+co Pewter Metallic
+co Red Metallic
+co Silver Blue Metallic
+co Tan
+co White
+co Yellow
+ci ftype Regular grade - 91 octane
+ci cool Water pump
+ci cool 11.9 Quarts
+ci ign Distributor and coil
+ci batt 12
+ci exha Single
+ci rad Tubular and fin
+ci equip Power Steering
+ci equip a/c-Manual Temperature Control
+ci equip Defroster-Rear Window
+ci equip White Sidewall Tires
+ci equip Bias Belted White Side-Wall Tires
+ci equip Tinted Glass (Windshield only)
+ci equip Six-Way Power Seat (Bench)
+ci equip Power Brakes
+ci equip Power Door Locks
+ci equip 351 cu. in. V8 engine
+ci equip Power Windows (side)
+ci equip AM/FM Multiplex Radio w/Stereo Tape Player
+ci equip 400 cu. in. V8 engine
+ci equip 460 cu. in. V8 engine
+ci equip Select Shift Automatic Transmission
+ci equip 429 cu. in. V8 engine
+ci sgear Recirculating ball and nut
+ci rsus Coil springs
+ci fsus Independent ball joint with coil springs
+ci gears 3
+ci rev 3.17
+ci drive Rear wheel drive
+ci 2gear 1.75
+ci 3gear 1
+ci 1gear 2.99
+ci 5gear Not applicable
+ci vloc On plate on top of left side of dashboard visible through windshield.
+ci sloc Trunk
+ci tsize F78 x 14

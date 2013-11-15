@@ -1,0 +1,1394 @@
+cls 984, A53(\w)([\dX]{6})
+clv 5040, 1953, Chevrolet, 150 Special, Business Coupe
+ci axle Semifloating
+ci year 1953
+ci msrp $1395.00
+ci series 150 Special
+ci prod 13555
+ci origin United States
+ci make Chevrolet
+ci maker Fisher
+ci model 1504
+ci doors 2
+ci weight 3140
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci tcase -NA-
+ci trans 1.5
+ci rdiff 3.5
+ci oil 5
+ci fuel 16
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.70
+ci diff Hypoid
+ci wbase 115
+ci length 195.5
+ci height 63.125
+ci ftred 56 11/16
+ci rtred 58.75
+ci width 75
+ci lube Pressure to all bearings excluding wrist pin
+ci trq 200@2000
+ci etype In line Valve-in-head
+ci disp 235.5
+ci b&s 3 9/16 & 3 15/16
+ci englo On boss on right side of engine to rear of distributor.
+ci etype Single downdraft
+ci mbear 4
+ci vlift Mechanical
+ci engno LA1001 to LA1183450
+ci bhp 108@3600
+ci etype Helical
+ci rhp 30.4
+ci comp 7.1
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci cool Centrifugal water  pump
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci batt 6
+ci exha Single
+ci rad Cellular
+ci ftype Premium
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 2.94
+ci 2gear 1.68
+ci gears 3
+ci 5gear Not applicable
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 985, A53(\w)([\dX]{6})
+clv 5041, 1953, Chevrolet, 150 Special, Club Coupe
+ci axle Semifloating
+ci msrp $1485.00
+ci prod 6993
+ci origin United States
+ci series 150 Special
+ci year 1953
+ci make Chevrolet
+ci doors 2
+ci maker Fisher
+ci model 1524
+ci weight 3140
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci trans 1.5
+ci fuel 16
+ci tcase -NA-
+ci rdiff 3.5
+ci oil 5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diffr 3.70
+ci diff Hypoid
+ci width 75
+ci wbase 115
+ci ftred 56 11/16
+ci rtred 58.75
+ci length 195.5
+ci height 63.125
+ci mbear 4
+ci trq 200@2000
+ci etype In line Valve-in-head
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 235.5
+ci englo On boss on right side of engine to rear of distributor.
+ci etype Single downdraft
+ci b&s 3 9/16 & 3 15/16
+ci vlift Mechanical
+ci engno LA1001 to LA1183450
+ci bhp 108@3600
+ci etype Helical
+ci rhp 30.4
+ci comp 7.1
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci cool Centrifugal water  pump
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci batt 6
+ci exha Single
+ci rad Cellular
+ci ftype Premium
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 2.94
+ci 2gear 1.68
+ci gears 3
+ci 5gear Not applicable
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 986, A53(\w)([\dX]{6})
+clv 5042, 1953, Chevrolet, 150 Special, Handyman Station Wagon
+ci axle Semifloating
+ci msrp $1845.00
+ci prod 22408
+ci origin United States
+ci make Chevrolet
+ci year 1953
+ci series 150 Special
+ci model 1509
+ci weight 3420
+ci maker Fisher
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci fuel 16
+ci trans 1.5
+ci rdiff 3.5
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.70
+ci length 197.875
+ci width 75
+ci wbase 115
+ci ftred 56 11/16
+ci rtred 58.75
+ci height 63.125
+ci bhp 108@3600
+ci etype Single downdraft
+ci comp 7.1
+ci trq 200@2000
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On boss on right side of engine to rear of distributor.
+ci disp 235.5
+ci rhp 30.4
+ci vlift Mechanical
+ci engno LA1001 to LA1183450
+ci etype In line Valve-in-head
+ci b&s 3 9/16 & 3 15/16
+ci etype Helical
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci rad Cellular
+ci ftype Premium
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci batt 6
+ci cool Centrifugal water  pump
+ci exha Single
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci 5gear Not applicable
+ci gears 3
+ci rev 2.94
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 987, A53(\w)([\dX]{6})
+clv 5043, 1953, Chevrolet, 150 Special, Sedan
+ci axle Semifloating
+ci prod 79416
+ci series 150 Special
+ci origin United States
+ci msrp $1479.00
+ci make Chevrolet
+ci year 1953
+ci weight 3180
+ci doors 2
+ci model 1502
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci rdiff 3.5
+ci tcase -NA-
+ci trans 1.5
+ci oil 5
+ci fuel 16
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 195.5
+ci wbase 115
+ci ftred 56 11/16
+ci rtred 58.75
+ci height 63.125
+ci width 75
+ci vlift Mechanical
+ci comp 7.1
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci rhp 30.4
+ci englo On boss on right side of engine to rear of distributor.
+ci trq 200@2000
+ci b&s 3 9/16 & 3 15/16
+ci bhp 108@3600
+ci engno LA1001 to LA1183450
+ci etype Single downdraft
+ci etype In line Valve-in-head
+ci disp 235.5
+ci etype Helical
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci cool Centrifugal water  pump
+ci ign Distributor and coil
+ci ftype Premium
+ci exha Single
+ci cool 15 Quarts
+ci rad Cellular
+ci batt 6
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 5gear Not applicable
+ci rev 2.94
+ci 3gear 1
+ci gears 3
+ci 2gear 1.68
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 988, A53(\w)([\dX]{6})
+clv 5044, 1953, Chevrolet, 150 Special, Sedan
+ci axle Semifloating
+ci make Chevrolet
+ci series 150 Special
+ci origin United States
+ci msrp $1530.00
+ci year 1953
+ci prod 54207
+ci model 1503
+ci maker Fisher
+ci weight 3215
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci rdiff 3.5
+ci trans 1.5
+ci tcase -NA-
+ci fuel 16
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.70
+ci diff Hypoid
+ci ftred 56 11/16
+ci length 195.5
+ci wbase 115
+ci height 63.125
+ci rtred 58.75
+ci width 75
+ci lube Pressure to all bearings excluding wrist pin
+ci disp 235.5
+ci comp 7.1
+ci b&s 3 9/16 & 3 15/16
+ci trq 200@2000
+ci englo On boss on right side of engine to rear of distributor.
+ci bhp 108@3600
+ci etype Single downdraft
+ci etype In line Valve-in-head
+ci engno LA1001 to LA1183450
+ci rhp 30.4
+ci etype Helical
+ci mbear 4
+ci vlift Mechanical
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci cool Centrifugal water  pump
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci batt 6
+ci exha Single
+ci rad Cellular
+ci ftype Premium
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci 3gear 1
+ci rev 2.94
+ci 2gear 1.68
+ci gears 3
+ci 5gear Not applicable
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 989, A53(\w)([\dX]{6})
+clv 5045, 1953, Chevrolet, 150 Special, Sedan Delivery
+ci axle Semifloating
+ci make Chevrolet
+ci origin United States
+ci series 150 Special
+ci prod 15525
+ci year 1953
+ci maker Fisher
+ci model 1508
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci tcase -NA-
+ci oil 5
+ci rdiff 3.5
+ci trans 1.5
+ci fuel 16
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.70
+ci diff Hypoid
+ci ftred 56 11/16
+ci wbase 115
+ci rtred 58.75
+ci rhp 30.4
+ci mbear 4
+ci comp 7.1
+ci englo On boss on right side of engine to rear of distributor.
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 9/16 & 3 15/16
+ci etype Single downdraft
+ci vlift Mechanical
+ci bhp 108@3600
+ci disp 235.5
+ci etype Helical
+ci trq 200@2000
+ci etype In line Valve-in-head
+ci engno LA1001 to LA1183450
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci rad Cellular
+ci ign Distributor and coil
+ci cool Centrifugal water  pump
+ci batt 6
+ci exha Single
+ci cool 15 Quarts
+ci ftype Premium
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 3gear 1
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 2gear 1.68
+ci rev 2.94
+ci gears 3
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+cls 990, B53(\w)([\dX]{6})
+clv 5046, 1953, Chevrolet, 210 DeLuxe, Club Coupe
+ci axle Semifloating
+ci prod 23961
+ci msrp $1581.00
+ci origin United States
+ci series 210 DeLuxe
+ci make Chevrolet
+ci year 1953
+ci model 2124
+ci weight 3190
+ci maker Fisher
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci trans 1.5
+ci fuel 16
+ci oil 5
+ci rdiff 3.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.70
+ci width 75
+ci wbase 115
+ci length 195.5
+ci ftred 56 11/16
+ci rtred 58.75
+ci height 63.125
+ci mbear 4
+ci disp 235.5
+ci trq 204@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 9/16 & 3 15/16
+ci englo On boss on right side of engine to rear of distributor.
+ci etype Single downdraft
+ci bhp 115@3600
+ci engno LA1001 to LA1183450
+ci etype In line Valve-in-head
+ci rhp 30.4
+ci etype Helical
+ci vlift Hydraulic
+ci comp 7.5
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci ftype Premium
+ci batt 6
+ci rad Cellular
+ci cool Centrifugal water  pump
+ci equip Powerglide automatic transmission
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci rev 2.94
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 991, B53(\w)([\dX]{6})
+clv 5047, 1953, Chevrolet, 210 DeLuxe, Convertible Coupe
+ci axle Semifloating
+ci msrp $1921.00
+ci prod 5617
+ci origin United States
+ci year 1953
+ci make Chevrolet
+ci series 210 DeLuxe
+ci maker Fisher
+ci weight 3435
+ci doors 2
+ci model 2134
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci trans 1.5
+ci tcase -NA-
+ci fuel 16
+ci rdiff 3.5
+ci oil 5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci height 63.125
+ci width 75
+ci ftred 56 11/16
+ci wbase 115
+ci rtred 58.75
+ci length 195.5
+ci rhp 30.4
+ci lube Pressure to all bearings excluding wrist pin
+ci mbear 4
+ci b&s 3 9/16 & 3 15/16
+ci disp 235.5
+ci englo On boss on right side of engine to rear of distributor.
+ci trq 204@2000
+ci etype Single downdraft
+ci engno LA1001 to LA1183450
+ci etype In line Valve-in-head
+ci bhp 115@3600
+ci etype Helical
+ci vlift Hydraulic
+ci comp 7.5
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci ftype Premium
+ci batt 6
+ci rad Cellular
+ci cool Centrifugal water  pump
+ci equip Powerglide automatic transmission
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci rev 2.94
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 992, B53(\w)([\dX]{6})
+clv 5048, 1953, Chevrolet, 210 DeLuxe, Handyman Station Wagon
+ci axle Semifloating
+ci msrp $1950.00
+ci series 210 DeLuxe
+ci origin United States
+ci make Chevrolet
+ci year 1953
+ci prod 18258
+ci maker Fisher
+ci weight 3450
+ci model 2109
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci trans 1.5
+ci rdiff 3.5
+ci fuel 16
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.70
+ci diff Hypoid
+ci width 75
+ci length 197.875
+ci wbase 115
+ci ftred 56 11/16
+ci rtred 58.75
+ci height 63.125
+ci etype Single downdraft
+ci trq 204@2000
+ci comp 7.5
+ci mbear 4
+ci disp 235.5
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On boss on right side of engine to rear of distributor.
+ci rhp 30.4
+ci bhp 115@3600
+ci engno LA1001 to LA1183450
+ci etype In line Valve-in-head
+ci etype Helical
+ci b&s 3 9/16 & 3 15/16
+ci vlift Hydraulic
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci batt 6
+ci cool 15 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci 2gear 1.68
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.94
+ci gears 3
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 993, B53(\w)([\dX]{6})
+clv 5049, 1953, Chevrolet, 210 DeLuxe, Sedan
+ci axle Semifloating
+ci prod 247455
+ci msrp $1564.00
+ci origin United States
+ci series 210 DeLuxe
+ci make Chevrolet
+ci year 1953
+ci model 2102
+ci weight 3215
+ci maker Fisher
+ci doors 2
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci tcase -NA-
+ci trans 1.5
+ci fuel 16
+ci oil 5
+ci rdiff 3.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.70
+ci width 75
+ci wbase 115
+ci length 195.5
+ci ftred 56 11/16
+ci rtred 58.75
+ci height 63.125
+ci mbear 4
+ci disp 235.5
+ci trq 204@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci b&s 3 9/16 & 3 15/16
+ci englo On boss on right side of engine to rear of distributor.
+ci etype Single downdraft
+ci bhp 115@3600
+ci engno LA1001 to LA1183450
+ci etype In line Valve-in-head
+ci rhp 30.4
+ci etype Helical
+ci vlift Hydraulic
+ci comp 7.5
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci cool 15 Quarts
+ci ign Distributor and coil
+ci exha Single
+ci ftype Premium
+ci batt 6
+ci rad Cellular
+ci cool Centrifugal water  pump
+ci equip Powerglide automatic transmission
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci rev 2.94
+ci gears 3
+ci drive Rear wheel drive
+ci 3gear 1
+ci 5gear Not applicable
+ci 2gear 1.68
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 994, B53(\w)([\dX]{6})
+clv 5050, 1953, Chevrolet, 210 DeLuxe, Sedan
+ci axle Semifloating
+ci prod 332497
+ci msrp $1615.00
+ci origin United States
+ci year 1953
+ci make Chevrolet
+ci series 210 DeLuxe
+ci maker Fisher
+ci weight 3250
+ci model 2103
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci fuel 16
+ci oil 5
+ci rdiff 3.5
+ci trans 1.5
+ci tcase -NA-
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 195.5
+ci width 75
+ci height 63.125
+ci wbase 115
+ci rtred 58.75
+ci ftred 56 11/16
+ci etype Helical
+ci mbear 4
+ci comp 7.5
+ci rhp 30.4
+ci b&s 3 9/16 & 3 15/16
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On boss on right side of engine to rear of distributor.
+ci trq 204@2000
+ci engno LA1001 to LA1183450
+ci etype In line Valve-in-head
+ci disp 235.5
+ci etype Single downdraft
+ci vlift Hydraulic
+ci bhp 115@3600
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci batt 6
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci exha Single
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.94
+ci gears 3
+ci vloc On left front door hinge pillar
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 995, B53(\w)([\dX]{6})
+clv 5051, 1953, Chevrolet, 210 DeLuxe, Sport Coupe
+ci axle Semifloating
+ci msrp $1805.00
+ci prod 14045
+ci origin United States
+ci series 210 DeLuxe
+ci year 1953
+ci make Chevrolet
+ci model 2154
+ci maker Fisher
+ci doors 2
+ci weight 3295
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci rdiff 3.5
+ci oil 5
+ci trans 1.5
+ci fuel 16
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diffr 3.70
+ci diff Hypoid
+ci width 75
+ci length 195.5
+ci wbase 115
+ci ftred 56 11/16
+ci rtred 58.75
+ci height 63.125
+ci etype Single downdraft
+ci trq 204@2000
+ci comp 7.5
+ci mbear 4
+ci disp 235.5
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On boss on right side of engine to rear of distributor.
+ci rhp 30.4
+ci bhp 115@3600
+ci engno LA1001 to LA1183450
+ci etype In line Valve-in-head
+ci etype Helical
+ci b&s 3 9/16 & 3 15/16
+ci vlift Hydraulic
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci batt 6
+ci cool 15 Quarts
+ci exha Single
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci 2gear 1.68
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.94
+ci gears 3
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 996, B53(\w)([\dX]{6})
+clv 5052, 1953, Chevrolet, 210 DeLuxe, Townsman Station Wagon
+ci axle Semifloating
+ci prod 7988
+ci msrp $2090.00
+ci series 210 DeLuxe
+ci origin United States
+ci year 1953
+ci make Chevrolet
+ci maker Fisher
+ci weight 3495
+ci model 2119
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci fuel 16
+ci oil 5
+ci tcase -NA-
+ci rdiff 3.5
+ci trans 1.5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 197.875
+ci width 75
+ci ftred 56 11/16
+ci wbase 115
+ci height 63.125
+ci rtred 58.75
+ci etype Helical
+ci comp 7.5
+ci mbear 4
+ci rhp 30.4
+ci b&s 3 9/16 & 3 15/16
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On boss on right side of engine to rear of distributor.
+ci trq 204@2000
+ci engno LA1001 to LA1183450
+ci etype In line Valve-in-head
+ci disp 235.5
+ci etype Single downdraft
+ci vlift Hydraulic
+ci bhp 115@3600
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci batt 6
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci exha Single
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.94
+ci gears 3
+ci vloc On left front door hinge pillar
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 997, C53(\w)([\dX]{6})
+clv 5053, 1953, Chevrolet, Bel Air, Convertible Coupe
+ci axle Semifloating
+ci msrp $1998.00
+ci prod 24047
+ci origin United States
+ci series Bel Air
+ci year 1953
+ci make Chevrolet
+ci maker Fisher
+ci model 2434
+ci doors 2
+ci weight 3470
+ci ebrake Rear service brakes
+ci bsize 11
+ci svc 4 wheel hydraulic drum
+ci oil 5
+ci trans 1.5
+ci fuel 16
+ci rdiff 3.5
+ci tcase -NA-
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci ftred 56 11/16
+ci width 75
+ci length 195.5
+ci rtred 58.75
+ci wbase 115
+ci height 63.125
+ci comp 7.5
+ci etype Single downdraft
+ci trq 204@2000
+ci disp 235.5
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On boss on right side of engine to rear of distributor.
+ci rhp 30.4
+ci bhp 115@3600
+ci engno LA1001 to LA1183450
+ci etype In line Valve-in-head
+ci etype Helical
+ci b&s 3 9/16 & 3 15/16
+ci vlift Hydraulic
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci exha Single
+ci cool 15 Quarts
+ci batt 6
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 5gear Not applicable
+ci 2gear 1.68
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.94
+ci gears 3
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 7.1 x 15
+cls 998, C53(\w)([\dX]{6})
+clv 5054, 1953, Chevrolet, Bel Air, Sedan
+ci axle Semifloating
+ci msrp $1669.00
+ci prod 144401
+ci origin United States
+ci series Bel Air
+ci year 1953
+ci make Chevrolet
+ci model 2402
+ci maker Fisher
+ci doors 2
+ci weight 3230
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci oil 5
+ci rdiff 3.5
+ci trans 1.5
+ci fuel 16
+ci tcase -NA-
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.70
+ci ftred 56 11/16
+ci width 75
+ci wbase 115
+ci rtred 58.75
+ci height 63.125
+ci length 195.5
+ci comp 7.5
+ci etype Single downdraft
+ci trq 204@2000
+ci disp 235.5
+ci mbear 4
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On boss on right side of engine to rear of distributor.
+ci rhp 30.4
+ci bhp 115@3600
+ci engno LA1001 to LA1183450
+ci etype In line Valve-in-head
+ci etype Helical
+ci b&s 3 9/16 & 3 15/16
+ci vlift Hydraulic
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci exha Single
+ci cool 15 Quarts
+ci batt 6
+ci ign Distributor and coil
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci sgear Worm & roller
+ci rsus Longitudinal leaf spring
+ci fsus Independent coil springs
+ci 5gear Not applicable
+ci 2gear 1.68
+ci 3gear 1
+ci drive Rear wheel drive
+ci rev 2.94
+ci gears 3
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 999, C53(\w)([\dX]{6})
+clv 5055, 1953, Chevrolet, Bel Air, Sedan
+ci axle Semifloating
+ci year 1953
+ci msrp $1720.00
+ci origin United States
+ci prod 247284
+ci make Chevrolet
+ci series Bel Air
+ci weight 3275
+ci maker Fisher
+ci model 2403
+ci svc 4 wheel hydraulic drum
+ci ebrake Rear service brakes
+ci bsize 11
+ci rdiff 3.5
+ci oil 5
+ci tcase -NA-
+ci fuel 16
+ci trans 1.5
+ci carb Rochester
+ci csize 9.125 inches
+ci ctype Single plate dry disc
+ci diff Hypoid
+ci diffr 3.70
+ci length 195.5
+ci width 75
+ci ftred 56 11/16
+ci wbase 115
+ci height 63.125
+ci rtred 58.75
+ci etype Helical
+ci comp 7.5
+ci mbear 4
+ci rhp 30.4
+ci b&s 3 9/16 & 3 15/16
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On boss on right side of engine to rear of distributor.
+ci trq 204@2000
+ci engno LA1001 to LA1183450
+ci etype In line Valve-in-head
+ci disp 235.5
+ci etype Single downdraft
+ci vlift Hydraulic
+ci bhp 115@3600
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci batt 6
+ci ign Distributor and coil
+ci cool 15 Quarts
+ci exha Single
+ci ftype Premium
+ci cool Centrifugal water  pump
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci 2gear 1.68
+ci rev 2.94
+ci gears 3
+ci vloc On left front door hinge pillar
+ci tsize 6.7 x 15
+ci sloc Trunk
+cls 1000, C53(\w)([\dX]{6})
+clv 5056, 1953, Chevrolet, Bel Air, Sport Coupe
+ci axle Semifloating
+ci series Bel Air
+ci prod 99028
+ci origin United States
+ci make Chevrolet
+ci msrp $1883.00
+ci year 1953
+ci maker Fisher
+ci weight 3310
+ci model 2454
+ci doors 2
+ci bsize 11
+ci ebrake Rear service brakes
+ci svc 4 wheel hydraulic drum
+ci fuel 16
+ci tcase -NA-
+ci trans 1.5
+ci oil 5
+ci rdiff 3.5
+ci carb Rochester
+ci ctype Single plate dry disc
+ci csize 9.125 inches
+ci diff Hypoid
+ci diffr 3.70
+ci rtred 58.75
+ci ftred 56 11/16
+ci wbase 115
+ci length 195.5
+ci width 75
+ci height 63.125
+ci mbear 4
+ci vlift Hydraulic
+ci b&s 3 9/16 & 3 15/16
+ci etype Single downdraft
+ci disp 235.5
+ci lube Pressure to all bearings excluding wrist pin
+ci englo On boss on right side of engine to rear of distributor.
+ci trq 204@2000
+ci comp 7.5
+ci etype In line Valve-in-head
+ci engno LA1001 to LA1183450
+ci etype Helical
+ci rhp 30.4
+ci bhp 115@3600
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Lacquer
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Two Tone Colors Available
+co Woodland Green
+ci batt 6
+ci exha Single
+ci ign Distributor and coil
+ci ftype Premium
+ci cool 15 Quarts
+ci cool Centrifugal water  pump
+ci rad Cellular
+ci equip Powerglide automatic transmission
+ci sgear Worm & roller
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci rev 2.94
+ci 5gear Not applicable
+ci drive Rear wheel drive
+ci 3gear 1
+ci gears 3
+ci 2gear 1.68
+ci vloc On left front door hinge pillar
+ci sloc Trunk
+ci tsize 6.7 x 15
+cls 1001, E53(\w)([\dX]{6})
+clv 5057, 1953, Chevrolet, Corvette, Roadster
+ci axle Semifloating
+ci msrp $3498.00
+ci prod 300
+ci origin United States
+ci series Corvette
+ci year 1953
+ci make Chevrolet
+ci weight 2886
+ci pass 2
+ci maker Fisher
+ci svc 4 wheel hydraulic drum
+ci bsize 11
+ci ebrake Rear service brakes
+ci tcase -NA-
+ci rdiff 3.5
+ci trans 8
+ci fuel 17.25
+ci oil 5
+ci carb Carter
+ci ctype Not applicable
+ci diffr 3.55
+ci diff Hypoid
+ci rtred 59
+ci ftred 57
+ci wbase 102
+ci width 69.8
+ci height 51.5
+ci length 167.3
+ci etype Powerglide automatc
+ci rhp 30.4
+ci englo On boss on right side of engine to rear of distributor.
+ci b&s 3 9/16 & 3 15/16
+ci disp 235.5
+ci etype Sidedraft single
+ci comp 7.1
+ci trq 204@2000
+ci lube Pressure to all bearings excluding wrist pin
+ci bhp 115@3600
+ci vlift Mechanical
+ci engno LA1001 to LA1183450
+ci etype In line Valve-in-head
+ci color Exterior Colors
+co Campus Cream
+co Driftwood Gray
+co Horizon Blue
+co India Ivory
+co Madeira Maroon
+co Onyx Black
+co Sungold
+co Surf Green
+co Target Red
+co Woodland Green
+ci cool Centrifugal water  pump
+ci exha Single
+ci cool 17.8 Quarts
+ci rad Cellular
+ci batt 6
+ci ign Distributor and coil
+ci sgear Worm & sector
+ci fsus Independent coil springs
+ci rsus Longitudinal leaf spring
+ci drive Rear wheel drive
+ci gears 4
+ci tsize 6.7 x 15
+ci ttype Whitewall
+ci sloc Trunk
