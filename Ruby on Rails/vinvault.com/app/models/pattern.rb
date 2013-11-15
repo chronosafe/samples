@@ -109,7 +109,7 @@ class Pattern < ActiveRecord::Base
     self.vin = decode unless decode.nil?
     DT.p "Updating pattern #{value} using vin #{self.vin}"
     updated = false
-    url = "http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&vin=#{vin}&reportType=2"
+    url = "http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&vin=#{vin}&reportType=2"
     response = HTTParty.get(url)
     if response.code == 200 || response.code == 302
       # puts response.body

@@ -31,14 +31,14 @@ describe "Decodes (admin)" do
 
   describe "POST /decodes.html" do
     it "will create a new decode based on a valid VIN" do
-      stub_request(:get, "http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=1D7RB1CT8AS203937").
+      stub_request(:get, "http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=1D7RB1CT8AS203937").
           to_return(:status => 200, :body => @success, :headers => {})
       post decodes_path, :decode => { vin: '1D7RB1CT8AS203937'}
       response.status.should be(302)
     end
 
     it 'will create a new decode for an unknown pattern' do
-      stub_request(:get, 'http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
+      stub_request(:get, 'http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
       post decodes_path, :decode => { vin: '1FTRW08L61KF72278' }
       Pattern.last.value.should eq('1FTRW08L 1')
       Pattern.last.make.should eq('Ford')
@@ -47,7 +47,7 @@ describe "Decodes (admin)" do
     end
 
     it 'will create a new decode for an unknown pattern only once' do
-      stub_request(:get, 'http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
+      stub_request(:get, 'http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
 
       post decodes_path, :decode => { vin: '1FTRW08L61KF72278' }
       Pattern.last.value.should eq('1FTRW08L 1')
@@ -74,7 +74,7 @@ describe "Decodes (admin)" do
   describe "POST /decodes.json" do
 
     it 'will create a new decode for an unknown pattern' do
-      stub_request(:get, 'http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
+      stub_request(:get, 'http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
       post decodes_path, { :decode => { vin: '1FTRW08L61KF72278'}, :format => :json }
       Pattern.last.value.should eq('1FTRW08L 1')
       Pattern.last.make.should eq('Ford')
@@ -83,7 +83,7 @@ describe "Decodes (admin)" do
     end
 
     it 'will create a new decode for an unknown pattern only once' do
-      stub_request(:get, 'http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
+      stub_request(:get, 'http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
       post decodes_path, { :decode => { vin: '1FTRW08L61KF72278' }, :format => :json }
       Pattern.last.value.should eq('1FTRW08L 1')
       Pattern.last.make.should eq('Ford')
@@ -96,7 +96,7 @@ describe "Decodes (admin)" do
     end
 
     it "will create a new decode based on a valid VIN" do
-      stub_request(:get, "http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=1D7RB1CT8AS203937").
+      stub_request(:get, "http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=1D7RB1CT8AS203937").
           to_return(:status => 200, :body => @success, :headers => {})
       post decodes_path, { :decode => { vin: '1D7RB1CT8AS203937'}, :format => :json}
       response.status.should be(201)
@@ -132,7 +132,7 @@ describe "Decodes (admin)" do
   describe "POST /decodes.xml" do
 
     it 'will create a new decode for an unknown pattern' do
-      stub_request(:get, 'http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
+      stub_request(:get, 'http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
 
       post decodes_path, { :decode => { vin: '1FTRW08L61KF72278'}, :format => :xml }
       response.status.should be(201)
@@ -143,7 +143,7 @@ describe "Decodes (admin)" do
     end
 
     it 'will create a new decode for an unknown pattern only once' do
-      stub_request(:get, 'http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
+      stub_request(:get, 'http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
       Pattern.count.should be(2)
       post decodes_path, { :decode => { vin: '1FTRW08L61KF72278' }, :format => :xml }
       Pattern.last.value.should eq('1FTRW08L 1')
@@ -157,7 +157,7 @@ describe "Decodes (admin)" do
     end
 
     it "will create a new decode based on a valid VIN" do
-      stub_request(:get, 'http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=1D7RB1CT8AS203937').
+      stub_request(:get, 'http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=1D7RB1CT8AS203937').
           to_return(:status => 200, :body => @success, :headers => {})
       post decodes_path, { :decode => { vin: '1D7RB1CT8AS203937'}, :format => :xml}
       response.status.should be(201)
@@ -219,7 +219,7 @@ describe "Decodes (basic)" do
 
   describe "POST /decodes.html" do
     it "will create a new decode based on a valid VIN" do
-      stub_request(:get, 'http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=1D7RB1CT8AS203937').
+      stub_request(:get, 'http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=1D7RB1CT8AS203937').
           to_return(:status => 200, :body => @success, :headers => {})
       post decodes_path, :decode => { vin: '1D7RB1CT8AS203937'}
       response.status.should be(302)
@@ -239,7 +239,7 @@ describe "Decodes (basic)" do
   describe 'POST /decodes.json' do
 
     it 'will create a decode for an unknown pattern that has no match' do
-      stub_request(:get, 'http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=6G1YK82A23L116221').to_return(:body => @fail, :status => 200)
+      stub_request(:get, 'http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=6G1YK82A23L116221').to_return(:body => @fail, :status => 200)
 
       post decodes_path, { :decode => { vin: '6G1YK82A23L116221'}, :format => :json }
 
@@ -247,7 +247,7 @@ describe "Decodes (basic)" do
     end
 
     it 'will create a new decode for an unknown pattern' do
-      stub_request(:get, 'http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
+      stub_request(:get, 'http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
 
       post decodes_path, { :decode => { vin: '1FTRW08L61KF72278'}, :format => :json }
       Pattern.last.value.should eq('1FTRW08L 1')
@@ -258,7 +258,7 @@ describe "Decodes (basic)" do
 
     it 'will create a new decode for an unknown pattern only once' do
 
-      stub_request(:get, 'http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
+      stub_request(:get, 'http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=1FTRW08L61KF72278').to_return(:body => @success, :status => 200)
 
       post decodes_path, { :decode => { vin: '1FTRW08L61KF72278' }, :format => :json }
       Pattern.last.value.should eq('1FTRW08L 1')
@@ -272,7 +272,7 @@ describe "Decodes (basic)" do
     end
 
     it "will create a new decode based on a valid VIN" do
-      stub_request(:get, 'http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=1D7RB1CT8AS203937').
+      stub_request(:get, 'http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=1D7RB1CT8AS203937').
           to_return(:status => 200, :body => @success, :headers => {})
       post decodes_path, { :decode => { vin: '1D7RB1CT8AS203937'}, :format => :json}
       response.status.should be(201)
@@ -307,7 +307,7 @@ describe "Decodes (basic)" do
 
   describe "POST /decodes.xml" do
     it "will create a new decode based on a valid VIN" do
-      stub_request(:get, "http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&reportType=2&vin=1D7RB1CT8AS203937").
+      stub_request(:get, "http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&reportType=2&vin=1D7RB1CT8AS203937").
           to_return(:status => 200, :body => @success, :headers => {})
       post decodes_path, { :decode => { vin: '1D7RB1CT8AS203937'}, :format => :xml}
       response.status.should be(201)

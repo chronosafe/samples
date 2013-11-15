@@ -1,7 +1,7 @@
-<VINquery Version="1.0.0" Report_Type="EXTENDED" Date="4/11/2012">
+<decode Version="1.0.0" Report_Type="EXTENDED" Date="4/11/2012">
   <VIN Number="LFYTCKP6330A03469" Status="SUCCESS">
-    <Vehicle VINquery_Vehicle_ID="" Model_Year="2003" Make="常熟轻型摩托" Model="金舰牌" Trim_Level="-">
-      <Item Key="VINquery_Vehicle_ID" Value="No data" Unit="" />
+    <Vehicle decode_Vehicle_ID="" Model_Year="2003" Make="常熟轻型摩托" Model="金舰牌" Trim_Level="-">
+      <Item Key="decode_Vehicle_ID" Value="No data" Unit="" />
       <Item Key="Model Year" Value="2003" Unit="" />
       <Item Key="Make" Value="常熟轻型摩托" Unit="" />
       <Item Key="Model" Value="金舰牌" Unit="" />
@@ -170,8 +170,8 @@
       <Item Key="Tow Hitch Receiver" Value="No data" Unit="" />
       <Item Key="Towing Preparation Package" Value="No data" Unit="" />
     </Vehicle>
-    <Vehicle VINquery_Vehicle_ID="" Model_Year="2003" Make="常熟轻型摩托" Model="朝日牌" Trim_Level="-">
-      <Item Key="VINquery_Vehicle_ID" Value="No data" Unit="" />
+    <Vehicle decode_Vehicle_ID="" Model_Year="2003" Make="常熟轻型摩托" Model="朝日牌" Trim_Level="-">
+      <Item Key="decode_Vehicle_ID" Value="No data" Unit="" />
       <Item Key="Model Year" Value="2003" Unit="" />
       <Item Key="Make" Value="常熟轻型摩托" Unit="" />
       <Item Key="Model" Value="朝日牌" Unit="" />
@@ -341,4 +341,4 @@
       <Item Key="Towing Preparation Package" Value="No data" Unit="" />
     </Vehicle>
   </VIN>
-</VINquery>
+</decode>

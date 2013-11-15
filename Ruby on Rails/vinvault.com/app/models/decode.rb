@@ -266,7 +266,7 @@ class Decode < ActiveRecord::Base
 
 
   def acquire_pattern(vin)
-    url = "http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&vin=#{vin}&reportType=2"
+    url = "http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&vin=#{vin}&reportType=2"
     DT.p "acquiring #{vin} settings: #{Settings.updates_enabled}"
     if Settings.updates_enabled && vin.length == 17 && Decode.checksum(self.vin)
       DT.p "Requesting vin #{vin}"
@@ -282,7 +282,7 @@ class Decode < ActiveRecord::Base
 
   # Update an existing pattern
   def update_pattern
-    #url = "http://www.vinquery.com/ws_POQCXTYNO1D/xml_v100_QA7RTS8Y.aspx?accessCode=2B5018DC-1603-44D8-AB3F-DA27B555E698&vin=#{vin}&reportType=2"
+    #url = "http://www.decode.com/api.aspx?accessCode=UUID_NEEDED&vin=#{vin}&reportType=2"
     #vin = pattern.sample_vin # get a sample VIN
     #response = HTTParty.get(url)
     #if response.code == 200 || response.code == 302

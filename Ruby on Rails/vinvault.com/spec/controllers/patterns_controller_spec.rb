@@ -31,7 +31,7 @@ describe 'Reading XML Post' do
   end
 
   it 'should not read invalid vehicle' do
-    @invalid = "<VINquery></VINquery>"
+    @invalid = "<decode></decode>"
     post :bulk, @invalid, :content_type => 'application/xml'
     Pattern.count.should eq(0)
     #expect(response).to be_success

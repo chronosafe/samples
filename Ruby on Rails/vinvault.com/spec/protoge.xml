@@ -1,7 +1,7 @@
-<VINquery Version="1.0.0" Report_Type="EXTENDED" Date="4/1/2008">
+<decode Version="1.0.0" Report_Type="EXTENDED" Date="4/1/2008">
   <VIN Number="JM1BA1410S0130846" Status="SUCCESS">
-    <Vehicle VINquery_Vehicle_ID="17421" Model_Year="1995" Make="Mazda" Model="Protegé" Trim_Level="DX">
-      <Item Key="VINquery_Vehicle_ID" Value="17421" Unit="" />
+    <Vehicle decode_Vehicle_ID="17421" Model_Year="1995" Make="Mazda" Model="Protegé" Trim_Level="DX">
+      <Item Key="decode_Vehicle_ID" Value="17421" Unit="" />
       <Item Key="Model Year" Value="1995" Unit="" />
       <Item Key="Make" Value="Mazda" Unit="" />
       <Item Key="Model" Value="Protegé" Unit="" />
@@ -170,8 +170,8 @@
       <Item Key="Tow Hitch Receiver" Value="N/A" Unit="" />
       <Item Key="Towing Preparation Package" Value="N/A" Unit="" />
     </Vehicle>
-    <Vehicle VINquery_Vehicle_ID="17422" Model_Year="1995" Make="Mazda" Model="Protegé" Trim_Level="LX">
-      <Item Key="VINquery_Vehicle_ID" Value="17422" Unit="" />
+    <Vehicle decode_Vehicle_ID="17422" Model_Year="1995" Make="Mazda" Model="Protegé" Trim_Level="LX">
+      <Item Key="decode_Vehicle_ID" Value="17422" Unit="" />
       <Item Key="Model Year" Value="1995" Unit="" />
       <Item Key="Make" Value="Mazda" Unit="" />
       <Item Key="Model" Value="Protegé" Unit="" />
@@ -341,4 +341,4 @@
       <Item Key="Towing Preparation Package" Value="N/A" Unit="" />
     </Vehicle>
   </VIN>
-</VINquery>
+</decode>

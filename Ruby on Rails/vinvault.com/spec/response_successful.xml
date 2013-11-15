@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<VINquery Version="1.0.0" Report_Type="EXTENDED" Date="8/9/2013">
+<decode Version="1.0.0" Report_Type="EXTENDED" Date="8/9/2013">
   <VIN Number="1FTRW08L61KF72278" Status="SUCCESS">
-    <Vehicle VINquery_Vehicle_ID="22983" Model_Year="2001" Make="Ford" Model="F-150" Trim_Level="XLT SuperCrew 4WD">
-      <Item Key="VINquery_Vehicle_ID" Value="22983" Unit="" />
+    <Vehicle decode_Vehicle_ID="22983" Model_Year="2001" Make="Ford" Model="F-150" Trim_Level="XLT SuperCrew 4WD">
+      <Item Key="decode_Vehicle_ID" Value="22983" Unit="" />
       <Item Key="Model Year" Value="2001" Unit="" />
       <Item Key="Make" Value="Ford" Unit="" />
       <Item Key="Model" Value="F-150" Unit="" />
@@ -171,8 +171,8 @@
       <Item Key="Tow Hitch Receiver" Value="Opt." Unit="" />
       <Item Key="Towing Preparation Package" Value="Opt." Unit="" />
     </Vehicle>
-    <Vehicle VINquery_Vehicle_ID="22984" Model_Year="2001" Make="Ford" Model="F-150" Trim_Level="Lariat SuperCrew 4WD">
-      <Item Key="VINquery_Vehicle_ID" Value="22984" Unit="" />
+    <Vehicle decode_Vehicle_ID="22984" Model_Year="2001" Make="Ford" Model="F-150" Trim_Level="Lariat SuperCrew 4WD">
+      <Item Key="decode_Vehicle_ID" Value="22984" Unit="" />
       <Item Key="Model Year" Value="2001" Unit="" />
       <Item Key="Make" Value="Ford" Unit="" />
       <Item Key="Model" Value="F-150" Unit="" />
@@ -341,8 +341,8 @@
       <Item Key="Tow Hitch Receiver" Value="Opt." Unit="" />
       <Item Key="Towing Preparation Package" Value="Opt." Unit="" />
     </Vehicle>
-    <Vehicle VINquery_Vehicle_ID="22985" Model_Year="2001" Make="Ford" Model="F-150" Trim_Level="King Ranch SuperCrew 4WD">
-      <Item Key="VINquery_Vehicle_ID" Value="22985" Unit="" />
+    <Vehicle decode_Vehicle_ID="22985" Model_Year="2001" Make="Ford" Model="F-150" Trim_Level="King Ranch SuperCrew 4WD">
+      <Item Key="decode_Vehicle_ID" Value="22985" Unit="" />
       <Item Key="Model Year" Value="2001" Unit="" />
       <Item Key="Make" Value="Ford" Unit="" />
       <Item Key="Model" Value="F-150" Unit="" />
@@ -512,4 +512,4 @@
       <Item Key="Towing Preparation Package" Value="Opt." Unit="" />
     </Vehicle>
   </VIN>
-</VINquery>
+</decode>
