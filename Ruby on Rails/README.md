@@ -1,6 +1,6 @@
 # Ruby on Rails Code Samples
 
-Included is sample code from my latest project [VIN Vault](http://www.vinvault.com).  It's written using Ruby 2.0.0 and Rails 4.0.  It uses a variety of gems and the `RSpec` test suite for testing.
+Included is sample code from my latest project [VIN Vault](http://www.vinvault.com), which is a work in progress.  It's written using Ruby 2.0.0 and Rails 4.0.  It uses a variety of gems and the `RSpec` test suite for testing.
 
 The site is a subscription site that allows users to sign up for access to the VIN decoding API that I use for my iOS apps.  The site uses [Stripe](http://www.stripe.com) for payment and Devise and CanCan for authentication and authorization.
 
