@@ -25,20 +25,6 @@ class DecodesController < ApplicationController
   def edit
   end
 
-  #def decode
-  #  @vin = params[:vin]
-  #  @pattern = Pattern.find_by_value(Pattern.vin_to_pattern(@vin))
-  #  respond_to do |format|
-  #    if @pattern.nil?
-  #      format.xml { render action: 'show'}
-  #      format.json { render action: 'show'}
-  #    else
-  #      format.xml { render xml: @pattern.errors, status: :unprocessable_entity }
-  #      format.json { render json: @pattern.errors, status: :unprocessable_entity }
-  #    end
-  #  end
-  #end
-
   # POST /decodes
   # POST /decodes.json
   def create
